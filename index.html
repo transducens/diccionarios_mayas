@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilingual Dictionary Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="dictionary-container">
+    <header class="foundation-header">
+        <img src="logo_plfm.jpg" alt="Logo de la Fundación" class="foundation-logo">
+	<span class="foundation-name">Proyecto Lingüístico Francisco Marroquín</span>
+        <div class="header-text">
+            <!-- <h1 id="dictionaryTitle">Cargando diccionario...</h1> -->
+            <p id="dictionaryAuthor" class="author-credits"></p>
+        </div>
+    </header>
+
+    <hr class="divider">
+
+    <div class="dictionary-container">
+        <h1 id="dictionaryTitle">Diccionario bilingüe</h1>
+        <p id="dictionaryAuthor" class="author-credits"></p>
+
+        <label for="languageSelect">Elija un diccionario:</label>
+        <select id="languageSelect">
+            <option value="cak">Kaqchikel ➔ Español</option>
+	    <option value="quc">K'iche' ➔ Español</option>
+            <option value="kek">Q'eqchi' ➔ Español</option>
+            <option value="mam">Mam ➔ Español</option>
+        </select>
+
+        <div class="search-box">
+            <input type="text" id="wordInput" placeholder="Type a word (e.g., Tata'aj)...">
+            <button id="searchBtn">Search</button>
+        </div>
+
+        <div id="resultBox" class="result-box hidden">
+            <h2 id="resultWord">Word</h2>
+            <p id="resultDefinition"></p>
+            <p id="additionalText" class="notes"></p>
+
+            <h3>Examples:</h3>
+            <ul id="examplesList"></ul>
+        </div>
+
+        <p id="errorMessage" class="error hidden"></p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
