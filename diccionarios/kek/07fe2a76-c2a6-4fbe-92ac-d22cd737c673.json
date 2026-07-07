@@ -1,0 +1,23 @@
+{
+  "entryWord": "Rajbʼal",
+  "definition": "Por eso o esto",
+  "additional_text": "Adv var Ajok",
+  "examples": [
+    {
+      "example_maya": "Xkam laj Samel aʼan rajbʼal naq inkʼaʼ xkohin Watemaal",
+      "example_spa": "Se murió Samuel, por eso no me fui a Guatemala",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rajbʼal xinye aawe",
+      "example_spa": "Por eso te lo dije",
+      "dialect": null
+    }
+  ],
+  "uuid": "07fe2a76-c2a6-4fbe-92ac-d22cd737c673",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

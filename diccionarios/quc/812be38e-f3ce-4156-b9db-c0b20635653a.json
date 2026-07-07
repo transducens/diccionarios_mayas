@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tochʼotobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katochʼotobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al lastimarse con machete",
+  "definitionDialect": "Spanish",
+  "additional_text": "vi Raiz VT Tochʼ",
+  "examples": [
+    {
+      "example_maya": "Xtochʼotobʼ li chʼichʼ chwa nuchʼek, are taq xinsok wibʼ",
+      "example_spa": "El machete sonó cuando me corté la pierna",
+      "dialect": null
+    }
+  ],
+  "uuid": "812be38e-f3ce-4156-b9db-c0b20635653a"
+}

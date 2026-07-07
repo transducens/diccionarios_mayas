@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajkem",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajkem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tejedora, tejedor",
+  "definitionDialect": "Español",
+  "additional_text": "sInv SPl Ajkemaabʼ Tejedoras (pl) Keem",
+  "examples": [
+    {
+      "example_maya": "Li ajkem sibʼalaj jeʼl taq li atzʼyaq kukemoh",
+      "example_spa": "La tejedora elabora bonitos tejidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4558ade9-ca5d-45a7-915a-7981be2900a8"
+}

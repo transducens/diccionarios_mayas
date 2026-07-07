@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nakaklabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kanakaklabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fallar al tratar de hacer algo rápidamente",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz vi Nak",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kanakaklabʼ chubʼanik li qʼojon",
+      "example_spa": "El hombre falla al tocar la marimba",
+      "dialect": null
+    }
+  ],
+  "uuid": "c6e6312a-b666-4dfd-a12c-f985622f3122"
+}

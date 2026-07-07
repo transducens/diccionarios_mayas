@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kojik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkojoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Usar; poner ropa, sombrero; creer; meter; llamar (nombrar o poner nombre)",
+  "definitionDialect": "Ant. Koolanik. Raíz VT. Koj.",
+  "additional_text": "VTR VTD Kojojexik Creer; meter completamente F Koojik aqan Patear F Koojik bʼiiʼ Llamar, ponerle nombre",
+  "examples": [
+    {
+      "example_maya": "Li achih kukoj li upowiʼ",
+      "example_spa": "El hombre va a ponerse el sombrero",
+      "dialect": null
+    },
+    {
+      "example_maya": "In kinkojoh, jasa li xubʼij li numam chwech",
+      "example_spa": "Yo creo lo que me dijo mi abuelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li neʼ xkʼojiʼk, a Teʼk ubʼiʼ kaqakoj nah",
+      "example_spa": "Al niño que nació, le llamaremos Diego",
+      "dialect": null
+    }
+  ],
+  "uuid": "2296db13-7cf7-4631-85eb-16b4cfe9851e"
+}

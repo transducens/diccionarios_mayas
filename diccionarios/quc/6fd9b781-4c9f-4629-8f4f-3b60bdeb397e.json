@@ -1,0 +1,19 @@
+{
+  "entryWord": "Titzʼilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Denso; espeso; tupido",
+  "definitionDialect": "general",
+  "additional_text": "p Raíz P Titzʼ",
+  "examples": [
+    {
+      "example_maya": "Pa li titzʼilik kʼacheʼlaj e kʼo koj",
+      "example_spa": "En las montañas espesas se encuentran leones",
+      "dialect": null
+    }
+  ],
+  "uuid": "6fd9b781-4c9f-4629-8f4f-3b60bdeb397e"
+}

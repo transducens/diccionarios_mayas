@@ -1,0 +1,23 @@
+{
+  "entryWord": "Taxerx (taxerïx)",
+  "definition": "Tijera",
+  "additional_text": "sInv Nutaxerïx Chʼichʼ, samajibʼäl Tijera",
+  "examples": [
+    {
+      "example_maya": "Ri taxerx nkʼatzin chi naqupij tziyäq rikʼin",
+      "example_spa": "La tijera sirve para cortar telas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nutaxérix man jun chïk nuqupij ta ri tzyäq",
+      "example_spa": "Mi tijera ya no corta tela",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc9724ba-165f-4c21-864e-3cb05c5a0bdf",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

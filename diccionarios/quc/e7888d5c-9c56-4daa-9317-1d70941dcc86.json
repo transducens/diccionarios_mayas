@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼulubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Palo que se usa en el tejido; carrizo se usa para techos",
+  "definitionDialect": "",
+  "additional_text": "scv Nutzʼuluubʼ",
+  "examples": [
+    {
+      "example_maya": "Waʼ we cheʼ riʼ, are kachapow li kem",
+      "example_spa": "Este palo es el que agarra el tejido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼulubʼ, pa taq swan kakʼiy wih, kok xuq chech wokbʼal ja",
+      "example_spa": "El carrizo crece en los barrancos y se usa para construcción de casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e7888d5c-9c56-4daa-9317-1d70941dcc86"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chararlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar resbalándose o tambaleándose",
+  "definitionDialect": "Spanish",
+  "additional_text": "VI Kachararlabʼik Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li alah kachararlabʼ pa li xaqʼoʼl",
+      "example_spa": "El muchacho camina resbalándose en el lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "eda6b97d-743d-445a-ac5f-bf0fb4b7a44f"
+}

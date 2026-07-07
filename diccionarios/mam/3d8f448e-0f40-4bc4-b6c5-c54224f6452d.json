@@ -1,0 +1,18 @@
+{
+  "entryWord": "KARSAT",
+  "definition": "cardar",
+  "additional_text": "vt karsal te, karsan, ma bʼaj nkarsana del español carda",
+  "examples": [
+    {
+      "example_maya": "Karsan el tlan nneʼla tat",
+      "example_spa": "Cardá la lana de mi oveja señor",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3d8f448e-0f40-4bc4-b6c5-c54224f6452d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

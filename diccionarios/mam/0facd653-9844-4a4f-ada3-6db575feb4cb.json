@@ -1,0 +1,18 @@
+{
+  "entryWord": "MUQL",
+  "definition": "enterrado, sembrado",
+  "additional_text": "p raíz muq p/t",
+  "examples": [
+    {
+      "example_maya": "Ma muql iyaj tjaqʼ txʼotxʼ",
+      "example_spa": "Ahorita está sembrada la semilla debajo de la tierra",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "0facd653-9844-4a4f-ada3-6db575feb4cb",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sepel\"bʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusepel\"bʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lugar donde se sienta mujer para tejer; alfombra que usan las mujeres para sentarse a tejer; superficie",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz PT Sep",
+  "examples": [
+    {
+      "example_maya": "Li ixoq ukojom usepel\"bʼal chwach uliw",
+      "example_spa": "La mujer tiene la alfombra en el suelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nim li usepel\"bʼal li uwach uliw",
+      "example_spa": "La superficie de la tierra es muy grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a80352c-b900-4676-9021-492a20bca7de"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzapik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Peludo: animal, la cola de una ardilla; albarda; basura",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Paʼtz Raíz P Patz",
+  "examples": [
+    {
+      "example_maya": "Li ujeʼ li kuk sibʼalaj patzapik",
+      "example_spa": "La cola de la ardilla es muy peluda",
+      "dialect": null
+    }
+  ],
+  "uuid": "10a5f315-db8f-4161-9052-629bdecf04ac"
+}

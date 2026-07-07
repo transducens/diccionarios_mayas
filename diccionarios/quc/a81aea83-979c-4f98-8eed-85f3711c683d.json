@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xkoʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Wixkoʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Intestino; tripas",
+  "definitionDialect": "Dom.S. B'aqilaaj.",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li xkoʼl chuxeʼ li qapam kʼo wih",
+      "example_spa": "Los intestinos están abajo del estómago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jastaq kaqatijoh, kokʼow pa li xkoʼl",
+      "example_spa": "Las cosas que comemos pasan por los intestinos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a81aea83-979c-4f98-8eed-85f3711c683d"
+}

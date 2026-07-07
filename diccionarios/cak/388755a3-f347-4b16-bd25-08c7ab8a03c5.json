@@ -1,0 +1,28 @@
+{
+  "entryWord": "Malinïk",
+  "definition": "Dejar de hacer cualquier cosa, abandonar",
+  "additional_text": "vtd Malixik, ninmalij Banoj",
+  "examples": [
+    {
+      "example_maya": "Taq ruʼanun (rubʼanon) kan yibʼe wi bʼa ri Armita, wakamin jumül xinmalij",
+      "example_spa": "Antes me iba un poco a la capital, ahora dejé de ir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nataʼ xumalij ri tikoj kʼum",
+      "example_spa": "Mi papá dejó de sembrar ayote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin xinmalij jubʼaʼ nusamaj",
+      "example_spa": "Yo abandoné un poco mi trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "388755a3-f347-4b16-bd25-08c7ab8a03c5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

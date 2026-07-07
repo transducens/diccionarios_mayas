@@ -1,0 +1,23 @@
+{
+  "entryWord": "Makonïk",
+  "definition": "Quitar la hierba del trigo con la mano",
+  "additional_text": "vt Makoxik, ninmäk Mäk",
+  "examples": [
+    {
+      "example_maya": "Yalan nikos rucheʼel awij täq yamakon pa trigo (kaxlan ixin)",
+      "example_spa": "Se le cansa mucho la espalda a uno cuando se desyerba el trigo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinmäk rupan kaxlan wixin iwir",
+      "example_spa": "Ayer quité los montes del trigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "cdb142a5-ce53-4a1e-adb0-7cd8c4dbe8a3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

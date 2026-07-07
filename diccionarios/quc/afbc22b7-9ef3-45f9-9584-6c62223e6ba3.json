@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuchiʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukuchiʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuchillo",
+  "definitionDialect": "",
+  "additional_text": "sInv Del Cast Cuchillo",
+  "examples": [
+    {
+      "example_maya": "Li kuchiʼl kʼi kachokon wih",
+      "example_spa": "El cuchillo tiene varios usos",
+      "dialect": null
+    }
+  ],
+  "uuid": "afbc22b7-9ef3-45f9-9584-6c62223e6ba3"
+}

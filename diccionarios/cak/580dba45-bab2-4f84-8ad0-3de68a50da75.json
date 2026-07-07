@@ -1,0 +1,18 @@
+{
+  "entryWord": "Puruj",
+  "definition": "Pozol para pollitos, atol de maíz quebrantado",
+  "additional_text": "sInv Nupuruj Sinón Pozol",
+  "examples": [
+    {
+      "example_maya": "Ri taq alajïʼ äkʼ ruyon puruj nkitïj",
+      "example_spa": "Los pollitos sólo comen pozol",
+      "dialect": null
+    }
+  ],
+  "uuid": "580dba45-bab2-4f84-8ad0-3de68a50da75",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

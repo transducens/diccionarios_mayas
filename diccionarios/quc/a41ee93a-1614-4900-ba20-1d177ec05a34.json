@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jupakʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "jupakʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cucharada de comida",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuta chi jupakʼ urikil chech li unan",
+      "example_spa": "El niño pidió otra cucharada de comida a su mamá",
+      "dialect": null
+    }
+  ],
+  "uuid": "a41ee93a-1614-4900-ba20-1d177ec05a34"
+}

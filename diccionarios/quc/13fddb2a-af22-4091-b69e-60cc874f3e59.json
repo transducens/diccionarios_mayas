@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼajanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzʼajanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desteñir",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz PT Tzʼaj",
+  "examples": [
+    {
+      "example_maya": "Li chij oknaq cheh li suʼt xtzʼajanik",
+      "example_spa": "Los hilos del pañuelo se destiñeron",
+      "dialect": null
+    }
+  ],
+  "uuid": "13fddb2a-af22-4091-b69e-60cc874f3e59"
+}

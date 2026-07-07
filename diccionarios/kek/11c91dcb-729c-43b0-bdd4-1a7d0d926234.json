@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kanaak",
+  "definition": "Atrasarse, quedarse, imitar, seguir un ejemplo, asumir un cargo",
+  "additional_text": "vi Xinkana",
+  "examples": [
+    {
+      "example_maya": "Xinkana rikʼin xyiibʼankil inhu, xbʼaan naq junxil xwan jalan inkʼanjel",
+      "example_spa": "Me atrasé en escribir la carta porque antes tuve otro trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Toj yookin raj chi waʼak naq xeʼkohebʼ li wochbʼen ut xinkana injunes",
+      "example_spa": "Todavía estaba comiendo cuando se fueron mis compañeros y me quedé solo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkana saʼ li waqʼim kʼal",
+      "example_spa": "Me atrasé en limpiar la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "11c91dcb-729c-43b0-bdd4-1a7d0d926234",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

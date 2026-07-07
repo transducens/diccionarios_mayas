@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pine ta ne",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aunque",
+  "definitionDialect": "General",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Pine ta ne kojkosik, loqʼ xa kojopan chwa qoʼch chanim",
+      "example_spa": "Aunque nos cansemos mucho, tenemos que llegar pronto a nuestras casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "002e7a23-15e6-4d6c-821b-e5f27939ab90"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kʼisem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Terminarse; gastarse; acabarse",
+  "definitionDialect": "General",
+  "additional_text": "vi Kakʼiisik Raíz VT Kʼis",
+  "examples": [
+    {
+      "example_maya": "Li alah, xuchap kʼisem li uchoqʼabʼ che etzʼanem",
+      "example_spa": "La fuerza del muchacho se está gastando por jugar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixim xkʼis pa kʼayʼbʼal",
+      "example_spa": "Se acabó el maíz en el mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixim kʼisnaq chik, are taq xopan li ixoq pa kʼayʼbʼal",
+      "example_spa": "El maíz ya se había terminado, cuando llegó la mujer al mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "0182a5e4-5793-4c7e-b33f-86c72566a1fb"
+}

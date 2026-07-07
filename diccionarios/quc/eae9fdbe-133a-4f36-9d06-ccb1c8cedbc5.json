@@ -1,0 +1,19 @@
+{
+  "entryWord": "Umoy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Primeras horas de la noche; anochecer",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Are taq kok umoy katzijiʼ taq li kaxlan qʼaqʼ pa taq li tinamit",
+      "example_spa": "Al anochecer se encienden las luces en los pueblos",
+      "dialect": null
+    }
+  ],
+  "uuid": "eae9fdbe-133a-4f36-9d06-ccb1c8cedbc5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juchoqaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un grupo, un montón de tierra o granos",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xukʼaq juchoqaj uliw pujolom li rachiʼil",
+      "example_spa": "El niño tiró un puño de tierra en la cabeza de su compañero",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad7d7856-3e0b-494f-85d8-765fe2d69edc"
+}

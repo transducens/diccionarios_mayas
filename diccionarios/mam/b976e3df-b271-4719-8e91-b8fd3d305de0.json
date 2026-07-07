@@ -1,0 +1,23 @@
+{
+  "entryWord": "BYAAJAL",
+  "definition": "viajar",
+  "additional_text": "vt byajan, ma bʼaj nbyajana del español viaje",
+  "examples": [
+    {
+      "example_maya": "Nikyʼka twitz txʼotxʼ maʼ bʼaj nbyajana",
+      "example_spa": "Ya viajé a cualquier parte del mundo",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Maʼ txiʼ xjal byajal Chnaʼjal",
+      "example_spa": "La persona ya se fue a viajar a Huehuetenango",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b976e3df-b271-4719-8e91-b8fd3d305de0",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Noj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Al instante, inmediatamente",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Are taq xinopan chwa jah, noj xinchʼayik",
+      "example_spa": "Cuando llegué a la casa, me pegaron al instante",
+      "dialect": null
+    }
+  ],
+  "uuid": "5fc4f8a3-2ebb-4867-9183-4fbc41e3d34d"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼirik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Terminar la última parte del tejido usando aguja; arreglar la primera puntada del tejido",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinkʼiroh Var Raakik Raíz VT Kʼir DomS Kemenik",
+  "examples": [
+    {
+      "example_maya": "Li alih, xa koʼl ma na kutzir li ukem, tajin kukʼir chik",
+      "example_spa": "La muchacha ya está para terminar su tejido, está arreglandolo con la aguja",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0d2a06f-444b-4183-a989-3b37f0fde8de"
+}

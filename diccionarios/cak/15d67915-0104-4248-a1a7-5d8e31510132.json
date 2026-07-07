@@ -1,0 +1,23 @@
+{
+  "entryWord": "Seqonik",
+  "definition": "Romería",
+  "additional_text": "sv",
+  "examples": [
+    {
+      "example_maya": "Pa wolajuj rajlabʼal ri nabʼëy ikʼ chre ri junaʼ, ri winaqʼ yebʼe pa seqonik esquipulas",
+      "example_spa": "El quince del primer mes del año, la gente va de romería a Esquipulas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Junabʼir xipe pa seqonik Chyantla",
+      "example_spa": "Hace un año fui de romería a Chiantla",
+      "dialect": null
+    }
+  ],
+  "uuid": "15d67915-0104-4248-a1a7-5d8e31510132",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

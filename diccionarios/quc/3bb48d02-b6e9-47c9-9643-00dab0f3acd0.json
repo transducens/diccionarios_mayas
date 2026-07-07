@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajloqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona cariñosa",
+  "definitionDialect": "",
+  "additional_text": "SAgen Raiz VT Looqʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Luʼ, sibʼalaj ajloqʼ che li rixoqil",
+      "example_spa": "Pedro es muy cariñoso con su esposa",
+      "dialect": null
+    }
+  ],
+  "uuid": "3bb48d02-b6e9-47c9-9643-00dab0f3acd0"
+}

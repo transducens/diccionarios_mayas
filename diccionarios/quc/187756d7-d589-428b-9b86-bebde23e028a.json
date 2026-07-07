@@ -1,0 +1,19 @@
+{
+  "entryWord": "Panem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ampararse de la lluvia; defenderse de la lluvia",
+  "definitionDialect": "",
+  "additional_text": "vi Kinpaanik Fbas //Pah// var Xpaa",
+  "examples": [
+    {
+      "example_maya": "Kinpan chuxe li nima cheʼ",
+      "example_spa": "Me amparo de la lluvia debajo del árbol grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "187756d7-d589-428b-9b86-bebde23e028a"
+}

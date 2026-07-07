@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ritʼilajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karitʼilajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirarse pedos a cada rato",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz VT Ritʼ",
+  "examples": [
+    {
+      "example_maya": "Li kej xaq katajinik karitʼilajik, ma xa al li reqaʼn",
+      "example_spa": "El caballo está tirándose pedos a cada rato, porque pesa la carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a798eb1-ff1c-424f-8373-5e837f1c8942"
+}

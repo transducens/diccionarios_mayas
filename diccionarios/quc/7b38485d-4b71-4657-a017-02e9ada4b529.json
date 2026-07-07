@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqliʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaqliʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agua caliente; agua hervida",
+  "definitionDialect": "General",
+  "additional_text": "sInv Var Saqliibʼ Raíz Adj Saq Raíz Adj Liʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin xutij saqliʼ rukʼ li ukunabʼal",
+      "example_spa": "La mujer se tomó la medicina con el agua caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b38485d-4b71-4657-a017-02e9ada4b529"
+}

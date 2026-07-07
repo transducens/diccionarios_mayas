@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tiʼon",
+  "definition": "Ladrar el perro, picar la culebra, mosquito, etc",
+  "additional_text": "vi Nitiʼon",
+  "examples": [
+    {
+      "example_maya": "Kʼo bʼey ri tzʼeʼ (tzʼiʼ) yalan yetiʼon ri chaqʼaʼ",
+      "example_spa": "A veces los perros ladran mucho por las noches",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo chʼitaq üs yalan e miliʼx ök yalan yetiʼon",
+      "example_spa": "Hay mosquitos bien pequeñitos que pican mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb225e65-0efa-4839-a8ff-c0291e096853",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

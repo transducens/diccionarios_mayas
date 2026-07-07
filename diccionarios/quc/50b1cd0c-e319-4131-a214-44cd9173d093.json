@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼajixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encandilar con un espejo o luz fuerte",
+  "definitionDialect": "",
+  "additional_text": "vTD Kintzʼajij Raíz VT Tzʼaj",
+  "examples": [
+    {
+      "example_maya": "Li alah, xutzʼajij li spej chupalaj li rachiʼil",
+      "example_spa": "El muchacho encandiló con el reflejo del espejo a su compañero",
+      "dialect": null
+    }
+  ],
+  "uuid": "50b1cd0c-e319-4131-a214-44cd9173d093"
+}

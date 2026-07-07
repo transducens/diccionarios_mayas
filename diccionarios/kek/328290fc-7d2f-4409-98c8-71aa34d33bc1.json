@@ -1,0 +1,18 @@
+{
+  "entryWord": "Koral",
+  "definition": "Corral, cerca, tapia, muro",
+  "additional_text": "SInv Inkoral",
+  "examples": [
+    {
+      "example_maya": "Li moos xyiibʼ inkoral rehebʼ inkaxlan",
+      "example_spa": "El mozo hizo el corral para mis pollos",
+      "dialect": null
+    }
+  ],
+  "uuid": "328290fc-7d2f-4409-98c8-71aa34d33bc1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

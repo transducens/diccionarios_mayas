@@ -1,0 +1,23 @@
+{
+  "entryWord": "AAWTA",
+  "definition": "que fueras vos",
+  "additional_text": "pad",
+  "examples": [
+    {
+      "example_maya": "Aawta tzul te nmajana nchiʼj",
+      "example_spa": "Que fueras vos quien pudiera venir como mi mozo mañana",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aawta ul te nxuʼjala ojtxa",
+      "example_spa": "Que vos hubieras sido mi mujer desde el principio",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ecc7b547-3c6c-4021-956b-9ff108ec3d7e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

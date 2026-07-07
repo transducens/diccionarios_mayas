@@ -1,0 +1,23 @@
+{
+  "entryWord": "TWITZAALA",
+  "definition": "1 señor 2 señora",
+  "additional_text": "sz Dialecto de Concepción Tutuapa raíz witz s",
+  "examples": [
+    {
+      "example_maya": "Mitiʼ ma tzul twitzala waʼl",
+      "example_spa": "No vino el señor a comer",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿At paya twitzala?",
+      "example_spa": "¿Ahí estás señora?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "40518837-3fdf-4644-b91a-68b7d9515d4f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

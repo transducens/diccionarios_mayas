@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzakʼakʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espinosa: una planta; posición de hielo",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li tew qajnaq sibʼalaj tzakʼakʼ xubʼanoh",
+      "example_spa": "El hielo que había caído era como vidrio quebrado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pajal kʼix sibʼalaj tzakʼakʼ",
+      "example_spa": "El friega plato es muy espinoso",
+      "dialect": null
+    }
+  ],
+  "uuid": "6791ff77-68ff-432e-b642-c48ab26a55a2"
+}

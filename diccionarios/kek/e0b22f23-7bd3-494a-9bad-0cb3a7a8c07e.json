@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tuxtun",
+  "definition": "Tostón: moneda antigua, cincuenta centavos",
+  "additional_text": "SInv Intuxtun",
+  "examples": [
+    {
+      "example_maya": "Jun tuxtun aj wiʼ intojobʼal saʼ kutan",
+      "example_spa": "Sólo cincuenta centavos me pagan al día",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun tuxtun xka",
+      "example_spa": "Tres cincuenta",
+      "dialect": null
+    }
+  ],
+  "uuid": "e0b22f23-7bd3-494a-9bad-0cb3a7a8c07e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

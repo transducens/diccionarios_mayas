@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Uchaqʼal,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xchaqʼajik",
+  "altEntryWordDialect2": null,
+  "definition": "Maduro; cocido; gordo",
+  "definitionDialect": "",
+  "additional_text": "Adj SCL Raíz Adj Chaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li oj chaqʼ chik",
+      "example_spa": "El aguacate está maduro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li subʼ chaqʼ chik, utz katijowik",
+      "example_spa": "Los tamalitos ya están cocidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a27c671-17b2-4259-aaf1-3ebc01cae785"
+}

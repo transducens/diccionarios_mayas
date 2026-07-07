@@ -1,0 +1,49 @@
+{
+  "entryWord": "Koʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xkoʼlirik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corto; pequeño; chico; bajo; angosto",
+  "definitionDialect": "",
+  "additional_text": "Adj Coment Adjetivo irregular =Ik es sufijo de frase final Adj Koʼkoj Corto, pequeño F Koʼl upaam Delgado, poco profundo F Koʼl uwach Angosto F Koʼl raqan Bajo Sinón Nuuchʼ Sinón Niitzʼ Sinón Naakʼ Sinón Naachʼ Sinón Tzʼiit Sinón Chʼutiʼn Sinón Chʼiin Sinón Laʼj Ant Nim Raíz P Koʼ",
+  "examples": [
+    {
+      "example_maya": "Li ukaʼ li alaj alih xaq koʼlik",
+      "example_spa": "La piedra de moler de la niña, es pequeña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ukamiʼx li alaj alah xkoʼlirik",
+      "example_spa": "La camisa del muchachito se puso pequeña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a xwan kʼa koʼloq taq xkamik",
+      "example_spa": "Juan todavía estaba pequeño cuando se murió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li juyubʼ are xaq koʼlik chwach li xkanul",
+      "example_spa": "El cerro es más bajo que el volcán",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼinel jaʼ xaq koʼl upam pa saqʼij",
+      "example_spa": "El río está más bajo en verano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼeh kabʼe chi li kʼwaʼ koʼl uwach",
+      "example_spa": "El camino que pasa por la orilla del pozo, es angosto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li raqan ja are koʼl raqan chwach li tem",
+      "example_spa": "Los pilares son más cortos que las vigas",
+      "dialect": null
+    }
+  ],
+  "uuid": "3857b20c-fd3f-450e-8a75-1476d68ec1a0"
+}

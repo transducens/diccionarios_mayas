@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xetʼetʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxetʼetʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pellizcar con fuerza",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Xetʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuxetʼetʼej li rachiʼil",
+      "example_spa": "El niño pellizcó con mucha fuerza a su compañero",
+      "dialect": null
+    }
+  ],
+  "uuid": "19cf5d94-321f-4dc3-81cb-5ac50c53a3ac"
+}

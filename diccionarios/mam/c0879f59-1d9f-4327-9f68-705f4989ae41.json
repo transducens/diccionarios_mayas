@@ -1,0 +1,23 @@
+{
+  "entryWord": "JABOON",
+  "definition": "jabón",
+  "additional_text": "s1 njabona jabóon del español jabón",
+  "examples": [
+    {
+      "example_maya": "JABOON ojtxa chichitzan qxeʼchal",
+      "example_spa": "Nuestros antepasados decían que antiguamente no existía el jabón",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tuʼn jabon nnelbʼaj tzʼil kyiʼj xbʼalan",
+      "example_spa": "Con el jabón se quita toda la suciedad en la ropa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c0879f59-1d9f-4327-9f68-705f4989ae41",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

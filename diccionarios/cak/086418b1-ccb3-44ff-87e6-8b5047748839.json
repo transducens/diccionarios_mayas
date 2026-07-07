@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wokʼowik",
+  "definition": "Doblada: cosa tiesa como cuero o tabla por el sol",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Ri jun wokʼowik chʼichʼ xinkusaj richin ruwi kacho äkʼ, xa teqʼël aj kʼa",
+      "example_spa": "La hojalata doblada que usé de techo para las gallinas, está rota",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri jun wokʼowik tzʼalän sabʼan chwa qʼij näq ütz ta richin nijuq ruwäch (nijos)",
+      "example_spa": "La tabla doblada que está asoleada, no está buena para cepillarla",
+      "dialect": null
+    }
+  ],
+  "uuid": "086418b1-ccb3-44ff-87e6-8b5047748839",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

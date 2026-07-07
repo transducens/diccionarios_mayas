@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼarinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jugar con cera",
+  "definitionDialect": "General",
+  "additional_text": "vi Kintzʼarinik Raíz PT Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj katzʼarin pa taq awasqʼij",
+      "example_spa": "El niño juega con la cera en Semana Santa",
+      "dialect": null
+    }
+  ],
+  "uuid": "6bc196a3-7faa-4d5b-8787-2faceca2ee69"
+}

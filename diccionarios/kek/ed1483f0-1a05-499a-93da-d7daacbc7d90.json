@@ -1,0 +1,23 @@
+{
+  "entryWord": "Nums",
+  "definition": "Huella",
+  "additional_text": "sInv Innums",
+  "examples": [
+    {
+      "example_maya": "Xintaw aanums saʼ pim",
+      "example_spa": "Encontré tu huella en el monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ yo chi rutzʼbʼal xnums li xul",
+      "example_spa": "El perro está olfateando la huella del animal",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed1483f0-1a05-499a-93da-d7daacbc7d90",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

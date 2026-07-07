@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qupulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fácil de cortar",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Qup",
+  "examples": [
+    {
+      "example_maya": "Li chaj are qupulik chwach li raxcheʼ",
+      "example_spa": "El pino es más fácil de cortar que el encino",
+      "dialect": null
+    }
+  ],
+  "uuid": "f760583e-8db1-4c63-a6bc-7504d646afa9"
+}

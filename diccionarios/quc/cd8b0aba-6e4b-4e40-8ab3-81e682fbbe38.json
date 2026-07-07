@@ -1,0 +1,24 @@
+{
+  "entryWord": "Muchik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmuchuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar en pedazos; picar carne o verduras",
+  "definitionDialect": "",
+  "additional_text": "vtr Var Tzookʼik Var Weechʼik Var Kʼuupik Raíz VT Much",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xumuch li saqwach",
+      "example_spa": "La mujer cortó la papa en pedazos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajʼikʼ tiʼij, sbʼoʼy kumuchuh",
+      "example_spa": "La sirvienta está picando la carne y las cebollas",
+      "dialect": null
+    }
+  ],
+  "uuid": "cd8b0aba-6e4b-4e40-8ab3-81e682fbbe38"
+}

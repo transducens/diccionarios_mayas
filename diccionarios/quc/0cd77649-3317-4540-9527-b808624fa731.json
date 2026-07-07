@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chweʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mañana",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kinbʼe pa Armit, keʼnchabʼej na li nima qʼatal tzij",
+      "example_spa": "Mañana me voy a Guatemala a platicar con el Señor Presidente",
+      "dialect": null
+    }
+  ],
+  "uuid": "0cd77649-3317-4540-9527-b808624fa731"
+}

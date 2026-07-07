@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼ rij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Urgente, urge",
+  "definitionDialect": "General",
+  "additional_text": "Adv Raiz S Qʼaaqʼ Raiz S Riij",
+  "examples": [
+    {
+      "example_maya": "Li chak rajawaxik kakowixik ma qʼaqʼ rij",
+      "example_spa": "Es necesario apurar el trabajo porque urge",
+      "dialect": null
+    }
+  ],
+  "uuid": "200ae5db-f328-40e8-938a-17f896ddfa4e"
+}

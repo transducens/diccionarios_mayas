@@ -1,0 +1,24 @@
+{
+  "entryWord": "Watzʼotzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tostada",
+  "definitionDialect": "",
+  "additional_text": "sinv Nuwatzʼootzʼ Var Wotzʼoot Raíz S Watzʼ DomS Wah",
+  "examples": [
+    {
+      "example_maya": "Kiʼ kinnaʼ utijowik li watzotzʼ",
+      "example_spa": "Me gusta comer tostadas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa kʼaybʼal kakʼayix watzʼotza kaslanwah",
+      "example_spa": "En el mercado se vende pan tostado",
+      "dialect": null
+    }
+  ],
+  "uuid": "824f10f6-1eea-45a4-aebe-2e29c5477562"
+}

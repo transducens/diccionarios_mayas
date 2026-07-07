@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jusey",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una columpiada; una hamaqueada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Sey",
+  "examples": [
+    {
+      "example_maya": "Xa jusey xya che li akʼal pa li abʼ rumal laʼ xkʼastajik",
+      "example_spa": "Sólo le dieron una hamaqueada al niño y se despertó",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8c2d652-a801-4fd4-8b6d-3315dc43b960"
+}

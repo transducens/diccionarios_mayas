@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼixa uchʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puerco espín",
+  "definitionDialect": "General",
+  "additional_text": "scL Raíz S Kʼiix Raíz s Uuchʼ DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kʼixa uchʼ kʼo ukʼixal rech kutoʼbʼej ribʼ",
+      "example_spa": "El puerco espín tiene púas para defenderse",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f7713b6-e9e9-4695-996f-5b0f6b3da1c8"
+}

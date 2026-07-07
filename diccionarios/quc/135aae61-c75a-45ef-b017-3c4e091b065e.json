@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼajeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrado; fracturado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Qʼaj",
+  "examples": [
+    {
+      "example_maya": "Li qʼajeʼl achih xaq kachʼokowik kabʼinik",
+      "example_spa": "El hombre fracturado camina cogeando",
+      "dialect": null
+    }
+  ],
+  "uuid": "135aae61-c75a-45ef-b017-3c4e091b065e"
+}

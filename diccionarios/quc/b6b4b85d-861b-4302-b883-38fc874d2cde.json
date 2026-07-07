@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzipilik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtzìpiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutzìpibʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Pluma de ave parada; pelo parado",
+  "definitionDialect": "",
+  "additional_text": "Raíz P Tzip",
+  "examples": [
+    {
+      "example_maya": "Li uxikʼ li akʼ xutzìpibʼaʼ",
+      "example_spa": "La gallina paró las plumas",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6b4b85d-861b-4302-b883-38fc874d2cde"
+}

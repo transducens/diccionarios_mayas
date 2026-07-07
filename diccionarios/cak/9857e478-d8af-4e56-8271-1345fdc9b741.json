@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼuluj",
+  "definition": "Hallarse, acostumbrarse",
+  "additional_text": "vi Nukʼuluj",
+  "examples": [
+    {
+      "example_maya": "Chʼanin xukʼuluj chwe ri bʼyajnen (bʼyajen)",
+      "example_spa": "Luego me acostumbré al paseo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin xukʼuluj chwe ri pa taqʼaj",
+      "example_spa": "Yo me hallé en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9857e478-d8af-4e56-8271-1345fdc9b741",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

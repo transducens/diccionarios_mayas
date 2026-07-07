@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waqʼawatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawaqʼawatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer cosas duras",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz vt Waqʼ",
+  "examples": [
+    {
+      "example_maya": "Kawaqʼawat li ubʼaqʼ taraʼs puchiʼ li aq",
+      "example_spa": "El marrano hace ruido al comer pepitas de durazno",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d4cd8df-e875-45f4-af29-f187fe9b1a03"
+}

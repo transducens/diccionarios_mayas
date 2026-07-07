@@ -1,0 +1,23 @@
+{
+  "entryWord": "BʼOOẌ",
+  "definition": "armadillo",
+  "additional_text": "s1 nbʼoẍa raíz bʼoẍ s ds txkup",
+  "examples": [
+    {
+      "example_maya": "Pur txamanqa nimal bʼoẍ",
+      "example_spa": "Los armadillos tienen mucha gordura",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Baqa mans txkʼomal bʼoẍ pur kyiw wena",
+      "example_spa": "Es muy dura la cáscara del armadillo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f24a16d0-c5d6-4ca8-bfbd-ea600e21b841",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

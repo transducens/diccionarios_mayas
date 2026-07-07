@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alkʼwaʼlaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwalkʼwaʼlaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Procrear, engendrar",
+  "definitionDialect": "Coment. Se usa solamente al dirigirse a las mujeres.",
+  "additional_text": "vTD",
+  "examples": [
+    {
+      "example_maya": "Li alxeʼp xralkʼwaʼlaj jusin laj alah",
+      "example_spa": "Isabel engendró un varoncito",
+      "dialect": null
+    }
+  ],
+  "uuid": "bae30514-9872-49f0-8912-7f15dda71e23"
+}

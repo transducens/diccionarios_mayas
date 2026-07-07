@@ -1,0 +1,18 @@
+{
+  "entryWord": "KAMAROON",
+  "definition": "camarón",
+  "additional_text": "s1 nkamaron sin txoʼm del español camarón ds taʼlan aʼ; ds chibʼaj",
+  "examples": [
+    {
+      "example_maya": "Bʼaʼn tchonjtz kamaron kyuʼn xjal",
+      "example_spa": "El camarón es una comida muy buena para la gente",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ca31cc45-801a-4f21-8779-1f386ea43a6d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

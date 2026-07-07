@@ -1,0 +1,19 @@
+{
+  "entryWord": "Teqʼmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa rota",
+  "definitionDialect": "",
+  "additional_text": "vi Kateqʼmaʼyik Raiz P Teqʼ",
+  "examples": [
+    {
+      "example_maya": "Li xiʼn xaq kateqʼmaʼy li ratzʼyaq",
+      "example_spa": "El gracejo anda con la ropa rota",
+      "dialect": null
+    }
+  ],
+  "uuid": "28d85848-4f63-48c9-a31b-d81cba38832e"
+}

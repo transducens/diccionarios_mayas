@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chuh",
+  "entryWordDialect": null,
+  "altEntryWord": "Uchuwil, xchuwil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apestoso; hediondo",
+  "definitionDialect": "",
+  "additional_text": "Adj //Chuw// vi Chuwineem Heder, apestar Raíz Adj Chuw",
+  "examples": [
+    {
+      "example_maya": "Li kaminaq kej sibʼalaj chuh kʼo pa bʼeh",
+      "example_spa": "El caballo muerto que está tirado en el camino, hiede mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kachuwin uwa nukʼux",
+      "example_spa": "Cuando eructo, hiede",
+      "dialect": null
+    }
+  ],
+  "uuid": "6cd25948-453d-4336-b003-1860facb5892"
+}

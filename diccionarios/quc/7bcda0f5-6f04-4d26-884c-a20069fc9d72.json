@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alih",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muchacha, señorita",
+  "definitionDialect": "s.Pl. Altomaab'. Señoritas (plural). Dom.S. Winaq.",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li alih retaʼm chi kakemenik",
+      "example_spa": "La señorita ya sabe tejer",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bcda0f5-6f04-4d26-884c-a20069fc9d72"
+}

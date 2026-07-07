@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzalajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapatzalajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar sigilosamente persona o animal en la oscuridad",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VI Patz",
+  "examples": [
+    {
+      "example_maya": "Li imul kapatzalaj pa li qʼayes",
+      "example_spa": "El conejo hace ruido en la maleza",
+      "dialect": null
+    }
+  ],
+  "uuid": "f4e144aa-7292-4b83-8024-36d830655f46"
+}

@@ -1,0 +1,34 @@
+{
+  "entryWord": "Waram",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dormirse",
+  "definitionDialect": "",
+  "additional_text": "VI Kinwarik F F Raíz VI War DomS Waraam",
+  "examples": [
+    {
+      "example_maya": "Kinwarik ma kʼo nuwaram",
+      "example_spa": "Me duermo porque tengo sueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwar nah, karaj nuwaram",
+      "example_spa": "Voy a dormirme porque tengo sueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Karaj nuwaram",
+      "example_spa": "Tengo sueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpe nuwaram",
+      "example_spa": "Ya tengo sueño",
+      "dialect": null
+    }
+  ],
+  "uuid": "27709f50-196d-4627-86d9-d7b427ff46fc"
+}

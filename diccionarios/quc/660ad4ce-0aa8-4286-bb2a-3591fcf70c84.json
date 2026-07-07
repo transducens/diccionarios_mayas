@@ -1,0 +1,29 @@
+{
+  "entryWord": "Yabʼyoj",
+  "entryWordDialect": null,
+  "altEntryWord": "Uyabʼyojil, xyabʼyojirik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio enfermo; baboso; aguado tamal crudo o un tejido",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz S Yabʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, ojer sibʼalaj koh, kamik xaq sin yabʼyoj chik",
+      "example_spa": "El hombre antes era muy sano, ahora está medio enfermo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xaq sin yabʼyoj xaq kʼa teʼ kumajij yaj",
+      "example_spa": "La mujer es medio mudita, de repente comienza a regañar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ukem li ixoq xaq yabʼyoj",
+      "example_spa": "El tejido de la mujer está aguado",
+      "dialect": null
+    }
+  ],
+  "uuid": "660ad4ce-0aa8-4286-bb2a-3591fcf70c84"
+}

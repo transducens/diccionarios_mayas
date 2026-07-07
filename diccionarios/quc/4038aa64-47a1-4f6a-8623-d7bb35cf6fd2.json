@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼel",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chocoyo",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz S Kʼel DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li kʼel kutij li aj, bʼanal kʼax che abʼix",
+      "example_spa": "El chocoyo come elotes y perjudica la milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼel rax li kij jacha li loʼr",
+      "example_spa": "Los chocoyos son de color verde, como el loro",
+      "dialect": null
+    }
+  ],
+  "uuid": "4038aa64-47a1-4f6a-8623-d7bb35cf6fd2"
+}

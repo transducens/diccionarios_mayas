@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sikʼ",
+  "definition": "Cigarro",
+  "additional_text": "sInv Nusikʼ Rusikʼ jay Animalito muy pequeño que pica bastante",
+  "examples": [
+    {
+      "example_maya": "Ri sikʼ yalan nikisikʼaj ri achiʼaʼ",
+      "example_spa": "Los hombres fuman mucho el cigarro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri sikʼ nuyaʼ jun ruyabʼil ri apospoʼy",
+      "example_spa": "El cigarro provoda una enfermedad en los pulmones",
+      "dialect": null
+    }
+  ],
+  "uuid": "c3775730-94b7-4657-ac2b-747187f8c014",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

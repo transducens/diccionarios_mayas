@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ikʼ",
+  "definition": "Luna",
+  "additional_text": "sNP",
+  "examples": [
+    {
+      "example_maya": "Nbʼïx chi taq tzalan ri ikʼ, rukʼamun(rukʼamon) kʼa pe jöbʼ riʼ",
+      "example_spa": "Dicen que cuando la luna está ladeada, entonces trae lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "E kʼo winäq yeʼoqʼ taq niyawäy la ikʼ",
+      "example_spa": "Hay personas que lloran cuando está en eclipse la luna",
+      "dialect": null
+    }
+  ],
+  "uuid": "b83a5677-ab70-46b2-bb70-e059653b5c7c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

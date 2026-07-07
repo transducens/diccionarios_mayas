@@ -1,0 +1,23 @@
+{
+  "entryWord": "TXUUN",
+  "definition": "cal Este material se obtiene de una clase de piedra, quemándola por muchas horas en un horno",
+  "additional_text": "s1 ntxuna frases: itzʼaj txun cal viva; tʼal txun agua de cal; tjayal txun olla para cal o agua de cal; ulbʼil tʼal txun olla donde se deshace la cal; txa txun polvo de la cal raíz txun s ds xaq",
+  "examples": [
+    {
+      "example_maya": "Tuʼn jun xaq chi aʼj tbʼi nbʼant txun",
+      "example_spa": "La cal se hace de una piedra llamada piedra azul",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tzanx kytenka xjal nnajon txun kyuʼn tuʼn tel ttzʼumal",
+      "example_spa": "Toda la gente usa la cal para quitar la cáscara del nixtamal",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3cecaf3e-8ec8-4393-8172-76bdba3763f6",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

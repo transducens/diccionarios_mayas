@@ -1,0 +1,24 @@
+{
+  "entryWord": "Purixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer panela o elote arrancándole pedazos con los dientes",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpuriij Sinón Qarixik Raíz VT Pur",
+  "examples": [
+    {
+      "example_maya": "Kinpurij na li kabʼ che nuwareh",
+      "example_spa": "Voy a comer la panela con mis dientes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah sibʼalaj kupurij aj",
+      "example_spa": "El muchacho come elotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "80557fc7-2ae2-442f-927c-51c89ac56a64"
+}

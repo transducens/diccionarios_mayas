@@ -1,0 +1,19 @@
+{
+  "entryWord": "Texlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puesto apaste grueso, tabla gruesa, tortilla ancha y gruesa; sentada persona gorda",
+  "definitionDialect": "General",
+  "additional_text": "p Xtexiʼk, xutexbʼaʼ Raiz P Tex",
+  "examples": [
+    {
+      "example_maya": "Xaq tex li jun tzʼalam chwa li jah",
+      "example_spa": "La tabla gruesa está puesta en el patio",
+      "dialect": null
+    }
+  ],
+  "uuid": "e699e73b-16fe-417e-b7eb-430cccfa934c"
+}

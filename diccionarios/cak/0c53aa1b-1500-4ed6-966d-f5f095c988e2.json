@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qajen",
+  "definition": "Bajada",
+  "additional_text": "sv var Qasan Ant Jotolen",
+  "examples": [
+    {
+      "example_maya": "Ri qajen pa taq tzaʼlän siwan kʼo rukʼayewal",
+      "example_spa": "En la bajada de los barrancos, se corren riesgos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qajen ejqaʼn yalan (tzʼam) kʼayew",
+      "example_spa": "La bajada de carga (descarga) es bien difícil",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c53aa1b-1500-4ed6-966d-f5f095c988e2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

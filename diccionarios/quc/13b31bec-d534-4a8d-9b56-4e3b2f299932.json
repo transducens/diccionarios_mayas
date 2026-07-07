@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼiʼtajbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Molesto (cosa o persona que aburre o cansa); cansado (cosa o persona que aburre o cansa)",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Qʼiʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj jun qʼiʼtajbʼal",
+      "example_spa": "El niño es un molestón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼabʼarel sibʼalaj qʼiʼtajbʼal, na kuta ta chʼabʼexik",
+      "example_spa": "El bolo molesta mucho, no hace caso cuando le hablan",
+      "dialect": null
+    }
+  ],
+  "uuid": "13b31bec-d534-4a8d-9b56-4e3b2f299932"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dirección; rumbo; camino de",
+  "definitionDialect": "general",
+  "additional_text": "SSP Ubʼeʼaal Raíz S Bʼeh",
+  "examples": [
+    {
+      "example_maya": "Li ubʼeʼal li uwi li xkanul sibʼalaj kʼax",
+      "example_spa": "El camino que va a la cima del volcán es muy costoso",
+      "dialect": null
+    }
+  ],
+  "uuid": "339ef138-0f50-41fc-8c4c-9d1b739470fd"
+}

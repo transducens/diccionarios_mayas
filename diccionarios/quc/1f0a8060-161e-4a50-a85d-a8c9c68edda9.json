@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼoqoqexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desclavar mucho o todo; arrancar muchos clavos o estacas",
+  "definitionDialect": "",
+  "additional_text": "vi Kintzoqoqeej Raíz VT Tzʼoq",
+  "examples": [
+    {
+      "example_maya": "Li ajanel xutzʼoqoqej li lawux",
+      "example_spa": "El albañil sacó todos los clavos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tzʼoqoj upa chiʼaj",
+      "example_spa": "Sacarle la verdad a una persona",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f0a8060-161e-4a50-a85d-a8c9c68edda9"
+}

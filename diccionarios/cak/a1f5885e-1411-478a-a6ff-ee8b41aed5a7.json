@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kabʼij",
+  "definition": "Pasado mañana",
+  "additional_text": "Adv T",
+  "examples": [
+    {
+      "example_maya": "Kabʼij nichap rubʼanikil jun nimaläy jay",
+      "example_spa": "Pasado mañana comienzan a construir una casa muy grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kabʼij yibʼe pa tinamït",
+      "example_spa": "Pasado mañana me voy al pueblo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa kabʼij yibʼe pa samaj",
+      "example_spa": "Hasta pasado mañana voy al trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a1f5885e-1411-478a-a6ff-ee8b41aed5a7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

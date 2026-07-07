@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yojnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar chinchines, vainas con frijoles secos, collares o llaves",
+  "definitionDialect": "Español",
+  "additional_text": "vı Kayojnajik",
+  "examples": [
+    {
+      "example_maya": "Li kitzu li aʼjxojolobʼ kayojnajik",
+      "example_spa": "Los chinchines de los bailadores suenan bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "50fcd63f-b19a-4e29-95ea-45b5b3235f68"
+}

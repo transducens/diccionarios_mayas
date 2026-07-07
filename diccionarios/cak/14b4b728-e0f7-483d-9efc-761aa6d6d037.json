@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ruchʼabʼ qʼij",
+  "definition": "Rayos del sol",
+  "additional_text": "sds Chikajul",
+  "examples": [
+    {
+      "example_maya": "Täqndel (nel) pe ri qʼij, niqʼalajin ri ruchʼabʼ qʼij",
+      "example_spa": "Cuando sale el sol, se ven los rayos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq nel periqʼij ri ruchʼabʼnok chukojö taq texa",
+      "example_spa": "Cuando sale el sol, los rayos penetran por las tejas de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "14b4b728-e0f7-483d-9efc-761aa6d6d037",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

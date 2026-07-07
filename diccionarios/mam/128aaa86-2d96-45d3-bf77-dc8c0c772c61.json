@@ -1,0 +1,23 @@
+{
+  "entryWord": "SWAT",
+  "definition": "coyote Se tuesta la carne y se come, sirve para evitar el enflaquecimiento y la tos ferina",
+  "additional_text": "s1 nswata ds txkup, ds qʼanbʼil",
+  "examples": [
+    {
+      "example_maya": "Kye chichon swat tiʼj ekyʼ bʼix neʼl",
+      "example_spa": "Los coyotes saben comer la carne de gallina y oveja",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Bʼaʼn tok swat te qʼanbʼil jiqʼ",
+      "example_spa": "Es muy buena la carne del coyote para controlar la tos ferina",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "128aaa86-2d96-45d3-bf77-dc8c0c772c61",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

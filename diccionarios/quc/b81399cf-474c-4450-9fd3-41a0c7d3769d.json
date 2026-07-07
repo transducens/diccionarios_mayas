@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tijonel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maestro; profesor",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutijoneel Sinón Ajtiij Raíz VT Tiij",
+  "examples": [
+    {
+      "example_maya": "Li tijonel kech li akʼalabʼ, kʼih kukʼutuh",
+      "example_spa": "El maestro de los niños les enseña muchas cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "b81399cf-474c-4450-9fd3-41a0c7d3769d"
+}

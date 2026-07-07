@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼajlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner cosas anchas, como madera, piedra",
+  "definitionDialect": "",
+  "additional_text": "P Xtzʼajiʼk, xutzʼajbʼaʼ Raíz PT Tzʼaj",
+  "examples": [
+    {
+      "example_maya": "Li a Mateʼy xutzʼajbʼa li abʼaj chi jah",
+      "example_spa": "Mateo puso la piedra ancha en la puerta",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ca787af-725f-489c-a524-ca68c5baf881"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "KONSEEJ",
+  "definition": "consejo",
+  "additional_text": "s1 nkonseja del español consejo",
+  "examples": [
+    {
+      "example_maya": "Bʼaʼn nkonseja ma tzaj tqʼoʼn nmana",
+      "example_spa": "Mi padre me dio buenos consejos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b88b3f53-4939-430d-930e-41c4fc1c302a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

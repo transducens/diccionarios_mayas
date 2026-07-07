@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patanixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpatanij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Servir",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz S Pataan",
+  "examples": [
+    {
+      "example_maya": "Laʼ li muruh jas kupatanij chaweh?",
+      "example_spa": "¿Para qué te sirve ese machete?",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7800603-3895-42f5-9b5d-366e1cc0f5f7"
+}

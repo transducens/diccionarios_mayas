@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yutzʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xyutzʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuyutzʼubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Triangular: terreno",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Yutzʼ",
+  "examples": [
+    {
+      "example_maya": "Li uliw xa yutzʼulik",
+      "example_spa": "El terreno tiene forma triangular",
+      "dialect": null
+    }
+  ],
+  "uuid": "4763e6b0-b613-4a71-8d94-71ec0a89140f"
+}

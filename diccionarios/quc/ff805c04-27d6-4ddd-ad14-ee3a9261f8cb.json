@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzukunel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cazador",
+  "definitionDialect": "",
+  "additional_text": "sAgen Raíz VT Tzuk",
+  "examples": [
+    {
+      "example_maya": "Li tzukunel e kʼih li utzʼiʼ ketzukunik",
+      "example_spa": "El cazador tiene muchos perros de cacería",
+      "dialect": null
+    }
+  ],
+  "uuid": "ff805c04-27d6-4ddd-ad14-ee3a9261f8cb"
+}

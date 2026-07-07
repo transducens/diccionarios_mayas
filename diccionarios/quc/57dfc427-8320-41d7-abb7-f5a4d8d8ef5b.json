@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaqanel",
+  "entryWordDialect": null,
+  "altEntryWord": "Kʼaqanelabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cazador",
+  "definitionDialect": "",
+  "additional_text": "snP spl Cazadores (pl)",
+  "examples": [
+    {
+      "example_maya": "Li kʼaqanel xbʼe pa kʼaqanik che masat",
+      "example_spa": "El cazador se fue a cazar venados",
+      "dialect": null
+    }
+  ],
+  "uuid": "57dfc427-8320-41d7-abb7-f5a4d8d8ef5b"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "MUULT",
+  "definition": "multa",
+  "additional_text": "s1 nmulta del español multa",
+  "examples": [
+    {
+      "example_maya": "Maʼ tzʼel tmult xjal tuʼn tlaj qʼoj",
+      "example_spa": "Le quitaron multa a la persona por el pleito",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "1c18f10d-8a6c-492f-94f1-2cdce933dcee",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

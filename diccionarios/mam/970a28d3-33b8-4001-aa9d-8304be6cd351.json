@@ -1,0 +1,18 @@
+{
+  "entryWord": "MUL",
+  "definition": "acción de meterse algo en el agua",
+  "additional_text": "af raíz mul",
+  "examples": [
+    {
+      "example_maya": "Mul xiqʼoʼn naq palangan tuj aʼ",
+      "example_spa": "Mul hundieron la palangana en el agua",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "970a28d3-33b8-4001-aa9d-8304be6cd351",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

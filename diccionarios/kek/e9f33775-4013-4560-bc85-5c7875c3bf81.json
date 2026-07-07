@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼi",
+  "definition": "Abundante, bastante, mucho",
+  "additional_text": "Adj Xkʼihan, xkʼihal Var Kʼiila",
+  "examples": [
+    {
+      "example_maya": "Jun siir kʼiila wakax xeʼkʼulun",
+      "example_spa": "Vino mucho ganado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Moko kʼi ta li hal xintaw",
+      "example_spa": "No coseché mucha mazorca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Moko kʼi ta",
+      "example_spa": "Menos, no es mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9f33775-4013-4560-bc85-5c7875c3bf81",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

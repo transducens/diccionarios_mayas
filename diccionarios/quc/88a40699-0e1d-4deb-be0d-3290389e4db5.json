@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tuqik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintuquh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Exigir; pedir; estirar ropa o tela, jalándola; jalar",
+  "definitionDialect": "",
+  "additional_text": "vtr Sinón Toqʼixik Sinón Yuuqik Raíz PT Tuq",
+  "examples": [
+    {
+      "example_maya": "Li achih katuq cheh ukʼas",
+      "example_spa": "Al hombre le están exigiendo que pague la deuda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah naj xkituq kibʼ rukʼ li alih pa li bʼeh",
+      "example_spa": "El muchacho estuvo mucho tiempo jalando a la muchacha en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "88a40699-0e1d-4deb-be0d-3290389e4db5"
+}

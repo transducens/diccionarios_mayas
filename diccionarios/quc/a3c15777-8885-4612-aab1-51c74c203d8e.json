@@ -1,0 +1,29 @@
+{
+  "entryWord": "Subʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Engañar; engatusar; embelesar; embobar Coment Pasar mujer sobre piernas del hombre, o sobre cosa que pertenece al hombre (se cree que esta acción vuelve tonto al hombre)",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinsubʼuh Raíz VT Subʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xukoj li xbʼix cheh, chema xa xsubʼik",
+      "example_spa": "El hombre creyó lo que le dijeron, pero lo engañaron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xaq kuʼsubʼ li winaq",
+      "example_spa": "El hombre siempre engaña a la gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ma subʼ li waqan, xa awas",
+      "example_spa": "No pasés sobre mis pies, es pecado",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3c15777-8885-4612-aab1-51c74c203d8e"
+}

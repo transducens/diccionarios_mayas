@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nujal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mazorca",
+  "definitionDialect": "General",
+  "additional_text": "SCV VI Jalireem Ponerse mazorca",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj kʼi li ujal xujachʼoh",
+      "example_spa": "El hombre cosechó muchas mazorcas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li abʼix ronojel xjalirik, maj chi aj chech",
+      "example_spa": "Los elotes de la milpa ya están maduros",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b0a8203-51a1-4c6f-8665-7fa823acf002"
+}

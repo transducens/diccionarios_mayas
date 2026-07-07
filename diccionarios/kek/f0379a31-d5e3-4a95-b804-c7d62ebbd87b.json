@@ -1,0 +1,23 @@
+{
+  "entryWord": "Na",
+  "definition": "Tal vez, quizá",
+  "additional_text": "PartD",
+  "examples": [
+    {
+      "example_maya": "Maakʼaʼ na xtumin",
+      "example_spa": "Tal vez no tiene dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joqʼe na tinruuq chi xik eerikʼin",
+      "example_spa": "Tal vez algún día podré ir donde ustedes",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0379a31-d5e3-4a95-b804-c7d62ebbd87b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

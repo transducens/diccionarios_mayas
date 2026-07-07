@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yabʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyabʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tentar cosas con la mano",
+  "definitionDialect": "Raíz vt. Yaab'.",
+  "additional_text": "vtr",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq kuyabʼ li wuj, tzʼil kʼu li uqʼabʼ",
+      "example_spa": "El niño está tentando el libro y tiene sucias las manos",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a68e4ba-a3d5-4305-a47c-6c530b26ad11"
+}

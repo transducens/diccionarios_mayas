@@ -1,0 +1,18 @@
+{
+  "entryWord": "Roxil",
+  "definition": "Tercer mayordomo de una cofradía Este sustantivo sólo puede ser poseído en plural",
+  "additional_text": "sInv Qoxil",
+  "examples": [
+    {
+      "example_maya": "Maʼ chiik roxil mertoom",
+      "example_spa": "Don Francisco es el tercer mayordomo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8584b61-14e9-4f21-a62f-2b665ab894d9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

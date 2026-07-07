@@ -1,0 +1,19 @@
+{
+  "entryWord": "Meqʼmoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio caliente",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Miqʼ",
+  "examples": [
+    {
+      "example_maya": "Li lij kʼa meqʼmoj",
+      "example_spa": "Las tortillas todavía están medio calientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f1037b0-5454-4520-bdf8-6d669011d210"
+}

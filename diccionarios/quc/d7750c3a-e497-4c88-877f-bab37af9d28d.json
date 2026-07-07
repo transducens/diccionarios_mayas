@@ -1,0 +1,24 @@
+{
+  "entryWord": "Witzikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwitzikʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flor de milpa; pasto",
+  "definitionDialect": "",
+  "additional_text": "scv Coment Del elote hasta la yema var Ajüj var Patzʼan DomS Abʼiix",
+  "examples": [
+    {
+      "example_maya": "Li uwitzikʼ li abʼix kʼo kebʼ uwach, kʼo saq chiʼl muraʼt",
+      "example_spa": "Hay dos clases de flor de milpa, blanca y morada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwitzik abʼix utz cheh kechaʼ chkop",
+      "example_spa": "La punta de milpa es buena para pasto de ganado",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7750c3a-e497-4c88-877f-bab37af9d28d"
+}

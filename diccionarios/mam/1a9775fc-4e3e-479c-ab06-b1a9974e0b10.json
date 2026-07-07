@@ -1,0 +1,18 @@
+{
+  "entryWord": "MAANA",
+  "definition": "una mano",
+  "additional_text": "md del español mano",
+  "examples": [
+    {
+      "example_maya": "Antz jun mana njala",
+      "example_spa": "Dame una mano de mazorcas",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "1a9775fc-4e3e-479c-ab06-b1a9974e0b10",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

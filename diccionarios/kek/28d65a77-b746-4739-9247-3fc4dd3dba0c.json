@@ -1,0 +1,23 @@
+{
+  "entryWord": "Rahil saʼ",
+  "definition": "Indigestión, dolor de estómago",
+  "additional_text": "SQS Xrahil insaʼ",
+  "examples": [
+    {
+      "example_maya": "Xinxchap rahil saʼ",
+      "example_spa": "Me dio la indigestión",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ xrahil insaʼ xbʼaan li leech",
+      "example_spa": "Tengo dolor de estómago por la leche",
+      "dialect": null
+    }
+  ],
+  "uuid": "28d65a77-b746-4739-9247-3fc4dd3dba0c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

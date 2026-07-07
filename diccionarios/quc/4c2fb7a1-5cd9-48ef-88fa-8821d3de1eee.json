@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sirnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar persona gorda (insulto)",
+  "definitionDialect": "",
+  "additional_text": "vI Kasirnajik Raíz PT Sir",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kasirnaj pa taq bʼeh",
+      "example_spa": "El hombre anda sin hacer nada en las calles",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c2fb7a1-5cd9-48ef-88fa-8821d3de1eee"
+}

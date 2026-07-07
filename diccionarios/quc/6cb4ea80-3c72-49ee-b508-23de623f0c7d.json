@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼuquwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gritar gallina clueca; cloquear",
+  "definitionDialect": "",
+  "additional_text": "vi Katʼuquwik",
+  "examples": [
+    {
+      "example_maya": "Li akʼ katʼuquwik ma xa xutanabʼa sikʼoj",
+      "example_spa": "La gallina cloquea porque terminó de poner huevos",
+      "dialect": null
+    }
+  ],
+  "uuid": "6cb4ea80-3c72-49ee-b508-23de623f0c7d"
+}

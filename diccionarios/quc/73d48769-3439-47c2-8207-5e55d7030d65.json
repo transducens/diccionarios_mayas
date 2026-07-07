@@ -1,0 +1,19 @@
+{
+  "entryWord": "Topnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse palo salido, como en una carga",
+  "definitionDialect": "General",
+  "additional_text": "vI Katopnajik Raíz P Topón",
+  "examples": [
+    {
+      "example_maya": "Li cheʼ elenaq apan pwi ukorayil li chʼichʼ katopnajik",
+      "example_spa": "Los palos salidos de la carrocería del camión se mueven",
+      "dialect": null
+    }
+  ],
+  "uuid": "73d48769-3439-47c2-8207-5e55d7030d65"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xaqaxaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxaqaxaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba medicinal",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Kunabʼal",
+  "examples": [
+    {
+      "example_maya": "Waʼ we qʼayes kuqʼatabʼa torotajnaq pamaj",
+      "example_spa": "Esta clase de hierba corta la diarrea",
+      "dialect": null
+    }
+  ],
+  "uuid": "a70ad9c9-9f5e-4a6d-bcdd-a9cc1b7c8820"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mutzmuʼyixik ibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmutzmuʼyij wibʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encogerse persona o animal; hacerse un nudo, acurrucándose; acurrucarse",
+  "definitionDialect": "",
+  "additional_text": "vRefl Raíz VT Mutz",
+  "examples": [
+    {
+      "example_maya": "Kinmutzmuʼyij wibʼ pa nuqʼuʼ",
+      "example_spa": "Me hago un nudo en la chamarra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ kumutzmuʼyij ribʼ pa li chakach",
+      "example_spa": "El perro se ha hecho un nudo en la canasta",
+      "dialect": null
+    }
+  ],
+  "uuid": "584c3965-44ea-4224-bcdc-384dd1eb1c49"
+}

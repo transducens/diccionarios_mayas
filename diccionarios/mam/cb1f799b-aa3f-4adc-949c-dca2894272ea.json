@@ -1,0 +1,18 @@
+{
+  "entryWord": "BAANK",
+  "definition": "banca o banco para sentarse",
+  "additional_text": "s1 nbanca del español banco ds tutzʼbʼil",
+  "examples": [
+    {
+      "example_maya": "Mitiʼ qqʼejbʼil qʼiʼn tuʼn bʼank",
+      "example_spa": "La banca no trae respaldo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "cb1f799b-aa3f-4adc-949c-dca2894272ea",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

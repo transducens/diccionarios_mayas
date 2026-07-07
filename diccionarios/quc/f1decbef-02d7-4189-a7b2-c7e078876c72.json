@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajxojolobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajxojolobʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bailador",
+  "definitionDialect": "General",
+  "additional_text": "SInv Raíz Vl Xoj",
+  "examples": [
+    {
+      "example_maya": "Li ajxojolobʼ ukojom ukʼoj kaxojowik",
+      "example_spa": "El bailador tiene puesta la máscara al bailar",
+      "dialect": null
+    }
+  ],
+  "uuid": "f1decbef-02d7-4189-a7b2-c7e078876c72"
+}

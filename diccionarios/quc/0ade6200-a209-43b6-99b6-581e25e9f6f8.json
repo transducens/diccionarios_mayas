@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tikbʼal ichaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Huerta; hortaliza",
+  "definitionDialect": "",
+  "additional_text": "sls Tikbʼal wichaaj Raíz VT Tik Raíz S Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Pa li tikbʼal ichaj kʼih uwach chi ichaj kʼolik",
+      "example_spa": "En la hortaliza hay varias clases de verduras",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ade6200-a209-43b6-99b6-581e25e9f6f8"
+}

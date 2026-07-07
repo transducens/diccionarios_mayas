@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pajbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Kop",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Pexbʼal",
+  "altEntryWordDialect2": null,
+  "definition": "Copa; balanza",
+  "definitionDialect": "",
+  "additional_text": "scv Nupajbʼaal Sinón Koop Sinón Pexbʼal Raíz S Paj",
+  "examples": [
+    {
+      "example_maya": "Li pajbʼal kachokon che tijbʼal jaʼ",
+      "example_spa": "La copa sirve para tomar aguardiente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Utijom jun pajbʼal li ntat",
+      "example_spa": "Mi papá ha bebido algunas copas",
+      "dialect": null
+    }
+  ],
+  "uuid": "df0284b3-ff87-491e-bdeb-b00fa8359a18"
+}

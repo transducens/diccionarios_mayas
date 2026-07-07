@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wopik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pullar cosas huecas, como panal de avispas",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinwopoh",
+  "examples": [
+    {
+      "example_maya": "Tajin kinwop li kisok staʼl are taq xinutiʼ jun",
+      "example_spa": "Estaba puyando el panal de las avispas cuando me picó una",
+      "dialect": null
+    }
+  ],
+  "uuid": "47d1066d-2d4e-4f66-a1e7-6a716cff045c"
+}

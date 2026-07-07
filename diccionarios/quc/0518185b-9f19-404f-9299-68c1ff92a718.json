@@ -1,0 +1,19 @@
+{
+  "entryWord": "Toqtoqiʼnem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cacarear el gallo cuando ve a la gallina",
+  "definitionDialect": "General",
+  "additional_text": "vI Katoqtoqiʼnik",
+  "examples": [
+    {
+      "example_maya": "Li amaʼ katoqtoqiʼnik we xril li uchʼ",
+      "example_spa": "El gallo cacarea al ver al tacuacín",
+      "dialect": null
+    }
+  ],
+  "uuid": "0518185b-9f19-404f-9299-68c1ff92a718"
+}

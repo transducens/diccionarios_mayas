@@ -1,0 +1,24 @@
+{
+  "entryWord": "Muʼj",
+  "entryWordDialect": null,
+  "altEntryWord": "muj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Umuʼjarik",
+  "altEntryWordDialect2": null,
+  "definition": "Sombra",
+  "definitionDialect": "General",
+  "additional_text": "Adj Var Noochʼ Raiz S Muʼj",
+  "examples": [
+    {
+      "example_maya": "Li umuʼjal li cheʼ kajororik",
+      "example_spa": "La sombra de los árboles es fresca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih uxlannaq pa li muʼj",
+      "example_spa": "El hombre está descansando en la sombra",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad871a45-f607-4813-b3ef-8186b66d91ed"
+}

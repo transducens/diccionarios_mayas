@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wayim peq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pepita de pataxte",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Wayim peq kuchax li ubʼaqʼ peq pa tyoxibʼal tzij",
+      "example_spa": "Comida ceremonial le dicen a la pepita de pataxte",
+      "dialect": null
+    }
+  ],
+  "uuid": "982f36f3-6ad2-499e-aa2b-c76a0b4d84d9"
+}

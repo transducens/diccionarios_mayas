@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yuquyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pescuezudo: animal",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz P Yuq",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ sibʼalaj jun nima yuquyik",
+      "example_spa": "El perro es muy pescuezudo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uqul li jirap nima yuquyik",
+      "example_spa": "El pescuezo de la jirafa es muy largo",
+      "dialect": null
+    }
+  ],
+  "uuid": "89de26f4-1df2-44e1-b568-ed3529bcb63f"
+}

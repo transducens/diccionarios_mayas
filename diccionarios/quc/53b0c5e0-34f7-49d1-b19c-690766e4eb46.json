@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rebʼebʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espeso, como sopa, recado o atol",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Rebʼ",
+  "examples": [
+    {
+      "example_maya": "Pa li bʼeh, sibʼalaj rebʼebʼ ubʼanom li xaqʼoʼl na utz taj kʼoʼkʼow li altamowʼ",
+      "example_spa": "En la carretera está muy espeso el lodo, no pueden pasar los carros",
+      "dialect": null
+    }
+  ],
+  "uuid": "53b0c5e0-34f7-49d1-b19c-690766e4eb46"
+}

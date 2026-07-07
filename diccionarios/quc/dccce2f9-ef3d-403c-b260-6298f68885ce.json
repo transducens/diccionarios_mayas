@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tochʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partir panela; quitar pedazo con hacha o machete; herir con machete; cantinear, proponer matrimonio dar o recibir pago injusto",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintochʼoh Xaq kinutochʼ lee numoos _El mozo exige mucho pago_ Kintochʼochʼeej _Picar mucho con machete_ vi Katochʼotobʼik _Cortar palo seguido_ vt Kitochʼotaʼ _Cortar de vez en cuando_ vi Katochʼototik _Persona que corta seguido_ Katochʼolajik _Ruido de machetazos lentos_ Enu Jutochaaj _Una cortada_ vi Kintoochʼik _Me están proponiendo matrimonio_ Raíz VT Tochʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay chaj tajin kutochʼ li chaj cheh ikaj",
+      "example_spa": "El vendedor de ocote está partiendo ocote con hacha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtochʼ upujolom li achih chi chʼichʼ",
+      "example_spa": "El hombre fue herido en la cabeza con un hierro",
+      "dialect": null
+    }
+  ],
+  "uuid": "dccce2f9-ef3d-403c-b260-6298f68885ce"
+}

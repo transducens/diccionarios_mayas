@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalabʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼalabʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amarrar las puntas del tejido en el telar",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz S Kʼal",
+  "examples": [
+    {
+      "example_maya": "Li ajkem tajin kukʼalabʼij li ukem",
+      "example_spa": "La tejedora está amarrando las puntas de su tejido en el telar",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a8d66c9-40cd-45d0-8b2c-b6dc4b8e121b"
+}

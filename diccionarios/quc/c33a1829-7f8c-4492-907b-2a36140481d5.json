@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rininexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrinej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido de tono bajo; hacer ruido un carro",
+  "definitionDialect": "",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Li xnuʼl sibʼalaj xurininej li chʼichʼ",
+      "example_spa": "La señorita hizo mucho ruido con el carro",
+      "dialect": null
+    }
+  ],
+  "uuid": "c33a1829-7f8c-4492-907b-2a36140481d5"
+}

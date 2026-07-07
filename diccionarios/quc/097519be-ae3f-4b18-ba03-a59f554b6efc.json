@@ -1,0 +1,34 @@
+{
+  "entryWord": "Yakik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Levantar cosas o personas; guardar; revender",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinyakoh Raíz VT Yak",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kuyak li yowabʼ pa li chʼat",
+      "example_spa": "La mujer está levantando al enfermo de la cama",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal tajin kuyak li siʼ ma xqaj jabʼ",
+      "example_spa": "El niño está guardando la leña porque comenzó a llover",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajkʼay xa kuyak li ixim kukʼayij",
+      "example_spa": "El comerciante está revendiendo el maíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li straktor kuyak li abʼaj chikaj",
+      "example_spa": "El tractor está levantando la piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "097519be-ae3f-4b18-ba03-a59f554b6efc"
+}

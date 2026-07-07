@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzʼaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muro",
+  "definitionDialect": "General",
+  "additional_text": "sInv Raíz S Tzʼaaq",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil tajin kuwok jun tzʼaq",
+      "example_spa": "El albañil está construyendo un muro",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e0b9a64-2b00-4dc1-afa1-ff6ac3722da7"
+}

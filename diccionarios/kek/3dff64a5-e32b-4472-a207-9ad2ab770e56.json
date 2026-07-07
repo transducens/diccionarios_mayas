@@ -1,0 +1,28 @@
+{
+  "entryWord": "Naq",
+  "definition": "Que, cuando",
+  "additional_text": "CNJ var Naj",
+  "examples": [
+    {
+      "example_maya": "Naq tinkʼulunq tqakʼe junaq ninqʼe",
+      "example_spa": "Cuando yo venga haremos una fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak xinye naq tatxik",
+      "example_spa": "Ya te dije que te vayás Ya le dije que se vaya",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼaʼ naq inkʼaʼ",
+      "example_spa": "¡Cómo que no!",
+      "dialect": null
+    }
+  ],
+  "uuid": "3dff64a5-e32b-4472-a207-9ad2ab770e56",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

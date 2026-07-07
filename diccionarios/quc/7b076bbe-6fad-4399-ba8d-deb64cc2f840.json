@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yoʼj bʼeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Permitir",
+  "definitionDialect": "",
+  "additional_text": "vts Permitir",
+  "examples": [
+    {
+      "example_maya": "Li ajyuqʼ xuya bʼeh cheh li utiw xok pa li kikoral karneʼl",
+      "example_spa": "El pastor permitió la entrada del coyote al corral de ovejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b076bbe-6fad-4399-ba8d-deb64cc2f840"
+}

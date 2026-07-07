@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mora cheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de árbol",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "scl Raiz S Moor Raiz S Cheeʼ Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li mora cheʼ jun nima cheʼ kakʼiy pa tewa juyubʼ, li ucheʼal kabʼan bʼarah kech qʼatbʼaltzij",
+      "example_spa": "Arbol grande que crece en tierra fría, su madera se usa para hacer los bastones de las autoridades",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9d0b4cd-a70f-449c-8d78-816b73f666c8"
+}

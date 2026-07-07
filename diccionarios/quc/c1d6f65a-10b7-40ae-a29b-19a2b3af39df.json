@@ -1,0 +1,19 @@
+{
+  "entryWord": "Teqʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa rota",
+  "definitionDialect": "Raiz P. Teq'.",
+  "additional_text": "vi Kateeqʼoʼpik",
+  "examples": [
+    {
+      "example_maya": "Li ajchak kateqʼoʼp li ratzʼyaq chrij are taq kachakunik",
+      "example_spa": "El labrador trabaja con la ropa rota",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1d6f65a-10b7-40ae-a29b-19a2b3af39df"
+}

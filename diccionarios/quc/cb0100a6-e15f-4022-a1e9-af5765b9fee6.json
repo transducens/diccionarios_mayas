@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzyam kinaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzyam kinaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Habas cocidas en la ceniza para hacer recado",
+  "definitionDialect": "General",
+  "additional_text": "SCL Raíz S Tzih Raíz S Kinaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj utz kunaʼ li tzyam kinaqʼ",
+      "example_spa": "El niño siente muy sabrosas las habas cocidas en recado de nixtamal",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb0100a6-e15f-4022-a1e9-af5765b9fee6"
+}

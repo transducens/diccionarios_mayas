@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqirem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amanecer; ponerse claro; blanquearse; despertar",
+  "definitionDialect": "",
+  "additional_text": "vi Kasaqirik Raíz VI Saq",
+  "examples": [
+    {
+      "example_maya": "Xaq xsaqirik xbʼe li achih pa chak",
+      "example_spa": "El hombre se fue al amanecer a trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6ad98c0-fc60-4780-a718-ad082a53d802"
+}

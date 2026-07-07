@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kejexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkejej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Montar a caballo; mandar a otro",
+  "definitionDialect": "",
+  "additional_text": "vtd s Kejebʼal Montura Raíz S Keej",
+  "examples": [
+    {
+      "example_maya": "Li bʼakeʼr kukejej li ukej",
+      "example_spa": "El vaquero va a montar el caballo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq karaj kukejebʼej li rachajil chema na kakowin taj",
+      "example_spa": "La mujer quiere mandar a su marido pero no puede",
+      "dialect": null
+    }
+  ],
+  "uuid": "abeee9f7-3f25-45ec-9c32-ae0784c51d55"
+}

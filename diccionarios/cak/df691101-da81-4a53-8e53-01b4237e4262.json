@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ixtuxil (uxtuxil)",
+  "definition": "Talón, calcañar",
+  "additional_text": "sInv Wixtuxil Chʼakulaj",
+  "examples": [
+    {
+      "example_maya": "Ronojel pa wixtuxil nqʼaxon",
+      "example_spa": "Todo mi calcañar me duele",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq jun nqʼaxon pa rixtuxil man ütz ta nbʼiyin",
+      "example_spa": "Cuando a uno le duele el talón, no puede caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "df691101-da81-4a53-8e53-01b4237e4262",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

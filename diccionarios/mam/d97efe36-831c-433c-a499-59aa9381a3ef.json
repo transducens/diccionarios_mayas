@@ -1,0 +1,23 @@
+{
+  "entryWord": "XPATZBʼAN",
+  "definition": "grama",
+  "additional_text": "s1b nxpatzbʼana ds chʼim, ds kʼul",
+  "examples": [
+    {
+      "example_maya": "Bʼaʼn tklinx tzi ja tuʼn xpatzbʼan",
+      "example_spa": "Se ve bonito el patio de la casa con la grama",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Maʼ tzqij xpatzbʼaʼn tuʼn qʼij",
+      "example_spa": "Ya se secó la grama por el sol",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d97efe36-831c-433c-a499-59aa9381a3ef",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

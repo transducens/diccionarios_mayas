@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼirichʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar (el grillo)",
+  "definitionDialect": "General",
+  "additional_text": "vi Kachʼirichʼotik Sinón Tzʼiritzʼoteem",
+  "examples": [
+    {
+      "example_maya": "Li xiʼl kachʼirichʼot chwa jah",
+      "example_spa": "El grillo canta en el patio de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "42dbddaa-9940-432d-898f-7ce4255b0aa0"
+}

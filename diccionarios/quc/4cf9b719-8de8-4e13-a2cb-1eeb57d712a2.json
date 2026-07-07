@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaqʼixel",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchaqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hermano menor; hermana menor",
+  "definitionDialect": "",
+  "additional_text": "sos DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Li uchaqʼ li akaʼr sibʼalaj kʼa neʼ",
+      "example_spa": "El hermano de Gregorio todavía es nene",
+      "dialect": null
+    }
+  ],
+  "uuid": "4cf9b719-8de8-4e13-a2cb-1eeb57d712a2"
+}

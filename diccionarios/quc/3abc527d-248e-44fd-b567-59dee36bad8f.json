@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jumeʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nujumeʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corteza, cáscara de palo",
+  "definitionDialect": "",
+  "additional_text": "SInv Kʼoo jumeʼt jaachaa",
+  "examples": [
+    {
+      "example_maya": "Li jumeʼt re raxcheʼ sibʼalaj jeʼl che rachaq qʼaqʼ",
+      "example_spa": "La corteza del encino da muy buena brasa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ujumeʼtal paʼchaj kachokon che tzakbʼal tzʼuʼum",
+      "example_spa": "La corteza de pino blanco se usa para curtir cuero",
+      "dialect": null
+    }
+  ],
+  "uuid": "3abc527d-248e-44fd-b567-59dee36bad8f"
+}

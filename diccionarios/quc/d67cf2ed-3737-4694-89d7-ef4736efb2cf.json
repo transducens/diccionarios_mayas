@@ -1,0 +1,19 @@
+{
+  "entryWord": "Meskl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mezcla",
+  "definitionDialect": "",
+  "additional_text": "SInv Del Cast Mezcla",
+  "examples": [
+    {
+      "example_maya": "Li sajkowin kayuj chun rukʼ, are laʼ meskl",
+      "example_spa": "La mezcla se hace con arena y cal",
+      "dialect": null
+    }
+  ],
+  "uuid": "d67cf2ed-3737-4694-89d7-ef4736efb2cf"
+}

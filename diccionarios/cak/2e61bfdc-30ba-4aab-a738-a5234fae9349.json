@@ -1,0 +1,23 @@
+{
+  "entryWord": "Poronïk",
+  "definition": "Quemar cualquier cosa",
+  "additional_text": "vt Piroxik, ninporoj Poro, poron xan Ladrillo var Kʼatanïk, bʼanoj",
+  "examples": [
+    {
+      "example_maya": "Taq xinporoj jun juyuʼ, xitaq pa cheʼ",
+      "example_spa": "Cuando quemé un bosque, me mandaron a la cárcel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri winäq taq nkikʼüq ri patzʼän nkiporoj, reʼ man utz ta",
+      "example_spa": "Las personas cuando arrancan la caña de milpa la queman y no es aconsejable",
+      "dialect": null
+    }
+  ],
+  "uuid": "2e61bfdc-30ba-4aab-a738-a5234fae9349",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

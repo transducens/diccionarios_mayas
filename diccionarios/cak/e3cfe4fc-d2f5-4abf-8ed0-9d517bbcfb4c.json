@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼan",
+  "definition": "Mucho, bastante, fuerte",
+  "additional_text": "AdvC Var Kʼïy, yalan, janíla",
+  "examples": [
+    {
+      "example_maya": "Re qʼij je reʼ tzʼan ruchuqʼaʼ",
+      "example_spa": "En estos días es muy fuerte el sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tzʼan winäq yetoqa qa ri pa ruqʼij kʼaybʼäl",
+      "example_spa": "Mucha gente baja el día de mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3cfe4fc-d2f5-4abf-8ed0-9d517bbcfb4c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

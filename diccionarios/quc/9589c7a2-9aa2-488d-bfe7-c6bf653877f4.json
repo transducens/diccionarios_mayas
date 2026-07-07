@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wiqiqexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwiqiqej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Adornar bien; vestirse con ropa fina",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Wiq",
+  "examples": [
+    {
+      "example_maya": "Li alih, xuwiqiqej ribʼ ma xa kabʼe pa nimaqʼij",
+      "example_spa": "La muchacha se vistió con ropa fina, porque va a ir a la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, sibʼalaj xuwiqiqej li roʼch ma xa kʼo nimaqʼij kubʼanoh",
+      "example_spa": "El hombre adornó bien la casa porque va a hacer una fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "9589c7a2-9aa2-488d-bfe7-c6bf653877f4"
+}

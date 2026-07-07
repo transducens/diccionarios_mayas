@@ -1,0 +1,19 @@
+{
+  "entryWord": "Punixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sumergir en agua",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpuniij Raiz VT Pun",
+  "examples": [
+    {
+      "example_maya": "Li achih punixik kuʼon che li tzʼiʼ pa joron ma xa chʼuʼj",
+      "example_spa": "El hombre va a sumergir al perro dentro del agua porque tiene rabia",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5bf8cc2-ba7d-4e20-879e-dc35b5c1e492"
+}

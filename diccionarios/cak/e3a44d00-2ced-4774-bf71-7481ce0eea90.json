@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jaʼ",
+  "definition": "Sí",
+  "additional_text": "Adv Afir Var Jaʼe",
+  "examples": [
+    {
+      "example_maya": "Jaʼ, ja laʼ ninwajoʼ yin",
+      "example_spa": "Sí, eso quiero yo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun kʼa jaʼ, jun kʼa manäq",
+      "example_spa": "Acertamos de vez en cuando",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3a44d00-2ced-4774-bf71-7481ce0eea90",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

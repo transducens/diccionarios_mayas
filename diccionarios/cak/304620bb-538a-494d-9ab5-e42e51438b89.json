@@ -1,0 +1,23 @@
+{
+  "entryWord": "Majonïk",
+  "definition": "Quitar",
+  "additional_text": "vt Majoxik (majik), ninmäj var Eleqʼanïk, mäj",
+  "examples": [
+    {
+      "example_maya": "Jun achin xumäj nupayiʼaj (nupawiʼ), xinyaʼ ruway",
+      "example_spa": "Un hombre me quitó el sombrero y le pegué",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq xinmäj retzʼabʼal ri akʼwal, xoqʼ el",
+      "example_spa": "El niño lloró cuando le quité su juguete",
+      "dialect": null
+    }
+  ],
+  "uuid": "304620bb-538a-494d-9ab5-e42e51438b89",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

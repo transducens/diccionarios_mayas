@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tikik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sembrar; cultivar; iniciar; empezar; comenzar",
+  "definitionDialect": "general",
+  "additional_text": "vt Kintikoh Raíz VT Tik",
+  "examples": [
+    {
+      "example_maya": "Kawaj kintik jun kʼaʼm nukinaqʼ",
+      "example_spa": "Quiero sembrar una cuerda de frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "012e2569-d3cf-41fd-893b-454c2876c95c"
+}

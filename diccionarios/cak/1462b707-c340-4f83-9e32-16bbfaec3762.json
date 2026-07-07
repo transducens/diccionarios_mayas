@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kemonel",
+  "definition": "Tejedor",
+  "additional_text": "sAgen Nukemonel Winäq",
+  "examples": [
+    {
+      "example_maya": "Ri nukemonel ruyon jukumaj noqa",
+      "example_spa": "Mi tejedor siempre llega temprano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kemonel yalan jebʼël nchʼakon",
+      "example_spa": "El tejedor gana muy bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "1462b707-c340-4f83-9e32-16bbfaec3762",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

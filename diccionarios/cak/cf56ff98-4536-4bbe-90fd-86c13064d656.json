@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chakachik",
+  "definition": "Alto cuadrado, como una casa, grande en altura, como un animal cuadrúpedo y medio flaco",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Ri jun wachoch yalan chakachik jay",
+      "example_spa": "Tengo una casa que es alta y cuadrada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi kʼo jun chakachik aq",
+      "example_spa": "En mi casa hay un cerdo grande no muy gordo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri bʼala (bʼalam) jun chakachik kʼuxunel chikop",
+      "example_spa": "El tigre es un animal cuadrúpedo y carnívoro",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf56ff98-4536-4bbe-90fd-86c13064d656",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

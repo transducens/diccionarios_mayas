@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼanoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar niño gordo y descalzo",
+  "definitionDialect": "general",
+  "additional_text": "vl Katʼaanoʼpik",
+  "examples": [
+    {
+      "example_maya": "Li a laj a Wel katʼanoʼp chi li jaʼ",
+      "example_spa": "Manuelito anda descalzo por la orilla del río",
+      "dialect": null
+    }
+  ],
+  "uuid": "4bc13f48-7a35-4cbd-bbf9-423f6c002f00"
+}

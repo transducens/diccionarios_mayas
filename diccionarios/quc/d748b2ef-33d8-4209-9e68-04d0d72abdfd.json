@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sutinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasutinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dar vueltas; girar; marearse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Sut",
+  "examples": [
+    {
+      "example_maya": "Li bʼinel chʼichʼ are taq kuchapleʼj bʼinem, kasutin li ukareʼtal",
+      "example_spa": "Cuando el carro comienza a caminar, las llantas giran",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kasutin nujolom rumal li jutzʼit tzam xintijoh",
+      "example_spa": "Ya me estoy mareando por el poco de trago que tomé",
+      "dialect": null
+    }
+  ],
+  "uuid": "d748b2ef-33d8-4209-9e68-04d0d72abdfd"
+}

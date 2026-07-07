@@ -1,0 +1,23 @@
+{
+  "entryWord": "Makʼalöj",
+  "definition": "Hacer un poco de ruido las gotas de agua al empezar achiʼel o dejar de llover",
+  "additional_text": "vi Nimakʼalöj",
+  "examples": [
+    {
+      "example_maya": "Achʼiʼël taq kan noqa jujun raqän ri jöbʼ, nimakʼalöj pe",
+      "example_spa": "Cuando llegan las primeras gotas de lluvia, hacen pequeños ruidos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq nipe yan jobʼ, nimakʼaloj nipe ri raqän",
+      "example_spa": "Cuando empieza a llover, primero caen gotas suavemente",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b662be4-d371-48cf-a8ea-e5770152b831",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tinitïk",
+  "definition": "Gorda: persona; gruesa y pesada: una cosa",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "La jun tinitïk achin laʼ, majun nitikïr ta nibʼyïn",
+      "example_spa": "Ese gordo no puede caminar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Choj tinitïk ri jun cheʼ xo yaʼox kan chwe",
+      "example_spa": "El palo que me vinieron a dejar es todo desproporcionado",
+      "dialect": null
+    }
+  ],
+  "uuid": "30f32a8c-29ee-4354-b7f2-3622cc75180e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

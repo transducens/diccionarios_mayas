@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ajqʼij",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajqʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacerdote maya",
+  "definitionDialect": "General",
+  "additional_text": "SAgen SPl Ajqʼijaabʼ Raíz S Qʼiij DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼij kuporoj pom pa taq juyubʼ",
+      "example_spa": "El sacerdote maya quema copal en los cerros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajqʼij kuʼsikʼij kamnaqibʼ",
+      "example_spa": "El sacerdote maya llama a los espíritus de los muertos",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d9977ec-c5ff-4dcf-93b9-f138ffd455fb"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "=Tuchʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Utuchʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Esquina, ángulo, arista, cemijal, esquinazo, canto",
+  "definitionDialect": "",
+  "additional_text": "ssp Sinón Xkut Raíz P Tuchʼ",
+  "examples": [
+    {
+      "example_maya": "Li wankeʼt kajibʼ li utuchʼ",
+      "example_spa": "La mesa tiene cuatro esquinas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li utuchʼ li bʼeh kʼo chajinel",
+      "example_spa": "En la esquina de la calle hay guardia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ja kʼo kajibʼ utuchʼ",
+      "example_spa": "La casa tiene cuatro esquinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "7050427e-cc48-46ba-9c54-75e7fa32a8a4"
+}

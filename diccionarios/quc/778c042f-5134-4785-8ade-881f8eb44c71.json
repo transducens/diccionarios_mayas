@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muquj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sembrar trigo, enterrándolo con azadón",
+  "definitionDialect": "",
+  "additional_text": "sv Raíz VT Muq",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ muquj trikoh tajin kakibʼanoh",
+      "example_spa": "Los hombres están sembrando trigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "778c042f-5134-4785-8ade-881f8eb44c71"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rij bʼiloj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frijol que se come con cáscara",
+  "definitionDialect": "es",
+  "additional_text": "sds Sinón Kinaqʼ pa riij Sinón Rij abʼiix DomS Kinaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li rij bʼiloj sibʼalaj kiʼ utijowik rachiʼl rij",
+      "example_spa": "Este frijol es muy sabroso cuando se come con cáscara",
+      "dialect": null
+    }
+  ],
+  "uuid": "25eb8636-c87b-44ed-95ee-1ff886e7fa97"
+}

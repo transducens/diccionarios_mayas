@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juchip",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un poquito de café molido, sal, harina y otras cosas en polvo",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Chip",
+  "examples": [
+    {
+      "example_maya": "Xinjal juchip nukape che li ixoq",
+      "example_spa": "Le presté un poco de café molido a la mujer",
+      "dialect": null
+    }
+  ],
+  "uuid": "a2983d8d-072c-4f68-8356-3475bab36753"
+}

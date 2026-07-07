@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xanta Krus",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fiesta de la Cruz; cofradía de la Santa Cruz",
+  "definitionDialect": "",
+  "additional_text": "scl Del Cast Santa Cruz",
+  "examples": [
+    {
+      "example_maya": "Pa xanta krus kawiq ronojel taq li kʼwaʼ xuq kabʼan alaj taq krus kaxekebʼax chwach taq li raqan jah",
+      "example_spa": "En la fiesta de la santa cruz se adornan los pozos y también se hacen unas cruces pequeñas y las amarran en los pilares de las casas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xanta krus are nabʼe chʼobʼ chkiwach li kajchʼobʼ chik, xuq pa we juchʼobʼ kopradiy\" Kʼolotal wi li ujastaq li ximon",
+      "example_spa": "La cofradía de la santa cruz es el primer grupo de las otras cuatro También en esta cofradía está guardada la ropa de Judas Iscariote",
+      "dialect": null
+    }
+  ],
+  "uuid": "110f6e66-ce17-4ec9-b931-6c5790576158"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "=SAAM",
+  "definition": "mensajero, mandadero",
+  "additional_text": "sy nsama, tsam raíz sam vt",
+  "examples": [
+    {
+      "example_maya": "Ooʼ txiʼ naj nsama tjaqʼ kʼul",
+      "example_spa": "Mi mensajero se ha perdido en el monte",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b26e79e1-4aff-448f-931e-4641dd120671",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

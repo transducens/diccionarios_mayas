@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kunanel",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukunanel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doctor; médico",
+  "definitionDialect": "",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li nima qʼatal tzij tas wi li ukunanel",
+      "example_spa": "El Presidente tiene doctor particular",
+      "dialect": null
+    }
+  ],
+  "uuid": "b9896efb-2abb-4b00-8f28-aa8d2ba7c5d7"
+}

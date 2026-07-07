@@ -1,0 +1,24 @@
+{
+  "entryWord": "Latzʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlatzʼuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Colar; filtrar",
+  "definitionDialect": "",
+  "additional_text": "vtd Var Chayunik Raiz VT Latzʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq latzʼuxik kubʼan che li kapeh",
+      "example_spa": "La mujer va a colar el café",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xulatzʼuj li utzi pa joron",
+      "example_spa": "La mujer coló el nixtamal en el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9a9b8d0-32ee-417f-be63-49b7e601c117"
+}

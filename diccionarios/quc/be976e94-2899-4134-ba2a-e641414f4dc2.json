@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Nimal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tamaño; orgullo; tronco del cuerpo",
+  "definitionDialect": "General",
+  "additional_text": "ssp",
+  "examples": [
+    {
+      "example_maya": "Li xkanul nim aqʼannaq li unimal chwach li xaq juyubʼ",
+      "example_spa": "El volcán es más alto que el cerro",
+      "dialect": null
+    }
+  ],
+  "uuid": "be976e94-2899-4134-ba2a-e641414f4dc2"
+}

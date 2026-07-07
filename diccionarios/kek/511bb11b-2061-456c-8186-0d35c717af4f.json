@@ -1,0 +1,23 @@
+{
+  "entryWord": "Amaqʼil tenamit",
+  "definition": "Pariente, compañeго, paisano, público",
+  "additional_text": "SCL Wamaqʼil tenamit",
+  "examples": [
+    {
+      "example_maya": "Bʼar wankebʼ li wamaqʼil?",
+      "example_spa": "¿Dónde están mis paisanos?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ex wamaqʼil tinye jun li esil eere",
+      "example_spa": "\"Estimado público les voy a dar una noticia\"",
+      "dialect": null
+    }
+  ],
+  "uuid": "511bb11b-2061-456c-8186-0d35c717af4f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

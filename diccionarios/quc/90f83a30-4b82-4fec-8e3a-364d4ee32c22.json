@@ -1,0 +1,24 @@
+{
+  "entryWord": "Win",
+  "entryWordDialect": null,
+  "altEntryWord": "Jalibʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lechuza; espíritu de brujo que aparece en forma de lechuza",
+  "definitionDialect": "",
+  "additional_text": "sNp Sinón Xoochʼ DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li win are sibʼalaj e nimaʼq chikiwach li tukur",
+      "example_spa": "La lechuza es más grande que el tecolote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ujalibʼ li ajʼitz jun win, are taq kabʼe pa waʼkatem chaqʼabʼ, kaxulqʼabʼik",
+      "example_spa": "El espíritu del brujo es una lechuza, cuando se va de viaje por las noches, silba",
+      "dialect": null
+    }
+  ],
+  "uuid": "90f83a30-4b82-4fec-8e3a-364d4ee32c22"
+}

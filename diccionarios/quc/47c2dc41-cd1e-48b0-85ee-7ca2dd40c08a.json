@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sikʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsikʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Tijoj siikʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Fumar",
+  "definitionDialect": "",
+  "additional_text": "vTD Sinón Raíz S Siikʼ",
+  "examples": [
+    {
+      "example_maya": "Li staq e qatat qanan ojer are kikisikʼaj li meʼt",
+      "example_spa": "Nuestros antepasados fumaron las hojas sencillas de tabaco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achijabʼ konojel tajin kesikʼanik",
+      "example_spa": "Todos los hombres están fumando",
+      "dialect": null
+    }
+  ],
+  "uuid": "47c2dc41-cd1e-48b0-85ee-7ca2dd40c08a"
+}

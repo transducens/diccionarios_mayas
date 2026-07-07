@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼosixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar a cosa sólida, con palo; batir; organizar baile; burlarse de; brujear",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinqʼosiij Raiz VT Qʼos",
+  "examples": [
+    {
+      "example_maya": "Li achih xuqʼosij masat",
+      "example_spa": "El hombre organizó el baile del venado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah xinuqʼosij pa tzij",
+      "example_spa": "El muchacho se burló de mí indirectamente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinuqʼosij li ajʼitz, xa je riʼ xinriq yabʼil",
+      "example_spa": "El brujo me brujeó, por eso me enfermé",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ce19a91-50d0-4630-8de3-027686afca45"
+}

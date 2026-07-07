@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼananebʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pavo de color gris",
+  "definitionDialect": "",
+  "additional_text": "snp",
+  "examples": [
+    {
+      "example_maya": "Li qʼananebʼ sal li kij xuq utz li kitiʼjal katijowik",
+      "example_spa": "Esta clase de pavo es de color gris y su carne es comestible",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b0584ef-2042-4368-886a-a9e3da1af24d"
+}

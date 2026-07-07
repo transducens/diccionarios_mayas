@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼakoʼja peraj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perraje típico, color café",
+  "definitionDialect": "",
+  "additional_text": "scl Nuqʼaakoʼja peeraaj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq qʼakoʼja peraj reqabʼem re li ral",
+      "example_spa": "La mujer usa un perraje típico para cargar a su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "26aa3497-d9e0-49bc-bacd-4b34dab739ed"
+}

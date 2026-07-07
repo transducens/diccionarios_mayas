@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oomuchʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuatrocientos",
+  "definitionDialect": "Español",
+  "additional_text": "NumOrd Fbas //Joʼ (oʼ, oo)//",
+  "examples": [
+    {
+      "example_maya": "Oomuchʼ tojom wi li achih cheh li uchak",
+      "example_spa": "Cuatrocientos le han pagado al hombre por su trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d980ff57-8f9f-4f83-9915-6bc9c6677cce"
+}

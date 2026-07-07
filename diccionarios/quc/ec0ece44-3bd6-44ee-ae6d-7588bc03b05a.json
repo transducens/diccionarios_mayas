@@ -1,0 +1,34 @@
+{
+  "entryWord": "Turixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enfriar bebidas calientes volteando el contenido de una taza a otra; ventilar granos dejándolos caer; como frijol, trigo, etc; llamar gallinas; enamorar (modismo)",
+  "definitionDialect": "general",
+  "additional_text": "vTD Kinturiij",
+  "examples": [
+    {
+      "example_maya": "Kinturij na li kapeh, ma xa kʼatan",
+      "example_spa": "Voy a enfriar el café porque está caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq tajin kuturij li kinaqʼ",
+      "example_spa": "La mujer está ventilando el frijol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq tajin kuturij li rakʼ ma xa kuʼtzuquh",
+      "example_spa": "La mujer está llamando a las gallinas para darles de comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah tajin kuturij li alih",
+      "example_spa": "El muchacho está enamorando a",
+      "dialect": null
+    }
+  ],
+  "uuid": "ec0ece44-3bd6-44ee-ae6d-7588bc03b05a"
+}

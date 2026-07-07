@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼipaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchʼipaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jabón de monte; amol; jabón de coche",
+  "definitionDialect": "General",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li Skaʼ kʼuchʼoj li atzʼyaq rukʼ chʼipaq",
+      "example_spa": "Francisca lava la ropa con jabón",
+      "dialect": null
+    }
+  ],
+  "uuid": "0cb44d42-59b5-4030-8912-d13815727c36"
+}

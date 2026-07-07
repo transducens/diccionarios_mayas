@@ -1,0 +1,19 @@
+{
+  "entryWord": "Salkʼam",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusalkʼam",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enfermedad que se da en la palma de la mano de las mujeres, causada por un hongo que se desarrolla en la humedad",
+  "definitionDialect": "general",
+  "additional_text": "scv DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Ee kʼo ixoqibʼ kʼo salkʼam pa kiqʼabʼ",
+      "example_spa": "Hay mujeres que tienen rajaduras en la piel de la mano",
+      "dialect": null
+    }
+  ],
+  "uuid": "15f9b293-9d58-45a1-ae41-34fe1eb8f3f5"
+}

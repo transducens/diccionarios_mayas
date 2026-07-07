@@ -1,0 +1,19 @@
+{
+  "entryWord": "Poʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Matapalo",
+  "definitionDialect": "",
+  "additional_text": "saP Raiz S Poʼj DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li poʼj nima cheʼ pa miqʼina juyubʼ kakʼiy wih",
+      "example_spa": "El matapalo es un árbol grande que crece en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "a4e422b8-67ff-495a-92b5-d923500e61fb"
+}

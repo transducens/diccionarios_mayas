@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jusol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una enrollada de hilo; una vuelta cuando se visita a alguna persona",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq jusol xuluyaʼaʼ, xtzalijik",
+      "example_spa": "El hombre sólo vino a dar una vuelta y regresó",
+      "dialect": null
+    }
+  ],
+  "uuid": "5719a349-b34c-48f7-a8be-9d975e7f70cc"
+}

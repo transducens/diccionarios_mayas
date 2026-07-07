@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼopin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brinco; salto; coloreado",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchʼoopin Sinón Pixkʼan",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xubʼan uchʼopin chrij kolobʼ",
+      "example_spa": "El niño dio un brinco sobre el lazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c9197eff-3f92-4a9c-8281-2773f6b7819e"
+}

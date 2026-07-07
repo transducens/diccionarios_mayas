@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqʼuy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una restregada",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz VT Qʼuy",
+  "examples": [
+    {
+      "example_maya": "Li alih xaq juqʼuy xuya che uchʼajik li webʼal na xel ta li tzʼil",
+      "example_spa": "La muchacha sólo le dio una restregada al plato y no se le quitó la suciedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "24a31bde-80dd-48ae-8010-d443097d59cf"
+}

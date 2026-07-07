@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xuluxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Inclinado; pendiente; cuesta; subida; rampa; declive; bajada",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Xul",
+  "examples": [
+    {
+      "example_maya": "Li bʼeh kabʼe pa li kʼwaʼ xuluxik",
+      "example_spa": "El camino que va al pozo es una pendiente",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b2c7144-db3f-48fc-8fa3-db5473e57b0f"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼetqʼeʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Qʼatqʼaʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entrecontado",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Qʼatqʼaʼy",
+  "examples": [
+    {
+      "example_maya": "Li rij uwiʼ li noʼs qʼetqʼeʼy ubʼanom",
+      "example_spa": "El pescuezo del chompipe es entrecortado",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea47735f-71ff-4f1e-9961-51042b33a78f"
+}

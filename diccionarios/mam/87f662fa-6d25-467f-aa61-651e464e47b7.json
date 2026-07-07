@@ -1,0 +1,18 @@
+{
+  "entryWord": "PAQ",
+  "definition": "1 mudada completa Es necesario anteponerle el número, porque no se usa sola 2 una pieza de marimba",
+  "additional_text": "md raíz paq md",
+  "examples": [
+    {
+      "example_maya": "Pena malet twiʼ jun paq nxbʼalana",
+      "example_spa": "Apenas conseguí dinero para una mi mudada",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "87f662fa-6d25-467f-aa61-651e464e47b7",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

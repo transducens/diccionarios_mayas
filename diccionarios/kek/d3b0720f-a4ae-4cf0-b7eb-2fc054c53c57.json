@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tel",
+  "definition": "Brazo",
+  "additional_text": "SInv Intel var Telbʼ",
+  "examples": [
+    {
+      "example_maya": "Jwal ninq xkelam xtel",
+      "example_spa": "Tiene los brazos muy largos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ramroʼ naq nachapeʼ intel xbʼaan mochkej",
+      "example_spa": "Tengo calambres en el brazo de vez en cuando",
+      "dialect": null
+    }
+  ],
+  "uuid": "d3b0720f-a4ae-4cf0-b7eb-2fc054c53c57",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

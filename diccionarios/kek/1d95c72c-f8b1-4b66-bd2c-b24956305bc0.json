@@ -1,0 +1,23 @@
+{
+  "entryWord": "Parax",
+  "definition": "Chamuscado, manchado",
+  "additional_text": "Adj Xparaxoʼ, xparaxil Sinón Paraxkʼaat",
+  "examples": [
+    {
+      "example_maya": "Parax ru inkʼux naq xeʼxpom",
+      "example_spa": "El elote que me asaron está chamuscado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼux xparaxoʼ saʼ li xam",
+      "example_spa": "Mi elote se chamuscó en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "1d95c72c-f8b1-4b66-bd2c-b24956305bc0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

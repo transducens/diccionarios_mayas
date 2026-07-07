@@ -1,0 +1,18 @@
+{
+  "entryWord": "AALMA",
+  "definition": "almud (contiene doce libras, se usa para medir granos)",
+  "additional_text": "s1 walmaya del español almud ds malbʼil",
+  "examples": [
+    {
+      "example_maya": "Antz jun alma nmajan axiʼn qʼany",
+      "example_spa": "Prestame un almud de maíz vos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "4a8db162-1fc5-43a3-968c-5309c15b2b1a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

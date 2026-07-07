@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sey",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusey",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Columpio; columpiada (acción)",
+  "definitionDialect": "General",
+  "additional_text": "sInv Raíz S Sey",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal usey tajin kubʼan pa li oj are taq xkʼoqopij li kolobʼ",
+      "example_spa": "El niño estaba dándose una columpiada en el aguacatal, cuando se reventó el lazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a0cf6389-e28b-4c8c-ae43-574a994a4f02"
+}

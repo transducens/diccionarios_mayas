@@ -1,0 +1,24 @@
+{
+  "entryWord": "Aal",
+  "entryWordDialect": null,
+  "altEntryWord": "Raʼlal, xʼalirik (xʼalobʼik, xʼalobʼirik)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pesado Hacer pesada una cosa Orgulloso, incumplido, que no quiere hacer lo que le piden Es muy cumplido, trabajador, obediente",
+  "definitionDialect": "",
+  "additional_text": "Adj //Ahl// vrc Aalobʼsaxik s Aʼlaal F Maj nimaal aʼlaal chwach Raíz Adj Aal",
+  "examples": [
+    {
+      "example_maya": "Li reqaʼn li achih al kunaʼoh",
+      "example_spa": "El hombre siente pesada su carga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Le achih xuʼalobʼsaj li reqaʼn li ukej",
+      "example_spa": "El hombre le hizo pesada la carga a la bestia",
+      "dialect": null
+    }
+  ],
+  "uuid": "84d3aa63-bdd8-4808-92ed-0e4a8d17c772"
+}

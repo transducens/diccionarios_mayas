@@ -1,0 +1,28 @@
+{
+  "entryWord": "Junaʼ (jun aʼ)",
+  "definition": "Año, edad",
+  "additional_text": "SInv Nujunaʼ",
+  "examples": [
+    {
+      "example_maya": "Wakami nitikïr chïk jun mayabʼ junaʼ",
+      "example_spa": "Ahora comienza otro año maya",
+      "dialect": null
+    },
+    {
+      "example_maya": "Junabʼir",
+      "example_spa": "Año anterior",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ke waʼ junabʼir",
+      "example_spa": "Hace un año",
+      "dialect": null
+    }
+  ],
+  "uuid": "81254338-c84b-40bb-b4dd-3b1de4b9873b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

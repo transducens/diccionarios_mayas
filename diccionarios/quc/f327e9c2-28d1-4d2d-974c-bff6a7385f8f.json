@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ayote",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukʼuum DomS Tiikoʼn",
+  "examples": [
+    {
+      "example_maya": "Li kʼum kakʼiy pa taqʼaj",
+      "example_spa": "El ayote crece en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f327e9c2-28d1-4d2d-974c-bff6a7385f8f"
+}

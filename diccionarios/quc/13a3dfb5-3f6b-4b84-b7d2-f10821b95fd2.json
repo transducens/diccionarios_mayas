@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wachikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sueño de cosas o personas al dormir",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuwachʼik Raíz S Wach DomS Waraam",
+  "examples": [
+    {
+      "example_maya": "We jun winaq kubʼan itzel wachikʼ na utz taj",
+      "example_spa": "Si una persona sueña malas cosas, no es bueno",
+      "dialect": null
+    }
+  ],
+  "uuid": "13a3dfb5-3f6b-4b84-b7d2-f10821b95fd2"
+}

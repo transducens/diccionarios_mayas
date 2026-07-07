@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pexbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupexbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Balanza",
+  "definitionDialect": "General",
+  "additional_text": "scv Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Kinpaj na li wixim pa li pexbʼal",
+      "example_spa": "Voy a pesar el maíz en la balanza",
+      "dialect": null
+    }
+  ],
+  "uuid": "c832484d-aeff-4a49-a60f-9c7e01c05a61"
+}

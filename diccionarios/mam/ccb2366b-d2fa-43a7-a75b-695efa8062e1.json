@@ -1,0 +1,23 @@
+{
+  "entryWord": "JAAʼWAL QʼIIJ",
+  "definition": "salir el sol, amanecer, aclarar",
+  "additional_text": "vi jaʼwal nqʼija raíz jaw vi raíz qʼij s",
+  "examples": [
+    {
+      "example_maya": "Ok tjaʼwal qʼij prim, pur cheʼw tqan",
+      "example_spa": "Cuando sale el sol por la mañana, los rayos son fríos",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kyeʼyex tkinx twitz txʼotxʼ ok tjaʼwal qʼij",
+      "example_spa": "Que bonita se mira la superficie de la tierra, cuando amanece",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ccb2366b-d2fa-43a7-a75b-695efa8062e1",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

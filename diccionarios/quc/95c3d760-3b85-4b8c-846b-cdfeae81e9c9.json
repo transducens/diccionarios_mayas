@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼayomja",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casa de adobes grandes",
+  "definitionDialect": "",
+  "additional_text": "sc Coment Palabra antigua",
+  "examples": [
+    {
+      "example_maya": "Waʼ we chʼayom jah, nimaq taq xan koksax cheh",
+      "example_spa": "A esta casa se le ponen adobes grandes",
+      "dialect": null
+    }
+  ],
+  "uuid": "95c3d760-3b85-4b8c-846b-cdfeae81e9c9"
+}

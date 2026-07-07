@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roqexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinroqej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosa suave y flexible en la mano, como tela, carne, cadáver",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raíz PT Roq",
+  "examples": [
+    {
+      "example_maya": "Li alih xuroqej bʼi li usuʼt are taq xbʼe pa utaqkil",
+      "example_spa": "La muchacha se llevó el sute en la mano cuando fue a hacer su mandado",
+      "dialect": null
+    }
+  ],
+  "uuid": "bcfe5415-8d3a-481d-bb82-c5cb89b8f9c7"
+}

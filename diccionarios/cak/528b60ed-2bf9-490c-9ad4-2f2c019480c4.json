@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tʼok",
+  "definition": "Puño ( de la mano)",
+  "additional_text": "sInv Nutʼok Sinón Tʼoy",
+  "examples": [
+    {
+      "example_maya": "Ri winäq nkichʼey kiʼ chi tʼok",
+      "example_spa": "Las personas se pelean con los puños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq natij tʼok qʼaʼ yalan niqʼaxon",
+      "example_spa": "Duele mucho al recibir un golpe con el puño",
+      "dialect": null
+    }
+  ],
+  "uuid": "528b60ed-2bf9-490c-9ad4-2f2c019480c4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

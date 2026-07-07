@@ -1,0 +1,24 @@
+{
+  "entryWord": "Poʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cambiar carácter, forma de bordado o costumbre",
+  "definitionDialect": "",
+  "additional_text": "vTR Kinpoʼoh Poʼl uwach qatinamiit Alguien que cambia la costumbre de nuestro pueblo Fbas //Poh (poʼ)//",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xupoʼ uqʼoʼik upa li poʼt",
+      "example_spa": "La mujer cambió la forma del bordado del güipil",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li albʼatz tajin kupoʼ li unaʼoj che li rachajil",
+      "example_spa": "La nuera está cambiando de carácter respecto a su esposo",
+      "dialect": null
+    }
+  ],
+  "uuid": "095b84bf-870c-41af-978b-2638181ee2b6"
+}

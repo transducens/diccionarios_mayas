@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajilaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwajilaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Contar cantidades (lo cuento)",
+  "definitionDialect": "",
+  "additional_text": "vtd Var Ajlaxik Raíz S Ajil",
+  "examples": [
+    {
+      "example_maya": "Kinwajilaj na jampa xinchup pa kʼayubʼal",
+      "example_spa": "Voy a contar cuánto gasté en la plaza",
+      "dialect": null
+    }
+  ],
+  "uuid": "4dab8835-65b0-4803-bccf-8339d0049ab0"
+}

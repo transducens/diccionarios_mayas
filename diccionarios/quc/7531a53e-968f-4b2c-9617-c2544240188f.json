@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaqabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼaqabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enfermedad causada por brujería",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xkamik, kʼaqabʼal re ajʼitz xuriqoh",
+      "example_spa": "La mujer se murió por enfermedad de brujería",
+      "dialect": null
+    }
+  ],
+  "uuid": "7531a53e-968f-4b2c-9617-c2544240188f"
+}

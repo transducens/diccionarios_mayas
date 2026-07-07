@@ -1,0 +1,23 @@
+{
+  "entryWord": "Lut",
+  "definition": "Cuache, gemelo",
+  "additional_text": "sInv Inlut",
+  "examples": [
+    {
+      "example_maya": "Xwan kiibʼ inkokʼal lut, abʼanan xkam li jun",
+      "example_spa": "Tuve dos niños gemelos, pero se murió uno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ebʼ li lut junelik ne keʼbʼeek laqʼlookebʼ",
+      "example_spa": "Los cuaches siempre andan juntos",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ead074d-00e5-495c-bf78-b218916ef97a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

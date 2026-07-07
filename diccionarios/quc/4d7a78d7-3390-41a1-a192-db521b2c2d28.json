@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqa kumatz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reumatismo",
+  "definitionDialect": "",
+  "additional_text": "scL Var Choʼkej DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li nuchʼuti tat uriqom kaqa kumatz",
+      "example_spa": "Mi tío tiene reumatismo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4d7a78d7-3390-41a1-a192-db521b2c2d28"
+}

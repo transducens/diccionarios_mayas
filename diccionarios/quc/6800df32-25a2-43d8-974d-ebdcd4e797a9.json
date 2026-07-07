@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matzalajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamatzalajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con pasos ligeros, sin ser visto; oír ruidos misteriosos",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VI Matz",
+  "examples": [
+    {
+      "example_maya": "Chwa li ja katataj taq matzalajem",
+      "example_spa": "En el patio se oyen ruidos misteriosos",
+      "dialect": null
+    }
+  ],
+  "uuid": "6800df32-25a2-43d8-974d-ebdcd4e797a9"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ikam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abajo",
+  "definitionDialect": "General",
+  "additional_text": "Adv Ant Ajsik Var Ikem",
+  "examples": [
+    {
+      "example_maya": "Jelaʼ ikam kakanaj wi li jah",
+      "example_spa": "Allá abajo queda la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c8fa2a7-f868-4ad2-b237-b77aae1f5837"
+}

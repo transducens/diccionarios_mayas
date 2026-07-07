@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pujanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener materia una herida; ser o estar llorón un niño",
+  "definitionDialect": "",
+  "additional_text": "vi Kapujanik Raíz VT Puj",
+  "examples": [
+    {
+      "example_maya": "Li raqan li achih xsokotajik, xpujanik",
+      "example_spa": "El hombre se lastimó la pierna, y ya tiene materia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xaq kapujanik, ma xa yawabʼ",
+      "example_spa": "El niño está llorón porque está enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "978d5ff0-687f-42a2-8f21-c1deab4e48bc"
+}

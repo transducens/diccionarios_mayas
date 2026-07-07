@@ -1,0 +1,23 @@
+{
+  "entryWord": "XOON",
+  "definition": "sordo",
+  "additional_text": "adj t-xonal, ma xonax raíz xon adj",
+  "examples": [
+    {
+      "example_maya": "Bʼaʼn aqʼnan tal xon tiʼj maniya",
+      "example_spa": "El sordito sabe trabajar en la manía",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aj jun xon melayx tbʼim yol",
+      "example_spa": "Un sordo no puede oír palabras",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3ed265e9-e8a2-4e14-8d12-cd5b36993b3e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

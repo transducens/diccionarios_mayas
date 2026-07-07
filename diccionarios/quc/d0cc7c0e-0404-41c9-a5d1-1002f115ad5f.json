@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchoʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuchoʼbʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Flojo",
+  "definitionDialect": "General",
+  "additional_text": "p Var Xukorobʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Xaq choʼl li umolqʼabʼ li ixoq che li uqʼabʼ",
+      "example_spa": "La mujer tiene flojo el anillo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0cc7c0e-0404-41c9-a5d1-1002f115ad5f"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choqon",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchoqon",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cosquillas",
+  "definitionDialect": "General",
+  "additional_text": "sinv",
+  "examples": [
+    {
+      "example_maya": "Li alah kuʼon uchoqon li alih",
+      "example_spa": "El muchacho le hace cosquillas a la muchacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "02d5f8e0-3f32-456f-bb10-bcff9ff677f0"
+}

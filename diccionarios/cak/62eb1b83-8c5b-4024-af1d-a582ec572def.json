@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼij",
+  "definition": "Poder, potestad, valor, utilidad, tiempo, cumpleaños",
+  "additional_text": "sInv Nuqʼij Ruqʼij chik Epoca de",
+  "examples": [
+    {
+      "example_maya": "Waweʼ chi ruwachʼulew kʼiy winäq kʼo kiqʼij",
+      "example_spa": "En esta tierra muchas personas tienen potestad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin pa rubʼelej ikʼ nikʼo nuqʼij",
+      "example_spa": "En septiembre es mi cumpleaños",
+      "dialect": null
+    }
+  ],
+  "uuid": "62eb1b83-8c5b-4024-af1d-a582ec572def",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

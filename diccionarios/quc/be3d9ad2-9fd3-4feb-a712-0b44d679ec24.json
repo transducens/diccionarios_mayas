@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jawichiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿De dónde?; ¿dónde?",
+  "definitionDialect": "",
+  "additional_text": "Interr",
+  "examples": [
+    {
+      "example_maya": "¿Jawichiʼ kape wi waʼ we kʼayij?",
+      "example_spa": "¿De dónde viene este producto?",
+      "dialect": null
+    }
+  ],
+  "uuid": "be3d9ad2-9fd3-4feb-a712-0b44d679ec24"
+}

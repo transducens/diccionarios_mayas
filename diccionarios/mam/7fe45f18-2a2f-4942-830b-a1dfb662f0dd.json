@@ -1,0 +1,23 @@
+{
+  "entryWord": "TAAL",
+  "definition": "dormir",
+  "additional_text": "vi ma chin tana raíz wat vi",
+  "examples": [
+    {
+      "example_maya": "Jorat ma chin tana tuʼnj sikynaj qina",
+      "example_spa": "Me dormí luego porque estaba cansado",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Ma tan chʼin teʼ qonikyʼan makyʼ tuʼn naq chnabʼ?",
+      "example_spa": "¿Dormiste un poco anoche con el ruido de la marimba?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7fe45f18-2a2f-4942-830b-a1dfb662f0dd",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

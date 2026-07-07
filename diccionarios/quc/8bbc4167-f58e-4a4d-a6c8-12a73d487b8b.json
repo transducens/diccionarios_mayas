@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qitzʼitzʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Relincho; rebuzno; rechinamiento de puerta",
+  "definitionDialect": "General",
+  "additional_text": "ssp Uqitzʼitzʼbʼal Raiz VI Qitzʼ",
+  "examples": [
+    {
+      "example_maya": "Li uqitzʼitzʼbʼal li kej naj kabʼek",
+      "example_spa": "El relincho del caballo se oye lejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "8bbc4167-f58e-4a4d-a6c8-12a73d487b8b"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "Xeel",
+  "definition": "Sobrante o sobras de comida, carne y tamalitos que guarda cada trabajador de su ración para llevarle a su familia, en fiestas, siembras y cosechas",
+  "additional_text": "sInv Inxeel",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ xinra inxeel",
+      "example_spa": "No guardé resto de comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "dcb7f919-14e6-4d64-97f8-7a1649966dcb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

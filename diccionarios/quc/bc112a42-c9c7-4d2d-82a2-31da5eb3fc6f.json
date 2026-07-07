@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rukik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover líquido; menear líquidos",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinrukuh Raíz VT Ruk",
+  "examples": [
+    {
+      "example_maya": "Li ajʼikʼ tajin kuruk li tzih pa li cheh li paleʼt",
+      "example_spa": "La sirvienta está moviendo el nixtamal entre la olla con la paleta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih kapeh xurukuh are chi kutijoh",
+      "example_spa": "La muchacha movió el café para tomárselo",
+      "dialect": null
+    }
+  ],
+  "uuid": "bc112a42-c9c7-4d2d-82a2-31da5eb3fc6f"
+}

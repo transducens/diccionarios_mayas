@@ -1,0 +1,19 @@
+{
+  "entryWord": "Anabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wanabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hermana de hombre",
+  "definitionDialect": "General",
+  "additional_text": "sInv DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Ri wanabʼ xkʼuliʼ rukʼ ri a Xwan",
+      "example_spa": "Mi hermana se casó con Juan",
+      "dialect": null
+    }
+  ],
+  "uuid": "2bd4808c-b309-4afd-b01d-bd0ad8b54907"
+}

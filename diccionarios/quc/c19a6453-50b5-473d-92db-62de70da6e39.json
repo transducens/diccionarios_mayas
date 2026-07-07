@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼar",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juego de ceras",
+  "definitionDialect": "Spanish",
+  "additional_text": "sNP Raíz PT Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Li akʼalabʼ tajin kakibʼan tzʼar",
+      "example_spa": "Los niños están jugando cera",
+      "dialect": null
+    }
+  ],
+  "uuid": "c19a6453-50b5-473d-92db-62de70da6e39"
+}

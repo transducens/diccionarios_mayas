@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sosotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir vapor",
+  "definitionDialect": "",
+  "additional_text": "vI Kasoosotik Raíz vI Soh",
+  "examples": [
+    {
+      "example_maya": "Li qabʼaqil we xujatinik kʼo usosotem",
+      "example_spa": "Cuando nos bañamos, sale vapor de nuestros cuerpos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo usosotem li uwach uliw nimaqʼabʼ",
+      "example_spa": "Del suelo, sale vapor por la mañana",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kasosot li wik xyaʼik",
+      "example_spa": "De la comida que me dieron, sale vapor",
+      "dialect": null
+    }
+  ],
+  "uuid": "48dce670-a743-46f8-8b53-d7214107b8fd"
+}

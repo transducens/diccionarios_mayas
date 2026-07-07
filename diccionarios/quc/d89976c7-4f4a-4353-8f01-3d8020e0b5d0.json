@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chararebʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rastro; huella",
+  "definitionDialect": "Spanish",
+  "additional_text": "SInv Uchararebʼal Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li bʼolaj tajin kakichararej li winaq, xkanaj kan uchararebʼal",
+      "example_spa": "El trozo que estaba arrastrando la gente, dejó rastro",
+      "dialect": null
+    }
+  ],
+  "uuid": "d89976c7-4f4a-4353-8f01-3d8020e0b5d0"
+}

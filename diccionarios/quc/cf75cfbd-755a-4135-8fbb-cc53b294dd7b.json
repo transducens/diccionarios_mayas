@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼetzixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Qʼechixik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblar para un lado: caña, rama o tallo de planta",
+  "definitionDialect": "",
+  "additional_text": "VTD Kingʼetziij Sinón Qʼechixik Raíz S Qʼetz",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuqʼetzij li abʼix",
+      "example_spa": "El niño dobló la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf75cfbd-755a-4135-8fbb-cc53b294dd7b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaslajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zafarse",
+  "definitionDialect": "",
+  "additional_text": "vt Kakaslajik",
+  "examples": [
+    {
+      "example_maya": "Li jal kʼo pa li kʼat tajin kakaslaj kan pa li bʼeh",
+      "example_spa": "Las mazorcas que están en la red, se están zafando",
+      "dialect": null
+    }
+  ],
+  "uuid": "15e6794c-5283-4916-92c0-be57582de6f4"
+}

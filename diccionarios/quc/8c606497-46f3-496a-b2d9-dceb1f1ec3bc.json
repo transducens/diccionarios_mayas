@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Barro",
+  "definitionDialect": "",
+  "additional_text": "snp Raíz S Wah DomS Yabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li wah je kape chʼaʼk, kape chipalajaj yabʼil",
+      "example_spa": "El barro parece grano que sale en la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c606497-46f3-496a-b2d9-dceb1f1ec3bc"
+}

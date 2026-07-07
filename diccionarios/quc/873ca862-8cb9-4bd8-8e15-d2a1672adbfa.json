@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuqutubʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agotarse; fatigarse; cansarse mucho",
+  "definitionDialect": "general",
+  "additional_text": "vi Kintuqutubʼik Raíz PT Tuq",
+  "examples": [
+    {
+      "example_maya": "Li achih xtuqutubʼ pa li bʼeh, ma sibʼalaj al li reqaʼn",
+      "example_spa": "El hombre se fatigó en el camino porque es muy pesada su carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "873ca862-8cb9-4bd8-8e15-d2a1672adbfa"
+}

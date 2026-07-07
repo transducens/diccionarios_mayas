@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paxem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrarse; rajarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kapaxik Raíz vi Pax",
+  "examples": [
+    {
+      "example_maya": "Xpax li qʼebʼal",
+      "example_spa": "Se quebró la tinaja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpax li spej che li jah",
+      "example_spa": "Se quebró el vidrio",
+      "dialect": null
+    }
+  ],
+  "uuid": "269247ad-46bf-4df7-99f3-5b09fd1ebf9b"
+}

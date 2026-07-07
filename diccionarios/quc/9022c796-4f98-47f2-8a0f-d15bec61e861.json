@@ -1,0 +1,19 @@
+{
+  "entryWord": "Naʼtalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Presente en la memoria o en la mente",
+  "definitionDialect": "General",
+  "additional_text": "Adv Var Naʼtajeem",
+  "examples": [
+    {
+      "example_maya": "Kʼa naʼtal ri wachalal chwech ri xkamik",
+      "example_spa": "Todavía tengo presente a mi hermano que murió",
+      "dialect": null
+    }
+  ],
+  "uuid": "9022c796-4f98-47f2-8a0f-d15bec61e861"
+}

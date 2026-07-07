@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maqaqlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmaqaqlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar a ciegas; ir a ciegas",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz VI Maq",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq kamaqaqlabʼik ma xa xchʼuq li uwach",
+      "example_spa": "El niño anda a ciegas porque le taparon los ojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a1a99d4c-a6db-4752-bf03-6e671dcb7285"
+}

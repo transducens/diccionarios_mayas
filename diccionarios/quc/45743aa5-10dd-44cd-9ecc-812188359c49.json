@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼichaj",
+  "entryWordDialect": null,
+  "altEntryWord": "jubʼich",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una desgranada fácilmente",
+  "definitionDialect": "General",
+  "additional_text": "Enu Sinón Jubʼiiq Raíz VT Bʼich",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq jubʼichaj xuya che li jal",
+      "example_spa": "La mujer le dio una desgranada a la mazorca",
+      "dialect": null
+    }
+  ],
+  "uuid": "45743aa5-10dd-44cd-9ecc-812188359c49"
+}

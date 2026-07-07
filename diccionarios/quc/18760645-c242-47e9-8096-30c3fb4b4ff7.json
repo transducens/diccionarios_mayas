@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yakanel",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuyakanel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Citador",
+  "definitionDialect": "",
+  "additional_text": "sInv Var Yikoneel",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan are yakanel rech li tinamit",
+      "example_spa": "Juan es el citador del pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "18760645-c242-47e9-8096-30c3fb4b4ff7"
+}

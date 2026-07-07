@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rumixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrumij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventar pita o lazo",
+  "definitionDialect": "VTD.",
+  "additional_text": "Raíz VT Rum",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xurumij li kolobʼ",
+      "example_spa": "El perro reventó el lazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "65998594-b2ed-4606-b99f-9586623e2687"
+}

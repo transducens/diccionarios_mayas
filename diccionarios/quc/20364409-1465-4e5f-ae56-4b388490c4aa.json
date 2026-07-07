@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rapaplabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karapaplabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Batir las alas",
+  "definitionDialect": "General",
+  "additional_text": "vl Var Ripiplabʼeem Raíz PT Rap",
+  "examples": [
+    {
+      "example_maya": "Li xik karapaplabʼ pa li kaqʼiqʼ",
+      "example_spa": "El gavilán bate las alas en el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "20364409-1465-4e5f-ae56-4b388490c4aa"
+}

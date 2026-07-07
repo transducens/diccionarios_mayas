@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nima xaʼr",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunima xaʼr",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cántaro",
+  "definitionDialect": "",
+  "additional_text": "sCL DomS Bʼoʼj",
+  "examples": [
+    {
+      "example_maya": "Pa li nima xaʼr kʼo kʼatana qʼor",
+      "example_spa": "En el cántaro hay atol caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c0d88f5-3e4b-49bf-8502-543fd066e89e"
+}

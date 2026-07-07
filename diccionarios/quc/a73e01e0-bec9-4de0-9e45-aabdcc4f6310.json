@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxkan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Culebra venenosa",
+  "definitionDialect": "general",
+  "additional_text": "snP Raíz Adj Rax Raíz S Kaan DomS Kumatz",
+  "examples": [
+    {
+      "example_maya": "Li raxkan are laʼ jun kumatz tyoʼnel xuq kakamsanik",
+      "example_spa": "Esta es una culebra que muerde y es venenosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a73e01e0-bec9-4de0-9e45-aabdcc4f6310"
+}

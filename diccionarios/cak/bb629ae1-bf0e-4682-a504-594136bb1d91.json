@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wayjal",
+  "definition": "Hambre",
+  "additional_text": "sInv Nuwayjay",
+  "examples": [
+    {
+      "example_maya": "Kʼa in koʼöl ök taq xikʼo ri wayjal jun bʼëy kan",
+      "example_spa": "Todavía era yo pequeño cando pasó el hambre en aquel tiempo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wayjal nitikir yarukamsaj",
+      "example_spa": "El hambre puede matarte",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb629ae1-bf0e-4682-a504-594136bb1d91",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

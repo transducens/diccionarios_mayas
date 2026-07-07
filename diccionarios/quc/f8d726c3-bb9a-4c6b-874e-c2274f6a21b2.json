@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wecheʼch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desmoronado",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz VT Wech",
+  "examples": [
+    {
+      "example_maya": "Li chʼoh, xubʼan wecheʼch cheh li kaxlanwah",
+      "example_spa": "El ratón desmoronó el pan",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8d726c3-bb9a-4c6b-874e-c2274f6a21b2"
+}

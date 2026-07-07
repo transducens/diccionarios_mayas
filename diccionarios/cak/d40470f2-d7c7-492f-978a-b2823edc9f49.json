@@ -1,0 +1,23 @@
+{
+  "entryWord": "Machät",
+  "definition": "Machete",
+  "additional_text": "sInv Numachät Sinón Raqʼ chʼichʼ, chʼichʼ samajibʼäl Muruʼ, machete",
+  "examples": [
+    {
+      "example_maya": "Ri machät yalan nikʼatzin chi re ri achin, ri nisamäj pa täq juyuʼ",
+      "example_spa": "El machete le sirve mucho al hombre que trabaja en los campos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xinbʼän juchʼay xajoj, xinqäj numachät",
+      "example_spa": "Cuando participé una vez en un baile, presté un machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "d40470f2-d7c7-492f-978a-b2823edc9f49",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

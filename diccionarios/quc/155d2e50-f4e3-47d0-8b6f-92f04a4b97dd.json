@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uwajxaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Octavo",
+  "definitionDialect": "General",
+  "additional_text": "NumOrd",
+  "examples": [
+    {
+      "example_maya": "Li krunsipal pa li uwajxaq tem xtʼuyiʼ wi, pa li chomal",
+      "example_spa": "El principal se sentó en la octava silla en la reunión",
+      "dialect": null
+    }
+  ],
+  "uuid": "155d2e50-f4e3-47d0-8b6f-92f04a4b97dd"
+}

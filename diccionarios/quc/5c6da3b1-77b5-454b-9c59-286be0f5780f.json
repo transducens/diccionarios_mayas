@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxwach",
+  "entryWordDialect": null,
+  "altEntryWord": "raxwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Nuraxwaach",
+  "altEntryWordDialect2": null,
+  "definition": "Limoncillo (tipo de abeja)",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Chikopil kaabʼ",
+  "examples": [
+    {
+      "example_maya": "Li raxwach qʼeqqʼoj kekaʼyik, li kikabʼil raxroj kakaʼyik, na katijow ta mas, xewʼʼ li kiserayil kachokonik",
+      "example_spa": "Los limoncillos son negros, su miel es de color verde obscuro, no se come mucho, y sólo se usa la cera",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c6da3b1-77b5-454b-9c59-286be0f5780f"
+}

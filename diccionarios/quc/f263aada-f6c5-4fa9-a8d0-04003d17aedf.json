@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wachʼwaʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mellado: machete",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Wachʼ",
+  "examples": [
+    {
+      "example_maya": "Li uwareh li chʼichʼ xubʼan wachʼwaʼy rumal li abʼaj",
+      "example_spa": "El filo del machete está mellado por la piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "f263aada-f6c5-4fa9-a8d0-04003d17aedf"
+}

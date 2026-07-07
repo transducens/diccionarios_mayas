@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lajabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulajabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trampa",
+  "definitionDialect": "general",
+  "additional_text": "sInv Raíz s Lajaabʼ DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li e chʼoh xeqaj pa lajab",
+      "example_spa": "Los ratones cayeron en la trampa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9f26d8c3-fc32-43c9-a0a4-656d658e592b"
+}

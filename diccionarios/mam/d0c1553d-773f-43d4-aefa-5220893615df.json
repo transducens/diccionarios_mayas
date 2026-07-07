@@ -1,0 +1,18 @@
+{
+  "entryWord": "JAANA",
+  "definition": "¿dónde?",
+  "additional_text": "pi raíz ja par",
+  "examples": [
+    {
+      "example_maya": "¿Jana tumal taʼ npasa?",
+      "example_spa": "¿Y en dónde está mi sombrero?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d0c1553d-773f-43d4-aefa-5220893615df",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

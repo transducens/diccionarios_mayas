@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lawaloh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grave",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ sibʼalaj lawaloh, na kawaʼ ta chik",
+      "example_spa": "El enfermo no come porque está grave",
+      "dialect": null
+    }
+  ],
+  "uuid": "28f760e1-c659-4c3f-8c57-25dbe4da244e"
+}

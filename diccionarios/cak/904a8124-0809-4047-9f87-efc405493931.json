@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chwaʼq kabʼij",
+  "definition": "Tiempo futuro, lo que viene adelante Literalmente esta palabra quiere decir mañana, pasado\"",
+  "additional_text": "AdvT",
+  "examples": [
+    {
+      "example_maya": "Ma qetaman ta chike xtiqakʼ ulwachij ri chwaʼq kabʼij",
+      "example_spa": "No sabemos lo que nos sucederá en el futuro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ma xa chwaʼq, ma xa kabʼij",
+      "example_spa": "Quizás mañana, quizás pasado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Man loman chwaʼq kabʼij",
+      "example_spa": "Nunca más",
+      "dialect": null
+    }
+  ],
+  "uuid": "904a8124-0809-4047-9f87-efc405493931",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

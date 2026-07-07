@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nima tinamit",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunima tinamit",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ciudad; capital",
+  "definitionDialect": "",
+  "additional_text": "sCL",
+  "examples": [
+    {
+      "example_maya": "Pa li nima tinamit kaqʼatow wi tzij li nima qʼatal tzij",
+      "example_spa": "En la república gobierna el presidente",
+      "dialect": null
+    }
+  ],
+  "uuid": "b0e4e6ed-1350-4330-8724-3b199863c7c7"
+}

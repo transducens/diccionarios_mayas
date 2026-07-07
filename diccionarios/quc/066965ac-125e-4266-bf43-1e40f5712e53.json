@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqbʼin",
+  "entryWordDialect": null,
+  "altEntryWord": "Piʼq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comadreja",
+  "definitionDialect": "",
+  "additional_text": "sc DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li saqbʼin kakitzʼubʼ kikikʼel akʼ",
+      "example_spa": "Las comadrejas chupan la sangre de las gallinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "066965ac-125e-4266-bf43-1e40f5712e53"
+}

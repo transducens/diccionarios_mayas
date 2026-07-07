@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ukis qʼaʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Incordio",
+  "definitionDialect": "General",
+  "additional_text": "sds Raíz S Kiis Raíz Vl Qʼay",
+  "examples": [
+    {
+      "example_maya": "Li spoj xkʼiy chuqul uqʼab li achih kʼo ukis qʼaʼy putolokʼ",
+      "example_spa": "El absceso que creció en la muñeca de la mano del hombre, tiene su incordio en el sobaco",
+      "dialect": null
+    }
+  ],
+  "uuid": "77d17fad-159c-4e7d-bac9-87472dd6c059"
+}

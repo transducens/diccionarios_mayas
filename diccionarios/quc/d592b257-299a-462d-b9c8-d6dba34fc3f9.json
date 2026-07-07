@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xeqowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxeqowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentir ardor en los ojos cuando uno ya tiene sueño, o cheles",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Xeq",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kaxeqow ubʼaqʼ nuwach, ma xa xinpe pa waranik iwir",
+      "example_spa": "Me arden mucho los ojos, porque ayer fui al velorio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼax nuwach sibʼalaj kaxeqowik",
+      "example_spa": "Tengo mal de ojo y me arden mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "d592b257-299a-462d-b9c8-d6dba34fc3f9"
+}

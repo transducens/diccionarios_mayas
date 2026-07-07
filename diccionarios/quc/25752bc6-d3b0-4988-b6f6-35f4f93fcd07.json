@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pantalon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pantalón",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nupantaloon DomS Atzʼyaq Del Cast Pantalón",
+  "examples": [
+    {
+      "example_maya": "Li e kaxlan winaq pantalon kakichokonsabʼej che katzʼyaq",
+      "example_spa": "Los ladinos usan pantalón para vestirse",
+      "dialect": null
+    }
+  ],
+  "uuid": "25752bc6-d3b0-4988-b6f6-35f4f93fcd07"
+}

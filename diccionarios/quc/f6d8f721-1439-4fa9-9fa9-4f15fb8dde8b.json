@@ -1,0 +1,19 @@
+{
+  "entryWord": "Min",
+  "entryWordDialect": null,
+  "altEntryWord": "Numin",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mina",
+  "definitionDialect": "",
+  "additional_text": "sInv Del Cast Mina",
+  "examples": [
+    {
+      "example_maya": "Li are laʼ kabʼan pwaq chech",
+      "example_spa": "De las minas se sacan diferentes minerales",
+      "dialect": null
+    }
+  ],
+  "uuid": "f6d8f721-1439-4fa9-9fa9-4f15fb8dde8b"
+}

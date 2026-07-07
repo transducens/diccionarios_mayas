@@ -1,0 +1,18 @@
+{
+  "entryWord": "SAQAL",
+  "definition": "maíz blanco",
+  "additional_text": "scs nsaqala raíz saq adj raíz jal s",
+  "examples": [
+    {
+      "example_maya": "Laqʼonx t-xilʼna saqal wukʼala",
+      "example_spa": "Comprá tu maíz blanco conmigo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7876a39c-b363-481b-88d9-a3c4933ca488",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

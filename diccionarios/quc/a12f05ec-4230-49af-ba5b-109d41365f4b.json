@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rabʼajil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Callo",
+  "definitionDialect": "",
+  "additional_text": "ssp Raiz S Abʼaj",
+  "examples": [
+    {
+      "example_maya": "Kʼo rabʼajil asaron puqʼabʼ li achih",
+      "example_spa": "El hombre tiene callos en las manos por el uso del azadón",
+      "dialect": null
+    }
+  ],
+  "uuid": "a12f05ec-4230-49af-ba5b-109d41365f4b"
+}

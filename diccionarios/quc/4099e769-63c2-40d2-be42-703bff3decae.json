@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mano izquierda; pie izquierdo",
+  "definitionDialect": "",
+  "additional_text": "SInv Numox Raíz S Mox DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "E kʼo winaq xa rukʼ kimox ketzʼibʼan wih",
+      "example_spa": "Hay personas que escriben con la mano izquierda",
+      "dialect": null
+    }
+  ],
+  "uuid": "4099e769-63c2-40d2-be42-703bff3decae"
+}

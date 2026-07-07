@@ -1,0 +1,23 @@
+{
+  "entryWord": "Awän",
+  "definition": "Milpa",
+  "additional_text": "sInv Wawän Rawän umül Clase de monte",
+  "examples": [
+    {
+      "example_maya": "Ri awän nirajo jebʼel nisamajix",
+      "example_spa": "La milpa quiere que se cultive bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo junaʼ näq kan ta ütz nel ri awän",
+      "example_spa": "Hay años que la milpa no sale buena",
+      "dialect": null
+    }
+  ],
+  "uuid": "769d2f47-e5bf-42d7-9d9c-624fab548441",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

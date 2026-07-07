@@ -1,0 +1,24 @@
+{
+  "entryWord": "Uwoqow",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espuma",
+  "definitionDialect": "",
+  "additional_text": "SSP Var Wosow Raíz VT Woq",
+  "examples": [
+    {
+      "example_maya": "Li uwoqow li qʼeq, karesaj tzʼil",
+      "example_spa": "La espuma del jabón saca la suciedad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwoqow li qʼeq saq kakaʼyik",
+      "example_spa": "La espuma del jabón es de color blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "0683ccb8-620c-41d6-bd32-1d591e0c2b62"
+}

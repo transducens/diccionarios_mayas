@@ -1,0 +1,23 @@
+{
+  "entryWord": "XTROOS",
+  "definition": "trozo",
+  "additional_text": "s1 nxtrosa del español trozo ds tzeʼ",
+  "examples": [
+    {
+      "example_maya": "Maʼ txiʼ Kyel lol jun xtros te tsiʼ",
+      "example_spa": "Ya fue Miguel a buscar un trozo para su leña",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Nach kyiganjtz xtros, qa kyjonalx tuʼn kytzaj iqat",
+      "example_spa": "No sirve la cargada de los trozos, si se traen solos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "230c574c-26d3-495c-9685-80a7555c1dfb",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

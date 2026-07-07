@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mokʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamokʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con pies encogidos",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz Adj Mokʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Kulax xaq kamokʼnaj ke kabʼinik",
+      "example_spa": "Nicolás camina con los pies encogidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "236251bd-b4c9-48cc-a6a3-5fd55edb84be"
+}

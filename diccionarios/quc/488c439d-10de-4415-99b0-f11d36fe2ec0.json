@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nitzitzem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kanitzitzik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar fino o bien formado",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz vi Nitz",
+  "examples": [
+    {
+      "example_maya": "Li uqʼoʼoj li ixoq sibʼalaj kanitzitzik",
+      "example_spa": "El bordado de la mujer está bien fino",
+      "dialect": null
+    }
+  ],
+  "uuid": "488c439d-10de-4415-99b0-f11d36fe2ec0"
+}

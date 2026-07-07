@@ -1,0 +1,23 @@
+{
+  "entryWord": "Utziläj winäq",
+  "definition": "Buena gente, bondadoso",
+  "additional_text": "scl Ant Itzel winäq",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun wachbʼil ri yalan utziläj winäq",
+      "example_spa": "Tengo un amigo muy bueno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri utziläj täq winäq nkibʼän utzil",
+      "example_spa": "Las personas buenas hacen favores",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb2361d5-54cc-43c3-b8d5-72b66f55ec5d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Matzʼamatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamatzʼamatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido continuo al masticar cosa tostada",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VI Matzʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼoh tajin kamatzʼamat pa li kaxon",
+      "example_spa": "El ratón está haciendo ruido en el cajón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winaq tajin kematzʼamat che maniy\" pa li nimaqʼij",
+      "example_spa": "La gente está comiendo manías en la feria",
+      "dialect": null
+    }
+  ],
+  "uuid": "91719a6f-1842-4af7-a46b-a5f40e7981bb"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Poroʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Roza; quemazón de monte o plantas; incendio de árboles",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupooroʼn",
+  "examples": [
+    {
+      "example_maya": "Xel jun poroʼn pa li kʼacheʼlaj",
+      "example_spa": "Hay un incendio en el bosque",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xub an jun poroʼn ma xa kutik rabʼix",
+      "example_spa": "El hombre hizo una quemazón de monte y hierbas, porque va a sembrar milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "5dc2f666-ee39-4bb8-9968-58e34fc36a70"
+}

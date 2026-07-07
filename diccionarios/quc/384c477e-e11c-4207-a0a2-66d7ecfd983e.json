@@ -1,0 +1,19 @@
+{
+  "entryWord": "Etaʼam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saber, conocer",
+  "definitionDialect": "General",
+  "additional_text": "SInv Wetaʼaam",
+  "examples": [
+    {
+      "example_maya": "Na wetaʼm ta in",
+      "example_spa": "No sé",
+      "dialect": null
+    }
+  ],
+  "uuid": "384c477e-e11c-4207-a0a2-66d7ecfd983e"
+}

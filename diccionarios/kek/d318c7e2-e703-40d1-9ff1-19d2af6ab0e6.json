@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kamaʼ",
+  "definition": "Como, parecido",
+  "additional_text": "Adj Xkamaʼoʼ, xkamaʼil Sinón Chanchan",
+  "examples": [
+    {
+      "example_maya": "Inyuwa kamaʼ jun kaxlan winq",
+      "example_spa": "Mi papá es como un ladino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Intzʼiʼ kamaʼ jun kaqkoj",
+      "example_spa": "Mi perro es como un león",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼiichʼ aʼin kamaʼ li we",
+      "example_spa": "Este carro es parecido al mío",
+      "dialect": null
+    }
+  ],
+  "uuid": "d318c7e2-e703-40d1-9ff1-19d2af6ab0e6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

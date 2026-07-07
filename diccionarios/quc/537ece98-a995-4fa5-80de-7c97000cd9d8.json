@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulutajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼulutajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ser encontrado persona, animal; ser visto",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li achih xanimajik, xkʼulutajik, anim kubʼan pa li bʼeh",
+      "example_spa": "El hombre que se fugó, fue encontrado corriendo por el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "537ece98-a995-4fa5-80de-7c97000cd9d8"
+}

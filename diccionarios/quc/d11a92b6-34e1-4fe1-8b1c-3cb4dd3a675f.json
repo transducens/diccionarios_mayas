@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qobʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqobʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomar bebida espesa o sopa",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Qobʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih alisa xqobʼow qʼor",
+      "example_spa": "El hombre tomó atole en exceso",
+      "dialect": null
+    }
+  ],
+  "uuid": "d11a92b6-34e1-4fe1-8b1c-3cb4dd3a675f"
+}

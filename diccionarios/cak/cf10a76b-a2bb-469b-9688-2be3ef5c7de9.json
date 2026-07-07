@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzuqunik",
+  "definition": "Mantener con comida, a una persona o animal",
+  "additional_text": "vt Tzuquxik, nintzuq, nintzüq Var Ilinik tzuq",
+  "examples": [
+    {
+      "example_maya": "Yin xintzuq jun aq chʼanin xtyojir (xtiyojïr)",
+      "example_spa": "Yo mantuve a un marrano y luego engordó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wixnan nutzüq jun achin",
+      "example_spa": "Mi cuñada le dá de comer a un hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf10a76b-a2bb-469b-9688-2be3ef5c7de9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

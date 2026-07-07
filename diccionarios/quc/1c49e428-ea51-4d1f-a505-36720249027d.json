@@ -1,0 +1,19 @@
+{
+  "entryWord": "Abʼom",
+  "entryWordDialect": null,
+  "altEntryWord": "abʼomabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muchachos, jóvenes",
+  "definitionDialect": "General",
+  "additional_text": "sPl Coment Plural de alah",
+  "examples": [
+    {
+      "example_maya": "Li abʼomabʼ xebʼe pa siʼ",
+      "example_spa": "Los muchachos fueron a cortar leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c49e428-ea51-4d1f-a505-36720249027d"
+}

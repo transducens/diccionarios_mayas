@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sebʼ",
+  "definition": "Barro, hígado de res",
+  "additional_text": "sInv Insebʼ",
+  "examples": [
+    {
+      "example_maya": "Kaqi sebʼ",
+      "example_spa": "Barro colorado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼan sebʼ",
+      "example_spa": "Barro amarillo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c329511-81da-4f5c-b57b-854908505852",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

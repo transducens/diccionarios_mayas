@@ -1,0 +1,33 @@
+{
+  "entryWord": "Joʼkan",
+  "definition": "Así, así es, también, exactamente",
+  "additional_text": "Part Afir",
+  "examples": [
+    {
+      "example_maya": "Joʼkan xyewe inyuwaʼ",
+      "example_spa": "Así me dijo mi papá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼkan naq",
+      "example_spa": "Por eso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼkan peʼ",
+      "example_spa": "Con razón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼkan len",
+      "example_spa": "Así dicen",
+      "dialect": null
+    }
+  ],
+  "uuid": "0634bf6b-9e8d-4296-9978-347ebb8cfff0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

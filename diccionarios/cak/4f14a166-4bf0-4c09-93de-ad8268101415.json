@@ -1,0 +1,23 @@
+{
+  "entryWord": "Amuley (amuläy)",
+  "definition": "Ortiga, chichicaste",
+  "additional_text": "snP Qʼayis",
+  "examples": [
+    {
+      "example_maya": "Ri amuley nanakij jubʼaʼ awiʼ chwäch yalan niqʼaqʼan",
+      "example_spa": "Cuando se le pega la ortiga a uno, duele mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri amuläy jun qʼayis man tanakij bʼaʼ, niqʼaqʼan pe ri aqʼaʼ, roma ri chʼitaq rukʼixal",
+      "example_spa": "El chichicaste es una planta que al tocarla un poco arde la mano por las espinas que tiene",
+      "dialect": null
+    }
+  ],
+  "uuid": "4f14a166-4bf0-4c09-93de-ad8268101415",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

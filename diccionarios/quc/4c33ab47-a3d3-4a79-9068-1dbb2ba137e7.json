@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼakʼokel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona nueva en un cargo",
+  "definitionDialect": "",
+  "additional_text": "snp Raíz Adj Kʼaakʼ Raíz Vl Ok",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼakʼokel pa li qʼatbʼal tzij",
+      "example_spa": "El hombre es nuevo en el cargo de la municipalidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c33ab47-a3d3-4a79-9068-1dbb2ba137e7"
+}

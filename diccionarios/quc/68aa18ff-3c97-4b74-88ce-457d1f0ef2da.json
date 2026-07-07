@@ -1,0 +1,24 @@
+{
+  "entryWord": "Utzwachil",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuʼutzwachil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salud, sanidad, salubridad, lozanía, robustez",
+  "definitionDialect": "",
+  "additional_text": "sinv",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kʼo uʼutzwachil",
+      "example_spa": "El niño tiene buena salud",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yoʼj rutzil wachaj",
+      "example_spa": "Saludar",
+      "dialect": null
+    }
+  ],
+  "uuid": "68aa18ff-3c97-4b74-88ce-457d1f0ef2da"
+}

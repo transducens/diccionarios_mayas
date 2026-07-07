@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tzij",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verdad; cierto; palabra",
+  "definitionDialect": "",
+  "additional_text": "sInv Sinón Tzij wih Raíz Adv Tziij",
+  "examples": [
+    {
+      "example_maya": "We jun achih tzij ri kubʼij, kanimax reh, kumal ri winaq",
+      "example_spa": "Si un hombre habla la verdad la gente le cree",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Tzij yaʼaʼ chi qʼaqʼ",
+      "example_spa": "Hace calor, verdad",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Tzij yaʼaʼ chi kʼax",
+      "example_spa": "Verdad que cuesta (Trabajar o hacer algo)",
+      "dialect": null
+    }
+  ],
+  "uuid": "8241766f-d2a0-436f-b946-c87536a6e76c"
+}

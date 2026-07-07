@@ -1,0 +1,23 @@
+{
+  "entryWord": "TTXʼOOQ",
+  "definition": "ala de ave",
+  "additional_text": "sy kytxʼoq",
+  "examples": [
+    {
+      "example_maya": "Kyaqil qʼutz liikʼan kytxʼoq tiʼj tqʼij prim",
+      "example_spa": "Todos los zopilotes tienen extendidas sus alas en los rayos del sol por la mañana",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tzanx kytenka chʼit bʼaʼn chilipan tuʼnj at kytxʼoq",
+      "example_spa": "Todos los",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "09368d02-4a4f-49aa-a200-6fd3cf0ff89c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

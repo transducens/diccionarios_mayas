@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼemelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebradizo: cosa de barro",
+  "definitionDialect": "",
+  "additional_text": "p Raíz VT Qʼem",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal we na utz ta uporoxik, qʼemelik, na kʼax ta uqʼemixik",
+      "example_spa": "Si las tinajas no se quemaran lo suficiente, serían quebradizas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c3907f0-ffd7-4ad0-8ab9-d516f8114539"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼolkopixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchʼolkopij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despellejar, pelar frutas con las manos, (como bananos, mangos o papas cocidas)",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Chʼol",
+  "examples": [
+    {
+      "example_maya": "Li achih xuchʼolkopij li uwach uchʼek chwach jun abʼaj",
+      "example_spa": "El hombre se despellejó la pierna con una piedra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah xuchʼolkopij li rij ankineʼy",
+      "example_spa": "El muchacho peló el guineo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c231a92a-491f-4c53-b585-70d80a3ef3d0"
+}

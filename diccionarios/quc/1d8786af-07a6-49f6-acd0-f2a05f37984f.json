@@ -1,0 +1,24 @@
+{
+  "entryWord": "Muqʼeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hiedra venenosa; postemilla",
+  "definitionDialect": "General",
+  "additional_text": "SnP Pbas //Muhqʼeh// DomS Qʼayees DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li muqʼeh kukamsaj cheʼ, kachaqij rumal",
+      "example_spa": "La hiedra venenosa mata los árboles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alaj alah xel la jun muqʼeh chrij uwareh",
+      "example_spa": "Al niño le salió una postemilla en las encías",
+      "dialect": null
+    }
+  ],
+  "uuid": "1d8786af-07a6-49f6-acd0-f2a05f37984f"
+}

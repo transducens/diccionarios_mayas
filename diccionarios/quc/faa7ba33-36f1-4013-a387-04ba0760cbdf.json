@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chetuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchetuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llenar el troje con mazorcas",
+  "definitionDialect": "General",
+  "additional_text": "vtd Fbas //Chehtu//",
+  "examples": [
+    {
+      "example_maya": "Li ajchak xuchetuj jal chech we junabʼ",
+      "example_spa": "El trabajador llenó el troje con mazorcas este año",
+      "dialect": null
+    }
+  ],
+  "uuid": "faa7ba33-36f1-4013-a387-04ba0760cbdf"
+}

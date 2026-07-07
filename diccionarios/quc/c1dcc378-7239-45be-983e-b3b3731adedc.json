@@ -1,0 +1,19 @@
+{
+  "entryWord": "Teletik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abultado en partes (como terreno o madera no pareja); disparejo, como tabla o terreno",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz PT Tel",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalam xa teletik li uwach",
+      "example_spa": "La tabla está dispareja",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1dcc378-7239-45be-983e-b3b3731adedc"
+}

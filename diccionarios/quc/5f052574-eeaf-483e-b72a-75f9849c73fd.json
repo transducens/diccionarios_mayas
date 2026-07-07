@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xchʼar",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Urraca",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xchʼar rax xuq saq li rij pa taqʼaj kʼo wih",
+      "example_spa": "La urraca es azul y blanco, se encuentra en la costa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xchʼar we xtzʼeʼn chrij jun winaq na utz taj",
+      "example_spa": "Si la urraca grita sobre una persona es mal agüero",
+      "dialect": null
+    }
+  ],
+  "uuid": "5f052574-eeaf-483e-b72a-75f9849c73fd"
+}

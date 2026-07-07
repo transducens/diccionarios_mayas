@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼixibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escándalo; vergüenza",
+  "definitionDialect": "General",
+  "additional_text": "scv Nukʼixibʼaal Coment Al ser poseído, significa respeto, tener vergüenza",
+  "examples": [
+    {
+      "example_maya": "Li alah, kʼixibʼal kubʼan pa li bʼeh rukʼ jun alih",
+      "example_spa": "El muchacho hace escándalo en la calle con una muchacha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo nukʼixibʼal",
+      "example_spa": "Tengo respeto",
+      "dialect": null
+    }
+  ],
+  "uuid": "905c5b22-d92d-4619-9ead-1aa7a705de01"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mare",
+  "definition": "Quizás, tal vez",
+  "additional_text": "Adv Var Mare chan",
+  "examples": [
+    {
+      "example_maya": "Mare chan naq ani taabʼaanunq re linkʼanjel",
+      "example_spa": "Tal vez alguien va a hacer mi trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Mare xʼeelelik",
+      "example_spa": "Tal vez se huyó",
+      "dialect": null
+    }
+  ],
+  "uuid": "c4b7a6b8-22b8-44ad-8262-1a4f73c5a0ef",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

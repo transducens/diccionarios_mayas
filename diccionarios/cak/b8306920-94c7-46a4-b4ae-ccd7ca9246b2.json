@@ -1,0 +1,28 @@
+{
+  "entryWord": "Xan",
+  "definition": "Pared, adobe",
+  "additional_text": "SInv Nuxan Ulew",
+  "examples": [
+    {
+      "example_maya": "Konojel ri winäq ruyon xan ruxeʼ kacho",
+      "example_spa": "Toda la gente hace de pared la construcción de sus casas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xan, rikʼin riʼ yebʼan jay",
+      "example_spa": "Con el adobe se construyen las casas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa täq tew ulew ruyon xan kachoch ri winäq",
+      "example_spa": "En tierra fría sólo de adobe son hechas las casas de las personas",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8306920-94c7-46a4-b4ae-ccd7ca9246b2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

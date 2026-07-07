@@ -1,0 +1,19 @@
+{
+  "entryWord": "Portah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja de puerta",
+  "definitionDialect": "",
+  "additional_text": "scv Nupoortaa Del Cast Puerta",
+  "examples": [
+    {
+      "example_maya": "Li portah rech li woʼch kʼakʼ",
+      "example_spa": "La hoja de la puerta de mi casa, es nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b0be33e-6617-4a93-a5f1-0ac2f4e111ee"
+}

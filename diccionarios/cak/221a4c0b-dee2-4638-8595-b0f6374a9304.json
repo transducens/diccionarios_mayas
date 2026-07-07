@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kök",
+  "definition": "Tortuga",
+  "additional_text": "sinv Nukök Chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri kök ronojel bʼaq ri xe rupan, chuqaʼ ri rij",
+      "example_spa": "El pecho y la espalda de la tortuga, son sólo hueso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kök nibʼïx chire ri jun chiköp bʼaq ri rij",
+      "example_spa": "Tortuga se le dice al animal que su concha es puro hueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "221a4c0b-dee2-4638-8595-b0f6374a9304",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tyox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Iglesia; gracias; santo",
+  "definitionDialect": "",
+  "additional_text": "s",
+  "examples": [
+    {
+      "example_maya": "Li pareh kubʼan misa pa tyox",
+      "example_spa": "El sacerdote celebra misa en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "3fec2457-80a0-4613-be39-e86ffa050d24"
+}

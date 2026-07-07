@@ -1,0 +1,24 @@
+{
+  "entryWord": "Spej",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vidrio; espejo",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuspeej Sinón Remow DomS Espejo",
+  "examples": [
+    {
+      "example_maya": "Li kʼakʼa jah xwokotajik, spej li wantaʼn chech",
+      "example_spa": "La casa nueva que se construyó, tiene ventanas de vidrio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal tajin karil li upalaj pa li spej",
+      "example_spa": "El niño se está mirando la cara en el espejo",
+      "dialect": null
+    }
+  ],
+  "uuid": "971e14ac-4e00-4c8b-87b6-95d2573265f0"
+}

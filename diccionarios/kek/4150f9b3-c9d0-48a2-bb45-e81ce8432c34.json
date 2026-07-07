@@ -1,0 +1,18 @@
+{
+  "entryWord": "Setom",
+  "definition": "Trabajo de cortador de tela",
+  "additional_text": "SInv Insetom",
+  "examples": [
+    {
+      "example_maya": "Xinchoy insetom",
+      "example_spa": "Terminé el trabajo de cortar tela",
+      "dialect": null
+    }
+  ],
+  "uuid": "4150f9b3-c9d0-48a2-bb45-e81ce8432c34",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

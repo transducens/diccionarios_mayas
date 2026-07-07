@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qachʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqachʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rechinar zapatos nuevos o dientes",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Qachʼ",
+  "examples": [
+    {
+      "example_maya": "Li tiʼij na qas ta chaqʼ, kaqachʼnaj pa wareʼaj",
+      "example_spa": "La carne no se muy cocida, hace rechinar los dientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "8034f0d1-863e-4436-95b4-7a845136bd8a"
+}

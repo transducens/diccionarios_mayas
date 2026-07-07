@@ -1,0 +1,34 @@
+{
+  "entryWord": "Kʼotik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼotoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar; estudiar",
+  "definitionDialect": "",
+  "additional_text": "vTR Raíz VT Kʼot",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kʼotik kubʼan che li uliw, tajin kutzukuj joron",
+      "example_spa": "La mujer escarba la tierra, en busca de agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ujul li kamnaq xkʼototaj kumal li achijabʼ",
+      "example_spa": "Los hombres escarbaron un hoyo para el cadáver",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal, tajin kukʼot kibʼiʼ taq li chkop",
+      "example_spa": "El niño está estudiando el nombre de los animales",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Xkʼot nuchiʼ",
+      "example_spa": "Me examinaron",
+      "dialect": null
+    }
+  ],
+  "uuid": "17930740-af0a-438c-9a5b-41605925a224"
+}

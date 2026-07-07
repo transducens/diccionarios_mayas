@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lich",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulich",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Leche",
+  "definitionDialect": "",
+  "additional_text": "sInv Var Leʼch Del Cast Leche",
+  "examples": [
+    {
+      "example_maya": "Li neʼ na katzʼuman taj xa lich kutijoh",
+      "example_spa": "El nene no mama, sólo toma leche",
+      "dialect": null
+    }
+  ],
+  "uuid": "91f05999-5fbf-4f08-8a55-73c7a9c30b67"
+}

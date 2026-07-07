@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lekoj ribʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Platicar con gusto o con muchos ademanes",
+  "definitionDialect": "",
+  "additional_text": "vRefl Raíz VT Lek",
+  "examples": [
+    {
+      "example_maya": "Li ixoq lekoj ribʼ kubʼan che tzij",
+      "example_spa": "La mujer platica con soltura",
+      "dialect": null
+    }
+  ],
+  "uuid": "e2f6f154-8987-4773-912e-d5c52a31b5a1"
+}

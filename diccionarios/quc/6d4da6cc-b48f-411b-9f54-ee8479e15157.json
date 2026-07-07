@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nimarsaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnimarsaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Engrandecer; agrandar",
+  "definitionDialect": "",
+  "additional_text": "vtc Raíz VT Nim",
+  "examples": [
+    {
+      "example_maya": "Li winaq xkinimarsaj uwach li bʼeh",
+      "example_spa": "La gente agrandó el ancho del camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "6d4da6cc-b48f-411b-9f54-ee8479e15157"
+}

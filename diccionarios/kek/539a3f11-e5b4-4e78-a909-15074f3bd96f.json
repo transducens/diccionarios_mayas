@@ -1,0 +1,23 @@
+{
+  "entryWord": "Junaj",
+  "definition": "Mismo, único, parejo",
+  "additional_text": "Adj Xjunajoʼ, xjunajil",
+  "examples": [
+    {
+      "example_maya": "Junaj chi bʼe yookebʼ chi xik wiʼ",
+      "example_spa": "Están caminando por el mismo camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Junaj qu",
+      "example_spa": "Somos una misma cosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "539a3f11-e5b4-4e78-a909-15074f3bd96f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

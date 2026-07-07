@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tun",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutun",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tun; teponaztle; trompeta sencilla; gato",
+  "definitionDialect": "",
+  "additional_text": "sInv Var Mix Raíz S Tuun",
+  "examples": [
+    {
+      "example_maya": "Li tun kaqʼojomax pa taq nimaqʼij",
+      "example_spa": "El tun se toca en las fiestas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajtijabʼ tun kakikoj pa taq kwaresma chiʼl pa awas qʼij",
+      "example_spa": "Los cantores usan trompetas en la cuaresma y semana santa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tun keʼuchap chʼoh pa taq ja",
+      "example_spa": "El gato caza ratones en las casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "515637cb-a89a-4adc-a21c-2b2d4f94dbe0"
+}

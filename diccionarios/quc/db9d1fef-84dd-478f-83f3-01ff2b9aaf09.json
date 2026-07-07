@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pulga",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ sibʼalaj e kʼo kikʼaq",
+      "example_spa": "Los perros tienen muchas pulgas",
+      "dialect": null
+    }
+  ],
+  "uuid": "db9d1fef-84dd-478f-83f3-01ff2b9aaf09"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Surexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosa casi esférica, como cabeza de ganado, jarro sin agarrador",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinsuureej Raíz VT Sur",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xusurej bʼi li xaʼr ma kʼo kapeh chupam",
+      "example_spa": "La mujer se llevó el jarro porque contiene café",
+      "dialect": null
+    }
+  ],
+  "uuid": "031e2bfb-487e-46d1-bf01-e34ae042878c"
+}

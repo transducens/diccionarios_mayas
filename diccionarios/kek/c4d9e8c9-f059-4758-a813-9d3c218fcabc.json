@@ -1,0 +1,23 @@
+{
+  "entryWord": "Eekʼaak",
+  "definition": "Ser sentido por una persona, ser adivinado",
+  "additional_text": "vr Xʼeekʼa",
+  "examples": [
+    {
+      "example_maya": "Xʼeekʼaak naq ok laj elqʼ saʼ li kabʼl",
+      "example_spa": "Se sintió cuando iba a entrar el ladrón en la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Hulaj tinxik chi eekʼaak rikʼin aj eekʼ",
+      "example_spa": "Mañana iré con el adivinador para que me adivine",
+      "dialect": null
+    }
+  ],
+  "uuid": "c4d9e8c9-f059-4758-a813-9d3c218fcabc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

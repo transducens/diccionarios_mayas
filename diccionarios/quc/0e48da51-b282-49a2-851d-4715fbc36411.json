@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼuqʼbʼutem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido líquidos en un trasto o al moverse en el estómago",
+  "definitionDialect": "general",
+  "additional_text": "vi Kabʼuqʼbʼutik Var Bʼoqʼbʼoteem Raíz PT Bʼuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kabʼuqʼbʼut jaʼ chupam",
+      "example_spa": "Al niño le hace ruido el agua en el estómago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kabʼuqʼnaj li jaʼ pa li qʼebʼal mana nojnaq taj",
+      "example_spa": "El agua hace ruido en la tinaja porque no está llena",
+      "dialect": null
+    }
+  ],
+  "uuid": "0e48da51-b282-49a2-851d-4715fbc36411"
+}

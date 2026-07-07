@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼibʼatalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escrito",
+  "definitionDialect": "General",
+  "additional_text": "sv Raíz VT Tzʼibʼ",
+  "examples": [
+    {
+      "example_maya": "Li xchomaxik tzʼibʼatal chi pa li wuj",
+      "example_spa": "Lo que se habló en la sesión está escrito en el libro",
+      "dialect": null
+    }
+  ],
+  "uuid": "86020545-18d8-49e5-a29f-68eedabddec0"
+}

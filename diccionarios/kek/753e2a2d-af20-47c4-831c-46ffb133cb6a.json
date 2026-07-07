@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼaʼ ta",
+  "definition": "Por nada",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kʼaʼ ta xinbʼaanu",
+      "example_spa": "Por nada lo hice",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼaʼ ta ru yookat arin",
+      "example_spa": "No estás haciendo nada aquí",
+      "dialect": null
+    }
+  ],
+  "uuid": "753e2a2d-af20-47c4-831c-46ffb133cb6a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

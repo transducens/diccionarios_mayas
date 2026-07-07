@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼux",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Musgo; paxte",
+  "definitionDialect": "",
+  "additional_text": "sinv Nuqʼuux Raíz s Qʼuux DomS Wiqobʼal",
+  "examples": [
+    {
+      "example_maya": "Li qʼux pa taq kʼacheʼlaj kakʼiy wih",
+      "example_spa": "El musgo crece en las montañas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo kebʼ uwach chi qʼux, kʼo saq xuq kʼo rax",
+      "example_spa": "Hay dos clases de musgo, blanco y verde",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼux pa taqʼaj kakʼiy wih xuq kachokon cheh chʼajbʼal ibʼ",
+      "example_spa": "El paxte crece en las costas y se usa para bañarse",
+      "dialect": null
+    }
+  ],
+  "uuid": "a70131b1-295d-4bb4-8cf6-ac378425dcdf"
+}

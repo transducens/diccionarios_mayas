@@ -1,0 +1,23 @@
+{
+  "entryWord": "Elajik",
+  "definition": "Hacer caso, no hacer caso Esta palabra puede emplearse tanto en forma negativa como afirmativa",
+  "additional_text": "vi Naʼelajik Sinón Abʼink",
+  "examples": [
+    {
+      "example_maya": "Laj Xal naʼelajik chi wu",
+      "example_spa": "Baltazar me hace caso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Laj Bʼex inkʼaʼ naʼelajik naq nintaqla",
+      "example_spa": "Sebastián no me hace caso cuando le hablo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b5b0ac6-0bc1-4514-a282-97bf132b6154",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

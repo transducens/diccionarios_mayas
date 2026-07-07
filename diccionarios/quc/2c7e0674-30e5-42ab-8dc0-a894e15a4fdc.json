@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tanakatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katanakatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar a tientas como ciego; dar los primeros pasos",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz PT Tan",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xumajij tanakatem",
+      "example_spa": "El niño empezó a dar los primeros pasos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c7e0674-30e5-42ab-8dc0-a894e15a4fdc"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sip",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garrapata",
+  "definitionDialect": "",
+  "additional_text": "snP DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li sip e kʼolokʼaʼq, koʼk pa kibʼaqil chikop",
+      "example_spa": "Las garrapatas son redondas, y se meten en el cuerpo de los animales",
+      "dialect": null
+    }
+  ],
+  "uuid": "65fb8d85-6b70-45aa-a168-9d621b1c76f8"
+}

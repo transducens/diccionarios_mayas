@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mararexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmararej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer mucho cosa tostada; masticar mucho cosa tostada; hacer ruido cosas tostadas, al comerlas",
+  "definitionDialect": "general",
+  "additional_text": "vtd Raíz VT Mar",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xumararej li kaxlaʼn, xuloqʼoh",
+      "example_spa": "El niño masticó mucho las habas tostadas que compró",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2dc9f1d-cb39-4027-9da6-8fc025891ba5"
+}

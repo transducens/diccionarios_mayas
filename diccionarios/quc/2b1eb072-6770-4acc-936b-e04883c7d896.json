@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼiʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": "bʼiʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nombre",
+  "definitionDialect": "",
+  "additional_text": "sos Nubʼiiʼ (nubʼiʼ) vt =Bʼiʼaaj Llamarse vt Bʼinaʼxik Tener como nombre Raiz S Bʼiʼ (bʼiʼ)",
+  "examples": [
+    {
+      "example_maya": "Li ubʼiʼ li achih a xwan",
+      "example_spa": "El nombre del hombre, es Juan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼiʼaj tzʼibʼatal pa li wuj pa qʼatbʼal tzij, sibʼalaj kʼih",
+      "example_spa": "Los nombres que están escritos en el libro de la municipalidad, son muchos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b1eb072-6770-4acc-936b-e04883c7d896"
+}

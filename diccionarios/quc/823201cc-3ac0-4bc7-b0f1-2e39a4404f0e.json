@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qulaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqul",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garganta; cuello; tos",
+  "definitionDialect": "",
+  "additional_text": "sqs DomS Bʼaqilaaj DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li qul we xtzʼapixik chanim kakam jun winaq",
+      "example_spa": "Al apretarse la garganta, se produce una muerte instantanea",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih kʼax uqul",
+      "example_spa": "El hombre tiene tos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal qulaj xchokon cheh xkamik",
+      "example_spa": "El niño se murió por la tos",
+      "dialect": null
+    }
+  ],
+  "uuid": "823201cc-3ac0-4bc7-b0f1-2e39a4404f0e"
+}

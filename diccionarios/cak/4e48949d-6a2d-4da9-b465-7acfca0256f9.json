@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tónka",
+  "definition": "Mora",
+  "additional_text": "sInv Nutónka Kʼix, qʼayis",
+  "examples": [
+    {
+      "example_maya": "Ri tónka yalan rukʼixal, chʼanchʼöj titij",
+      "example_spa": "La mora es espinosa y agridulce al comerla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nibʼïx chi re tónka ütz richin kikʼ chi pamaj",
+      "example_spa": "Dicen que la mora cura la disentería",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e48949d-6a2d-4da9-b465-7acfca0256f9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

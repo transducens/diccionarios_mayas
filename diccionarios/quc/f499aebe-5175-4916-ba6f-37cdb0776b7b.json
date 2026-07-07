@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼopixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Atrancar",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinkʼopiij var Tzʼaapixik Raíz VT Kʼop",
+  "examples": [
+    {
+      "example_maya": "Li alah xukʼopij li uchi jah ma xok aqʼabʼ",
+      "example_spa": "El muchacho atrancó la puerta porque ya entró la noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uchi jah sibʼalaj kʼopinnaq, na utz taj kabʼan okem",
+      "example_spa": "La puerta está bien atrancada, no se puede entrar",
+      "dialect": null
+    }
+  ],
+  "uuid": "f499aebe-5175-4916-ba6f-37cdb0776b7b"
+}

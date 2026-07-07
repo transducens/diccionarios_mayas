@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sukʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Justo; recto; parejo; exacto; cabal; dirección en la misma línea o fila",
+  "definitionDialect": "",
+  "additional_text": "Adj Usukʼaal, xsukʼarik SSP Usuukʼ Su dirección F Chusuukʼ En la dirección Chusuukʼ lee jun raxa jah kʼoo wih Está en la dirección de la casa verde Var =Bʼeʼeel Raíz PT Sukʼ",
+  "examples": [
+    {
+      "example_maya": "Li kitat li akʼalabʼ sukʼ xubʼan cheh li jachanik",
+      "example_spa": "El padre de los niños hizo un repartimiento justo de la herencia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih we xtzijonik, si sukʼ wi ri kubʼij",
+      "example_spa": "El peso de este maíz es exacto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sukʼ kabʼek",
+      "example_spa": "Se va recto",
+      "dialect": null
+    }
+  ],
+  "uuid": "5ffd2003-868c-43be-a573-dcb3773b80f2"
+}

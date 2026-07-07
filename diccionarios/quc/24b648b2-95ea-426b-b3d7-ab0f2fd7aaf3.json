@@ -1,0 +1,19 @@
+{
+  "entryWord": "Popabʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedregal",
+  "definitionDialect": "general",
+  "additional_text": "sc Fbas //Pohp// Raíz S Abʼaj",
+  "examples": [
+    {
+      "example_maya": "Li ruliw li achih sibʼalaj popabʼaj",
+      "example_spa": "El terreno del hombre es un pedregal",
+      "dialect": null
+    }
+  ],
+  "uuid": "24b648b2-95ea-426b-b3d7-ab0f2fd7aaf3"
+}

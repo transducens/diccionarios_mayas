@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼanbʼäl (bʼambʼäl)",
+  "definition": "Hechura, hechos, ejemplos",
+  "additional_text": "sv Bʼän",
+  "examples": [
+    {
+      "example_maya": "¿Janipe ri bʼanbʼäl xatojbʼej ri akaslon?",
+      "example_spa": "¿Cuánto pagaste por la hechura de tu pantalón?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rikʼin ri qabʼanbʼal xkojnimäx wi",
+      "example_spa": "Con nuestros hechos se nos cree",
+      "dialect": null
+    }
+  ],
+  "uuid": "17dfdc01-1bf1-4619-b520-aa148ea8888a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

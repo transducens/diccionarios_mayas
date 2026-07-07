@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tikmayixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner de cabeza; dar vuelta al tejido; remendar camisa o pantalón usado dándole vuelta al lado bueno; vaciar de una vez botella",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kintikmayiij Raíz VT Tik",
+  "examples": [
+    {
+      "example_maya": "Li alih tajin kutikmayij li kem",
+      "example_spa": "La muchacha está dándole vuelta al tejido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintikmayij na li kamiʼx",
+      "example_spa": "Voy a remendar la camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "8610310b-c7ef-4926-9783-59c31c7b08e9"
+}

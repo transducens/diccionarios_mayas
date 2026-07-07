@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼakʼatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼakʼatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar elegante; estrenar",
+  "definitionDialect": "",
+  "additional_text": "vi Var Kʼaakʼ Raiz Adj Kʼaakʼ",
+  "examples": [
+    {
+      "example_maya": "Li Karmen kakʼakʼatik, ma pa nimaqʼij kabʼe wih",
+      "example_spa": "Carmen anda elegante porque va a la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "246311ca-a3f1-4b05-b986-d102a9dda33d"
+}

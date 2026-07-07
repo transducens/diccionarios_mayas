@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jutzʼit",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un poquito; un momento",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz Adv Tzʼiit Raíz Enu Ju",
+  "examples": [
+    {
+      "example_maya": "Li alah, xaq jutzʼit xinriyʼej, xaq si xbʼek",
+      "example_spa": "El muchacho me esperó un momento, después se fue",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xusipaj jutzʼit wasukal",
+      "example_spa": "El niño me regaló un poquito de azúcar",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d5d3f4c-d182-4473-a6b8-b4f376174a4a"
+}

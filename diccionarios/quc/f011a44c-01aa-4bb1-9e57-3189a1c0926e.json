@@ -1,0 +1,24 @@
+{
+  "entryWord": "Upujaʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paladar; cielo de la boca; amigo íntimo; campanilla de la boca; moyera; remolino de la cabeza",
+  "definitionDialect": "",
+  "additional_text": "sds Upa nujaʼj var Upa jaʼj var Usuut Raíz S Jaʼj DomS Baqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li upujaʼj li neʼ sibʼalaj sipojnaq",
+      "example_spa": "El paladar del nene está bien hinchado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kajibʼ alabʼom sibʼalaj upa kijaʼj kibʼ",
+      "example_spa": "Los cuatro muchachos son amigos íntimos",
+      "dialect": null
+    }
+  ],
+  "uuid": "f011a44c-01aa-4bb1-9e57-3189a1c0926e"
+}

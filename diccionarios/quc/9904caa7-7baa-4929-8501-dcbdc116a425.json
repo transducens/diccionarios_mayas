@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choqolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchoqiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuchoqobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Amontonados: granos o siembras; tupido: siembras o granos",
+  "definitionDialect": "General",
+  "additional_text": "p Adj Choqochik Amontonados: granos o polvos",
+  "examples": [
+    {
+      "example_maya": "Li chʼaʼk chupalaj li alih sibʼalaj choqolik",
+      "example_spa": "Los granos de la cara de la muchacha están muy tupidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "9904caa7-7baa-4929-8501-dcbdc116a425"
+}

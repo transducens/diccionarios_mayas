@@ -1,0 +1,23 @@
+{
+  "entryWord": "JACHʼ JACHʼ",
+  "definition": "ruido que hacen los cerdos con sus dientes cuando comen, o cosas que no están bien atornilladas",
+  "additional_text": "af raíz jachʼ af",
+  "examples": [
+    {
+      "example_maya": "Jachʼ jachʼ, nqʼajt txateʼ kuch",
+      "example_spa": "“Jachʼ jachʼ”, está haciendo ruido el cerdo con sus dientes",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Jachʼ jachʼ, nnipan tqan molin",
+      "example_spa": "“Jachʼ jachʼ”, está haciendo ruido el mango del molino",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "bebe48ce-faac-46e9-8924-7bc1f9d6528b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

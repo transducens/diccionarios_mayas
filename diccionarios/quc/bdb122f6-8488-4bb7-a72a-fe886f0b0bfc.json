@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jininem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gruñir el perro; rugir",
+  "definitionDialect": "",
+  "additional_text": "vi Kajininik Raíz VI Jin",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ are taq xinokʼow bʼiʼ chwa li awoʼch koʼl xjininik",
+      "example_spa": "Cuando pasé por tu casa, el perro gruñó mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "bdb122f6-8488-4bb7-a72a-fe886f0b0bfc"
+}

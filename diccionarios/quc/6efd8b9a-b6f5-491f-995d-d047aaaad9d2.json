@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wolqoʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rodar; revolcarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kawolqoʼtik Raíz P Wol",
+  "examples": [
+    {
+      "example_maya": "Li pelot kawolqoʼtik xbʼek, are taq xkʼaq bʼik",
+      "example_spa": "La pelota se fue rodando cuando la tiraron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kawolqoʼt jun nim abʼaj xokʼow pa li bʼeh",
+      "example_spa": "Pasó rodando una piedra grande por el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "6efd8b9a-b6f5-491f-995d-d047aaaad9d2"
+}

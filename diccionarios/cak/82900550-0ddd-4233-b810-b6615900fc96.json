@@ -1,0 +1,23 @@
+{
+  "entryWord": "Waʼin",
+  "definition": "Comida: desayuno, almuerzo o cena",
+  "additional_text": "sInv Nuwaʼin",
+  "examples": [
+    {
+      "example_maya": "Man tamestaj ri waʼin paqʼij, jukumaj najowäx",
+      "example_spa": "No se vaya a olvidar que el almuerzo, lo van a querer temprano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq nubʼän paqʼij konojel ri winäq yebʼeʼ pa waʼin",
+      "example_spa": "Cuando son las doce del día, todas las personas van a comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "82900550-0ddd-4233-b810-b6615900fc96",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

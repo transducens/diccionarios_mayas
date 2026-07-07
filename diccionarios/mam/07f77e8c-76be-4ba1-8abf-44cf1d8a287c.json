@@ -1,0 +1,18 @@
+{
+  "entryWord": "MEES",
+  "definition": "mesa",
+  "additional_text": "s1 nmesa mesa del español mesa ds makbʼil",
+  "examples": [
+    {
+      "example_maya": "lilx tiʼj jun mes te wabʼil bʼix tzʼibʼil",
+      "example_spa": "Es muy necesaria una mesa para comer y escribir",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "07f77e8c-76be-4ba1-8abf-44cf1d8a287c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

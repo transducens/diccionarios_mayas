@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xkʼojiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Haber; existir; estar; tener",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Kʼoh (kʼoj)",
+  "examples": [
+    {
+      "example_maya": "Pa taq kʼacheʼlaj sibʼalaj siʼ kʼolik",
+      "example_spa": "En la montaña hay mucha leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nima qʼatal tzij, ojer riʼ kʼolnaq pa we tinamit",
+      "example_spa": "Hace tiempo que el presidente no ha estado en este pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "60bc8ab9-bb67-45fc-b14f-832c6d8e47b7"
+}

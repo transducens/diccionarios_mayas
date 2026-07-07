@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rumrum",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurumrum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juguete hecho de una tabla delgada con un agujero y en éste va una pita metida para hacerlo girar",
+  "definitionDialect": "S.Inv.",
+  "additional_text": "Var Jumjum DomS Etzʼabʼaʼl",
+  "examples": [
+    {
+      "example_maya": "Li rumrum xa jun laj cheʼ josom, ximom jun kʼaʼam chech",
+      "example_spa": "El \"rumrum\" es una tablita que han preparado y le han amarrado una pita",
+      "dialect": null
+    }
+  ],
+  "uuid": "249e74ac-1bef-4d97-8763-93aba02069e1"
+}

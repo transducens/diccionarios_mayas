@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ikʼowel",
+  "definition": "Peregrino, aventurero",
+  "additional_text": "snp",
+  "examples": [
+    {
+      "example_maya": "Qonojel xa röj ikʼowel chi ruwäch ri ruwachʼulew",
+      "example_spa": "Todos somos peregrinos sobre la tierra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun oyowal xa ikʼowel, man kan ta jantapeʼ kʼo",
+      "example_spa": "Un pleito es pasajero, no es permanentemente",
+      "dialect": null
+    }
+  ],
+  "uuid": "f924ae02-2f49-420f-a7d4-fd86057757db",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

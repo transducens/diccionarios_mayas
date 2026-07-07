@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tatzam",
+  "definition": "Condición de estar parado",
+  "additional_text": "SInv Intatzam",
+  "examples": [
+    {
+      "example_maya": "Mixk ninʼok chi tatzam arin",
+      "example_spa": "Hace rato que estoy parado aquí",
+      "dialect": null
+    },
+    {
+      "example_maya": "Intatzam xintaw eerikʼin",
+      "example_spa": "De una vez me quedé parado aquí con ustedes",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0946c36-892f-4b9e-b7ec-9f5598e54c8f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

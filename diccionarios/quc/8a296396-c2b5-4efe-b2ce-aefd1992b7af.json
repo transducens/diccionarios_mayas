@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar con palo grueso; tocar tambor",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinsanoh Raíz VT San",
+  "examples": [
+    {
+      "example_maya": "Tajin kasan li chʼuʼja tzʼiʼ cheh jun cheʼ",
+      "example_spa": "Le están pegando al perro con rabia con un palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "8a296396-c2b5-4efe-b2ce-aefd1992b7af"
+}

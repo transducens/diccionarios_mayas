@@ -1,0 +1,19 @@
+{
+  "entryWord": "Seyeyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaseyeyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flotar",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz PT Sey",
+  "examples": [
+    {
+      "example_maya": "Li jun bʼolaj kaseyeyik xbʼe pwi li bʼinel jaʼ",
+      "example_spa": "El trozo se fue flotando en el río",
+      "dialect": null
+    }
+  ],
+  "uuid": "15790d29-d94c-4297-a425-4b771742ed9c"
+}

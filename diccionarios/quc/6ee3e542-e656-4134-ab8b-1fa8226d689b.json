@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼoʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guacalito; tortuguilla; mariquita, dorífera",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukʼoʼx Raíz S Kʼoʼx DomS Chokonisaʼn DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kʼoʼx, kasipax kumal ajsiqonelabʼ chwa senyor",
+      "example_spa": "Los romeristas de Esquipulas regalan guacalitos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼoʼx kakʼojiʼ pa taq uxaq taq qʼayes",
+      "example_spa": "La tortuguilla vive en las hojas de las hierbas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ee3e542-e656-4134-ab8b-1fa8226d689b"
+}

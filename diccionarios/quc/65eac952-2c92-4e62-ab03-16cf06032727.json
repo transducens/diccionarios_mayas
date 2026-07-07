@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼamal bʼeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedidor en ceremonias de casamiento",
+  "definitionDialect": "K'am. B'eh.",
+  "additional_text": "scl Nukʼamal Bʼeh Coment Señor que reza oraciones rituales en ceremonias de casamiento y en procesiones de cofradías Sinón Ajtzʼonolobʼ Ajbʼeh Tzʼonooj Var Kʼamoj tziij Chupbʼal qʼaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kʼamal bʼeh, kʼamik keʼkibʼana che albʼatz chwa roʼch",
+      "example_spa": "El pedidor y los demás se fueron a traer a la nuera a su casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼamal bʼeh jun achih retaʼm katyoxin pa taq kʼulanem",
+      "example_spa": "El pedidor es un hombre que sabe rezar en ceremonias de casamiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "65eac952-2c92-4e62-ab03-16cf06032727"
+}

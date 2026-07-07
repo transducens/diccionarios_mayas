@@ -1,0 +1,28 @@
+{
+  "entryWord": "Wachbʼäl",
+  "definition": "Dibujo; diseño; fotografía, imagen",
+  "additional_text": "(achbʼäl) sInv Nuwachbʼäl",
+  "examples": [
+    {
+      "example_maya": "Xa kʼa re kan, xinbʼän ruwachbʼäl jun juyuʼ",
+      "example_spa": "Hace unos días, hice el dibujo de un cerro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin xinbʼän jun wachbʼäl chiʼel rubʼankil jun achin",
+      "example_spa": "Yo hice el diseño con la forma de un hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri watiʼt numamaʼ kʼo kiwachbʼäl toq e kʼulan",
+      "example_spa": "Mis abuelos tienen fotografías de cuando se casaron",
+      "dialect": null
+    }
+  ],
+  "uuid": "47edf7f4-74bb-4efc-8c44-6877f1f59508",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

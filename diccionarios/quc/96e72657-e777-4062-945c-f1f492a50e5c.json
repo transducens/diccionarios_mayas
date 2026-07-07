@@ -1,0 +1,24 @@
+{
+  "entryWord": "Juram",
+  "entryWordDialect": null,
+  "altEntryWord": "juramaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un trozo cortado; un grupo",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz VT Ram",
+  "examples": [
+    {
+      "example_maya": "Li alah reqam bʼi juram cheʼ",
+      "example_spa": "El muchacho carga un trozo cortado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ee kʼo chi juram ajxojolobʼ xuʼlik",
+      "example_spa": "Llegó otro grupo de bailadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "96e72657-e777-4062-945c-f1f492a50e5c"
+}

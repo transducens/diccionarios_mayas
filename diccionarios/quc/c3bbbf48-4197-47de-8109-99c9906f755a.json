@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pukaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar zacate, hierbas grandes o arbustos con machete; chapear; abrir camino cortando hierbas",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinpuukaaj Fbas //Puhk//",
+  "examples": [
+    {
+      "example_maya": "Kinpukaj na li nimaq taq qʼayes li kʼo chuxe li abʼix",
+      "example_spa": "Voy a cortar las hierbas grandes que están debajo de la milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xupukaj li ubʼeh rukʼ muruh ma xa sibʼalaj kʼo qʼayes",
+      "example_spa": "Abrió su camino con el machete porque había mucho zacate",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "c3bbbf48-4197-47de-8109-99c9906f755a"
+}

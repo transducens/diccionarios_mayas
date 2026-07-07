@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tojonik",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutojonik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Impuesto; tributo",
+  "definitionDialect": "Spanish",
+  "additional_text": "scv Raiz VT Toj",
+  "examples": [
+    {
+      "example_maya": "Li ajstanqr\" kʼo utojonik kuya cheh qʼatbʼal tzij, rumal li ukʼay",
+      "example_spa": "El cantinero paga impuesto a la municipalidad, por su venta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ojer taq winaq kʼo kitojonik chwach ri qʼatal tzij",
+      "example_spa": "La gente de antes pagaba tributo al Rey",
+      "dialect": null
+    }
+  ],
+  "uuid": "7dda239d-d037-448d-be21-5286aa7e426a"
+}

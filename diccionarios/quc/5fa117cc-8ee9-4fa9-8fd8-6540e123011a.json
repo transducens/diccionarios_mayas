@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzakʼatzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salidos: dientes de perro",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Tzakʼ",
+  "examples": [
+    {
+      "example_maya": "Li uwareh li nima tzʼiʼ sibʼalaj tzakʼatzik",
+      "example_spa": "Los dientes del perro grande están salidos y son muy filudos",
+      "dialect": null
+    }
+  ],
+  "uuid": "5fa117cc-8ee9-4fa9-8fd8-6540e123011a"
+}

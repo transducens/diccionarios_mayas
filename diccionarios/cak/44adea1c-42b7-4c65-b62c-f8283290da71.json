@@ -1,0 +1,28 @@
+{
+  "entryWord": "Pus",
+  "definition": "Oxidado, xuco",
+  "additional_text": "Adj Rupusil, xpusïr",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun wasaron xpusïr ruwäch",
+      "example_spa": "Tengo un azadón que se oxidó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wäy pa jun kaʼiʼ qʼij nipusïr pe",
+      "example_spa": "La tortilla después de unos días se enmohece",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun chʼichʼ kʼa kʼakʼaʼ, xtiqa yaʼ chi ruwäch, nipusïr",
+      "example_spa": "Un hierro nuevo si le cae agua se oxida",
+      "dialect": null
+    }
+  ],
+  "uuid": "44adea1c-42b7-4c65-b62c-f8283290da71",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

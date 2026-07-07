@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yupulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xyupiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuyupubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Cerrados: ojos",
+  "definitionDialect": "general",
+  "additional_text": "P Raíz P Yup",
+  "examples": [
+    {
+      "example_maya": "Li ubʼaqʼwach li akʼal xyupiʼk are taq xwarik",
+      "example_spa": "Los ojos del niño se cerraron al dormirse",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ubʼaqʼwach li akʼal yupulik ma xa kʼax",
+      "example_spa": "Los ojos del niño están cerrados porque los tiene malos",
+      "dialect": null
+    }
+  ],
+  "uuid": "28062e98-301a-42d6-84d8-e4ec3d41200a"
+}

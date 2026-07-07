@@ -1,0 +1,23 @@
+{
+  "entryWord": "XOOCH",
+  "definition": "pozo",
+  "additional_text": "s1 nxocha frases: Tzi Xoch aldea Papal raíz xoch s ds aʼ",
+  "examples": [
+    {
+      "example_maya": "Puro tuj xoch njatz kykʼaʼ xjal aʼ",
+      "example_spa": "Sólo en pozos saca la gente agua para beber",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Saqbʼaqan aʼ tuj xoch prim",
+      "example_spa": "Es bien fría el agua en el pozo por las mañanas",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "db8fbfc7-595e-47e1-bf38-816fd8d5fd00",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

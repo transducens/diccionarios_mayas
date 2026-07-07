@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaqijem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachaqijik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Secarse Sed, sequía",
+  "definitionDialect": "",
+  "additional_text": "vi sc Chaqijchiʼ",
+  "examples": [
+    {
+      "example_maya": "Katajin kachaqij li joron pa li kwaʼ",
+      "example_spa": "El agua del pozo se está secando",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a5cfd1b-6ec4-4a0e-aec0-b589ce7a4130"
+}

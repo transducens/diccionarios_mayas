@@ -1,0 +1,24 @@
+{
+  "entryWord": "Saqʼasoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tortear; palmear la espalda por saludo o broma; tronar los dedos",
+  "definitionDialect": "",
+  "additional_text": "vt Kinsaqʼasaʼ Raíz vt Saqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kusaqʼasa li lij nimaqʼabʼ",
+      "example_spa": "La mujer tortea por la madrugada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinsaqʼasa li nuqʼabʼ chikiwach li akʼalabʼ, na kekowin ta aʼreʼ chech",
+      "example_spa": "Los niños no pueden tronar los dedos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2da9b047-f082-4c34-9c65-1af47c1dfc0f"
+}

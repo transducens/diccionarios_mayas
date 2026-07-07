@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼotanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caerse los dientes de leche; salir dientes nuevos",
+  "definitionDialect": "",
+  "additional_text": "VI Kachʼootanik Fbas //Chʼohta// Raíz S Chʼoht",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal xumaj chʼotanem",
+      "example_spa": "Al niño se le empezaron a caer los dientes de leche",
+      "dialect": null
+    }
+  ],
+  "uuid": "4f9ed811-692b-46c5-90bf-efc89bf89b4e"
+}

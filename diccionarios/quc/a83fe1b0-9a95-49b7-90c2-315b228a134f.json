@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mansaʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Numansaʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manzana",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS Pruut Del Cast Manzana",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kukʼayij jun chakach mansaʼn",
+      "example_spa": "La mujer está vendiendo una canasta de manzanas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li mansaʼn pa tewa juyubʼ kakʼiy wih",
+      "example_spa": "La manzana crece en tierra fría",
+      "dialect": null
+    }
+  ],
+  "uuid": "a83fe1b0-9a95-49b7-90c2-315b228a134f"
+}

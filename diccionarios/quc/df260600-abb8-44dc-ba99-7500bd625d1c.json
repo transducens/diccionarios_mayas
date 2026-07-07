@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quchixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar madera; aserrar; sacar bocado de pan, tortilla o tamal",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinquchiij Raíz VT Quch",
+  "examples": [
+    {
+      "example_maya": "Li a Wel xuquchij utzaʼm li cheʼ",
+      "example_spa": "Manuel cortó con serrucho la punta del palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "df260600-abb8-44dc-ba99-7500bd625d1c"
+}

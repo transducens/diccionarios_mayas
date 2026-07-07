@@ -1,0 +1,24 @@
+{
+  "entryWord": "Suʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "suʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Kinsuʼuh",
+  "altEntryWordDialect2": null,
+  "definition": "Limpiar (con trapo o papel); borrar",
+  "definitionDialect": "General",
+  "additional_text": "VTR Raíz VT Suʼ",
+  "examples": [
+    {
+      "example_maya": "Li usuʼik li uwi taq li chakatebʼ rajawaxik jun atzʼayaq",
+      "example_spa": "Para limpiar mesas se necesita un trapo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinsuʼ na li chakatebʼ",
+      "example_spa": "Tengo que limpiar la mesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c94b66da-2cf0-41b0-ba5b-90e866c0a193"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakchatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachakchatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar un animal cuadrúpedo con regular velocidad",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Chak",
+  "examples": [
+    {
+      "example_maya": "Li kej kachakchatik xokʼow pa li bʼeh",
+      "example_spa": "El caballo pasó a trote por el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "6609d563-4df7-4ceb-ad38-5f715f04865e"
+}

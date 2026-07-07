@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kawachil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Engaño",
+  "definitionDialect": "",
+  "additional_text": "SnP Raiz N Kaa Raiz S Wach",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xa rukʼ kawachil xkʼam bʼik",
+      "example_spa": "Al niño se lo llevaron con engaños",
+      "dialect": null
+    }
+  ],
+  "uuid": "86f9ef02-cb0b-4b32-8e63-c8334967a393"
+}

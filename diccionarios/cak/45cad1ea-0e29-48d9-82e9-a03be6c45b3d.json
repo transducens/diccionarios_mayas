@@ -1,0 +1,23 @@
+{
+  "entryWord": "=Tojtäj",
+  "definition": "Terminar de pagar",
+  "additional_text": "vI Nitojtäj Toj",
+  "examples": [
+    {
+      "example_maya": "Jun nim kʼas kʼayew chi nitojtäj",
+      "example_spa": "Una deuda grande es dificil pagarla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir xitojtäj chi kitojik nusamajelaʼ",
+      "example_spa": "Ayer les pagué a todos mis mozos",
+      "dialect": null
+    }
+  ],
+  "uuid": "45cad1ea-0e29-48d9-82e9-a03be6c45b3d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

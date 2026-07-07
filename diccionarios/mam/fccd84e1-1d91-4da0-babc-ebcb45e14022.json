@@ -1,0 +1,18 @@
+{
+  "entryWord": "KUCHIIL",
+  "definition": "cuchillo, navaja",
+  "additional_text": "s1 nkuchila del español cuchillo ds makbʼil",
+  "examples": [
+    {
+      "example_maya": "Tkyʼiʼ kubʼ tmij chibʼaj tuʼn kuchil",
+      "example_spa": "El cuchillo no corta la carne",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "fccd84e1-1d91-4da0-babc-ebcb45e14022",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

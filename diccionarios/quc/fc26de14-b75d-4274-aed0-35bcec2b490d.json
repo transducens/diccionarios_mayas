@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulbʼaʼtixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼulbʼaʼtij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Colindar",
+  "definitionDialect": "General",
+  "additional_text": "vTD Raíz S Kʼul",
+  "examples": [
+    {
+      "example_maya": "Kinkʼulbʼaʼtij li wukʼiʼn rukʼ li ruliw",
+      "example_spa": "Mi terreno colinda con el de mi amigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc26de14-b75d-4274-aed0-35bcec2b490d"
+}

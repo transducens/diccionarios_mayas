@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sucio",
+  "definitionDialect": "",
+  "additional_text": "Adj Utzʼilool, xtzʼilobʼik Raíz Adj Tzʼiil",
+  "examples": [
+    {
+      "example_maya": "Li ukamiʼx li akʼal xtzʼilobʼik",
+      "example_spa": "La camisa del niño se ensució",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li utzʼilol li atzʼyaq kuya yabʼil",
+      "example_spa": "La suciedad de la ropa causa enfermedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ed5aaaf-f3e5-4a3a-b692-6a8746f7c506"
+}

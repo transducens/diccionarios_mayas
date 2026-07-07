@@ -1,0 +1,28 @@
+{
+  "entryWord": "Woponïk",
+  "definition": "Perforar",
+  "additional_text": "vt Wopoxik, (wopik), ninwöp vr Wöp",
+  "examples": [
+    {
+      "example_maya": "Ri chʼichʼ yalan kʼayew ruwopik",
+      "example_spa": "El hierro es muy difícil perforarlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tuktük yalan nuwöp cheʼ",
+      "example_spa": "El pájaro carpintero perfora mucho los árboles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼalän man kʼayew ta ruwopik",
+      "example_spa": "La tabla no es difícil perforarla",
+      "dialect": null
+    }
+  ],
+  "uuid": "f684dcc1-de83-4ec5-add3-fe67058a7716",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

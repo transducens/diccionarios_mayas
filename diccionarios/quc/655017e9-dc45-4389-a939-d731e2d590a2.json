@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼarkaʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espanto que arrastra algo que hace ruido",
+  "definitionDialect": "",
+  "additional_text": "snp",
+  "examples": [
+    {
+      "example_maya": "Li chʼarkaʼt chaqʼabʼ kabʼinik",
+      "example_spa": "El espanto anda arrastrando cadenas",
+      "dialect": null
+    }
+  ],
+  "uuid": "655017e9-dc45-4389-a939-d731e2d590a2"
+}

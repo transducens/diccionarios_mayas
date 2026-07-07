@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aqʼen",
+  "entryWordDialect": null,
+  "altEntryWord": "Waqʼen",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Molendero; mi molendero",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuya li uqʼor chwach li aqʼen",
+      "example_spa": "La mujer puso su masa en el molendero",
+      "dialect": null
+    }
+  ],
+  "uuid": "465c11b2-d7be-4f6f-bade-e89e7f647f44"
+}

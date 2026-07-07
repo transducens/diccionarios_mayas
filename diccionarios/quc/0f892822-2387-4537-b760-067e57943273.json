@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pojpoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Duro, como tierra donde no crece nada o como ladrillo; calvo; desierto",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Poj",
+  "examples": [
+    {
+      "example_maya": "Li uliw jawi taq keyuqʼux wi kej wakax kux pojpoj pa kaqanʼ",
+      "example_spa": "El terreno donde se pastorean caballos y ganado, se pone duro, por ser muy pisado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xa pojpoj li ujolom ma xa maj uwiʼ",
+      "example_spa": "El hombre tiene la cabeza calva",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f892822-2387-4537-b760-067e57943273"
+}

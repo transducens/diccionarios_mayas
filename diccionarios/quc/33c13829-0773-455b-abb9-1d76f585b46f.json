@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taqoʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutaqoʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mensajero; mandadero; recadero; comisionario; enviado",
+  "definitionDialect": "",
+  "additional_text": "sInv Raíz VT Taq",
+  "examples": [
+    {
+      "example_maya": "Li achih nabʼeh, xutaq bʼi li utaqoʼn",
+      "example_spa": "El hombre primero mandó a su mensajero",
+      "dialect": null
+    }
+  ],
+  "uuid": "33c13829-0773-455b-abb9-1d76f585b46f"
+}

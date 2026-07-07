@@ -1,0 +1,24 @@
+{
+  "entryWord": "Uul",
+  "entryWordDialect": "SnP",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Derrumbe; grieta en la tierra; enfermedad de las siembras que se secan sin dar nada argeño",
+  "definitionDialect": "General",
+  "additional_text": "Raíz S Uul",
+  "examples": [
+    {
+      "example_maya": "Xqaj ul pa li bʼeh, rumal li jabʼ",
+      "example_spa": "Cayó derrumbe en el camino por la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li trikoh, xumaj ul",
+      "example_spa": "El trigo se enfermó y se secó",
+      "dialect": null
+    }
+  ],
+  "uuid": "951d0ba7-ad27-4259-85e7-98629ad2da23"
+}

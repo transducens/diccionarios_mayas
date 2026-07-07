@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tux",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brote; retoño, vástago, renuevo, hijo, rebrote, retallo",
+  "definitionDialect": "",
+  "additional_text": "sinv Utux vi Tuxaneem Retoñar Raíz S Tux",
+  "examples": [
+    {
+      "example_maya": "Li saqwach kʼo chi utux",
+      "example_spa": "La papa ya tiene retoños",
+      "dialect": null
+    }
+  ],
+  "uuid": "35876c1d-6d99-4a15-bbb9-b59bba42dd72"
+}

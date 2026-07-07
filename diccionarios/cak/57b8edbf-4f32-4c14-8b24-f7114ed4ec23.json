@@ -1,0 +1,23 @@
+{
+  "entryWord": "Cholan",
+  "definition": "En línea recta, alineado",
+  "additional_text": "p Xcholeʼ, xucholobʼaʼ Chöl",
+  "examples": [
+    {
+      "example_maya": "E cholan ri kʼayinelaʼ pa kʼaybʼäl",
+      "example_spa": "En línea están los vendedores en el mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Cholan xebʼeʼel pe ri wawex",
+      "example_spa": "Pareja salió mi milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "57b8edbf-4f32-4c14-8b24-f7114ed4ec23",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

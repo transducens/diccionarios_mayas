@@ -1,0 +1,23 @@
+{
+  "entryWord": "May",
+  "definition": "Tabaco",
+  "additional_text": "sInv Numay Qʼayis",
+  "examples": [
+    {
+      "example_maya": "Ri may chöj pa joʼq nikipïs wi, ri winäq taq ruʼanun (rubʼanön) kan ja ri nikisikʼaj",
+      "example_spa": "Antes sólo en tusas envolvía el tabaco la gente y después lo fumaba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri may yalan chawon, setesäq ri ruxaq",
+      "example_spa": "El tabaco tiene sus hojas grandes y redondeadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a392de22-a3ab-43ab-a2e9-bed1315fa657",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

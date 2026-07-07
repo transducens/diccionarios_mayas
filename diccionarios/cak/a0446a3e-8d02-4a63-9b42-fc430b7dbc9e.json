@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xochʼ",
+  "definition": "Lechuza",
+  "additional_text": "SNP algo Tzʼikin, chikop, ajxikʼ",
+  "examples": [
+    {
+      "example_maya": "Ri xochʼ jun tzʼikin ruyon chaqʼaʼ nibʼiyaj",
+      "example_spa": "La lechuza es un ave que sale sólo de noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xochʼ jun chiköp ajchaqʼaʼ nibʼïx chi xtichʼoʼn kan pa ruwiʼ awacho, kʼo nuyaʼ retal",
+      "example_spa": "Dicen que si la lechuza pasa cantando sobre la casa de uno, da una señal de algo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a0446a3e-8d02-4a63-9b42-fc430b7dbc9e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

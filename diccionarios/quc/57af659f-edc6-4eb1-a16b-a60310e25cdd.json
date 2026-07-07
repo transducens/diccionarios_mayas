@@ -1,0 +1,19 @@
+{
+  "entryWord": "Latzʼatzʼexik =ibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlatzʼatzʼej wibʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasar entre mucha gente, en camino angosto o lugar apretado",
+  "definitionDialect": "",
+  "additional_text": "vRefl Raiz VT Latzʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah, xulatzʼatzʼej ribʼ xokʼow chikixoʼl li komon winaq",
+      "example_spa": "El muchacho pasó con dificultad entre la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "57af659f-edc6-4eb1-a16b-a60310e25cdd"
+}

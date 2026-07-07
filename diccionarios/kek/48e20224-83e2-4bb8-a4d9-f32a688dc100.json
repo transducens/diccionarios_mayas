@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼaati kux",
+  "definition": "Ardores, agrios, agruras",
+  "additional_text": "SCL Inkʼaati kux var Kʼaati jaʼaj",
+  "examples": [
+    {
+      "example_maya": "Yo inkʼaati kux",
+      "example_spa": "Tengo ardores",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uqʼun xkʼe inkʼaati kux",
+      "example_spa": "El atol me dio ardores",
+      "dialect": null
+    }
+  ],
+  "uuid": "48e20224-83e2-4bb8-a4d9-f32a688dc100",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

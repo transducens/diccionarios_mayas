@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lajomabʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulajomabʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Piedra labrada; laja",
+  "definitionDialect": "general",
+  "additional_text": "sInv Raíz s Abʼaj DomS Abʼaj",
+  "examples": [
+    {
+      "example_maya": "Li lajomabʼaj oknaq che li wankat reh",
+      "example_spa": "La iglesia está construida con piedras labradas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e7d0a5e6-7aea-41d2-bbc9-372b60aad90d"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "ALKYEE",
+  "definition": "¿quién?",
+  "additional_text": "pi raíz al par",
+  "examples": [
+    {
+      "example_maya": "¿Alkye majan tzul aqʼnal?",
+      "example_spa": "¿Quién es el mozo que va a venir a trabajar?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ca754370-c31a-4e49-b6db-a909a8cb9835",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

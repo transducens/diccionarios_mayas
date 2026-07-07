@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chinojimal",
+  "entryWordDialect": null,
+  "altEntryWord": "Owatalik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Kʼuʼtalik",
+  "altEntryWordDialect2": null,
+  "definition": "Secretamente",
+  "definitionDialect": "General",
+  "additional_text": "Adv Var Var",
+  "examples": [
+    {
+      "example_maya": "Li kebʼ achijabʼ xa chinojimal ketzijonik",
+      "example_spa": "Los dos hombres hablan en secreto",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8e4bea6-9408-4d40-b886-77037fc648fe"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pop",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Petate; estera (elev); historia; tiempo; acontecimiento; suceso",
+  "definitionDialect": "general",
+  "additional_text": "sInv Nupoop Fbas //Pohp//",
+  "examples": [
+    {
+      "example_maya": "Konojel natural kakikoj pop, chwach keqʼoyiʼ wih",
+      "example_spa": "Todos los indígenas usan petates para dormir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pop kachokon che sokaj che warabʼal",
+      "example_spa": "El petate se usa como colchón para dormir",
+      "dialect": null
+    }
+  ],
+  "uuid": "16d2ddd5-8359-4b19-bf95-4da6dc95424b"
+}

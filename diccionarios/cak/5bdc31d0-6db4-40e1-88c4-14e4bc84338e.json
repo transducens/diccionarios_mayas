@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yijon",
+  "definition": "Repicar campana grande en las fiestas o despedidas de los restos mortales en la iglesia",
+  "additional_text": "vi Niyijon",
+  "examples": [
+    {
+      "example_maya": "Chke ta kʼa xkän wakamin niyijon ri chʼichʼ",
+      "example_spa": "A saber quién murió hoy, están sonando las campanas grandes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pa taq nimaqʼij niyijon ruchʼabʼäl ri chʼichʼ paqʼij",
+      "example_spa": "En las fiestas hacen repicar doble las campanas a medio día",
+      "dialect": null
+    }
+  ],
+  "uuid": "5bdc31d0-6db4-40e1-88c4-14e4bc84338e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

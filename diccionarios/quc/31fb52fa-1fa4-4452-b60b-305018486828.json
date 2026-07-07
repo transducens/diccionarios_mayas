@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼorobʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un rollo",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz PT Bʼor",
+  "examples": [
+    {
+      "example_maya": "Li ajchʼutiq kʼayij si bʼorobʼik li urajil kʼo pa li ubʼorxe",
+      "example_spa": "El comerciante tiene un rollo de billetes dentro de su bolsa",
+      "dialect": null
+    }
+  ],
+  "uuid": "31fb52fa-1fa4-4452-b60b-305018486828"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼambʼal tzij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ejemplo; parábola",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li ajtij xa pa taq kʼambʼal tzij katzijonik",
+      "example_spa": "El maestro habla por medio de ejemplos",
+      "dialect": null
+    }
+  ],
+  "uuid": "27384277-8d93-4206-b6bf-b487a70003f0"
+}

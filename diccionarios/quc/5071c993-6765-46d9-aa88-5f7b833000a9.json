@@ -1,0 +1,24 @@
+{
+  "entryWord": "Suʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chirimía; palito que va entre los hilos de la urdimbre",
+  "definitionDialect": "General",
+  "additional_text": "SInv Sinón Chirimiʼy Sinón Churumiʼy Raíz S Suuʼ DomS Keem DomS Qʼojoom",
+  "examples": [
+    {
+      "example_maya": "Li suʼ are rachiʼl li tambʼor are taq kabʼanik",
+      "example_spa": "La chirimía se toca acompañada del tambor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waʼ we suʼ si kachokon cheh taq kem",
+      "example_spa": "Este palito se usa para tejidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "5071c993-6765-46d9-aa88-5f7b833000a9"
+}

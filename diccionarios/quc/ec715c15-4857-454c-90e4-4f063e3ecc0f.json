@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Asar; tostar; hacer nuedo en tela; hacer tablones",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinbʼoloh Raíz VT Bʼol",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kubʼol tiʼij wakax",
+      "example_spa": "La mujer está asando carne de res",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinbʼol na li wuliw pa qʼeʼt ma kintik na nutriko",
+      "example_spa": "Voy a hacer tablones en mi terreno porque tengo que sembrar trigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ec715c15-4857-454c-90e4-4f063e3ecc0f"
+}

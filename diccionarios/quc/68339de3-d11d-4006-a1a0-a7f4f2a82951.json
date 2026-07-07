@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokʼol kaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantero; picapedrero, pedrero, labrante, cincelador",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz VT Tzokʼ Raíz S Kaaʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzokʼol kaʼ xbʼe pa chak",
+      "example_spa": "El cantero se fue al trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "68339de3-d11d-4006-a1a0-a7f4f2a82951"
+}

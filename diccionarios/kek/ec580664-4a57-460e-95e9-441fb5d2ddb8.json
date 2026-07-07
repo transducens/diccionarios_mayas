@@ -1,0 +1,33 @@
+{
+  "entryWord": "Numtaak",
+  "definition": "Excederse, pasarse de lo normal, creerse, confiar",
+  "additional_text": "vi Xinmumta",
+  "examples": [
+    {
+      "example_maya": "Xnumta chi waʼak",
+      "example_spa": "Se pasó de comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xnumta rikil li kaalt",
+      "example_spa": "Se le pasó de chile el caldo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nakatnumta chi chʼiilank",
+      "example_spa": "Te pasás de la medida en regañar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Peʼ nakatnumta bʼiʼ chi wu",
+      "example_spa": "Te creés más que yo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ec580664-4a57-460e-95e9-441fb5d2ddb8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

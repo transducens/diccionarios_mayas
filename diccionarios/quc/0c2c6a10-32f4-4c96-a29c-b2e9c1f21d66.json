@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼayik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar; golpear",
+  "definitionDialect": "General",
+  "additional_text": "VTR Kinchʼayoh Eau Juchʼaay Costumbre de sacerdotes mayas, aporreada de granos Raíz VT Chʼay",
+  "examples": [
+    {
+      "example_maya": "Li achih xuchʼay li rixoqil",
+      "example_spa": "El hombre le pegó a su esposa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼuʼj we katzurik, kachʼayanik",
+      "example_spa": "El loco pega cuando lo molestan",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c2c6a10-32f4-4c96-a29c-b2e9c1f21d66"
+}

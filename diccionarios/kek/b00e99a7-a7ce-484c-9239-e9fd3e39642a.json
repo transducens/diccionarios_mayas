@@ -1,0 +1,28 @@
+{
+  "entryWord": "Sok",
+  "definition": "Almohada, colchón, nido",
+  "additional_text": "SInv Insok var Suk",
+  "examples": [
+    {
+      "example_maya": "Nawaj tinloqʼ junaq insok jolom",
+      "example_spa": "Quiero comprar una almohada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maakʼaʼ xsok wix",
+      "example_spa": "No tengo colchón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinpoʼ chaq xsok li akʼach saʼ pim",
+      "example_spa": "Fui a destruir el nido de la chompipa al monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "b00e99a7-a7ce-484c-9239-e9fd3e39642a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

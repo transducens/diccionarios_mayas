@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chipipem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachipipik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir a chorros; agua con presión",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz P Chip",
+  "examples": [
+    {
+      "example_maya": "Li jaʼ kachipip pa li pilah",
+      "example_spa": "El agua cae con presión a la pila",
+      "dialect": null
+    }
+  ],
+  "uuid": "b317bbf8-3254-4126-86f0-2d8eda69f64c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Puqlajinik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Primera calza de la milpa",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz S Puqlaaj DomS Chaak",
+  "examples": [
+    {
+      "example_maya": "Kamik kinmajij nupuqlajinik reh wabʼix",
+      "example_spa": "Hoy comienzo la calza de la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c81f115a-bb6e-4357-af04-c7f2a448f8f8"
+}

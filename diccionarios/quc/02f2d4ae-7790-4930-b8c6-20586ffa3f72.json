@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzakalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtzakiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutzakabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Inclinado (como árbol que no cayó bien); recostado (como árbol que no cayó bien)",
+  "definitionDialect": "",
+  "additional_text": "p Var Tzokolik Raíz P Tzak",
+  "examples": [
+    {
+      "example_maya": "Li uqʼabʼ li cheʼ li xtzaqik xaq tzakal chwi li uliw",
+      "example_spa": "Las ramas del árbol que se cayó quedaron inclinadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "02f2d4ae-7790-4930-b8c6-20586ffa3f72"
+}

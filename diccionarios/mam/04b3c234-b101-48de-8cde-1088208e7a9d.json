@@ -1,0 +1,18 @@
+{
+  "entryWord": "IXTOOL",
+  "definition": "regidor",
+  "additional_text": "s1 nʼixtola derivaciones: tneʼixtol primer regidor",
+  "examples": [
+    {
+      "example_maya": "Nim toknenan ixtol",
+      "example_spa": "El regidor tiene mucho servicio",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "04b3c234-b101-48de-8cde-1088208e7a9d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

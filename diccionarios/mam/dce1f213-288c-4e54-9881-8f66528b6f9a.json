@@ -1,0 +1,23 @@
+{
+  "entryWord": "AKʼNAJ",
+  "definition": "mojado, húmedo",
+  "additional_text": "adj takʼal sin tʼaqnaj raíz akʼ",
+  "examples": [
+    {
+      "example_maya": "Pur akʼnaj nnok kyaqil twitz txʼotxʼ ok tkubʼal jbʼal",
+      "example_spa": "Se pone mojada la superficie de la tierra, cuando empieza la lluvia",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Mitiʼ nʼakʼj txʼotxʼ tuʼn xliʼs",
+      "example_spa": "No se humedece la tierra por la llovizna",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "dce1f213-288c-4e54-9881-8f66528b6f9a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

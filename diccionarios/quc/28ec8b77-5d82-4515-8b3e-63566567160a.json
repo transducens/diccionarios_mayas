@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paxixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpaxiij Raíz VT Pax",
+  "examples": [
+    {
+      "example_maya": "Li upaxixik taq li jastaq xa bʼoʼj na kʼax taj",
+      "example_spa": "Las cosas de barro son fáciles de quebrar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal kupaxij li paxin tʼuʼy",
+      "example_spa": "El niño va a quebrar la piñata",
+      "dialect": null
+    }
+  ],
+  "uuid": "28ec8b77-5d82-4515-8b3e-63566567160a"
+}

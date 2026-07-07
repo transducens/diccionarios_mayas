@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner, echar, tirar o remendar con lodo",
+  "definitionDialect": "general",
+  "additional_text": "vtr Kintʼanoh VTD Tʼananexik Echar, tirar, poner mucho lodo Raíz PT Tʼan",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil xaqʼoʼl katajin kutʼanoh, are chi kukʼojoj li ja",
+      "example_spa": "El albañil está reparando la casa con lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "329cbaae-2181-4e8d-80d2-889f1f2052f5"
+}

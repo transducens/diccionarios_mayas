@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yamayïk",
+  "definition": "Debilitada una persona marchita una planta",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Jumül yin yamayïk xinbʼän kan ruma ri oxiʼ qʼij kʼatän",
+      "example_spa": "De una vez quedé debilitado, por los tres días de calentura que tuve",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yamayïk chik ri kotzʼiʼj chwa qʼij",
+      "example_spa": "Ya está marchitada la flor por el sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yamayïk chik ri ichaj ruma ri xchʼup kan iwir",
+      "example_spa": "La hierba está marchitada por haberse cortado ayer",
+      "dialect": null
+    }
+  ],
+  "uuid": "35f4e1d7-f940-42eb-9de9-f07fe460d281",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼoxirem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ponerse seco café en la mata",
+  "definitionDialect": "",
+  "additional_text": "vi Kakʼoxirik Raíz VI Kʼox",
+  "examples": [
+    {
+      "example_maya": "Li kapeh, xkʼoxir chwa li qʼij ma xa matam xqʼolik",
+      "example_spa": "El café se secó en la mata porque lo cortaron muy tarde",
+      "dialect": null
+    }
+  ],
+  "uuid": "6102f7c5-48f4-4581-b3b8-a5bae69e343b"
+}

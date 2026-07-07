@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kamnaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukamnaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muerto; difunto; cadáver",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li kamnaq xeʼmuqa kan pa kompesant iwir",
+      "example_spa": "Ayer fueron a enterrar al difunto al cementerio",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb8e6c56-6b9f-47c6-891a-700d283bbc54"
+}

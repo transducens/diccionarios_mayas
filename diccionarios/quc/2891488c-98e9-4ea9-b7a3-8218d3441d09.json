@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼeloʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachʼeloʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar despacio con carga muy pesada; andar con la ropa abajo o algo caída",
+  "definitionDialect": "K'iche'",
+  "additional_text": "vi Raiz VT Chʼel",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kachʼeloʼpik ma sibʼalaj al li reqaʼn",
+      "example_spa": "El hombre camina despacio porque su carga es pesada",
+      "dialect": null
+    }
+  ],
+  "uuid": "2891488c-98e9-4ea9-b7a3-8218d3441d09"
+}

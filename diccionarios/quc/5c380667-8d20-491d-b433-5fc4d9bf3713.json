@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kosem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cansarse",
+  "definitionDialect": "",
+  "additional_text": "vI Kinkoosik Fbas //Kohs// Adj Koosnaq Cansado s Koosibʼal Cosa que causa cansancio vtd Kosisaxik Cansar a alguien o algo",
+  "examples": [
+    {
+      "example_maya": "Na kinbʼe ta chik, ma xa sibʼalaj xinkosik",
+      "example_spa": "Yo no voy porque me cansé mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih na kachakun ta chik, xa xkosik",
+      "example_spa": "El hombre se cansó de tanto trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c380667-8d20-491d-b433-5fc4d9bf3713"
+}

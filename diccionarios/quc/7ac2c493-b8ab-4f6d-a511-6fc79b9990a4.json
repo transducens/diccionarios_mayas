@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mololexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmololij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juntar todo",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Mol",
+  "examples": [
+    {
+      "example_maya": "Konojel li alabʼom xemololex bʼi pa kortel",
+      "example_spa": "Juntaron a todos los muchachos para el cuartel",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ac2c493-b8ab-4f6d-a511-6fc79b9990a4"
+}

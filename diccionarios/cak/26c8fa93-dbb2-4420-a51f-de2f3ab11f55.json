@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼastajnïk (Kʼastajinïk)",
+  "definition": "Despertarse",
+  "additional_text": "vi Kʼastajnem, yikʼastäj",
+  "examples": [
+    {
+      "example_maya": "Kaʼiʼ mul xikʼastäj chaqʼaʼ",
+      "example_spa": "Dos veces me desperté anoche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼastajel waran",
+      "example_spa": "Uno fue despertado rápidamente",
+      "dialect": null
+    }
+  ],
+  "uuid": "26c8fa93-dbb2-4420-a51f-de2f3ab11f55",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

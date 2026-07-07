@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqsubʼiʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaqsubʼiʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja de queso (árbol de hojas redondas y suaves",
+  "definitionDialect": "General",
+  "additional_text": "sInv DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li saqsubʼiʼt ketekaʼq li uxaq",
+      "example_spa": "Las hojas de este árbol son redondas",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5aeb321-cc1a-4964-bb89-2e3d1a618f86"
+}

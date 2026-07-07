@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼonolajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼonolajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ruido de granizo al caer sobre cosa dura",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz VI Kʼon",
+  "examples": [
+    {
+      "example_maya": "Li saqbʼach sibʼalaj xkʼonolajik are taq xqaj pwi taq li xot",
+      "example_spa": "El granizo hizo mucho ruido cuando cayó sobre las tejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "16ded5da-ac12-45c3-88d0-b006ea1e3d68"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuchubʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukuchubʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Contribución",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz VT Kuch",
+  "examples": [
+    {
+      "example_maya": "Li ajpatanibʼ kʼo kikuchubʼal kakiya pa li patan",
+      "example_spa": "Los cofrades dan contribuciones en la cofradía",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f0b70da-a4b6-42d9-8da7-1879bf9444ab"
+}

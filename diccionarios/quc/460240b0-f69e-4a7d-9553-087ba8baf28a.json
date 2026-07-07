@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼotobʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rollo de tela, alambre, papel o lazo",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz PT Bʼot",
+  "examples": [
+    {
+      "example_maya": "Xsipax jun bʼotobʼik wuj chwech",
+      "example_spa": "Me regalaron un rollo de papel",
+      "dialect": null
+    }
+  ],
+  "uuid": "460240b0-f69e-4a7d-9553-087ba8baf28a"
+}

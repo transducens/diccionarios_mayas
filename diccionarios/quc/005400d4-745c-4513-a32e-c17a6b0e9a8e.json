@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choʼm",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchoʼm",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Camarón",
+  "definitionDialect": "General",
+  "additional_text": "sinv vi Choʼmaneem Agarrar camarones",
+  "examples": [
+    {
+      "example_maya": "Li choʼm utz katijowik",
+      "example_spa": "Los camarones son muy sabrosos",
+      "dialect": null
+    }
+  ],
+  "uuid": "005400d4-745c-4513-a32e-c17a6b0e9a8e"
+}

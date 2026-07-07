@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ajlabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajlabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Número; mi instrumento para contar los números Número de, fecha de  puede ser de un listado, mes, cosas Calendario",
+  "definitionDialect": "",
+  "additional_text": "scv SSP Rajlabʼaliil SInstS Ajlabʼal qʼiij Ajil",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xretaʼmaj utzʼibʼaxik li ajlabʼal",
+      "example_spa": "El niño aprendió a escribir los números",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinok pa ajlabʼal chkixoʼl li aʼjxojolobʼ",
+      "example_spa": "Fui tomado en cuenta entre los bailadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad86543c-29bd-48ee-b121-46a3e565cc56"
+}

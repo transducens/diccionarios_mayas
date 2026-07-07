@@ -1,0 +1,19 @@
+{
+  "entryWord": "Utzʼuʼmal chʼichʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Utzʼuʼmal muruh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vaina de cuero",
+  "definitionDialect": "General",
+  "additional_text": "sds Sinón Raíz S Tzʼuʼuum Raíz S Chʼiichʼ DomS Tzʼuʼuum",
+  "examples": [
+    {
+      "example_maya": "Li utzʼuʼmal chʼichʼ kachokon chech ukʼolbʼal chʼichʼ",
+      "example_spa": "La vaina se usa para guardar el machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f92d615-589c-44ff-9b42-b431f3e3eb37"
+}

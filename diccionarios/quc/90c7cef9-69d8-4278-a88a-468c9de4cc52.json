@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼalojcheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sauco",
+  "definitionDialect": "",
+  "additional_text": "SInv Nutzʼalojcheʼ Var Tzʼolojcheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalojcheʼ kachon li uxaq cheh kunabʼal qʼaqʼ",
+      "example_spa": "Las hojas del sauco son medicinales para la calentura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Amaqʼel kaxekebʼax li a Ximon chwi li tzʼalojcheʼ pa taq awas qʼij",
+      "example_spa": "En semana santa siempre cuelgan a Judas en un palo de sauco",
+      "dialect": null
+    }
+  ],
+  "uuid": "90c7cef9-69d8-4278-a88a-468c9de4cc52"
+}

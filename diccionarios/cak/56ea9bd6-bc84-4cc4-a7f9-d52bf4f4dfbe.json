@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yakayik",
+  "definition": "Alto, angosto o delgado: animal o carga",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Jeʼel yakayik xubʼän el chre jun ejqaʼn rusiʼ ri achin",
+      "example_spa": "Bien alta hizo la carga de leña el hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun waq nüm (nïm) laq nel qʼalaj la ruchʼakul, chöj yakayik, majun nityojir ta pe",
+      "example_spa": "Tengo un marrano que seguro va a ser bien grande porque su cuerpo está alto y no se engorda",
+      "dialect": null
+    }
+  ],
+  "uuid": "56ea9bd6-bc84-4cc4-a7f9-d52bf4f4dfbe",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

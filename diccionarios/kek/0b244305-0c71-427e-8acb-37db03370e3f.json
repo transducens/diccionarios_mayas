@@ -1,0 +1,23 @@
+{
+  "entryWord": "Inwan",
+  "definition": "Adiós",
+  "additional_text": "Sal",
+  "examples": [
+    {
+      "example_maya": "Xnumeʼ li xqaʼal ut inkʼaʼ xye inwan we",
+      "example_spa": "Pasó la muchacha y no me dijo adiós",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inwan bʼiʼ (inwan bʼiʼ looy)",
+      "example_spa": "Adiós amigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b244305-0c71-427e-8acb-37db03370e3f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

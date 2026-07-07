@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼatzʼunk",
+  "definition": "Jugar, estar en brama, fermentarse",
+  "additional_text": "vı Xinbʼatzʼun",
+  "examples": [
+    {
+      "example_maya": "Yo chi bʼatzʼunk li xaʼan tzʼiʼ",
+      "example_spa": "La perra está en brama",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yo chi bʼatzʼunk xbʼeen li bʼoj",
+      "example_spa": "La chicha está fermentándose",
+      "dialect": null
+    }
+  ],
+  "uuid": "3c6a5bcf-8182-4588-8802-6909e8f94f08",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

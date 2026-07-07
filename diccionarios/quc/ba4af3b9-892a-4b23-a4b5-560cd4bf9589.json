@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaynajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kabʼaynajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar haraganeando, quedarse atrás de otros sin preocuparse",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz P Bʼay",
+  "examples": [
+    {
+      "example_maya": "Li alih xyajik umak xaq kabʼaynajik",
+      "example_spa": "A la muchacha la regañaron por andar haraganeando",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba4af3b9-892a-4b23-a4b5-560cd4bf9589"
+}

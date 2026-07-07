@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼutik bʼeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guiar en un camino",
+  "definitionDialect": "",
+  "additional_text": "vrs",
+  "examples": [
+    {
+      "example_maya": "Li jun achih, nabʼe chikiwach li tzukunelabʼ chukʼutik kibʼeh",
+      "example_spa": "El hombre va delante de los cazadores para guiarlos",
+      "dialect": null
+    }
+  ],
+  "uuid": "3f573f02-a666-4d78-b92a-050a5164d48a"
+}

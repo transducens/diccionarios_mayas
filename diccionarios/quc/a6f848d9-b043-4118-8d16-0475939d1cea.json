@@ -1,0 +1,19 @@
+{
+  "entryWord": "Reqnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa rota o abierta",
+  "definitionDialect": "General",
+  "additional_text": "vi Kareqnajík Var Raqnájeem Raíz VT Req",
+  "examples": [
+    {
+      "example_maya": "Li chʼuʼj achih kareqnaj li ukamiʼx",
+      "example_spa": "El hombre loco anda con la camisa rota",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6f848d9-b043-4118-8d16-0475939d1cea"
+}

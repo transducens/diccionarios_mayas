@@ -1,0 +1,24 @@
+{
+  "entryWord": "Suʼnal ij",
+  "entryWordDialect": null,
+  "altEntryWord": "Usuʼnal wij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espinazo; columna vertebral",
+  "definitionDialect": "",
+  "additional_text": "SSP Cheh Raíz S Suʼn Raíz S Iij DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "li usuʼnal ij uriqom wi ribʼ li kʼalkʼaʼx",
+      "example_spa": "En el espinazo se juntan las costillas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xtzaq chwa jun abʼaj si xqʼaj li usuʼnal rij",
+      "example_spa": "El hombre se cayó sobre una piedra y se quebró la columna vertebral",
+      "dialect": null
+    }
+  ],
+  "uuid": "9490d2f3-4a89-4a4e-837e-5bd67dbd68ef"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxkʼela suʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pañuelo verde rayado",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz Adj Rax Raíz S Kʼel Raíz S Suʼt DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Li raxkʼela suʼt kakikoj achijabʼ",
+      "example_spa": "El pañuelo verde rayado lo usan los hombres",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a6a183f-2175-49e2-b773-6f0234187929"
+}

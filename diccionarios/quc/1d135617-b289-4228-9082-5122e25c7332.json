@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqmaʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio maduro: guineo",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz Adj Saq Raíz VT Mal",
+  "examples": [
+    {
+      "example_maya": "Li ankineʼy saqmaʼl chik",
+      "example_spa": "El guineo ya está medio maduro",
+      "dialect": null
+    }
+  ],
+  "uuid": "1d135617-b289-4228-9082-5122e25c7332"
+}

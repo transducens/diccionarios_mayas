@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taratoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer sonar mal una cosa tocar la puerta",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintarataʼ Raíz P T Tar",
+  "examples": [
+    {
+      "example_maya": "Li taq xintarata li uchi jah, xuxiʼj ribʼ li achih",
+      "example_spa": "Cuando toqué la puerta, el hombre se asustó",
+      "dialect": null
+    }
+  ],
+  "uuid": "bf78a8ad-63a8-4041-8da3-9eb66ed027f3"
+}

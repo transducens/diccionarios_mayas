@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quchik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer tortilla o pan en seco, sin otra cosa",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinquchuh Raíz VT Quch",
+  "examples": [
+    {
+      "example_maya": "Li subʼ xa kinquchuh utukel",
+      "example_spa": "Voy a comerme el tamal solo",
+      "dialect": null
+    }
+  ],
+  "uuid": "21bd8c45-6d70-43f5-95d2-96a0b6dd6990"
+}

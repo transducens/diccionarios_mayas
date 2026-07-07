@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzoqaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un puño",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz P Tzooq",
+  "examples": [
+    {
+      "example_maya": "Li achih jutzoqaj ixim xuya pa li jul",
+      "example_spa": "El hombre puso un puño de maíz en el hoyo",
+      "dialect": null
+    }
+  ],
+  "uuid": "78e3db54-c31b-4ab0-8e67-a77aff299e31"
+}

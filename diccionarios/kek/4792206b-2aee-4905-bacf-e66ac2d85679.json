@@ -1,0 +1,43 @@
+{
+  "entryWord": "Chʼajok",
+  "definition": "Lavar, asear",
+  "additional_text": "VTR Xinchʼaj",
+  "examples": [
+    {
+      "example_maya": "Xinchʼaj xsaʼ li wochoch",
+      "example_spa": "Lavé el piso de mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinchʼaj xsaʼ we",
+      "example_spa": "Me lavé la boca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinchʼaj xnaqʼ li wu",
+      "example_spa": "Me lavé la cara",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼajok tzakaheem",
+      "example_spa": "Lavar comida = alimentos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinchʼajok xsaʼ",
+      "example_spa": "Lavé lo de adentro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinchʼajok ru tibʼ",
+      "example_spa": "Lavé la carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "4792206b-2aee-4905-bacf-e66ac2d85679",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

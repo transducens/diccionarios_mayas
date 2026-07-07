@@ -1,0 +1,29 @@
+{
+  "entryWord": "Oj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llévalo, llévenlo",
+  "definitionDialect": "",
+  "additional_text": "Part Coment Partícula con significado imperativo",
+  "examples": [
+    {
+      "example_maya": "Oj chraqan, chikʼama bʼik",
+      "example_spa": "Llévenlo, que se vaya a pie",
+      "dialect": null
+    },
+    {
+      "example_maya": "Oj icheʼ ma chaqʼabʼ chik",
+      "example_spa": "Lleven palos porque es de noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Oj iwasaron are chi kixchakunik",
+      "example_spa": "Lleven azadones para poder trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "cbee456e-efd9-463e-ba37-8cc5805a11c8"
+}

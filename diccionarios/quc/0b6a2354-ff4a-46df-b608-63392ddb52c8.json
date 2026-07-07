@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakubʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchakubʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierro: instrumento; Instrumento para trabajar: herramienta",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Chʼiichʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil kʼi uwach li uchakubʼal",
+      "example_spa": "El albañil tiene muchas clases de hierros",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b6a2354-ff4a-46df-b608-63392ddb52c8"
+}

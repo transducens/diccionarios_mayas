@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yant",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llanta",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuyaant Var Kareʼt Var Ketet Del Cast Llanta",
+  "examples": [
+    {
+      "example_maya": "Li yant are ubʼinibʼal li altomowʼ",
+      "example_spa": "Las llantas son las que hacen caminar los automóviles",
+      "dialect": null
+    }
+  ],
+  "uuid": "b15e5875-909c-4546-a5e7-ad2284d867e2"
+}

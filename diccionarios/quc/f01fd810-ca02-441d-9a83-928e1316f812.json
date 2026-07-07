@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ranalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xraniʼk, xuranabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentado o acostado: un panzudo, botella llena o cosa de cintura grande",
+  "definitionDialect": "General",
+  "additional_text": "p Raíz P Ran",
+  "examples": [
+    {
+      "example_maya": "Ranal jun lameʼt raxkabʼ chwi li wankeʼt",
+      "example_spa": "Sobre la mesa hay una botella de miel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq maraniʼ cho jah, jatechakunoq",
+      "example_spa": "No te quedés sentado haraganeando en la casa, andate a trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "f01fd810-ca02-441d-9a83-928e1316f812"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Waqʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xwaqʼix, xuwaqʼabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrable; cocido: nixtamal; tostado: café para molerlo; quebrado en muchos pedazos",
+  "definitionDialect": "",
+  "additional_text": "P Raíz P Waqʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzih, sibʼalaj xwaqʼiʼk",
+      "example_spa": "El nixtamal se coció bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj waqʼal li chaqij taq cheʼ pa kʼacheʼlaj utz cheh siʼ",
+      "example_spa": "Abundar muchos palos quebrados en la montaña que son buenos para leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li altamow\" are taq xupaqʼij ribʼ sibʼalaj xwaqʼiʼ li spej chech",
+      "example_spa": "Cuando chocó el carro se quebraron los vidrios",
+      "dialect": null
+    }
+  ],
+  "uuid": "968b3cfe-814c-469d-be7b-f924584e7414"
+}

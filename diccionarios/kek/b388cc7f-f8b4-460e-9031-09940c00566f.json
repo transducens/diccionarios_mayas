@@ -1,0 +1,18 @@
+{
+  "entryWord": "Ascet",
+  "definition": "Aceite",
+  "additional_text": "sInv Waseet",
+  "examples": [
+    {
+      "example_maya": "Li puubʼ nachʼajman saʼ aseet",
+      "example_spa": "El fusil se limpia con aceite",
+      "dialect": null
+    }
+  ],
+  "uuid": "b388cc7f-f8b4-460e-9031-09940c00566f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mech",
+  "entryWordDialect": null,
+  "altEntryWord": "Numech",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mecha",
+  "definitionDialect": "",
+  "additional_text": "SInv Del Cast Mecha",
+  "examples": [
+    {
+      "example_maya": "Li mech are kakaʼysan li gas re li kandil",
+      "example_spa": "La mecha hace encender el gas en el candil",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1a5a6c5-90a7-4217-9438-75e46b5d4878"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼarah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cristales que usan los zajorines para adivinar; vara de alcalde y concejales; mis cristales",
+  "definitionDialect": "",
+  "additional_text": "scv Nubʼaaraa sds Uwii bʼaarah Estandarte del alcalde de la cofradía Del Cast Vara",
+  "examples": [
+    {
+      "example_maya": "Li mayor xuya li bʼarah che li rixtol",
+      "example_spa": "El mayor le entregó la vara al concejal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼara ximital pa sin laj suʼt",
+      "example_spa": "Los cristales están amarrados en un pañuelito",
+      "dialect": null
+    }
+  ],
+  "uuid": "52f7b0eb-1258-441b-81f5-794030a9481c"
+}

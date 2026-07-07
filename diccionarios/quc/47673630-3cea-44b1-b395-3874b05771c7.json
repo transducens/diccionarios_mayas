@@ -1,0 +1,24 @@
+{
+  "entryWord": "Patzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner ropa; arreglar ropa o hierbas",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinpatzoh Raíz VT Patz",
+  "examples": [
+    {
+      "example_maya": "Li alah xpe pa atinem tajin kupatz ribʼ",
+      "example_spa": "El muchacho que fue está poniendose la ropa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpatz li reqaʼn li kej",
+      "example_spa": "Tengo que arreglar la carga del caballo",
+      "dialect": null
+    }
+  ],
+  "uuid": "47673630-3cea-44b1-b395-3874b05771c7"
+}

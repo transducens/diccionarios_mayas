@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼaranik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xqʼariʼk, xuqʼarabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Qʼiranik",
+  "altEntryWordDialect2": null,
+  "definition": "Hecho bodoque un tumor; hinchazón o güegüecho",
+  "definitionDialect": "General",
+  "additional_text": "p Sinón Raíz P Qʼar",
+  "examples": [
+    {
+      "example_maya": "Li ubʼoʼj qʼaranik",
+      "example_spa": "El güegüecho se ha hecho bodoque",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li spoj xuqʼarabʼaʼ ri chwach uchʼek li achih",
+      "example_spa": "El absceso se hizo en la espinilla del hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0b45f26-38a0-4827-98c9-43dfb8481bec"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tumixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Bʼalik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Torcer hilo o pita; chicotear",
+  "definitionDialect": "Kintumiij.",
+  "additional_text": "vtd var Raíz VT Tum DomS Chaak",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kutumij li bʼatzʼ",
+      "example_spa": "El hombre está torciendo el hilo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtumix li akʼal rumal li utat",
+      "example_spa": "El niño fue chicoteado por su papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "2841511a-d7a8-413f-bfa8-fc88237b585c"
+}

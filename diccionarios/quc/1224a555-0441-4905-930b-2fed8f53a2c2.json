@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sibʼarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasibʼarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tiznarse",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz VI Sibʼ",
+  "examples": [
+    {
+      "example_maya": "Li tʼuʼy xsibʼar pa li qʼaqʼ",
+      "example_spa": "La olla se tiznó en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "1224a555-0441-4905-930b-2fed8f53a2c2"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mayor",
+  "entryWordDialect": null,
+  "altEntryWord": "Numayor",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mayor de alguaciles Coment (Encargado de las llaves de la cárcel y jefe de éstos)",
+  "definitionDialect": "",
+  "additional_text": "SInv Del Cast Mayor",
+  "examples": [
+    {
+      "example_maya": "Li mayor xulawej li ixoq pa cheʼ",
+      "example_spa": "El mayor encerró a la mujer en la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "51625621-65d2-434f-8f91-638cf5956165"
+}

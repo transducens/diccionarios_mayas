@@ -1,0 +1,19 @@
+{
+  "entryWord": "Dyos",
+  "entryWordDialect": null,
+  "altEntryWord": "Nudyos",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dios",
+  "definitionDialect": "",
+  "additional_text": "sInv Dios",
+  "examples": [
+    {
+      "example_maya": "Dyos xubʼan li kaj uliw, xuq ronojel jastaq",
+      "example_spa": "Dios hizo el cielo, la tierra y todas las cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "1bf5b210-67aa-4c47-b592-0bb10f74d103"
+}

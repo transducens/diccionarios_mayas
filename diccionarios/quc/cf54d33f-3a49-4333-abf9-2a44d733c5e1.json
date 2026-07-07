@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse carga, (carga como pajón)",
+  "definitionDialect": "",
+  "additional_text": "vi Kapatzmaʼyik Raíz VI Patz",
+  "examples": [
+    {
+      "example_maya": "Li kej xaq kapatzmaʼy li reqaʼn",
+      "example_spa": "La carga del caballo se está moviendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf54d33f-3a49-4333-abf9-2a44d733c5e1"
+}

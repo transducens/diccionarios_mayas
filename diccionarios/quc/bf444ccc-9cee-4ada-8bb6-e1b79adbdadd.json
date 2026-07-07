@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pino; ocote",
+  "definitionDialect": "",
+  "additional_text": "scv Nuchaaj Raíz S Chaj DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xutik juwiʼ chaj",
+      "example_spa": "El niño sembró una mata de pino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chaj kachokon che nukʼbʼal qʼaqʼ",
+      "example_spa": "El fuego se enciende con ocote",
+      "dialect": null
+    }
+  ],
+  "uuid": "bf444ccc-9cee-4ada-8bb6-e1b79adbdadd"
+}

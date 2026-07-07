@@ -1,0 +1,18 @@
+{
+  "entryWord": "Jo najtil",
+  "definition": "¿Cuánta distancia?, ¿a qué distancia?, ¿cuánto tiempo?",
+  "additional_text": "PartInterr",
+  "examples": [
+    {
+      "example_maya": "¿Joʼ najtil Kobʼan rikʼin San Jwan?",
+      "example_spa": "¿A qué distancia está Cobán de San Juan Chamelco?",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f6726f7-768c-45a3-b721-619f6c33f148",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

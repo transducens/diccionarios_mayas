@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taqʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costa; tierra caliente; valle",
+  "definitionDialect": "general",
+  "additional_text": "SnP Raiz S Taqʼaaj DomS Uleew",
+  "examples": [
+    {
+      "example_maya": "Li ixim li kape taqʼaj kʼo ujechʼ rukʼ li rech tewa juyubʼ",
+      "example_spa": "El maíz que viene de la costa es diferente al de tierra fría",
+      "dialect": null
+    }
+  ],
+  "uuid": "d28ae729-737a-4b45-8a95-f6f0eddf2200"
+}

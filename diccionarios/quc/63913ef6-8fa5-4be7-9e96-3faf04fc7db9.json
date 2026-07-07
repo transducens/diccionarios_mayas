@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kunabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukunabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Remedio; medicina; trago",
+  "definitionDialect": "",
+  "additional_text": "scv DomS",
+  "examples": [
+    {
+      "example_maya": "Kʼi uwach chi kunabʼal kakʼayix pa li bʼotik",
+      "example_spa": "En la farmacia se venden muchas clases de medicinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "63913ef6-8fa5-4be7-9e96-3faf04fc7db9"
+}

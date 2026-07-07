@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kamik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoy; ahora; hoy día",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kamik nima nimaqʼij rech qʼatbʼaltzij",
+      "example_spa": "Hoy es una fiesta oficial muy grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "2133e5d0-9454-4ccb-8a87-201ec1f8bcc6"
+}

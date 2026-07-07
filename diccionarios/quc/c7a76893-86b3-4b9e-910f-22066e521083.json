@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzoqonem",
+  "entryWordDialect": null,
+  "altEntryWord": "Riqonik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer algo después",
+  "definitionDialect": "",
+  "additional_text": "VI Kintzoqonik Var Raiz VI Tzoq",
+  "examples": [
+    {
+      "example_maya": "Kʼa te kintzoqon cheh li nukʼas, ma kamik xa in yowabʼ",
+      "example_spa": "Después voy a pagar mi deuda, porque ahora estoy enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7a76893-86b3-4b9e-910f-22066e521083"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "Yook",
+  "definition": "Estar",
+  "additional_text": "vi Este verbo sólo tiene dos aspectos, futuro y no futuro, que se marcan con los sufijos \"k\" y \"q\" respectivamente La \"k\" es facultativa en tercera persona del singular",
+  "examples": [
+    {
+      "example_maya": "Yo laj peechʼ chi kʼanjelak anajwan",
+      "example_spa": "El carpintero está trabajando ahora",
+      "dialect": null
+    }
+  ],
+  "uuid": "e2ade41c-7e91-475d-acd0-9f452e4e941b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sebʼesink",
+  "definition": "Espantar, asustar, temer",
+  "additional_text": "vrc Xinsebʼesi",
+  "examples": [
+    {
+      "example_maya": "Xinsebʼesi li ixq chi puchʼuk saʼ nimaʼ",
+      "example_spa": "Asusté a la mujer que estaba lavando en el río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinsebʼesi li tzʼiʼ",
+      "example_spa": "Asusté al perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "c6de8fa3-734b-4e9b-b1d6-9fd0fda72161",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

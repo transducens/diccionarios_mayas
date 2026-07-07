@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalakʼatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼalakʼatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar mal la marimba",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz Vl Kʼal",
+  "examples": [
+    {
+      "example_maya": "Li qʼojom xaq kakʼalakʼatik we maj telah chwach li ukaxonal",
+      "example_spa": "La marimba suena mal si no tienen tela los cajones",
+      "dialect": null
+    }
+  ],
+  "uuid": "721df616-1993-45d2-a154-d7189c6b505d"
+}

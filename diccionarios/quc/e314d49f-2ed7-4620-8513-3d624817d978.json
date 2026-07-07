@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yoknajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con la cabeza a un lado, o con pie torcido",
+  "definitionDialect": "Español",
+  "additional_text": "vı Kinyoknajik Raíz P Yok",
+  "examples": [
+    {
+      "example_maya": "Li sin nimachih kayoknaj sin ujolom chuxeʼ li reqaʼm",
+      "example_spa": "El ancianito anda con la cabeza torcida bajo la carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "e314d49f-2ed7-4620-8513-3d624817d978"
+}

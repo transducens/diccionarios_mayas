@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼokʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukʼokʼal, xkʼokʼobʼirik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "(xkʼookʼarik)",
+  "altEntryWordDialect2": null,
+  "definition": "Sabroso; oloroso; aromático; fragante",
+  "definitionDialect": "",
+  "additional_text": "Adj Fbas //Kʼohkʼ//",
+  "examples": [
+    {
+      "example_maya": "Li kotzʼiʼj kʼo pwi li altar sibʼalaj kʼo ukʼokʼal",
+      "example_spa": "Las flores que están sobre el altar, son muy olorosas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tiʼij tajin kubʼol li ixoq sibʼalaj jeʼl ukʼokʼal",
+      "example_spa": "La carne que está asando la mujer, se ve sabrosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "8301adce-cda9-4c6d-9f47-5418601d104e"
+}

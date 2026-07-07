@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kolonïk",
+  "definition": "Salvar, rescatar, recobrar",
+  "additional_text": "vt Koloxïk (kolik), ninköl Köl",
+  "examples": [
+    {
+      "example_maya": "Jun akʼwal xuköl ri ruteʼ, manäq xchʼay ta",
+      "example_spa": "A un niño lo salvó su mamá y no le pegaron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq bʼa ma xijiqʼ pa yaʼ, xiruköl ri nunimal",
+      "example_spa": "Cuando casi me iba a ahogar, me salvó mi hermano mayor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yïn xinköl kan rukʼaslen jun ti äkʼ pa ruqʼaʼ jun xik",
+      "example_spa": "Yo salvé la vida de un pollito de las garras de un gavilán",
+      "dialect": null
+    }
+  ],
+  "uuid": "f74cbb07-875e-49b5-95ce-d45017527d95",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

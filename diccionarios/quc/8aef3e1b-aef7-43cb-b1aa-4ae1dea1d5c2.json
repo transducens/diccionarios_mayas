@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xilik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxiloh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limpiar algodón o lana; deshilar",
+  "definitionDialect": "general",
+  "additional_text": "vTD Raíz VT Xil",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kuxil li met",
+      "example_spa": "La mujer está dejando limpio el algodón",
+      "dialect": null
+    }
+  ],
+  "uuid": "8aef3e1b-aef7-43cb-b1aa-4ae1dea1d5c2"
+}

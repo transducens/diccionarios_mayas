@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼumanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mamar",
+  "definitionDialect": "",
+  "additional_text": "vi Kintzʼumanik Raíz S Tzʼum",
+  "examples": [
+    {
+      "example_maya": "Li neʼ xumajij tzʼumanem",
+      "example_spa": "El nene comenzó a mamar",
+      "dialect": null
+    }
+  ],
+  "uuid": "dbbd8c78-a7f9-4bb8-a60b-7be14bd8b5c2"
+}

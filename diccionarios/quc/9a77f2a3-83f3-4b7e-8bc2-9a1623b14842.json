@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pejpik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ancho, como tabla, cincho, libro, hoja, etc",
+  "definitionDialect": "General",
+  "additional_text": "Adj Sinón Lajlik Raíz P Pej",
+  "examples": [
+    {
+      "example_maya": "Li jun tzʼalam sibʼalaj pejpik",
+      "example_spa": "La tabla es muy ancha",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a77f2a3-83f3-4b7e-8bc2-9a1623b14842"
+}

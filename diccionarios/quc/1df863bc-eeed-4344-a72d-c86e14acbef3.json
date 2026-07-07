@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regla que apoya las tejas de la casa",
+  "definitionDialect": "SSP",
+  "additional_text": "sInv Nukuuch SSP Ukuchaal Reglas de la casa Raíz VT Kuch",
+  "examples": [
+    {
+      "example_maya": "Pwi taq li kuch kabʼe wi li xot",
+      "example_spa": "Sobre la costanera se apoyan las tejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "1df863bc-eeed-4344-a72d-c86e14acbef3"
+}

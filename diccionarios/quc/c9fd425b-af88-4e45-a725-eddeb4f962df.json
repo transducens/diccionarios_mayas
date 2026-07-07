@@ -1,0 +1,24 @@
+{
+  "entryWord": "Waqʼwax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dañado; rajado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Waqʼ",
+  "examples": [
+    {
+      "example_maya": "Xaq waqʼwaʼx chi li altamow\"",
+      "example_spa": "El carro ya está dañado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ula qʼebʼal sibʼalaj waqʼwaʼx chik",
+      "example_spa": "La tinaja plástica está muy rajada",
+      "dialect": null
+    }
+  ],
+  "uuid": "c9fd425b-af88-4e45-a725-eddeb4f962df"
+}

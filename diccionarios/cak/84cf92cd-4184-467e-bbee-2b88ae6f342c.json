@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kär",
+  "definition": "Pez, mojarra",
+  "additional_text": "scv Nukar var Saʼy Chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri iwir xinchäp jun kär",
+      "example_spa": "Ayer agarré un pez",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kär jun aj pa yaʼ chiköp, chuqaʼ tijel",
+      "example_spa": "El pez es un animal acuático y comestible",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rusaqmoloʼ kär",
+      "example_spa": "Huevo de pez",
+      "dialect": null
+    }
+  ],
+  "uuid": "84cf92cd-4184-467e-bbee-2b88ae6f342c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

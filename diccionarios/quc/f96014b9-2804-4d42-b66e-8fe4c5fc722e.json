@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tochʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katochʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al cortar con hacha o machete",
+  "definitionDialect": "Spanish",
+  "additional_text": "vi Raiz VT Tochʼ",
+  "examples": [
+    {
+      "example_maya": "Li siwil katochʼnaj pa li kʼacheʼlaj",
+      "example_spa": "El leñador está trabajando en el bosque",
+      "dialect": null
+    }
+  ],
+  "uuid": "f96014b9-2804-4d42-b66e-8fe4c5fc722e"
+}

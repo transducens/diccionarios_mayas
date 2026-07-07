@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼaqʼ",
+  "definition": "Arma de fuego",
+  "additional_text": "sInv Nuqʼaqʼ, fuego sinón Qʼipil",
+  "examples": [
+    {
+      "example_maya": "Ri qʼaqʼ ja riʼ ri niroqowsan ri niqatäj (niqatij) qʼij qʼij",
+      "example_spa": "El fuego cuece lo que nos comemos a diario",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jujun winaqiʼ kʼo kiqʼaqʼ",
+      "example_spa": "Hay algunas personas que tienen arma de fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "02f739fe-4b10-4834-a70f-8cbc2732b620",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼoj",
+  "entryWordDialect": "scv",
+  "altEntryWord": "Nuchʼoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbol de madera suave y tronco grueso; malva",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Cheeʼ DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Che we cheʼ kabʼan tzʼalam xuq ibʼoya taq tem chech",
+      "example_spa": "De este árbol se hacen banquitos y tablas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a66ff836-25df-4311-b19e-6276ad054e0f"
+}

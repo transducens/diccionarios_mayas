@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajaw",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajaw",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rey, dueño, amo",
+  "definitionDialect": "General",
+  "additional_text": "sInv sPl Aʼjwaabʼ Personas principales de un pueblo sPos Kajawaal Rey o amo de ellos sPos Qajawixeel Dios Padre sDS Rajawaal jah Viga central de una casa",
+  "examples": [
+    {
+      "example_maya": "Li rajaw li jah xkamik",
+      "example_spa": "El dueño de la casa se murió",
+      "dialect": null
+    }
+  ],
+  "uuid": "fab6ba26-0b4e-415d-adeb-d2744d6c4add"
+}

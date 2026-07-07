@@ -1,0 +1,29 @@
+{
+  "entryWord": "Wokolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Construido",
+  "definitionDialect": "",
+  "additional_text": "p Xwokiʼk, xuwokobʼaʼ Raíz VT Wok",
+  "examples": [
+    {
+      "example_maya": "Li jah xaq wokolik, maj upam",
+      "example_spa": "La casa ya está construida pero no está ocupada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq loqʼ xwokiʼ roʼch li achih, na kakʼojiʼ ta chupam",
+      "example_spa": "El hombre sólo construyó la casa pero no vive allí",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wokol chi laʼ li qoʼch are taq xinalaxik",
+      "example_spa": "Ya estaba construida nuestra casa cuando nací",
+      "dialect": null
+    }
+  ],
+  "uuid": "d666b9ba-f9d1-45d7-b40c-e30a55528808"
+}

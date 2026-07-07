@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼotokʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar escarbando",
+  "definitionDialect": "",
+  "additional_text": "vi Kinkʼotokʼotik Raíz VT Kʼot",
+  "examples": [
+    {
+      "example_maya": "Li a Kulax kakʼotokʼot pa li uliw che saqwach",
+      "example_spa": "Nicolás está escarbando la tierra para sacar papas",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1eab83a-ce62-4fb5-90e1-8852bcf08b9b"
+}

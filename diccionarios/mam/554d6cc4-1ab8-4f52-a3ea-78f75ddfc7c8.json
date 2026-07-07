@@ -1,0 +1,23 @@
+{
+  "entryWord": "LAMEET",
+  "definition": "cerrar, tapar",
+  "additional_text": "vt lamol te, lamoʼn, ma bʼaj nlamoʼna raíz lam vt",
+  "examples": [
+    {
+      "example_maya": "Ma kyaj lamoʼn tjul ekyʼ tuʼn tajwil",
+      "example_spa": "El gallinero fue cerrado por su dueño",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Kelatz lamet ja nan?",
+      "example_spa": "¿Se va a cerrar la puerta mamá?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "554d6cc4-1ab8-4f52-a3ea-78f75ddfc7c8",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼecheqʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caerse hacia un lado",
+  "definitionDialect": "General",
+  "additional_text": "vi Kaqʼecheqʼobʼik Raíz P Qʼech",
+  "examples": [
+    {
+      "example_maya": "Li jah xqʼecheqʼobʼik ma sibʼalaj nim li kaqiqʼ xubʼanoh",
+      "example_spa": "La casa se cayó, porque hubo viento fuerte",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0a82785-1a7d-4c45-ac7f-c74d0b6c3ec7"
+}

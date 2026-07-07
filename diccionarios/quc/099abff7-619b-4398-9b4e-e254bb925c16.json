@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼajlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hecho pedazos; despedazado",
+  "definitionDialect": "",
+  "additional_text": "p Xkʼajiʼk Raiz P Kʼaj",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj xkʼajiʼ li jun bʼolaj kʼisis rumal li achih",
+      "example_spa": "El trozo de ciprés está hecho pedazos",
+      "dialect": null
+    }
+  ],
+  "uuid": "099abff7-619b-4398-9b4e-e254bb925c16"
+}

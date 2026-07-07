@@ -1,0 +1,24 @@
+{
+  "entryWord": "Likʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlikʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tender",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Likʼ",
+  "examples": [
+    {
+      "example_maya": "Li mortoʼm kulikʼ li pop",
+      "example_spa": "El mayordomo tiende el petate",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq kulikʼ li atzʼyaq chwa li qʼij",
+      "example_spa": "La mujer tiende la ropa en el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "9130a976-84ac-40f1-b0a2-16b1b3918f79"
+}

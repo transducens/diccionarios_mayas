@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qachʼachʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqachʼachʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rechinar puerta o dientes",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Qachʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal are taq xtzaqik, xuqachʼachʼej li uwareh",
+      "example_spa": "Al caer el niño, rechinó los dientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "7d9ae0be-b2aa-4999-ac3f-c39f16533ea7"
+}

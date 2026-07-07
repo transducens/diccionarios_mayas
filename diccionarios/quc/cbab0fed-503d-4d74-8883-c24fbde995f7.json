@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼokolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xkʼokiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despegable; fácil de despegar",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Kʼok",
+  "examples": [
+    {
+      "example_maya": "Li tzakom saqmoʼl kʼokol li rij are taq kachʼolik",
+      "example_spa": "Los huevos cocidos tienen la cáscara despegable",
+      "dialect": null
+    }
+  ],
+  "uuid": "cbab0fed-503d-4d74-8883-c24fbde995f7"
+}

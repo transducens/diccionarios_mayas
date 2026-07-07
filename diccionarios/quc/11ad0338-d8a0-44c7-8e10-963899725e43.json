@@ -1,0 +1,19 @@
+{
+  "entryWord": "Miʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trabajo de doblar la milpa",
+  "definitionDialect": "",
+  "additional_text": "sv Raíz VT Miʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xbʼe pa miʼoj pa rabʼix",
+      "example_spa": "El hombre se fue a doblar la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "11ad0338-d8a0-44c7-8e10-963899725e43"
+}

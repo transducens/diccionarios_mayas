@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paläj (palajaj)",
+  "definition": "Cara, frente La entrada principal debió ser Palajaj pero ya no se usa",
+  "additional_text": "sInv Nupaläj Sinón Wäch, chʼakulaj",
+  "examples": [
+    {
+      "example_maya": "Ronojel nupaläj xnoj rikʼin chʼaʼk",
+      "example_spa": "Toda mi cara se llenó de granos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xitzaq, xinqöl ri nupaläj",
+      "example_spa": "Cuando me caí, me raspé la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "98caea1f-5183-40c1-a050-2f045d730061",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

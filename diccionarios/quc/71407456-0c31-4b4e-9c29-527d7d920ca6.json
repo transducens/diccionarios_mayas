@@ -1,0 +1,19 @@
+{
+  "entryWord": "Likik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlikoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacar líquido con guacal, palangana o jícara",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Lik",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kulik joron rukʼ tzimah pa li pilah",
+      "example_spa": "La mujer está sacando agua de la pila con guacal",
+      "dialect": null
+    }
+  ],
+  "uuid": "71407456-0c31-4b4e-9c29-527d7d920ca6"
+}

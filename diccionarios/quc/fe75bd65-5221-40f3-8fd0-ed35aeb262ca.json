@@ -1,0 +1,19 @@
+{
+  "entryWord": "Achikʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinachikʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "kinwachikʼik",
+  "altEntryWordDialect2": null,
+  "definition": "Soñar",
+  "definitionDialect": "General",
+  "additional_text": "vI",
+  "examples": [
+    {
+      "example_maya": "Tajin kinachikʼik are taq xubʼan ri kebʼ raqan",
+      "example_spa": "Estaba soñando cuando fue el temblor",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe75bd65-5221-40f3-8fd0-ed35aeb262ca"
+}

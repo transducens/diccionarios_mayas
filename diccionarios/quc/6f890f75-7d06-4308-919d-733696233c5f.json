@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼachoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kabʼachoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar machucando; hacer ruido con pasos",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "¿Jachin tajin kabʼachoʼp pa ja?",
+      "example_spa": "¿Quién está haciendo ruido con los pasos en la casa?",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f890f75-7d06-4308-919d-733696233c5f"
+}

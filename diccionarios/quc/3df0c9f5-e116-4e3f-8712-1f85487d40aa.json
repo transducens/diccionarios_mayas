@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wolowoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover la lengua; bolear, hacer bolas",
+  "definitionDialect": "",
+  "additional_text": "vt Kinwolowaʼ Raíz P Wol",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kuwolowa li raqʼ puchiʼ",
+      "example_spa": "El niño está moviendo la lengua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih, tajin kuwolowa li qʼor puqʼabʼ",
+      "example_spa": "La niña está haciendo bolas con la masa",
+      "dialect": null
+    }
+  ],
+  "uuid": "3df0c9f5-e116-4e3f-8712-1f85487d40aa"
+}

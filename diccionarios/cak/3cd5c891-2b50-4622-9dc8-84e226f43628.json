@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzalenik",
+  "definition": "Llevar algo de lado debajo del brazo",
+  "additional_text": "vtd Tzalaxik, nintzalej Sinón Xotej, tzale p Tzäl",
+  "examples": [
+    {
+      "example_maya": "Kan chqi bʼaʼ xutzalej el ri bʼojoʼy ri ixoq (ixöq)",
+      "example_spa": "La mujer llevó fácilmente la olla bajo el brazo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun ixöq chöj xutzalej el ri ral, yawaʼ",
+      "example_spa": "Una mujer se llevó a su criatura enferma bajo el brazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3cd5c891-2b50-4622-9dc8-84e226f43628",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

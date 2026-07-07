@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jix",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Váyanse",
+  "definitionDialect": "",
+  "additional_text": "Imp Coment Segunda persona plural del verbo ir en imperativo",
+  "examples": [
+    {
+      "example_maya": "Jix iwonojel pa nimaqʼij chweʼq",
+      "example_spa": "Váyanse todos a la fiesta de mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed38d6ab-9d3c-4672-927d-4495da59a9a6"
+}

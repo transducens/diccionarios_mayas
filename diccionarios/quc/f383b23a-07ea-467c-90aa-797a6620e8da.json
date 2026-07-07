@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sereno",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz Adj Rax Raíz S Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li raxqʼabʼ kuchʼaqabʼa li qʼayes",
+      "example_spa": "El sereno moja los montes",
+      "dialect": null
+    }
+  ],
+  "uuid": "f383b23a-07ea-467c-90aa-797a6620e8da"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pitzʼitzʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpitzʼitzʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aplastar completamente; prensar duro",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Pitzʼ",
+  "examples": [
+    {
+      "example_maya": "We katzaq jun abʼaj chwij utz nupitzʼitzʼexik kubʼanoh",
+      "example_spa": "Si se cae una piedra sobre mí, me va a prensar",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee258563-ef5f-478b-99d4-34575a26e063"
+}

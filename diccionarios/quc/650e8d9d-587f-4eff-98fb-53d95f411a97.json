@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tararem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Buscar entre muchas cosas; registrar; hacer ruido carro en camino malo",
+  "definitionDialect": "",
+  "additional_text": "vi Kintararik Raíz PT Tar",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ xumajj tararem ma xa xok pa li kʼaxalaj bʼeh",
+      "example_spa": "El carro empezó a hacer ruido porque entró en el camino chueco",
+      "dialect": null
+    }
+  ],
+  "uuid": "650e8d9d-587f-4eff-98fb-53d95f411a97"
+}

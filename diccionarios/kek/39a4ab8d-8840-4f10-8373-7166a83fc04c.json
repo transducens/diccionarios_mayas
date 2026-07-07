@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼokeʼk",
+  "definition": "Troncharse, quebrarse, quitarse un pedazo como del dedo",
+  "additional_text": "VI Xkʼokeʼ",
+  "examples": [
+    {
+      "example_maya": "Xkʼokeʼ ruqʼ li cheʼ",
+      "example_spa": "Se quebró la rama del árbol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xkʼokeʼ roq li wasaron",
+      "example_spa": "Se quebró el cabo de mi azadón",
+      "dialect": null
+    }
+  ],
+  "uuid": "39a4ab8d-8840-4f10-8373-7166a83fc04c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

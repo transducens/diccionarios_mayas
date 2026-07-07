@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutur",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una gota",
+  "definitionDialect": "",
+  "additional_text": "Enu Sinón Tzʼuuj Raíz P Tur",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xukʼaq jutur kunabʼal pa li saqliʼ",
+      "example_spa": "La mujer echó una gota de medicina en el agua caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "56ca7174-9268-458c-946e-7e7ed5c6ecf4"
+}

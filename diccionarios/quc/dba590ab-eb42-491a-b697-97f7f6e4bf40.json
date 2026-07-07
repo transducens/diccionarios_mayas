@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verano",
+  "definitionDialect": "",
+  "additional_text": "sas Usaqʼijaal SCL Usaqʼijal santyaag Canícula",
+  "examples": [
+    {
+      "example_maya": "Pa taq saqʼij kaqaj sibʼalaj tew",
+      "example_spa": "En verano cae mucho hielo",
+      "dialect": null
+    }
+  ],
+  "uuid": "dba590ab-eb42-491a-b697-97f7f6e4bf40"
+}

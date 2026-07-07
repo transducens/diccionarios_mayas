@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼax",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼax",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chile verde",
+  "definitionDialect": "es",
+  "additional_text": "SInv Raíz S Qʼaax DomS Iik",
+  "examples": [
+    {
+      "example_maya": "Li qʼax pa taqʼaj kakʼiy wih, kʼokʼ xuq poqon",
+      "example_spa": "El chile verde crece en la costa, es sabroso pero pica mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "22fa9074-03f4-4192-b679-e36e232c50eb"
+}

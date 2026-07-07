@@ -1,0 +1,19 @@
+{
+  "entryWord": "Perexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinperej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar libro abierto, pedazo de tabla, cosa ancha",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raiz P Per (pir)",
+  "examples": [
+    {
+      "example_maya": "Li tijoxel xuperej bʼi li wuj",
+      "example_spa": "El alumno se llevó el libro abierto",
+      "dialect": null
+    }
+  ],
+  "uuid": "e37bbcd0-4076-44b2-8d48-a4be4948f3a4"
+}

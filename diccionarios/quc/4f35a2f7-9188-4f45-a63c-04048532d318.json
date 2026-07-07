@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trasto; escudilla",
+  "definitionDialect": "general",
+  "additional_text": "scv Raíz s Laq DomS Bʼoʼj",
+  "examples": [
+    {
+      "example_maya": "Pa li laq kaya wi li rikil",
+      "example_spa": "En el trasto se echa la comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "4f35a2f7-9188-4f45-a63c-04048532d318"
+}

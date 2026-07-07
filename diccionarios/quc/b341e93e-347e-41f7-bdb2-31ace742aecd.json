@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼexwach",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼexwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flor de muerto",
+  "definitionDialect": "",
+  "additional_text": "SInv Sinón Tokʼox Sinón Parutz (Sta Lucía utatlán) Raíz VT Kʼex Raíz S Wach DomS Kootzʼiʼj DomS",
+  "examples": [
+    {
+      "example_maya": "Li kʼexwach qʼan kakaʼyik, xew\" kachokon che wiqobʼal pa kiqʼij kamnaqibʼ",
+      "example_spa": "La flor de muerto es amarilla y sólo se usa para adorno en el día de los difuntos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼexwach utz chech uwa winaq chkech neʼabʼ",
+      "example_spa": "La flor de muerto es buena para el mal de ojo en los nenes",
+      "dialect": null
+    }
+  ],
+  "uuid": "b341e93e-347e-41f7-bdb2-31ace742aecd"
+}

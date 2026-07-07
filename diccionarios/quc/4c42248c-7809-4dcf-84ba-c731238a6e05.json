@@ -1,0 +1,19 @@
+{
+  "entryWord": "Plant",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de guineo",
+  "definitionDialect": "",
+  "additional_text": "snP DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li ankineʼy plant junam utijowik rukʼ li saqʼul",
+      "example_spa": "El guineo tiene el mismo sabor que el plátano",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c42248c-7809-4dcf-84ba-c731238a6e05"
+}

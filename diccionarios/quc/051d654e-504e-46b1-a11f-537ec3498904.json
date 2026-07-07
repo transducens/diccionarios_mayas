@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pililexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Untar; manchar; aplicar crema, tizne, etc",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinpilileej Raíz VT Pil",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xupililej xaq chupalaj",
+      "example_spa": "El niño se manchó la cara con el tizne",
+      "dialect": null
+    }
+  ],
+  "uuid": "051d654e-504e-46b1-a11f-537ec3498904"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rokʼorobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karokʼorobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caerse desnudo",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz PT Rokʼ",
+  "examples": [
+    {
+      "example_maya": "Li muxanel xrokʼorobʼ pa li jaʼ chemelik",
+      "example_spa": "El nadador se cayó desnudo en el pozo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6363ee1e-cdef-4f81-9392-80ae58ae7185"
+}

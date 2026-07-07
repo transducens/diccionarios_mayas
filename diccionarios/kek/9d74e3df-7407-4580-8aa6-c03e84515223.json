@@ -1,0 +1,23 @@
+{
+  "entryWord": "Toqok chi-ru",
+  "definition": "Atravesar, cruzar",
+  "additional_text": "VIR Xintoq chi ru",
+  "examples": [
+    {
+      "example_maya": "Xtoq chi ru li nimaʼ, xnumeʼ chi jun pakʼal",
+      "example_spa": "Atravesó el río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼantiʼ xtoq chi ru inbʼe",
+      "example_spa": "La culebra se atravesó en mi camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d74e3df-7407-4580-8aa6-c03e84515223",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

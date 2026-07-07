@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paraw\"",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuparaw\"",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paraguas",
+  "definitionDialect": "",
+  "additional_text": "sInv Sinón Panabʼal Del Cast Paragua",
+  "examples": [
+    {
+      "example_maya": "Li paraw\" kachokon chwa jabʼ xuq chwa qʼij",
+      "example_spa": "El paraguas sirve para cubrirse de la lluvia y del sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "96ad9bb0-4a6b-4949-9c9b-88313b212739"
+}

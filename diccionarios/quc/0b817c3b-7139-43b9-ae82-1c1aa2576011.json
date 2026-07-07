@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kʼakʼalixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼakʼalij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alistarse; prepararse; vigilar",
+  "definitionDialect": "",
+  "additional_text": "VTD Raiz VT Kʼaakʼ",
+  "examples": [
+    {
+      "example_maya": "Kinkʼakʼalij na wibʼ, ma kimbʼe pa nimaqʼij",
+      "example_spa": "Tengo que alistarme, para ir a la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih keʼukʼakʼalij li abʼix",
+      "example_spa": "El hombre está vigilando la milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih kukʼakʼalij ribʼ, ma kabʼe pa chʼaʼoj",
+      "example_spa": "El hombre se prepara para la guerra",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b817c3b-7139-43b9-ae82-1c1aa2576011"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pichik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pinchar; cortar frutas con palo; sacar espinas o materia con una aguja",
+  "definitionDialect": "",
+  "additional_text": "vtD Kinpichoh Var Chʼuupik",
+  "examples": [
+    {
+      "example_maya": "Kinpich na jun taraʼs",
+      "example_spa": "Voy a cortar un durazno",
+      "dialect": null
+    }
+  ],
+  "uuid": "263cff8e-0a3d-4116-90a3-f1c2f14f97f4"
+}

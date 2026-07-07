@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kumatz",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukumatz",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Culebra; calambre",
+  "definitionDialect": "",
+  "additional_text": "scv ssp Ukumatziil Bordado en forma de serpiente DomS Chikop DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Konojel li kumatz kakichararej kibʼ pulew",
+      "example_spa": "Todas las culebras se arrastran por el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5de18254-2caa-4b2d-833d-4610c8437617"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nakanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Unakil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xnakirik",
+  "altEntryWordDialect2": null,
+  "definition": "Estúpido; tonto",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz vi Nak",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xa nakanik, ma na kuchomaj ta li kakʼut chwach rumal le ajtij",
+      "example_spa": "El muchacho es tonto porque no entiende la enseñanza del maestro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah xa unakil xchokon che xchʼayik",
+      "example_spa": "Al muchacho le pegaron por ser demasiado tonto",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d216ebf-5375-45c7-aa97-f62e98522dcb"
+}

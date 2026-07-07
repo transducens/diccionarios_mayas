@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pepita de fruta; testículos; mis testículos",
+  "definitionDialect": "es",
+  "additional_text": "SInv Nubʼaqʼ Var Sakiil",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xchʼapiʼ jun ubʼaqʼ ajacheʼ chuqul",
+      "example_spa": "Al niño se le trabó una pepita de matasano en la garganta",
+      "dialect": null
+    }
+  ],
+  "uuid": "27be5628-0ae0-4521-a665-8f50dbfb39d3"
+}

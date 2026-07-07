@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xulqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxulqʼabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chiflido, chiflón, silbido",
+  "definitionDialect": "",
+  "additional_text": "sInv Var Xuubʼ",
+  "examples": [
+    {
+      "example_maya": "Li nuxulqʼabʼ sibʼalaj naj kabʼek",
+      "example_spa": "Mi silbido se oye desde lejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "8b5d7c2d-3b10-4449-90f2-4c5e90887f26"
+}

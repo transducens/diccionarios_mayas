@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yejmiʼal",
+  "definition": "Hijastra de hombre",
+  "additional_text": "sInv Nuyejmiʼal Yejmiʼaliʼ Hijastra de hombre Winäq",
+  "examples": [
+    {
+      "example_maya": "Ri yejtataʼaj man nuloqʼ ta rutzyaq ri ruyejmiʼal",
+      "example_spa": "El padrastro no le compra ropa a su hijastra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nuyijmiʼal rukʼamun pe ri rukaʼn wixjayil, yalan nisamäj",
+      "example_spa": "Mi hijastra, que trajo mi segunda mujer, es muy trabajadora",
+      "dialect": null
+    }
+  ],
+  "uuid": "b461491e-6e87-4d81-9b66-986e24b1837e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yoʼx",
+  "entryWordDialect": null,
+  "altEntryWord": "Kwaʼch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuache, gemelos, mellizos: persona, frutos o animales",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuyoʼx Raíz S Yoʼx",
+  "examples": [
+    {
+      "example_maya": "Li al Weʼl xekʼojiʼ uyoʼx",
+      "example_spa": "Manuela tuvo gemelos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jal we yoʼx are laʼ ukʼuʼx li jal",
+      "example_spa": "Las mazorcas cuaches son las que tienen significado como centro del maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "9de3696f-f001-4864-9bce-fca03cda461f"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xuqʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cachetón; llena: boca de personas",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Xuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj xuqʼuxik li uxereh",
+      "example_spa": "El niño es muy cachetón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq sibʼalaj xuqʼuxik ubʼanom li uwa puchiʼ",
+      "example_spa": "La mujer tiene llena la boca de comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1fdc4d6-e7bd-40b5-89f3-4724ae518537"
+}

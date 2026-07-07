@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHIKʼUUL",
+  "definition": "selva, bosque",
+  "additional_text": "scs raíz kʼul s",
+  "examples": [
+    {
+      "example_maya": "Oʼkx tjaqʼ chikʼul ateʼ xoʼj",
+      "example_spa": "Sólo debajo de la selva están los lobos",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Nlayx tzʼex jun xjal tjonal tjaqʼ chikʼul",
+      "example_spa": "No puede pasar una persona sola bajo la selva",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "96166993-7a84-4e93-bae0-39d3896901c0",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

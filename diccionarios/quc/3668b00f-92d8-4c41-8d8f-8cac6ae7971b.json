@@ -1,0 +1,24 @@
+{
+  "entryWord": "Winaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwinaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gente",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li nima qʼatbʼal tzij e kʼih uwinaq areq taq xokik",
+      "example_spa": "El presidente tenía mucha gente cuando tomó posesión",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, li kok cheh alkalteh, xubʼij chweh, chi kʼo sibʼalaj uwinaq",
+      "example_spa": "El candidato para alcalde me dijo que tiene mucha gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "3668b00f-92d8-4c41-8d8f-8cac6ae7971b"
+}

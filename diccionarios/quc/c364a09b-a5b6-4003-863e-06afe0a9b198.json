@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼoʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "qʼoʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Kinqʼoʼoh",
+  "altEntryWordDialect2": null,
+  "definition": "Bordar",
+  "definitionDialect": "",
+  "additional_text": "vt Raiz VT Qʼoʼ",
+  "examples": [
+    {
+      "example_maya": "Li nusuʼt kawaj kinqʼoʼoh, ma kʼakʼ",
+      "example_spa": "Quiero bordar mi pañuelo porque está nuevo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xuriq e etabʼal cheh li ukem kumaj uqʼoʼik li poʼt",
+      "example_spa": "La muchacha llegó a la medida para comenzar a bordar el güipil",
+      "dialect": null
+    }
+  ],
+  "uuid": "c364a09b-a5b6-4003-863e-06afe0a9b198"
+}

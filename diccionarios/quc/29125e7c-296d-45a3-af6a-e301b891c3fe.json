@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tur",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tierno, verde, suave, blando, dócil, nuevo",
+  "definitionDialect": "general",
+  "additional_text": "Adj Uturaal F Tura mukun Güicoy tierno Sinón Tʼon Raíz Adj Tur",
+  "examples": [
+    {
+      "example_maya": "Li qʼoqʼ kʼa tur",
+      "example_spa": "El chilacayote todavía está tierno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tura mukun kabʼan rikil chech",
+      "example_spa": "El güicoy tierno se usa para comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "29125e7c-296d-45a3-af6a-e301b891c3fe"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jaknajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajaknajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con las piernas abiertas",
+  "definitionDialect": "General",
+  "additional_text": "VI Var",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq kajaknaj kabʼinik",
+      "example_spa": "El niño anda con las piernas abiertas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6e9bbe5-2209-448c-bcba-53159bde428f"
+}

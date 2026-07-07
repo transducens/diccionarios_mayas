@@ -1,0 +1,19 @@
+{
+  "entryWord": "Suqulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Suqum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Floja: amarrada; nudo fácil de desatar",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raiz VT Suq",
+  "examples": [
+    {
+      "example_maya": "Xaq suqul kan li ukolobʼ li kej",
+      "example_spa": "El lazo de la bestia lo han amarrado flojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "96f1cf83-01b1-4fad-988a-5c92906f8185"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatzik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼatzoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrar hojas secas; doblar hojas, billetes",
+  "definitionDialect": "",
+  "additional_text": "vtr Raiz VT Qʼatz",
+  "examples": [
+    {
+      "example_maya": "Li qʼabʼarel xuqʼatz li pwaq puqʼabʼ",
+      "example_spa": "El hombre bolo dobló el billete",
+      "dialect": null
+    }
+  ],
+  "uuid": "19b3c781-ec39-4819-8e04-b234eb6e0014"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qotoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqotoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar, como gusano o culebra",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Qot",
+  "examples": [
+    {
+      "example_maya": "Li xujut kaqotoʼp chwa li uxaq li ichaj",
+      "example_spa": "El gusano camina sobre la hoja de la verdura",
+      "dialect": null
+    }
+  ],
+  "uuid": "29fe3faa-d939-49d6-99f8-6455eaa692be"
+}

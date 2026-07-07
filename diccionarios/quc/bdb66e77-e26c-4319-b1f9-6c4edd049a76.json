@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qoplinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqoplinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Relucir como cristal; brillar como cristal",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Qop",
+  "examples": [
+    {
+      "example_maya": "Li retzʼabʼaʼl li alih kʼo chuqul sibʼalaj kaqoplinik",
+      "example_spa": "Los collares que tiene la muchacha en el cuello, brillan mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "bdb66e77-e26c-4319-b1f9-6c4edd049a76"
+}

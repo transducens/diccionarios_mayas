@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼususem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arder con poca llama; humear poco, como un fuego con poca llama; tirarse pedos sin ruido",
+  "definitionDialect": "general",
+  "additional_text": "vi Kabʼususik Bʼus",
+  "examples": [
+    {
+      "example_maya": "Li qʼaqʼ kabʼusus rumal li kaqiqʼ",
+      "example_spa": "El fuego humea un poco por el aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal katajin kabususik",
+      "example_spa": "El niño está tirando pedos",
+      "dialect": null
+    }
+  ],
+  "uuid": "24942298-7587-48d2-a96a-5d7415f5d515"
+}

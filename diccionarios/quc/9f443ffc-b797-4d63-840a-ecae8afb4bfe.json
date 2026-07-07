@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼakaklabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correr de un lado a otro un caballo atado",
+  "definitionDialect": "",
+  "additional_text": "VI Kabʼakaklabʼik",
+  "examples": [
+    {
+      "example_maya": "Li amaʼ kej yuqul pa qʼayes, are taq xril li atiʼt kej sibʼalaj kabakaklabʼik",
+      "example_spa": "El caballo atado corría mucho de un lado a otro cuando vio a la yegua",
+      "dialect": null
+    }
+  ],
+  "uuid": "9f443ffc-b797-4d63-840a-ecae8afb4bfe"
+}

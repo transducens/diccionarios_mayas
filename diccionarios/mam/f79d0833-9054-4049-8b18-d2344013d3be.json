@@ -1,0 +1,23 @@
+{
+  "entryWord": "XBʼALAMIIT",
+  "definition": "mudar, vestir",
+  "additional_text": "vt xbʼalamal te, xbʼalamaʼn, ma nxbʼalamakyʼa, ma tzʼok nxbʼalamaʼna raíz bʼalan s",
+  "examples": [
+    {
+      "example_maya": "Kokal xbʼalamilt nliltal qmebʼa",
+      "example_spa": "Vamos a mudar a nuestro huérfano",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Xbʼalamaʼn te xuʼj tuʼn tchmil",
+      "example_spa": "La mujer es mudada por su esposo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f79d0833-9054-4049-8b18-d2344013d3be",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

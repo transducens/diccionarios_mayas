@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxubʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Silbido; hierba de flores blancas Es comestible",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li alah, sibʼalaj naj kaʼe li uxubʼ",
+      "example_spa": "El silbido del joven se oye desde lejos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waʼ we xubʼ sibʼalaj utz katijowik",
+      "example_spa": "Esta clase de hierba es muy sabrosa al comerla",
+      "dialect": null
+    }
+  ],
+  "uuid": "8205e6b1-10aa-45f7-9a96-6046b809554e"
+}

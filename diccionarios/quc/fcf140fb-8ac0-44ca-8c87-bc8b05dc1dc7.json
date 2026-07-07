@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sabʼar",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusabʼar",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amasar harina para el pan; sobar",
+  "definitionDialect": "",
+  "additional_text": "SInv Del Cast Sobar",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal kaxlanwah tajin kubʼan sabʼar",
+      "example_spa": "El panadero está amasando la masa para el pan",
+      "dialect": null
+    }
+  ],
+  "uuid": "fcf140fb-8ac0-44ca-8c87-bc8b05dc1dc7"
+}

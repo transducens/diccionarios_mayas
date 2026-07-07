@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jor",
+  "definition": "Laringe",
+  "additional_text": "sInv Nujor Chʼakulaj",
+  "examples": [
+    {
+      "example_maya": "Ri taq äkʼ ninoj kijor rikʼin jut",
+      "example_spa": "A los pollitos se les llena la laringe con gusanos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chupan ri qajor nikʼo wi ronojel ri niqatïj qa",
+      "example_spa": "En el esófago pasa todo lo que nos comemos",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a57a87e-f207-4701-b2d1-c5179cfe1f9a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

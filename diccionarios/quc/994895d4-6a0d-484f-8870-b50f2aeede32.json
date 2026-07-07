@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uchaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwuchaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bromear con una persona grande; engañar a persona grande",
+  "definitionDialect": "",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq karuchaj li nima winaq",
+      "example_spa": "El patojo está bromeando con el anciano",
+      "dialect": null
+    }
+  ],
+  "uuid": "994895d4-6a0d-484f-8870-b50f2aeede32"
+}

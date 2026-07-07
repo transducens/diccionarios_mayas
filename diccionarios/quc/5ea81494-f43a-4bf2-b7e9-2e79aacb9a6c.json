@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chorokotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachorokotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espantar",
+  "definitionDialect": "General",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li aläh kachorokot chaqʼab",
+      "example_spa": "El muchacho espanta por la noche",
+      "dialect": null
+    }
+  ],
+  "uuid": "5ea81494-f43a-4bf2-b7e9-2e79aacb9a6c"
+}

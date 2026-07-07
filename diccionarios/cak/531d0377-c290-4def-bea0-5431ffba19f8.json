@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yatzʼayïk",
+  "definition": "Bien apretada: la ropa",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Rinchaqʼ jantapeʼ nuchilabʼej yatzʼayïk taq kaslon",
+      "example_spa": "Mi hermano menor siempre encarga pantalones apretados",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri alabʼoʼ wakamin ruyon yatzʼayïk taq kaslon nikokusaj",
+      "example_spa": "Los jóvenes de ahora, sólo usan pantalones bien apretados",
+      "dialect": null
+    }
+  ],
+  "uuid": "531d0377-c290-4def-bea0-5431ffba19f8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

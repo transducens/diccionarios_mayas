@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muquqlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bajar las nubes al suelo",
+  "definitionDialect": "",
+  "additional_text": "vi Kamuquqlabʼik Raíz VI Muq",
+  "examples": [
+    {
+      "example_maya": "Li sutzʼ kamuquqlabʼik ma xa kape jabʼ",
+      "example_spa": "Las nubes bajan muy obscuras porque va a llover",
+      "dialect": null
+    }
+  ],
+  "uuid": "c6f24a0e-abd7-44bb-bd3d-7653fe09a808"
+}

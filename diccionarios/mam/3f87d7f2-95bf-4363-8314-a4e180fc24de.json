@@ -1,0 +1,23 @@
+{
+  "entryWord": "QʼAANAT",
+  "definition": "curar",
+  "additional_text": "vt qʼanal te, qʼanan, ma nqʼanaya, ma bʼaj nqʼanana, qʼanbʼil raíz qʼan",
+  "examples": [
+    {
+      "example_maya": "Qʼaʼnan maj tuʼn qʼanal xkanan ajqʼij",
+      "example_spa": "Ya estaba curado por el doctor cuando llegó el zajorín",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ii tok qʼanat xjal tuʼn tbʼant naj tokyʼ",
+      "example_spa": "Hay que curar rápido a la persona para que le sane la herida",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3f87d7f2-95bf-4363-8314-a4e180fc24de",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

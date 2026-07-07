@@ -1,0 +1,24 @@
+{
+  "entryWord": "Porotzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Uporotzʼil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xporotzʼirik",
+  "altEntryWordDialect2": null,
+  "definition": "Tuerto; hundidos: ojos; choco; chupado: grano de maíz",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Matzʼaatzʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xpichʼin li ubʼaqʼwach, xa je riʼ xporotzʼirik",
+      "example_spa": "Uno de los ojos del hombre fue lastimado, por eso se quedó tuerto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xa porotzʼ li ubʼaqʼwach",
+      "example_spa": "La muchacha tiene los ojos hundidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "6d1a472a-6e43-4e51-8f0a-4da813b1edd5"
+}

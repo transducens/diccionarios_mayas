@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼlixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar chicote",
+  "definitionDialect": "General",
+  "additional_text": "VTD Kinjubʼliij Raíz VT Jubʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajyuqʼ kujubʼlij li asyar",
+      "example_spa": "El pastor hace sonar el chicote",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b8eebee-599a-44af-beec-1e2a3564807f"
+}

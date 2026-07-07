@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼiskʼobʼirem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ahumarse",
+  "definitionDialect": "General",
+  "additional_text": "vI Kakʼiskʼobʼirik Raíz VT Kʼis",
+  "examples": [
+    {
+      "example_maya": "Wemna katuk li qʼor kakʼiskʼobirik",
+      "example_spa": "Si no se remueve el atol, se ahuma",
+      "dialect": null
+    }
+  ],
+  "uuid": "ca6c219f-743b-47de-9bca-4ac8b254f999"
+}

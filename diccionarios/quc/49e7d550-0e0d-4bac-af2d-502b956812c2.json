@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaqa chikop",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ciémpiés, miriópodo",
+  "definitionDialect": "es",
+  "additional_text": "SCL DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li bʼaqa chikop kacholol li raqan",
+      "example_spa": "El ciempiés tiene varias patas en fila",
+      "dialect": null
+    }
+  ],
+  "uuid": "49e7d550-0e0d-4bac-af2d-502b956812c2"
+}

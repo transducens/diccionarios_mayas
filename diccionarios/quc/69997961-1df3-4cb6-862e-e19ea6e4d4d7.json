@@ -1,0 +1,24 @@
+{
+  "entryWord": "Iik",
+  "entryWordDialect": null,
+  "altEntryWord": "Wik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chile",
+  "definitionDialect": "",
+  "additional_text": "sInv sInv Rikiil Comida cocida que no sea de masa sds Uwaʼl iik Caldo de carne Iik",
+  "examples": [
+    {
+      "example_maya": "Li ik poqon we kaya rukʼ rikil",
+      "example_spa": "La comida pica porque tiene mucho chile",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xuta uwaʼl ik",
+      "example_spa": "El hombre pidió caldo rojo",
+      "dialect": "Dom.S."
+    }
+  ],
+  "uuid": "69997961-1df3-4cb6-862e-e19ea6e4d4d7"
+}

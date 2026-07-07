@@ -1,0 +1,18 @@
+{
+  "entryWord": "KANDEEL",
+  "definition": "candela, vela",
+  "additional_text": "s1 nkandela del español candela",
+  "examples": [
+    {
+      "example_maya": "Baqa chʼiʼn nimal kandel tokx txe tjadyos",
+      "example_spa": "Cuántas candelas hay en la iglesia",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "cff01181-85b5-4040-b0b7-9d3c91238940",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

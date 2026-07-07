@@ -1,0 +1,19 @@
+{
+  "entryWord": "Setetlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasetetlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rodarse",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Kasetetlabʼ li jun ukareʼtal chʼichʼ xbʼek are taq xkʼaq bʼik",
+      "example_spa": "La llanta del carro se",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0c1bdd6-f824-44f4-bd62-9f86dad57c39"
+}

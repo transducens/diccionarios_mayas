@@ -1,0 +1,19 @@
+{
+  "entryWord": "Akʼwah",
+  "entryWordDialect": null,
+  "altEntryWord": "Wakʼwa",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tamal de elote (tamalito), tortilla de elote; equiguay (esta palabra se usa en algunas partes de Huehuetenango)",
+  "definitionDialect": "Dom.S. Wah",
+  "additional_text": "SCV",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xubʼan subʼ akʼwah",
+      "example_spa": "La mujer hizo tamalitos de elote",
+      "dialect": null
+    }
+  ],
+  "uuid": "bf94367b-f6a7-4f27-8760-d5fd79e70e71"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lim",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulim",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lima para afilar",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chʼiichʼ Del Cast Lima",
+  "examples": [
+    {
+      "example_maya": "Li ajchak kʼo ulim kubʼanbʼej uware umuru",
+      "example_spa": "El trabajador tiene una lima para afilar su machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "8391a223-bb8f-4a86-874a-7eb9ce142df9"
+}

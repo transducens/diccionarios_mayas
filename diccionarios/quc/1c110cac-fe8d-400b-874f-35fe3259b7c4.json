@@ -1,0 +1,19 @@
+{
+  "entryWord": "Retzʼabʼaʼlil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ornamento, adorno",
+  "definitionDialect": "General",
+  "additional_text": "SaP Var Etzʼabʼaʼl",
+  "examples": [
+    {
+      "example_maya": "Li katzʼyaq li ajxojolobʼ sibʼalaj kʼo retzʼabʼaʼlil",
+      "example_spa": "El vestuario de los bailadores tiene muchos ornamentos",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c110cac-fe8d-400b-874f-35fe3259b7c4"
+}

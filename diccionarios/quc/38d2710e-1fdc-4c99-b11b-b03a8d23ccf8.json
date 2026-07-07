@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juyubʼal aq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coche de monte",
+  "definitionDialect": "General",
+  "additional_text": "SCL",
+  "examples": [
+    {
+      "example_maya": "Li juyubʼal aq pa taq kʼacheʼlaj e kʼo wih",
+      "example_spa": "El coche de monte vive en las montañas",
+      "dialect": null
+    }
+  ],
+  "uuid": "38d2710e-1fdc-4c99-b11b-b03a8d23ccf8"
+}

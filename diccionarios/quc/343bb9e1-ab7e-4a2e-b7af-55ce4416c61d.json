@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jalbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Año nuevo",
+  "definitionDialect": "General",
+  "additional_text": "SnP DomS Nimaqʼiij",
+  "examples": [
+    {
+      "example_maya": "Li ajchʼamiʼyabʼ chiʼl li uriʼjilabʼ pa jalbʼal kejalatajik",
+      "example_spa": "Los alguaciles y citadores se cambian en año nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "343bb9e1-ab7e-4a2e-b7af-55ce4416c61d"
+}

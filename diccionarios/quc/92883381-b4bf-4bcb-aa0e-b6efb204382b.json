@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼambʼejaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Probar; hacer prueba; competir",
+  "definitionDialect": "",
+  "additional_text": "vtD Kinkʼambʼejaaj",
+  "examples": [
+    {
+      "example_maya": "Kinkʼambʼejaj na li xajabʼ chwaqan",
+      "example_spa": "Voy a probarme los zapatos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq kukʼambʼejaj li rikil",
+      "example_spa": "La mujer va a probar la comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "92883381-b4bf-4bcb-aa0e-b6efb204382b"
+}

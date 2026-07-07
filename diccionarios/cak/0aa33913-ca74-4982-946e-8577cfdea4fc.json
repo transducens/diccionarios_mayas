@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jekel",
+  "definition": "Colgado, detenido, caído de lado (persona)",
+  "additional_text": "Adj Xjekeʼ, xujekebʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Ronojel ri nutziyaq e jekel kan chi rij cheʼ",
+      "example_spa": "Toda mi ropa estaba colgada en un palo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jekel kan ri achin pa bʼëy täq xinwil",
+      "example_spa": "Caído de lado estaba el hombre en el camino cuando lo encontré",
+      "dialect": null
+    }
+  ],
+  "uuid": "0aa33913-ca74-4982-946e-8577cfdea4fc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

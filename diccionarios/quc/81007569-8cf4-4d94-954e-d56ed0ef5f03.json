@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pupuh",
+  "entryWordDialect": null,
+  "altEntryWord": "pupuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vejiga de persona o animal, o bien de plástico con la que juegan los niños",
+  "definitionDialect": "",
+  "additional_text": "scv Nupupuu (nupuupuʼ) DomS Etzʼabʼaʼl DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xloqʼ jun upupu chema xbʼitʼ chwach",
+      "example_spa": "Al niño le compraron una vejiga pero se le reventó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li pupuh kumol wi ribʼ li chuluj",
+      "example_spa": "En la vejiga se junta la orina",
+      "dialect": null
+    }
+  ],
+  "uuid": "81007569-8cf4-4d94-954e-d56ed0ef5f03"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "SPAADA",
+  "definition": "espada",
+  "additional_text": "s1 nspadaya del español espada",
+  "examples": [
+    {
+      "example_maya": "Maʼ kubʼ jun xjal tuʼn spada chi kyel",
+      "example_spa": "Dice miguel que mataron a una persona con espada",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a0e6ba53-65b7-4df8-985d-ce4a9f669502",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

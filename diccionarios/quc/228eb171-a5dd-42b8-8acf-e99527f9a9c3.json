@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzokʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al trabajar con piedra, también el ruido de zapatos al andar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzokʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal ukojom utzapaʼt katzokʼnajik kabʼinik",
+      "example_spa": "El niño al caminar hace ruido con los zapatos",
+      "dialect": null
+    }
+  ],
+  "uuid": "228eb171-a5dd-42b8-8acf-e99527f9a9c3"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Walʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwalʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hojas para barrer homo o para bajar vapor en el temascal",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li uxaq li tzʼoloj cheʼ kachokon cheh mesbʼal upa ornoh",
+      "example_spa": "La hoja de saúco sirve para barrer el horno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq uxaq lamobʼ kukoj cheh uwalʼbʼal pa tuj",
+      "example_spa": "La mujer usa hoja de alizo para bajar el vapor en el temascal",
+      "dialect": null
+    }
+  ],
+  "uuid": "f860a373-222e-4956-8561-f3041646c893"
+}

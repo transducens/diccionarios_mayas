@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqa pwaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Plata",
+  "definitionDialect": "",
+  "additional_text": "scl Nusaqa pwaaq Raíz Adj Saq Raíz S Pwaq DomS Pwaq",
+  "examples": [
+    {
+      "example_maya": "Li saqa pwaq kabʼan xkinaj keh ixoqibʼ chech",
+      "example_spa": "Con la plata se hacen aretes para las mujeres",
+      "dialect": null
+    }
+  ],
+  "uuid": "a400bc46-7275-4f8a-b195-59c69211bc51"
+}

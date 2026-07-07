@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼaal",
+  "definition": "Sufijo de derivación de lugar",
+  "additional_text": "SD",
+  "examples": [
+    {
+      "example_maya": "Bʼatzʼunlebʼaal",
+      "example_spa": "Estadio, cancha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tzollebʼaal",
+      "example_spa": "Colegio, instituto, escuela",
+      "dialect": null
+    }
+  ],
+  "uuid": "74f5afb3-b03f-4a82-a225-d147adaf106d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼäs",
+  "definition": "Vivo, la primera forma es irregular",
+  "additional_text": "p Xkʼaseʼ, xukʼasbʼaʼ Kʼäs",
+  "examples": [
+    {
+      "example_maya": "Kʼa runaj xkʼaseʼ ri nukotzʼiʼj xintïk",
+      "example_spa": "Costó que viviera la flor que sembré",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir xintzʼët jun qʼabʼarel pa bʼëy jumül kamnäq, ri winäq nkibʼij chi kʼäs",
+      "example_spa": "Ayer vi un bolo en la calle que estaba muerto, la gente decía que estaba vivo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2c299b3-46d5-4dd8-aca7-cfd57290dedd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

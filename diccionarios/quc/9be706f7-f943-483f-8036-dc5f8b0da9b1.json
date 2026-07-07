@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kor/ch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corcho",
+  "definitionDialect": "",
+  "additional_text": "SInv Nukoor/ch Del Cast Corcho",
+  "examples": [
+    {
+      "example_maya": "Li tzʼapibal uwiʼ taq li lameʼt kʼo korch chpam",
+      "example_spa": "Los tapones de las botellas tienen corcho",
+      "dialect": null
+    }
+  ],
+  "uuid": "9be706f7-f943-483f-8036-dc5f8b0da9b1"
+}

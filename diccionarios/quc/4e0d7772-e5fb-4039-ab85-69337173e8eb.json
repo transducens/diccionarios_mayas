@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uchimal kʼarkʼar",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morral que sostiene el cabo de la matraca",
+  "definitionDialect": "",
+  "additional_text": "sds (uchimal kʼerkʼer)",
+  "examples": [
+    {
+      "example_maya": "Li uchimal kʼarkʼar ukiyal chʼyuʼt kojom cheh",
+      "example_spa": "El morralito que sostiene el cabo de la matraca lo han hecho de fibras de cheche",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e0d7772-e5fb-4039-ab85-69337173e8eb"
+}

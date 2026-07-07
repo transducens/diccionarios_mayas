@@ -1,0 +1,18 @@
+{
+  "entryWord": "Yaw",
+  "definition": "Cedro",
+  "additional_text": "SInv Inyaw",
+  "examples": [
+    {
+      "example_maya": "Li yaw moko juntaqʼeet ta rikʼin li sutzʼuj",
+      "example_spa": "El cedro no es igual a la caoba",
+      "dialect": null
+    }
+  ],
+  "uuid": "399d3b83-2780-4d2a-b8be-864ddcabfaaf",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

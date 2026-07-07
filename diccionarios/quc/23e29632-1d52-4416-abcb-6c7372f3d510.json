@@ -1,0 +1,24 @@
+{
+  "entryWord": "Alaʼs",
+  "entryWordDialect": null,
+  "altEntryWord": "Walaʼs",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muñeca",
+  "definitionDialect": "Dom.S. Etz'ab'a'l.",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li alaj aliʼ xloqʼ jun ralaʼs",
+      "example_spa": "A la niñita le compraron una muñeca",
+      "dialect": null
+    },
+    {
+      "example_maya": "F We ta ne inawalaʼs",
+      "example_spa": "¿Acaso soy tu muñeco?",
+      "dialect": null
+    }
+  ],
+  "uuid": "23e29632-1d52-4416-abcb-6c7372f3d510"
+}

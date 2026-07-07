@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rij kumatz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pellejo de culebra",
+  "definitionDialect": "es",
+  "additional_text": "sds",
+  "examples": [
+    {
+      "example_maya": "Li rij kumatz kukunaj sal",
+      "example_spa": "El pellejo de culebra cura el jiote",
+      "dialect": null
+    }
+  ],
+  "uuid": "aaa2e674-f336-4d2a-834c-381871f59418"
+}

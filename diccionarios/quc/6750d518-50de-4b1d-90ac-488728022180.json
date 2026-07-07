@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tenaʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Olla grande para cocer tamales",
+  "definitionDialect": "",
+  "additional_text": "sinv Nutenaʼx Var Tanaʼx DomS Bʼoʼj",
+  "examples": [
+    {
+      "example_maya": "Pa li tenaʼx katzak wi li subʼ pa taq nimaqʼij",
+      "example_spa": "En esta olla se cuecen los tamales cuando hay fiestas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6750d518-50de-4b1d-90ac-488728022180"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeqebʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Baja: silla, tinaja, mesa o perro",
+  "definitionDialect": "general",
+  "additional_text": "Adj Sinón Qebʼeqik Raíz Adj Bʼeq",
+  "examples": [
+    {
+      "example_maya": "Li a teʼk tʼuyul pa jun bʼeqebʼik tem",
+      "example_spa": "Diego está sentado en una silla baja",
+      "dialect": null
+    }
+  ],
+  "uuid": "a53bc9c2-1f94-435f-82a8-88aa5edfa952"
+}

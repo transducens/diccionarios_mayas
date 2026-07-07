@@ -1,0 +1,19 @@
+{
+  "entryWord": "Repelajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karepelajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Relampaguear",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz Vl Rep",
+  "examples": [
+    {
+      "example_maya": "Pa taq qʼalaj sibʼalaj karepelaj xkoyopaʼ",
+      "example_spa": "En invierno relampaguea mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "db57a0ff-5f43-401f-b618-784b6ca306b5"
+}

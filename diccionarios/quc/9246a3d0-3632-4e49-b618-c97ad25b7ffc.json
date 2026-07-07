@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qulal",
+  "entryWordDialect": null,
+  "altEntryWord": "Uqulal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entonación de canción o melodía",
+  "definitionDialect": "",
+  "additional_text": "ssp Raíz VT Qul",
+  "examples": [
+    {
+      "example_maya": "Li alih utz uqulal li bʼix xubʼanoh",
+      "example_spa": "La muchacha entonó bien la canción",
+      "dialect": null
+    }
+  ],
+  "uuid": "9246a3d0-3632-4e49-b618-c97ad25b7ffc"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sa xchʼool",
+  "definition": "Divertido",
+  "additional_text": "ADL Xsahoʼ xchʼool, xsahil xchʼool",
+  "examples": [
+    {
+      "example_maya": "Sa xchʼool li chʼajom",
+      "example_spa": "Divertido el muchacho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sa xchʼool li was naq xnumsi li ninqʼe",
+      "example_spa": "Mi hermano pasó alegre la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b3a52a7-59dd-447d-b238-b318b4177adb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

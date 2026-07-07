@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muchacho, joven",
+  "definitionDialect": "Dom.S. Winaq",
+  "additional_text": "SaP SPL Alabʼoom (aabʼoom) Jóvenes (plural)",
+  "examples": [
+    {
+      "example_maya": "Li alah retaʼm chi kachakunik",
+      "example_spa": "El joven ya sabe trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2cda135-4815-4310-b4d0-4af09f5aa612"
+}

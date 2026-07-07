@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sikʼaak",
+  "definition": "Ahumarse",
+  "additional_text": "vi Xikʼa",
+  "examples": [
+    {
+      "example_maya": "Xsikʼa xtibʼel qawa",
+      "example_spa": "Se ahumó nuestra comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xsikʼa xsaʼ li aros",
+      "example_spa": "El arroz se ahumó",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e06c2b9-b5c2-41e2-8518-277921436f1d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

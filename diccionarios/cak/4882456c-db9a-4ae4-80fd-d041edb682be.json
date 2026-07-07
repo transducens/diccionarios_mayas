@@ -1,0 +1,23 @@
+{
+  "entryWord": "Moymot",
+  "definition": "Ver poca luz por obscurecerse, mirar poco por defecto de los ojos",
+  "additional_text": "vi Nimoymot var Maymot, moy",
+  "examples": [
+    {
+      "example_maya": "Choj nimoymot ri qʼij täq kʼo sutzʼ",
+      "example_spa": "Se ve poca claridad cuando el sol está tapado por las nubes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo akʼwalaʼ taq winäq choj chik nimoymot yetzuʼun",
+      "example_spa": "Hay personas que todavía son jóvenes y ya no miran bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "4882456c-db9a-4ae4-80fd-d041edb682be",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

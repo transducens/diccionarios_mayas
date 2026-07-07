@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wajenïk",
+  "definition": "Llevar cosas secas o duras como guacales, jícaras, piedras, etc",
+  "additional_text": "vtd Wajexik, ninwajej Waje wäj",
+  "examples": [
+    {
+      "example_maya": "Ri ixöq xuwajej el kʼïy aqeʼn ri pa kʼaybʼäl, ma xtibʼe la kan bʼaʼ",
+      "example_spa": "La mujer se llevó un montón de guacales al mercado, quién sabe si vendería algo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq yibʼekanun chiköp, ninwajej el kʼïy abʼäj pa nupeqäs",
+      "example_spa": "Cuando salgo a cazar pájaros, me llevo muchas piedras en mi matate",
+      "dialect": null
+    }
+  ],
+  "uuid": "98b97fd3-d687-4c8e-9ad6-b5aec50bc169",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jakamik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba que se utiliza como medicina",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Kunabʼal",
+  "examples": [
+    {
+      "example_maya": "Li rij li jakamik utz che qʼoxom wareʼaj",
+      "example_spa": "La cáscara de este palo es buena para el dolor de dientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "c985f6d7-bef6-451f-b35d-2788282b62d0"
+}

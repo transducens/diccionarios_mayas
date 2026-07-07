@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqʼul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Plátano",
+  "definitionDialect": "",
+  "additional_text": "sInv Nusaqʼuul Raíz S Saqʼuul DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan kʼo jubʼiqʼ utikoʼn rech saqʼul",
+      "example_spa": "Juan tiene una pequeña plantación de plátanos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d3b68f0a-7243-4f4e-a41a-ddac88c25f04"
+}

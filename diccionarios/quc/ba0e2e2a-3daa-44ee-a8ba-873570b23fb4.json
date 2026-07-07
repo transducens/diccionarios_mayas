@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sarasik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gordo",
+  "definitionDialect": "",
+  "additional_text": "Adj Coment Despectivo Raiz PT Sar",
+  "examples": [
+    {
+      "example_maya": "Li umiʼal li achih nima sarasik chik",
+      "example_spa": "La hija del hombre ya es grande y gorda",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba0e2e2a-3daa-44ee-a8ba-873570b23fb4"
+}

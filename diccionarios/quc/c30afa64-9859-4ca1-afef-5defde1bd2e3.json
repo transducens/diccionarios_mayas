@@ -1,0 +1,19 @@
+{
+  "entryWord": "Junabʼir",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "El año pasado; hace un año",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Junabʼir xqʼatux li tinamit rumal li nima qʼatal tzij",
+      "example_spa": "El Presidente visitó el pueblo el año pasado",
+      "dialect": null
+    }
+  ],
+  "uuid": "c30afa64-9859-4ca1-afef-5defde1bd2e3"
+}

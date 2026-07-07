@@ -1,0 +1,18 @@
+{
+  "entryWord": "PREES",
+  "definition": "1 cárcel, calabozo",
+  "additional_text": "s1 npresa 2 preso del español preso",
+  "examples": [
+    {
+      "example_maya": "Atlax pres tuj juʼn tnam",
+      "example_spa": "Siempre hay cárcel en cada pueblo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5c4ac141-3649-4c7c-bf62-cb43e01805fa",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

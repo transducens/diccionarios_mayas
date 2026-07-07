@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un pedazo de panela; un retazo de tela",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qax",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xa juqax chi li kabʼ xukoloh",
+      "example_spa": "El perro dejó solo un pedazo de panela",
+      "dialect": null
+    }
+  ],
+  "uuid": "3487c4c8-991d-499c-a302-837d877f66b3"
+}

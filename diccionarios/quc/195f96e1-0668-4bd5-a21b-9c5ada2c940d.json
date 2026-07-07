@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼujaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Proyectar mucha sombra",
+  "definitionDialect": "",
+  "additional_text": "vr Kutzʼujaaj Raíz S Tzʼuj",
+  "examples": [
+    {
+      "example_maya": "Li cheʼ kutzʼujaj li nutikoʼn",
+      "example_spa": "El árbol proyecta mucha sombra sobre mi siembra",
+      "dialect": null
+    }
+  ],
+  "uuid": "195f96e1-0668-4bd5-a21b-9c5ada2c940d"
+}

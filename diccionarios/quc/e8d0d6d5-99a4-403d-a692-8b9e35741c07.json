@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wechik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwechoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer migas; quitar pedazos poco a poco de un palo",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Wech",
+  "examples": [
+    {
+      "example_maya": "Li alaj alah, tajin kuwech li kaxlanwah, pa li mox",
+      "example_spa": "El muchachito está haciendo migajas el pan en el mox",
+      "dialect": null
+    }
+  ],
+  "uuid": "e8d0d6d5-99a4-403d-a692-8b9e35741c07"
+}

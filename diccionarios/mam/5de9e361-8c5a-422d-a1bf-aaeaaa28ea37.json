@@ -1,0 +1,18 @@
+{
+  "entryWord": "LEELA",
+  "definition": "adela",
+  "additional_text": "nom del español adela",
+  "examples": [
+    {
+      "example_maya": "Ma txibʼaj tkʼaʼẍ txin Lela",
+      "example_spa": "Adela vendió toda su venta",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5de9e361-8c5a-422d-a1bf-aaeaaa28ea37",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

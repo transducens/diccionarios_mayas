@@ -1,0 +1,33 @@
+{
+  "entryWord": "Pat xox",
+  "definition": "Costra, escama",
+  "additional_text": "scu Inpat xox var Pat",
+  "examples": [
+    {
+      "example_maya": "Xʼok chi elk li xpat inxox",
+      "example_spa": "Comenzaron a caerse las costras de los granos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pat ahin",
+      "example_spa": "Escama de lagarto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pat xox",
+      "example_spa": "Costra de grano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pat rix li kar",
+      "example_spa": "Escama de pescado",
+      "dialect": null
+    }
+  ],
+  "uuid": "5d8cc3e2-36b8-4239-be4b-69b0d444f9df",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

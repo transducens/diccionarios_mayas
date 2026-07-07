@@ -1,0 +1,18 @@
+{
+  "entryWord": "TALEER",
+  "definition": "taler (pieza del arado que va metida en el timón)",
+  "additional_text": "s1 ntalera del español taler",
+  "examples": [
+    {
+      "example_maya": "Pena ma jatz taler tuj tokyʼ timu",
+      "example_spa": "Apenas subió el taler en el hoyo del timón",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5517c703-2c69-48d6-bd7c-b7e9ba4768f6",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼululaʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼululaʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener envidia; oponerse",
+  "definitionDialect": "",
+  "additional_text": "vt",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kukʼululaʼj li ukʼul jah",
+      "example_spa": "La mujer envidia a su vecina",
+      "dialect": null
+    }
+  ],
+  "uuid": "95779e89-72d7-464e-b5ec-e070125c5afd"
+}

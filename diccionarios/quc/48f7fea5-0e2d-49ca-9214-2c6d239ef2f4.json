@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mejlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar cayéndose o doblándose a cada rato",
+  "definitionDialect": "General",
+  "additional_text": "vt Kamejelabʼik",
+  "examples": [
+    {
+      "example_maya": "Li kej sibʼalaj al li reqaʼn, xaq kamejelabʼik",
+      "example_spa": "El caballo tiene carga muy pesada, y camina cayéndose",
+      "dialect": null
+    }
+  ],
+  "uuid": "48f7fea5-0e2d-49ca-9214-2c6d239ef2f4"
+}

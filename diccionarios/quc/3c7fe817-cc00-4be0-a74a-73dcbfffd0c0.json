@@ -1,0 +1,29 @@
+{
+  "entryWord": "Waqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwaqʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrar pepitas duras; despulpar café; picar huesos en las carnicerías; comer huesos los animales; comer cosas duras o tostadas",
+  "definitionDialect": "",
+  "additional_text": "VTR Raíz VT Waqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, tajin kuwaqʼ li bʼaq pa karnaseʼr",
+      "example_spa": "El hombre está partiendo los huesos en la carnicería",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq tajin kuwaqʼ li ubʼaqʼ li mop chwa li abʼaj",
+      "example_spa": "La mujer está quebrando la pepita del coyol en la piedra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, tajin kuwaqʼ li kapeh, pa li makl",
+      "example_spa": "El hombre está despulpando el café en la máquina",
+      "dialect": null
+    }
+  ],
+  "uuid": "3c7fe817-cc00-4be0-a74a-73dcbfffd0c0"
+}

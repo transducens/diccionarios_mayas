@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kalinax",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukalinax",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cañaveral que se usa para enrollar hilo",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li kalinax kachokon chech bʼakʼbʼal bʼatzʼ",
+      "example_spa": "Este cañaveral sirve para enrollar hilo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4bf4546b-0d7d-4de0-a631-ea2a05ca434b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tanatik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Peña; peñasco; morro",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz PT Tan DomS Uleew",
+  "examples": [
+    {
+      "example_maya": "Li tanatik sibʼalaj nim paqalik",
+      "example_spa": "El peñasco es muy alto",
+      "dialect": null
+    }
+  ],
+  "uuid": "ecdf08d2-8068-4d58-8ea2-82099987f81d"
+}

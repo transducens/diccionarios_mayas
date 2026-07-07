@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lamobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulamobʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "aliso",
+  "definitionDialect": "general",
+  "additional_text": "scv DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li lamobʼ utz kabʼan chech",
+      "example_spa": "El aliso es bueno para hacer arcos",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b7bdf38-9a39-450a-a4af-cc498fcde856"
+}

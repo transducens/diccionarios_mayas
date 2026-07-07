@@ -1,0 +1,18 @@
+{
+  "entryWord": "LEENA",
+  "definition": "elena",
+  "additional_text": "nom del español elena ds bʼibʼaj",
+  "examples": [
+    {
+      "example_maya": "¿Ma txiʼ bʼaj tchaʼna Lena?",
+      "example_spa": "¿Terminaste de vender todos tus tamales con frijol Elena?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e6baf029-d4cf-4b74-8daf-5c5061f8e22f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

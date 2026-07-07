@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼawik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼawoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer chile verde",
+  "definitionDialect": "",
+  "additional_text": "vtr Raiz VT Qʼaw",
+  "examples": [
+    {
+      "example_maya": "Li nim ixoq qʼax tajin kuqʼawoh ma utz kunaʼoh",
+      "example_spa": "La mujer anciana come chile verde porque le gusta",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c7f4a5e-2865-4ab4-9578-6242ae5eb94f"
+}

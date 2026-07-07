@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wajxaqkʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ciento sesenta",
+  "definitionDialect": "",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li ajyakalobʼ xuloqʼ wajxaqkʼal alanxax pa kʼaybʼal",
+      "example_spa": "El revendedor compró ciento sesenta naranjas en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "fad90a96-45b7-468f-8ce3-72f8579872ee"
+}

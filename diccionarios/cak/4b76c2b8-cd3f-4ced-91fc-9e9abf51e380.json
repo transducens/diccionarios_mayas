@@ -1,0 +1,18 @@
+{
+  "entryWord": "Ma (man)",
+  "definition": "Partícula que indica negación",
+  "additional_text": "ParN",
+  "examples": [
+    {
+      "example_maya": "Ma nabʼän, chwaʼq, no nbʼanaʼ",
+      "example_spa": "No lo haga, vendré mañana a hacerlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b76c2b8-cd3f-4ced-91fc-9e9abf51e380",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

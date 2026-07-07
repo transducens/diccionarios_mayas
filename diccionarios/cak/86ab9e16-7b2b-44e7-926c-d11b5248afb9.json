@@ -1,0 +1,28 @@
+{
+  "entryWord": "Riʼj",
+  "definition": "Viejo",
+  "additional_text": "Adj Rurijil, (rurijixik), xrijïx",
+  "examples": [
+    {
+      "example_maya": "Ri nataʼ yalan riʼj chïk",
+      "example_spa": "Mi papá ya es muy viejo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinlöqʼ kan jun nukamxaʼ, roma ri jun riʼj chïk",
+      "example_spa": "Compré una camisa porque la otra ya está vieja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir xkän ri ti riʼj achin",
+      "example_spa": "Ayer murió el hombre viejo",
+      "dialect": null
+    }
+  ],
+  "uuid": "86ab9e16-7b2b-44e7-926c-d11b5248afb9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

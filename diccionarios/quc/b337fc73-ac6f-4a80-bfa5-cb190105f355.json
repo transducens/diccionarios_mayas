@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaroʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer nudo botellas",
+  "definitionDialect": "",
+  "additional_text": "VI Kakʼaaroʼpik Raíz P Kʼar",
+  "examples": [
+    {
+      "example_maya": "Li lamet reqam li kej kakʼaroʼpik",
+      "example_spa": "Las botellas que lleva cargadas el caballo hacen diferentes ruidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "b337fc73-ac6f-4a80-bfa5-cb190105f355"
+}

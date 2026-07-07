@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chyaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acarreando agua",
+  "definitionDialect": "",
+  "additional_text": "Adv Pbas //Chi haʼ//",
+  "examples": [
+    {
+      "example_maya": "Kinbʼe na chyaʼ",
+      "example_spa": "Me voy a acarrear agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo chyaʼ",
+      "example_spa": "Mi hija está acarreando agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "fb24c115-9254-4f56-93fc-1512699cd76e"
+}

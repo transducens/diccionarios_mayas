@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xeʼp",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxeʼp",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pinto (gris con blanco y negro)",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li xeʼpa akʼ sibʼalaj kasikʼowik",
+      "example_spa": "La gallina pinta pone muchos huevos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a17c0eb9-8d09-41b3-90d1-0a8a7bca7717"
+}

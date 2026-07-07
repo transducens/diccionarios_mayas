@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waknajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover la barba al comer y al caminar",
+  "definitionDialect": "",
+  "additional_text": "vi Kawaknajik Raíz P Wak",
+  "examples": [
+    {
+      "example_maya": "Li achih kawaknaj li rismaʼch are taq kawaʼik",
+      "example_spa": "La barba del hombre se mueve al comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9a0c0bb-9033-4765-8803-4195810b4a02"
+}

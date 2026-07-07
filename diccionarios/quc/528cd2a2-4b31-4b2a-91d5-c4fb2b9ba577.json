@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qurnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Marrano; gruñir el marrano",
+  "definitionDialect": "",
+  "additional_text": "VI Kaqurnajik Raíz VI Qur",
+  "examples": [
+    {
+      "example_maya": "Li aq kaqurnaj pa taq li abʼix",
+      "example_spa": "El cerdo gruñe en la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "528cd2a2-4b31-4b2a-91d5-c4fb2b9ba577"
+}

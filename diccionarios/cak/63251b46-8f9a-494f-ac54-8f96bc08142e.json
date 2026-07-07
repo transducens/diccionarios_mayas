@@ -1,0 +1,23 @@
+{
+  "entryWord": "=Qun (qum)",
+  "definition": "Un trago un sorbo",
+  "additional_text": "En Juqum Var Bʼiqʼ",
+  "examples": [
+    {
+      "example_maya": "Xa juqum xubʼän chi re ri yaʼ ri achin",
+      "example_spa": "El hombre de un solo trago se tomó el agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa chi qun chi qun xinqum ri qʼor",
+      "example_spa": "Trago por trago me tomé el atol",
+      "dialect": null
+    }
+  ],
+  "uuid": "63251b46-8f9a-494f-ac54-8f96bc08142e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "BOOLS",
+  "definition": "bolsa en la ropa",
+  "additional_text": "s1 nbolsa del español bolsa",
+  "examples": [
+    {
+      "example_maya": "Bʼiʼx matxilichʼj tbols tuʼn tal tqʼabʼ",
+      "example_spa": "De una vez se le rompió su bolsa, por su dedo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "4ca1e508-7892-4eb6-a1f3-c5d384e8342a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

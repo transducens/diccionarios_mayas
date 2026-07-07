@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kejnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakejnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brincar una persona en carro o caballo al ir en un camino malo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Kej",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj kakejnaj pa li bʼinel chʼichʼ ma xa kʼax li bʼeh",
+      "example_spa": "El hombre brinca en el carro porque el camino es malo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d10dd427-fec6-4b62-8d8f-ec7eeb36ce5c"
+}

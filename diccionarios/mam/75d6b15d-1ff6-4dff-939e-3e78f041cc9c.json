@@ -1,0 +1,23 @@
+{
+  "entryWord": "KOKʼ",
+  "definition": "1 corta: distancia 2 chiquito, pequeño 3 mediana: fruta",
+  "additional_text": "adj ma kokʼax raíz kokʼ adj",
+  "examples": [
+    {
+      "example_maya": "Pux kokʼ t-xol ich tuʼna",
+      "example_spa": "Hiciste muy corta la distancia entre cada mata de chile",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kokʼ txqan qloʼ saj qʼoʼn",
+      "example_spa": "Nos dieron unas frutas medianas",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "75d6b15d-1ff6-4dff-939e-3e78f041cc9c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sahil",
+  "definition": "Agrado, gusto, voluntad, sabor",
+  "additional_text": "sInv Insahil (xsahil)",
+  "examples": [
+    {
+      "example_maya": "Makʼaʼ insahil",
+      "example_spa": "No sirvo para nada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maakʼaʼ xsahil",
+      "example_spa": "No tiene sabor",
+      "dialect": null
+    }
+  ],
+  "uuid": "1375d12e-379e-47a4-965e-ee2b2d8ae2cf",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

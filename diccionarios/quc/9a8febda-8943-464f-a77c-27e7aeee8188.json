@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼiʼtikil",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutiʼtikil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Odio",
+  "definitionDialect": "General",
+  "additional_text": "sInv Raíz Vl Tiʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, kʼo utiʼtikil cheh li utza winaq",
+      "example_spa": "El hombre le tiene odio a la gente buena",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a8febda-8943-464f-a77c-27e7aeee8188"
+}

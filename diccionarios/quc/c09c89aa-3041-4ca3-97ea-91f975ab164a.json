@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ulewal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Polvo de los muertos",
+  "definitionDialect": "",
+  "additional_text": "sInv Wulewaal Raíz S Uleew",
+  "examples": [
+    {
+      "example_maya": "Li ulewal reh kamnaq qʼeqqʼoj kakaʼyik",
+      "example_spa": "El color del polvo de muerto es corinto",
+      "dialect": null
+    }
+  ],
+  "uuid": "c09c89aa-3041-4ca3-97ea-91f975ab164a"
+}

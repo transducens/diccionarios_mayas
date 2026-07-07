@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzuklenk",
+  "definition": "Enredar, alborotar, desordenar",
+  "additional_text": "VTD Xintzukle var Suklenk",
+  "examples": [
+    {
+      "example_maya": "Xintzukle xqʼol innaʼ",
+      "example_spa": "Enredé la cadena de mi mamá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtzukle ribʼ xkʼaamal li aaq",
+      "example_spa": "Se enredó el lazo del marrano",
+      "dialect": null
+    }
+  ],
+  "uuid": "490fbcb7-26ac-42b2-8600-9d55044c1c52",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

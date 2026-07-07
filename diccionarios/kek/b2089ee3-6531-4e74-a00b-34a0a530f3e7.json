@@ -1,0 +1,18 @@
+{
+  "entryWord": "Pachkʼim",
+  "definition": "Caña de milpa con un poco de hojas, se usa como pared de casa",
+  "additional_text": "SInv Inpachkʼim",
+  "examples": [
+    {
+      "example_maya": "Li rochoch li tzʼiʼ pachkʼim ru",
+      "example_spa": "La casa del perro está hecha de caña de milpa con hojas",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2089ee3-6531-4e74-a00b-34a0a530f3e7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

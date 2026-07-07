@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roknajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karoknajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rascarse; escarbar",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz VT Rok",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin karoknaj pa tuj",
+      "example_spa": "El hombre está rascándose en el temascal",
+      "dialect": null
+    }
+  ],
+  "uuid": "3b5cae6c-c56f-48cd-b4b3-98b50fd790c7"
+}

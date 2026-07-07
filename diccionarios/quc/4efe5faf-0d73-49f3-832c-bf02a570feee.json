@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alimah",
+  "entryWordDialect": null,
+  "altEntryWord": "Walima",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lima; mi lima",
+  "definitionDialect": "Dom.S. Pruut. Del Cast. Lima.",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kuloqʼ alimah pa kʼayʼbʼal",
+      "example_spa": "La mujer está comprando limas en la plaza",
+      "dialect": null
+    }
+  ],
+  "uuid": "4efe5faf-0d73-49f3-832c-bf02a570feee"
+}

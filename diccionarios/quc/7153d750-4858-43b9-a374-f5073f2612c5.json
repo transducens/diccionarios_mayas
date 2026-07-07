@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laqʼmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kalaqʼmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse como morral vacío o carga liviana",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz VT Laqʼ",
+  "examples": [
+    {
+      "example_maya": "Xaq kalaqʼmaʼy li uchim li achih putolokʼ",
+      "example_spa": "El morral del hombre se mueve vacío a su lado",
+      "dialect": null
+    }
+  ],
+  "uuid": "7153d750-4858-43b9-a374-f5073f2612c5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaranik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirada: cosa plana; aplastada en el suelo: una cosa; tirada: cosa delgada",
+  "definitionDialect": "Spanish",
+  "additional_text": "p Xtzʼariʼk, xutzʼarabʼaʼ Raíz P Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Xaq tzʼaran kan li karteʼr pa li bʼeh, maj pwaq chupam",
+      "example_spa": "La cartera que está aplastada en el camino ya no contiene dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "59dc03ee-2916-4bf4-9717-86114fb69e1e"
+}

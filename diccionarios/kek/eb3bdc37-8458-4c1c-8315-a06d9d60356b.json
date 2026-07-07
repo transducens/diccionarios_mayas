@@ -1,0 +1,23 @@
+{
+  "entryWord": "Nebʼaʼil",
+  "definition": "Pobreza, orfandad, humildad",
+  "additional_text": "SInv Innebʼaʼil",
+  "examples": [
+    {
+      "example_maya": "Jun tana tinkʼe saʼ inchʼinal nebʼaʼil",
+      "example_spa": "En medio de mi pobreza voy a dar uno de lo poco que tengo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tinxok wan innebʼaʼil",
+      "example_spa": "Voy a recoger mis humildes cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb3bdc37-8458-4c1c-8315-a06d9d60356b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

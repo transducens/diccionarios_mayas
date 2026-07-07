@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gris",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Uchaʼjiil, xchaʼjirik",
+  "examples": [
+    {
+      "example_maya": "Li uchajil li xkanul kelik chaʼj kakaʼyik",
+      "example_spa": "La ceniza que sale del volcán, es de color gris",
+      "dialect": null
+    }
+  ],
+  "uuid": "c558f7b5-8167-4dcb-851e-32574bb09901"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Bʼe",
+  "definition": "Camino, sendero, mandado",
+  "additional_text": "SInv Inbʼe",
+  "examples": [
+    {
+      "example_maya": "Elen saʼ li bʼe",
+      "example_spa": "Sálgase del camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tento li bʼeek saʼ xbʼehil li tzʼaqal yaal",
+      "example_spa": "Hay que caminar por el sendero de la verdad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wan inbʼe rikʼin laj Bʼex hulaj",
+      "example_spa": "Mañana voy a hacer un mandado a la casa de Sebastián",
+      "dialect": null
+    }
+  ],
+  "uuid": "d07aeb05-5321-4d96-b28c-b55e75775d73",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

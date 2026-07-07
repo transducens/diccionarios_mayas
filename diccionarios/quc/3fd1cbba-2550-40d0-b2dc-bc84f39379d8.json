@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lemom abʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empedrado",
+  "definitionDialect": "",
+  "additional_text": "sCL Raíz P Lem abʼaj",
+  "examples": [
+    {
+      "example_maya": "Li uwa li qʼatbʼal tzij lemom abʼaj",
+      "example_spa": "El patio de la municipalidad está empedrado",
+      "dialect": null
+    }
+  ],
+  "uuid": "3fd1cbba-2550-40d0-b2dc-bc84f39379d8"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kanajsaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkanajsaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dejar cosas o personas en el camino",
+  "definitionDialect": "",
+  "additional_text": "vrc Raíz vt Naj",
+  "examples": [
+    {
+      "example_maya": "Li bʼinsal chʼichʼ xukanajsaj kan li nima achih pa bʼeh",
+      "example_spa": "El chofer dejó al anciano en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8eca237-c3aa-47bd-a172-8a9f450d6490"
+}

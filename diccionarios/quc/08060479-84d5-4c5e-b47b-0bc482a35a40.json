@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼexoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cambiar; mudar; trocar (elev)",
+  "definitionDialect": "",
+  "additional_text": "vtr Var Jaalik Raíz VT Kʼex",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay, urajil kukʼex pa li kʼexbʼal pwaq",
+      "example_spa": "El comerciante está cambiando dinero en el banco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun ja winaq kakikʼex li koʼch",
+      "example_spa": "Una familia va a mudarse de casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "08060479-84d5-4c5e-b47b-0bc482a35a40"
+}

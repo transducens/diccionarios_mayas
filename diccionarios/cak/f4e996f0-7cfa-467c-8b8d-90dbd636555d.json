@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xanän",
+  "definition": "Zancudo",
+  "additional_text": "SInv Nuxanän Var Xeneʼn Chikop",
+  "examples": [
+    {
+      "example_maya": "Ri xanän yeyaʼon yabʼil",
+      "example_spa": "Los zancudos contagian enfermedades",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xanän yechʼopon",
+      "example_spa": "Los zancudos pican",
+      "dialect": null
+    }
+  ],
+  "uuid": "f4e996f0-7cfa-467c-8b8d-90dbd636555d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

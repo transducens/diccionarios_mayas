@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jujun",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Unos; algunos",
+  "definitionDialect": "",
+  "additional_text": "NumDist Enu Chjujunaal Uno por uno NumDist Jujun chkeech Uno de cada grupo",
+  "examples": [
+    {
+      "example_maya": "Kʼo jujun tzij na xinta taj",
+      "example_spa": "Algunas palabras no escuché",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi jujunal tajin ketoj li ajchakibʼ rumal li tojonel",
+      "example_spa": "El encargado está pagando a cada uno de los trabajadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "acd8ed04-1c94-447b-9c2c-be4513f20e8d"
+}

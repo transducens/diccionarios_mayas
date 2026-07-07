@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uxlanisaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dejar descansar",
+  "definitionDialect": "general",
+  "additional_text": "vtd Kinwuxlanisaaj",
+  "examples": [
+    {
+      "example_maya": "Kinwuxlanisaj na li wuliw ma maj chi kakʼiy chwach",
+      "example_spa": "Voy a dejar descansar mi terreno, porque ya no crece nada en él",
+      "dialect": null
+    }
+  ],
+  "uuid": "e7766050-2fff-49ff-9007-3df65c5176c0"
+}

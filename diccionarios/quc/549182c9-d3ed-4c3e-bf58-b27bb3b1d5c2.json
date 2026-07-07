@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaxlan qʼinom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manzanilla",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukaxlan qʼinoom DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li kaxlan qʼinom kachokon che wiqobʼal pa taq alaxibʼal xuq katijowik",
+      "example_spa": "En la Navidad se adorna con manzanilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "549182c9-d3ed-4c3e-bf58-b27bb3b1d5c2"
+}

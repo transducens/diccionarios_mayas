@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qetem",
+  "entryWordDialect": null,
+  "altEntryWord": "Pibʼem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Jeteem",
+  "altEntryWordDialect2": null,
+  "definition": "Acercarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kinqetik Sinón Pibʼeem sin Jeteem Raíz VI Qet",
+  "examples": [
+    {
+      "example_maya": "Qetem kinbʼan rukʼ li wachiʼil pa li tem",
+      "example_spa": "Voy a acercarme a mi compañero con el banco",
+      "dialect": null
+    }
+  ],
+  "uuid": "c5b9dd29-c0be-4700-81a9-cf0eb8320e68"
+}

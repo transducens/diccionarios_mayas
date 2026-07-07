@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yawaʼ",
+  "definition": "Enfermo, embarazada",
+  "additional_text": "sInv Nuyawaʼ Yabʼil",
+  "examples": [
+    {
+      "example_maya": "Täq kʼo nuyawaʼ, ninchajij",
+      "example_spa": "Cuando tengo enfermo lo cuido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nuyawaʼ eqal xkʼachoj el bʼaʼ chire ri itzel kʼatän xchapon richin",
+      "example_spa": "Mi enfermo ya está un poco aliviado de la fiebre que le atacó",
+      "dialect": null
+    }
+  ],
+  "uuid": "3c244c40-6f59-48d9-95c3-43e84df054b4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

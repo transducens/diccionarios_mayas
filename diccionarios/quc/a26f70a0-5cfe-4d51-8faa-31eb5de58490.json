@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qanalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xqaniʼk, xuqanabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentado, como persona gorda y perezosa (vulgar)",
+  "definitionDialect": "",
+  "additional_text": "p Var Qinilik Raíz P Qan",
+  "examples": [
+    {
+      "example_maya": "Li jun chom ixoq xaq qanalik, na kachakun taj",
+      "example_spa": "La mujer gorda se mantiene sentada, no trabaja",
+      "dialect": null
+    }
+  ],
+  "uuid": "a26f70a0-5cfe-4d51-8faa-31eb5de58490"
+}

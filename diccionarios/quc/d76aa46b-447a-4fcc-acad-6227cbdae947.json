@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wulixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwulij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Destruir; descomponer",
+  "definitionDialect": "",
+  "additional_text": "vtd Sinón Yoojik Raiz VT Wul",
+  "examples": [
+    {
+      "example_maya": "Kinwulij na li woʼch kinwok, chi jun kʼakʼ",
+      "example_spa": "Destruiré mi casa para construir una nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "d76aa46b-447a-4fcc-acad-6227cbdae947"
+}

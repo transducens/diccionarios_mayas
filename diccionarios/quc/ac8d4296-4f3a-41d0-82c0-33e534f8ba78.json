@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oʼqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cinco pulgadas",
+  "definitionDialect": "General",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Kʼa oʼqʼabʼ li ukem li ixoq ma ja kukʼisoh",
+      "example_spa": "A la mujer todavía le faltan cinco pulgadas para terminar el tejido",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac8d4296-4f3a-41d0-82c0-33e534f8ba78"
+}

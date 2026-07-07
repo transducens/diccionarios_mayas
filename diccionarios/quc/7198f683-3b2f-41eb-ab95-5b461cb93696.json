@@ -1,0 +1,19 @@
+{
+  "entryWord": "Akʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Niño, niña",
+  "definitionDialect": "",
+  "additional_text": "SaP SPL Akʼalaabʼ Niños (plural)",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xloqʼ jun retzʼabʼaʼl",
+      "example_spa": "Al niño le compraron un juguete",
+      "dialect": null
+    }
+  ],
+  "uuid": "7198f683-3b2f-41eb-ab95-5b461cb93696"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "LUGAAR",
+  "definition": "lugar",
+  "additional_text": "s1 nlugara del español lugar",
+  "examples": [
+    {
+      "example_maya": "Atlax tbʼi juʼn piẍ lugar twitz txʼotxʼ",
+      "example_spa": "En el mundo cada lugar tiene nombre",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e03dd4e7-8e79-4530-8ead-ec808e70a9f0",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

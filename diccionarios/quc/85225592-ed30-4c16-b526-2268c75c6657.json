@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ajqʼojom",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajqʼojom",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Marimbista",
+  "definitionDialect": "",
+  "additional_text": "SAgen SPL Ajqʼojomaabʼ Marimbistas Raíz S Qʼojoom",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼojomabʼ qʼaʼl aqʼabʼ xkitanabʼa qʼojomanik",
+      "example_spa": "Los marimbistas terminaron de tocar cerca de la media noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼojom sibʼalaj jeʼl kachʼawik",
+      "example_spa": "La marimba suena muy bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "85225592-ed30-4c16-b526-2268c75c6657"
+}

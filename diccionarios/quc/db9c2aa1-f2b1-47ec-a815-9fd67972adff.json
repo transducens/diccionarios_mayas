@@ -1,0 +1,19 @@
+{
+  "entryWord": "Loʼlotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaloʼlotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lepra Coment Carcomerse el cuerpo por infección de la piel",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Loʼ",
+  "examples": [
+    {
+      "example_maya": "Li yabʼil raxchʼaʼk xa kaloʼlotik kabʼek",
+      "example_spa": "La lepra siempre carcome el cuerpo",
+      "dialect": null
+    }
+  ],
+  "uuid": "db9c2aa1-f2b1-47ec-a815-9fd67972adff"
+}

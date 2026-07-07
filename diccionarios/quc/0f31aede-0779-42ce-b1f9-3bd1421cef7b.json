@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chojchoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sucia: cara por polvo",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Choj",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj chojchoj li upalaj",
+      "example_spa": "La cara del niño está muy sucia por el polvo",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f31aede-0779-42ce-b1f9-3bd1421cef7b"
+}

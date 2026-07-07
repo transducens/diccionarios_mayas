@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kej",
+  "definition": "Caballo, bestia",
+  "additional_text": "sInv Nukej Kowläj kej Mula Runaqʼ ruwa kej Castaño var Kowläj kej Awäj, chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri kej awäj kʼo kajiʼ raqän, ri rusamaj ri kej nreraj ejqan",
+      "example_spa": "El caballo es un animal doméstico que tiene cuatro patas, su trabajo es acarrear carga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nukej yalan nejqaʼn",
+      "example_spa": "Mi caballo carga bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "2cc8d70a-2cd1-419c-b3d6-a0a442a9f1a6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

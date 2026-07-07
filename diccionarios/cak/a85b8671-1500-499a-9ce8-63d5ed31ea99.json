@@ -1,0 +1,28 @@
+{
+  "entryWord": "Latzʼ",
+  "definition": "Estrecho, angosto",
+  "additional_text": "Adj Rulatzʼil (rulatzʼal), rulatzʼul xlatzʼär (xlatzʼubʼ) Ant Nim",
+  "examples": [
+    {
+      "example_maya": "Yalan latzʼ xel ri bʼey ke reʼ pa Syaʼ, (tzʼiyaʼ)",
+      "example_spa": "Muy estrecho salió el camino aquí por Patzicía",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ruwa wacho yalan rulatzʼul",
+      "example_spa": "Mi patio es muy reducido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun bʼëy yalan latzʼ, majun ütz ta xtikijäl kiʼ ri chʼichʼ",
+      "example_spa": "En un camino muy angosto, no pueden cruzarse los carros",
+      "dialect": null
+    }
+  ],
+  "uuid": "a85b8671-1500-499a-9ce8-63d5ed31ea99",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

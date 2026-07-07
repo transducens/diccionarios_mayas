@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matatexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmatatej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer muchas hierbas o verduras tiernas los animales; crujir los dientes las personas",
+  "definitionDialect": "",
+  "additional_text": "vID Raíz VT Mat",
+  "examples": [
+    {
+      "example_maya": "Li kej xumatatej uxaq li abʼix che li uwareh",
+      "example_spa": "El caballo se comió las hojas de la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "b7d47fdc-d1d0-4473-9d0a-e4ed35a060de"
+}

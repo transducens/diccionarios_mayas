@@ -1,0 +1,34 @@
+{
+  "entryWord": "Kʼoxol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brujo en el baile de la conquista",
+  "definitionDialect": "",
+  "additional_text": "N DomS Ajxojolobʼ",
+  "examples": [
+    {
+      "example_maya": "Coment Li kʼoxol jun nimalaj ajqʼij rech ri Qʼatal tzij kʼicheʼ, jun xtobʼan pa ri chʼaʼoj, xubʼan kotzʼiʼj che ma na xkowin taj",
+      "example_spa": "Coment Este personaje fue un gran ajqʼiij (sacerdote) en el reino Quiché, ayudó en la guerra, quemó copal, pero fracasó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼoxol pa konkist, kaq li ratzʼyaq",
+      "example_spa": "El Ajqʼiij en el baile de la conquista, tiene vestido rojo",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Nabʼe kʼoxol, nima kʼoxol",
+      "example_spa": "Ajqʼiij grande en el baile",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Ukabʼ kʼoxol, alaj kʼoxol",
+      "example_spa": "Ajqʼiij pequeño, ayudante del ajqʼiij",
+      "dialect": null
+    }
+  ],
+  "uuid": "56e6b40e-873e-40fc-8bdc-307ec381c894"
+}

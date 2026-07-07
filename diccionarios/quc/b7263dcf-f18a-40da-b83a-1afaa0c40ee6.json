@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xikʼabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Uña grande que tienen los perros cazadores en las patas delanteras",
+  "definitionDialect": "",
+  "additional_text": "scv Uxikʼabʼaal",
+  "examples": [
+    {
+      "example_maya": "Li tzukunel tzʼiʼ are kakʼutuw li uxikʼabʼal",
+      "example_spa": "El perro cazador se identifica por las uñas",
+      "dialect": null
+    }
+  ],
+  "uuid": "b7263dcf-f18a-40da-b83a-1afaa0c40ee6"
+}

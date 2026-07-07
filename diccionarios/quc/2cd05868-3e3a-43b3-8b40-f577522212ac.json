@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wiqabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwiqabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Faja que sostiene el telar en la cintura de la tejedora",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Tzʼuʼuum",
+  "examples": [
+    {
+      "example_maya": "Li wiqabʼ xuloqʼ li al Leʼn xkʼoqopijik",
+      "example_spa": "El cinturon que compró Elena ya se rompió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo kebʼ uwach chi wiqabʼ kʼo tzʼuʼum xuq kʼo xa kʼaʼam",
+      "example_spa": "Hay dos clases de fajas para tejer: de cuero y de pita",
+      "dialect": null
+    }
+  ],
+  "uuid": "2cd05868-3e3a-43b3-8b40-f577522212ac"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzaminem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzaminik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomar trago",
+  "definitionDialect": "",
+  "additional_text": "vt Sinón Kinkʼoʼxanik Raiz S Tzam",
+  "examples": [
+    {
+      "example_maya": "Li achih, amaqʼel katzamin pa taq nimaqʼij",
+      "example_spa": "El hombre siempre toma aguardiente en las fiestas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6205e19-70e7-43fe-9a97-d3c0318505a1"
+}

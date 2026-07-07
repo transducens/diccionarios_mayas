@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼachaleʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinbʼachaleʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pisotear",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raiz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Li alah xubʼachaleʼj li xujut che li raqan",
+      "example_spa": "El muchacho pisoteó al gusano con los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc905f74-3aaf-4079-af78-d7c867a4efe5"
+}

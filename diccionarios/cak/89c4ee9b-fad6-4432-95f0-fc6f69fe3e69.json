@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tukun",
+  "definition": "Escarbar las aves para buscar comida",
+  "additional_text": "vi Nitukun",
+  "examples": [
+    {
+      "example_maya": "Ri äkʼ yalan yetukun pa täq awän",
+      "example_spa": "Las gallinas escarban mucho en la milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chuqa ri xikʼalik täq chikop yetukun xe täq cheʼ",
+      "example_spa": "Los pájaros tambien escarban debajo de los montes",
+      "dialect": null
+    }
+  ],
+  "uuid": "89c4ee9b-fad6-4432-95f0-fc6f69fe3e69",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

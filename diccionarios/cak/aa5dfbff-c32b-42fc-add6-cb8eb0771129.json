@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pa saqʼij",
+  "definition": "Verano",
+  "additional_text": "advt Ant Pa jöbʼ",
+  "examples": [
+    {
+      "example_maya": "Pa saqʼij, ja chi riʼ taq yalan kʼatän chi re ri junaʼ",
+      "example_spa": "Verano es la época más calurosa del año",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pa saqʼij ma jun kan ta tikoʼn",
+      "example_spa": "En verano casi no hay cultivos",
+      "dialect": null
+    }
+  ],
+  "uuid": "aa5dfbff-c32b-42fc-add6-cb8eb0771129",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

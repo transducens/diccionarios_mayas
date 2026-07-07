@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qetetbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Huellas de cosa arrastrada",
+  "definitionDialect": "",
+  "additional_text": "ssp Uqetetbʼal Raíz VT Qet",
+  "examples": [
+    {
+      "example_maya": "Li kumatz kʼo kan li uqetetbal pa li bʼeh",
+      "example_spa": "La culebra dejó marcadas sus huellas en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ccd14d4-4231-48c9-b599-3d8e453e369c"
+}

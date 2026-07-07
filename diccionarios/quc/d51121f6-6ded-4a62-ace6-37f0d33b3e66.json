@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaybʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼaybʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mercado; plaza",
+  "definitionDialect": "",
+  "additional_text": "scv Fbas //Kʼayibʼal// Raíz S Kʼaay",
+  "examples": [
+    {
+      "example_maya": "Pa li kʼaybʼal kʼi uwach chi jastaq kakʼayixik",
+      "example_spa": "En el mercado se venden varias clases de cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "d51121f6-6ded-4a62-ace6-37f0d33b3e66"
+}

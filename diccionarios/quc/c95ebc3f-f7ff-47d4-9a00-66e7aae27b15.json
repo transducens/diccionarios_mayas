@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yupupexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyupupej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cerrar con fuerza los ojos",
+  "definitionDialect": "general",
+  "additional_text": "VTD Raíz P Yup",
+  "examples": [
+    {
+      "example_maya": "Are taq xinwaʼlijik sibʼalaj xinyupupej li nuwach chwa li qʼij",
+      "example_spa": "Cuando me levanté cerré con fuerza los ojos por el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "c95ebc3f-f7ff-47d4-9a00-66e7aae27b15"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xtuʼxil",
+  "entryWordDialect": null,
+  "altEntryWord": "Wixtuʼxil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Talón; calcañar",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Xinsok li wixtuʼxil cheh junabʼaj",
+      "example_spa": "Me lastimé el talón con una piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "a070a70e-26d1-4d5f-af5c-69d37ddd1950"
+}

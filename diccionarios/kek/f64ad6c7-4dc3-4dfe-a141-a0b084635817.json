@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chanchan",
+  "definition": "Parecido, semejante",
+  "additional_text": "Adj Xchanchanoʼ, xchanchanil Sinón kamaʼ",
+  "examples": [
+    {
+      "example_maya": "Li kʼuulaʼal chanchan awiʼ na ilokli xyuwaʼ",
+      "example_spa": "El niño es parecido a su papá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chanchanaqin",
+      "example_spa": "Seré parecido a",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chanchanin",
+      "example_spa": "Soy parecido a",
+      "dialect": null
+    }
+  ],
+  "uuid": "f64ad6c7-4dc3-4dfe-a141-a0b084635817",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

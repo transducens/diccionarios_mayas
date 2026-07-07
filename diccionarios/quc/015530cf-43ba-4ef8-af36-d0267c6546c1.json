@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sala maxan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maxan de dorso blanco (se usa para envolver cosas crudas y no para tamales)",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li sala maxan xaq xew\" kachokon cheh uwi taq jah pa taqʼaj",
+      "example_spa": "El maxan sólo se usa para techos de casas en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "015530cf-43ba-4ef8-af36-d0267c6546c1"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morral",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchiim ssp Chimaal Morral especial para algo vT Chimaxik Poner algo en morral F Jun chim Un morral de sds Uchimal kʼarkʼar Morralito que sostiene el cabo de la matraca scl Ajqʼabʼ chiim Red pequeña en la cual ponen las mazorcas al tapiscarlas DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li uchim li Andres piʼn",
+      "example_spa": "El morral de Andrés es negro y blanco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun chim taraʼs kʼo pa kʼayʼ bʼal",
+      "example_spa": "En el mercado hay un morral de duraznos",
+      "dialect": null
+    }
+  ],
+  "uuid": "0556a6b2-b362-4d20-a22e-f78f709db195"
+}

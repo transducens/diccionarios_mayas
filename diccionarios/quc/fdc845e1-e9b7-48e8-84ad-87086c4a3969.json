@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nan",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunan (nnan)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Madre; mamá; señora; doña",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li nan kukem katzʼyaq li ral",
+      "example_spa": "La mamá teje la ropa de sus hijos",
+      "dialect": null
+    }
+  ],
+  "uuid": "fdc845e1-e9b7-48e8-84ad-87086c4a3969"
+}

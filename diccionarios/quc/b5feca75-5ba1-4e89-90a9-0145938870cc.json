@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jechʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Torcido; disparejo",
+  "definitionDialect": "",
+  "additional_text": "Adj Uxjechʼarik (xjechʼiʼk) Var Jechʼelik",
+  "examples": [
+    {
+      "example_maya": "Li jun chakitebʼ jechʼ",
+      "example_spa": "La mesa está torcida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jah xubʼan jechʼ rumal li kebʼraqan",
+      "example_spa": "La casa quedó torcida por el temblor",
+      "dialect": null
+    }
+  ],
+  "uuid": "b5feca75-5ba1-4e89-90a9-0145938870cc"
+}

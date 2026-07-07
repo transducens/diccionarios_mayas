@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rikanil qʼumaʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gorgojo de palo",
+  "definitionDialect": "es",
+  "additional_text": "sds Raíz S Ikaan Qʼum DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li rikanil qʼumaʼr saq kekaʼyik",
+      "example_spa": "El gorgojo de palo es de color blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "08cefb02-86e2-48e3-a543-d6bee852307a"
+}

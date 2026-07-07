@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empachado, lleno",
+  "definitionDialect": "general",
+  "additional_text": "sP Raíz S Xiibʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xumaj xibʼ, ma sibʼalaj xwaʼik",
+      "example_spa": "El niño se empachó, porque comió mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "c03bcefa-8620-458c-af7b-9b8925f83622"
+}

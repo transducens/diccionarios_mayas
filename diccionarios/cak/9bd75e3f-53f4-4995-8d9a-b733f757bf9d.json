@@ -1,0 +1,28 @@
+{
+  "entryWord": "Bʼojoʼy",
+  "definition": "Olla grande de barro",
+  "additional_text": "sInv Nubʼojoʼy var Chiroʼy Bʼojoʼy, ulew, kʼojlibʼäl, chʼichʼ",
+  "examples": [
+    {
+      "example_maya": "Pa täq juyuʼ yalan nukisäx ri bʼojoʼy chi nibʼan tzʼoʼ chupan",
+      "example_spa": "En las aldeas se usa mucho la olla para hacer nixtamal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri bʼojoʼy qʼanaʼulew okinäq chi re",
+      "example_spa": "La olla es hecha de barro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri bʼojoʼy nikʼatzin richin nichaqaʼrsäx ronojel ruwäch qʼutuʼn",
+      "example_spa": "La olla sirve para cocer cualquier clase de comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "9bd75e3f-53f4-4995-8d9a-b733f757bf9d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

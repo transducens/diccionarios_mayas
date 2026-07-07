@@ -1,0 +1,34 @@
+{
+  "entryWord": "Tikarem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poder; lograr; tener motivo; comenzar; principiar; tener creatividad",
+  "definitionDialect": "general",
+  "additional_text": "vi Kintiikarik Raíz VI Tik",
+  "examples": [
+    {
+      "example_maya": "Xtikar chubʼanik",
+      "example_spa": "Lo pudo hacer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintikar cheh tzʼibʼ",
+      "example_spa": "Puedo escribir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtikar cheh sin uchak",
+      "example_spa": "Logró el trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jas kattikar chweh, cher\" kinayajoh?",
+      "example_spa": "¿Por qué motivo me estás regañando?",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea22db6a-a4a0-4adf-ab4a-a8922d3055b7"
+}

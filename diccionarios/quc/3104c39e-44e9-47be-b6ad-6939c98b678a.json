@@ -1,0 +1,24 @@
+{
+  "entryWord": "Silkopixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Voltear; dar vuelta",
+  "definitionDialect": "",
+  "additional_text": "vrs Kinsilkopiij Raíz VT Sil",
+  "examples": [
+    {
+      "example_maya": "Li kunanel silkopixik kubʼan cheh li yowabʼ pa li chʼat",
+      "example_spa": "El enfermero le da vuelta al enfermo en la cama",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xusilkopij li lij pa li xot",
+      "example_spa": "La mujer volteó la tortilla en el comal",
+      "dialect": null
+    }
+  ],
+  "uuid": "3104c39e-44e9-47be-b6ad-6939c98b678a"
+}

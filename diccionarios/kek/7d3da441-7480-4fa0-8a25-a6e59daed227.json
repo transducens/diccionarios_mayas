@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼaptzʼo",
+  "definition": "Cerrado, tapado",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Tzʼaptzʼo li kʼayibʼaal chʼiich joʼkan naq inkʼaʼ xinloqʼ li kʼaru we",
+      "example_spa": "La ferretería está cerrada por eso no compré mis cosas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li poopol aʼan tzʼaptzʼo xbʼaan naq xraqik xamaan anaqwan",
+      "example_spa": "La municipalidad está cerrada porque hoy es fin de semana",
+      "dialect": null
+    }
+  ],
+  "uuid": "7d3da441-7480-4fa0-8a25-a6e59daed227",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

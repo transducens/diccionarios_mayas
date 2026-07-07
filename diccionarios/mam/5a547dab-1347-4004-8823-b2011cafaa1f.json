@@ -1,0 +1,23 @@
+{
+  "entryWord": "IQATZ",
+  "definition": "1 carga 2 cargo",
+  "additional_text": "s1b wiqatza frases: twiʼ kʼalbʼil iqatz cerro el amarracargas raíz iq",
+  "examples": [
+    {
+      "example_maya": "Aal tiqatz saj tiʼn",
+      "example_spa": "La carga que trajo es muy pesada",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "At jun tiqatz ma txiʼ tiʼn tuj jusgad",
+      "example_spa": "Llevó un cargo en la municipalidad",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5a547dab-1347-4004-8823-b2011cafaa1f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

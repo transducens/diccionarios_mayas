@@ -1,0 +1,24 @@
+{
+  "entryWord": "Lewelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bocón: trasto no hondo; grande: escudilla",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Lew",
+  "examples": [
+    {
+      "example_maya": "Li jun laq sibʼalaj jun lewelik",
+      "example_spa": "La escudilla es muy grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Lewelik uxe reh",
+      "example_spa": "Siempre llora",
+      "dialect": null
+    }
+  ],
+  "uuid": "52aa42c0-073d-4534-889a-e03c9fd5c452"
+}

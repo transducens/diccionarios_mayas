@@ -1,0 +1,18 @@
+{
+  "entryWord": "XTUPL",
+  "definition": "callada: persona",
+  "additional_text": "(tupl) p ma kubʼ xtupeʼ véase tupl",
+  "examples": [
+    {
+      "example_maya": "Ma kubʼ xtupeʼ xjal tuʼn tqʼoj",
+      "example_spa": "La persona estuvo callada por su enojo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "cc4f9742-f57a-4b3d-b92d-09160cfddc60",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sipanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regalo",
+  "definitionDialect": "",
+  "additional_text": "scv Fbas //Sihp//",
+  "examples": [
+    {
+      "example_maya": "Li qakʼaslemal jun usipanik ri Qajawal",
+      "example_spa": "Nuestra vida es un regalo de Dios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sipanik xa jun naʼtabʼal",
+      "example_spa": "El regalo es un recuerdo",
+      "dialect": null
+    }
+  ],
+  "uuid": "171f52ed-3454-4e60-955e-2fa0d77d1d51"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Achikʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwachikʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Kinwachikʼik",
+  "altEntryWordDialect2": null,
+  "definition": "Soñar",
+  "definitionDialect": "General",
+  "additional_text": "vTD vi Raíz S Achikʼ",
+  "examples": [
+    {
+      "example_maya": "Xwachikʼaj iwir chi xatkamik",
+      "example_spa": "Ayer soñé que te habías muerto",
+      "dialect": null
+    }
+  ],
+  "uuid": "2e3b25f4-e555-410a-99dc-b393824bba81"
+}

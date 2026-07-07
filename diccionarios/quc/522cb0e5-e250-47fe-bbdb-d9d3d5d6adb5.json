@@ -1,0 +1,19 @@
+{
+  "entryWord": "Loqʼoʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carestía de maíz",
+  "definitionDialect": "General",
+  "additional_text": "sv",
+  "examples": [
+    {
+      "example_maya": "Li achih, xuchap loqʼoʼm, ma xuriq ta xkʼis li rixim",
+      "example_spa": "El hombre empezó a comprar maíz por la carestía",
+      "dialect": null
+    }
+  ],
+  "uuid": "522cb0e5-e250-47fe-bbdb-d9d3d5d6adb5"
+}

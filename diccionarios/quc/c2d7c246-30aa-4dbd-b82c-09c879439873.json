@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tasbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Venda; colchoncito para carga",
+  "definitionDialect": "",
+  "additional_text": "scv Nutasbʼaal Var Peʼch Raíz PT Tas",
+  "examples": [
+    {
+      "example_maya": "Oknaq jun tasbʼal cheh li uqʼabʼ ma xa usokom",
+      "example_spa": "Le han puesto una venda en la mano porque la tiene herida",
+      "dialect": null
+    }
+  ],
+  "uuid": "c2d7c246-30aa-4dbd-b82c-09c879439873"
+}

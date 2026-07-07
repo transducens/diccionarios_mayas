@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼabʼakʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abierta: forma de boca de culebra o lagartos",
+  "definitionDialect": "",
+  "additional_text": "Adj F",
+  "examples": [
+    {
+      "example_maya": "Li jun kumatz, kʼabʼakʼik ubʼanom che li upuchiʼ",
+      "example_spa": "La culebra tiene la boca abierta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼabʼakʼik uxe re",
+      "example_spa": "Guanaco, embobado",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee6f9384-6a86-4bed-bcb4-60183a8114e6"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "PRIIMX",
+  "definition": "muy temprano, muy de madrugada",
+  "additional_text": "pat del español prima",
+  "examples": [
+    {
+      "example_maya": "Primx ma tzul qanal tiʼj qʼapoj",
+      "example_spa": "Muy temprano llegó a pedir a la muchacha",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "63e3a561-0ced-4dc7-87ff-d2db875c2fad",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

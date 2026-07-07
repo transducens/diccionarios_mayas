@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qitzʼilajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rechinar varias veces",
+  "definitionDialect": "General",
+  "additional_text": "vı Kaqitzʼilajik Raiz VI Qitzʼ",
+  "examples": [
+    {
+      "example_maya": "Li uchi jah kaqitzʼilajik, ma xa kaslabʼaxik",
+      "example_spa": "La puerta está rechinando porque alguien la está moviendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d2a3ba67-ca09-4b68-b0a3-6d473bab453f"
+}

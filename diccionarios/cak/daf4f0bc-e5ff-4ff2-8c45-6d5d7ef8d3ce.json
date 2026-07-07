@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chiʼaj",
+  "definition": "Labio, boca, orilla, borde Boca y labio para personas y animales, orilla sólo para cosas",
+  "additional_text": "sps Nuchiʼ Chiʼ Chʼakulal",
+  "examples": [
+    {
+      "example_maya": "Ri nuchiʼ yalan rujerloʼn riʼ(nirejroʼx) (ruma) ri tew",
+      "example_spa": "Mis labios están muy rajados por el frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ronojel ruchi ri wulew nuchʼajchʼojirisan",
+      "example_spa": "Tengo limpias todas las orillas de mi terreno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpax el ruchiʼ ri nubʼojoʼy",
+      "example_spa": "Se quebró la orilla de mi olla",
+      "dialect": null
+    }
+  ],
+  "uuid": "daf4f0bc-e5ff-4ff2-8c45-6d5d7ef8d3ce",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

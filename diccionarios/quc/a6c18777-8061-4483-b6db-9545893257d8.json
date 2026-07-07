@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taweʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Xolco: que no tiene dientes o trasto que le falta un pedazo en la boca",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li sin boʼj xa taweʼl li sin uchiʼ",
+      "example_spa": "La boca del trasto no está completa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6c18777-8061-4483-b6db-9545893257d8"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mem",
+  "entryWordDialect": null,
+  "altEntryWord": "Umemul (umemal)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xmemarik",
+  "altEntryWordDialect2": null,
+  "definition": "Mudo",
+  "definitionDialect": "",
+  "additional_text": "Adj //Mehm//",
+  "examples": [
+    {
+      "example_maya": "Li mem xa kukʼut che uqʼabʼ jasa karaj",
+      "example_spa": "El mudo hace señas con las manos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah xa mem che ma kutoh kachʼabʼexik",
+      "example_spa": "El muchacho es mudo, pero oye cuando le hablan",
+      "dialect": null
+    }
+  ],
+  "uuid": "7aa89b54-32b7-462a-90f3-ca82630d73e0"
+}

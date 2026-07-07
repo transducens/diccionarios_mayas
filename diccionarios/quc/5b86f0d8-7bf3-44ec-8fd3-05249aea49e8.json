@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqʼip",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una quebrada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qʼip",
+  "examples": [
+    {
+      "example_maya": "Li alih xaq juqʼip xuya che li jun cheʼ xqʼipik",
+      "example_spa": "La muchacha le dio una quebrada al palo y se partió",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b86f0d8-7bf3-44ec-8fd3-05249aea49e8"
+}

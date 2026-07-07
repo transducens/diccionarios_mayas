@@ -1,0 +1,18 @@
+{
+  "entryWord": "TQAL",
+  "definition": "¿qué?",
+  "additional_text": "pi raíz ti par",
+  "examples": [
+    {
+      "example_maya": "¿Tqal xkubʼ kyqʼoʼn atzaluʼ makyʼ?",
+      "example_spa": "¿Qué fue lo que pusieron aquí desdihoy?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "06ae93a4-e632-4300-b660-17d456e00549",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

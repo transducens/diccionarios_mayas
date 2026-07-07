@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sip",
+  "definition": "Garrapata",
+  "additional_text": "sInv Nusip chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri sip yalan nikʼujeʼ ri chuchi taq raqän yaʼ, ri pa taq meqʼmöj ulew",
+      "example_spa": "La garrapata vive mucho en las orillas de los ríos de la costa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wakx yepe pa täq taqʼaj kʼo sibʼiläj sip chi kij",
+      "example_spa": "Los bueyes que vienen de la costa tienen muchas garrapatas",
+      "dialect": null
+    }
+  ],
+  "uuid": "1e9ce1b0-0284-4425-a8f8-4b992f2f1034",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

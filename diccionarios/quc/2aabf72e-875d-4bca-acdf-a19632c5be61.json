@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kajmaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cumplir; sostener con alimentación a alguna persona; servir comida; hacer siempre alguna cosa; acostumbrar, hacer algo",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinkajmaaj SAgen Kajmaneel Mozo",
+  "examples": [
+    {
+      "example_maya": "Kinkajmaj na li yawabʼ che uwa",
+      "example_spa": "Voy a servirle la comida al enfermo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinkajmaj na li nunan ma xa malkaʼn chik",
+      "example_spa": "Voy a sostener a mi mamá porque está viuda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Amaqʼel kinkajmaj utijowik kapeh",
+      "example_spa": "Siempre acostumbro tomar café",
+      "dialect": null
+    }
+  ],
+  "uuid": "2aabf72e-875d-4bca-acdf-a19632c5be61"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pichipik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rollizo",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Pitzipik Raíz P Pich",
+  "examples": [
+    {
+      "example_maya": "Li tren kʼo jun pichipik chʼichʼ pwiʼ kel sibʼ chpam",
+      "example_spa": "El tren tiene un tubo rollizo por donde sale el humo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a74dda50-12b3-407f-93e0-1be0c7ebbf1b"
+}

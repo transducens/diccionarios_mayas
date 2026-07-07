@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaʼl qʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tiempo de las diez de la mañana para las once y media",
+  "definitionDialect": "",
+  "additional_text": "ps Raiz P Qʼaʼ Raiz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Kamik kinopan pa taq qʼaʼl qʼij",
+      "example_spa": "Hoy llego de diez a once de la mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a165d93-8d68-4473-a2b8-114a188c12ef"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mojkolixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmojkolij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Envolver en papel o en hojas; celebrar segunda ceremonia de casamiento",
+  "definitionDialect": "",
+  "additional_text": "VTD",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kumojkolij na li akitamal xuq li subʼ pa qʼanaqʼ",
+      "example_spa": "La mujer va a envolver los chuchitos y los tamalitos en hojas de canaque",
+      "dialect": null
+    }
+  ],
+  "uuid": "17bd6877-17d8-4560-bfd8-519be406a12b"
+}

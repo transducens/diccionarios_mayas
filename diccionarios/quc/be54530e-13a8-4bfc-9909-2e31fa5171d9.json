@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jupaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Almud (medida de doce libras, o sea media arroba); un consejo",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Ri jupaj, kabʼlajuj libr\" kʼo chpam",
+      "example_spa": "Un almud tiene doce libras",
+      "dialect": null
+    }
+  ],
+  "uuid": "be54530e-13a8-4bfc-9909-2e31fa5171d9"
+}

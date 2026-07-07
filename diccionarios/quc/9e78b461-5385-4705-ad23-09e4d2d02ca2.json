@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼajolabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼajolabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hijastro",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li achih, na qas ta ukʼajol li alah, xa ukʼajolabʼal",
+      "example_spa": "El muchacho es hijastro del hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e78b461-5385-4705-ad23-09e4d2d02ca2"
+}

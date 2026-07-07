@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaslim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vela; desvelo",
+  "definitionDialect": "General",
+  "additional_text": "SnP",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ kebʼ aqʼabʼ kʼaslim xkibʼan rukʼ li yawabʼ",
+      "example_spa": "Los hombres velaron dos noches al enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "57d01cd9-cd08-449b-b5a0-ac5f8b332b5f"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaqaʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukʼaqaʼtil,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xkʼaqaʼtirik",
+  "altEntryWordDialect2": null,
+  "definition": "Listo, mañoso",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li jun alah sibʼalaj kʼaqaʼt chubʼanik qʼojom",
+      "example_spa": "El muchacho es muy listo para tocar marimba",
+      "dialect": null
+    }
+  ],
+  "uuid": "c976e5c2-31ae-4fa5-a2c7-fbaef6390949"
+}

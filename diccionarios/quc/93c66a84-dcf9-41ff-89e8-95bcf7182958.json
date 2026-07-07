@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pixanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpixanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ser llorón",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz S Pix",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq kapixanik ma xa na reqelem ta chi li unan",
+      "example_spa": "El niño está llorón porque su mamá está embarazada",
+      "dialect": null
+    }
+  ],
+  "uuid": "93c66a84-dcf9-41ff-89e8-95bcf7182958"
+}

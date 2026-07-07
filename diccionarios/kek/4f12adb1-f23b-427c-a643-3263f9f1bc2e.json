@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼinank chʼool",
+  "definition": "Arrepentirse, cambiar de opinión",
+  "additional_text": "VIS Xchʼinan inchʼool",
+  "examples": [
+    {
+      "example_maya": "Xchʼinan inchʼool chi xloqʼbʼal li chʼochʼ aʼin",
+      "example_spa": "Me arrepentí de haber comprado este terreno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ junpaat xchʼinan inchʼool chi xik saʼ li chʼutam hoon",
+      "example_spa": "Rápidamente me arrepentí, de ir a la reunión de hoy",
+      "dialect": null
+    }
+  ],
+  "uuid": "4f12adb1-f23b-427c-a643-3263f9f1bc2e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

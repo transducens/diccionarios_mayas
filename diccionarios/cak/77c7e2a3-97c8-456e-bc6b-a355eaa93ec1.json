@@ -1,0 +1,53 @@
+{
+  "entryWord": "Ja (jaʼ)",
+  "definition": "Sí, partícula de afirmación relativa",
+  "additional_text": "Par",
+  "examples": [
+    {
+      "example_maya": "Ma ja ta kʼa rijaʼ xbʼanon chaʼ",
+      "example_spa": "Y dicen que no fue él quien lo hizo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja yin ri xisikʼon richin pa bʼey",
+      "example_spa": "Fui yo quien lo recogió en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja ri riʼ",
+      "example_spa": "Eso mismo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja na kʼa",
+      "example_spa": "Sí pues",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja kʼa riʼ",
+      "example_spa": "Así es, eso es",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja ni",
+      "example_spa": "Pues eso Todavía no",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja kʼa",
+      "example_spa": "A lo mejor, debe ser",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja yin",
+      "example_spa": "Ser (soy yo)",
+      "dialect": null
+    }
+  ],
+  "uuid": "77c7e2a3-97c8-456e-bc6b-a355eaa93ec1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

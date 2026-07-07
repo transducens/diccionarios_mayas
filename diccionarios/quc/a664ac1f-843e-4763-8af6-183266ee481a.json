@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alaj",
+  "entryWordDialect": null,
+  "altEntryWord": "(laj)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ralajiil Pequeño",
+  "definitionDialect": "SCL",
+  "additional_text": "Adj Alaj waakax Ternero F Pa ralajiil Desde su pequeñez",
+  "examples": [
+    {
+      "example_maya": "Li alaj tzʼiʼ xkam rumal tew",
+      "example_spa": "El perro pequeño se murió de frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "a664ac1f-843e-4763-8af6-183266ee481a"
+}

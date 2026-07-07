@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼayeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Podrido",
+  "definitionDialect": "es",
+  "additional_text": "Adj Raíz VT Qʼay",
+  "examples": [
+    {
+      "example_maya": "Li oj qʼayeʼl chik",
+      "example_spa": "Los aguacates ya están podridos",
+      "dialect": null
+    }
+  ],
+  "uuid": "52cd9467-321a-4a64-9214-c6669ad8b5ed"
+}

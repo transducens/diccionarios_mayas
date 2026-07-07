@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼeʼr",
+  "entryWordDialect": null,
+  "altEntryWord": "Uchʼeʼral,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xchʼeʼrobʼik",
+  "altEntryWordDialect2": null,
+  "definition": "Llorón; chillón; voz aguda",
+  "definitionDialect": "K'iche'",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li neʼ na kawar taj, xa sibʼalaj jun chʼeʼr",
+      "example_spa": "El nene está muy llorón y no se duerme",
+      "dialect": null
+    }
+  ],
+  "uuid": "a0cbb89c-fdec-4031-b932-5b0f888777d5"
+}

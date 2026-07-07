@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kaʼch",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaʼch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Oficio predilecto; cosa preferida; costumbre, gusto",
+  "definitionDialect": "",
+  "additional_text": "sinv s Ajkaʼch Ladrón",
+  "examples": [
+    {
+      "example_maya": "Li nurija sibʼalaj ukaʼch relaqʼaxik akʼ",
+      "example_spa": "Mi vecina tiene la costumbre de robar gallinas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ukaʼch etzʼanem",
+      "example_spa": "Su gusto es jugar",
+      "dialect": null
+    }
+  ],
+  "uuid": "7874d340-b692-4f06-a0e7-3c5e653e99f6"
+}

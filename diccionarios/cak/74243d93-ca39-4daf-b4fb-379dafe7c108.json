@@ -1,0 +1,28 @@
+{
+  "entryWord": "Aqʼaʼ",
+  "definition": "Noche",
+  "additional_text": "sInv Waqʼaʼ Toqʼaʼ, tokaqʼaʼ Anoche",
+  "examples": [
+    {
+      "example_maya": "Aqʼaʼ chaqʼaʼ nixubʼan ri xochʼ",
+      "example_spa": "Noche tras noche silva la lechuza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ronojel aqʼaʼ, ri winäq yeʼuxlan",
+      "example_spa": "Todas las noches descansan las personas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Oxi aqʼaʼ xiwär pa juyuʼ",
+      "example_spa": "Tres noches dormí en el monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "74243d93-ca39-4daf-b4fb-379dafe7c108",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

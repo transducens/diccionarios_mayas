@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Remolino de pelo; coronilla",
+  "definitionDialect": "",
+  "additional_text": "sInv Nusuut Raíz S Sut DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Qonojel kʼo qasut",
+      "example_spa": "Todos tenemos remolino de pelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kabʼixik we kʼo kebʼ usut jun winaq, sibʼalaj kʼaʼn",
+      "example_spa": "Dicen que si uno tiene dos remolinos de pelo, es muy enojado",
+      "dialect": null
+    }
+  ],
+  "uuid": "a732d9c8-da2a-4279-aa0a-5fa3006e223f"
+}

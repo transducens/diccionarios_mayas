@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waynajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alarido; ladrar el perro cuando está amarrado",
+  "definitionDialect": "",
+  "additional_text": "vi Kawaynajik Raíz Vl Way",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xaq kawaynajik, ma xa ximitalik",
+      "example_spa": "El perro está ladrando a cada rato porque está amarrado",
+      "dialect": null
+    }
+  ],
+  "uuid": "7e63e81b-4d1f-4cff-8574-13e5f9ba3af8"
+}

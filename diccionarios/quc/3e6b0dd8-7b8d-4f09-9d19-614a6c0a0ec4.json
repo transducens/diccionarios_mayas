@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bravo; valiente",
+  "definitionDialect": "Español",
+  "additional_text": "Adj Ukʼaʼnaal",
+  "examples": [
+    {
+      "example_maya": "Li ajchak sibʼalaj xkʼaʼnarik, ma xa xyajik",
+      "example_spa": "El trabajador se puso bien bravo porque lo regañaron",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e6b0dd8-7b8d-4f09-9d19-614a6c0a0ec4"
+}

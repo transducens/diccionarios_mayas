@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rabʼmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karabʼmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse cosa que se lleva puesta y colgando",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz P Rabʼ",
+  "examples": [
+    {
+      "example_maya": "Xaq karabʼmaʼy li ratzʼyaq li achih ma xa chʼaqalik",
+      "example_spa": "El hombre lleva puesto un pantalón mojado",
+      "dialect": null
+    }
+  ],
+  "uuid": "218c95ea-12e3-478f-8a02-fbe77a1dcdcf"
+}

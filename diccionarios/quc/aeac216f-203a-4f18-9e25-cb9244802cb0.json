@@ -1,0 +1,34 @@
+{
+  "entryWord": "Bʼaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hueso, aguja, anzuelo; mi hueso",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼaaq SCL Bʼaq jolomaaj Calavera SDS Upa bʼaaq Tuétano SCL Iyomibʼal bʼaaq Aguja que usan las comadronas Vv Tʼisoʼmbʼal bʼaaq",
+  "examples": [
+    {
+      "example_maya": "Li ubʼaqil jun winaq kʼi bʼaq ukʼaʼnnaq",
+      "example_spa": "El cuerpo de una persona está formado de varios huesos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼaq kachokon che tʼisoʼmanik",
+      "example_spa": "La aguja sirve para coser",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼaq kachokon che chapbʼal kar",
+      "example_spa": "El anzuelo se usa para pescar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li kompesant kʼi bʼaq kʼolik",
+      "example_spa": "En el cementerio hay muchos huesos de muerto",
+      "dialect": null
+    }
+  ],
+  "uuid": "aeac216f-203a-4f18-9e25-cb9244802cb0"
+}

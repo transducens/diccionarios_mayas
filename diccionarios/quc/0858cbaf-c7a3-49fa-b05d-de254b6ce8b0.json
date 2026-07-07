@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yowajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Yawajem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enfermarse; dar a luz",
+  "definitionDialect": "",
+  "additional_text": "vi Kinyowajik Raíz VI Yow",
+  "examples": [
+    {
+      "example_maya": "Pa li alanem sibʼalaj kʼax yowajem",
+      "example_spa": "Los dolores de parto son muy fuertes",
+      "dialect": null
+    }
+  ],
+  "uuid": "0858cbaf-c7a3-49fa-b05d-de254b6ce8b0"
+}

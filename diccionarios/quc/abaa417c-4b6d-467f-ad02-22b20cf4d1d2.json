@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rochorotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karochorotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar seguido; rascar seguido",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz PT Roch",
+  "examples": [
+    {
+      "example_maya": "Li alah tajin karochorot cheh chʼaʼk",
+      "example_spa": "El niño se está rascando seguido el grano",
+      "dialect": null
+    }
+  ],
+  "uuid": "abaa417c-4b6d-467f-ad02-22b20cf4d1d2"
+}

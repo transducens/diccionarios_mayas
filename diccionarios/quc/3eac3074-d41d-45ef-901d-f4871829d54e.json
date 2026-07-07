@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼokixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tejer fino o apretado; amasar; apelmazar; amalgamar, heñir; llenar mucho y ordenado, como un troje con maíz",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintʼokij vt Tʼokokexik Apelmazar mucho Raíz VT Tʼok",
+  "examples": [
+    {
+      "example_maya": "Li alih koh xutʼokij li ukem",
+      "example_spa": "La muchacha, hizo muy fino su tejido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Siʼs xutʼokokʼej li upa li erah",
+      "example_spa": "Francisco apelmazó mucho la era",
+      "dialect": null
+    }
+  ],
+  "uuid": "3eac3074-d41d-45ef-901d-f4871829d54e"
+}

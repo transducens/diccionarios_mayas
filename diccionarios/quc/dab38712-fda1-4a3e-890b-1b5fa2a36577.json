@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wiswil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gavilancillo; clis clis",
+  "definitionDialect": "",
+  "additional_text": "sAP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li wiswil are koʼl na chwa li xik xuq kutij akʼ",
+      "example_spa": "El gavilancillo es más pequeño que el gavilán y come gallinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "dab38712-fda1-4a3e-890b-1b5fa2a36577"
+}

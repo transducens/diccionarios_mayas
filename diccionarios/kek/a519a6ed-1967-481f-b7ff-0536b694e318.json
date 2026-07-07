@@ -1,0 +1,28 @@
+{
+  "entryWord": "Put",
+  "definition": "Entonces, pues, posiblemente Se usa solamente con preguntas que se contestan afirmativamente",
+  "additional_text": "PartInterr",
+  "examples": [
+    {
+      "example_maya": "¿Ani put?",
+      "example_spa": "¿Quién pues?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Kʼaʼ put ru?",
+      "example_spa": "¿Qué pues?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Ma xchal put?",
+      "example_spa": "Vino, pues iserá que vino? ojalá que haya venido",
+      "dialect": null
+    }
+  ],
+  "uuid": "a519a6ed-1967-481f-b7ff-0536b694e318",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

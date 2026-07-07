@@ -1,0 +1,18 @@
+{
+  "entryWord": "KOOLAT",
+  "definition": "abandonar, cesar, terminar",
+  "additional_text": "vt kolal te, koʼlan, ma kyaj nkoʼlana sin iʼjat raíz kol",
+  "examples": [
+    {
+      "example_maya": "Kyjel kolat aj txʼotxʼ luʼ",
+      "example_spa": "Se va a abandonar este terreno",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "275684e1-7242-41ff-9d2c-390827beafc9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

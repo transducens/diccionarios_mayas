@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzawaʼw",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rajado, como lodo reseco, atol o paredes",
+  "definitionDialect": "",
+  "additional_text": "p Raiz PT Tzaw",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj tzawaʼw li paʼk cheh li raqan",
+      "example_spa": "Los talones del hombre están muy rajados",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are taq xchaqij li tapyah chwa li qʼij xubʼan tzawaʼw",
+      "example_spa": "Cuando se secó la pared de la casa se rajó",
+      "dialect": null
+    }
+  ],
+  "uuid": "5f9b44b7-5235-4f98-a305-36d0867c64c5"
+}

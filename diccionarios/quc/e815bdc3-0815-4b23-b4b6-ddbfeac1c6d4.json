@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ukʼaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Rukʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Palo jiote; cuerno; cacho",
+  "definitionDialect": "General",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li ukʼaʼ sibʼalaj utz chech siʼ",
+      "example_spa": "El palo jiote es muy bueno para leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj jeʼl kilitaj li rukʼaʼ li masat",
+      "example_spa": "Los cachos del venado se ven muy bonitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "e815bdc3-0815-4b23-b4b6-ddbfeac1c6d4"
+}

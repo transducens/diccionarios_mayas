@@ -1,0 +1,23 @@
+{
+  "entryWord": "Takatik",
+  "definition": "Bruto, tonto",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "La jun takatik achin laʼ majun runoʼoj, xe nuchʼäy nuchʼey ri rukʼajol",
+      "example_spa": "Ese señor es un bruto, no piensa nada, siempre le pega a su hijo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri winäq choj e takatik kʼo re yechʼayon",
+      "example_spa": "Las personas medio tontas, a veces pegan",
+      "dialect": null
+    }
+  ],
+  "uuid": "39a74e59-6d19-4d86-9900-b17f41d9d4bd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

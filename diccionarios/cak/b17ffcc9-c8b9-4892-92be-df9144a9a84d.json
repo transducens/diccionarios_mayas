@@ -1,0 +1,28 @@
+{
+  "entryWord": "Elenïk",
+  "definition": "Salir",
+  "additional_text": "vi Elen, yinel Elel Necesario salir de Ant Okenïk",
+  "examples": [
+    {
+      "example_maya": "Jukumaj yinel pe ri pa nimaqʼij",
+      "example_spa": "Voy a salir temprano de la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chwaʼq yinel pa samaj kʼa chaqʼaʼ",
+      "example_spa": "Mañana voy a salir del trabajo hasta en la noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin yinel chi re ajyüqʼ",
+      "example_spa": "Voy a dejar de ser pastor",
+      "dialect": null
+    }
+  ],
+  "uuid": "b17ffcc9-c8b9-4892-92be-df9144a9a84d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuqʼubʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pastura (lugar donde se pastorean animales)",
+  "definitionDialect": "",
+  "additional_text": "scv Nuyuqʼubʼaal Raiz VT Yuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajyuqʼ xril jun utiw pa li yuqʼubʼal",
+      "example_spa": "El pastor vio un coyote en la pastura",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c1ec751-1444-43d3-969b-58c36739b3d5"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nokʼokem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnokʼokʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar con dificultad entre piedras o en un trabajo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Nokʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajwanel xaq kanokʼokʼ chubanik li jay",
+      "example_spa": "El albañil trabaja muy despacio en la construcción de la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ladin xaq kanokʼokʼ pa taq li abʼaj ma xa maj uxajabʼ",
+      "example_spa": "El ladino camina despacio en las piedras porque no tiene calzado",
+      "dialect": null
+    }
+  ],
+  "uuid": "81b4a093-d546-4e91-a1b5-9425a0794443"
+}

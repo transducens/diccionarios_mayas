@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xilit",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxilit",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja de afeitar",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li xilit kachokon cheh elesabʼal smaʼch",
+      "example_spa": "Las hojas de afeitar sirven para cortarse la barba",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b3a35cf-7eec-4658-877c-77248b1882aa"
+}

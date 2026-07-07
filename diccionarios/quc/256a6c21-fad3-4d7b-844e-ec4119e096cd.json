@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼukel jaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arroyo, riachuelo",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz VT Tzʼuk Raíz S Jaʼ",
+  "examples": [
+    {
+      "example_maya": "Li xa tzʼukel jaʼ katzaj pa taq saqʼij",
+      "example_spa": "El arroyo se seca en verano",
+      "dialect": null
+    }
+  ],
+  "uuid": "256a6c21-fad3-4d7b-844e-ec4119e096cd"
+}

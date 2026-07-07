@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yakäl",
+  "definition": "Guardado, levantado",
+  "additional_text": "P Xyakeʼ, xuyakabʼaʼ P Yäk",
+  "examples": [
+    {
+      "example_maya": "Kʼo winäq chöj yakäl chik apo kitzyaq richin ri nimaqʼij",
+      "example_spa": "Hay personas que sólo tienen guardada su ropa para la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa rikʼin yakäl kan ri nucheʼ chuwiʼ ri jun kutaʼn jebʼel chaqiʼj",
+      "example_spa": "Sólo porque mi palo estaba levantado sobre un tronco está bien seco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri merya yakäl kan pa kaxa",
+      "example_spa": "El dinero está guardado en el cofre",
+      "dialect": null
+    }
+  ],
+  "uuid": "169cd1b2-a006-4d35-8905-41fbd1ae5151",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

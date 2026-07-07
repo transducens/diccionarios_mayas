@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼosqʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Golpearse contra cosa dura",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqʼosqʼobʼik Raiz VT Qʼos",
+  "examples": [
+    {
+      "example_maya": "Jeʼl xqʼosqʼobʼ chwa nuchʼek",
+      "example_spa": "Se golpeó la espinilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bcb5b69-fa89-48a1-bac2-88de562136d9"
+}

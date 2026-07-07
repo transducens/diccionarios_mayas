@@ -1,0 +1,18 @@
+{
+  "entryWord": "PER (par)",
+  "definition": "pero",
+  "additional_text": "pc del español pero",
+  "examples": [
+    {
+      "example_maya": "Per tzaʼntzan yolana ikyjo, bʼix wen chiya jun el",
+      "example_spa": "Pero, cómo hablás entonces, y dijiste que estaba bien la vez pasada",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "fe675ce4-ca5f-4d0a-a1bd-7ebedcf4fc3f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

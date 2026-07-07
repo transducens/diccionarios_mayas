@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kel umis",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casarse en la iglesia",
+  "definitionDialect": "",
+  "additional_text": "vrs",
+  "examples": [
+    {
+      "example_maya": "Li jukʼulaj winaq kel kimis pa tyox",
+      "example_spa": "La pareja va a casarse en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "26960090-7347-4878-99f7-fb138f54ee95"
+}

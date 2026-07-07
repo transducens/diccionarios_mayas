@@ -1,0 +1,28 @@
+{
+  "entryWord": "Rikʼin",
+  "definition": "Donde (lugar próximo a tal persona), por medio de, a un lugar, cerca de un lugar, con",
+  "additional_text": "SR",
+  "examples": [
+    {
+      "example_maya": "Laaʼin ninkʼajelak rikʼin laj enriik",
+      "example_spa": "Yo trabajo donde enrique",
+      "dialect": null
+    },
+    {
+      "example_maya": "Naxik rikʼin li tzuul",
+      "example_spa": "Se va al cerro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xoʼintaw rikʼin li kabʼl",
+      "example_spa": "Lo encontré cerca de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "33f00724-7d97-456a-9eaf-3d3f4ab11ee7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

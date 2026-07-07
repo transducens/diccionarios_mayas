@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sokabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusokabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Máquina esquiladora; tijeras de barbero",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li ajsokal wiʼ kʼih uwach li usokabʼal",
+      "example_spa": "El barbero tiene varias clases de máquinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2a799669-e081-4d72-aaea-21f4756d6590"
+}

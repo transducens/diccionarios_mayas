@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tzʼininexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llover recio; llevar mucha carga; trabajar mucho todo el día; correr mucho",
+  "definitionDialect": "",
+  "additional_text": "vtd Xutzʼinneej Raiz PT Tzʼin",
+  "examples": [
+    {
+      "example_maya": "Bʼenaq qʼij iwir sibʼalaj xutzʼininej jun nimalaj jabʼ",
+      "example_spa": "Ayer por la tarde llovió recio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xutzʼininej bʼi jun eqaʼn siʼ",
+      "example_spa": "El hombre llevó una gran carga de leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xutzʼininej jun qʼij kem",
+      "example_spa": "La mujer tejió todo el día",
+      "dialect": null
+    }
+  ],
+  "uuid": "78f08099-efd1-417f-be26-cbec1e8dc58b"
+}

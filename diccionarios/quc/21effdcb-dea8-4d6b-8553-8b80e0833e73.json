@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼibʼoʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Marchito; mojado: perro peludo mojado",
+  "definitionDialect": "General",
+  "additional_text": "Adj Utzʼibʼoʼyiil, xtzʼibʼoʼyirik Sinón Bʼachʼuʼy Raíz VT Tzʼibʼ",
+  "examples": [
+    {
+      "example_maya": "Li abʼix xubʼan tzʼibʼoʼy chwa li qʼij",
+      "example_spa": "La milpa se marchitó por los rayos del sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sin tzʼiʼ sibʼalaj tzʼibʼoʼy chwa li jabʼ",
+      "example_spa": "El pobre perro está bien mojado bajo la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "21effdcb-dea8-4d6b-8553-8b80e0833e73"
+}

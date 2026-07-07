@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yikʼikʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Extenderse grasa en líquidos, pisos o piel; sentir escalofríos por un susto",
+  "definitionDialect": "",
+  "additional_text": "vi Kayikʼikʼik Raíz VL Yikʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq xtix li aseyʼt pwi li jaʼ kayikʼikʼik xbʼek",
+      "example_spa": "Al caerse el aceite sobre el agua se extendió por todas partes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kayikʼikʼ tew xpe chwij are taq xinwil jun nima kumatz xinsaqmajiʼk",
+      "example_spa": "Se me escalofrió el cuerpo cuando vi a la culebra grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "b44753bc-6bdd-4c8c-971c-f376e55fc566"
+}

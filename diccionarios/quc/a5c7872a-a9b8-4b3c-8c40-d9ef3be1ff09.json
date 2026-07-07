@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maqamatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmaqamatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hablar gangoso como persona con catarro",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz VI Maq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq kamaqamat kachʼawik ma xa kʼax ujolom",
+      "example_spa": "La mujer no puede hablar bien porque tiene catarro",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5c7872a-a9b8-4b3c-8c40-d9ef3be1ff09"
+}

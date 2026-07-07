@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzijobʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Idioma; comentario",
+  "definitionDialect": "",
+  "additional_text": "scv Nutzijobʼaal Sinón Chʼaabʼal Raíz S Tzij",
+  "examples": [
+    {
+      "example_maya": "Kʼih, uwach tzijobʼal kʼo pa we uwachuliw",
+      "example_spa": "En el mundo existen muchos idiomas",
+      "dialect": null
+    }
+  ],
+  "uuid": "7818c31c-de2d-41aa-9920-cc585dbf7cdc"
+}

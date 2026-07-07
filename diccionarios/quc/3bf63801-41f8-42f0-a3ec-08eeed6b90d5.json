@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bajarse Marearse por tomar baño muy caliente en temescal; tener diarrea un nene",
+  "definitionDialect": "",
+  "additional_text": "vi Kinqaajik Fbas //Qahj (qah)// F Kaqaaj nuwiʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzukunel kʼa te uqajik la chwi li juyubʼ",
+      "example_spa": "El cazador acaba de bajar de la cumbre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qajem kubʼan li akʼal chrij li kej",
+      "example_spa": "El niño va a bajarse del caballo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are taq kaqaj qʼij are chiʼ kok umoy",
+      "example_spa": "Cuando se baja el sol, se obscurece",
+      "dialect": null
+    }
+  ],
+  "uuid": "3bf63801-41f8-42f0-a3ec-08eeed6b90d5"
+}

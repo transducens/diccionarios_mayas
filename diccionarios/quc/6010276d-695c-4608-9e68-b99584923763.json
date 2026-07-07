@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼur",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ralo: líquido",
+  "definitionDialect": "",
+  "additional_text": "Adj Uchʼuraal Ant Tzatz",
+  "examples": [
+    {
+      "example_maya": "Li qʼor kakʼayix pa taq kʼayʼbʼal xa chʼur",
+      "example_spa": "El atole que venden en los mercados, es ralo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6010276d-695c-4608-9e68-b99584923763"
+}

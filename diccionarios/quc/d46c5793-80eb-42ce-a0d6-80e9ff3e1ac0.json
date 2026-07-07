@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintakʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Marchar con pasos largos; caminar con garrote o muy recto",
+  "definitionDialect": "",
+  "additional_text": "vTR Raíz VT Takʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah sibʼalaj kutakʼoh xbʼe pa kʼayʼbʼal",
+      "example_spa": "Caminando recto se fue el muchacho al mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "d46c5793-80eb-42ce-a0d6-80e9ff3e1ac0"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wankil",
+  "definition": "Autoridad, capacidad, poder",
+  "additional_text": "SInv Inwankil",
+  "examples": [
+    {
+      "example_maya": "Laaʼin winq wan aj wiʼ inwankil, wankebʼ ajpuubʼ rubʼel woq wuqʼ",
+      "example_spa": "Yo también soy hombre de autoridad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wankilebʼ",
+      "example_spa": "Autoridad de un pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4eee6eae-efd7-4632-a62d-d53708aa9473",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

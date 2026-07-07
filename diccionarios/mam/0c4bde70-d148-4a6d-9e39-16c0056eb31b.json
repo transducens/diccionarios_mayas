@@ -1,0 +1,23 @@
+{
+  "entryWord": "KANEET",
+  "definition": "encontrar",
+  "additional_text": "vi ma chin kaneta raíz kan vt",
+  "examples": [
+    {
+      "example_maya": "Ma kanet jun nsentabiya tuj tzʼis",
+      "example_spa": "Encontré un mi centavo en la basura",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma chin kaneta tuʼn judas",
+      "example_spa": "Me encontró el desgraciado",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "0c4bde70-d148-4a6d-9e39-16c0056eb31b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

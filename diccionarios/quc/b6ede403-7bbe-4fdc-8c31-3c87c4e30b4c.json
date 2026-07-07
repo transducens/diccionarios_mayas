@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yuqik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyuquh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estirar cosas o el cuerpo",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Yuq",
+  "examples": [
+    {
+      "example_maya": "Li achih xuyuq ribʼ are taq xkʼastajik",
+      "example_spa": "El hombre se estiró al despertarse",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih tajin kuyuq li ukolobʼ ma kʼa kʼakʼ",
+      "example_spa": "El hombre está estirando el lazo porque todavía está nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6ede403-7bbe-4fdc-8c31-3c87c4e30b4c"
+}

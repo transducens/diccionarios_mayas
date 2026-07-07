@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tomat",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Miltomate",
+  "definitionDialect": "",
+  "additional_text": "sinv Nutomaat",
+  "examples": [
+    {
+      "example_maya": "Li tomat sibʼalaj chʼam",
+      "example_spa": "El miltomate es ácido",
+      "dialect": null
+    }
+  ],
+  "uuid": "6eb788d9-0a61-4701-bd4e-7b2ee4d2c239"
+}

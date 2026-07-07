@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzayibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzayibʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sal",
+  "definitionDialect": "",
+  "additional_text": "scv Sinón Atzʼaam",
+  "examples": [
+    {
+      "example_maya": "Li tzayibʼal utz cheh qʼoxom pamaj",
+      "example_spa": "La sal es buena para curar el dolor de estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "061b186e-bdd6-4601-811c-c337d74481fa"
+}

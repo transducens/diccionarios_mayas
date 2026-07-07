@@ -1,0 +1,19 @@
+{
+  "entryWord": "Imul",
+  "entryWordDialect": null,
+  "altEntryWord": "Wimul",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Conejo",
+  "definitionDialect": "General",
+  "additional_text": "scv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li imul sibʼalaj utz li utiʼjal",
+      "example_spa": "La carne de conejo es muy sabrosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "703ef8d1-d785-48dd-b60b-13522b3f84d5"
+}

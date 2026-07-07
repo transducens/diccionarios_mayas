@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqwachixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkaqwachij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Molestar deseando que algo no salga bien",
+  "definitionDialect": "",
+  "additional_text": "vm",
+  "examples": [
+    {
+      "example_maya": "Kinkaqwachij na li ajetzʼanel",
+      "example_spa": "Voy a molestar al jugador",
+      "dialect": null
+    }
+  ],
+  "uuid": "75484665-9b6d-4a5a-ab7f-c43f3301c966"
+}

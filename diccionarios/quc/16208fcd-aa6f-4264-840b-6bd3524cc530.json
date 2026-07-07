@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼolexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar trozo",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinbʼooleej Fbas //Bʼohle// Raíz P Bʼol",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xubʼolej bʼi li uqʼabʼ kaʼ",
+      "example_spa": "La mujer se llevó la mano de la piedra de moler",
+      "dialect": null
+    }
+  ],
+  "uuid": "16208fcd-aa6f-4264-840b-6bd3524cc530"
+}

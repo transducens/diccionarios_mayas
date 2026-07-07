@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qasqoj",
+  "entryWordDialect": null,
+  "altEntryWord": "Qaʼs",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calado: sabor de comidas",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Raíz Adj Qas",
+  "examples": [
+    {
+      "example_maya": "Li subʼ qasqoj",
+      "example_spa": "Los tamales tienen sabor a cal",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e2d78dd-59a7-4d94-8c31-dffd95f44b57"
+}

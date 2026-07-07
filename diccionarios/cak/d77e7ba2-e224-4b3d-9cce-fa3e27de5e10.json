@@ -1,0 +1,28 @@
+{
+  "entryWord": "Bʼaqäl",
+  "definition": "Tirada, cosa aguada",
+  "additional_text": "p Xbʼaqeʼ xubʼaqabʼaʼ Bʼaqabʼot, nibʼaqabʼot Andar alguien muy gordo y grande o muy pesado var Bʼolan Bʼaq, kʼojlen",
+  "examples": [
+    {
+      "example_maya": "Bʼaqäl ri tzʼiʼ chwa jay",
+      "example_spa": "Está tirado el perro en el patio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir nibʼaqabʼot jun tzʼiʼ xikʼo pa bʼey",
+      "example_spa": "Ayer pasó un perro en el camino andando muy pesado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kumätz bʼaqäl chuwi tanatik",
+      "example_spa": "La culebra está tirada sobre la peña",
+      "dialect": null
+    }
+  ],
+  "uuid": "d77e7ba2-e224-4b3d-9cce-fa3e27de5e10",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

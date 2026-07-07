@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼayes",
+  "entryWordDialect": null,
+  "altEntryWord": "Qʼayehs",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Monte; hierba",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nuqʼayees Raiz S Qʼay Fbas",
+  "examples": [
+    {
+      "example_maya": "Qʼayes chi li abʼix, chak chik karaj",
+      "example_spa": "Ya tiene monte la milpa, ya necesita limpia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tikoʼn kʼo chi uqʼayesal, chak chik karaj",
+      "example_spa": "Las siembras tienen hierbas, necesitan limpia",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e513a1a-3caf-46e3-8249-05bb1505bc6c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Repoʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurepoʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Repollo",
+  "altEntryWordDialect2": null,
+  "definition": "Repollo",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS Ichaaj Del Cast Repollo",
+  "examples": [
+    {
+      "example_maya": "Li repoʼy kaya chirij uwaʼl ik",
+      "example_spa": "El repollo es una verdura que se mezcla con caldo de res",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ee11587-9616-4b05-8181-066a10ec88be"
+}

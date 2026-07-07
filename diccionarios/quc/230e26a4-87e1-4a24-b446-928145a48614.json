@@ -1,0 +1,29 @@
+{
+  "entryWord": "Rij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espalda; cáscara; exterior; concha",
+  "definitionDialect": "",
+  "additional_text": "ssp F Var =Iij",
+  "examples": [
+    {
+      "example_maya": "Kaqʼoxow rij li achih, rumal kumatz",
+      "example_spa": "Al hombre le duele la espalda por el reumatismo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpe rij taq raqan",
+      "example_spa": "Hincharse el cuerpo por desnutrición",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpe rij",
+      "example_spa": "Prolapso del recto",
+      "dialect": null
+    }
+  ],
+  "uuid": "230e26a4-87e1-4a24-b446-928145a48614"
+}

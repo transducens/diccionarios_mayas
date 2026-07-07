@@ -1,0 +1,19 @@
+{
+  "entryWord": "Polixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Freír huevos",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpooliij",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal rikil kupolij li saqmoʼl pa xarten",
+      "example_spa": "La cocinera va a freír los huevos en la sartén",
+      "dialect": null
+    }
+  ],
+  "uuid": "8855ad1d-6068-402a-9682-973009c27a9d"
+}

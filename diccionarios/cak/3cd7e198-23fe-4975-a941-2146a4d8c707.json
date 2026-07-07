@@ -1,0 +1,28 @@
+{
+  "entryWord": "Muj",
+  "definition": "Sombra",
+  "additional_text": "SAS Numujal",
+  "examples": [
+    {
+      "example_maya": "Ri pa rumujal jun cheʼ jebʼël chʼuʼul täq yalan qʼij",
+      "example_spa": "En la sombra de un árbol es muy fresco cuando hay mucho calor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chuxe rumujal jun cheʼ ma jubʼey xtikʼiy ri tikoʼn",
+      "example_spa": "En la sombra de un árbol, nunca crece la siembra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq kʼo yalan qʼij, yinuxlan pa muj",
+      "example_spa": "Cuando hay mucho sol, descanso en la sombra",
+      "dialect": null
+    }
+  ],
+  "uuid": "3cd7e198-23fe-4975-a941-2146a4d8c707",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

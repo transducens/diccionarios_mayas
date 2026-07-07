@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqa kamiʼx",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaqa kamiʼx",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Camisa blanca no bordada",
+  "definitionDialect": "Raíz Adj. Saq. Raíz S. Kami'x. Dom.S. Atz'yaq.",
+  "additional_text": "SCL",
+  "examples": [
+    {
+      "example_maya": "Li ixoq saqa kamiʼx tajin kukemoh",
+      "example_spa": "La mujer está tejiendo una camisa blanca",
+      "dialect": null
+    }
+  ],
+  "uuid": "25e1a71d-9c8f-44d7-944e-4221472a659b"
+}

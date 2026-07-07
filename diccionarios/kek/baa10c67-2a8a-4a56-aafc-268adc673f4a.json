@@ -1,0 +1,23 @@
+{
+  "entryWord": "Poʼk",
+  "definition": "Descomponerse, enojarse",
+  "additional_text": "vi Xinpoʼ",
+  "examples": [
+    {
+      "example_maya": "Xʼok chi poʼk li bʼoj",
+      "example_spa": "La chicha fermentada comenzó a descomponerse",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinpoʼ xbʼaan laj Wiich",
+      "example_spa": "Me enojé por culpa de Luis",
+      "dialect": null
+    }
+  ],
+  "uuid": "baa10c67-2a8a-4a56-aafc-268adc673f4a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

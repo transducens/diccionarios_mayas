@@ -1,0 +1,38 @@
+{
+  "entryWord": "Raj",
+  "definition": "Sería, fuera, habría, hubiera, estaría, estuviera",
+  "additional_text": "Part Se usa para hacer frases condicionales, sólo en conjunto con otros verbos",
+  "examples": [
+    {
+      "example_maya": "Joʼkan raj",
+      "example_spa": "Así sería",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tinxik raj",
+      "example_spa": "Me iría",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wan raj intumin",
+      "example_spa": "Hubiera tenido dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Laaʼin raj aj tzolonel, wi ta inkʼaʼ xinkanabʼ li tzolok",
+      "example_spa": "Habría sido maestro, si no hubiera dejado el estudio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinye raj re, abʼanan xinxuwak",
+      "example_spa": "Se lo hubiera dicho a él, pero tenía miedo",
+      "dialect": null
+    }
+  ],
+  "uuid": "179ebc03-5dbd-4766-bfbc-60b22ce80c79",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

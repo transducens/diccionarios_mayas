@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzipnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzipnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar persona débil por enfermedad",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Tzip",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq katzipnajik, ma naj xyowajik",
+      "example_spa": "La mujer apenas anda, porque estuvo mucho tiempo enferma",
+      "dialect": null
+    }
+  ],
+  "uuid": "b048d513-87c0-4091-8a59-ef4f8d14f259"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "KIX",
+  "definition": "así como",
+  "additional_text": "pc raíz kix par",
+  "examples": [
+    {
+      "example_maya": "Kix tmoda nnok nkiʼna, per bʼaʼn",
+      "example_spa": "Así como veo su modo es bueno",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kix teʼ baqa nnela twitz",
+      "example_spa": "Así como vos; acaso lo cumplís",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c73ef2d0-f59c-4ac1-a6e9-e3b83ba0b86b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

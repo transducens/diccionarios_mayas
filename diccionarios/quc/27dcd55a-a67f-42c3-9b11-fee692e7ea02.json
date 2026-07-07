@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xichʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxichʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Botar una carga de paja al suelo; llevar o traer una carga de paja",
+  "definitionDialect": "general",
+  "additional_text": "vTD Var Patzixik Raíz VT Xichʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xuxichʼij kan li kʼim reqam",
+      "example_spa": "El hombre dejó tirada la paja que llevaba cargada",
+      "dialect": null
+    }
+  ],
+  "uuid": "27dcd55a-a67f-42c3-9b11-fee692e7ea02"
+}

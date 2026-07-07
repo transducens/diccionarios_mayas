@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ismarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kismarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir pelusa a un tejido",
+  "definitionDialect": "General",
+  "additional_text": "vt Sinón Puʼyareem",
+  "examples": [
+    {
+      "example_maya": "Li kem xismarik",
+      "example_spa": "Al tejido le salieron pelusas",
+      "dialect": null
+    }
+  ],
+  "uuid": "687742e8-6dc7-471a-96f5-b609b6534861"
+}

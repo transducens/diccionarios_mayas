@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kuruchïch",
+  "definition": "Pájaro carpintero",
+  "additional_text": "sinv Nukuruchïch Ajxikʼ, tzʼikïn, chiköp",
+  "examples": [
+    {
+      "example_maya": "Re kuruchïch (qʼëq) ri rij, kʼo bʼa kʼëq pa rusut rikʼin bʼa säq chi ruqül",
+      "example_spa": "Este pájaro carpintero negro, tiene un poco de rojo en la cabeza, con un poco de blanco en el cuello",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kuruchïch chi kij taq kutaʼn nubʼän wi rujul",
+      "example_spa": "El pájaro carpintero hace sus hoyos en los troncos",
+      "dialect": null
+    }
+  ],
+  "uuid": "35e768d9-dbdb-47f5-afbc-1dbf37821ea2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

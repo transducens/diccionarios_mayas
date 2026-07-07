@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tebʼmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katebʼmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar como gordo sin hablar",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz PT Tebʼ",
+  "examples": [
+    {
+      "example_maya": "Li al Weʼl xaq katebʼmaʼyik xopan chwa roʼch",
+      "example_spa": "Manuela llegó a la casa sin hablar",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d642d0c-a05e-42e2-bafe-ba400e4011b7"
+}

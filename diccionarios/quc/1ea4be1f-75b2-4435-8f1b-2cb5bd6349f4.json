@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tijonel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carnicero (animal que come mucha carne); carnívoro (animal que come mucha carne)",
+  "definitionDialect": "",
+  "additional_text": "sAgen Raíz VT Tij",
+  "examples": [
+    {
+      "example_maya": "Li bʼalam jun tijonel chikop",
+      "example_spa": "El tigre es un animal carnívoro",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ea4be1f-75b2-4435-8f1b-2cb5bd6349f4"
+}

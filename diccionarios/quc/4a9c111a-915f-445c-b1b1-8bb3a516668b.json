@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼararexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼararej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Beber con gusto; tomar con gusto",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz VT Qʼar",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj xuqʼararej li kapeh",
+      "example_spa": "El hombre bebió el café con gusto",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a9c111a-915f-445c-b1b1-8bb3a516668b"
+}

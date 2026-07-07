@@ -1,0 +1,29 @@
+{
+  "entryWord": "Yuqʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pastorear; cuidar niños",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinyuqʼuuj Raiz VT Yuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih yuqʼuxik kuʼon che li karneʼl",
+      "example_spa": "La muchacha está pastoreando a la oveja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinyuqʼuj na li neʼ ma xa koqʼik",
+      "example_spa": "Voy a cuidar al nene porque está llorando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajʼikʼ akʼal kuyuqʼuj",
+      "example_spa": "La sirvienta está cuidando al nene",
+      "dialect": null
+    }
+  ],
+  "uuid": "948aceb0-5940-44e0-9f17-960d589ab258"
+}

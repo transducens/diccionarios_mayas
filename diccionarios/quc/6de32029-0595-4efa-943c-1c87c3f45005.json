@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juyak",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una levantada de alguna cosa; una contribución",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Yak",
+  "examples": [
+    {
+      "example_maya": "Li wokaj xa juyak pwaq xkimulij",
+      "example_spa": "El cantón hizo una sola contribución",
+      "dialect": null
+    }
+  ],
+  "uuid": "6de32029-0595-4efa-943c-1c87c3f45005"
+}

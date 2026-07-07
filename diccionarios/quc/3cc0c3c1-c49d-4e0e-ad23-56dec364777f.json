@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sison",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Piojillo de gallinas",
+  "definitionDialect": "",
+  "additional_text": "SInv Usiisoon Fbas //Sihsoon// DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li wakʼ e kʼo sison chrij",
+      "example_spa": "Mi gallina tiene piojillos",
+      "dialect": null
+    }
+  ],
+  "uuid": "3cc0c3c1-c49d-4e0e-ad23-56dec364777f"
+}

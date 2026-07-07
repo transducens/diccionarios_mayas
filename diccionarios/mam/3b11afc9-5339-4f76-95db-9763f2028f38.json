@@ -1,0 +1,18 @@
+{
+  "entryWord": "BOOT",
+  "definition": "1 bota 2 bote",
+  "additional_text": "s1 nbota del español bota, bote",
+  "examples": [
+    {
+      "example_maya": "Xel aʼ wuʼna tuj bot",
+      "example_spa": "Voy a llevar agua en el bote",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3b11afc9-5339-4f76-95db-9763f2028f38",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

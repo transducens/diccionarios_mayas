@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jakʼakʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjakʼakʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventar lazo o pita con un instrumento filudo; amarrar con muchas vueltas",
+  "definitionDialect": "General",
+  "additional_text": "VTD",
+  "examples": [
+    {
+      "example_maya": "Li jun bʼolaj kicharem li achijabʼ xujakʼakʼej li kolobʼ",
+      "example_spa": "El trozo que están jalando los hombres, reventó el lazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5709d439-be91-4f74-b00e-2773bfaa2625"
+}

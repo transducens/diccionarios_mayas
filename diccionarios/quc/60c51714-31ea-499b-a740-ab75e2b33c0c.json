@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzeyexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Levantar con una mano alguna cosa; flotar",
+  "definitionDialect": "",
+  "additional_text": "vt Kintzeyeel Raíz PT Tzey",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutzeyej bʼi li jun karton",
+      "example_spa": "El hombre, se llevó el cartón vacío",
+      "dialect": null
+    }
+  ],
+  "uuid": "60c51714-31ea-499b-a740-ab75e2b33c0c"
+}

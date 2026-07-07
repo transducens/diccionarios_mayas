@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xutʼibʼal qʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxutʼibʼal qʼaqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Soplador",
+  "definitionDialect": "Dom.S. Q'ayees.",
+  "additional_text": "sc Sinón Parawah",
+  "examples": [
+    {
+      "example_maya": "Li xutʼibʼal qʼaqʼ kachokon cheh xutʼibʼal qʼaqʼ",
+      "example_spa": "El soplador sirve para soplar fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd9d8585-2dc6-4414-aa60-0e33333765ab"
+}

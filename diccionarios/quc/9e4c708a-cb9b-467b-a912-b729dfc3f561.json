@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chomal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchomal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sesión; reunión",
+  "definitionDialect": "General",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Kʼo chomal kabʼan na kabʼij",
+      "example_spa": "Habrá una reunión pasado mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e4c708a-cb9b-467b-a912-b729dfc3f561"
+}

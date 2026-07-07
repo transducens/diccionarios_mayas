@@ -1,0 +1,18 @@
+{
+  "entryWord": "CHKAAN",
+  "definition": "olla",
+  "additional_text": "s1 nchkana Dialecto de Concepción Tutuapa",
+  "examples": [
+    {
+      "example_maya": "Miʼn kubʼ tpaʼn qchkana yabʼ",
+      "example_spa": "Amigo, no vayas a quebrar nuestra olla",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "0c66478b-98ac-4f05-a0b7-182d0e73785f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

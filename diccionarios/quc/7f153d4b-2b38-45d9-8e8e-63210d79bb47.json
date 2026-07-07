@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rikʼil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Edad en meses",
+  "definitionDialect": "",
+  "additional_text": "ssp",
+  "examples": [
+    {
+      "example_maya": "Janipa rikʼil li aneʼ?",
+      "example_spa": "¿Cuántos meses tiene tu nene?",
+      "dialect": null
+    }
+  ],
+  "uuid": "7f153d4b-2b38-45d9-8e8e-63210d79bb47"
+}

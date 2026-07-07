@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juchʼet",
+  "entryWordDialect": null,
+  "altEntryWord": "juchʼetaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una gota",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Chʼet",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xya juchʼet kunabʼal puchiʼ",
+      "example_spa": "Al niño le dieron una gota de medicina en la boca",
+      "dialect": null
+    }
+  ],
+  "uuid": "f555b2ba-530a-48bd-a518-b4f4c667907a"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Welaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llorasangre (un tipo de árbol)",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li welaʼ jun cheʼ kakʼiy pa taqʼaj xaq xew\" kachokon cheh siʼ",
+      "example_spa": "El llorasangre es un árbol que crece en la costa; sólo se usa para leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "38ad10ab-94ef-490c-89f8-add9e9fff9c5"
+}

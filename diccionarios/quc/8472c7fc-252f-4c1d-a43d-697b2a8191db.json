@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wareʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Diente",
+  "definitionDialect": "",
+  "additional_text": "SPos Nuwareh Raíz S War DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li wareʼaj kachokonisabʼex chubʼaʼik li wah",
+      "example_spa": "Los dientes se usan para masticar los alimentos",
+      "dialect": null
+    }
+  ],
+  "uuid": "8472c7fc-252f-4c1d-a43d-697b2a8191db"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yojyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonados: hilos de collar, huesos, piezas de algún carro o máquina",
+  "definitionDialect": "Español",
+  "additional_text": "Adj Raíz P Yoj",
+  "examples": [
+    {
+      "example_maya": "Li ajkarnaseʼr xuya jun yojyik bʼaq chweh",
+      "example_spa": "El carnicero me dio un montón de huesos",
+      "dialect": null
+    }
+  ],
+  "uuid": "017ea2c5-8431-45d5-bcd3-9c5765e1c40e"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chitilik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchitiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuchitibʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Abierto en forma de abanico; abanicado",
+  "definitionDialect": "General",
+  "additional_text": "p Adj",
+  "examples": [
+    {
+      "example_maya": "Li ujeʼ li noʼs sibʼalaj chitilik",
+      "example_spa": "La cola del chompipe está muy abierta",
+      "dialect": null
+    }
+  ],
+  "uuid": "e2f19b79-da57-417a-8feb-a0d2db487476"
+}

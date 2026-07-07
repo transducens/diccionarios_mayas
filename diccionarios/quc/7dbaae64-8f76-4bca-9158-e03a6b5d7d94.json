@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raqarik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventada; cosa llena; abierto como el frente de camisa",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Raq",
+  "examples": [
+    {
+      "example_maya": "Li ukamiʼx li alah, jun raqarik ubʼanom chwach ukʼuʼx",
+      "example_spa": "La camisa del muchacho esta abierta de adelante",
+      "dialect": null
+    }
+  ],
+  "uuid": "7dbaae64-8f76-4bca-9158-e03a6b5d7d94"
+}

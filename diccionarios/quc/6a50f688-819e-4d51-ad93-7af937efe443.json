@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nikʼaj qʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio día",
+  "definitionDialect": "General",
+  "additional_text": "ps",
+  "examples": [
+    {
+      "example_maya": "Li ajwanilab xa nikʼaj qʼij kechakun pa li sawʼt",
+      "example_spa": "Los albañiles trabajan medio día el sábado",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a50f688-819e-4d51-ad93-7af937efe443"
+}

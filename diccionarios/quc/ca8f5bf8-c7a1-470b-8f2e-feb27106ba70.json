@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ooja cheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canojo",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li oja cheʼ utz che siʼ, kʼo rachaq",
+      "example_spa": "El canojo es bueno para leña, da mucha brasa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ca8f5bf8-c7a1-470b-8f2e-feb27106ba70"
+}

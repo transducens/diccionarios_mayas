@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tojik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pagar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintojoh Raíz VT Toj",
+  "examples": [
+    {
+      "example_maya": "Li achih kutoj na li ukʼas",
+      "example_spa": "El hombre va a pagar su deuda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Lajuj qʼuqʼ xintoj li meʼs",
+      "example_spa": "Pagué diez quetzales por el gato",
+      "dialect": null
+    }
+  ],
+  "uuid": "0fbaab06-ccad-4862-8d14-d13e34f99762"
+}

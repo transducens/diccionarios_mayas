@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzutzik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzutzuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasar el hilo en la última parte del tejido",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz VT Tzutz",
+  "examples": [
+    {
+      "example_maya": "Li alih, kutzutza li ukem xa jubʼiqʼ ma na kutzirik",
+      "example_spa": "La muchacha está usando la espada porque ya va a terminar el tejido",
+      "dialect": null
+    }
+  ],
+  "uuid": "5a0fcf24-3b0d-4248-848d-cae038228f2c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alachiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Walachiʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Broma",
+  "definitionDialect": "Dom.S",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kubʼan alachiʼ rukʼ li ixoq",
+      "example_spa": "El hombre está haciéndole bromas a la mujer",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb111081-6364-4ea0-a353-6c4474171ff3"
+}

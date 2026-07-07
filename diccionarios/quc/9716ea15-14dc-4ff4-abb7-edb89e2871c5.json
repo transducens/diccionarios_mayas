@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼayem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Podrirse",
+  "definitionDialect": "General",
+  "additional_text": "vi Kaqʼayik Raiz VI Qʼay",
+  "examples": [
+    {
+      "example_maya": "Li prut xbʼe uqʼayik",
+      "example_spa": "La fruta comenzó a podrirse",
+      "dialect": null
+    }
+  ],
+  "uuid": "9716ea15-14dc-4ff4-abb7-edb89e2871c5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Utzʼujal tew",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gotas de hielo al desacerse",
+  "definitionDialect": "General",
+  "additional_text": "sds Raíz S Tzʼuuj Raíz S Teew",
+  "examples": [
+    {
+      "example_maya": "Li utzʼujal tew sibʼalaj kabʼajajik",
+      "example_spa": "Las gotas que salen del hielo son muy heladas",
+      "dialect": null
+    }
+  ],
+  "uuid": "efcdadbf-891b-4c37-86e4-e79d16e36f08"
+}

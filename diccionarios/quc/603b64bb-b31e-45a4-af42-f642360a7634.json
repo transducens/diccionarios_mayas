@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼaslik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xkʼasiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xukʼasbʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Vivo; despierto",
+  "definitionDialect": "General",
+  "additional_text": "P Kʼaslik se usa al final de la frase, kʼas se usa cuando sigue otra palabra en la misma frase Raiz PT Kʼas",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ kʼa kʼaslik",
+      "example_spa": "El enfermo todavía está vivo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wijaʼ xintikoh, xkʼasiʼk",
+      "example_spa": "La semilla que sembré aún vive",
+      "dialect": null
+    }
+  ],
+  "uuid": "603b64bb-b31e-45a4-af42-f642360a7634"
+}

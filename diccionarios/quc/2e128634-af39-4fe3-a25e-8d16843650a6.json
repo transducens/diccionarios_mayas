@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wojojem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido hojas de milpa, nailon y otros nidos sordos",
+  "definitionDialect": "",
+  "additional_text": "vi Kinwojojik Raíz VI Woj",
+  "examples": [
+    {
+      "example_maya": "Li uxaq taq li abʼix kawojoj rumal li kaqiqʼ",
+      "example_spa": "Las hojas de milpa hacen ruido por el aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nayʼl\" kawojojik, are taq koksaxik",
+      "example_spa": "El nailon hace mucho ruido cuando se usa",
+      "dialect": null
+    }
+  ],
+  "uuid": "2e128634-af39-4fe3-a25e-8d16843650a6"
+}

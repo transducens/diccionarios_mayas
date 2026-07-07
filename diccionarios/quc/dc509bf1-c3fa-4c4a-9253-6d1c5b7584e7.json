@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzukuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Buscar cosa perdida o trabajo",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintzukuuj Raíz VT Tzuk",
+  "examples": [
+    {
+      "example_maya": "Katajin kintzukuj jun achih elaqʼom",
+      "example_spa": "Estoy buscando a un hombre que es ladrón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintzukuj na jun nukuk pa kacheʼlaj",
+      "example_spa": "Voy a buscar una ardilla en la montaña",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc509bf1-c3fa-4c4a-9253-6d1c5b7584e7"
+}

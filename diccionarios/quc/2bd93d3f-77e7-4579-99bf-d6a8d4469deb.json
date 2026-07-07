@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lutzʼkutem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa apretada",
+  "definitionDialect": "",
+  "additional_text": "VI Kalutzʼkutik Raíz PT Lutzʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, kalutzʼukut pa le ratzʼyaq",
+      "example_spa": "El hombre anda con ropa apretada",
+      "dialect": null
+    }
+  ],
+  "uuid": "2bd93d3f-77e7-4579-99bf-d6a8d4469deb"
+}

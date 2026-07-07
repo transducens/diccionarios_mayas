@@ -1,0 +1,23 @@
+{
+  "entryWord": "BʼIX",
+  "definition": "y  ahí (modismo del español, usado como entonces)",
+  "additional_text": "pc 1 2",
+  "examples": [
+    {
+      "example_maya": "Tajbʼel xjal tiʼj tlaps bʼix ikyx tiʼj tuʼj",
+      "example_spa": "A la persona le gusta mucho su lápiz y su cuaderno",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Bʼix tzaj tilʼn nloʼya trasan",
+      "example_spa": "Ahí traés duraznos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "dd292d16-a344-4b25-b950-11793a984851",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

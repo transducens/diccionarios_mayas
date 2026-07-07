@@ -1,0 +1,23 @@
+{
+  "entryWord": "Patenk",
+  "definition": "Cicatrizar",
+  "additional_text": "vin Xpaten",
+  "examples": [
+    {
+      "example_maya": "Xʼok chi patenk li wuqʼ li kinyokʼ",
+      "example_spa": "Comenzó a cicatrizarse la mano que me corté",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpatin intiqʼilal",
+      "example_spa": "Se cicatrizó mi herida",
+      "dialect": null
+    }
+  ],
+  "uuid": "294f451d-9eb5-4a95-aa59-549986cc998a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

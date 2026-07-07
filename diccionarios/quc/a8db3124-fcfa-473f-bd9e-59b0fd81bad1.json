@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼabʼarel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Borracho; bolo; ebrio (elev)",
+  "definitionDialect": "es",
+  "additional_text": "saP",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun achih sibʼalaj qʼabʼarel pa li kʼaybʼal tzam",
+      "example_spa": "En la cantina hay un hombre borracho",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8db3124-fcfa-473f-bd9e-59b0fd81bad1"
+}

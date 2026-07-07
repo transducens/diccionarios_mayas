@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taʼk",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutaʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Tapet",
+  "altEntryWordDialect2": null,
+  "definition": "Cuello de camisa",
+  "definitionDialect": "general",
+  "additional_text": "sInv Sinón Sinón Rij uwiʼ atzʼyaq DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Ronojel kamiʼx kʼo utaʼk",
+      "example_spa": "Toda camisa tiene cuello",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ba31442-c8e5-40d3-989c-ad26e1842c79"
+}

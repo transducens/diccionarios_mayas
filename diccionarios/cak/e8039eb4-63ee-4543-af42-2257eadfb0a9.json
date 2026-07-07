@@ -1,0 +1,23 @@
+{
+  "entryWord": "Malin",
+  "definition": "Haber tristeza o desolación",
+  "additional_text": "vi Nimalin",
+  "examples": [
+    {
+      "example_maya": "Yalan nimalin jun jay täq ma e kʼo ta ri rajaw",
+      "example_spa": "Hay mucha tristeza en una casa cuando no están los dueños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun ruwa jay nüm (nïm), majun winäq ta kʼo chupan, chöj nimalin",
+      "example_spa": "Un patio grande en el que no vive ninguna persona es muy silencioso",
+      "dialect": null
+    }
+  ],
+  "uuid": "e8039eb4-63ee-4543-af42-2257eadfb0a9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

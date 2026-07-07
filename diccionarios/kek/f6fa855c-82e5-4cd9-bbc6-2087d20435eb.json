@@ -1,0 +1,28 @@
+{
+  "entryWord": "Rax",
+  "definition": "Medio, de mala gana, raro, fuera del tiempo indicado Infijo que se usa con algunos verbos entre la raíz y la inflexión Quiere decir medio, mala gana, raro o fuera del tiempo indicado de la acción del verbo",
+  "additional_text": "PA",
+  "examples": [
+    {
+      "example_maya": "Rax awk",
+      "example_spa": "La siembra sin bebidas alcohólicas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinrax kisik",
+      "example_spa": "Eché pedos algo raro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinraxwar",
+      "example_spa": "Medio dormí",
+      "dialect": null
+    }
+  ],
+  "uuid": "f6fa855c-82e5-4cd9-bbc6-2087d20435eb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sanasik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lleno; gordo; grueso y sólido",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT San",
+  "examples": [
+    {
+      "example_maya": "Li jun cheʼ xjikaxik, sibʼalaj jun sanasik",
+      "example_spa": "El árbol que fue tumbado, es muy grueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f1b5c1d-c383-400f-8509-2efd943c33ca"
+}

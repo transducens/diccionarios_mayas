@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rechʼmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abrirse ropa al caminar",
+  "definitionDialect": "General",
+  "additional_text": "vi Karechʼmaʼyik Raíz PT Rechʼ",
+  "examples": [
+    {
+      "example_maya": "Karechʼmaʼy li upowiʼ li alah pujolom ma xa xutij chʼichʼ",
+      "example_spa": "El sombrero del muchacho se abre y se cierra al caminar porque le dieron un machetazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "458144ad-5cd7-4e06-83cb-3e9c4f4655df"
+}

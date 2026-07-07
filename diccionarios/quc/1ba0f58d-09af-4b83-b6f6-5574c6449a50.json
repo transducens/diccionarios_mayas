@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tewtotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer frío; estar incierto",
+  "definitionDialect": "General",
+  "additional_text": "vi Katewtotik Raiz S Tew",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj katewtotik, ma xa kape jabʼ",
+      "example_spa": "Hace frío porque ya va a llover",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ba0f58d-09af-4b83-b6f6-5574c6449a50"
+}

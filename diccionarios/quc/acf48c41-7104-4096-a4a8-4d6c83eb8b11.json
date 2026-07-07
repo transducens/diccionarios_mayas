@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lukisaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlukisaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblar en forma de arco; arquear; menear alguna cosa delgada y larga",
+  "definitionDialect": "Español",
+  "additional_text": "vtd Raíz P Luk",
+  "examples": [
+    {
+      "example_maya": "Li al Tereʼs Xulukisaj li xyabʼ",
+      "example_spa": "Teresa dobló el peine",
+      "dialect": null
+    }
+  ],
+  "uuid": "acf48c41-7104-4096-a4a8-4d6c83eb8b11"
+}

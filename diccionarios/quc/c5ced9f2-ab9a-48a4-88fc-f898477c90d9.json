@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qitzʼnajcem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqitzʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rechinar zapatos al caminar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Qitzʼ",
+  "examples": [
+    {
+      "example_maya": "Li uxajabʼ li achih kaqitzʼnajik are taq kabʼinik",
+      "example_spa": "Los zapatos del hombre rechinan cuando camina",
+      "dialect": null
+    }
+  ],
+  "uuid": "c5ced9f2-ab9a-48a4-88fc-f898477c90d9"
+}

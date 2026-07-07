@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luxem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinluxik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jalar aire por el ardor del chile picante",
+  "definitionDialect": "Español",
+  "additional_text": "vi Raíz VI Luux",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj kaluxik ma poqon li ik",
+      "example_spa": "El niño está jalando aire por el ardor del chile",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba8a1282-140c-4b24-9389-30bbf6886d6e"
+}

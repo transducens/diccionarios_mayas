@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼochoqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrugado; doblado; sombrero; torcido: casa",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Qʼoch",
+  "examples": [
+    {
+      "example_maya": "Li poy kʼo pa li abʼix ukojom jun qʼochoqʼik powiʼ",
+      "example_spa": "El espantapájaros que está en la milpa, tiene puesto un sombrero arrugado",
+      "dialect": null
+    }
+  ],
+  "uuid": "67539fcd-b5e3-48e3-b6e6-b364f1283f61"
+}

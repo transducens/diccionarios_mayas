@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chumm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonido del viento o del trompo al bailar",
+  "definitionDialect": "General",
+  "additional_text": "Al",
+  "examples": [
+    {
+      "example_maya": "Chumm kacha li kaqiqʼ",
+      "example_spa": "El viento zumba",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8af13af-2e99-4517-a9de-9e904c2f62b2"
+}

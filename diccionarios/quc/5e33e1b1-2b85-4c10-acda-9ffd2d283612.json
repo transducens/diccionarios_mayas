@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xikʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ala",
+  "definitionDialect": "",
+  "additional_text": "scs Uxiikʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼikin are li kixikʼ kakibʼinibʼej chikaj",
+      "example_spa": "Las aves usan las alas para volar en lo alto",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e33e1b1-2b85-4c10-acda-9ffd2d283612"
+}

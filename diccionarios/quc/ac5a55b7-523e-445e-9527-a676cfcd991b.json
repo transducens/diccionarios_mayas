@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼanexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzʼanej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar envase ancho (de 1 litro) con aguardiente); generalmente se llevan por costumbre",
+  "definitionDialect": "General",
+  "additional_text": "VTD",
+  "examples": [
+    {
+      "example_maya": "Li achih xutzʼanej bʼi jun nima lameʼt",
+      "example_spa": "El hombre llevó un",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac5a55b7-523e-445e-9527-a676cfcd991b"
+}

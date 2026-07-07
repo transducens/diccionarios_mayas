@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mes",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Basura",
+  "definitionDialect": "",
+  "additional_text": "SInv Numees Raíz S Mes DomS Tzʼiil",
+  "examples": [
+    {
+      "example_maya": "Li a Kux xuʼkʼaqa kan mes pa li abʼix",
+      "example_spa": "Marcos fue a botar basura entre la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "24012872-523d-4bef-983c-36bdbc5962e2"
+}

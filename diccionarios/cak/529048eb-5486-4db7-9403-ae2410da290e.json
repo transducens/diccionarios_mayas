@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tikoj",
+  "definition": "Siembra de",
+  "additional_text": "sInv Nutikoj Samaj",
+  "examples": [
+    {
+      "example_maya": "Ri pa täq tikoj nubʼän chik jobʼ",
+      "example_spa": "En el tiempo de siembra, llueve",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tikoj is",
+      "example_spa": "Siembra de papas",
+      "dialect": null
+    }
+  ],
+  "uuid": "529048eb-5486-4db7-9403-ae2410da290e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

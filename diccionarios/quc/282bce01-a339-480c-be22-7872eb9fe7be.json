@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tarro; bambú",
+  "definitionDialect": "",
+  "additional_text": "SInv Nusiin Raiz S Siin DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li uxe taq li jah pa li taqʼaj sin kojom chech",
+      "example_spa": "En las costas las paredes de las casas están hechas de bambú",
+      "dialect": null
+    }
+  ],
+  "uuid": "282bce01-a339-480c-be22-7872eb9fe7be"
+}

@@ -1,0 +1,34 @@
+{
+  "entryWord": "Tew",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frío; hielo; nieve; helado, nerviosismo",
+  "definitionDialect": "Raiz S. Teew.",
+  "additional_text": "s Utewuul (utewaal) sc Raxteew Paludismo scl Qʼaaqʼa teew Escalofrío sds Usok teew Nubes que bajan por la tarde F Xpee teew Hace frío F Xqaaj teew Cayó hielo F Teew joron sin ranimah Persona que no tiene ánimo scl Teew kakiiqʼ Espíritu del viento Var Joron",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj tew xunaʼ li akʼal nimaqʼabʼ",
+      "example_spa": "El niño sintió mucho frío por la mañana",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nima qʼatal tzij kʼo utewul",
+      "example_spa": "El presidente produce nerviosismo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tew je ri ubʼanom spej pwi li joron",
+      "example_spa": "El hielo es como vidrio sobre el agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "In tew kinnaʼoh",
+      "example_spa": "Siento frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "4aa266c9-ea61-40f6-b3bf-fc32761ea29f"
+}

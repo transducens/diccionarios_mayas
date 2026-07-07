@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼajtzʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ancho: tabla o piedra",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz PT Tzaj",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalam sibʼalaj jun nima tzʼajtzʼik",
+      "example_spa": "La tabla es muy ancha y gruesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "086c3471-468e-4964-bdc1-64a560f6c2ff"
+}

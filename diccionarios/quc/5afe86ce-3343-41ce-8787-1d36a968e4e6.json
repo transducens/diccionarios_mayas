@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼaʼam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puente; escalera",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nuqʼaʼaam Var Koopaant",
+  "examples": [
+    {
+      "example_maya": "Pwi li bʼinel jaʼ kʼo qʼaʼam jawi koʼkʼow wi li winaq",
+      "example_spa": "Sobre el río hay un puente donde pasa la gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼajanel qʼaʼam kukojoh are taq kapaqiʼ chikaj",
+      "example_spa": "El pintor usa escalera para subir",
+      "dialect": null
+    }
+  ],
+  "uuid": "5afe86ce-3343-41ce-8787-1d36a968e4e6"
+}

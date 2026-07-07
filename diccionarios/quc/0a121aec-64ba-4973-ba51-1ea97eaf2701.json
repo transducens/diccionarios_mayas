@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sopik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsopoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chapucear, medio poder hacer algo o hacerlo mal; hablar un poco el castellano",
+  "definitionDialect": "",
+  "additional_text": "vr Raíz VT Sop",
+  "examples": [
+    {
+      "example_maya": "Kinsop staʼq li kaxlan tzij",
+      "example_spa": "Chapuseo un poco el castellano",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a121aec-64ba-4973-ba51-1ea97eaf2701"
+}

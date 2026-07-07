@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jachin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Quién? ¿Quién es?",
+  "definitionDialect": "",
+  "additional_text": "Interr Coment Al final de oraciones se usa jachinaq y jachin en medio",
+  "examples": [
+    {
+      "example_maya": "Jachin kachʼaw chrij li uchi jah?",
+      "example_spa": "¿Quién está hablando detrás de la puerta?",
+      "dialect": null
+    }
+  ],
+  "uuid": "e4fca27d-1618-426c-92f4-fc17a7148b92"
+}

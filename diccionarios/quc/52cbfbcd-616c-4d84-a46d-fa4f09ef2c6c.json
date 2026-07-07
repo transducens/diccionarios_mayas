@@ -1,0 +1,19 @@
+{
+  "entryWord": "Musmula cheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbol de tierra caliente",
+  "definitionDialect": "",
+  "additional_text": "scl Coment DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li musmula cheʼ utz che siʼ, pa taqʼaj kʼo wih",
+      "example_spa": "Este tipo de árbol es bueno para leña, sólo se encuentra en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "52cbfbcd-616c-4d84-a46d-fa4f09ef2c6c"
+}

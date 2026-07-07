@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jumulaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un montón",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz VT Mol (mul)",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay jumulaj li oj kukʼayij",
+      "example_spa": "El vendedor tiene montón de aguacates que vender",
+      "dialect": null
+    }
+  ],
+  "uuid": "391d428b-c9f8-4b19-bbe4-3b3a1c1c336f"
+}

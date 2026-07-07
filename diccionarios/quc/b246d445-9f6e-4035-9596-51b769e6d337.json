@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tochʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintochʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partir ocote, rajar ocote; dar golpe con palo",
+  "definitionDialect": "Spanish",
+  "additional_text": "vtd Raiz VT Tochʼ",
+  "examples": [
+    {
+      "example_maya": "Kintochʼij nuʼbʼi juperaj wech li chaj",
+      "example_spa": "Voy a sacarle un pedazo de ocote al pino",
+      "dialect": null
+    }
+  ],
+  "uuid": "b246d445-9f6e-4035-9596-51b769e6d337"
+}

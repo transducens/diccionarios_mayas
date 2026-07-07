@@ -1,0 +1,23 @@
+{
+  "entryWord": "Nikʼaj aqʼaʼ",
+  "definition": "Media noche",
+  "additional_text": "AdvT v Pa nikʼaj aqʼaʼ, tikʼil aqʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Pa nikʼaj aqʼaʼ manaq winäq yebʼyaj,",
+      "example_spa": "A media noche no hay gente que pasee",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa xe nikʼaj aqʼaʼ ninköchʼ yikʼaseʼ",
+      "example_spa": "Sólo media noche aguanto a desvelarme",
+      "dialect": null
+    }
+  ],
+  "uuid": "af630e84-eae4-4ee1-8600-db3075e423fd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

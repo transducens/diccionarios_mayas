@@ -1,0 +1,19 @@
+{
+  "entryWord": "Itzinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinitzinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "kinʼitzinik",
+  "altEntryWordDialect2": null,
+  "definition": "Brujear",
+  "definitionDialect": "General",
+  "additional_text": "vt Raíz S Iitz",
+  "examples": [
+    {
+      "example_maya": "Li achih kaʼitzin che li ukʼulel",
+      "example_spa": "Aquel hombre está brujeando a su enemigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ca2bf156-9514-418e-b1f1-3eb8563b64ed"
+}

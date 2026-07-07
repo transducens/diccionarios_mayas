@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paleʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paleta; remo",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupaleʼt",
+  "examples": [
+    {
+      "example_maya": "Li paleʼt kachokon che tukbʼal rikil, kapeh, chiʼl qʼor",
+      "example_spa": "La paleta sirve para mover comida, café y atol",
+      "dialect": null
+    }
+  ],
+  "uuid": "80eec975-2885-46da-ba89-c019ed8c7e65"
+}

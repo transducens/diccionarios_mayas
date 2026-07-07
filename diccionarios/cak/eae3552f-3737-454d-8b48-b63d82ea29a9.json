@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yin",
+  "definition": "Yo primera persona ngular",
+  "additional_text": "Pro var Yin",
+  "examples": [
+    {
+      "example_maya": "Yin xibʼanun ri asiʼ taq rut nan at kʼo ta",
+      "example_spa": "Yo fui quien cortó tu leña cuando vos no estuviste",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin ninwajoʼ yibʼyaj",
+      "example_spa": "Yo quiero pasear",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin ruyon utziläj täq chʼabʼäl ninbʼij",
+      "example_spa": "Yo digo sólo buenas palabras",
+      "dialect": null
+    }
+  ],
+  "uuid": "eae3552f-3737-454d-8b48-b63d82ea29a9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tway\"",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Toalla",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutwaay\" Var Sʼubʼal qʼabʼaaj DomS Atzʼyaq Del Cast Toalla",
+  "examples": [
+    {
+      "example_maya": "Li achih uyoʼm utway\" chuqul ma tew",
+      "example_spa": "El hombre se ha puesto la toalla en el cuello porque hay frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tway\" kachokon cheh suʼbʼal wachaj chiʼl qʼabʼaj",
+      "example_spa": "La toalla sirve para secarse la cara, también las manos",
+      "dialect": null
+    }
+  ],
+  "uuid": "62cea696-bcb3-40e7-b7a8-60126881caba"
+}

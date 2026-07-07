@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼotzʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vendar, envolver",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinbʼotzʼoh Raíz PT Bʼotzʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xubʼotzʼ li ral, are chi kawarik",
+      "example_spa": "La mujer envolvió a su hijo para que se durmiera",
+      "dialect": null
+    }
+  ],
+  "uuid": "676d5b8d-ee46-408a-aee3-530975a02a9a"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "Moos",
+  "definition": "Sirviente, mozo",
+  "additional_text": "sInv Inmoos",
+  "examples": [
+    {
+      "example_maya": "Ma sach saʼ aachʼool xkʼeebʼal xwa linmoos",
+      "example_spa": "Que no se le olvide darle de comer a mi mozo",
+      "dialect": null
+    }
+  ],
+  "uuid": "8df709d2-fa4b-46b7-9c08-65c5752c67d8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

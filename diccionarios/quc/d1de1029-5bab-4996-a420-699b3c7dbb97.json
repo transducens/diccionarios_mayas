@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wopixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pinchar una cosa inflada; puyar cosa hueca; descomponer cosa hueca",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinwopiij",
+  "examples": [
+    {
+      "example_maya": "Kawaj kinwopij li kisok li staʼl",
+      "example_spa": "Quiero pinchar el panal de avispas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinwopij li ujul bʼah, cheh waqan",
+      "example_spa": "Destruí la cueva de taltuza con mi pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1de1029-5bab-4996-a420-699b3c7dbb97"
+}

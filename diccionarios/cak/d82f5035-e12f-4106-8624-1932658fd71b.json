@@ -1,0 +1,28 @@
+{
+  "entryWord": "Naqʼ",
+  "definition": "Pepita",
+  "additional_text": "ssp Runaqʼ var Sakil Ijaʼtz",
+  "examples": [
+    {
+      "example_maya": "Ri runaqʼ oj yalan nïm",
+      "example_spa": "La pepita de aguacate es muy grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri runaqʼ tulül yalan kow",
+      "example_spa": "La pepita de zapote es muy dura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun akʼwal xubʼiqʼ qa jun runaqʼ tapaʼl",
+      "example_spa": "Un niño se tragó una pepita de nance",
+      "dialect": null
+    }
+  ],
+  "uuid": "d82f5035-e12f-4106-8624-1932658fd71b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Posad",
+  "entryWordDialect": null,
+  "altEntryWord": "posad",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Posada, hospedaje; posada de navidad",
+  "definitionDialect": "",
+  "additional_text": "SnP Nupoosaad Var Warabʼal DomS Nimaqʼiij Del Cast Posada",
+  "examples": [
+    {
+      "example_maya": "Li posad bʼelejebʼ qʼij kabʼanik, areh tikbʼal re alaxbʼal",
+      "example_spa": "Las posadas se celebran durante nueve días y es el comienzo de la navidad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq li nimaq tinamit xuq nikʼaj chi tinamit, tojom li posad",
+      "example_spa": "En las ciudades grandes y otros pueblos, se paga el hospedaje",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chanim keʼntzukuj na nuposad",
+      "example_spa": "Ahorita iré a buscar una posada",
+      "dialect": null
+    }
+  ],
+  "uuid": "127659c5-c54d-4187-b78a-ece8396627be"
+}

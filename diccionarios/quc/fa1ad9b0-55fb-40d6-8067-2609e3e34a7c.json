@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chakʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchakʼiʼk, xuchakʼabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Chakʼakʼexik",
+  "altEntryWordDialect2": null,
+  "definition": "Ramas deshojadas Amontonar ramas sin hojas, llevar chiriviscos o cachos",
+  "definitionDialect": "",
+  "additional_text": "p VT Enu Raíz P Chakʼ",
+  "examples": [
+    {
+      "example_maya": "Li nima cheʼ sibʼalaj chakʼal li uqʼabʼ",
+      "example_spa": "Las ramas del árbol grande están deshojadas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Juchakʼaj",
+      "example_spa": "Un montón de ramas sin hojas",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa1ad9b0-55fb-40d6-8067-2609e3e34a7c"
+}

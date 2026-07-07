@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cucharón de jícara",
+  "definitionDialect": "",
+  "additional_text": "sinv Nupaakʼ Fbas //Pahkʼ// Raiz s Pakʼ DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li pakʼ kachokon che pakʼabʼal rikil pa tʼuʼy",
+      "example_spa": "El cucharón de jícara sirve para sacar comida de la olla",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b6cee98-5d62-4658-965a-47ef6fb3e569"
+}

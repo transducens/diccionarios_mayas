@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xotenïk",
+  "definition": "Llevar algo ladeado",
+  "additional_text": "vtd Xotexik, ninxotej Xote",
+  "examples": [
+    {
+      "example_maya": "Ri akʼwalaʼ taq yewaʼ, chöj nikixotej ri kilaq",
+      "example_spa": "Los niños cuando comen, sus tazas las llevan ladeadas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir chöj xinxotej el jun bʼojoʼy",
+      "example_spa": "Ayer me llevé una olla de lado",
+      "dialect": null
+    }
+  ],
+  "uuid": "c6b39ef8-45e0-4d7c-ac76-319d68c9b90e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

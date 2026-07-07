@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼanalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchʼaniʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuchʼanabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Desnudo; descubierta: cárne o masa",
+  "definitionDialect": "General",
+  "additional_text": "p",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuchʼanabʼa li ral te riʼ xumajjij ratinisaxik",
+      "example_spa": "La mujer desnudó a su hijo, para bañarlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xchʼaniʼ li akʼal rumal katinik",
+      "example_spa": "El niño se desnudó porque se va a bañar",
+      "dialect": null
+    }
+  ],
+  "uuid": "9903200f-e6d4-4a0b-adae-07e07b5fd10e"
+}

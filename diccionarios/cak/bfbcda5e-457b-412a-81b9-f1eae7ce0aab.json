@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pakapoʼ",
+  "definition": "Aclarar, amanecer, alborada, aurora, levantarse nube",
+  "additional_text": "vi Npakapoʼ",
+  "examples": [
+    {
+      "example_maya": "Xpakapoʼ yan pe, joʼ ri pa qasamaj",
+      "example_spa": "Ya está amaneciendo, vamos a nuestro trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan tikʼasäs kibʼix ri taq chikopiʼ taq npakapoʼ pe",
+      "example_spa": "Es muy alegre el canto de los pájaros cuando amanece",
+      "dialect": null
+    }
+  ],
+  "uuid": "bfbcda5e-457b-412a-81b9-f1eae7ce0aab",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

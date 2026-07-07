@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rixkʼaq kʼoy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de frijol",
+  "definitionDialect": "",
+  "additional_text": "sds Raíz S Ixkʼaq Raíz S Kʼooy DomS Kinaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li rixkʼaq kʼoy pa miqʼina juyubʼ kakʼiy wih",
+      "example_spa": "Este frijol crece en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e2099ac-600c-4005-b1f5-357a7006b4b7"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paqʼij",
+  "definition": "A medio día, de día",
+  "additional_text": "Advt Medio día Sinón Tikʼil qʼij Ant Chaqʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Yin yinuxlan paqʼij",
+      "example_spa": "Yo descanso a medio día",
+      "dialect": null
+    },
+    {
+      "example_maya": "Paqʼij chik",
+      "example_spa": "Ser tarde en la mañana como: ocho a once de la mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ced3c08-6dfe-4c83-9f7c-c59356c52028",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

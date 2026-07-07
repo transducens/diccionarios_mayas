@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jinowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hablar mucho en voz baja; hacer ruido las llamas del fuego",
+  "definitionDialect": "",
+  "additional_text": "vi Kajinowik Raíz VI Jin",
+  "examples": [
+    {
+      "example_maya": "Li uxaq li qʼaqʼ sibʼalaj nim xjinowik",
+      "example_spa": "La llama del fuego hace mucho ruido por el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c30fa01-684f-4c1a-b2d5-c92643b8a712"
+}

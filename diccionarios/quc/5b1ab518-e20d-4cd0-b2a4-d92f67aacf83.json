@@ -1,0 +1,19 @@
+{
+  "entryWord": "Puslik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fácil de cortar",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Pus",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalam si puslik ma paʼchaj",
+      "example_spa": "La tabla es fácil de cortar porque es de pino blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b1ab518-e20d-4cd0-b2a4-d92f67aacf83"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Loʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mezcla que va entre adobe o ladrillos, lodo entre adobe o ladrillos",
+  "definitionDialect": "General",
+  "additional_text": "ssp Ulooʼ Raíz S Looʼ",
+  "examples": [
+    {
+      "example_maya": "We maj uloʼ li xan kayaʼik na kuchap ta ribʼ",
+      "example_spa": "Si no se pone mezcla entre los adobes, no quedan seguros",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1930875-995f-4340-a779-24bbe5d64679"
+}

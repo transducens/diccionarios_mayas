@@ -1,0 +1,24 @@
+{
+  "entryWord": "Riʼjobʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinriʼjobʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Querer hacer algo, siendo ya anciano; hacer algo, aún siendo viejo",
+  "definitionDialect": "",
+  "additional_text": "VTD Raiz Adj Riʼj",
+  "examples": [
+    {
+      "example_maya": "Xuriʼjobʼej ubʼanik",
+      "example_spa": "Lo hizo hasta en su vejez",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li riʼja winaq xuriʼjobʼej etzʼanem kukʼ li akʼalabʼ",
+      "example_spa": "El anciano jugó hasta en su vejez con los niños",
+      "dialect": null
+    }
+  ],
+  "uuid": "873a09e6-4057-4f7c-ba6f-3c7080850a1a"
+}

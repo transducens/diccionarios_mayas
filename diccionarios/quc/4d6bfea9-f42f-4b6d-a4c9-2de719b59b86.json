@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqruch",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼeqruch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbol grande que se usa para leña",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li qʼeqruch na nima cheʼ taj, pa tewa juyubʼ kakʼiy wih, li ucheʼal sibʼalaj utz cheh siʼ",
+      "example_spa": "Este árbol no es muy grande, crece en tierra fría y su madera es buena para leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "4d6bfea9-f42f-4b6d-a4c9-2de719b59b86"
+}

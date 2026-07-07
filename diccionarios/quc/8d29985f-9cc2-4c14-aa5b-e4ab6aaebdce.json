@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼebʼun",
+  "entryWordDialect": null,
+  "altEntryWord": "qʼebʼun",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba que huele a menta, su tallo tiene cuatro esquinas y silba cuando la tiran al aire; cruz del monte",
+  "definitionDialect": "General",
+  "additional_text": "scv Nuqʼeebʼuun Sinón Krusim qʼayees Var Keewuuj Var Rukʼaʼ chiij Var Qʼechobʼ DomS Kunabʼal DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼun kachokon cheh qʼoxom pamaj",
+      "example_spa": "Cruz del monte, se usa para curar dolor de estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d29985f-9cc2-4c14-aa5b-e4ab6aaebdce"
+}

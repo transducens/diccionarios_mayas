@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nimaqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunimaqʼabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dedo pulgar",
+  "definitionDialect": "General",
+  "additional_text": "scv DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li nimaqʼabʼ are chom chwach li nikʼaj chik",
+      "example_spa": "El dedo pulgar es más grueso que los otros",
+      "dialect": null
+    }
+  ],
+  "uuid": "221ed8d3-ed82-48e8-8531-29c851231b6c"
+}

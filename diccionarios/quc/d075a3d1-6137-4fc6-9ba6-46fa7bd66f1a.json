@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pixkʼayajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapixkʼayajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saltar de alegría; brincar de alegría",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xumajij pixkʼayajem are taq xril uwach li rajaw",
+      "example_spa": "El perro empezó a saltar de alegría cuando vio a su amo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d075a3d1-6137-4fc6-9ba6-46fa7bd66f1a"
+}

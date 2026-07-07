@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rechʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer abertura larga, herida o abrir los ojos",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinrechʼoh Raíz PT Rechʼ",
+  "examples": [
+    {
+      "example_maya": "Ubʼaqʼwach li achih kinrechʼoh xa kinwesaj tzʼil chupam",
+      "example_spa": "Voy a abrir el ojo del hombre para quitarle la suciedad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xurechʼ li joʼq chij li aj",
+      "example_spa": "El hombre abrió el doblador del elote",
+      "dialect": null
+    }
+  ],
+  "uuid": "427f3d25-32f5-4b75-970f-994c15866126"
+}

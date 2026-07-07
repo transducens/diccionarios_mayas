@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jiqʼojöbʼ",
+  "definition": "Tos ferina, coqueluche",
+  "additional_text": "scs Nujiqʼojöbʼ Yabʼil",
+  "examples": [
+    {
+      "example_maya": "Wakamin ri akʼwalaʼ sibʼiläj jiqʼojöbʼ kʼo chi ke",
+      "example_spa": "Ahora muchos niños tienen tos ferina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri jiqʼojöbʼ taq yaruchöp jujun bʼey, (mul) xa jataʼq man yajiqʼ jumül",
+      "example_spa": "Cada vez que a uno le ataca la tos ferina, casi se ahoga",
+      "dialect": null
+    }
+  ],
+  "uuid": "eec9b8d2-37ec-47c5-ab46-0b6cc61adf65",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

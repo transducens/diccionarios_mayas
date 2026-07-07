@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼisoʼmanel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sastre",
+  "definitionDialect": "",
+  "additional_text": "SAgen Raíz VT Tʼis",
+  "examples": [
+    {
+      "example_maya": "Li tʼisoʼmanel, tajin kutʼis jun kamiʼx",
+      "example_spa": "El sastre está cosiendo una camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "5ea61491-1ef0-4df7-b6c4-2fed7ae4b852"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ser\"wes",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuserʼwes",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cerveza",
+  "definitionDialect": "",
+  "additional_text": "sInv Del Cast Cerveza",
+  "examples": [
+    {
+      "example_maya": "We kʼih ser\"wes katijowik kubʼan kʼax",
+      "example_spa": "Tomar cerveza en exceso, es dañino",
+      "dialect": null
+    }
+  ],
+  "uuid": "e00b133b-5241-4804-bfaa-9a7a222ef2fd"
+}

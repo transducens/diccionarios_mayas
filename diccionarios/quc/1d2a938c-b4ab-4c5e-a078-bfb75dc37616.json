@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzij",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Palabra",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li alah xubʼij jun utza tzij",
+      "example_spa": "El muchacho dijo una buena palabra",
+      "dialect": null
+    }
+  ],
+  "uuid": "1d2a938c-b4ab-4c5e-a078-bfb75dc37616"
+}

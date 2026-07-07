@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzijik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzijoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encender",
+  "definitionDialect": "",
+  "additional_text": "VTR Raíz VT Tzij",
+  "examples": [
+    {
+      "example_maya": "Are taq chinuxlanik kintzij nusikʼ",
+      "example_spa": "Cuando descanse voy a encender mi cigarro",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0bbbc76-39b4-4eec-a230-cf5dc2a1aea4"
+}

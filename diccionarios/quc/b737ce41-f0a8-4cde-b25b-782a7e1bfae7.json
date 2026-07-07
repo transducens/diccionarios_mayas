@@ -1,0 +1,24 @@
+{
+  "entryWord": "Waqʼawobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawaqʼawobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al quebrar una cosa o al pegar manadas con fuerza; dar puñetazos",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Waqʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj jeʼl xwaqʼawobʼ jun qʼabʼ chupalaj li achih",
+      "example_spa": "Fue muy fuerte el palmazo que le dieron en la cara al hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kaxon jeʼl xwaqʼawobʼik, are taq xtzaqik",
+      "example_spa": "El cajón sonó muy fuerte cuando se cayó",
+      "dialect": null
+    }
+  ],
+  "uuid": "b737ce41-f0a8-4cde-b25b-782a7e1bfae7"
+}

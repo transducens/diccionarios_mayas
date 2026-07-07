@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ixoq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mujer",
+  "definitionDialect": "",
+  "additional_text": "SnP SPl Ixoqiibʼ Mujeres (pl)",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kubʼan wah, kakeʼnik, xuq katʼisoʼmanik",
+      "example_spa": "La mujer hace comida, también muele y cose",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d7ada84-a10e-43ee-9fe4-80a504149650"
+}

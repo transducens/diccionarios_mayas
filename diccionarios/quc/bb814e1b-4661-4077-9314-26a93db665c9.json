@@ -1,0 +1,24 @@
+{
+  "entryWord": "Telebʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caja simbólica para celebrar la misa de un muerto; anda para llevar la caja de un muerto; parihuela",
+  "definitionDialect": "",
+  "additional_text": "snp scl Telebʼal xaqʼol Parihuela",
+  "examples": [
+    {
+      "example_maya": "Waʼ we telebʼal xaq xew\" kachokon pa taq mis kech kamnaqibʼ",
+      "example_spa": "Esta caja solo se usa en misas de difuntos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kaxah reh kamnaq chwi telebʼal kaya wih, are taq kabʼe pa muqbʼal",
+      "example_spa": "La caja mortuoria se lleva sobre anda hacia el cementerio",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb814e1b-4661-4077-9314-26a93db665c9"
+}

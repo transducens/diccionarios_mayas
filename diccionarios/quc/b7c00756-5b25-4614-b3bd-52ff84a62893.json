@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oqotaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwoqotaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corretear; despedir a un empleado",
+  "definitionDialect": "Español",
+  "additional_text": "vtd Raíz VT Oqot",
+  "examples": [
+    {
+      "example_maya": "Li achih karcesaj bʼi li rajʼikʼ ma na utz ta li unaʼoj",
+      "example_spa": "El hombre va a despedir a su sirvienta porque no es bueno el carácter de ella",
+      "dialect": null
+    }
+  ],
+  "uuid": "b7c00756-5b25-4614-b3bd-52ff84a62893"
+}

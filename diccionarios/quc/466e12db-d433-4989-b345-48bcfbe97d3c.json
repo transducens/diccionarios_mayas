@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaqabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼaqabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tiro",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li alah, naj xbʼe li ukʼaqabʼal, are taq xukʼaq bʼi li jun abʼaj",
+      "example_spa": "Cuando el muchacho tiró la piedra, ésta llegó muy lejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "466e12db-d433-4989-b345-48bcfbe97d3c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pantyon",
+  "entryWordDialect": null,
+  "altEntryWord": "Muqbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Ujul kamnaq",
+  "altEntryWordDialect2": null,
+  "definition": "Panteón",
+  "definitionDialect": "General",
+  "additional_text": "ssp Var Var Del Cast Panteón",
+  "examples": [
+    {
+      "example_maya": "Ee kʼo winaq pa pantyon kemuq wih",
+      "example_spa": "Hay personas que las entierran en panteones",
+      "dialect": null
+    }
+  ],
+  "uuid": "45f12609-0314-41d3-bb5a-5c6ce81dc20d"
+}

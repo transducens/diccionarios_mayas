@@ -1,0 +1,24 @@
+{
+  "entryWord": "Payuh",
+  "entryWordDialect": null,
+  "altEntryWord": "Chokonisabʼal",
+  "altEntryWordDialect": "DomS",
+  "altEntryWord2": "Atzʼyaq",
+  "altEntryWordDialect2": "DomS",
+  "definition": "Colador de harina; pañuelo",
+  "definitionDialect": "",
+  "additional_text": "scv Nupaayuu DomS Chokonisabʼal DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Li payuh kachokon che chayubʼal kʼaj rukʼ li salwaʼt",
+      "example_spa": "El colador se usa para separar la harina del afrecho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li payuh kebʼ uwach, kʼo nimaʼq xuq kʼo koʼkoj cheh",
+      "example_spa": "Hay dos clases de pañuelos, grandes y pequeños",
+      "dialect": null
+    }
+  ],
+  "uuid": "4431ef6a-445c-497f-a0a3-d3e56b748d99"
+}

@@ -1,0 +1,38 @@
+{
+  "entryWord": "Peʼ",
+  "definition": "Partícula que expresa insistencia",
+  "additional_text": "PartAfirm",
+  "examples": [
+    {
+      "example_maya": "¿Peʼ yaal?",
+      "example_spa": "¿Verdad que sí?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼkan peʼ",
+      "example_spa": "Así es",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aʼan peʼ",
+      "example_spa": "Sí, es él",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Kʼaʼ peʼ ru?",
+      "example_spa": "¿Por fin, qué es?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼaʼut peʼan",
+      "example_spa": "Sin embargo, así es",
+      "dialect": null
+    }
+  ],
+  "uuid": "41dcdbf5-c012-49c9-8e62-d397d9a2ad0b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

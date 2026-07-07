@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Woqʼabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bejuco de hojas comestibles",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li oqʼabʼ pa taq kʼacheʼlaj kakʼiy wih, pwi taq cheʼ",
+      "example_spa": "Esta hierba crece en las montañas sobre los árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "c550beca-59a3-4adf-bfd7-0f15f3c68a2c"
+}

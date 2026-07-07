@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rinixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrinij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar instrumento de tono bajo; tirarse pedos",
+  "definitionDialect": "",
+  "additional_text": "vt",
+  "examples": [
+    {
+      "example_maya": "Kinrinij jun",
+      "example_spa": "Tiró un pedo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d425cd04-3bd0-4683-a495-40e452583efd"
+}

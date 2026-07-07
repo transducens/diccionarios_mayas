@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roqoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karoqoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar aguado o con cosas suaves colgando",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz PT Roq",
+  "examples": [
+    {
+      "example_maya": "Xtuqutubʼ li achih, ma kʼih li ukikʼel xelik, xaq karoqoʼp chi li kabʼinik",
+      "example_spa": "El hombre camina de un lado a otro porque está débil por perder mucha sangre",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ff48c97-f699-4fe9-b864-dcb8ad3be7b7"
+}

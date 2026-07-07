@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pojopotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjopojotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar puerta, continuamente; clavar",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz P Poj",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal utaqkil katajin kapojopot chij li uchi jah",
+      "example_spa": "El visitante está tocando la puerta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajanel tajin kapojopot chubʼajixik jun wankeʼt",
+      "example_spa": "El carpintero está haciendo ruido al clavar la mesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ae91773-8523-4586-a99e-2293d1c666e7"
+}

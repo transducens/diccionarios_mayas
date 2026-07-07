@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼarexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar una cosa delgada y ancha",
+  "definitionDialect": "Spanish",
+  "additional_text": "vTD Kintzaareej Raíz P",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xa jun li uwuj xutzʼarej bʼik",
+      "example_spa": "El niño llevó solo un cuaderno",
+      "dialect": null
+    }
+  ],
+  "uuid": "f88c2456-5abc-498c-a209-e4f7e7192f9c"
+}

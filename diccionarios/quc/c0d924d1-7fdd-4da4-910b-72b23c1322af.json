@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nututexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnututej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrimerar, jatear",
+  "definitionDialect": "",
+  "additional_text": "vtd VT Nut",
+  "examples": [
+    {
+      "example_maya": "Li kaxlanwah kunututej kaxlanwah pa kaxon",
+      "example_spa": "El está ordenando el pan en el cajón",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0d924d1-7fdd-4da4-910b-72b23c1322af"
+}

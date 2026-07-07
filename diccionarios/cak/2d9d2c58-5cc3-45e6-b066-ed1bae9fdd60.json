@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mutzul",
+  "definition": "Cubierto Amontonado algo que no pesa",
+  "additional_text": "p Xmutzeʼ xumutzubʼaʼ var Kuchül, tzʼapäl, mutz, kʼojlen",
+  "examples": [
+    {
+      "example_maya": "Mutzul kan pa qʼayis ri cheʼ",
+      "example_spa": "El palo estaba cubierto en el monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Mutzul pa ruqʼuʼ ri yawaʼ",
+      "example_spa": "El enfermo está cubierto con su chamarra",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d9d2c58-5cc3-45e6-b066-ed1bae9fdd60",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

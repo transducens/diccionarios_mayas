@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wakax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Buey; ganado",
+  "definitionDialect": "",
+  "additional_text": "scv Nuwakaax DomS Chokop",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj e kʼih wakax xeqakʼayij pa li nimaqʼij",
+      "example_spa": "En la feria vendimos muchos bueyes",
+      "dialect": null
+    }
+  ],
+  "uuid": "62c3d5c5-789b-42fa-8b64-9f1377d5dd5b"
+}

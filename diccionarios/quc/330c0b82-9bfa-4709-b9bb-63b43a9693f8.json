@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuʼk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Codo",
+  "definitionDialect": "General",
+  "additional_text": "sinv Nuchʼuʼk DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li al Karmen xusok li uchʼuʼk",
+      "example_spa": "Carmen se lastimó el codo",
+      "dialect": null
+    }
+  ],
+  "uuid": "330c0b82-9bfa-4709-b9bb-63b43a9693f8"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼajoj",
+  "definition": "Sustantivo verbal que siempre requiere sustantivos",
+  "additional_text": "sv",
+  "examples": [
+    {
+      "example_maya": "Ri chʼajoj chʼajomabʼäl nibʼan chwaʼq",
+      "example_spa": "La lavada del lavadero se hace mañana",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼajoj tziyäq",
+      "example_spa": "Lavado de ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "3640ccc2-eed8-4615-ae6b-0cf3cef0b42d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

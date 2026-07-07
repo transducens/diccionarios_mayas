@@ -1,0 +1,19 @@
+{
+  "entryWord": "Toktoj",
+  "entryWordDialect": null,
+  "altEntryWord": "taktoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio sordo",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li a Kux xaq nima toktoj",
+      "example_spa": "Marcos es medio sordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e125b77d-555b-423d-8abe-47b17edf26f0"
+}

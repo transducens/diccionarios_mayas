@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼunuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encino de hojas pequeñas y muy verdes",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li tzʼunuj kakichokonisabʼej li ajxojolobʼ masat pa taq nimaqʼij",
+      "example_spa": "El tzʼunuuj lo usan los bailadores del baile del venado en las fiestas",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5bb6c10-d9b4-470f-a977-5a2dc4bfd5f9"
+}

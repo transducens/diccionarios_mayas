@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajkʼas",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deudor, tramposo",
+  "definitionDialect": "Español",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li achih, xa ajkʼas xa je riʼ xok pa cheʼ",
+      "example_spa": "El hombre es tramposo, por eso lo metieron a la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "85eafd3c-bdc9-4d23-ae5f-082855bcd6b4"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulja",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼulja",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coment",
+  "definitionDialect": "General",
+  "additional_text": "sc Raíz S Jaa",
+  "examples": [
+    {
+      "example_maya": "Kʼuljah, kuchax chunaqaj jun, xuqe chkech li wech",
+      "example_spa": "Vecinos, se les llama a las personas que viven cerca de la casa de uno",
+      "dialect": null
+    }
+  ],
+  "uuid": "39beee26-7221-4dcb-b7cb-b7f0f0ab23a6"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muleʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Montón desordenado",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raiz VT Mol (mul)",
+  "examples": [
+    {
+      "example_maya": "Kʼo kebʼ muleʼn siʼ chwa jah",
+      "example_spa": "Hay dos montones de leña en el patio de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "6d49e050-a53f-452f-8ea7-4ffee19a28bf"
+}

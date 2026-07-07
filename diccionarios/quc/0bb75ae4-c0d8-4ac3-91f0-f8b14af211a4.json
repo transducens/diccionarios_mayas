@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ruchurik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pequeña: boca de cosas o la forma de los labios al silbar",
+  "definitionDialect": "Adj.",
+  "additional_text": "Raíz PT Ruch",
+  "examples": [
+    {
+      "example_maya": "Li alah ruchurik li uchiʼ ma tajin kaxubʼanik",
+      "example_spa": "El muchacho tiene la boca pequeña porque está silbando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uchiʼ li kisok li akʼaʼp ruchurik",
+      "example_spa": "La abertura del panal es pequeña",
+      "dialect": null
+    }
+  ],
+  "uuid": "0bb75ae4-c0d8-4ac3-91f0-f8b14af211a4"
+}

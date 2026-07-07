@@ -1,0 +1,23 @@
+{
+  "entryWord": "XIʼWATZ",
+  "definition": "1 ceja 2 pestaña",
+  "additional_text": "s1a nxiʼwatza raíz xiʼ s ds xumlalbʼaj",
+  "examples": [
+    {
+      "example_maya": "Polan t-xiʼwatz Luch ikyx ikytzan te titzʼan",
+      "example_spa": "Pedro tiene tupidas las pestañas, igual que su hermano menor",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tzanx qtenka qoʼ at qxiʼwatz, bʼix ikyx kye alemaj",
+      "example_spa": "Todos nosotros tenemos pestañas y lo mismo los animales",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "1e3592a9-cc3e-4c62-b87d-41cf198ff6a2",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

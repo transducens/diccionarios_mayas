@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yusun",
+  "definition": "Sentir dolor como llaga con materia",
+  "additional_text": "vi Niyusun",
+  "examples": [
+    {
+      "example_maya": "Rupan ri nuchʼaʼk janíla niyusun, ruma riʼ nipujan",
+      "example_spa": "Me duele mucho la llaga, porque me supura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Janíla (janina) niyusun ri pa nusut ruma ri tapäl",
+      "example_spa": "Me duele mucho la cabeza por el mecapal",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b7a68c3-8ce4-4bc1-8857-507a3990c477",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

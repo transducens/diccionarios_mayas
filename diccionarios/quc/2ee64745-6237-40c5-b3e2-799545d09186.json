@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xukuʼmanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxukuʼmanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar arrodillado",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VI Xuk",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kaxukuʼmanik xok pa tyox",
+      "example_spa": "La mujer entró arrodillada a la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ee64745-6237-40c5-b3e2-799545d09186"
+}

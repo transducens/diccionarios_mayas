@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼokanem",
+  "entryWordDialect": null,
+  "altEntryWord": "kachʼokik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Germinar",
+  "definitionDialect": "",
+  "additional_text": "VI Kachʼookanik",
+  "examples": [
+    {
+      "example_maya": "Li jal chʼaqalik, ronojel xchʼokanik",
+      "example_spa": "Las mazorcas mojadas, germinaron todas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e39a89a-acc4-4f98-b907-a67a9f88c386"
+}

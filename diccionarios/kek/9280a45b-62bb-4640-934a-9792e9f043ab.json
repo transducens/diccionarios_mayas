@@ -1,0 +1,18 @@
+{
+  "entryWord": "Yak",
+  "definition": "Gato de monte, zorra",
+  "additional_text": "SInv Inyak",
+  "examples": [
+    {
+      "example_maya": "Ak naabʼalebʼ xkaxlan li Xwaan ak xkʼam li yak",
+      "example_spa": "Ya son varias las gallinas de Juana que se ha robado el gato de monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "9280a45b-62bb-4640-934a-9792e9f043ab",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

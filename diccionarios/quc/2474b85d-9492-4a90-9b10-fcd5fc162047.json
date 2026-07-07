@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qachaqobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortarse; lastimarse",
+  "definitionDialect": "General",
+  "additional_text": "vi Kaqachaqobʼik Raíz P Qach",
+  "examples": [
+    {
+      "example_maya": "Xqachaqobʼ li nuqʼabʼ rumal li chʼichʼ",
+      "example_spa": "Me corté la mano con el machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "2474b85d-9492-4a90-9b10-fcd5fc162047"
+}

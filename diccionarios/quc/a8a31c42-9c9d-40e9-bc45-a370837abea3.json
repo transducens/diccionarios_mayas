@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sikʼixik uwa wuj",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsikʼij uwa wuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Leer Leer",
+  "definitionDialect": "",
+  "additional_text": "vts Raíz VT Siikʼ Raíz S Wach Raíz S Wuuj",
+  "examples": [
+    {
+      "example_maya": "Li akʼal tajin kusikʼij uwa wuj pa li tijobʼal",
+      "example_spa": "El niño está leyendo en la escuela",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sikʼin uwa wuj sibʼalaj rajawaxik chi karetaʼmaj jun",
+      "example_spa": "Es muy necesario que uno aprenda a leer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sikʼin uwa wuj",
+      "example_spa": "Leer",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8a31c42-9c9d-40e9-bc45-a370837abea3"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kachʼin ru",
+  "definition": "Estrecho, angosto",
+  "additional_text": "Adj Xkachʼnoʼ ru, xkachʼinal ru",
+  "examples": [
+    {
+      "example_maya": "Kachʼin ru li okebʼaal",
+      "example_spa": "La entrada es muy estrecha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kachʼin ru li bʼe",
+      "example_spa": "El camino es muy estrecho",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6c5fb3e-c578-4a0f-9e58-3bf90e66c2be",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

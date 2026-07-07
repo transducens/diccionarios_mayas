@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tzaqonik",
+  "definition": "Perder alguna cosa, botar alguna cosa, echar vapor",
+  "additional_text": "vt Tzaqoxik, (tzaqik), nintzäq vt Tzäq",
+  "examples": [
+    {
+      "example_maya": "Taq xintäj yaʼ, xintzäq ri nuqʼijobʼal",
+      "example_spa": "Cuando me emborraché, perdí mi reloj",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun anin bʼenäq jun ixöq, taq xuqʼemayij riʼ tzan bʼey, xutzäq jun akʼwal",
+      "example_spa": "Una mujer iba corriendo y cuando cruzó la esquina, botó a un patojo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin taq yitujan, nintzäq qʼaqʼ",
+      "example_spa": "Cuando me baño en el temascal echa bastante vapor",
+      "dialect": null
+    }
+  ],
+  "uuid": "64ba0e40-c9b9-4ad6-bbc5-58f455dbcb2e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

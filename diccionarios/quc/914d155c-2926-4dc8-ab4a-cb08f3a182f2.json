@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kapeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Café",
+  "definitionDialect": "",
+  "additional_text": "scv Nukapee DomS Café",
+  "examples": [
+    {
+      "example_maya": "Li kapeh re Ar\"mit are sibʼalaj jeʼl nah",
+      "example_spa": "El café de Guatemala es el mejor",
+      "dialect": null
+    }
+  ],
+  "uuid": "914d155c-2926-4dc8-ab4a-cb08f3a182f2"
+}

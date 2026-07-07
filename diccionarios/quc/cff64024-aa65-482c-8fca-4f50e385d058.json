@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pinem na",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aunque no",
+  "definitionDialect": "General",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Pinem na katbʼe at xaq si kinbʼe wi in pa chak",
+      "example_spa": "Aunque no te vayas, yo tengo que ir al trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "cff64024-aa65-482c-8fca-4f50e385d058"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "QʼANLEʼN",
+  "definition": "madurez",
+  "additional_text": "sz sin bʼantleʼn raíz qʼan adj",
+  "examples": [
+    {
+      "example_maya": "Maʼ bʼant sandiy tuʼn qʼanleʼn",
+      "example_spa": "Ya está buena la sandía por la madurez",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Miyaʼ tuʼn qʼanleʼn ma tzqʼaj mankan",
+      "example_spa": "No llegó a su maduréz el mango",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5aa0bf24-c68b-420a-9d0c-02cd2ed9220c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

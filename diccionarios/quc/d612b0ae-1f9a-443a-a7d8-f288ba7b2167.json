@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nim raqan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Largo; alto (de estatura)",
+  "definitionDialect": "",
+  "additional_text": "sCL Ant Koʼl raqan Raíz Adj Nim Raíz S Raqan",
+  "examples": [
+    {
+      "example_maya": "Li tem rech jah, nimaʼq raqan",
+      "example_spa": "Los tendales de la casa son largos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah sibʼalaj nim raqan",
+      "example_spa": "El muchacho es muy alto",
+      "dialect": null
+    }
+  ],
+  "uuid": "d612b0ae-1f9a-443a-a7d8-f288ba7b2167"
+}

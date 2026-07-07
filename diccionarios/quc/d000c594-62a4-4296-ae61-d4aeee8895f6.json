@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼat",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼat",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Red",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "sInv Chokonsaʼn",
+  "examples": [
+    {
+      "example_maya": "Li achih, reqam jun kʼat jal",
+      "example_spa": "El hombre lleva cargada una red de mazorcas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼat are upatan kaya jal chpam are taq kabʼan jachʼ",
+      "example_spa": "La red sirve para guardar mazorcas al tapiscar",
+      "dialect": "Dom.S."
+    }
+  ],
+  "uuid": "d000c594-62a4-4296-ae61-d4aeee8895f6"
+}

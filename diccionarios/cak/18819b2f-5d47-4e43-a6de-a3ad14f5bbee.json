@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mamaʼaj",
+  "definition": "Abuelo",
+  "additional_text": "sos Numamaʼ Xikin mamaʼaj Bisabuelo Ant Atiʼt winäq, achʼalal",
+  "examples": [
+    {
+      "example_maya": "Ri rutataʼ ri nataʼ ja riʼ ri numamaʼ",
+      "example_spa": "El papá de mi papá es mi abuelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri e mamaʼaj kiyon achiʼaʼ e rijitaʼq",
+      "example_spa": "Todos los abuelos son hombres viejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "18819b2f-5d47-4e43-a6de-a3ad14f5bbee",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

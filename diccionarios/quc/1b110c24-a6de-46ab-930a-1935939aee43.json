@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tiriqiʼnem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katiriqiʼnik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar el gallo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz Onomat Tiriqiʼ",
+  "examples": [
+    {
+      "example_maya": "Li amaʼ katiriqiʼnik are taq kape usaqirik",
+      "example_spa": "El gallo canta al amanecer",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b110c24-a6de-46ab-930a-1935939aee43"
+}

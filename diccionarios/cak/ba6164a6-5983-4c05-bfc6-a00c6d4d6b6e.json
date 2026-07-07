@@ -1,0 +1,23 @@
+{
+  "entryWord": "Äkʼ",
+  "definition": "Ave de corral: gallina, pollo",
+  "additional_text": "sInv Wäkʼ var Mamaʼ, (mamaʼäkʼ) Chiköp, awäj",
+  "examples": [
+    {
+      "example_maya": "Ri äkʼ aj ruwajay",
+      "example_spa": "Las gallinas son aves domésticas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri äkʼ nikibʼän saqmoloʼ chuqa ütz yetij",
+      "example_spa": "Las gallinas ponen huevos y también son buenas para comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba6164a6-5983-4c05-bfc6-a00c6d4d6b6e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

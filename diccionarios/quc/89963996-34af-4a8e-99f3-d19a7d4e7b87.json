@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqa staʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Avispa negra",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz Adj Qʼeq Raiz S Staʼl DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Kaspoj jawi li katyoʼn wi, li qʼeqa staʼl ma kʼo kiki",
+      "example_spa": "Donde pica la avispa negra, se hincha, porque tiene aguijón",
+      "dialect": null
+    }
+  ],
+  "uuid": "89963996-34af-4a8e-99f3-d19a7d4e7b87"
+}

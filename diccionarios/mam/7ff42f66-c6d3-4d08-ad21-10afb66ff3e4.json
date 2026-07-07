@@ -1,0 +1,23 @@
+{
+  "entryWord": "ALWUUN",
+  "definition": "laguna",
+  "additional_text": "s1 nʼalwuna del español laguna ds aʼ",
+  "examples": [
+    {
+      "example_maya": "At jun alwun ma tzi xkyaq chijan",
+      "example_spa": "Hay una laguna en la laguneta",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Neʼpa tʼalwun Mak jatuma tkuʼx tal tkyiẍ",
+      "example_spa": "Acaso es pequeña la laguna de Marcos, en donde tiene sus peces",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7ff42f66-c6d3-4d08-ad21-10afb66ff3e4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

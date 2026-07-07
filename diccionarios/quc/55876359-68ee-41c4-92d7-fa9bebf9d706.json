@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lavarse la cabeza",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinbʼaqoh Raíz VT Bʼaq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xbʼe chubʼaqik uwiʼ",
+      "example_spa": "La mujer fue a lavarse la cabeza al río",
+      "dialect": null
+    }
+  ],
+  "uuid": "55876359-68ee-41c4-92d7-fa9bebf9d706"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Saaj wakax",
+  "definition": "Novillo, novilla, ternero, ternera",
+  "additional_text": "SCL Insaaj wakax",
+  "examples": [
+    {
+      "example_maya": "Xkamjun insaaj wakax",
+      "example_spa": "Se murió una novilla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xeʼkʼulun aj kʼay saaj wakax",
+      "example_spa": "Vinieron vendedores de toretes",
+      "dialect": null
+    }
+  ],
+  "uuid": "c4c1ab4e-6ee5-4690-a069-cf42b32bf1d9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

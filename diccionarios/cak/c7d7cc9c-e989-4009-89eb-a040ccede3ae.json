@@ -1,0 +1,23 @@
+{
+  "entryWord": "Awex",
+  "definition": "Milpa pequeña",
+  "additional_text": "sInv Wawex Awän, tikoʼn",
+  "examples": [
+    {
+      "example_maya": "Ri achiʼaʼ e aj pa juyuʼ kʼo kawex",
+      "example_spa": "Los hombres del campo tienen siembra de milpa pequeña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wawex chuchiʼ cheʼ, yalan nutäj (nutij) ri kuk",
+      "example_spa": "Mis milpitas en la orilla de los árboles, las come mucho la ardilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7d7cc9c-e989-4009-89eb-a040ccede3ae",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Winäq",
+  "definition": "Gente, persona",
+  "additional_text": "scv Nuwinäq Winäq",
+  "examples": [
+    {
+      "example_maya": "E kʼo winäq yalan e utz chuqa e kʼo ri yalan e itzel",
+      "example_spa": "Hay personas que son buenas y hay personas muy malas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ruwa winäq hojeada winäq kʼu",
+      "example_spa": "Ídolo que se formaba de la ceniza de sus buenos caciques",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb5cd395-4bea-4039-88f0-c39ef6ed93f6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

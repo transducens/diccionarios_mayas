@@ -1,0 +1,23 @@
+{
+  "entryWord": "Limónix",
+  "definition": "Limonar",
+  "additional_text": "sInv Nulimónix Cheʼ Limón",
+  "examples": [
+    {
+      "example_maya": "Ri limónix jun cheʼ ruloman ök rupalen, ri ruwäch chʼanchʼöj titij",
+      "example_spa": "El limonar es un árbol de regular altura, su fruta es ácida al comerla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri limonx ruwachinel yabʼil niraqʼomaj",
+      "example_spa": "El limón cura diferentes enfermedades",
+      "dialect": null
+    }
+  ],
+  "uuid": "992098d7-5237-43ef-a221-2ef3666777eb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

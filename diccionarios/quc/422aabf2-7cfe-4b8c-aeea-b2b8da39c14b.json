@@ -1,0 +1,24 @@
+{
+  "entryWord": "Raʼlixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lazar, tirar lazo para amarrar bestia y ganados; cantinear; proponer",
+  "definitionDialect": "General",
+  "additional_text": "vro Kinraʼliij",
+  "examples": [
+    {
+      "example_maya": "Jun wakax tajin kinraʼlij, ma xa xtzoqopitajik",
+      "example_spa": "Estoy lazando un buey porque se había desatado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajtzurulubʼ xuraʼlij li wakax",
+      "example_spa": "El torero lazó el buey",
+      "dialect": null
+    }
+  ],
+  "uuid": "422aabf2-7cfe-4b8c-aeea-b2b8da39c14b"
+}

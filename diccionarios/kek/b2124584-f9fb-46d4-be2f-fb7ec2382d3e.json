@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼabʼay",
+  "definition": "Pequeño, poco",
+  "additional_text": "Adj Xbʼabʼayoʼ, xbʼabʼayil",
+  "examples": [
+    {
+      "example_maya": "Bʼabʼay chik ma nahulak",
+      "example_spa": "Falta poco para que llegue",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼabʼay aʼin chi ru aʼan",
+      "example_spa": "Este es más pequeño que ésa",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2124584-f9fb-46d4-be2f-fb7ec2382d3e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

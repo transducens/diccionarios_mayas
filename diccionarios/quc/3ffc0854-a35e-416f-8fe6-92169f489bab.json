@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kokʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukokʼal, xkokʼarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fino, bien molido",
+  "definitionDialect": "",
+  "additional_text": "Adj VI Kookʼsaneem Rumear VTD Kookʼsaxik Afinar SInv Kookʼsaʼn Muy fina: masa, frijol cocido o granos molidos",
+  "examples": [
+    {
+      "example_maya": "Li kʼaj rech trikoh sibʼalaj kokʼ",
+      "example_spa": "La harina de trigo está muy fina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq sibʼalaj kokʼ li ubʼatzʼ",
+      "example_spa": "La mujer tiene hilo fino",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ffc0854-a35e-416f-8fe6-92169f489bab"
+}

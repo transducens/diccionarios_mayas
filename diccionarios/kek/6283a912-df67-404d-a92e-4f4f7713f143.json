@@ -1,0 +1,18 @@
+{
+  "entryWord": "Kamenaq",
+  "definition": "Muerto, cadáver",
+  "additional_text": "sInv Inkamenaq",
+  "examples": [
+    {
+      "example_maya": "Ewer xeʼxmuq li kamenaq li xkam saʼ ospital",
+      "example_spa": "Ayer enterraron a la persona que se murió en el hospital",
+      "dialect": null
+    }
+  ],
+  "uuid": "6283a912-df67-404d-a92e-4f4f7713f143",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

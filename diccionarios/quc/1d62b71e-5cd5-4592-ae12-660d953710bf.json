@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juxichʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un Montón de paja o de hojas",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Xichʼ",
+  "examples": [
+    {
+      "example_maya": "Li reqaʼn li kej sibʼalaj juxichʼaj",
+      "example_spa": "La carga del caballo es un montón",
+      "dialect": null
+    }
+  ],
+  "uuid": "1d62b71e-5cd5-4592-ae12-660d953710bf"
+}

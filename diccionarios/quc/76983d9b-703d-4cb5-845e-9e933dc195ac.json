@@ -1,0 +1,19 @@
+{
+  "entryWord": "Charoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse una cosa que está colgando",
+  "definitionDialect": "",
+  "additional_text": "vi Kachaaroʼpik Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li utiw nim li ujeʼ kacharoʼpik",
+      "example_spa": "La cola del coyote es grande y se mueve",
+      "dialect": null
+    }
+  ],
+  "uuid": "76983d9b-703d-4cb5-845e-9e933dc195ac"
+}

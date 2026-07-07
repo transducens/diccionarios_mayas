@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼoseʼl",
+  "definition": "Alboroto (dulce) Color pinto en un animal",
+  "additional_text": "sInv Nubʼoseʼl Var Xolpïn",
+  "examples": [
+    {
+      "example_maya": "Ri aj pa sumaʼiʼ ruyon bʼoseʼl nikikʼayij",
+      "example_spa": "Los patzuneros venden sólo alboroto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri bʼoseʼl kʼo kabʼ rikin",
+      "example_spa": "El alboroto tiene dulce",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8baf957-e18b-4b62-9e64-d7e24ad70c27",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

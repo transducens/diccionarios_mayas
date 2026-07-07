@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sokotajik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Herida; lastimada",
+  "definitionDialect": "",
+  "additional_text": "scv Nusokotajiik Raíz vi Sok",
+  "examples": [
+    {
+      "example_maya": "Li sokotajik na kakunataj ta chanim",
+      "example_spa": "La herida no se cura luego",
+      "dialect": null
+    }
+  ],
+  "uuid": "2a41267e-dab5-4e39-9067-68d84832dd34"
+}

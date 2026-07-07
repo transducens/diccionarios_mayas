@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pichichexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpichichej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regar agua bajo presión; orinar; cortar muchas frutas con palo",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz P Pich",
+  "examples": [
+    {
+      "example_maya": "Li achih xupichichej li joron chujaʼxik li ichaj",
+      "example_spa": "El hombre regó las verduras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xupichichej li uchul pa li bʼeh",
+      "example_spa": "El niño orinó en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "a2017dce-90d3-437d-b981-09432984bd31"
+}

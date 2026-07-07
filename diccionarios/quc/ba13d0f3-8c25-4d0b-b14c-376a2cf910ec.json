@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼenebʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bajo (poca estatura); chaparro",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz PT Bʼen",
+  "examples": [
+    {
+      "example_maya": "Jun bʼenebʼik patax xuloqʼ li ixoq",
+      "example_spa": "La mujer compró un pato chaparro y gordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba13d0f3-8c25-4d0b-b14c-376a2cf910ec"
+}

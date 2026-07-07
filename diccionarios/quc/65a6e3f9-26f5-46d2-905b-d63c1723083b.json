@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qawoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer frutas duras",
+  "definitionDialect": "General",
+  "additional_text": "vi Kaqaawoʼpik Raíz VT Qaw",
+  "examples": [
+    {
+      "example_maya": "Li aq kaqawoʼp chrij li qʼoqʼ",
+      "example_spa": "El cerdo hace ruido al comer chilacayote",
+      "dialect": null
+    }
+  ],
+  "uuid": "65a6e3f9-26f5-46d2-905b-d63c1723083b"
+}

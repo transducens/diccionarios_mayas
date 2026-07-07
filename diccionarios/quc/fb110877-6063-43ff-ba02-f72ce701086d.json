@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼunnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar una persona baja; sonar demasiado el bajo de la marimba",
+  "definitionDialect": "",
+  "additional_text": "vi Kabʼunnajik Raiz P Bʼun",
+  "examples": [
+    {
+      "example_maya": "Li qʼojom xaq kabʼunnajik",
+      "example_spa": "El bajo de la marimba está sonando muy grave",
+      "dialect": null
+    }
+  ],
+  "uuid": "fb110877-6063-43ff-ba02-f72ce701086d"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Akʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Terreno fértil, virgen; tierra que siempre tiene plantas verdes y produce mucho",
+  "definitionDialect": "Dom.S. Uleew",
+  "additional_text": "SaP",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj jeʼl li abʼix kuya li akʼal ulew",
+      "example_spa": "El terreno fértil da buena milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "34f3897d-ce84-4f78-8045-e2a9cd97d44e"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Plin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resbaloso (mojado)",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Pilin Var Charan Raíz VT Pil",
+  "examples": [
+    {
+      "example_maya": "We xubʼan jabʼ kubʼan plin li bʼeh",
+      "example_spa": "Si llueve, se pone resbaloso el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "6099f262-3d47-4ad7-941f-758dd6130b49"
+}

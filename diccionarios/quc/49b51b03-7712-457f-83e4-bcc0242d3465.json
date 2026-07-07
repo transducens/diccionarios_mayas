@@ -1,0 +1,19 @@
+{
+  "entryWord": "Iiyom (iyom)",
+  "entryWordDialect": null,
+  "altEntryWord": "Wiyom",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comadrona; partera",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li iyom keril li yawabʼ taq ixoqibʼ",
+      "example_spa": "La comadrona atiende a las mujeres embarazadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "49b51b03-7712-457f-83e4-bcc0242d3465"
+}

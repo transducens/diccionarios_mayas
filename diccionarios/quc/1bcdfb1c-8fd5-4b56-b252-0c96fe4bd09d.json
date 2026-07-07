@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qajbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "qajibʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sitio de construcción o siembra, objeto para bajar",
+  "definitionDialect": "",
+  "additional_text": "SInv Uqaajbʼal Fbas Qaʼj (qah)",
+  "examples": [
+    {
+      "example_maya": "Li qʼatbʼal tzij xuloqʼ uqajbʼal le tijobʼal",
+      "example_spa": "El gobierno compró el sitio donde construir la escuela",
+      "dialect": null
+    }
+  ],
+  "uuid": "1bcdfb1c-8fd5-4b56-b252-0c96fe4bd09d"
+}

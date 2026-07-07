@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xepekar",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Azulejo",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xepekar raxtzanatzoj li rij, saq li uwa chukʼuʼx",
+      "example_spa": "El azulejo es de color azul y pecho blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "41aef64d-d870-4cda-838d-8f7382f82d9a"
+}

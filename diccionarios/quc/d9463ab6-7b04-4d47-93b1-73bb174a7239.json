@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chokom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja de burro (tipo de arbusto de flores moradas, la corteza se usa para teñir cotones)",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchookoom Fbas //Chohkom// Kʼiix Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li chokom kachokon chech tzʼajbʼal xyal",
+      "example_spa": "La hoja de burro sirve para teñir cotones",
+      "dialect": null
+    }
+  ],
+  "uuid": "d9463ab6-7b04-4d47-93b1-73bb174a7239"
+}

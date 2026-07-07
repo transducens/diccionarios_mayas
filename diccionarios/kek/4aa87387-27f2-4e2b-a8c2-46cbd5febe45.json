@@ -1,0 +1,33 @@
+{
+  "entryWord": "Paabʼanel",
+  "definition": "Miembro de una iglesia, fe, creencia, etc, obediente, cumplido, religioso, creyente",
+  "additional_text": "SAgen Inpaabʼanel Var Aj paabʼanel",
+  "examples": [
+    {
+      "example_maya": "Tzʼaqal aj paabʼanel a winq aʼan saʼ kʼanjel yalaq chi bʼar",
+      "example_spa": "Ese hombre es muy cumplido dondequiera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winq aj paabʼanel junelik yoʼyo saʼ sahil chʼoolejil",
+      "example_spa": "El hombre obediente siempre vive feliz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aj paabʼanel saʼ katoolk",
+      "example_spa": "Es creyente católico",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aj paabʼanel rikʼin li chinam San Juan",
+      "example_spa": "Es miembro de la cofradía de San Juan",
+      "dialect": null
+    }
+  ],
+  "uuid": "4aa87387-27f2-4e2b-a8c2-46cbd5febe45",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

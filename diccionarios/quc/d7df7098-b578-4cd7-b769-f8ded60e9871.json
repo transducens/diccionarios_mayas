@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wuqkʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ciento cuarenta",
+  "definitionDialect": "General",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal bʼoʼj xubʼan wuqkʼal xaʼr rech kukʼayij",
+      "example_spa": "El alfarero hizo ciento cuarenta jarritos para vender",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7df7098-b578-4cd7-b769-f8ded60e9871"
+}

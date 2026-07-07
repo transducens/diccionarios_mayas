@@ -1,0 +1,19 @@
+{
+  "entryWord": "Charar",
+  "entryWordDialect": null,
+  "altEntryWord": "Nucharar",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de juego Consiste en resbalarse, usando una tabla encima de hojas o grama en una cuesta",
+  "definitionDialect": "",
+  "additional_text": "SInv Coment Raíz P Char DomS Etzʼaneem",
+  "examples": [
+    {
+      "example_maya": "Li akʼal utz karil li charar",
+      "example_spa": "Al niño le gusta resbalarse con la tabla",
+      "dialect": null
+    }
+  ],
+  "uuid": "2da177f7-9f88-4998-af3c-7a3a340fb3e4"
+}

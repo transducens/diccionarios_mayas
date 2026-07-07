@@ -1,0 +1,23 @@
+{
+  "entryWord": "Aatinank",
+  "definition": "Hablar con alguien, consultar, tener relación sexual",
+  "additional_text": "VTD Xwaatina",
+  "examples": [
+    {
+      "example_maya": "Xwaatina laj eechal chʼochʼ",
+      "example_spa": "Hablé con el dueño del terreno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼajom kiraatina li tʼujixq",
+      "example_spa": "El muchacho tuvo relaciones sexuales con si novia",
+      "dialect": null
+    }
+  ],
+  "uuid": "dcbf01e9-bc23-4f65-95ab-d1205db8fe27",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

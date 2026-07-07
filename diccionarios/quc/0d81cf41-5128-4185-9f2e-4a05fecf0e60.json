@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nawal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espíritu; nagual",
+  "definitionDialect": "",
+  "additional_text": "SInv Nunawaal",
+  "examples": [
+    {
+      "example_maya": "Ri qaqajaw na qʼalah ta ma xa nawal",
+      "example_spa": "Dios no es visible porque es espíritu",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d81cf41-5128-4185-9f2e-4a05fecf0e60"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mokik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmokoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedir ayuda, favor o que alguien le acompañe en un viaje",
+  "definitionDialect": "",
+  "additional_text": "VTR Raíz VT Mok",
+  "examples": [
+    {
+      "example_maya": "Kinmok na li achih are chi karerej li weqaʼn",
+      "example_spa": "Al hombre le voy a pedir favor que vaya a acarrear mi carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "39aa0112-b3e2-45d4-b9e2-5c0bbdaa08b4"
+}

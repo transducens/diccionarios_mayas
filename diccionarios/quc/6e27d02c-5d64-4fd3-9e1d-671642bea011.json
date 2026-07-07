@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yumulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xyumiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuyumubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Cerrar la boca",
+  "definitionDialect": "general",
+  "additional_text": "P Raíz P Yum",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq yumul uxe reh ma xa royowal",
+      "example_spa": "El hombre tiene cerrada la boca porque está enojado",
+      "dialect": null
+    }
+  ],
+  "uuid": "6e27d02c-5d64-4fd3-9e1d-671642bea011"
+}

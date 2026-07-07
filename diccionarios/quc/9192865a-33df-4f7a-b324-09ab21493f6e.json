@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rajajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karajajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido la tempestad; oír ruido de árboles al botarlos",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz VT Raj",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj karajaj kaquljah",
+      "example_spa": "Hay mucho ruido de tempestad",
+      "dialect": null
+    }
+  ],
+  "uuid": "9192865a-33df-4f7a-b324-09ab21493f6e"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Takʼakʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintakʼakʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regañar; estar alto y recto; levantarse rápidamente",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Takʼ",
+  "examples": [
+    {
+      "example_maya": "Xtakʼakʼ chwij",
+      "example_spa": "Me regañó mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katakʼakʼik xwaʼlijik",
+      "example_spa": "Se levantó de repente",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c1ece19-203d-4a99-8961-db414bc27f95"
+}

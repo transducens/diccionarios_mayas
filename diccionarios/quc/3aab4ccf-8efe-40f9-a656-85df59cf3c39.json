@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juwaʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un vellón; bola de lana que sale de una oveja al trasquilarla",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li achih, kʼo juwaʼaj lanah, kukʼayij",
+      "example_spa": "El hombre va a vender un vellón de lana",
+      "dialect": null
+    }
+  ],
+  "uuid": "3aab4ccf-8efe-40f9-a656-85df59cf3c39"
+}

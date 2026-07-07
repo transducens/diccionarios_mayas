@@ -1,0 +1,24 @@
+{
+  "entryWord": "Syer\"",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusyer\"",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Serrucho; sierra; cierre",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chʼiichʼ Del Cast Sierra",
+  "examples": [
+    {
+      "example_maya": "Li syer\" kachokon cheh pusbʼal tzʼalam rachiʼl regl\"",
+      "example_spa": "La sierra sirve para aserrar tablas y reglas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajanel syer\" kuchokonisabʼej",
+      "example_spa": "El carpintero usa serrucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "1191b202-0796-495e-b135-4a5dde35e6c8"
+}

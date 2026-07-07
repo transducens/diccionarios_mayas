@@ -1,0 +1,24 @@
+{
+  "entryWord": "Petem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpetik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Venir",
+  "definitionDialect": "General",
+  "additional_text": "vI Coment Peh, se usa cuando la raíz está al final de la palabra, peet cuando le sigue un sufijo Fbas Peh (peht)",
+  "examples": [
+    {
+      "example_maya": "Li bʼinel chʼichʼ petem kubʼanoh",
+      "example_spa": "El carro está por venir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chweʼq kinpe pa chak",
+      "example_spa": "Mañana vendré a trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "7249e572-283a-42e7-805f-513d8d739358"
+}

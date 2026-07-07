@@ -1,0 +1,24 @@
+{
+  "entryWord": "Lajajexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlajajej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tala de árboles; poner faja ancha",
+  "definitionDialect": "general",
+  "additional_text": "vtd Raíz vt Laj",
+  "examples": [
+    {
+      "example_maya": "Li achih, sibʼalaj xulajajej li cheʼ, arech kutik wi rabʼix",
+      "example_spa": "El hombre botó muchos árboles para sembrar milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih, xjalan bʼik, xuq xulajajej bʼi jun pas",
+      "example_spa": "La muchacha se cambió el vestido y se puso una faja ancha",
+      "dialect": null
+    }
+  ],
+  "uuid": "13df7329-c34b-42fe-8d47-0bbf335566d7"
+}

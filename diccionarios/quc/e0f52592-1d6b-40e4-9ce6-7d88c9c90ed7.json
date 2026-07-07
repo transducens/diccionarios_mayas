@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajqʼatalobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Segador",
+  "definitionDialect": "General",
+  "additional_text": "SAgen Raíz VT Qʼat",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼatalobʼ e kʼi tajin kewaʼik",
+      "example_spa": "Son muchos los segadores que están almorzando",
+      "dialect": null
+    }
+  ],
+  "uuid": "e0f52592-1d6b-40e4-9ce6-7d88c9c90ed7"
+}

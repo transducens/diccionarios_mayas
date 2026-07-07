@@ -1,0 +1,19 @@
+{
+  "entryWord": "Naʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Idea; pensamiento; consejo",
+  "definitionDialect": "",
+  "additional_text": "sInv Nunaʼooj Raíz s Naʼ",
+  "examples": [
+    {
+      "example_maya": "Li kunanel xuya qanaʼoj chi are utz kakoj li xakareʼt",
+      "example_spa": "El médico nos dio consejos para que usemos letrinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5514c32-9e42-433f-b834-0e2e429561e0"
+}

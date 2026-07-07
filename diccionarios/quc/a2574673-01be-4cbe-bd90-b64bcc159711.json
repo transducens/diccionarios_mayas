@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nojim",
+  "entryWordDialect": null,
+  "altEntryWord": "noʼjim",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despacio",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Nojim kabʼin li nima winaq ma kosnaq",
+      "example_spa": "El anciano camina despacio porque está cansado",
+      "dialect": null
+    }
+  ],
+  "uuid": "a2574673-01be-4cbe-bd90-b64bcc159711"
+}

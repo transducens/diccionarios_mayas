@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzkaʼrem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arreglar carga; hacer carga",
+  "definitionDialect": "",
+  "additional_text": "vi Kapatzkaʼrik Var Patzoʼpeem Raíz VI Patz",
+  "examples": [
+    {
+      "example_maya": "Li achih kapatzkaʼr chumolik ujastaq, ma kabʼe pa taqʼaj",
+      "example_spa": "El hombre está haciendo su carga, porque se va a la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e1cac86-9b7e-4186-a191-83a566bc85c9"
+}

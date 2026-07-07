@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sorosik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gordo: niño; grueso: lazo, hilo",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Sor",
+  "examples": [
+    {
+      "example_maya": "Li ukolobʼ li wakax sibʼalaj jun sorosik",
+      "example_spa": "El lazo del ganado es muy grueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "d66c2d6f-3b56-4826-9275-fe5075713105"
+}

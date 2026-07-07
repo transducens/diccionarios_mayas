@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yuchuj",
+  "definition": "Paletón; doblez de la ropa; pliegue del corte de las mujeres",
+  "additional_text": "sInv Nuyuchuj",
+  "examples": [
+    {
+      "example_maya": "Täq rubʼanun kan, konojel ri achiʼaʼ kʼo ruyuchuj ri kikaslon",
+      "example_spa": "Anteriormente todos los pantalones de los hombres tenían paletones",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo ixoqiʼ kan kʼïy ruyuchuj ri kuq nikibʼän",
+      "example_spa": "Hay mujeres que le hacen muchos paletones a sus cortes",
+      "dialect": null
+    }
+  ],
+  "uuid": "12dcb400-184c-4711-aa2f-29a1086ef9cb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

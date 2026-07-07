@@ -1,0 +1,18 @@
+{
+  "entryWord": "STRANJEER",
+  "definition": "extranjero",
+  "additional_text": "sz del español extranjero",
+  "examples": [
+    {
+      "example_maya": "Aj stran jer ajo nnok, aj xjal tzajna jlajxa mar",
+      "example_spa": "Se le llama extranjero a aquella persona que viene del otro lado del mar",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "2777bbea-ba0d-4129-a0be-64a143c3ec8e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Etabʼäl",
+  "definition": "Instrumento para medir, medida, balanza",
+  "additional_text": "scv Wetabʼal Retabʼalul Tamaño, medida var Pajbʼäl Samajibʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri aqʼaʼl nkʼayïx pa taq etabʼäl",
+      "example_spa": "El carbón se vende por medida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wetabʼal yin majun xteläqʼ ta",
+      "example_spa": "Mi balanza nunca roba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Janipeʼ rajäl (rajil) jun etabʼäl",
+      "example_spa": "¿Cuánto cuesta una medida?",
+      "dialect": null
+    }
+  ],
+  "uuid": "3720da6e-5dd5-4a12-b42b-f1a972ea061c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

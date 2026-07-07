@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼicheʼ winaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quichelense",
+  "definitionDialect": "General",
+  "additional_text": "scl F Kʼii uwach Muchos tipos, varios tipos",
+  "examples": [
+    {
+      "example_maya": "Li a Luʼ kʼicheʼ winaq",
+      "example_spa": "Pedro es quichelense",
+      "dialect": null
+    }
+  ],
+  "uuid": "95af9985-14dc-4a41-b938-a9759a73d43e"
+}

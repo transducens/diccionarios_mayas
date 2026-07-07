@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼap",
+  "definition": "Una mordida de animal o persona",
+  "additional_text": "En Jukʼap Sinón Qam",
+  "examples": [
+    {
+      "example_maya": "Ri kej xuyaʼ jukʼap chi re ri nuqʼaʼ",
+      "example_spa": "El caballo me dio una mordida en el brazo",
+      "dialect": null
+    },
+    {
+      "example_maya": "La alaʼ xuyaʼ jukʼap nusaqʼul",
+      "example_spa": "Ese muchacho me dio una mordida de banano",
+      "dialect": null
+    }
+  ],
+  "uuid": "ecb3e7fb-af94-4ffe-ab35-bb27baa05f50",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

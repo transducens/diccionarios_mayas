@@ -1,0 +1,19 @@
+{
+  "entryWord": "Palomax",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupalomax",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paloma de casa",
+  "definitionDialect": "",
+  "additional_text": "SInv Var Polomaax DomS Tzʼikin Del Cast Palomas",
+  "examples": [
+    {
+      "example_maya": "Li e palomax sibʼalaj saqpupuj li kij",
+      "example_spa": "Las palomas de casa son de color muy blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "1469d1ba-0568-43f6-b70a-0cc0c13e380c"
+}

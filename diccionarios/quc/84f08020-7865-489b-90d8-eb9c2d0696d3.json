@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼabʼarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼabʼarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Emborracharse; embolarse",
+  "definitionDialect": "es",
+  "additional_text": "vI Raíz S Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li winaq kebʼe pa nimaqʼij kakibʼan qʼabʼarik",
+      "example_spa": "La gente que va a la fiesta, se emborracha",
+      "dialect": null
+    }
+  ],
+  "uuid": "84f08020-7865-489b-90d8-eb9c2d0696d3"
+}

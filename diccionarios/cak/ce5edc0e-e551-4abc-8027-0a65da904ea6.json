@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tuj",
+  "definition": "Temascal",
+  "additional_text": "SInv Nutuj Var Atinibʼäl Chʼajoj, aqʼom",
+  "examples": [
+    {
+      "example_maya": "Ri winäq pa täq juyuʼ, ruyon pa tuj yeʼatin wi",
+      "example_spa": "La gente de las aldeas sólo se baña en temascal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tuj, xan okinäq chire",
+      "example_spa": "El temascal es de adobe",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce5edc0e-e551-4abc-8027-0a65da904ea6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

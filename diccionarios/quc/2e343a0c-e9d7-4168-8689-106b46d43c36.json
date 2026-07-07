@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alkawal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Impuesto",
+  "definitionDialect": "Del Cast. Alcabala.",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Tajin kakikʼam li alkawal pa li kʼayʼbʼal",
+      "example_spa": "En el mercado están cobrando impuestos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2e343a0c-e9d7-4168-8689-106b46d43c36"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Likʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlikʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosa extendida, como un libro abierto en la mano",
+  "definitionDialect": "",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Li ajtij xulikʼej li wuj chkiwach li tijoxelabʼ",
+      "example_spa": "El maestro abrió su libro ante los alumnos",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9e79412-21f4-4a69-bd11-0340c8814431"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pitzʼkoʼr",
+  "entryWordDialect": null,
+  "altEntryWord": "Pixcoy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "clase de pájaro carpintero",
+  "definitionDialect": "",
+  "additional_text": "SnP Raíz S Pitzʼkoʼr DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li pitzʼkoʼr kaq rij, junam kinimal rukʼ li tzokʼol uwa cheʼ",
+      "example_spa": "El pixcoy es de color rojo, de igual tamaño que el pájaro carpintero",
+      "dialect": null
+    }
+  ],
+  "uuid": "82284ffc-3ce1-4740-a4e8-f2e8a685bed1"
+}

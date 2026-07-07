@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saralajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido frutas al caer al suelo",
+  "definitionDialect": "",
+  "additional_text": "vi Kasaralajik Raíz PT Sar",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj kasaralaj la li oj rumal",
+      "example_spa": "Los aguacates que el hombre está cortando, hacen ruido al caer",
+      "dialect": null
+    }
+  ],
+  "uuid": "e52a7bb0-ce9a-4fcc-818f-0fadffb233af"
+}

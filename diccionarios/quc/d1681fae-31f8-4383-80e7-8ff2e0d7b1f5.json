@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muqbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Panteón",
+  "definitionDialect": "",
+  "additional_text": "scv Numuqbʼaal Raíz S Muq",
+  "examples": [
+    {
+      "example_maya": "Pa li kompesant kʼi muqbʼal kʼolik",
+      "example_spa": "En el cementerio hay muchos panteones",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1681fae-31f8-4383-80e7-8ff2e0d7b1f5"
+}

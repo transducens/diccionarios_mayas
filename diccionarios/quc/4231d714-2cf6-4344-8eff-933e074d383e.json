@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wantaʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwantaʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ventana",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Jaa Del Cast Ventana",
+  "examples": [
+    {
+      "example_maya": "Li jah kʼih wantaʼn kʼo chech",
+      "example_spa": "La casa tiene muchas ventanas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4231d714-2cf6-4344-8eff-933e074d383e"
+}

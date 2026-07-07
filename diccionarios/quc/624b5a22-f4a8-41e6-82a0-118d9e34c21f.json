@@ -1,0 +1,19 @@
+{
+  "entryWord": "Majik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinmajoh Raíz VT Maj",
+  "examples": [
+    {
+      "example_maya": "Li a Tuʼr xumaj li pwaq cheh li al Luʼs",
+      "example_spa": "Ventura le quitó dinero a Lucía",
+      "dialect": null
+    }
+  ],
+  "uuid": "624b5a22-f4a8-41e6-82a0-118d9e34c21f"
+}

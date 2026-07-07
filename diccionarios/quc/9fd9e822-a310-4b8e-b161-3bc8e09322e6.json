@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pixkar",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fiscal",
+  "definitionDialect": "",
+  "additional_text": "snP DomS Eqeleʼn Del Cast Fiscal",
+  "examples": [
+    {
+      "example_maya": "Li pixkar are rachkʼulchiʼ li pareh pa kumentoh",
+      "example_spa": "El fiscal es consejero del padre en el convento",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nabʼe pixkar are upatan kerilawachij konojel li aʼjpatanibʼ pa li tyox",
+      "example_spa": "El primer fiscal tiene el oficio de coordinar a todos los mayordomos en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "9fd9e822-a310-4b8e-b161-3bc8e09322e6"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chupisaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchupisaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apagar; extinguir fuego",
+  "definitionDialect": "",
+  "additional_text": "vtc Raiz vt Chup",
+  "examples": [
+    {
+      "example_maya": "Kinchupisaj li kotzʼiʼj",
+      "example_spa": "Apagó la candela",
+      "dialect": null
+    }
+  ],
+  "uuid": "bc881003-126e-4a84-a6c0-e57fec75fa19"
+}

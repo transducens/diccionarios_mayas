@@ -1,0 +1,33 @@
+{
+  "entryWord": "Elebʼ (elebʼl, elebʼaal)",
+  "definition": "Salida: donde se sale",
+  "additional_text": "SLoc Welebʼ",
+  "examples": [
+    {
+      "example_maya": "Jwal kachʼin li elebʼ re li ochoch pek",
+      "example_spa": "La salida de la cueva es muy reducida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Relebʼ saqʼe",
+      "example_spa": "Oriente, este",
+      "dialect": null
+    },
+    {
+      "example_maya": "Relebʼ iqʼ",
+      "example_spa": "Norte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Relebʼ haʼ",
+      "example_spa": "Fuente, nacimiento de agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "3c193888-37c2-4258-973d-e8ff35e4e1a1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

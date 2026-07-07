@@ -1,0 +1,29 @@
+{
+  "entryWord": "Wiqik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwiqoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Añadir; adornar; engalanar; ornar; ataviar; embellecer; aderezar",
+  "definitionDialect": "",
+  "additional_text": "vt EAu Juwiiq Una añadida EAu Huwiqaaj Un juego de cosas; una mudada Raíz VT Wiq",
+  "examples": [
+    {
+      "example_maya": "Kinwiq na li nukolobʼ ma xa na kutzaq taj",
+      "example_spa": "Voy a añadir mi lazo porque no alcanza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li mortoʼmayibʼ xkimajij uwiqik li tyox",
+      "example_spa": "Los mayordomos comenzaron a adornar la iglesia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwiq na li upa ja ma kul posad wukʼ",
+      "example_spa": "Voy a adornar mi casa, porque voy a recibir la posada",
+      "dialect": null
+    }
+  ],
+  "uuid": "42af863d-4887-49f1-abe3-5f3cfd483d22"
+}

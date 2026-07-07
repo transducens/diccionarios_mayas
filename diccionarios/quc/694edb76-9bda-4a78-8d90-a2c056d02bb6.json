@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tojbʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintojbʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Echar leña verde al fuego",
+  "definitionDialect": "Spanish",
+  "additional_text": "vt Raiz VT Toj",
+  "examples": [
+    {
+      "example_maya": "Xutojbʼa kan li siʼ pa qʼaqʼ",
+      "example_spa": "Echó leña verde al fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "694edb76-9bda-4a78-8d90-a2c056d02bb6"
+}

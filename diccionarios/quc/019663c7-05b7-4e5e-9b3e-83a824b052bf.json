@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pirpiʼch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Güinche; coronadito",
+  "definitionDialect": "General",
+  "additional_text": "snP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li pirpiʼch kabʼixan nimaqʼabʼ xuq qʼakoʼj li rij",
+      "example_spa": "El güinche canta por la madrugada y es de color café",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waʼ we pirpiʼch are e koʼkoj chkiwach li chʼok",
+      "example_spa": "Estos güinches son más pequeños que los sanates",
+      "dialect": null
+    }
+  ],
+  "uuid": "019663c7-05b7-4e5e-9b3e-83a824b052bf"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼulalexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar todas las ramas de un árbol; cortar café agarrando la rama y jalándola para abajo; desplumar; escaldar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kingʼululeej Raíz VT Qʼul",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom xuqʼululej bʼiʼi li kapeh",
+      "example_spa": "El ladrón cortó todo el café",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8f26ec3-f43d-42b4-a905-a0e90c98cbdf"
+}

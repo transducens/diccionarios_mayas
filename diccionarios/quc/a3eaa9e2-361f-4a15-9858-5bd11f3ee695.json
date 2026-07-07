@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kutaʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tronco de árbol cortado",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukutaʼm SSP Ukutaʼmiil Tronco de árbol DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun kutaʼm kachokon na chwe che nusiʼ",
+      "example_spa": "Hay un tronco que me va a servir para leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Xwan xuqasaj jun cheʼ, xkanaj kan li ukutaʼmil",
+      "example_spa": "Juan cortó un árbol y se quedó con el tronco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kutaʼm re li cheʼ kʼo jun kumatz chpam",
+      "example_spa": "En el tronco del árbol hay una culebra",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3eaa9e2-361f-4a15-9858-5bd11f3ee695"
+}

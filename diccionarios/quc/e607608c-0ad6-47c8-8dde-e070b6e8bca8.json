@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kirik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desatar; pedir perdón por los pecados de un enfermo; salvar en el último momento a alguien de una situación difícil",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinkiroh vi Kirireem Desatarse fácilmente vtd Kirirexik Desatar todo vi",
+  "examples": [
+    {
+      "example_maya": "Li pres kuta toqʼob kakirik arech utz kawaʼik",
+      "example_spa": "El preso pide que lo desaten para poder comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah xukirirej li mantah",
+      "example_spa": "El muchacho desató toda la manta",
+      "dialect": null
+    }
+  ],
+  "uuid": "e607608c-0ad6-47c8-8dde-e070b6e8bca8"
+}

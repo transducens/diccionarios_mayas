@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qawnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqawnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer frutas duras",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Qaw",
+  "examples": [
+    {
+      "example_maya": "Li aq tajin kutij ubʼaq qʼinom kaqawnaj puchiʼ",
+      "example_spa": "El marrano hace ruido al comer pepitas de jocote",
+      "dialect": null
+    }
+  ],
+  "uuid": "e79cf057-a55f-4a4c-ae66-c04cf0528beb"
+}

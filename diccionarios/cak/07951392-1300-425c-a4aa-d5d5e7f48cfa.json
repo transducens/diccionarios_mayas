@@ -1,0 +1,33 @@
+{
+  "entryWord": "Apo (Apon)",
+  "definition": "Allá o en otra parte Direccional que indica enfrente o adelante de una persona",
+  "additional_text": "Dirc Aponibʼäl",
+  "examples": [
+    {
+      "example_maya": "Ja la ke laʼ apo kʼo jebʼël samaj",
+      "example_spa": "Por allá hay buen trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi la apo kʼo wi wachoch",
+      "example_spa": "Allá no mas está mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Takʼwaj apo ke laʼ",
+      "example_spa": "Llevalo hacia allá Llévelo hacia allá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ke riʼ apo",
+      "example_spa": "Por allí cerca",
+      "dialect": null
+    }
+  ],
+  "uuid": "07951392-1300-425c-a4aa-d5d5e7f48cfa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

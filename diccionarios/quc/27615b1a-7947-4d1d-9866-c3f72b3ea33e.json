@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koʼk",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukoʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cacaxte; jaula; calabozo; cárcel",
+  "definitionDialect": "",
+  "additional_text": "SInv SAgent Ajkoʼk Cargador de cacaxte DomS Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Li achih pa koʼk kuya wi li ankineʼy",
+      "example_spa": "El hombre pone en el cacaxte los bananos",
+      "dialect": null
+    }
+  ],
+  "uuid": "27615b1a-7947-4d1d-9866-c3f72b3ea33e"
+}

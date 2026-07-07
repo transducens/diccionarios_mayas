@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼoy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mico; mono",
+  "definitionDialect": "",
+  "additional_text": "SInv Nukʼooy Raíz S Kʼooy DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kʼoy je ri e kʼo winaq",
+      "example_spa": "Los monos parecen gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9550a12-ad1d-48a3-9a99-fb032e91594c"
+}

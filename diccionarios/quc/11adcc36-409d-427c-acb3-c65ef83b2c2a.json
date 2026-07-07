@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qitzʼitzʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Relinchar; rechinar",
+  "definitionDialect": "General",
+  "additional_text": "vı Kaqitzʼitzʼik Raiz VI Qitzʼ",
+  "examples": [
+    {
+      "example_maya": "Kaqitzʼitzʼ li kej, maj rechaʼ",
+      "example_spa": "El caballo relincha por no tener pasto",
+      "dialect": null
+    }
+  ],
+  "uuid": "11adcc36-409d-427c-acb3-c65ef83b2c2a"
+}

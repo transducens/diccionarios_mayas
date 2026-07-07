@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuxukʼutem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido el ratón, al roer",
+  "definitionDialect": "",
+  "additional_text": "vi Kakʼuxukʼutik Raíz VT Kʼux",
+  "examples": [
+    {
+      "example_maya": "Li chʼoh kakʼuxukʼutik, are taq kawaʼik",
+      "example_spa": "El ratón hace ruido, al roer",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e7750df-1284-431c-b4f6-abb6867d476f"
+}

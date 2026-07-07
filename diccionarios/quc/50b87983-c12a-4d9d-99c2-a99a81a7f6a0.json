@@ -1,0 +1,19 @@
+{
+  "entryWord": "Setet",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusetet",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rueda (juguete)",
+  "definitionDialect": "",
+  "additional_text": "sInv Sinón Ketet Raíz S Set DomS Etzʼabʼaʼl",
+  "examples": [
+    {
+      "example_maya": "Li akʼalabʼ kaketzʼabʼej setet pa taq bʼeh",
+      "example_spa": "Los niños juegan con ruedas en las calles",
+      "dialect": null
+    }
+  ],
+  "uuid": "50b87983-c12a-4d9d-99c2-a99a81a7f6a0"
+}

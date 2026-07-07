@@ -1,0 +1,24 @@
+{
+  "entryWord": "Likʼanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tendido; extendido",
+  "definitionDialect": "General",
+  "additional_text": "p Xlikʼiʼk, xulikʼibʼaʼ Raíz P Likʼ",
+  "examples": [
+    {
+      "example_maya": "Li mortoʼm xulikʼibʼa li pop are chi ketʼuyiʼ li chuchuxelabʼ",
+      "example_spa": "El mayordomo tendió el petate para que se sentaran las chuchuxeles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uchʼajoʼn li alih, likʼanik",
+      "example_spa": "La ropa lavada de la muchacha está tendida",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d43ee3e-98f0-45ab-a0dc-325b840a2879"
+}

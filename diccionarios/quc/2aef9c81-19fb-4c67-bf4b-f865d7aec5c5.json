@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzu qʼojom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Marimba de tecomates",
+  "definitionDialect": "General",
+  "additional_text": "SCL Raíz S Tzuh",
+  "examples": [
+    {
+      "example_maya": "Ojer tzij are li tzuh qʼojom kachokon pa taq nimaqʼij",
+      "example_spa": "Antes se usaba la marimba de tecomates en las fiestas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2aef9c81-19fb-4c67-bf4b-f865d7aec5c5"
+}

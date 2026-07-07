@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sajok",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbusto de hojas largas y delgadas",
+  "definitionDialect": "",
+  "additional_text": "SnP Raíz S Sajook DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li sajok nimaʼq raqan li uxaq",
+      "example_spa": "Las hojas de este arbusto son largas",
+      "dialect": null
+    }
+  ],
+  "uuid": "56a73d8d-25dd-41b1-b28d-9178d4caa02a"
+}

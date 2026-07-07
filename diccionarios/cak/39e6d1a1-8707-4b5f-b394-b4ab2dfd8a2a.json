@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kaʼ",
+  "definition": "Piedra de moler Muela",
+  "additional_text": "sInv Nukaʼ Abʼäj, samajbʼäl",
+  "examples": [
+    {
+      "example_maya": "Chuwäch ri kaʼ nbʼan wi ri keʼen richin nibʼan ri wäy",
+      "example_spa": "Sobre la piedra de moler se hace la masa para hacer la tortilla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nukaʼ ja riʼ ri nikeʼen el ri nintij qa",
+      "example_spa": "Mi muela es la que muele lo que me como",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chuwäch ri kaʼ nikeʼëx wi ri tzʼoʼ",
+      "example_spa": "En la piedra de moler se muele el nixtamal",
+      "dialect": null
+    }
+  ],
+  "uuid": "39e6d1a1-8707-4b5f-b394-b4ab2dfd8a2a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

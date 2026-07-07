@@ -1,0 +1,29 @@
+{
+  "entryWord": "Riʼj",
+  "entryWordDialect": null,
+  "altEntryWord": "Uriʼjal, xriʼjobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viejo (gente o animales); anciano",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Riʼj",
+  "examples": [
+    {
+      "example_maya": "Li riʼja winaq na kuqʼiʼ ta chik kabʼinik",
+      "example_spa": "Los ancianos ya no pueden caminar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih chanim xriʼjobʼik",
+      "example_spa": "El hombre se envejeció luego",
+      "dialect": null
+    },
+    {
+      "example_maya": "We jun winaq riʼj chik na kuqʼiʼ ta chik kachakunik",
+      "example_spa": "Si uno es viejo, ya no puede trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "31c6dc28-17c9-4d3e-a5e9-aefc3e134d93"
+}

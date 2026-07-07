@@ -1,0 +1,24 @@
+{
+  "entryWord": "Torotajnaq pamaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corriente; asientos; diarrea",
+  "definitionDialect": "",
+  "additional_text": "ps Torotajnaq nupaam Raiz VT Tor Raiz S Paam DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li torotajnaq pamaj kakam jun winaq rumal we kʼo uchoqʼabʼ",
+      "example_spa": "Si es fuerte la diarrea puede morir una persona",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chanim kebʼaqir li winaq rumal li torotajnaq pamaj",
+      "example_spa": "La diarrea enflaquese rápidamente a las personas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4594a609-f104-465d-80a0-9ffd56114052"
+}

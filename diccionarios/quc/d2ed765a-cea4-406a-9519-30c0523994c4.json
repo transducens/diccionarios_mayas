@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pulusiʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Policía",
+  "definitionDialect": "",
+  "additional_text": "sNP Eqeleʼn Del Cast Policía",
+  "examples": [
+    {
+      "example_maya": "Li pulusiʼy xuchap jun qʼabʼarel tajin kachʼayanik",
+      "example_spa": "El policía agarró a un bolo que estaba peleando",
+      "dialect": "Dom.S."
+    }
+  ],
+  "uuid": "d2ed765a-cea4-406a-9519-30c0523994c4"
+}

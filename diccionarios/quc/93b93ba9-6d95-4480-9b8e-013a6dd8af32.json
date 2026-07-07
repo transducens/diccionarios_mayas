@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzuyexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzuyej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar de la mano a personas y animales de un lazo",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz PT Tzuy",
+  "examples": [
+    {
+      "example_maya": "Li akʼal raj kutzuyej li moy are taq xetzaqik",
+      "example_spa": "El niño iba a llevar al ciego, cuando se cayeron",
+      "dialect": null
+    }
+  ],
+  "uuid": "93b93ba9-6d95-4480-9b8e-013a6dd8af32"
+}

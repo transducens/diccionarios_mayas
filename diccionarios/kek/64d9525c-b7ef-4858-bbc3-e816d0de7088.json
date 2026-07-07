@@ -1,0 +1,33 @@
+{
+  "entryWord": "Paabʼank",
+  "definition": "Hacer caso, obedecer, tener afecto a alguien, aceptar, creer, servir, reaccionar",
+  "additional_text": "VTD Xinpaabʼ Lleva sentido religioso",
+  "examples": [
+    {
+      "example_maya": "¡Paabʼin bʼayaq! iJwal xulat!",
+      "example_spa": "¡Hacéme un poco de caso animal! ¡Hágame un poco de caso!, Ud se porta como animal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼaʼ naxpaabʼ li bʼan inyajel",
+      "example_spa": "Mi enfermedad no reacciona con la medicina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ninpaabʼ li Yos yuwaʼbʼej",
+      "example_spa": "Creo en Dios Padre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taapaabʼ li xchaqʼrabʼ li qaawaʼ Yos",
+      "example_spa": "Tenés que obedecer la ley de Dios",
+      "dialect": null
+    }
+  ],
+  "uuid": "64d9525c-b7ef-4858-bbc3-e816d0de7088",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

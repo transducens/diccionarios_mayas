@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sakʼa",
+  "definition": "Trabajador, mano derecha",
+  "additional_text": "sInv Insakʼa",
+  "examples": [
+    {
+      "example_maya": "Sakʼa li winq aʼan",
+      "example_spa": "Ese hombre es trabajador",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ra insakʼa uqʼ",
+      "example_spa": "Me duele la mano derecha",
+      "dialect": null
+    }
+  ],
+  "uuid": "5edf15dd-06a9-440b-800e-efe1e131ea1f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

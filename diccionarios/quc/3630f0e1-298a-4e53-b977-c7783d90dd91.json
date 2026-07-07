@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mosayinik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trabajar de mozo",
+  "definitionDialect": "",
+  "additional_text": "vi Kinmoosayinik Raíz S Moos",
+  "examples": [
+    {
+      "example_maya": "Li achih xpe pa mosayil kukʼ musabʼ",
+      "example_spa": "El hombre fue a trabajar de mozo con los ladinos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are laʼ li kajibʼ achijabʼ xemosayin wukʼ",
+      "example_spa": "Esos cuatro hombres trabajaron de mozos aquí conmigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3630f0e1-298a-4e53-b977-c7783d90dd91"
+}

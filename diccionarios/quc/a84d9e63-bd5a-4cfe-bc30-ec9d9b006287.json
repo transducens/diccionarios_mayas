@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nachʼakatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnachʼakatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar como niño",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Nachʼ",
+  "examples": [
+    {
+      "example_maya": "Li alaj neʼ xuchap nachʼakatem chwa taq jah",
+      "example_spa": "El nene empezó a caminar en el patio de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a84d9e63-bd5a-4cfe-bc30-ec9d9b006287"
+}

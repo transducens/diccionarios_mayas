@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuchʼuchʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katuchʼuchʼlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar enojado",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Tuchʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq katuchʼuchʼlabʼ pa taq bʼeh, ma xa na xchʼakan ta chech alkalteh",
+      "example_spa": "El hombre anda enojado en las calles porque no ganó para alcalde",
+      "dialect": null
+    }
+  ],
+  "uuid": "66cf6996-c95b-4bac-9c97-2a11e097ef60"
+}

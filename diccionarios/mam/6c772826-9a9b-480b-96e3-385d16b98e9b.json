@@ -1,0 +1,23 @@
+{
+  "entryWord": "TIQEET",
+  "definition": "apelmazar empujar con golpes",
+  "additional_text": "vt tiqol te, tiqoʼn, ntiqoʼna, tiqobʼil 1 2 raíz tiq vt",
+  "examples": [
+    {
+      "example_maya": "Tiqoʼn kuʼx chʼin mixnoqʼa tuj saka",
+      "example_spa": "Apelmazá un poco el algodón en el costal",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma tzʼex ntiqoʼna tuʼn nsuʼẍa",
+      "example_spa": "Lo empujé con mi codo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "6c772826-9a9b-480b-96e3-385d16b98e9b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

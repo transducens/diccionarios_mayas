@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHʼAK",
+  "definition": "1 lodo",
+  "additional_text": "s1a nchʼaka",
+  "examples": [
+    {
+      "example_maya": "Aj tuj jbʼall nim chʼak melayx qobʼet chʼin kontent",
+      "example_spa": "En el invierno hay mucho lodo y no podemos caminar tranquilos",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Nach taqʼnanjtz txʼotxʼ tuj jbʼall tuʼnj chʼak",
+      "example_spa": "Es feo trabajar en el",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c3090b62-a907-41c7-87d0-47e1c6dbf275",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

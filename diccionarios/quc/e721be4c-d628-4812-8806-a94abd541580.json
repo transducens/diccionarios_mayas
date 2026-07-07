@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lubʼubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mojado y muy aguado; aguado y mojado",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li wotzʼotzʼa kaxlanwah xux lubʼubʼ pa li kapeh",
+      "example_spa": "El pan tostado se puso muy aguado entre el café",
+      "dialect": null
+    }
+  ],
+  "uuid": "e721be4c-d628-4812-8806-a94abd541580"
+}

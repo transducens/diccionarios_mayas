@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼakul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Legítimo; puro; principio; raíz; origen; cuerpo",
+  "definitionDialect": "",
+  "additional_text": "s Nuchʼakuul var Chʼekuul",
+  "examples": [
+    {
+      "example_maya": "Li achih pa chʼakul umajim la chak",
+      "example_spa": "El hombre comenzó a trabajar desde pequeño",
+      "dialect": null
+    }
+  ],
+  "uuid": "7a917cec-1918-42fc-9e83-6a0dfdafc2ad"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqa sakaʼw",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calzón blanco no bordado",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz Adj Saq Raíz S Sakaʼw",
+  "examples": [
+    {
+      "example_maya": "Ri ojer taq winaq xaq saqa sakaʼw kakikojoh",
+      "example_spa": "La gente antigua sólo usaba calzón blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "8edbf770-9dd5-4df5-a999-6fa9c24c6d7a"
+}

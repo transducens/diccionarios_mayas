@@ -1,0 +1,18 @@
+{
+  "entryWord": "TOOMA",
+  "definition": "toma",
+  "additional_text": "s1 ntomaya del español toma",
+  "examples": [
+    {
+      "example_maya": "Maʼ tzʼex ntomaya tuʼn qotxʼ",
+      "example_spa": "El derrumbe se llevó mi toma",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3669b97c-f607-4586-a1d3-47e8bbcfc8f9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

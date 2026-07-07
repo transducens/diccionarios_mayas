@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼutʼulajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirarse pedos varias veces",
+  "definitionDialect": "general",
+  "additional_text": "vi Kabʼutʼulajik Raíz VT Bʼutʼ",
+  "examples": [
+    {
+      "example_maya": "Li kej kabʼutʼulaj xeʼ li reqaʼn kabʼinik ma al",
+      "example_spa": "El caballo se tira pedos porque pesa su carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "436229e8-a1cc-4fea-b270-93c7099f365f"
+}

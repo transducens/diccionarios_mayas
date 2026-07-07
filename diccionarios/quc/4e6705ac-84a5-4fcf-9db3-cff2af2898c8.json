@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pirikʼokʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bellota, fruta del roble, tiene forma como de una anona, sin peso y de color café; pájaro de color café claro y del tamaño de una golondrina",
+  "definitionDialect": "General",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li pirikʼokʼ kakikoj akʼalabʼ chech ketzʼabʼaʼl",
+      "example_spa": "Los niños usan la bellota del roble como juguete",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pirikʼokʼ we ketʼorik, kakiya pixnakʼ xuq we kaxojow jun chikiwach, kakesaj pixnakʼ",
+      "example_spa": "Si se les tiran piedras a estos pájaros, dan verrugas, y si se baila ante ellos, las quitan",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e6705ac-84a5-4fcf-9db3-cff2af2898c8"
+}

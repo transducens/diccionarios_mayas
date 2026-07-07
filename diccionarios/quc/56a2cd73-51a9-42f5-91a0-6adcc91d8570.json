@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼixtuʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rajadas por gusanos o granizo: hojas de plantas; paradas: plumas de gallina enferma",
+  "definitionDialect": "General",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li uxaq li abʼix xubʼan kʼixtuʼl rumal li saqbʼach",
+      "example_spa": "Las hojas de la milpa están rajadas por el granizo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uxikʼ li akʼ xa kʼixtuʼl",
+      "example_spa": "La gallina tiene las plumas paradas",
+      "dialect": null
+    }
+  ],
+  "uuid": "56a2cd73-51a9-42f5-91a0-6adcc91d8570"
+}

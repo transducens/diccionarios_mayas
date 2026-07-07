@@ -1,0 +1,23 @@
+{
+  "entryWord": "Raplenk",
+  "definition": "Chapear, cortar monte, chicotear",
+  "additional_text": "VTD Xinraple",
+  "examples": [
+    {
+      "example_maya": "Xinraple li pachʼayaʼ saʼ li xnaʼjebʼ wakax",
+      "example_spa": "Chapeé la grama del potrero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinraple re li bʼe",
+      "example_spa": "Chapeé la orilla del camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "79a38e1d-befc-4a11-a2f4-c733b044cc16",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

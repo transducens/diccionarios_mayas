@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzolqʼomijem",
+  "entryWordDialect": null,
+  "altEntryWord": "Tzalijem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regresa; voltearse; repetirse una enfermedad",
+  "definitionDialect": "",
+  "additional_text": "vi Kintzolqʼomijik Var Raíz VT Tzol",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kintzolqʼomijik ma kʼo kinchakuj chwa woʼch",
+      "example_spa": "Mañana voy a regresar porque tengo trabajo en mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xtzolqʼomij chi juntir\" li uyabʼ",
+      "example_spa": "A la mujer le repitió la enfermedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "a50a5f70-d119-4f1e-a7d8-b14178eaf866"
+}

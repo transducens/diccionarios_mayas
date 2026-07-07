@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lekʼelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande y ancha: circunferencia de cosas, como palangana, sombrero, comal, etc",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Lekʼ",
+  "examples": [
+    {
+      "example_maya": "Li upowiʼ li a Tun lekʼelik li uxaq xuq nim",
+      "example_spa": "El sombrero de Antonio tiene ala grande y ancha",
+      "dialect": null
+    }
+  ],
+  "uuid": "594d78e7-b7ed-4fd9-ae2c-664e8a9bb857"
+}

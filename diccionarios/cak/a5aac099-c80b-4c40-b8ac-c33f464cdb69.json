@@ -1,0 +1,23 @@
+{
+  "entryWord": "Meway",
+  "definition": "Ayuno",
+  "additional_text": "sv",
+  "examples": [
+    {
+      "example_maya": "Nibʼïx chi wakamin nibʼan meway",
+      "example_spa": "Dicen que hoy se hace ayuno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri achin ri xubʼän meway, kʼo runimabʼäl kʼuʼx",
+      "example_spa": "El hombre que hizo ayuno, tiene mucha fe",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5aac099-c80b-4c40-b8ac-c33f464cdb69",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

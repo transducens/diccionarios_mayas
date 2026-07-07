@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzarabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba de color verde, las hojas se pegan en la lana de las ovejas",
+  "definitionDialect": "",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li uxaq waʼ we qʼayes kanakʼiʼ cheh li lanah, kij karneʼl",
+      "example_spa": "Las hojas de esta hierba se pegan en la lana de las ovejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e8ea68f-dbe8-41b0-a147-df4c6f50199a"
+}

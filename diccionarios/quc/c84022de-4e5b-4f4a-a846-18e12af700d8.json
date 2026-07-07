@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tap",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutap",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cangrejo",
+  "definitionDialect": "general",
+  "additional_text": "scv Raiz S Tap DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li tap utz ketijowik, pa taq xaqʼoʼl e kʼo wih, xe taq abʼaj",
+      "example_spa": "Los cangrejos se comen, viven en los pantanos y debajo de las piedras",
+      "dialect": null
+    }
+  ],
+  "uuid": "c84022de-4e5b-4f4a-a846-18e12af700d8"
+}

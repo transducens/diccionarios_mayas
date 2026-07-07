@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼechelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Torcido para un lado como estaca o rancho que está para caerse",
+  "definitionDialect": "General",
+  "additional_text": "P Xqʼechiʼk, xuqʼechebʼaʼ Raíz P Qʼech",
+  "examples": [
+    {
+      "example_maya": "Li raqan li kaxlan qʼaqʼ xaq qʼechelik",
+      "example_spa": "El poste que sostiene los cables eléctricos, está por caerse",
+      "dialect": null
+    }
+  ],
+  "uuid": "4077d09a-7c96-4142-973c-37db598ce480"
+}

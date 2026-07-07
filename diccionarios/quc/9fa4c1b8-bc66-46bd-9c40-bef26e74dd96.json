@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raqarobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karaqarobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventarse como cosa llena o cáscara de fruta madura",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Raq",
+  "examples": [
+    {
+      "example_maya": "Li lameʼt nojnaq cheh jaʼ xraqarobʼik",
+      "example_spa": "La botella llena de aguardiente se reventó",
+      "dialect": null
+    }
+  ],
+  "uuid": "9fa4c1b8-bc66-46bd-9c40-bef26e74dd96"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzawalîk",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtzawiʼk, xutzawabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Boca abierta",
+  "definitionDialect": "",
+  "additional_text": "p var Kʼawalik Raiz PT Tzaw",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xtzawiʼ kan chwa li tew, ma xa na kukʼulaj ta li uqʼuʼ",
+      "example_spa": "El niño no quizo taparse con la chamarra y se durmió con la boca abierta bajo el frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun tzʼiʼ xkamsaxik xaq tzawal chik",
+      "example_spa": "El perro que mataron tiene la boca abierta",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c18d5c5-8b30-4f63-b3f6-75cab2bde7e3"
+}

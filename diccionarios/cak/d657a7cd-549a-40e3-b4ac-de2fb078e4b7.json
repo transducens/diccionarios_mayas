@@ -1,0 +1,28 @@
+{
+  "entryWord": "Pa (pan)",
+  "definition": "En, dentro, adentro Esta partícula de preposición tiene diferentes funciones en ciertos pueblos \"pa\" va antes de palabras que empiezan con consonantes y \"pan\" antes de palabras que empiezan con vocal",
+  "additional_text": "Prep Chʼakulaj",
+  "examples": [
+    {
+      "example_maya": "Pa rachoch ri Ajaw sibʼiläj chi winäq e kʼo",
+      "example_spa": "Hay muchas personas en la iglesia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pa wulew kʼo kʼïy wiʼ traʼs",
+      "example_spa": "En mi terreno hay muchas matas de durazno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir xibʼekʼastan pan Qʼän",
+      "example_spa": "Ayer fui a pasear a la Antigua",
+      "dialect": null
+    }
+  ],
+  "uuid": "d657a7cd-549a-40e3-b4ac-de2fb078e4b7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼoxomaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Chomanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entender; pensar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinkʼoxomaaj Var Choomanik Raíz VT Kʼox",
+  "examples": [
+    {
+      "example_maya": "Na kinkʼoxomaj taj, jas li xubʼij li ajtij chwech",
+      "example_spa": "No entiendo lo que me dijo el maestro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, na kakowin ta chukʼoxomaxik li tzʼibʼatal pa li wuj",
+      "example_spa": "El hombre no entiende lo que está escrito en el libro",
+      "dialect": null
+    }
+  ],
+  "uuid": "493781d1-b383-42b2-96a7-e6cf9471230b"
+}

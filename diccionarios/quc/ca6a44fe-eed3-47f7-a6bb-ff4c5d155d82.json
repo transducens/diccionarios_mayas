@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wechelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fácil de sacarle pedazos, como un palo; desmoronoso",
+  "definitionDialect": "general",
+  "additional_text": "p Xwechiʼl Raíz P Wech",
+  "examples": [
+    {
+      "example_maya": "Xaq wechel li kaxlanwah, ma na utz ta ubʼanik xbʼanik",
+      "example_spa": "El pan es desmoronoso porque no está bien hecho",
+      "dialect": null
+    }
+  ],
+  "uuid": "ca6a44fe-eed3-47f7-a6bb-ff4c5d155d82"
+}

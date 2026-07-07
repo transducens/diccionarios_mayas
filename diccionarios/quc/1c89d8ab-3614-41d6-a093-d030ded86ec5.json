@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ripirotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karipirotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aletear ave moribunda",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li amaʼ xaq karipirot chik ma xa jutzʼit chi ma kakamik",
+      "example_spa": "El gallo está aleteando porque ya se va a morir",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c89d8ab-3614-41d6-a093-d030ded86ec5"
+}

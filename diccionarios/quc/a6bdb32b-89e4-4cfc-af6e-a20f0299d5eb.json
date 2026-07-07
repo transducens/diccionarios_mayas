@@ -1,0 +1,19 @@
+{
+  "entryWord": "Joron",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agua para beber, bañarse o para riego",
+  "definitionDialect": "",
+  "additional_text": "scv Nujoroon Var Jaʼ",
+  "examples": [
+    {
+      "example_maya": "Na kojkʼasiʼ taj we maj joron",
+      "example_spa": "No podemos vivir sin agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6bdb32b-89e4-4cfc-af6e-a20f0299d5eb"
+}

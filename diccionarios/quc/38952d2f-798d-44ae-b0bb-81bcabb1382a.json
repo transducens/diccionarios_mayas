@@ -1,0 +1,34 @@
+{
+  "entryWord": "Qulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinquluh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Roer; chupar caramelos, huesos o pan duro",
+  "definitionDialect": "",
+  "additional_text": "VTR Raíz VT Qul",
+  "examples": [
+    {
+      "example_maya": "Li jun kuk qulik kubʼan cheh li aj",
+      "example_spa": "La ardilla va a roer el elote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼoh kuquel li cheʼ",
+      "example_spa": "El ratón va a roer el palo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kabʼ kinquluh ma sibʼalaj utz kinnaʼoh",
+      "example_spa": "Estoy chupando caramelos porque me gustan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal tajin kuquel kabʼ",
+      "example_spa": "El niño está chupando dulces",
+      "dialect": null
+    }
+  ],
+  "uuid": "38952d2f-798d-44ae-b0bb-81bcabb1382a"
+}

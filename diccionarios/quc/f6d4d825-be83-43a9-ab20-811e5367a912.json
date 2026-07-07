@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼowokʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hueco y duro o tieso; duro o tieso y hueco",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Kʼow",
+  "examples": [
+    {
+      "example_maya": "Li xajabʼ kʼowokʼik xubʼan chwa li qʼij",
+      "example_spa": "El zapato se puso tieso bajo el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "f6d4d825-be83-43a9-ab20-811e5367a912"
+}

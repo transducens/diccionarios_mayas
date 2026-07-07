@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pa",
+  "entryWordDialect": null,
+  "altEntryWord": "Panem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Paanabʼal",
+  "altEntryWordDialect2": null,
+  "definition": "Alero de un tejado",
+  "definitionDialect": "",
+  "additional_text": "ssp Upaa Var Paaneem Var Paanabʼal Fbas //Pah// Jaa",
+  "examples": [
+    {
+      "example_maya": "Li upa li jah sibʼalaj nim, utz kabʼan panem chuxeʼ",
+      "example_spa": "El alero de la casa es muy grande, es bueno estar bajo su sombra",
+      "dialect": null
+    }
+  ],
+  "uuid": "407f604f-cc1f-4258-8fb7-15aa204405e2"
+}

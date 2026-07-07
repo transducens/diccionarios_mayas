@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tux",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutux",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Semilla de algodón; sama de coche",
+  "definitionDialect": "",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li tux qʼeq kakaʼyik",
+      "example_spa": "La pepita de algodón es de color negro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tiʼj aq tux kʼo uchʼoʼjil kakʼayixik",
+      "example_spa": "La carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a2a3a4d-c32f-4bff-b3c1-d9577396c370"
+}

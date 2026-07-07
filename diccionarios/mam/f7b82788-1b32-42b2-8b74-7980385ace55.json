@@ -1,0 +1,18 @@
+{
+  "entryWord": "LIIBR",
+  "definition": "libra",
+  "additional_text": "md del español libra",
+  "examples": [
+    {
+      "example_maya": "¿Antz jun libra watzʼana?",
+      "example_spa": "¿Dame una mi libra de sal?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f7b82788-1b32-42b2-8b74-7980385ace55",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tuj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Temascal; examen que hace la comadrona",
+  "definitionDialect": "",
+  "additional_text": "sInv ssp =Tujaal Debilidad vtd Tujaxik Calentar usando ramas para bajar el vapor en el temascal Sinón Atiʼt Raíz S Tuuj",
+  "examples": [
+    {
+      "example_maya": "Konojel li winaq e naturalibʼ keʼatin pa tuj",
+      "example_spa": "Toda la gente indígena se baña en el temascal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li yawabʼ ixoq, chweʼq kabʼan li utuj",
+      "example_spa": "La mujer embarazada será examinada por la comadrona",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8a2ffdd-27f7-4f71-9263-8024f8d2b64a"
+}

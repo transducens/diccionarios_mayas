@@ -1,0 +1,19 @@
+{
+  "entryWord": "Topotik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salido; alto (vulgar)",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Topón",
+  "examples": [
+    {
+      "example_maya": "Li kaxlan winaq topotik raqan",
+      "example_spa": "El gringo es muy alto",
+      "dialect": null
+    }
+  ],
+  "uuid": "e37b1fcc-133e-426f-a2e1-56b724551690"
+}

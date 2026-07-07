@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHOOK",
+  "definition": "1 comedero, batea 2 canoa para navegar",
+  "additional_text": "s1 nchoka frases: txaʼn chok nacimiento de la canoa raíz chok s ds bʼetbʼil",
+  "examples": [
+    {
+      "example_maya": "Pena nxiʼ bʼaj tkʼaʼ naq kuch tuj chok",
+      "example_spa": "Apenas cabe la bebida del coche en la batella",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aj chok ajo jak qiʼx tuʼn tuj aʼ",
+      "example_spa": "La canoa es la que nos facilita pasar en el agua",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7b0b34d7-7a3a-4995-adc1-b68d4b1f23e4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

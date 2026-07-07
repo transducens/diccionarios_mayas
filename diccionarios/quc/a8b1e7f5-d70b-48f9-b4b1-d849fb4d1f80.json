@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sangre (para cocer)",
+  "definitionDialect": "",
+  "additional_text": "scv Nukiikʼ Coment Posesión ajenable Sinón Kachiʼm",
+  "examples": [
+    {
+      "example_maya": "Li ukikʼ li wakax katzakik, xuq katijowik",
+      "example_spa": "La sangre del ganado se cuece y se come",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8b1e7f5-d70b-48f9-b4b1-d849fb4d1f80"
+}

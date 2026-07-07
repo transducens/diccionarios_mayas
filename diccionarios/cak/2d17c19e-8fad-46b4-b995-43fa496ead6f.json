@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pataʼy",
+  "definition": "Trampa",
+  "additional_text": "sInv Nupataʼy",
+  "examples": [
+    {
+      "example_maya": "Ri nupataʼy xukʼwaʼj ri bʼay",
+      "example_spa": "Mi trampa se la llevó la taltuza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pataʼy yeruchäp (yeruchop) chʼoy",
+      "example_spa": "La trampa agarra las ratas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d17c19e-8fad-46b4-b995-43fa496ead6f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

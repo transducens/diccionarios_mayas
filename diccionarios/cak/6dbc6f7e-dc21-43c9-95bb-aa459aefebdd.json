@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jantala (ma jantalaʼ)",
+  "definition": "Rápido pasa el tiempo",
+  "additional_text": "AdvT Var Chʼanin, aninäq Sinón Kebʼlala, man, kebʼla la",
+  "examples": [
+    {
+      "example_maya": "Jantala ri qʼij",
+      "example_spa": "Qué rápido pasa el tiempo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ma jantala xikʼo ri jun junaʼ",
+      "example_spa": "Qué rápido pasó un año",
+      "dialect": null
+    }
+  ],
+  "uuid": "6dbc6f7e-dc21-43c9-95bb-aa459aefebdd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

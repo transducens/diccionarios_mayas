@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qasanaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqasanaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bautismo; bautizo",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz S Aʼ",
+  "examples": [
+    {
+      "example_maya": "Li neʼ xukʼam qasanaʼ kamik",
+      "example_spa": "Hoy recibió el bautismo el nene",
+      "dialect": null
+    }
+  ],
+  "uuid": "fba571f2-eedd-4f72-88e8-0a7a2cc2ae39"
+}

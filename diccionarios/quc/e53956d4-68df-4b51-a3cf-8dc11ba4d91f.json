@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tuqulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Debilitado; puesta, ropa grande; tirada: ropa grande",
+  "definitionDialect": "general",
+  "additional_text": "p Xtuqiʼk, xutuqubʼaʼ Raíz PT Tuq",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq tuqul chik, ma kʼih li ukikʼel xelik",
+      "example_spa": "El hombre está debilitado por haber derramado mucha sangre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xutuqubʼa kan li nima atzʼyaq pa li bʼeh",
+      "example_spa": "La mujer dejó tirada la ropa grande en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri e judiy\" xaq e tuqul pa kikamiʼx",
+      "example_spa": "Los judios se visten con túnicas que les llegan hasta los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "e53956d4-68df-4b51-a3cf-8dc11ba4d91f"
+}

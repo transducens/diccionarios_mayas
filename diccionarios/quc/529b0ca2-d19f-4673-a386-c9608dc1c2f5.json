@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takatik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ancho, delgado y alto (como puerta tabla, piedra, etc)",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Tak",
+  "examples": [
+    {
+      "example_maya": "Takatik li tzʼalam",
+      "example_spa": "La tabla es plana y alta",
+      "dialect": null
+    }
+  ],
+  "uuid": "529b0ca2-d19f-4673-a386-c9608dc1c2f5"
+}

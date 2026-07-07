@@ -1,0 +1,23 @@
+{
+  "entryWord": "Maakʼaʼ xnaʼlebʼ",
+  "definition": "Chislado, tonto, ignorante",
+  "additional_text": "Adj Xmaakʼaʼo xnaʼlebʼ, xmaakʼaʼhil xnaʼlebʼ",
+  "examples": [
+    {
+      "example_maya": "¿Kʼaru naxye li maakʼaʼ xnaʼlebʼ aʼan?",
+      "example_spa": "¿Qué dice ese chiflado?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xmaakʼahil xnaʼlebʼ naʼaatinak wiʼ chi joʼkan",
+      "example_spa": "Por ser ignorante habla así",
+      "dialect": null
+    }
+  ],
+  "uuid": "51fd88bf-4653-4f7f-82d3-3c7cd86c7371",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

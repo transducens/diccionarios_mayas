@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xtuʼx",
+  "entryWordDialect": null,
+  "altEntryWord": "Wixtuʼx",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gallina; polla",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Akʼ",
+  "examples": [
+    {
+      "example_maya": "Li xtuʼx kusikʼ kʼih saqmoʼl",
+      "example_spa": "La gallina pone muchos huevos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼapoj akʼ maja kasikʼowik",
+      "example_spa": "La polla todavía no pone huevos",
+      "dialect": null
+    }
+  ],
+  "uuid": "32b694b6-646f-484f-9f70-e8c528ac6b56"
+}

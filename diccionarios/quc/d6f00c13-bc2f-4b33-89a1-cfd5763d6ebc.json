@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajmokobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mozo, jornalero",
+  "definitionDialect": "",
+  "additional_text": "SAgen Raiz VT Mok",
+  "examples": [
+    {
+      "example_maya": "Li a Tumax xa ajmokobʼem pa li pink",
+      "example_spa": "Tomás está de mozo en la finca",
+      "dialect": null
+    }
+  ],
+  "uuid": "d6f00c13-bc2f-4b33-89a1-cfd5763d6ebc"
+}

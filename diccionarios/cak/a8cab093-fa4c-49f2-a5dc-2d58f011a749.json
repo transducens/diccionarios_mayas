@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼayïs",
+  "definition": "Monte, broza, abono natural; basura",
+  "additional_text": "sInv Nuqʼayis Qʼayïs",
+  "examples": [
+    {
+      "example_maya": "Xel yan pe qʼayïs chi ruwäch ri ulew ri jobʼ xqa yan",
+      "example_spa": "Ya salieron montes en la tierra por el aguacero que cayó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chuchi taq siwan kʼïy qʼayïs kiroqin kan ri winäq",
+      "example_spa": "En las orillas de los barrancos han tirado mucho monte las personas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8cab093-fa4c-49f2-a5dc-2d58f011a749",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

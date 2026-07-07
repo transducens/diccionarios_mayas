@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juroq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cocer poquito; cocerse poquito",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz PT Roq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq juroq xuya che li ichaj",
+      "example_spa": "La mujer sólo coció las verduras un poquito",
+      "dialect": null
+    }
+  ],
+  "uuid": "236a16cb-fe69-4f8f-949b-93340e658a79"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rij tʼotʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Concha de caracol",
+  "definitionDialect": "es",
+  "additional_text": "sds",
+  "examples": [
+    {
+      "example_maya": "Li rij tʼotʼ chi li poloh kariqitaj wih",
+      "example_spa": "La concha de caracol se encuentra en la playa del mar",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee8178fe-9fdb-4f8d-83bd-484a68c34e3c"
+}

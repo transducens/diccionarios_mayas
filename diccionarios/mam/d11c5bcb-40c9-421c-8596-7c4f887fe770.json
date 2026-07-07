@@ -1,0 +1,18 @@
+{
+  "entryWord": "TYEEMP",
+  "definition": "tiempo, estación, temporada",
+  "additional_text": "s1 ntyemp frases: jun tyemka con tiempo del español tiempo",
+  "examples": [
+    {
+      "example_maya": "Galan tyemp te kjoʼn tuj abʼqʼi jaʼla",
+      "example_spa": "Hay buen tiempo para la milpa este año",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d11c5bcb-40c9-421c-8596-7c4f887fe770",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

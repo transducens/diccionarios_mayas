@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xarten",
+  "entryWordDialect": null,
+  "altEntryWord": "Xerten",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sartén",
+  "definitionDialect": "",
+  "additional_text": "sinv Nuxarteen Var Del Cast Sartén",
+  "examples": [
+    {
+      "example_maya": "Kʼo kebʼ uwach chi xarten, kʼo bʼoʼj xuq kʼo chʼichʼ chech",
+      "example_spa": "Hay dos clases de sartenes de barro y de metal",
+      "dialect": null
+    }
+  ],
+  "uuid": "dabf3b28-510c-4734-9e0c-55e39ee57560"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qupinïk",
+  "definition": "Aserrar madera; cortar tela o papel",
+  "additional_text": "vtd Qupixik, ninqupij Qupi var Qetenïk, tzakʼinik",
+  "examples": [
+    {
+      "example_maya": "Ri ikʼ xtok pe ninqupij bʼaʼnucheʼ",
+      "example_spa": "El mes entrante aserraré un poco de madera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rikʼin ri qupibʼäl (taxerix) jebʼel naqupij tzyäq",
+      "example_spa": "Con tijera se puede cortar bien la tela",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0100e73-b770-4387-a4b5-41369f6f2fda",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

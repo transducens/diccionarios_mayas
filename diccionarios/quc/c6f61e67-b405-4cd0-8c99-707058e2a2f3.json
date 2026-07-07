@@ -1,0 +1,19 @@
+{
+  "entryWord": "Toqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pullar con clavo, aguja, cachos, etc; matar con cuchillo o cosa con punta; inyectar; vacunar; cornear; topetear",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintoqʼoh",
+  "examples": [
+    {
+      "example_maya": "Li wakax kutoqʼ li achih ma xa na are ta rajaw",
+      "example_spa": "El buey cornea al",
+      "dialect": null
+    }
+  ],
+  "uuid": "c6f61e67-b405-4cd0-8c99-707058e2a2f3"
+}

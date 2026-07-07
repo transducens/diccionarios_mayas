@@ -1,0 +1,23 @@
+{
+  "entryWord": "Aylok",
+  "definition": "Gritar a cada rato por el dolor, gritar muchas personas por el dolor",
+  "additional_text": "vi Naʼaylok",
+  "examples": [
+    {
+      "example_maya": "Naʼaylok li chʼinaʼal xbʼaan li xtiqʼilal",
+      "example_spa": "El niño grita a cada rato por el dolor de la herida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nakeʼaylok li kokʼal naq xeʼtiweʼ xbʼaan li chʼubʼ",
+      "example_spa": "Los niños gritaron cuando fueron picados por las avispas",
+      "dialect": null
+    }
+  ],
+  "uuid": "c40221ca-8daa-44a6-977e-a1dce6069202",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

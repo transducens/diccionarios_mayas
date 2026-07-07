@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xaqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pararse sobre cosas suaves, como plantas, sombrero o telas; andar mucho tiempo; tirar lodo; amasar; pisotear",
+  "definitionDialect": "Spanish",
+  "additional_text": "vtd Kinxaqʼoh Sinón Bʼaachik Raiz VT Xaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaqʼik raj kubʼan cheh li tikoʼn, are taq xilitaj rumal li rajaw",
+      "example_spa": "El niño iba a pisar la siembra cuando fue visto por el dueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Naj xinxaqʼ jun bʼeh",
+      "example_spa": "Caminé desde muy lejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d8491158-f6fa-4277-b076-df92dae96b39"
+}

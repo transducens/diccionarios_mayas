@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tinamit",
+  "definition": "Pueblo, ciudad",
+  "additional_text": "scv Nutinamit Tinamït, siwan tinamit Sinón Amaqʼ, nahuatl",
+  "examples": [
+    {
+      "example_maya": "Pa nutinamit ütz ntel ri awän",
+      "example_spa": "En mi pueblo se da bien la milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nutinamit xe Panu rubʼiʼ richin bʼokoʼ",
+      "example_spa": "Mi pueblo se llama Tecpán y pertenece a Chimaltenango",
+      "dialect": null
+    }
+  ],
+  "uuid": "4bbddb25-68a2-425f-b12b-4be0521ef4eb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

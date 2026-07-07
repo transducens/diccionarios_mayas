@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sokaj",
+  "definition": "Nido, zacate donde se pone carga",
+  "additional_text": "SPS Rusok",
+  "examples": [
+    {
+      "example_maya": "Konojel ri täq tzʼikin kʼo kisok",
+      "example_spa": "Todos los pajaritos tienen nidos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ajxikʼaʼ taq chikopiʼ, ruyon bʼa pa ruwi taq cheʼ nikibʼän wi kisok",
+      "example_spa": "Las aves casi siempre, hacen sus nidos en los árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "8cfbe5ff-87ed-4e2d-b9aa-35a2e79117d4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

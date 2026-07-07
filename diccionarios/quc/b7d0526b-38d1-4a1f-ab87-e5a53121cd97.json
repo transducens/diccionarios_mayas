@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokʼotzotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzokʼotzotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Picar piedra con cincel muy seguido",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzokʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq katzokʼotzot chubʼanik jun kaʼ",
+      "example_spa": "La mujer está picando una piedra de moler",
+      "dialect": null
+    }
+  ],
+  "uuid": "b7d0526b-38d1-4a1f-ab87-e5a53121cd97"
+}

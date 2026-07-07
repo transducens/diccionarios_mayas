@@ -1,0 +1,39 @@
+{
+  "entryWord": "Rax",
+  "entryWordDialect": null,
+  "altEntryWord": "xraxirik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verde; azul; crudo",
+  "definitionDialect": "",
+  "additional_text": "Adj Uraxaal, xraxarik Raíz Adj Rax",
+  "examples": [
+    {
+      "example_maya": "Li abʼix sibʼalaj rax kakaʼyik",
+      "example_spa": "La milpa está muy verde",
+      "dialect": null
+    },
+    {
+      "example_maya": "We rax li kinaqʼ, na karaj ta tijowik",
+      "example_spa": "Si el frijol está crudo, no se puede comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xutij li saqmoʼl pa raxal",
+      "example_spa": "El hombre se comió el huevo crudo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xraxar rumal li xiʼn ibʼ",
+      "example_spa": "El niño se puso verde por el susto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xraxar chwach",
+      "example_spa": "Se puso verde (por susto)",
+      "dialect": null
+    }
+  ],
+  "uuid": "abcc1565-f8fb-43a8-b2bf-611d878a9b40"
+}

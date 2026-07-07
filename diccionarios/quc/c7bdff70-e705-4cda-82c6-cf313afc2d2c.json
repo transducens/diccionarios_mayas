@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼapixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzʼapij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cerrar puerta o caja; apresar, encorralar animales",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raíz PT Tzʼaap",
+  "examples": [
+    {
+      "example_maya": "Li ajchʼamiʼy are karaj kutzʼapij li achih pa cheʼ",
+      "example_spa": "El alguacil quiere encerrar al hombre en la cárcel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintzʼapij uwi li kaxah",
+      "example_spa": "Cierro la tapadera del cofre",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7bdff70-e705-4cda-82c6-cf313afc2d2c"
+}

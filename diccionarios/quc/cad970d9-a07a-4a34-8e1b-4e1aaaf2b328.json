@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajqʼux",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Buscador de musgo",
+  "definitionDialect": "",
+  "additional_text": "SAgen Raíz S Qʼuux",
+  "examples": [
+    {
+      "example_maya": "Li uriʼjil xuʼchap kebʼ ajqʼuxabʼ",
+      "example_spa": "El citador del cantón nombró a dos personas para que fueran a cortar musgo",
+      "dialect": null
+    }
+  ],
+  "uuid": "cad970d9-a07a-4a34-8e1b-4e1aaaf2b328"
+}

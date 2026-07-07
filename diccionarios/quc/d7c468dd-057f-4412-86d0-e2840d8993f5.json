@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Eelij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Terminar de comer; estar satisfecho al terminar de comer",
+  "definitionDialect": "Español",
+  "additional_text": "vtrD Kinweeleej pp Eeleem Lleno al comer, satisfecho",
+  "examples": [
+    {
+      "example_maya": "Maltyox chaweh, welim",
+      "example_spa": "Ya no, gracias, estoy lleno",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7c468dd-057f-4412-86d0-e2840d8993f5"
+}

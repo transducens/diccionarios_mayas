@@ -1,0 +1,28 @@
+{
+  "entryWord": "Merya (méro)",
+  "definition": "Dinero, pisto",
+  "additional_text": "sInv Numerya Sinón Pwäq, (päq), merya, chʼichʼ Dinero",
+  "examples": [
+    {
+      "example_maya": "Ri merya kʼo sibʼiläj ruqʼij",
+      "example_spa": "El dinero tiene mucho valor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin täq manaq numerya ma yibʼe ta pa tinamït",
+      "example_spa": "Cuando no tengo dinero, no voy al pueblo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wi manäq améro (mérya), näq xtiloqʼotäj ta ri chke nawajoʼ",
+      "example_spa": "Si no tenés dinero no podés comprar lo que necesitás Si no tiene dinero, no puede comprar lo que necesita",
+      "dialect": null
+    }
+  ],
+  "uuid": "17b8ca0c-00d8-4625-a205-7a79db25e5b7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

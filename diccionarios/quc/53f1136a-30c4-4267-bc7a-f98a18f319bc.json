@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzolqʼomixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Voltear de un lado a otro",
+  "definitionDialect": "",
+  "additional_text": "VTD Kintzolqʼomij Raíz VT Tzol",
+  "examples": [
+    {
+      "example_maya": "Kintzolqʼomij na li yawabʼ ma xa pakʼalik",
+      "example_spa": "Voy a voltear al enfermo porque está boca arriba",
+      "dialect": null
+    }
+  ],
+  "uuid": "53f1136a-30c4-4267-bc7a-f98a18f319bc"
+}

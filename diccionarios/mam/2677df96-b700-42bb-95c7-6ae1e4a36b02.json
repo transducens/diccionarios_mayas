@@ -1,0 +1,23 @@
+{
+  "entryWord": "SAQBʼAQANIIX",
+  "definition": "congelado, helado, frío",
+  "additional_text": "adj tsaqbʼaqanil, raíz saq adj",
+  "examples": [
+    {
+      "example_maya": "Ma saqbʼaqanix nkʼaʼya kape",
+      "example_spa": "Se puso frío mi café",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Chʼix mik xkyim xjal tuʼn tsaqbʼaqanil aʼ",
+      "example_spa": "Ya mero se moría la persona por lo helado que estaba el agua",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "2677df96-b700-42bb-95c7-6ae1e4a36b02",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

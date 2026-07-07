@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eqaʼnijem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cargar las plantas (llenarse de frutas las plantas); aguantar carga",
+  "definitionDialect": "General",
+  "additional_text": "vi Keeqaʼnijik Raiz S Ehq",
+  "examples": [
+    {
+      "example_maya": "Li abʼix sibʼalaj xeqaʼnijik",
+      "example_spa": "La milpa está muy cargada de elotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "5299f0e1-8155-4966-9d1e-c11865bc298c"
+}

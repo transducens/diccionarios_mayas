@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼejaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un racimo de frutas redondas",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz PT Bʼej",
+  "examples": [
+    {
+      "example_maya": "Li jubʼejaj oj xqʼaj rumal kaqiqʼ",
+      "example_spa": "El racimo de aguacates se quebró por el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "2622150b-77d0-4e04-8fb5-602436a92b23"
+}

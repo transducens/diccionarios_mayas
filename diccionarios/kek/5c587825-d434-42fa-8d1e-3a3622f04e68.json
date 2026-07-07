@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼar wan",
+  "definition": "¿Dónde está?, ¿cuál?",
+  "additional_text": "PartInterr",
+  "examples": [
+    {
+      "example_maya": "Bʼar wan linnaʼ?",
+      "example_spa": "¿Dónde está mi mamá?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Bʼar wan taawaj rehebʼ aʼin?",
+      "example_spa": "¿Cuál de éstos quiere?",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c587825-d434-42fa-8d1e-3a3622f04e68",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

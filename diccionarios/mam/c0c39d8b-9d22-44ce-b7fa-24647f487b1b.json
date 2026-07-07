@@ -1,0 +1,18 @@
+{
+  "entryWord": "TAAKA",
+  "definition": "taco de escopeta",
+  "additional_text": "s1 ntakaya del español taco",
+  "examples": [
+    {
+      "example_maya": "Nikyʼx taka ma kuʼx tuj kanyon",
+      "example_spa": "Muy poco taco se echó en el cañon",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c0c39d8b-9d22-44ce-b7fa-24647f487b1b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

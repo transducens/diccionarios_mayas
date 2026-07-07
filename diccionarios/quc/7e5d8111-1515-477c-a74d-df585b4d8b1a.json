@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼecheqʼoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover cosa torcida para un lado",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kingʼecheqʼaʼ Raíz P Qʼech",
+  "examples": [
+    {
+      "example_maya": "Li a Kux xuqʼecheqʼaʼ li aqan",
+      "example_spa": "Marcos movió constantemente el horcón",
+      "dialect": null
+    }
+  ],
+  "uuid": "7e5d8111-1515-477c-a74d-df585b4d8b1a"
+}

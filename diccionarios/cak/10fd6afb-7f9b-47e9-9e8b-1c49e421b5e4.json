@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼayïs chiköp",
+  "definition": "Mariposa nocturna o tapa luz",
+  "additional_text": "scl Xikʼanel chiköp",
+  "examples": [
+    {
+      "example_maya": "Re qʼayïs chiköp yalan ütz nunaʼ nuchüp ri qʼaqʼ",
+      "example_spa": "A esta mariposa nocturna le gusta mucho apagar la luz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qʼayïs taq chiköp ruyon chaqʼaʼ yeʼel",
+      "example_spa": "Las mariposas tapaluz sólo de noche salen",
+      "dialect": null
+    }
+  ],
+  "uuid": "10fd6afb-7f9b-47e9-9e8b-1c49e421b5e4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakachik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuadrúpedo",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Chak",
+  "examples": [
+    {
+      "example_maya": "Li xibʼinel xinkʼulaj je kape jun chakachik tzʼiʼ",
+      "example_spa": "El espanto que encontré en la oscuridad, se parecía a un perro grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "e23cfde3-893c-4db8-a68e-504997e81edd"
+}

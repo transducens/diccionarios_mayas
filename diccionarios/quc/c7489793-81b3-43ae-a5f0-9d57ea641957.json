@@ -1,0 +1,19 @@
+{
+  "entryWord": "Meh",
+  "entryWordDialect": null,
+  "altEntryWord": "Mix",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar nene cargado en la espalda (lo dicen las mujeres a sus hijos)",
+  "definitionDialect": "General",
+  "additional_text": "sInv Numeh Pbas //Meh// Sinón",
+  "examples": [
+    {
+      "example_maya": "Katojo numeh",
+      "example_spa": "Venite, te voy a llevar cargado en la espalda",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7489793-81b3-43ae-a5f0-9d57ea641957"
+}

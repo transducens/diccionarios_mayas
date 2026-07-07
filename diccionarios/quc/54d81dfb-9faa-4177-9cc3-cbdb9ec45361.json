@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqʼul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una quemada con agua caliente",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qʼul",
+  "examples": [
+    {
+      "example_maya": "Li kixikʼ li akʼ xaq juqʼul pa kʼatana miqʼin",
+      "example_spa": "Las plumas de los pollos sólo necesitan una quemada con agua caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "54d81dfb-9faa-4177-9cc3-cbdb9ec45361"
+}

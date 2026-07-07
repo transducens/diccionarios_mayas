@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wonik =ibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encogerse; acurrucarse; humillarse; azarearse; esforzarse para conseguir algo",
+  "definitionDialect": "",
+  "additional_text": "VRefl Kinwon wiibʼ Raíz VT Won",
+  "examples": [
+    {
+      "example_maya": "Li runum uliw we kachapik kuwon ribʼ",
+      "example_spa": "Al tocar a las lombrices de tierra se encogen",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ula xaʼr xuwon ribʼ pa li qʼaqʼ",
+      "example_spa": "El jarro de plástico se encogió en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "20feec19-ae9d-4927-b454-bd3b6a456c00"
+}

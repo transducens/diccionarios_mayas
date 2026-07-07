@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼabʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mano; brazo de la mano al codo",
+  "definitionDialect": "es",
+  "additional_text": "soS sDS Uqʼabʼ cheeʼ Rama de árbol sDS Uqʼabʼ bʼinel jaʼ Brazo de río sDS Uqʼabʼ nima bʼeh Caminos pequeños que salen de las carreteras Uqʼabʼ alaxik Parientes cercanos y políticos var Telebʼaaj Raíz S Qʼabʼ DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li uqʼabʼ winaq are kuchakubʼej xuq, kutzuqbʼej ribʼ",
+      "example_spa": "La mano se usa para trabajar y para alimentarse",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼabʼaj are laʼ tzuyul rukʼ li uqul qaqʼabʼ",
+      "example_spa": "La mano es la que está unida a la muñeca",
+      "dialect": null
+    }
+  ],
+  "uuid": "d88ce57d-19f9-49ce-963c-1ab98b0e4a91"
+}

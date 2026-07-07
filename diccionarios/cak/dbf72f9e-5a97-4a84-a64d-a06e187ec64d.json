@@ -1,0 +1,28 @@
+{
+  "entryWord": "Wa",
+  "definition": "Partícula de complemento en Kaqchikel pero en español no existe",
+  "additional_text": "(wan) (waʼan) Par",
+  "examples": [
+    {
+      "example_maya": "Xinpaxij wa la xti nuqʼeʼl laʼ",
+      "example_spa": "Esa mi pobre tinajita ya la quebré",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chke la wa (ruwa) awoyowal chwe",
+      "example_spa": "A saber por qué estás enojado conmigo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja ta wan la riʼ ri xinwajoʼ yin",
+      "example_spa": "Eso es lo que deseé",
+      "dialect": null
+    }
+  ],
+  "uuid": "dbf72f9e-5a97-4a84-a64d-a06e187ec64d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "A qʼumaʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coyote",
+  "definitionDialect": "",
+  "additional_text": "SnP Sinón Koyoʼt Sinón Utiiw",
+  "examples": [
+    {
+      "example_maya": "Li aqʼumaʼr xutij jun laj wichʼ",
+      "example_spa": "El coyote se comió un pollito",
+      "dialect": null
+    }
+  ],
+  "uuid": "330849f4-fabd-4340-9a04-12a9fa895f5d"
+}

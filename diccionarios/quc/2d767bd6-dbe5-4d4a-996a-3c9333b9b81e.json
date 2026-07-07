@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wonon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abejón; abejorro",
+  "definitionDialect": "",
+  "additional_text": "snp DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li wonon are e nimaʼq chwa li saqi kabʼ, kʼo kityoʼbʼal cheh li kachaq",
+      "example_spa": "El abejorro es más grande que la abeja y tiene aguijón en la parte de atrás",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d767bd6-dbe5-4d4a-996a-3c9333b9b81e"
+}

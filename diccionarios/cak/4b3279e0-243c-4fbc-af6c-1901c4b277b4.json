@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzubal",
+  "definition": "Su color, su fisonomía",
+  "additional_text": "ssp Rutzubʼal Rutzubʼal Su color, su fisonomía",
+  "examples": [
+    {
+      "example_maya": "Ri kaj xar rutzubʼal (rubʼonil)",
+      "example_spa": "El cielo es de color azul",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xokoqʼaʼ kʼo wuquʼ rutzubʼal (rubʼonil)",
+      "example_spa": "El arco iris tiene siete colores",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b3279e0-243c-4fbc-af6c-1901c4b277b4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

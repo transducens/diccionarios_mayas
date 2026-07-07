@@ -1,0 +1,18 @@
+{
+  "entryWord": "BALAANS",
+  "definition": "balanza",
+  "additional_text": "s1 nbalansa del español balanza",
+  "examples": [
+    {
+      "example_maya": "Klaqʼetal juntl qbalans, tuʼnj nim til",
+      "example_spa": "Vamos a comprar otra balanza, porque sirve mucho",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d3952b4c-bfb4-42e3-ab1d-2fc267cf1fcf",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

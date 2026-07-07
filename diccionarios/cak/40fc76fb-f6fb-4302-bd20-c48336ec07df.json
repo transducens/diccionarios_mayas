@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pujan",
+  "definition": "Supurar, echar materia",
+  "additional_text": "vi Nipujan Puja var (Yaʼan), chʼakan, puj",
+  "examples": [
+    {
+      "example_maya": "Taq nipujan ri chʼaʼkʼ, janíla niqʼaxon",
+      "example_spa": "Cuando supura la llaga, duele mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chʼaʼk nkʼojeʼ chi kij taq kej, yalan nipujan",
+      "example_spa": "Las llagas que les salen a los caballos, supuran mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "40fc76fb-f6fb-4302-bd20-c48336ec07df",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

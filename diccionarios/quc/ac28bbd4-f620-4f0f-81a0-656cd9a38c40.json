@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pupaʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Baboso (insulto fuerte); miedoso Es baboso (desprecio); tiene la cara hinchada; es baboso (desprecio)",
+  "definitionDialect": "",
+  "additional_text": "Adj Fbas //Puh// (puʼ) F Puupaʼq uxee reh F Puupaʼq uchiiʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xa pupaʼq uchiʼ ma na kutoʼ ta ribʼ",
+      "example_spa": "El hombre es un baboso porque no se defiende",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pupaʼq uxe reh kuchax jun winaq we xa kʼo uchiʼ rij taq raqan",
+      "example_spa": "Esto se le dice a alguien si tiene hinchado todo el cuerpo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac28bbd4-f620-4f0f-81a0-656cd9a38c40"
+}

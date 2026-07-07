@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tojeʼk",
+  "definition": "Recibir el pago, ser pagado",
+  "additional_text": "vi Xintojeʼ",
+  "examples": [
+    {
+      "example_maya": "Waʼlebʼ xintojeʼ",
+      "example_spa": "A las doce me pagaron el sueldo del mes",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Ma xtojeʼ aakutan?",
+      "example_spa": "¿Te pagaron el día de trabajo?",
+      "dialect": null
+    }
+  ],
+  "uuid": "71632fca-a654-46ba-bab7-4c5fc2de4b2e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

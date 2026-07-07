@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mararem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamararik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido, al comer cosas tostadas",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz VT Mar",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kamarar li kaxlaʼn puchiʼ li alah",
+      "example_spa": "El muchacho hace ruido, al comer habas tostadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "08eff62c-7809-4fa1-8ef6-d9799a464f66"
+}

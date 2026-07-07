@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼarkaʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espanto que arranca algo que hace ruido",
+  "definitionDialect": "General",
+  "additional_text": "sNP",
+  "examples": [
+    {
+      "example_maya": "Li chʼarkaʼt chaqʼabʼ kabʼinik",
+      "example_spa": "El espanto a",
+      "dialect": null
+    }
+  ],
+  "uuid": "de7f8142-0b82-438e-be9b-2f03f49c5eec"
+}

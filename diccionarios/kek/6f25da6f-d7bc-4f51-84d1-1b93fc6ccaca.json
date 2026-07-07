@@ -1,0 +1,23 @@
+{
+  "entryWord": "Raqal",
+  "definition": "Clase, división, versículo, parte",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Xwil kiibʼ raqal raatin li qaawaʼ",
+      "example_spa": "Leí dos versículos de la palabra de Dios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wochoch aʼan oxibʼ raqal xsaʼ",
+      "example_spa": "Mi casa tiene tres divisiones",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f25da6f-d7bc-4f51-84d1-1b93fc6ccaca",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

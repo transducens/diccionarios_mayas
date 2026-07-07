@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼululim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido el estómago; tener hambre; estar mal del estómago",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqʼululik Raíz VT Qʼul",
+  "examples": [
+    {
+      "example_maya": "Xuchap qʼululim li nupam ma xa kinnum chik",
+      "example_spa": "Me empezó a hacer ruido el estómago porque ya tengo hambre",
+      "dialect": null
+    }
+  ],
+  "uuid": "cbea4f40-c891-462f-90b1-e062ae55bf25"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzokej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosa sin peso un río o una persona",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz P Tzok",
+  "examples": [
+    {
+      "example_maya": "Li tzarajmaq kintzokej ma na al taj",
+      "example_spa": "Voy a llevarme la poma porque no pesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "0fbbf8bf-a6e8-4906-8f8b-0eb124daa96f"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "No hay",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Pa taq saqʼij maj jabʼ kuʼonoh",
+      "example_spa": "En verano no hay lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "d48673e3-b20c-4a18-b368-90fecaa71244"
+}

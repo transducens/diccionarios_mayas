@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaluk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuñado de hombre; mi cuñado",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼaluk",
+  "examples": [
+    {
+      "example_maya": "Li a Tumas sibʼalaj utz rukʼ li ubʼaluk",
+      "example_spa": "Tomás es muy bueno con su cuñado",
+      "dialect": null
+    }
+  ],
+  "uuid": "85f09761-66a3-438c-b2da-71863e5a2265"
+}

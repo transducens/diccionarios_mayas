@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waranik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vela; velorio; velación; vigilia; vigilancia, guardia, velada",
+  "definitionDialect": "",
+  "additional_text": "SV",
+  "examples": [
+    {
+      "example_maya": "Konojel winaq kebʼe pa waranik rukʼ kamnaq",
+      "example_spa": "Toda la gente va al velorio",
+      "dialect": null
+    }
+  ],
+  "uuid": "ecf195b2-4501-408d-919e-5e548058522f"
+}

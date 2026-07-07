@@ -1,0 +1,23 @@
+{
+  "entryWord": "XIMEET",
+  "definition": "1 remendar 2 anudar 3 añadir",
+  "additional_text": "vt ximol te, ximoʼn, ma bʼaj nximoʼna, ximobʼil raíz xim vt",
+  "examples": [
+    {
+      "example_maya": "Noq gana xbʼaj ximet saqbʼaq",
+      "example_spa": "Fue de balde remendar el lazo",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Iilx tiʼj tuʼn tok tena ximol te taqʼal kuch",
+      "example_spa": "Es preciso que te pongás a añadir las puntas del lazo del coche",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "44e9cb59-4809-443a-88ba-69fd1048504d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

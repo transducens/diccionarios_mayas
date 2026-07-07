@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼor",
+  "definition": "Atol",
+  "additional_text": "sInv Nuqʼor Qʼor",
+  "examples": [
+    {
+      "example_maya": "Ri qʼor nukʼowsaj awayjal",
+      "example_spa": "El atol mitiga el hambre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo winäq yalan (tzʼan) ütz nikinaʼ ri atzʼan qʼor (qʼor pa chaj)",
+      "example_spa": "Hay personas que les gusta mucho el atol blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "e759f1f3-3879-495a-b662-95dc8d75b8a5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

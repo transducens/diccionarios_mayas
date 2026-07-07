@@ -1,0 +1,18 @@
+{
+  "entryWord": "DOSEEN",
+  "definition": "docena",
+  "additional_text": "nc del español docena",
+  "examples": [
+    {
+      "example_maya": "Maʼ kubʼ jun dosen tjos waʼlana",
+      "example_spa": "Mi gallina ya puso una docena de huevos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "af62605d-b098-4b7b-81e6-9d3620bfa107",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

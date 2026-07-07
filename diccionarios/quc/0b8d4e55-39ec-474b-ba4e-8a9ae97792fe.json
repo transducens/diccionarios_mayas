@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajkʼay wah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vendedor de comida (o alimento en general)",
+  "definitionDialect": "",
+  "additional_text": "SAgen DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay wah, kʼo pa kʼaybʼal, sibʼalaj winaq tajin kewaʼ rukʼ",
+      "example_spa": "La vendedora de comida que está en el mercado, atiende a mucha gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b8d4e55-39ec-474b-ba4e-8a9ae97792fe"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Susun",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Insecto liso de color negro con rayas, que tiene cola como alacrán Este insecto es de mal agüero",
+  "definitionDialect": "",
+  "additional_text": "sap Raíz S Susuun DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Waʼ we susun na utz taj we kukʼut ribʼ chwach jun, ma xa yabʼil kubʼij",
+      "example_spa": "No es bueno que le aparezca este insecto a uno porque es de mal agüero",
+      "dialect": null
+    }
+  ],
+  "uuid": "62fb31d7-ab1a-467d-b542-29f7a389e557"
+}

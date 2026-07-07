@@ -1,0 +1,18 @@
+{
+  "entryWord": "JYEER",
+  "definition": "fierro para marcar animales",
+  "additional_text": "s1 njyera del español fierro",
+  "examples": [
+    {
+      "example_maya": "¿Maʼ meqʼt jyer tuʼna?",
+      "example_spa": "¿Ya calentaste el fierro?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c0448c73-94aa-4bbb-aaac-aea3788a447a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

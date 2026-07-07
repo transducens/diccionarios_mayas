@@ -1,0 +1,19 @@
+{
+  "entryWord": "Suqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amarrar flojo, dejar flojo amarre; cambiar teja quebrada o paja de techo",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinsuquh Raíz VT Suq",
+  "examples": [
+    {
+      "example_maya": "Xaq kinsuq li bʼatzʼ are chi na kʼax ta ukirik",
+      "example_spa": "Voy a amarrar flojo el hilo para que sea fácil desatarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a6b740a-3afb-48dd-990c-81557287f64b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Teʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abertura; agujero; hueco",
+  "definitionDialect": "General",
+  "additional_text": "sinv Uteʼl Teʼ (teh) RS =Teʼlaal Agujero de",
+  "examples": [
+    {
+      "example_maya": "Pa li teʼl kamin wubʼi li torbʼal uchi jah",
+      "example_spa": "En la abertura se mete la llave",
+      "dialect": null
+    }
+  ],
+  "uuid": "dba79771-5d55-4cbd-b2a3-105149c41593"
+}

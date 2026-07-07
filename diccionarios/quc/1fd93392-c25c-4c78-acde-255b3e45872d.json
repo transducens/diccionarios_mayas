@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partir; dividir; romper; repartir",
+  "definitionDialect": "",
+  "additional_text": "vTD Kinpaʼiij Raíz VT Paʼi",
+  "examples": [
+    {
+      "example_maya": "Li achih kupaʼij li alanxax che kuchiʼl",
+      "example_spa": "El hombre va a partir la naranja con el cuchillo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpaʼij li uliw chikiwach li walkʼuʼal",
+      "example_spa": "Voy a repartir el terreno entre mis hijos",
+      "dialect": null
+    }
+  ],
+  "uuid": "1fd93392-c25c-4c78-acde-255b3e45872d"
+}

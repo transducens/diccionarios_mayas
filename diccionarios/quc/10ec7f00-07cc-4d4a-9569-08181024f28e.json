@@ -1,0 +1,19 @@
+{
+  "entryWord": "Siyʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Silla de montar; montura",
+  "definitionDialect": "",
+  "additional_text": "SInv Nusiiyʼ Del Cast Silla",
+  "examples": [
+    {
+      "example_maya": "Li siyʼ kachokon cheh tʼuyulʼbʼal chirij kej",
+      "example_spa": "La silla de montar se usa para montar caballo",
+      "dialect": null
+    }
+  ],
+  "uuid": "10ec7f00-07cc-4d4a-9569-08181024f28e"
+}

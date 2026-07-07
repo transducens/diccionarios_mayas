@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pachachlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar agachado y de un lado a otro",
+  "definitionDialect": "",
+  "additional_text": "vt Kinpachachlabʼik Raíz P Pach",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kapachachlabʼ xe li reqaʼn",
+      "example_spa": "El hombre anda agachado por la carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "d152dfdc-efe1-4706-a81f-93597c89000a"
+}

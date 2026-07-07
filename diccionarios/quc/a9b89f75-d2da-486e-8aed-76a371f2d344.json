@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼachnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kabʼachnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar haciendo ruido con los pies",
+  "definitionDialect": "General",
+  "additional_text": "vi Raiz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Li achih kabʼachnajik xokʼowik",
+      "example_spa": "El hombre pasó haciendo ruido con los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9b89f75-d2da-486e-8aed-76a371f2d344"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona con pulso o puntería",
+  "definitionDialect": "General",
+  "additional_text": "SAgen Raíz S Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li kʼaqanel sibʼalaj ajqʼabʼ che kʼaqanik",
+      "example_spa": "El cazador tiene buena puntería para cazar",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c74867b-0480-4070-93f3-82380170ba5f"
+}

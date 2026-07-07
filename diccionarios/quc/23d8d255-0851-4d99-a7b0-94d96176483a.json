@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kucharah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukuchara",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuchara",
+  "definitionDialect": "",
+  "additional_text": "scv Del Cast Cuchara",
+  "examples": [
+    {
+      "example_maya": "Li uwaʼl rikiʼl katijow rukʼ kucharah",
+      "example_spa": "La sopa se toma con cuchara",
+      "dialect": null
+    }
+  ],
+  "uuid": "23d8d255-0851-4d99-a7b0-94d96176483a"
+}

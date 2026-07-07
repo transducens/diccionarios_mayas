@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kexkex",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukexkex",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dinero",
+  "definitionDialect": "general",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kʼax uchʼakik li kexkex",
+      "example_spa": "Es muy difícil ganar el dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "1dd09616-614c-45f8-8583-dc3c236e7e4d"
+}

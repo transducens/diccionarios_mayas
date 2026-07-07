@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lawexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Echar llave; encerrar bajo llave",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinlaaweej Coment Formación irregular La forma regular sería laaweyaxik //Lahweh//",
+  "examples": [
+    {
+      "example_maya": "Li ajchʼamiʼy xulawej li achih pa cheʼ",
+      "example_spa": "El alguacil encerró bajo llave al hombre, en la cárcel",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "b4744205-621d-4067-82df-3763f2824188"
+}

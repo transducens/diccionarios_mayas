@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tiʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintiʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer; morder; picar mosca",
+  "definitionDialect": "general",
+  "additional_text": "VTD Raíz VT Tiʼ",
+  "examples": [
+    {
+      "example_maya": "Tiʼij kintiʼ bʼena qʼij",
+      "example_spa": "Voy a comer carne por la tarde",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ xutiʼ li ixoq",
+      "example_spa": "El perro mordió a la mujer",
+      "dialect": null
+    }
+  ],
+  "uuid": "facae20b-a938-45c2-9ef6-b26f6191754d"
+}

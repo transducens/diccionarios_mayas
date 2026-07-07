@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzaqem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caerse",
+  "definitionDialect": "",
+  "additional_text": "vi Kintzaqik Raíz VT Tzaq",
+  "examples": [
+    {
+      "example_maya": "Are taq xintzaq chwach li abʼaj xinsok wibʼ",
+      "example_spa": "Me lastimé al caer sobre la piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce147c6a-dcaf-46c1-a32a-ea9abaaf0d7c"
+}

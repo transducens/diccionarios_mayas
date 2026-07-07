@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaqaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caña blanca; caña que se usa para fabricar flautas",
+  "definitionDialect": "",
+  "additional_text": "sInst",
+  "examples": [
+    {
+      "example_maya": "Kabʼan suʼ chech waʼ we saqaj",
+      "example_spa": "De la caña blanca se fabrican flautas",
+      "dialect": null
+    }
+  ],
+  "uuid": "ef98372e-76a7-4eb5-b74e-91b40397840a"
+}

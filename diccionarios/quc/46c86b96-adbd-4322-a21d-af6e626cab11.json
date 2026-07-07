@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ukʼiʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Wukʼiʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Atol de maíz; bebida alcohólica",
+  "definitionDialect": "General",
+  "additional_text": "sInv Raíz S Ukʼiʼy",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutij jun pajbʼal rukʼiʼy",
+      "example_spa": "El hombre se tomó una copa de guaro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xuya jun xaʼr rukʼiʼy li ral",
+      "example_spa": "La mujer le dio un vaso de atol a su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "46c86b96-adbd-4322-a21d-af6e626cab11"
+}

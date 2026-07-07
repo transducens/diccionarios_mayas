@@ -1,0 +1,19 @@
+{
+  "entryWord": "Titzʼeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apretado",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Raíz PT Titzʼ",
+  "examples": [
+    {
+      "example_maya": "Li alaj neʼ sibʼalaj titzʼeʼl li ukamiʼx",
+      "example_spa": "Al nene le queda muy apretada la camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e56dfe50-b087-4603-a55b-b57bcba74a9d"
+}

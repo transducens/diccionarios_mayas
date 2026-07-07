@@ -1,0 +1,23 @@
+{
+  "entryWord": "SYAP",
+  "definition": "suyacal",
+  "additional_text": "s1a nsyapa",
+  "examples": [
+    {
+      "example_maya": "Mitiʼ qit tokx jbʼal tuj syap",
+      "example_spa": "No entraba agua en el suyacal",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ya mitiʼ nchimakbʼlan xjal tiʼj syap, jaʼla",
+      "example_spa": "Ahora ya no está usando la gente el suyacal",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b22e736e-bba2-44f3-8f9a-fdb3c50206cd",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

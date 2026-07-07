@@ -1,0 +1,18 @@
+{
+  "entryWord": "SAABAD",
+  "definition": "sábado",
+  "additional_text": "sz sábado del español sábado",
+  "examples": [
+    {
+      "example_maya": "Kyaqil xjal tuj tnam ntiʼ nchaqʼnan tuj sabad",
+      "example_spa": "Toda la gente del pueblo no trabaja los sábados",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "928c07f8-8ec4-4d2e-b0ba-d21af8da086c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

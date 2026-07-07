@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yulanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xyuliʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuyulubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Puesta: sin agarradores",
+  "definitionDialect": "general",
+  "additional_text": "P Raíz P Yul",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal xaq yulan chiʼ li kʼwaʼ",
+      "example_spa": "La tinaja sin agarrador está puesta en la orilla del pozo",
+      "dialect": null
+    }
+  ],
+  "uuid": "175ac88a-7238-47e7-abfb-bac0d9461596"
+}

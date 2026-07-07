@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yabʼayoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kuyabʼayaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tentar varias veces una cosa",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz VT Yabʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq kuyabʼaya li upalaj",
+      "example_spa": "El niño se mantiene tentándose la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "90a59b4f-6e1f-4653-ac18-6fb0319123e9"
+}

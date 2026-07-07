@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼajcheʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼajcheʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Adornar con ramos de flores",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raiz VT Qʼaj Raiz S Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Xoʼr xuqʼajcheʼej uwi li kamnaq",
+      "example_spa": "Jorge adornó la tumba con ramos de flores",
+      "dialect": null
+    }
+  ],
+  "uuid": "f13506b2-dbd5-463a-9774-b3099e86c038"
+}

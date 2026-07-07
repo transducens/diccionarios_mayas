@@ -1,0 +1,28 @@
+{
+  "entryWord": "Xik",
+  "definition": "Irse Irregular",
+  "additional_text": "vi Xkohín",
+  "examples": [
+    {
+      "example_maya": "Xik we",
+      "example_spa": "Me voy",
+      "dialect": null
+    },
+    {
+      "example_maya": "¡Ayu!",
+      "example_spa": "¡Andate!",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi rix laj rik xkohin saʼ li xchʼiichʼ",
+      "example_spa": "Me fui en el carro con Ricardo",
+      "dialect": null
+    }
+  ],
+  "uuid": "615c0e2b-5d6b-4e50-af91-901741fe0bc0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

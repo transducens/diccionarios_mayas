@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wex",
+  "entryWordDialect": null,
+  "altEntryWord": "Uwex",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba de hilo; agujero de la aguja",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Bʼatz",
+  "examples": [
+    {
+      "example_maya": "Li jul rech li bʼaq xa sin laj nichʼ uwach",
+      "example_spa": "El agujero de la aguja es angosto",
+      "dialect": null
+    }
+  ],
+  "uuid": "57af854f-5ccb-481a-b398-f392fcaeab87"
+}

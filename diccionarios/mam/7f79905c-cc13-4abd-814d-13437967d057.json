@@ -1,0 +1,23 @@
+{
+  "entryWord": "ASUUKAR",
+  "definition": "azúcar",
+  "additional_text": "s1 nʼasukara del español azúcar",
+  "examples": [
+    {
+      "example_maya": "Chiʼ txa cheʼw tuʼnj nim asukar kuʼx tqʼoʼn Mak tiʼj",
+      "example_spa": "Es muy dulce la granizada porque Marcos le echó mucha azúcar",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma tzatqʼoʼn kabʼ maʼl tʼasukax te nchʼexa",
+      "example_spa": "Me dio sus dos libras de azúcar como préstamo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7f79905c-cc13-4abd-814d-13437967d057",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

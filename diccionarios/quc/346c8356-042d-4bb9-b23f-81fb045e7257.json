@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼajalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frágil (que se quiebra fácilmente)",
+  "definitionDialect": "es",
+  "additional_text": "P",
+  "examples": [
+    {
+      "example_maya": "Li uqʼabʼ li ajacheʼ sibʼalaj qʼajlik",
+      "example_spa": "Las ramas del",
+      "dialect": null
+    }
+  ],
+  "uuid": "346c8356-042d-4bb9-b23f-81fb045e7257"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tajyajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katajyajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acercarse una fiesta, fecha importante o una enfermedad",
+  "definitionDialect": "",
+  "additional_text": "vi sinón Naqajobʼem",
+  "examples": [
+    {
+      "example_maya": "Katajyaj chi la ri unimaqʼij li tinamit",
+      "example_spa": "Ya se acerca la fiesta del pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e0dee3b4-32b9-4109-9963-081eb928e5f7"
+}

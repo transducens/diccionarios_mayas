@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼuqexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzʼuqej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar una cosa en forma de cono",
+  "definitionDialect": "",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutzʼuqej bʼi li jun tzʼuqutzʼik eqaʼn",
+      "example_spa": "El hombre, se llevó la carga que tiene forma de cono",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb7841f3-f411-47d4-bb49-83c66cc1a63a"
+}

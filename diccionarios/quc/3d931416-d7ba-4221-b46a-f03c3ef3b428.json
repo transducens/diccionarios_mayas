@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pelot",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pelota; bola",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupeeloot Sinón Kiikʼ DomS Etzʼabʼaʼl Del Cast Pelota",
+  "examples": [
+    {
+      "example_maya": "Li pelot kaketzʼabʼej li aʼjetzʼanelab pa taq kamp",
+      "example_spa": "La pelota la usan los jugadores en los campos",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d931416-d7ba-4221-b46a-f03c3ef3b428"
+}

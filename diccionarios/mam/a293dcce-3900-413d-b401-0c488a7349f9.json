@@ -1,0 +1,18 @@
+{
+  "entryWord": "KUBEETAT",
+  "definition": "cubetear, sacar agua con cubeta",
+  "additional_text": "vt kubetal te, kubetan, ma jatz nkubetana del español cubeta",
+  "examples": [
+    {
+      "example_maya": "li tjatz kubetat aʼ tuj xoch",
+      "example_spa": "Hay que sacar el agua con la cubeta del pozo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a293dcce-3900-413d-b401-0c488a7349f9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

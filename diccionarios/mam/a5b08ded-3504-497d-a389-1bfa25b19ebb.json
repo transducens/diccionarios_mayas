@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHUUNBʼAJ",
+  "definition": "garganta, esófago",
+  "additional_text": "s3 nchuna raíz chun s ds xumlalbʼaj",
+  "examples": [
+    {
+      "example_maya": "Maʼ kyaj qʼet tbʼaqʼ oj tmij tchunbʼaj tor",
+      "example_spa": "Se atoró la pepita de aguacate en la garganta del toro",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Neʼ naqʼa ti tkyʼitz qchun",
+      "example_spa": "Es muy pequeño el grueso de nuestra garganta",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a5b08ded-3504-497d-a389-1bfa25b19ebb",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

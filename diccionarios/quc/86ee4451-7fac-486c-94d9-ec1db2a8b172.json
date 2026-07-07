@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xichʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xinxichʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonar cosas suaves, como libros, ropa, tusas, etc; echar alborotadas cosas suaves, como libros, ropa, tusas, etc; enredar cosas delgadas",
+  "definitionDialect": "general",
+  "additional_text": "vT Var Kinpatzoh Raíz VT Xichʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq mes kuxichʼ pa li kʼat",
+      "example_spa": "La mujer está amontonando la basura en la red",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li meʼs xichʼik kubʼan cheh li chij",
+      "example_spa": "El gato está enredando los hilos",
+      "dialect": null
+    }
+  ],
+  "uuid": "86ee4451-7fac-486c-94d9-ec1db2a8b172"
+}

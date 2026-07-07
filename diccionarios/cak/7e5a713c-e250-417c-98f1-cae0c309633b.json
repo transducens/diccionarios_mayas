@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chʼajonïk",
+  "definition": "Lavar, Bañarse",
+  "additional_text": "vt Chʼajoxik (chʼajik) ninchʼäj var Atinïk, muxanïk, chʼäj",
+  "examples": [
+    {
+      "example_maya": "Pa taq rox qʼij yichʼajon pa tuj",
+      "example_spa": "Cada tres días me baño en el temascal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan utz nachʼäj apaläj pa xabʼon",
+      "example_spa": "Es muy bueno lavarse la cara con jabón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan nikʼasäs täq yachʼajon",
+      "example_spa": "Es muy alegre bañarse",
+      "dialect": null
+    }
+  ],
+  "uuid": "7e5a713c-e250-417c-98f1-cae0c309633b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Yamalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Tanalik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suspendida: música; pendiente trabajo; calmado: aire; tranquilo ambiente; detenido; parado; retardado; interrumpido",
+  "definitionDialect": "",
+  "additional_text": "p Xyamiʼk xuyamabʼaʼ Var Raíz P Yam",
+  "examples": [
+    {
+      "example_maya": "Li qʼojom yamalik ma tajin kewaʼ li aʼjqʼojomabʼ",
+      "example_spa": "La música está suspendida porque los marimbistas están comiendo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chak yamalik, ma na paqal ta kajil li aʼjchakibʼ",
+      "example_spa": "El trabajo está pendiente porque no les pagan bien a los trabajadores",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kaqiqʼ yamalik",
+      "example_spa": "El aire está calmado",
+      "dialect": null
+    }
+  ],
+  "uuid": "2573a9cf-f860-44e1-929e-f0e95c722914"
+}

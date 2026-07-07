@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼuulank",
+  "definition": "Guardar, ahorrar dinero",
+  "additional_text": "VTD Xinkʼuula",
+  "examples": [
+    {
+      "example_maya": "Kʼuulank wa",
+      "example_spa": "Guardar tortilla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼuulank tumin saʼ xowebʼaal tumin",
+      "example_spa": "Ahorrar dinero en el banco",
+      "dialect": null
+    }
+  ],
+  "uuid": "7cda66a7-d233-40f4-b5af-211092139c57",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Iikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuʼikʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "(wiikʼ)",
+  "altEntryWordDialect2": null,
+  "definition": "Luna; mes; adorno hecho de cañaveral, en forma de luna, que se usa en Semana Santa",
+  "definitionDialect": "",
+  "additional_text": "sInv sInv Ikʼiil Trabajo por mes sAgen Ajʼiikʼ Sirvienta sInv Rikʼilaal Suerte, destino, edad en meses, mes de sds Upa iikʼ Menstruación Sinón Qatiʼt DomS Wiqobʼal",
+  "examples": [
+    {
+      "example_maya": "Li ikʼ katzukʼiʼ chaqʼabʼ",
+      "example_spa": "La luna alumbra por las noches",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li junabʼ kʼo kabʼlajuj ikʼ chpam",
+      "example_spa": "El año tiene doce meses",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alabʼom kakibʼan kiʼikʼ pa awasqʼij",
+      "example_spa": "Los muchachos hacen su adorno en forma de luna para Semana Santa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c77e65f4-d4e7-4c4b-b581-5b8f37e25a9e"
+}

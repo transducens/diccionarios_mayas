@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼaqʼatixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Retorcer, enroscar, atomillar, amarrar con muchas vueltas, comer ligero",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinbʼaaqʼatiij svs Ubʼaaqʼatixik laawux Doblar el clavo para sacarlo",
+  "examples": [
+    {
+      "example_maya": "Kinbʼaqʼatij na li uxul li akʼ are chi kakamik",
+      "example_spa": "Voy a retorcerle el pescuezo a la gallina para que se muera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, xaq aninaq xubʼaqʼatij bʼi jun uwa",
+      "example_spa": "El hombre comió a la ligera",
+      "dialect": null
+    }
+  ],
+  "uuid": "25c849b1-ba4a-46e9-8cb9-826218af677a"
+}

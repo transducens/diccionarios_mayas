@@ -1,0 +1,19 @@
+{
+  "entryWord": "Labʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambor pequeño",
+  "definitionDialect": "",
+  "additional_text": "sInv Nulabʼaal Var Tambʼor DomS Qʼojoom",
+  "examples": [
+    {
+      "example_maya": "Ri ojer maj kaxon qʼojom kokik, xew\" li labʼal",
+      "example_spa": "Antes no había marimba, sólo se usaba el tambor",
+      "dialect": null
+    }
+  ],
+  "uuid": "61b37bd4-f1b8-4e92-b067-dff82d234093"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Opanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinopanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llegar a otra parte",
+  "definitionDialect": "Español",
+  "additional_text": "vi Var Apanoq Var Uleem Raíz VI Opan",
+  "examples": [
+    {
+      "example_maya": "Kʼa chweʼq kinopan je laʼ Nabʼjul",
+      "example_spa": "Hasta mañana voy a llegar a Huehuetenango",
+      "dialect": null
+    }
+  ],
+  "uuid": "d86654a6-62d9-4c39-9a59-faddc87b58ae"
+}

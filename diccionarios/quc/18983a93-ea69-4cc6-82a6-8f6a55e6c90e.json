@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xalmah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxalma",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Chokonsaʼn",
+  "altEntryWordDialect2": "DomS",
+  "definition": "Montura para carga de caballo",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz SnP Xalmah",
+  "examples": [
+    {
+      "example_maya": "Li xalmah kakikoj li kej, kakeqabʼej eqaʼn",
+      "example_spa": "La montura la usan las bestias para cargar carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "18983a93-ea69-4cc6-82a6-8f6a55e6c90e"
+}

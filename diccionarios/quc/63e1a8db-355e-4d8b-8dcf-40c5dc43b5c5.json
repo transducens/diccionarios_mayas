@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kʼakʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukʼakʼul, (ukʼakʼil)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nuevo; medio nuevo",
+  "definitionDialect": "",
+  "additional_text": "Adj Ant Qʼeʼl Ant Kaamlibʼal",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kʼakʼ li uxkin",
+      "example_spa": "Los aretes de la mujer son nuevos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ukamiʼx li achih pa nikʼaj ukʼakʼul",
+      "example_spa": "La camisa del hombre está medio nueva",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li upowiʼ li achih kʼa kʼakʼkʼoj",
+      "example_spa": "El sombrero del hombre está medio nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "63e1a8db-355e-4d8b-8dcf-40c5dc43b5c5"
+}

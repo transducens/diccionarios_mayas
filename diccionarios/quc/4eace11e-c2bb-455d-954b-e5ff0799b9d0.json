@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kalanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Interés de dinero",
+  "definitionDialect": "",
+  "additional_text": "sv",
+  "examples": [
+    {
+      "example_maya": "Li pwaq kalan pa li ukʼolbʼal pwaq",
+      "example_spa": "El dinero gana intereses en el banco",
+      "dialect": null
+    }
+  ],
+  "uuid": "4eace11e-c2bb-455d-954b-e5ff0799b9d0"
+}

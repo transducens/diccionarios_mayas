@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼulteʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Leña jateada; estacas que apoyan la leña jateada",
+  "definitionDialect": "General",
+  "additional_text": "SInv Nuchʼulteʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼulteʼ siʼ, sibʼalaj chaqiʼj",
+      "example_spa": "La leña jateada, está muy seca",
+      "dialect": null
+    }
+  ],
+  "uuid": "016f9c6e-2aa1-4245-9f4b-ee47394bc2b2"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wikʼikotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con pelo colocho alborotado; andar con chiriviscos",
+  "definitionDialect": "",
+  "additional_text": "vi Kawikʼikotik Raiz VI Wikʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal amaqʼel kawikʼikot cheh xkʼaʼy",
+      "example_spa": "El niño siempre anda con los chiriviscos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih, xaq ronojel qʼij kawikʼikotik",
+      "example_spa": "La muchacha anda todos los días con el cabello alborotado",
+      "dialect": null
+    }
+  ],
+  "uuid": "f01ccaa0-b2c3-42b1-ab7c-785c4c3a45d5"
+}

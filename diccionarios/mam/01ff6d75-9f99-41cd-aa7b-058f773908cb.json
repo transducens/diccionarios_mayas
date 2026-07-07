@@ -1,0 +1,23 @@
+{
+  "entryWord": "WOTX",
+  "definition": "1 gota de agua 2 puño de cosas",
+  "additional_text": "md raíz wotx vt",
+  "examples": [
+    {
+      "example_maya": "At jun wotx aʼ ma txiʼ nchitoʼna",
+      "example_spa": "Hay una gota de agua que regué",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Antz jun wotx nkʼuxa maniya",
+      "example_spa": "Dame un puño de manía para comer",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "01ff6d75-9f99-41cd-aa7b-058f773908cb",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

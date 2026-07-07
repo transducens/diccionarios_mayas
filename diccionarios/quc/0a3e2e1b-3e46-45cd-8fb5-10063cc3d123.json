@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼechik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblar caña de milpa, tallo de flores, trigo o rama de café",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kingʼechoh Sinón Qʼoochik Var Miiʼik Raíz P Qʼech",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kuqʼech li abʼix chech li reqaʼn",
+      "example_spa": "El hombre está doblando la milpa con su carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a3e2e1b-3e46-45cd-8fb5-10063cc3d123"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼicheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quiché; Rey Quiché en el baile de la conquista",
+  "definitionDialect": "General",
+  "additional_text": "N DomS Ajxojolobʼ",
+  "examples": [
+    {
+      "example_maya": "Li kʼicheʼ are nimalaj qʼatal tzij, chech xuʼqaja wi winaq xuq chʼoʼjibʼal ri tekum, are taq xkimajij chʼaʼoj",
+      "example_spa": "Quiché es el gran rey a quien pidió Tecún Umán gente y armamento cuando comenzaron la guerra",
+      "dialect": null
+    }
+  ],
+  "uuid": "f92f469e-2600-4ecb-b337-dd21c4177c26"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajyuqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajyuqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pastor",
+  "definitionDialect": "General",
+  "additional_text": "SAgen Raíz VT Yuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajyuqʼ reqam jun karneʼl kamnaq",
+      "example_spa": "El pastor lleva cargada una oveja muerta",
+      "dialect": null
+    }
+  ],
+  "uuid": "760bf36d-dc88-4328-820e-1d700cc0d44a"
+}

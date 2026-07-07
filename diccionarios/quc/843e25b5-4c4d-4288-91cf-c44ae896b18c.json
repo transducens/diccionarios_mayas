@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rawasqʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Semana Santa",
+  "definitionDialect": "",
+  "additional_text": "sc Var Awasqʼiij Raíz S Awaas Raíz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Rawasqʼij kabʼix cheh ri nimaqʼij are taq kanaʼtajsax ukamikal ri Jesús",
+      "example_spa": "Semana Santa es el tiempo en que se recuerda la pasión, muerte y resurrección de Jesús",
+      "dialect": null
+    }
+  ],
+  "uuid": "843e25b5-4c4d-4288-91cf-c44ae896b18c"
+}

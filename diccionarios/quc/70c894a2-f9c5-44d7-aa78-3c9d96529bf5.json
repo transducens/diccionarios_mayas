@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaxkʼol",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼaxkʼol",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sufrimiento",
+  "definitionDialect": "",
+  "additional_text": "sInv Raíz S Kʼax",
+  "examples": [
+    {
+      "example_maya": "Li achih, kʼo urajil, ma ukʼaxkʼol",
+      "example_spa": "El hombre tiene dinero; pero con sufrimiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "70c894a2-f9c5-44d7-aa78-3c9d96529bf5"
+}

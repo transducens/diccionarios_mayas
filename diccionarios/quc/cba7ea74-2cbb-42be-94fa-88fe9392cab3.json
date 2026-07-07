@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wuqubʼixir",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Después de siete días; hace siete días, una semana u ocho días",
+  "definitionDialect": "General",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Wuqubʼixir xojpe pa kʼayʼbʼal",
+      "example_spa": "Hace 7 días fuimos al mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "cba7ea74-2cbb-42be-94fa-88fe9392cab3"
+}

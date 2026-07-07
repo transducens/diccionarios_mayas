@@ -1,0 +1,19 @@
+{
+  "entryWord": "Awaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Wawaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Animal; mi animal",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Iwir xkam jun wech ri awaj",
+      "example_spa": "Ayer se murió mi animal",
+      "dialect": null
+    }
+  ],
+  "uuid": "3443adea-2ab8-4e46-b232-adf7f87e7f73"
+}

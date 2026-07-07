@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqutʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Roer una vez",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qutʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼoh xaq juqutʼ xubʼanoh, xanimajik are taq xril li meʼs",
+      "example_spa": "El ratón royó una vez y huyó cuando vio al gato",
+      "dialect": null
+    }
+  ],
+  "uuid": "438804eb-1838-4dcd-9a66-1425233a385a"
+}

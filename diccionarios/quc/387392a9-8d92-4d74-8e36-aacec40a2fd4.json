@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tujlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtujiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutujbʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Salido: hueso, saltado: hueso; como los de la espalda",
+  "definitionDialect": "General",
+  "additional_text": "p Sinón Tukʼutik Raíz P Tuj",
+  "examples": [
+    {
+      "example_maya": "Xinriq yabʼil, xaq tuj li bʼaq chwech",
+      "example_spa": "Me enfermé, por eso se me ven los huesos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq tujul la li bʼaq cheh li bʼak ma xa riʼj chik",
+      "example_spa": "La vaca está flaca y se le ven los huesos porque ya está vieja",
+      "dialect": null
+    }
+  ],
+  "uuid": "387392a9-8d92-4d74-8e36-aacec40a2fd4"
+}

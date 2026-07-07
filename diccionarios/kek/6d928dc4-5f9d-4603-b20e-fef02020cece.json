@@ -1,0 +1,18 @@
+{
+  "entryWord": "Koton",
+  "definition": "Saco, chaqueta",
+  "additional_text": "sInv Inkoton Sinón",
+  "examples": [
+    {
+      "example_maya": "Kabʼajer xintaqla xyiibʼankil jun inkoton saʼ li bʼojlebʼaal",
+      "example_spa": "Anteayer mandé a hacer un saco a la sastrería",
+      "dialect": null
+    }
+  ],
+  "uuid": "6d928dc4-5f9d-4603-b20e-fef02020cece",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

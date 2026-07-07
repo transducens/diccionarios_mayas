@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kakabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "De dos en dos; dos por dos",
+  "definitionDialect": "",
+  "additional_text": "NumDist NumDist Chkaakabʼiil De dos en dos Raíz N Kaa",
+  "examples": [
+    {
+      "example_maya": "Kakabʼ ujachik li alanxax",
+      "example_spa": "Las naranjas se reparten de dos en dos",
+      "dialect": null
+    }
+  ],
+  "uuid": "38f8c6bd-d56a-4862-8021-8b6b28e9c4da"
+}

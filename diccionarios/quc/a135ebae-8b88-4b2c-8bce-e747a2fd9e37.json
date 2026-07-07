@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rancho",
+  "definitionDialect": "",
+  "additional_text": "scv Nukabʼaal",
+  "examples": [
+    {
+      "example_maya": "Chunikʼajal li abʼix kiwokom wi jun kabʼal",
+      "example_spa": "En medio de la milpa han construido un rancho",
+      "dialect": null
+    }
+  ],
+  "uuid": "a135ebae-8b88-4b2c-8bce-e747a2fd9e37"
+}

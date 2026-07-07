@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼrin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costal; mi costal; brin",
+  "definitionDialect": "",
+  "additional_text": "sInv Nubʼriin Var Bʼiriin DomS Bʼrin",
+  "examples": [
+    {
+      "example_maya": "Li bʼrin nojnaq che ar\"os",
+      "example_spa": "El costal está lleno de arroz",
+      "dialect": null
+    }
+  ],
+  "uuid": "4660863f-701e-4295-9b5f-f4b9e7dcc600"
+}

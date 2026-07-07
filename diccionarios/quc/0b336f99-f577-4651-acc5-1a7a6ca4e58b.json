@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼalaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Claro; visible",
+  "definitionDialect": "",
+  "additional_text": "Adj Uqʼaalajiil Fbas //Qʼahlaaj//",
+  "examples": [
+    {
+      "example_maya": "We kʼo kʼaybʼal kʼa te riʼ qʼalaj",
+      "example_spa": "Si hay luz, es claro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tinamit qʼalaj pwi li juyubʼ",
+      "example_spa": "El pueblo es visible sobre la montaña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼalaj chi li bʼeh ma xsaqirik",
+      "example_spa": "El camino es visible porque ya amaneció",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b336f99-f577-4651-acc5-1a7a6ca4e58b"
+}

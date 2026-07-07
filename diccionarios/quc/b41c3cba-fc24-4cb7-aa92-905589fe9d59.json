@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rokʼorik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desnudo; fea cara",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raiz PT Rokʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah takʼal chuchi li bʼinel jaʼ sibʼalaj nima rokʼorik",
+      "example_spa": "El muchacho se está bañando desnudo en la orilla del rio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xwachikʼaj uwach jun kamnaq rokʼorik upalaj",
+      "example_spa": "Soñé a un muerto con cara fea",
+      "dialect": null
+    }
+  ],
+  "uuid": "b41c3cba-fc24-4cb7-aa92-905589fe9d59"
+}

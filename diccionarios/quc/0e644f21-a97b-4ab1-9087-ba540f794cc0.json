@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼikmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correr el río con mucha fuerza",
+  "definitionDialect": "",
+  "additional_text": "VI Kachʼikmaʼyik Raiz P Chʼik",
+  "examples": [
+    {
+      "example_maya": "Li bʼinel jaʼ sibʼalaj kachikmaʼyik ma xuʼon nima jabʼ",
+      "example_spa": "El río tiene fuerza porque llovió mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "0e644f21-a97b-4ab1-9087-ba540f794cc0"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "SWAK",
+  "definition": "espumoso",
+  "additional_text": "adj tswakal, ma swakax",
+  "examples": [
+    {
+      "example_maya": "Kyeʼyex tswakal nimal sijan",
+      "example_spa": "Que bonito lo espumoso que tiene el jaboncillo",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma swakax nimal tʼal jabon",
+      "example_spa": "Se puso espumosa el agua de jabón",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ee69124d-db10-4c93-9d0f-7b941ca11ef7",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

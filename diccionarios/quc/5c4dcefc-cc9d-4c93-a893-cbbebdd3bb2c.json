@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trementina",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuqʼool Raíz S Qʼool",
+  "examples": [
+    {
+      "example_maya": "Li qʼol kachokon cheh qʼolibʼal",
+      "example_spa": "La trementina se usa para soldadura",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c4dcefc-cc9d-4c93-a893-cbbebdd3bb2c"
+}

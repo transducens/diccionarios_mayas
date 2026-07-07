@@ -1,0 +1,34 @@
+{
+  "entryWord": "Rubʼil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "De todo; cualquier cosa",
+  "definitionDialect": "",
+  "additional_text": "Adv Var Rabʼil",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq rubʼil kuchʼob cheh li rachiʼil",
+      "example_spa": "El muchacho le cuenta cualquier cosa a su compañero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq rubʼil kubʼanoh",
+      "example_spa": "Hace de todo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq rubʼil uchak",
+      "example_spa": "Es mañoso, hace bien y mal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq rubʼil retaʼam",
+      "example_spa": "Sabe de todo",
+      "dialect": null
+    }
+  ],
+  "uuid": "989377e0-1283-49e2-b2e0-c84a5003d5d6"
+}

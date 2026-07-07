@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qibʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Qebʼem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acercarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kinqibʼik Var Qebʼeem Raiz VT Qibʼ",
+  "examples": [
+    {
+      "example_maya": "Kinqibʼ rukʼ li wachiʼil chumajik li kikʼ",
+      "example_spa": "Voy a acercarme a mi compañero para quitarle la pelota",
+      "dialect": null
+    }
+  ],
+  "uuid": "d4b08b7a-8445-4478-ac5d-e0b61429225a"
+}

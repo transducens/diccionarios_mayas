@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tikirsanik",
+  "definition": "Empezar, comenzar",
+  "additional_text": "vtc Tikirsaxik, nintikirsaj Tikirsa var Chapanik, tzʼukunik",
+  "examples": [
+    {
+      "example_maya": "Chwaʼq nintikirsaj ri nuchenoj",
+      "example_spa": "Mañana voy a empezar mi deshierbo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xintikirsaj rubʼanik ri wacho, kʼïy achiʼaʼ xin kitoʼ",
+      "example_spa": "Cuando comencé a construir mi casa, varios hombres me ayudaron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa wakami xintikirsaj ri nusamaj",
+      "example_spa": "Hasta ahora empecé mi trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "09c0fc33-c756-4cca-bd1f-8cd9dc14bcc3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

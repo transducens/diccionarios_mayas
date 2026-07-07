@@ -1,0 +1,24 @@
+{
+  "entryWord": "Petzkʼun",
+  "entryWordDialect": null,
+  "altEntryWord": "Pitzkʼun",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Chʼaabʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Arco y flecha",
+  "definitionDialect": "",
+  "additional_text": "scv Nupetzkʼuun Var var",
+  "examples": [
+    {
+      "example_maya": "Are li petzkʼun xkikoj ri ojer taq tzij pa chʼaʼoj",
+      "example_spa": "La flecha la usaban los antiguos para la guerra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li petzkʼun are laʼ li bʼanom kotokik chech, ximom che kʼaʼam",
+      "example_spa": "El arco es un palo que se ha torcido y amarrado con pita",
+      "dialect": null
+    }
+  ],
+  "uuid": "3be95bc9-220a-4a3e-89f8-f49b2e50ae76"
+}

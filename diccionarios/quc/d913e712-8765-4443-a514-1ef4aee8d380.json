@@ -1,0 +1,24 @@
+{
+  "entryWord": "Telexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintelij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar en los brazos o en el hombro",
+  "definitionDialect": "general",
+  "additional_text": "vtd Raíz PT Tel",
+  "examples": [
+    {
+      "example_maya": "Li achih, karaj kutelej bʼi li tyox",
+      "example_spa": "El hombre, quiere llevar a la imagen en los brazos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintelej bʼi jun abʼaj chwi nutelebʼ",
+      "example_spa": "Levanto una piedra sobre mi hombro",
+      "dialect": null
+    }
+  ],
+  "uuid": "d913e712-8765-4443-a514-1ef4aee8d380"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Anom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hecho, estado (físico, mental)",
+  "definitionDialect": "General",
+  "additional_text": "pp Var Bʼanoom",
+  "examples": [
+    {
+      "example_maya": "¿Jas ubʼanom li uyabʼ li yawabʼ?",
+      "example_spa": "¿En qué estado se encuentra el enfermo?",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ff12432-9490-4fe6-a162-b6ba19e7c0b1"
+}

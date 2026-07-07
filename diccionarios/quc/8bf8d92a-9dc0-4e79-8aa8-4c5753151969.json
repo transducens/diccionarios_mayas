@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqbʼach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Granizo",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz Adj Saq Raíz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Li saqbʼach kubʼan kʼax chech taq li tikoʼn",
+      "example_spa": "El granizo le hace daño a las siembras",
+      "dialect": null
+    }
+  ],
+  "uuid": "8bf8d92a-9dc0-4e79-8aa8-4c5753151969"
+}

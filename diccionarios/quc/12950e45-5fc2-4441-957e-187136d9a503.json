@@ -1,0 +1,19 @@
+{
+  "entryWord": "Par staq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partícula en plural que indica comparación o lástima",
+  "definitionDialect": "",
+  "additional_text": "Ant Qʼat Var Sin",
+  "examples": [
+    {
+      "example_maya": "Li staq nimaq taq winaq na kakiqʼiʼ ta chik kechakunik",
+      "example_spa": "Los ancianitos ya no pueden trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "12950e45-5fc2-4441-957e-187136d9a503"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chʼabʼ",
+  "definition": "Ballesta, arco, flecha, saeta",
+  "additional_text": "sInv Nuchʼabʼ Kʼaqobʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri chʼabʼ xokusäx wawe ojer, wakami manaq chik",
+      "example_spa": "El arco fue usado aquí antes; pero ahora ya no",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼabʼ ja ri ri xkokusaj ri ojer täq winäq chi xkibʼän oyowal chi xekamsan",
+      "example_spa": "Flecha es lo que usaron los antiguos para hacer la guerra y matar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chʼabʼ ja ri ri kichʼaybʼal ri ojer taq winäq",
+      "example_spa": "La flecha es con lo que peleaba la gente antigua",
+      "dialect": null
+    }
+  ],
+  "uuid": "2aaae450-a120-4086-afc3-fa770a421fe3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

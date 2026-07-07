@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kemik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkemoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tejer",
+  "definitionDialect": "",
+  "additional_text": "vtr s Kemobʼ Espada (palo ancho que se usa para tejer) s Kembʼal Telar Raíz VT Kem",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj retaʼm kukem, ronojel uwach",
+      "example_spa": "Mi mujer sabe tejer de todo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kamiʼx kʼa maja kinkemoh",
+      "example_spa": "Todavía no he tejido la camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f4ca184-e3fa-499a-afe0-953421ead089"
+}

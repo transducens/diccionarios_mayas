@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kolah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukola",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cola de carpintería",
+  "definitionDialect": "Del Cast. Cola.",
+  "additional_text": "SCV",
+  "examples": [
+    {
+      "example_maya": "Li kola kachokon che nakʼbʼal",
+      "example_spa": "La cola se usa para pegar",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c5d69d7-c825-4e6b-beab-9697d90c87cb"
+}

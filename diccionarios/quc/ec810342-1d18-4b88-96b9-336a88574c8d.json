@@ -1,0 +1,24 @@
+{
+  "entryWord": "Titzʼilik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtitzʼiʼk, xutitzʼibʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apretado, como costal con mucho maíz; lleno; juntas: siembras; tapado por algún estorbo; tupido",
+  "definitionDialect": "general",
+  "additional_text": "p Raíz P Titzʼ",
+  "examples": [
+    {
+      "example_maya": "Titzʼil li upa ja chkech winaq",
+      "example_spa": "La gente está muy apretada adentro de la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtitzʼiʼ li chʼichʼ uqʼaxebʼal joron rumal li tzʼil",
+      "example_spa": "La caña se tapó por la suciedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "ec810342-1d18-4b88-96b9-336a88574c8d"
+}

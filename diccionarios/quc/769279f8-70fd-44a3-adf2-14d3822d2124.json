@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tat nan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Padres (padre y madre)",
+  "definitionDialect": "",
+  "additional_text": "ss ss",
+  "examples": [
+    {
+      "example_maya": "Li e tat nan sibʼalaj e loqʼ li kalkʼuʼal chikiwach",
+      "example_spa": "Los padres quieren mucho a sus hijos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qatat qanan",
+      "example_spa": "Nuestros antepasados",
+      "dialect": null
+    }
+  ],
+  "uuid": "769279f8-70fd-44a3-adf2-14d3822d2124"
+}

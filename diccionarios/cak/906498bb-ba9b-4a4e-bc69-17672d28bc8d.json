@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kabʼraqän",
+  "definition": "Temblor, terremoto",
+  "additional_text": "sc Var Silonel (sinonel)",
+  "examples": [
+    {
+      "example_maya": "Ri kabʼraqän, nusiloj ri ulew",
+      "example_spa": "El terremoto mueve la tierra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kabʼraqän, man jun etamayon ta taq nipe",
+      "example_spa": "Nadie puede predecir cuando va a haber un terremoto",
+      "dialect": null
+    }
+  ],
+  "uuid": "906498bb-ba9b-4a4e-bc69-17672d28bc8d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

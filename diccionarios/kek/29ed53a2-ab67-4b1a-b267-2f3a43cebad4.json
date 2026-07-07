@@ -1,0 +1,18 @@
+{
+  "entryWord": "Eetaal",
+  "definition": "Cuerda para medir tareas",
+  "additional_text": "SInv Weetaal,",
+  "examples": [
+    {
+      "example_maya": "Toj tinloqʼ junaq weetaal re xbʼisbʼal linchʼochʼ",
+      "example_spa": "Tendré que comprar una pita para medir mi terreno",
+      "dialect": null
+    }
+  ],
+  "uuid": "29ed53a2-ab67-4b1a-b267-2f3a43cebad4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

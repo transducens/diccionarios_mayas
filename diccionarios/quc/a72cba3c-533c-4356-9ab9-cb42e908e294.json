@@ -1,0 +1,24 @@
+{
+  "entryWord": "Poqʼoxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Capar; sacar comida de olla; interrogar, sacar secretos, sacar miel o cera de colmena, pepitas de chilacayote o güicoy",
+  "definitionDialect": "",
+  "additional_text": "vTD Kinpoqʼooj Poqʼol upa tʼuʼy Persona que roba comida Raíz VT Poqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ukej li achih xpoqʼoxik",
+      "example_spa": "La bestia del hombre fue capada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xupoqʼola li raxkabʼ chke li kabʼ",
+      "example_spa": "El hombre sacó luego la miel de la colmena",
+      "dialect": null
+    }
+  ],
+  "uuid": "a72cba3c-533c-4356-9ab9-cb42e908e294"
+}

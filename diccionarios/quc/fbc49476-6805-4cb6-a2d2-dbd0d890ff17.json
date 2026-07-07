@@ -1,0 +1,19 @@
+{
+  "entryWord": "Miqʼin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bebida caliente, como café o agua",
+  "definitionDialect": "",
+  "additional_text": "scv Numiqʼiin Miqʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Kuʼ kuta jubʼiqʼ umiqʼin kʼatan",
+      "example_spa": "Domingo pide un poco de café caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "fbc49476-6805-4cb6-a2d2-dbd0d890ff17"
+}

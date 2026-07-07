@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuney",
+  "entryWordDialect": "tunay",
+  "altEntryWord": "Sakil tuney",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caña de Santa Catalina Planta parecida a la caña de Santa Catalina",
+  "definitionDialect": "Nutuneey.",
+  "additional_text": "sInv sds Utuney aaq scl Var Caña de San Cristobal Raíz S Tuney (tunay) DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li raqan li tuney tel li upam, kel jorom chupam we kaketik",
+      "example_spa": "El tallo de la caña de Santa Catalina es hueco y al cortarlo le sale agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "d388642d-24ac-494a-9185-d2cfb2cdd4a2"
+}

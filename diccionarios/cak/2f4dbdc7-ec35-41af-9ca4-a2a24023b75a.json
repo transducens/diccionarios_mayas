@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼilinïk",
+  "definition": "Tostar habas",
+  "additional_text": "VTD Kʼilixik, ninkʼilij Kʼilikʼaʼ Tostar seguido las habas",
+  "examples": [
+    {
+      "example_maya": "Janíla janina ütz ninnaʼ ninkʼilij aws (jaws)",
+      "example_spa": "Me gusta mucho tostar habas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir xinkʼilij jubʼa nujaws",
+      "example_spa": "Ayer tosté un poco de habas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f4dbdc7-ec35-41af-9ca4-a2a24023b75a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

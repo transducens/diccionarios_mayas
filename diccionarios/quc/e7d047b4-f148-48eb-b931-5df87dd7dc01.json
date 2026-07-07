@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼachachlebʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nubʼachachlebʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Huella; mi huella",
+  "definitionDialect": "General",
+  "additional_text": "SInv Var Upaaqan Var Takʼalibʼal Raiz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom kʼo kan li ubʼachachlebʼal pa li abʼix",
+      "example_spa": "El ladrón dejó sus huellas entre la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e7d047b4-f148-48eb-b931-5df87dd7dc01"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ootoʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Culebra venenosa",
+  "definitionDialect": "Español",
+  "additional_text": "snp Fbas //Ohtoʼy// DomS Kumatz",
+  "examples": [
+    {
+      "example_maya": "Li otoʼy are laʼ jun kumatz tyoʼnel xuq kakamsanik, qʼeq rij chom upam, koʼl jubʼiqʼ li raqan",
+      "example_spa": "Esta es una culebra venenosa de color negro, gruesa y algo corta",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8d20122-b796-4f9f-9083-6fec6256e6dc"
+}

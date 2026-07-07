@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rananexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrananej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estirar lazo o pita; amarrar duro",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz P Ran",
+  "examples": [
+    {
+      "example_maya": "Li wokol jah xurananej li kʼaʼam cheh li uqajbʼal jah",
+      "example_spa": "El albañil estiró mucho la pita donde van a construir la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "3eedf91d-da63-4ed5-85ea-ea5b3801e15d"
+}

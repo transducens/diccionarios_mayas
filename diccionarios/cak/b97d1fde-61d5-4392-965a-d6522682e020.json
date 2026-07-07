@@ -1,0 +1,23 @@
+{
+  "entryWord": "Oyobʼenïk",
+  "definition": "Esperar",
+  "additional_text": "vtd Oyobʼexik, (ninwoyobʼej) Oyobʼe",
+  "examples": [
+    {
+      "example_maya": "Taq yibʼe pa juyuʼ, jantapeʼ ninwoyobʼej el ri nutataʼ",
+      "example_spa": "Cuando voy al monte, siempre espero a mi papá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq kʼo jun nawoyobʼej, yalan nikʼo akʼuʼx",
+      "example_spa": "Cuando uno está esperando a alguien, se desespera mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "b97d1fde-61d5-4392-965a-d6522682e020",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

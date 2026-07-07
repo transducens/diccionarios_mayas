@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaraqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hecho bola; güegüecho o tumor",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Qʼar",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj qʼaraqʼik li ubʼoʼj",
+      "example_spa": "La mujer tiene un güegüecho grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "6260f085-f185-4368-ae98-e254f379e066"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tʼanalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegado: lodo, sangre, o masa",
+  "definitionDialect": "",
+  "additional_text": "p Xtʼaniʼk, xutʼanabʼaʼ Sinón Tʼaqalik Raiz PT Tʼan",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutʼanabʼa kan li xaqʼoʼl chwa li asaron",
+      "example_spa": "El hombre dejó pegado el lodo en el azadón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tʼanal jubʼiqʼ xaqʼoʼl chwa li xan",
+      "example_spa": "En la pared hay un poco de lodo pegado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tʼanal li qʼor chwa li aqʼen",
+      "example_spa": "Sobre la tabla hay atol espeso",
+      "dialect": null
+    }
+  ],
+  "uuid": "b0aead10-3627-49cf-a473-94ceda529ae4"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ucheʼl ij",
+  "entryWordDialect": null,
+  "altEntryWord": "Ucheʼl wij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espalda; lomo de animales; dorso",
+  "definitionDialect": "",
+  "additional_text": "sds",
+  "examples": [
+    {
+      "example_maya": "Li achih are li ucheʼl rij kareqabʼej reh li siʼ",
+      "example_spa": "El hombre carga la leña en la espalda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ucheʼl rij li kej nojnaq chech chʼaʼk",
+      "example_spa": "El dorso del caballo está lleno de granos",
+      "dialect": null
+    }
+  ],
+  "uuid": "86ba32b4-1c99-4ec3-9bd0-c54b7fa228f7"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sikʼso",
+  "definition": "Buscado, elegido, escogido",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li winq aʼan sikʼso xbʼaan li chaqʼrabʼ",
+      "example_spa": "Ese hombre es buscado por las autoridades",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak sikʼso ru li alkaalt",
+      "example_spa": "El alcalde ya está electo",
+      "dialect": null
+    }
+  ],
+  "uuid": "583a0955-8a14-4831-b577-71ca5bc80ddb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

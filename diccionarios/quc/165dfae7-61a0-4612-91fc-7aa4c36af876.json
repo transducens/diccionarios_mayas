@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ponopik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rollizo, como un tambor o palo grueso; gordo: persona",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Pon",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj jun ponopik",
+      "example_spa": "El hombre está muy gordo",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Ponopik qʼax",
+      "example_spa": "Chile verde grueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "165dfae7-61a0-4612-91fc-7aa4c36af876"
+}

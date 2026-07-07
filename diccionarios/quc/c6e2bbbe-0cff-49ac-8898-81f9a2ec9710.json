@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al moler nixtamal",
+  "definitionDialect": "",
+  "additional_text": "VI Kajuqnajík Raíz VT Juq",
+  "examples": [
+    {
+      "example_maya": "Li uchʼabʼal li kaʼ kajuqnajík ma kʼakʼ",
+      "example_spa": "La piedra de moler hace mucho ruido, porque está nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "c6e2bbbe-0cff-49ac-8898-81f9a2ec9710"
+}

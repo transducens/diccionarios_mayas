@@ -1,0 +1,24 @@
+{
+  "entryWord": "Raxqinilik",
+  "entryWordDialect": null,
+  "altEntryWord": "raxqiniqoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Xraxqiniʼk, xuraxqinibʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Húmedo",
+  "definitionDialect": "",
+  "additional_text": "PC Raíz Adj Rax Raíz P Qin",
+  "examples": [
+    {
+      "example_maya": "Li upa jah sibʼalaj raxqinilik",
+      "example_spa": "El piso de la casa está muy húmedo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwa taq uliw raxqinilik we na kakaʼy ta qʼij chilaʼ",
+      "example_spa": "Si el sol no alumbrara el suelo, sería muy húmedo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5a2681fa-169c-40e6-82be-6f3d10c122a5"
+}

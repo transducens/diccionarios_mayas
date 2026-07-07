@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pominem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kepominik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pulular, juntarse moscas, abejas que van zumbando",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kepomin li kabʼ pwiʼ taq li kotzʼiʼj",
+      "example_spa": "Las abejas pululan mucho sobre las flores",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b3b0f89-8923-4fa5-a112-646ce35ba22c"
+}

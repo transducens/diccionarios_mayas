@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pachʼil haʼ",
+  "definition": "Cascada, cataratas",
+  "additional_text": "SNP",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ xmoqk li kenqʼ xbʼaan li pachil haʼ",
+      "example_spa": "No nació el frijol a causa de la cascada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi xkʼatq li pachʼil haʼ naʼux numeʼk naq tatok saʼ ochoch pek aran saʼ kampaan tzuul, aran bʼar nayoʼla wiʼ chaq li ukʼlebʼ haʼ",
+      "example_spa": "Cuando se entra en la cueva se puede pasar cerca de la catarata",
+      "dialect": null
+    }
+  ],
+  "uuid": "af54927c-e9c5-4fc9-8a0a-3755e7ffd563",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

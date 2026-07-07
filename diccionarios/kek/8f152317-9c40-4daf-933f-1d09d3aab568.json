@@ -1,0 +1,23 @@
+{
+  "entryWord": "Li",
+  "definition": "El, la, lo",
+  "additional_text": "PartDet",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xyo jun li imol saʼ pim",
+      "example_spa": "El perro cazó un conejo en el monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jorol li meet re li kas",
+      "example_spa": "La botella del gas está quebrada",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f152317-9c40-4daf-933f-1d09d3aab568",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

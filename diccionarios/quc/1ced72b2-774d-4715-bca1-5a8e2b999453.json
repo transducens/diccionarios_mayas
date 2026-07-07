@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nabʼeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Primero; adelante; original",
+  "definitionDialect": "",
+  "additional_text": "NumOrd Fbas //Nahbʼeh//",
+  "examples": [
+    {
+      "example_maya": "Are nabʼe xubʼan li kaqulja, te riʼ xqaj jabʼ",
+      "example_spa": "Primero vino el rayo, después empezó la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ced72b2-774d-4715-bca1-5a8e2b999453"
+}

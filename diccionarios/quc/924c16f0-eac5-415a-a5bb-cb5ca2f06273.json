@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jachʼapuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjachʼapuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar ramas, dándole un jalón",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Jachʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xujachʼapuj uqʼabʼ li kotzʼiʼj",
+      "example_spa": "El hombre cortó la rama que tenía flores",
+      "dialect": null
+    }
+  ],
+  "uuid": "924c16f0-eac5-415a-a5bb-cb5ca2f06273"
+}

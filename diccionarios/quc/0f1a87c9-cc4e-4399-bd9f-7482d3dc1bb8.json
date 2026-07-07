@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jusep",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una hilera de adobe o ladrillo al construir",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz PT Sep",
+  "examples": [
+    {
+      "example_maya": "Xa jusep karaj usepik li tapyah",
+      "example_spa": "Ya sólo falta una hilera de adobes para terminar de construir la pared",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f1a87c9-cc4e-4399-bd9f-7482d3dc1bb8"
+}

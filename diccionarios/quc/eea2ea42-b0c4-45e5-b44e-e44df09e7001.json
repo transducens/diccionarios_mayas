@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼa che atzʼam",
+  "entryWordDialect": null,
+  "altEntryWord": "//Kʼah chi atzʼam//",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salado, cualquier cosa comestible",
+  "definitionDialect": "",
+  "additional_text": "P Fbas Sinón Tzah",
+  "examples": [
+    {
+      "example_maya": "Li rikil we kʼa che atzʼam, na utz taj katijowik",
+      "example_spa": "La comida muy salada no se puede comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "eea2ea42-b0c4-45e5-b44e-e44df09e7001"
+}

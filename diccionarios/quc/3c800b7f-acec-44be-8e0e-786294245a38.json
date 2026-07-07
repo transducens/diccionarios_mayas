@@ -1,0 +1,19 @@
+{
+  "entryWord": "Par raj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partícula abortiva o frustrativa (significa que se intentó una acción pero no se realizó)",
+  "definitionDialect": "",
+  "additional_text": "PartAbor",
+  "examples": [
+    {
+      "example_maya": "Raj xkam li yawabʼ chaqʼabʼ",
+      "example_spa": "Anoche casi se moría el enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3c800b7f-acec-44be-8e0e-786294245a38"
+}

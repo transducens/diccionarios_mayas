@@ -1,0 +1,53 @@
+{
+  "entryWord": "Ak",
+  "definition": "Ya Indica tiempo, distancia",
+  "additional_text": "PartT Sinón aakanoʼk",
+  "examples": [
+    {
+      "example_maya": "¿Ma ak xik wi chik aawe?",
+      "example_spa": "¿Ya se va otra vez?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aj Luʼ ak wan aj wiʼ chaq xyajel chalen chaq",
+      "example_spa": "Pedro ya padecía de esa enfermedad desde hace tiempo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak thayeʼq",
+      "example_spa": "Ya mero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak anaqwan aj wiʼ",
+      "example_spa": "Ya, ahora mismo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak jun chihabʼ",
+      "example_spa": "Ya hace un año",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak reere",
+      "example_spa": "Cada quien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Akeʼ hoon",
+      "example_spa": "Dentro de un rato",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak kohejer",
+      "example_spa": "Ya hace cuatro días",
+      "dialect": null
+    }
+  ],
+  "uuid": "18b5fd51-f5c1-4a71-986c-b488b49bb1df",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

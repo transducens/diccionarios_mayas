@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qutʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqutʼuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mascar cosa dura con los dientes; cortar; coció; roer",
+  "definitionDialect": "",
+  "additional_text": "VTR Raíz VT Qutʼ",
+  "examples": [
+    {
+      "example_maya": "Li nima winaq naj xuqutʼ li tiʼij cheh uwareh",
+      "example_spa": "El anciano tardó en cortar la carne con los dientes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xqutʼuw ri sin qarikil",
+      "example_spa": "Nuestra comida no se coció con facilidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "21cc4ec7-e762-4a23-9245-e6ff5f53319a"
+}

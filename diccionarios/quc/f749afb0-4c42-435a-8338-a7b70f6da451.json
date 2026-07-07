@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jawiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "jawiʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Dónde? ¿Dónde?",
+  "definitionDialect": "",
+  "additional_text": "Interr",
+  "examples": [
+    {
+      "example_maya": "¿Jawiʼ katbʼe wih?",
+      "example_spa": "¿A dónde vas?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Jawiʼ kʼo wi nupowiʼ?",
+      "example_spa": "¿Dónde está mi sombrero?",
+      "dialect": null
+    }
+  ],
+  "uuid": "f749afb0-4c42-435a-8338-a7b70f6da451"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajsok",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Esquilador",
+  "definitionDialect": "",
+  "additional_text": "SAgen Raíz VT Sok",
+  "examples": [
+    {
+      "example_maya": "Li achih are ajsok chkech li karneʼl",
+      "example_spa": "El hombre es el esquilador de las ovejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7c193c7-f890-400b-a896-3cbaa7b64eea"
+}

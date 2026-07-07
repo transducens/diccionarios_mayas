@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pakay",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pacaya",
+  "definitionDialect": "General",
+  "additional_text": "SInv Nupakaay DomS Rikiil Del Cast Pacaya",
+  "examples": [
+    {
+      "example_maya": "Li pakay kabʼan pa raxjokʼ xuq rukʼ uwaʼl ik",
+      "example_spa": "La pacaya se echa en pepitoria y en caldo de res",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pakay pa miqʼina juyubʼ kakʼiy wih",
+      "example_spa": "La pacaya crece en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "c39f8c16-cd6c-4b8c-b0e6-bb5facfaa295"
+}

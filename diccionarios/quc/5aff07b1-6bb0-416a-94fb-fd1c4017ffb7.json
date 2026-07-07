@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzinitzotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzinitzotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar monedas o campanitas seguido",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzin",
+  "examples": [
+    {
+      "example_maya": "Li kampaniʼl re li ajkʼay tew, katzinitzotik",
+      "example_spa": "El heladero suena la campanita",
+      "dialect": null
+    }
+  ],
+  "uuid": "5aff07b1-6bb0-416a-94fb-fd1c4017ffb7"
+}

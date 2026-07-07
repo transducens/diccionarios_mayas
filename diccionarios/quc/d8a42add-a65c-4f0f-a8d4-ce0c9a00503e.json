@@ -1,0 +1,19 @@
+{
+  "entryWord": "Topolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Tipilik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salido fuera",
+  "definitionDialect": "General",
+  "additional_text": "p Xtopiʼk, xutopobʼaʼ Var Raíz P Topón",
+  "examples": [
+    {
+      "example_maya": "Li tem rech li ja topol apan je laʼ",
+      "example_spa": "El tendal de la casa quedo salido",
+      "dialect": null
+    }
+  ],
+  "uuid": "d8a42add-a65c-4f0f-a8d4-ce0c9a00503e"
+}

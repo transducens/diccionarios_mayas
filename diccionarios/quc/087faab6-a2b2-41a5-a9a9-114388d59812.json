@@ -1,0 +1,24 @@
+{
+  "entryWord": "Naqʼanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aplastado: cosa ancha; apachado: cosa ancha",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Naqʼ",
+  "examples": [
+    {
+      "example_maya": "Li powiʼ xaq naqʼanik chik ma xa xtakʼaleʼxik",
+      "example_spa": "El sombrero quedó aplastado, porque se pararon encima",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼinel chʼichʼ xupaqʼij ribʼ, xa je riʼ xaq jun naqʼanik chik",
+      "example_spa": "El carro chocó, y se quedó aplastado",
+      "dialect": null
+    }
+  ],
+  "uuid": "087faab6-a2b2-41a5-a9a9-114388d59812"
+}

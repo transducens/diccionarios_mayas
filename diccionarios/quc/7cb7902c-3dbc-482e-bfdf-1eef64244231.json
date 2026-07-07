@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pachayajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar agachado",
+  "definitionDialect": "",
+  "additional_text": "vt Kinpachayajik",
+  "examples": [
+    {
+      "example_maya": "We kariʼjobʼ jun winaq kumajj pachayajem",
+      "example_spa": "Si una persona se envejece, empieza a caminar agachado",
+      "dialect": null
+    }
+  ],
+  "uuid": "7cb7902c-3dbc-482e-bfdf-1eef64244231"
+}

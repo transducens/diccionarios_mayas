@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbol de madera dura que crece en tierra fría",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupaaq Raíz S Paaq DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li paq jun cheʼ je ri kape ixim raxcheʼ, sibʼalaj koh",
+      "example_spa": "Este es un árbol parecido al encino, muy duro",
+      "dialect": null
+    }
+  ],
+  "uuid": "947d2435-fa42-4cce-bf71-7a314203afc5"
+}

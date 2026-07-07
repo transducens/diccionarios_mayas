@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ibʼochʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vena; nervio",
+  "definitionDialect": "General",
+  "additional_text": "scv Wibʼoochʼ ssp =Ibʼochʼiil Vena del cuerpo de uno mismo DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ xkoj jun bʼaq pa li ribʼochʼ",
+      "example_spa": "Al enfermo le pusieron una inyección en la vena",
+      "dialect": null
+    }
+  ],
+  "uuid": "98e03bda-b8a0-4cea-9bad-3461a4a9e26a"
+}

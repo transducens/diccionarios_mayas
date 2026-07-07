@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokotzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espumoso; copetón",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Tzok",
+  "examples": [
+    {
+      "example_maya": "Li uwosow li qʼeq tzokotzik ubʼanom pwiʼ",
+      "example_spa": "El jabón es muy espumoso",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e87ee29-2982-4566-8507-2ac5656dc4c7"
+}

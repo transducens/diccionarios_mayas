@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pasaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpasaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amortajar",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz S Paas",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xkamik pasaxik kabʼan cheh",
+      "example_spa": "A la mujer que murió, la están amortajando",
+      "dialect": null
+    }
+  ],
+  "uuid": "b342de71-eee0-4d6c-95ea-beaefae4e787"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saman",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Semana",
+  "definitionDialect": "",
+  "additional_text": "sinv Nusamaan DomS Semana",
+  "examples": [
+    {
+      "example_maya": "Wuqubʼ qʼij kʼo pa jun saman",
+      "example_spa": "La semana tiene siete días",
+      "dialect": null
+    }
+  ],
+  "uuid": "b5bbce5d-f7c6-4408-bfbe-1b14e00c3332"
+}

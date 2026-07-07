@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulmaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼulmaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener novedad; suceder algo a uno; acontecer",
+  "definitionDialect": "",
+  "additional_text": "vt Raiz VT Kʼul",
+  "examples": [
+    {
+      "example_maya": "Kinbʼe na pa nubʼeh, we ne maj kinkʼulmaj",
+      "example_spa": "Tengo que irme de viaje, ojala no me suceda nada",
+      "dialect": null
+    }
+  ],
+  "uuid": "318d2de5-5024-4ea3-8d1d-c0954220c5ba"
+}

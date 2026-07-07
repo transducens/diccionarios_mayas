@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼil rech",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Notificador (que avisa algo)",
+  "definitionDialect": "",
+  "additional_text": "sAgen",
+  "examples": [
+    {
+      "example_maya": "Matam xopan le bil rech",
+      "example_spa": "Llegó tarde el notificador",
+      "dialect": null
+    }
+  ],
+  "uuid": "d239e852-e614-4133-acd9-e85589b1ef6b"
+}

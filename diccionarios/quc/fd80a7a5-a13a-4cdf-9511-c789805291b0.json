@@ -1,0 +1,19 @@
+{
+  "entryWord": "Katzererik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dentado, como filo de serrucho",
+  "definitionDialect": "",
+  "additional_text": "",
+  "examples": [
+    {
+      "example_maya": "Li seruch sibʼalaj katzerer li upuchiʼ",
+      "example_spa": "El serrucho es muy dentado",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd80a7a5-a13a-4cdf-9511-c789805291b0"
+}

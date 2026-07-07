@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juyutz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una bailada rápida y suavemente",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz P Yutz",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq juyutz xuya pa li nimaqʼij ma xa kakʼixik",
+      "example_spa": "La mujer solo dio una bailada en la fiesta porque tenía vergüenza",
+      "dialect": null
+    }
+  ],
+  "uuid": "609ba1e6-d65f-4109-9dd0-9ad5993ae7a1"
+}

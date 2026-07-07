@@ -1,0 +1,43 @@
+{
+  "entryWord": "Jun",
+  "definition": "Uno",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Tojoʼ anajwan xintaw jun inmoos",
+      "example_spa": "Hasta ahora encontré un mozo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun elikaj",
+      "example_spa": "De una sola pieza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun rikʼin jun",
+      "example_spa": "Uno y otro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun bʼitzil chik",
+      "example_spa": "Otro poco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun xikik",
+      "example_spa": "Todos juntos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun kabʼlal",
+      "example_spa": "Los bienes de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c4f9c695-7a53-421e-ae0b-4fb509fe8f7c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

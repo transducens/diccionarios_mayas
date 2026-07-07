@@ -1,0 +1,23 @@
+{
+  "entryWord": "Saqbʼäch",
+  "definition": "Granizo",
+  "additional_text": "sc",
+  "examples": [
+    {
+      "example_maya": "Ri saqbʼäch nupoʼ nupon pe riʼ roma rutewul ri (kaqʼiqʼ) chi kaj",
+      "example_spa": "El granizo se forma por el aire frío, en las nubes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri saqbʼäch xa yaʼ kowirnäq pe chi kaj",
+      "example_spa": "El granizo es agua congelada desde arriba",
+      "dialect": null
+    }
+  ],
+  "uuid": "505e6a0b-0080-43e4-8eb4-a0cddc4fd83b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

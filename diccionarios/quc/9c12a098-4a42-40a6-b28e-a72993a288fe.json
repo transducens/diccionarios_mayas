@@ -1,0 +1,19 @@
+{
+  "entryWord": "Poy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espantapájaros; espantajo",
+  "definitionDialect": "",
+  "additional_text": "SInv Nupooy Raíz S Pooy",
+  "examples": [
+    {
+      "example_maya": "Li poy xekel pa li abʼix",
+      "example_spa": "El espantapájaros está colgado en la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c12a098-4a42-40a6-b28e-a72993a288fe"
+}

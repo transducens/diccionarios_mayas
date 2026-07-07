@@ -1,0 +1,24 @@
+{
+  "entryWord": "Witzʼitzʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawitzʼitzʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gritar los ratones, marranos, o personas",
+  "definitionDialect": "",
+  "additional_text": "vi Sinón Tzʼeʼneem Raíz VI Witzʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq xchap li chʼoh rumal li meʼs sibʼalaj kawitzʼitzʼik",
+      "example_spa": "El ratón gritó mucho cuando fue agarrado por el gato",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winaq are taq xbʼe li kamyonet chi swan xkichap witzʼitzʼem",
+      "example_spa": "Cuando la camioneta se fue en el barranco, la gente empezó a gritar",
+      "dialect": null
+    }
+  ],
+  "uuid": "e12f0486-2aba-4050-a83c-57e348a22b54"
+}

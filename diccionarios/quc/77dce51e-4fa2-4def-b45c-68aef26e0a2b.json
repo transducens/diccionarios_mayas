@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sayiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusayiʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Platanillo",
+  "definitionDialect": "",
+  "additional_text": "sInv Raiz S Sayiiʼ DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li sayiʼ pa miqʼina juyubʼ kakʼiy wih",
+      "example_spa": "El platanillo crece en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "77dce51e-4fa2-4def-b45c-68aef26e0a2b"
+}

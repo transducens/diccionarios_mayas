@@ -1,0 +1,19 @@
+{
+  "entryWord": "Keʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukeʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Molida; molienda",
+  "definitionDialect": "general",
+  "additional_text": "SQS Keʼ",
+  "examples": [
+    {
+      "example_maya": "Li ukeʼ li ixoq sibʼalaj kʼih",
+      "example_spa": "Es mucha la molida de la mujer",
+      "dialect": null
+    }
+  ],
+  "uuid": "18a7a64f-397f-4979-8947-74a72d14f842"
+}

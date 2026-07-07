@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ruqnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer carne dura o al trabajar con azadón en montes duros",
+  "definitionDialect": "",
+  "additional_text": "vi Karuqnajik Raíz VT Ruq",
+  "examples": [
+    {
+      "example_maya": "Li tiʼij xaq karuqnajik, ma xa na chaqʼ taj",
+      "example_spa": "La carne está dura porque no está bien cocida",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e454f96-cfc1-48e6-a1c6-41e0339ec080"
+}

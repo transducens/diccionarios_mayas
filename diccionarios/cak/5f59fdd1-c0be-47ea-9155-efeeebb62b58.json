@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ley",
+  "definition": "chichicaste",
+  "additional_text": "sInv Nuley, Var Läy, amulay, qʼayis chʼaybʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri ley yalan rukʼixal yalan retzelal",
+      "example_spa": "El chichicaste tiene muchas espinas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ley xtikʼo jubʼaʼ chawij nisipoj chʼanin chuqa yarukʼis pa kʼix",
+      "example_spa": "Al pasar las hojas del chichicaste sobre el cuerpo, se hincha y se llena de espinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "5f59fdd1-c0be-47ea-9155-efeeebb62b58",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aqʼax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona que presume de mucho y no sabe nada, presumido",
+  "definitionDialect": "General",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li achih are karaj, kabʼan kubʼij, maj kʼu retaʼam, xare aqʼax",
+      "example_spa": "El hombre quiere que se haga lo que dice, y no sabe nada, es un presumido",
+      "dialect": null
+    }
+  ],
+  "uuid": "ceaab779-c55e-42b4-90ca-bd26af20316c"
+}

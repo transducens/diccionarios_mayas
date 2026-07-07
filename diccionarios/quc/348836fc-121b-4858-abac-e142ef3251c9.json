@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kintzamij uwach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dar trago a una persona",
+  "definitionDialect": "",
+  "additional_text": "vrs Raiz S Tzam Raiz S Wach",
+  "examples": [
+    {
+      "example_maya": "Kintzamij uwach li achih, are chi kuya li uliw chwech",
+      "example_spa": "Le voy a dar un trago al hombre, para que me dé el terreno",
+      "dialect": null
+    }
+  ],
+  "uuid": "348836fc-121b-4858-abac-e142ef3251c9"
+}

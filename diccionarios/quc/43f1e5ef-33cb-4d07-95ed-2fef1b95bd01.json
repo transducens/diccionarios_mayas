@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juwotzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una quebradura",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz P Wotzʼ",
+  "examples": [
+    {
+      "example_maya": "Le alih, xaq juwotzʼ xuya che li saqmoʼl",
+      "example_spa": "La muchacha le hizo una quebradura al huevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "43f1e5ef-33cb-4d07-95ed-2fef1b95bd01"
+}

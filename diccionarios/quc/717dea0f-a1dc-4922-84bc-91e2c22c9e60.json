@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzobʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un montón de plantas, animales o personas",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz P Tzobʼ",
+  "examples": [
+    {
+      "example_maya": "Li trikoh xaq jutzobʼaj xkʼiyik",
+      "example_spa": "El trigo creció en un solo montón",
+      "dialect": null
+    }
+  ],
+  "uuid": "717dea0f-a1dc-4922-84bc-91e2c22c9e60"
+}

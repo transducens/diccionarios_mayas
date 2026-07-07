@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xak",
+  "definition": "Paso",
+  "additional_text": "sInv Nuxak Etabʼäl",
+  "examples": [
+    {
+      "example_maya": "Kʼo qawinaq ri pa xak yeʼetan wi",
+      "example_spa": "Hay personas que miden por pasos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Man weʼtaʼan ta janipeʼ xak ninyaʼ jun qʼij",
+      "example_spa": "A saber cuántos pasos doy en un día",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3d9c6c9-2f3a-4cde-bc49-62d4b3cf745f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

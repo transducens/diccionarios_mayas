@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mejikan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Baile de mexicanos",
+  "definitionDialect": "General",
+  "additional_text": "saP DomS Ajxojolobʼ Del Cast Mexicano",
+  "examples": [
+    {
+      "example_maya": "Li mejikan kexojow pa taq unimaqʼij taq tinamit",
+      "example_spa": "En las fiestas titulares presentan el baile mexicano",
+      "dialect": null
+    }
+  ],
+  "uuid": "e64289c7-deaa-4c54-b1ad-d233b728a05c"
+}

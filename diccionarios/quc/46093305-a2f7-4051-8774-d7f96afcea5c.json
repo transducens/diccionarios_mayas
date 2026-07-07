@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sololim",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasololok",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desenrrollarse fácilmente; deshilar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Sol",
+  "examples": [
+    {
+      "example_maya": "Li tʼoʼy kasololok xbʼek, are taq xkʼoqopij li bʼatzʼ chech",
+      "example_spa": "La gorra de lana se deshiló fácilmente al reventarse el hilo",
+      "dialect": null
+    }
+  ],
+  "uuid": "46093305-a2f7-4051-8774-d7f96afcea5c"
+}

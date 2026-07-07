@@ -1,0 +1,19 @@
+{
+  "entryWord": "Meʼs",
+  "entryWordDialect": null,
+  "altEntryWord": "Chikop",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gato",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "SInv Numeʼs //Meʼs// Fbas",
+  "examples": [
+    {
+      "example_maya": "Li meʼs kuchap chʼoh xuq kutijoh",
+      "example_spa": "El gato caza ratones y se los come",
+      "dialect": null
+    }
+  ],
+  "uuid": "fbeab392-4548-4862-b5f4-83384449b5db"
+}

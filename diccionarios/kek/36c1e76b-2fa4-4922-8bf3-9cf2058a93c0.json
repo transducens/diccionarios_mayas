@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼehal",
+  "definition": "Cantidad",
+  "additional_text": "SSP Xkʼehal",
+  "examples": [
+    {
+      "example_maya": "¿Joʼ kʼehal taawaj?",
+      "example_spa": "¿Qué cantidad necesitás?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Joʼ kʼehal chik naraj?",
+      "example_spa": "¿Qué tanto quiere?",
+      "dialect": null
+    }
+  ],
+  "uuid": "36c1e76b-2fa4-4922-8bf3-9cf2058a93c0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeʼnem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Balar",
+  "definitionDialect": "general",
+  "additional_text": "vi Kabʼeʼnik At Bʼeeʼ",
+  "examples": [
+    {
+      "example_maya": "Li karneʼl sibʼalaj xbʼeʼnik areʼ xkamsaxik",
+      "example_spa": "La oveja baló mucho cuando la mataron",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa8a14da-8c31-4c74-9151-1407c0c482ca"
+}

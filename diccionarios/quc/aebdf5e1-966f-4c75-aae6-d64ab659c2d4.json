@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼaqat",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukʼaqat",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comezón",
+  "definitionDialect": "",
+  "additional_text": "sInv Coment El prefijo posesivo corresponde a la cosa que da comezón Raíz S Kʼaq",
+  "examples": [
+    {
+      "example_maya": "Li ubʼaqil li achih, kʼo kʼaqat cheh",
+      "example_spa": "El señor tiene comezón en el cuerpo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kʼo ukʼaqat li chʼaʼk",
+      "example_spa": "El grano da mucha comezón",
+      "dialect": null
+    }
+  ],
+  "uuid": "aebdf5e1-966f-4c75-aae6-d64ab659c2d4"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼanaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼanaqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canaque (tipo de árbol de hojas anchas)",
+  "definitionDialect": "",
+  "additional_text": "slov Tzʼaalik",
+  "examples": [
+    {
+      "example_maya": "Li qʼanaqʼ sibʼalaj kʼokʼ li subʼ chpam",
+      "example_spa": "Las hojas del canaque dan buen sabor a los tamales",
+      "dialect": null
+    }
+  ],
+  "uuid": "73a24b61-7aa6-49b0-aec0-6a2661df7e19"
+}

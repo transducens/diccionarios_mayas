@@ -1,0 +1,54 @@
+{
+  "entryWord": "Naj",
+  "entryWordDialect": null,
+  "altEntryWord": "Unajil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xnajirik",
+  "altEntryWordDialect2": null,
+  "definition": "Lejos; (de distancia); largo tiempo; mucho tiempo",
+  "definitionDialect": "",
+  "additional_text": "Adj Naqaaj Raíz VI Naj (najt)",
+  "examples": [
+    {
+      "example_maya": "Li nima tinamit Mej naj uxoʼl rukʼ li tinamit Panamá",
+      "example_spa": "El país de México está muy lejos de Panamá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are sibʼalaj naj nima bʼeh chwach li ramal bʼeh",
+      "example_spa": "Es más lejos ir por la carretera que por la vereda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kotzʼiʼj xnikowik",
+      "example_spa": "La candela ardió mucho tiempo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Naj uxoʼl li qoʼch",
+      "example_spa": "La distancia entre nuestras casas es larga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih sibʼalaj naj raqan",
+      "example_spa": "El hombre es muy alto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Naj uxoʼl",
+      "example_spa": "lejos de",
+      "dialect": "F."
+    },
+    {
+      "example_maya": "Naj raqan",
+      "example_spa": "(persona)",
+      "dialect": "F."
+    },
+    {
+      "example_maya": "Naj paqalik",
+      "example_spa": "(cerro)",
+      "dialect": "Ant."
+    }
+  ],
+  "uuid": "605cc1dc-f610-421e-a2ea-48d60f804798"
+}

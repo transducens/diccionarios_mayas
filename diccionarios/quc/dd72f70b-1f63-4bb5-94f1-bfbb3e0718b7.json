@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼojiʼk",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼojiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nacer; aparecerse; tener",
+  "definitionDialect": "",
+  "additional_text": "vi Var Kʼoolik Raíz VI Kʼoj",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xkʼojiʼk xubʼinaʼj a Luʼ",
+      "example_spa": "El niño que nació, se llama Pedro",
+      "dialect": null
+    }
+  ],
+  "uuid": "dd72f70b-1f63-4bb5-94f1-bfbb3e0718b7"
+}

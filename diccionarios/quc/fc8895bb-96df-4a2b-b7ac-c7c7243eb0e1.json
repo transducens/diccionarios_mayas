@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼalabʼoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Restregar una cosa rolliza con la palma de las manos; bolear en la palma de las manos; bolear la masa",
+  "definitionDialect": "",
+  "additional_text": "VTF Kinbʼalabʼaʼ Raíz VT Bʼal",
+  "examples": [
+    {
+      "example_maya": "Li alaj alah xubʼalabʼa li utzʼibʼabʼal puqʼabʼ",
+      "example_spa": "El muchachito restregó su lápiz con la mano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq tajin kubʼalabʼa qʼor puqʼabʼ",
+      "example_spa": "La mujer está boleando masa con sus manos",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc8895bb-96df-4a2b-b7ac-c7c7243eb0e1"
+}

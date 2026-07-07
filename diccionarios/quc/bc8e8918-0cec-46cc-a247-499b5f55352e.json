@@ -1,0 +1,19 @@
+{
+  "entryWord": "Myer",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hace poco; desdehoy (desde hoy)",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kʼa myer xinul pa li tinamit",
+      "example_spa": "Hace poco que llegué del pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "bc8e8918-0cec-46cc-a247-499b5f55352e"
+}

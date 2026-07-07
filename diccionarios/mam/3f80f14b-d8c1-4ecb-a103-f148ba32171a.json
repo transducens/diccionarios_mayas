@@ -1,0 +1,18 @@
+{
+  "entryWord": "NIMAQ TNAM",
+  "definition": "ciudad, cabecera departamental, pueblo grande",
+  "additional_text": "scl raíz nim adj raíz tanam s ds tnam",
+  "examples": [
+    {
+      "example_maya": "Ax nimaq tnamta Chnaʼjal",
+      "example_spa": "También es un gran pueblo la ciudad de Huehuetenango",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3f80f14b-d8c1-4ecb-a103-f148ba32171a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

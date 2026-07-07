@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kamk",
+  "definition": "Morir, fallecer",
+  "additional_text": "vi Xkam",
+  "examples": [
+    {
+      "example_maya": "Xinkam raj xbʼaan li tiq",
+      "example_spa": "Me iba a morir por la calentura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xkam innaʼ wixaʼan",
+      "example_spa": "Se murió mi abuelita",
+      "dialect": null
+    }
+  ],
+  "uuid": "a1305220-3638-4b90-825b-28221463d185",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

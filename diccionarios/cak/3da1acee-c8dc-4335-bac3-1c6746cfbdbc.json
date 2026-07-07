@@ -1,0 +1,23 @@
+{
+  "entryWord": "Setesik",
+  "definition": "Redondo, como un plato circular",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Ri xot jebʼël setesik",
+      "example_spa": "El comal es bien redondo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun setesik nulaq, xupaxij ri nukʼajol",
+      "example_spa": "Tenía una taza bien redonda, que mi hijo quebró",
+      "dialect": null
+    }
+  ],
+  "uuid": "3da1acee-c8dc-4335-bac3-1c6746cfbdbc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

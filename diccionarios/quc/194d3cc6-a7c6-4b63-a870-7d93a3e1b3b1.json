@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xekemah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gamarra del caballo",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Kʼakʼ li uxekemah li kej",
+      "example_spa": "La gamarra del caballo es nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "194d3cc6-a7c6-4b63-a870-7d93a3e1b3b1"
+}

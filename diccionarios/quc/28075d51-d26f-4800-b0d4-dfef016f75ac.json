@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼuʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Loco; preocupado",
+  "definitionDialect": "General",
+  "additional_text": "Adj Uchʼuʼjaal, xchʼuʼjarik vi Chʼuʼjareem Enloquecerse vtc Chʼuʼjirsaxik Apurar a personas o animales F Keel chʼuʼj Estar preocupado",
+  "examples": [
+    {
+      "example_maya": "Li a Siʼs xuriq yabʼil, xa xchʼuʼjarik, tajin kuʼchʼay winaq",
+      "example_spa": "Francisco se puso loco y está pegándole a la gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li A Siʼs kel chʼuʼj chutzukuxik urajil",
+      "example_spa": "Francisco busca preocupadamente el dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "28075d51-d26f-4800-b0d4-dfef016f75ac"
+}

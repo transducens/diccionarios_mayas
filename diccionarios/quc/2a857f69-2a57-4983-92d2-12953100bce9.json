@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matzʼmoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maíz de mediana calidad, algo chupado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Matzʼ",
+  "examples": [
+    {
+      "example_maya": "Li ujal li achih xa matzʼmoj, ma xa xuriq tew",
+      "example_spa": "Las mazorcas del hombre son de mediana calidad, porque fueron quemadas por el hielo",
+      "dialect": null
+    }
+  ],
+  "uuid": "2a857f69-2a57-4983-92d2-12953100bce9"
+}

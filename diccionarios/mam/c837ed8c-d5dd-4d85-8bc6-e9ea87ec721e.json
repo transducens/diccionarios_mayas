@@ -1,0 +1,18 @@
+{
+  "entryWord": "OROSYOON",
+  "definition": "oración",
+  "additional_text": "s1 nʼorosyona del español oración",
+  "examples": [
+    {
+      "example_maya": "¿Jteʼ orosyon ma japanbʼaj tuʼna?",
+      "example_spa": "¿Cuántas oraciones terminaste de decir?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c837ed8c-d5dd-4d85-8bc6-e9ea87ec721e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

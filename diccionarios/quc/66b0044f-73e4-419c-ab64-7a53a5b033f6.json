@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tel",
+  "entryWordDialect": null,
+  "altEntryWord": "Utel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agujero; abertura; hueco; abierto",
+  "definitionDialect": "general",
+  "additional_text": "sinv Fbas Teʼ (teh) Var Teʼl",
+  "examples": [
+    {
+      "example_maya": "Li aj chiʼl li sin tel li upam",
+      "example_spa": "La caña blanca y el bambú son huecos por adentro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼatbʼal tzij chik are taq xinopan chubʼanik jun nutaqkil",
+      "example_spa": "El juzgado ya estaba abierto cuando llegué a hacer un mandado",
+      "dialect": null
+    }
+  ],
+  "uuid": "66b0044f-73e4-419c-ab64-7a53a5b033f6"
+}

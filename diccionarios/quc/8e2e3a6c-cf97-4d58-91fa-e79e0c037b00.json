@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uwa chʼaʼk",
+  "entryWordDialect": null,
+  "altEntryWord": "Uwa nuchʼaʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costra",
+  "definitionDialect": "General",
+  "additional_text": "sds",
+  "examples": [
+    {
+      "example_maya": "Xel li uwach li nuchʼaʼk",
+      "example_spa": "Se le cayó la costra a mi grano",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e2e3a6c-cf97-4d58-91fa-e79e0c037b00"
+}

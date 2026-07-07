@@ -1,0 +1,19 @@
+{
+  "entryWord": "Misal",
+  "entryWordDialect": null,
+  "altEntryWord": "Numisal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Misal",
+  "definitionDialect": "",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Misal kabʼix che li wuj kukoj li pareh pa mis",
+      "example_spa": "Misal se le dice al libro que usa el sacerdote en la misa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba37d5a3-d267-4d45-86c0-7ce35c77e8b7"
+}

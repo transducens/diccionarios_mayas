@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jik",
+  "entryWordDialect": null,
+  "altEntryWord": "Jikilik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Seguro, es seguro",
+  "definitionDialect": "General",
+  "additional_text": "Adv var Jikilik",
+  "examples": [
+    {
+      "example_maya": "Si jik wih chi kinbʼe pa chak",
+      "example_spa": "Es seguro que voy a trabajar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jik kinbʼe chweʼq pa nimaqʼij",
+      "example_spa": "Mañana iré a la fiesta con seguridad",
+      "dialect": null
+    }
+  ],
+  "uuid": "d563f2e0-e9b7-456b-a2d4-326676f935f8"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Peraj xajabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuperaj xajabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sandalia",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS",
+  "examples": [
+    {
+      "example_maya": "Li peraj xajabʼ kʼo tzʼuʼum chwach",
+      "example_spa": "Las sandalias tienen correas de cuero",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9e039d2-5e80-44a2-914a-d54eb7ee4a23"
+}

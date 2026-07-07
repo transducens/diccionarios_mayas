@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chan",
+  "definition": "Dijo, dice, citación",
+  "additional_text": "C",
+  "examples": [
+    {
+      "example_maya": "Nakatʼelqʼak len ¿anichan? chan li patron katwan wiʼ chaq",
+      "example_spa": "Dicen que tu robas; ¿quién dice? el patron donde estuviste",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chankin",
+      "example_spa": "Digo yo",
+      "dialect": null
+    }
+  ],
+  "uuid": "67a52dc3-3891-4ba8-bb44-0ed497c277cf",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

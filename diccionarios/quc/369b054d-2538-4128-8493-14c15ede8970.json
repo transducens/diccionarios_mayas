@@ -1,0 +1,19 @@
+{
+  "entryWord": "Relebʼal qʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Oriente",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz Vl El Raíz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Li nima tinamit rom chirelebʼal qʼij kʼo wih",
+      "example_spa": "La ciudad de Roma está en el oriente",
+      "dialect": null
+    }
+  ],
+  "uuid": "369b054d-2538-4128-8493-14c15ede8970"
+}

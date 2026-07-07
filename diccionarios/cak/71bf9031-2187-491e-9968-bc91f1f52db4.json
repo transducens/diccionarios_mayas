@@ -1,0 +1,23 @@
+{
+  "entryWord": "Oj",
+  "definition": "Aguacate, aguacatal",
+  "additional_text": "sInv Woj Qʼutumal, cheʼ, echaʼ, qʼutumal",
+  "examples": [
+    {
+      "example_maya": "Re junaʼ re yalan xwachin ri oj",
+      "example_spa": "Este año cargó bien el aguacatal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri oj yalan ütz chi natïj",
+      "example_spa": "El aguacate es muy bueno comerlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "71bf9031-2187-491e-9968-bc91f1f52db4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

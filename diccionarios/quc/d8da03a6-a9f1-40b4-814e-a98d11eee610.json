@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jetzʼowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cojear",
+  "definitionDialect": "general",
+  "additional_text": "vi Kajetzʼowik Raíz P Jetzʼ",
+  "examples": [
+    {
+      "example_maya": "Li sin achih are taq kabʼinik xa kajetzʼowik",
+      "example_spa": "El hombre cojea cuando camina",
+      "dialect": null
+    }
+  ],
+  "uuid": "d8da03a6-a9f1-40b4-814e-a98d11eee610"
+}

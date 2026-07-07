@@ -1,0 +1,19 @@
+{
+  "entryWord": "Seyey\"labʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaseyey\"labʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flotar varios objetos",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz PT Sey",
+  "examples": [
+    {
+      "example_maya": "Li uxaq taq li cheʼ kaseyey\"labʼ chwi li bʼinel jaʼ",
+      "example_spa": "Las hojas de los árboles están flotando en el río",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad2822f8-9d26-4dcf-9a64-ac1f5c3e1774"
+}

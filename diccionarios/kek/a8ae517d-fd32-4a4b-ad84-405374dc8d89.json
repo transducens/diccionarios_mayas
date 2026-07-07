@@ -1,0 +1,18 @@
+{
+  "entryWord": "Nume",
+  "definition": "Pasando",
+  "additional_text": "PartDirec Es un afijo que se encuentra entre el aspecto y la raíz del verbo Da el sentido de pasar y hacer la acción del verbo",
+  "examples": [
+    {
+      "example_maya": "Naq xkohin chi bʼeek, toj xinnumeʼkʼam li wamiiw saʼ rochoch ut wotz xkoho",
+      "example_spa": "Cuando me fui a pasear, todavía pasé por mi amigo y juntos nos fuimos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8ae517d-fd32-4a4b-ad84-405374dc8d89",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

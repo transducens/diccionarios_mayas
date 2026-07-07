@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼyajel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viajero; visitante",
+  "definitionDialect": "",
+  "additional_text": "sAgen",
+  "examples": [
+    {
+      "example_maya": "Li a Kulax xaq bʼyajel pa qatinamit",
+      "example_spa": "Nicolás sólo es visitante en nuestro pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b313bd7-100e-47bb-9ed6-846e2f0bf9b6"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkoqʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pisotear el lodo para hacerlo fino",
+  "definitionDialect": "Raíz At. Koq'.",
+  "additional_text": "VTR",
+  "examples": [
+    {
+      "example_maya": "Are taq kabʼan li xan rajawaxik utz ukoqʼik li xaqʼoʼl kabʼanik",
+      "example_spa": "Para hacer adobe, hay que pisotear bien el lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0a8b86f-6cca-4e09-b162-79a34635071d"
+}

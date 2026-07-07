@@ -1,0 +1,38 @@
+{
+  "entryWord": "Nimaq",
+  "definition": "Sin razón, permiso, problemas o vergüenza, por gusto Infijo que quiere decir que la acción del verbo ocurre sin permiso sin problemas, sin razón, etc",
+  "additional_text": "PartAdj",
+  "examples": [
+    {
+      "example_maya": "Xnimaq bʼoq",
+      "example_spa": "Lo llamó sin permiso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xnimaq kʼaʼuxla",
+      "example_spa": "Pensó en vano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xnimaq wabʼi",
+      "example_spa": "Οἱ sin poner mucha atención",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xnimaq qʼa",
+      "example_spa": "Se pudrió por falta de atención",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nimaq sachokex eetumin",
+      "example_spa": "Ustedes gastan sus centavos por gusto",
+      "dialect": null
+    }
+  ],
+  "uuid": "db26ed32-2e91-4463-9557-ec3f381a4f5c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

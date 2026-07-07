@@ -1,0 +1,19 @@
+{
+  "entryWord": "Joxoj makaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Adulterio",
+  "definitionDialect": "General",
+  "additional_text": "scl Jox",
+  "examples": [
+    {
+      "example_maya": "Li achih xqaj pa joxoj mak",
+      "example_spa": "El hombre cometió adulterio",
+      "dialect": null
+    }
+  ],
+  "uuid": "acf29a3f-ced5-4ba1-9bcf-f23ce6ae9dde"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼenum (qʼinüm)",
+  "definition": "Jocote",
+  "additional_text": "sInv Nuqʼenüm nuqʼinüm Munibʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri qʼenüm, xa xe ri pa taq meqʼmöj ulew nel wi",
+      "example_spa": "El jocote se da sólo en los lugares cálidos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qʼinüm kaʼiʼ ruwäch: kʼo ri käq (keq) chuqaʼ kʼo ri qʼän",
+      "example_spa": "Hay dos clases de jocote: uno es color rojo y el otro amarillo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a613a27b-812d-45e5-bf22-973712a284a5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

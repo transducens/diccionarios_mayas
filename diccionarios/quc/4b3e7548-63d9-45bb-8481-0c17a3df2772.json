@@ -1,0 +1,19 @@
+{
+  "entryWord": "Makaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Numak",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pecado; delito",
+  "definitionDialect": "",
+  "additional_text": "SQS Var Iil Raíz S Maak Awaas",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼo umak, xa chaʼ xok pa cheʼ",
+      "example_spa": "El hombre cometió un delito, por eso entró a la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b3e7548-63d9-45bb-8481-0c17a3df2772"
+}

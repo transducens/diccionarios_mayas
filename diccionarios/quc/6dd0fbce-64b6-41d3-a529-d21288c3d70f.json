@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tas",
+  "entryWordDialect": null,
+  "altEntryWord": "Utas",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Capa",
+  "definitionDialect": "",
+  "additional_text": "sSP SDS Utaas cheeʼ Anillos de madera que se ven en troncos o trozos Raíz PT Tas",
+  "examples": [
+    {
+      "example_maya": "Li uliw kʼo taq utas ubʼanom",
+      "example_spa": "La tierra está compuesta de distintas capas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6dd0fbce-64b6-41d3-a529-d21288c3d70f"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wajajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido el hielo al comerlo o al caminar encima de él; hacer ruido una cosa caliente al echarle agua",
+  "definitionDialect": "",
+  "additional_text": "vi Kawajajik Sinón Tzʼajajeem Raíz Vl Waj",
+  "examples": [
+    {
+      "example_maya": "Kawajaj li rachaq qʼaqʼ are taq xkʼaq jaʼ pwiʼ",
+      "example_spa": "La brasa hizo ruido cuando le echaron agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winaq xoʼkʼow pwi li tew xuchap wajajem pa kaqan",
+      "example_spa": "La gente pasó sobre el hielo y empezaron a hacer ruido con los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "ded13cae-3355-47b5-9378-7e9e106443de"
+}

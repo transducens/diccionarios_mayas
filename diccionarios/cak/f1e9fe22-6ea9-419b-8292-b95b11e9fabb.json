@@ -1,0 +1,23 @@
+{
+  "entryWord": "Na",
+  "definition": "Partícula que puede tener varias funciones según su colocación en la oración o frase",
+  "additional_text": "Par",
+  "examples": [
+    {
+      "example_maya": "Chike na ruma xanimäj el",
+      "example_spa": "A saber porqué se huyó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yibʼe na pa samaj",
+      "example_spa": "Voy al trabajo todavía",
+      "dialect": null
+    }
+  ],
+  "uuid": "f1e9fe22-6ea9-419b-8292-b95b11e9fabb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

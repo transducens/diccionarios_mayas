@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pojpotk",
+  "definition": "Hacer ruido a cada rato al golpear una cosa",
+  "additional_text": "vi Napojpot",
+  "examples": [
+    {
+      "example_maya": "Laj peechʼ napojpot chi xtʼojbʼal li meex",
+      "example_spa": "El carpintero está haciendo ruido al clavar la mesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Napojpot li chʼinaʼal rikʼin lixkaxonil li aarp",
+      "example_spa": "El patojo está haciendo ruido con la caja del arpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "7c0e9370-725c-41da-b589-840823a1821a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

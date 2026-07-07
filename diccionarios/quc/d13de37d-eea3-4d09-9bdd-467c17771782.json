@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lechug",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulechug",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lechuga",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Ichaaj Del Cast Lechuga",
+  "examples": [
+    {
+      "example_maya": "Li lechug pa raxal katijowik",
+      "example_spa": "La lechuga se come cruda",
+      "dialect": null
+    }
+  ],
+  "uuid": "d13de37d-eea3-4d09-9bdd-467c17771782"
+}

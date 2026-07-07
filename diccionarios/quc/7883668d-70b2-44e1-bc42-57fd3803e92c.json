@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kamiʼx",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukamiʼx",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Camisa",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS Atzʼyaq Del Cast Camisa",
+  "examples": [
+    {
+      "example_maya": "Li alah kʼakʼ li ukamiʼx, kʼa te uloqʼik",
+      "example_spa": "El muchacho tiene camisa nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "7883668d-70b2-44e1-bc42-57fd3803e92c"
+}

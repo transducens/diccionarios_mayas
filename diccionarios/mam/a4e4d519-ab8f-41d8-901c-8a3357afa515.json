@@ -1,0 +1,23 @@
+{
+  "entryWord": "QʼAANAL",
+  "definition": "curandero, doctor, comadrona",
+  "additional_text": "s1 nqʼanala raíz qʼan",
+  "examples": [
+    {
+      "example_maya": "Pur qʼanal nan Lina Kastiya kyiʼj yabʼ xuʼj",
+      "example_spa": "La señora Catarina Castillo es comadrona de las embarazadas",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma chinxa tukʼ qʼanal jaʼla",
+      "example_spa": "Voy a ir donde el doctor hoy",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a4e4d519-ab8f-41d8-901c-8a3357afa515",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

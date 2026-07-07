@@ -1,0 +1,18 @@
+{
+  "entryWord": "LIIBR",
+  "definition": "1 libra 2 balanza",
+  "additional_text": "s1 nlibrya sin balans del español libra",
+  "examples": [
+    {
+      "example_maya": "¿Jataʼ qlibra tuʼna qʼany?",
+      "example_spa": "¿En dónde tenés nuestra balanza vos?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "834daedf-60db-4f41-a0c6-a75d2b242264",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutʼiq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una quemada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz PT Tʼiq",
+  "examples": [
+    {
+      "example_maya": "Li achih, xa jutʼiq xuya cheh li qʼayes",
+      "example_spa": "El hombre sólo una quemada le dio al monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "3c1e5070-3b04-4512-a548-f8d3cdc7f922"
+}

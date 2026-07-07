@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Loma; colina",
+  "definitionDialect": "",
+  "additional_text": "SnP Del Cast Loma",
+  "examples": [
+    {
+      "example_maya": "Iwir xinpaqiʼ chwi li lom",
+      "example_spa": "Ayer subí a la loma",
+      "dialect": null
+    }
+  ],
+  "uuid": "1868dc79-06d5-4d09-9f03-2e6a77c1610f"
+}

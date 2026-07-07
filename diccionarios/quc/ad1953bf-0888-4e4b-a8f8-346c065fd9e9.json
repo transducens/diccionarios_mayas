@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luʼlutexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kuluʼlutej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar",
+  "definitionDialect": "Español",
+  "additional_text": "vtd Raíz VT Luʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼ xuluʼlutej upa raʼ li abʼix",
+      "example_spa": "La gallina escarbó mucho la calza de la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad1953bf-0888-4e4b-a8f8-346c065fd9e9"
+}

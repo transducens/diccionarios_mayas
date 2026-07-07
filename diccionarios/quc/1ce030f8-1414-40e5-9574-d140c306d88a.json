@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakʼapobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caerse boca arriba; morirse",
+  "definitionDialect": "General",
+  "additional_text": "VI Kapakʼapobʼik Raíz VI Pakʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xpakʼapop pa li xaqʼoʼl",
+      "example_spa": "El niño se cayó boca arriba en el lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ce030f8-1414-40e5-9574-d140c306d88a"
+}

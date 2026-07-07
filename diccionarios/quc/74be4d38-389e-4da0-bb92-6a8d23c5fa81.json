@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼarixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼarij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar botellas; somatar botellas",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raiz P Kʼar",
+  "examples": [
+    {
+      "example_maya": "Li meʼs xukʼarij kan li lameʼt",
+      "example_spa": "El gato sonó las botellas",
+      "dialect": null
+    }
+  ],
+  "uuid": "74be4d38-389e-4da0-bb92-6a8d23c5fa81"
+}

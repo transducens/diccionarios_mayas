@@ -1,0 +1,19 @@
+{
+  "entryWord": "Inup",
+  "entryWordDialect": null,
+  "altEntryWord": "Winup",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ceiba",
+  "definitionDialect": "General",
+  "additional_text": "sInv DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li inup, are sibʼalaj nima cheʼ kelik",
+      "example_spa": "La ceiba es el árbol que crece más",
+      "dialect": null
+    }
+  ],
+  "uuid": "70d4a2ec-578e-4acb-a030-928e5485f3dc"
+}

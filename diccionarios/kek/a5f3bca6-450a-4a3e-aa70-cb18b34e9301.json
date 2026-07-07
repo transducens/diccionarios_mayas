@@ -1,0 +1,23 @@
+{
+  "entryWord": "Najtil",
+  "definition": "Distancia",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "¿Joʼ jtil chik?",
+      "example_spa": "¿Qué distancia falta?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Joʼ kʼihal xnajtil Kobʼan rikʼin San Jwan?",
+      "example_spa": "¿Cuál es la distancia entre Cobán y San Juan?",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5f3bca6-450a-4a3e-aa70-cb18b34e9301",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

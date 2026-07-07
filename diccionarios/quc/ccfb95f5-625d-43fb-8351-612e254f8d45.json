@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grueso",
+  "definitionDialect": "",
+  "additional_text": "Adj Upiimaal (upiimiil, upimiil, upimaal) F Pihm (piim) Ant Xaax",
+  "examples": [
+    {
+      "example_maya": "Li xot reh uwi jah, are pim chwach li xot reh lij",
+      "example_spa": "Las tejas de las casas son más gruesas que los comales",
+      "dialect": null
+    }
+  ],
+  "uuid": "ccfb95f5-625d-43fb-8351-612e254f8d45"
+}

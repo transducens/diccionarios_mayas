@@ -1,0 +1,19 @@
+{
+  "entryWord": "Poyijem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapoyijik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Podrirse calabaza, semilla de maíz, frijol en el suelo o troncos de árboles",
+  "definitionDialect": "",
+  "additional_text": "vl Raiz Vl Poy",
+  "examples": [
+    {
+      "example_maya": "Li qʼoqʼ tajin kapoyijik",
+      "example_spa": "El chilacayote se está pudriendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "04a796aa-441b-46b4-9580-b3db053e1b93"
+}

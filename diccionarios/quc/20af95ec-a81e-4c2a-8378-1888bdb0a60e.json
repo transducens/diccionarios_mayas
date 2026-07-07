@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tercero",
+  "definitionDialect": "",
+  "additional_text": "NumOrd Var Oxibʼ Raíz Num Ox",
+  "examples": [
+    {
+      "example_maya": "Li achih rox rixtol xok wih",
+      "example_spa": "El hombre ha ocupado el lugar de tercer regidor",
+      "dialect": null
+    }
+  ],
+  "uuid": "20af95ec-a81e-4c2a-8378-1888bdb0a60e"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupaqʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trozo para partir leña o huesos",
+  "definitionDialect": "General",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li paqʼbʼal tiʼij sibʼalaj nojnaq che xepoh",
+      "example_spa": "El trozo para quebrar huesos, tiene mucho sebo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a94a7dd-5615-466c-926a-7b7504f36f73"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jasa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Qué?",
+  "definitionDialect": "",
+  "additional_text": "Interr Interr Var Jaasa Var Jaas Var Jaas",
+  "examples": [
+    {
+      "example_maya": "Jasa laʼ",
+      "example_spa": "¿Qué es?, Qué manda?",
+      "dialect": null
+    }
+  ],
+  "uuid": "2cf8a682-3f03-4a25-aa21-97e0b038fe51"
+}

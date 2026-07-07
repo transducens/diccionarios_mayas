@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kinaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Riñón",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukinaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ukinaqʼ jun winaq are kalatzʼun li chulaj",
+      "example_spa": "Los riñones de una persona filtran la orina",
+      "dialect": "Dom.S. B'aqila'j."
+    }
+  ],
+  "uuid": "a23a8683-ce8f-48d1-806d-c8e4fc8a5ce0"
+}

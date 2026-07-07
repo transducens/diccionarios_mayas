@@ -1,0 +1,24 @@
+{
+  "entryWord": "Palik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Peinar; se evitar un golpe; gustar, caerle bien",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpaloh Sinón Maa Raiz VT Pal",
+  "examples": [
+    {
+      "example_maya": "alih li xukʼam li alah sib kupaloh",
+      "example_spa": "La muchacha con quie casó el muchacho cae b",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkowinik xinpal li jun qʼa",
+      "example_spa": "Pude evitar el puñetazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c02437d-e39e-4e28-90b0-dd2ba2d73347"
+}

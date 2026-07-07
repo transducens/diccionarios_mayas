@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqʼul xajabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de zapato con suela de hule",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz s Saqʼuul Raíz S Xajabʼ DomS Xajabʼ",
+  "examples": [
+    {
+      "example_maya": "Li saqʼul xajabʼ kakʼayix pa taq kʼaybʼal",
+      "example_spa": "Ayer compré un par de zapatos de hule",
+      "dialect": null
+    }
+  ],
+  "uuid": "555385fb-2dee-49b9-b46a-97720e79076d"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Numen",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnumik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener hambre",
+  "definitionDialect": "",
+  "additional_text": "vi //Nuhm//",
+  "examples": [
+    {
+      "example_maya": "Keʼenloqʼo na nuwa, kinnumik",
+      "example_spa": "Iré a comprar comida porque tengo hambre",
+      "dialect": null
+    }
+  ],
+  "uuid": "d10dd737-30c8-4d10-9489-5ffbd6451bcd"
+}

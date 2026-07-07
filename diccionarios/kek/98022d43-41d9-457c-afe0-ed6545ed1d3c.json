@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mach",
+  "definition": "Barba, bigote",
+  "additional_text": "SInv Inmach",
+  "examples": [
+    {
+      "example_maya": "Toj maakʼaʼ inmach",
+      "example_spa": "Todavía no tengo barba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xchamoʼ aamach laaʼat",
+      "example_spa": "¿Creció tu barba vos?",
+      "dialect": null
+    }
+  ],
+  "uuid": "98022d43-41d9-457c-afe0-ed6545ed1d3c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

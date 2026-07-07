@@ -1,0 +1,19 @@
+{
+  "entryWord": "Akitamal",
+  "entryWordDialect": null,
+  "altEntryWord": "Wakitamal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chuchito (tamalito); mi tamalito (chuchito)",
+  "definitionDialect": "Dom.S. Wah",
+  "additional_text": "SCV Var Atikamal",
+  "examples": [
+    {
+      "example_maya": "Li akitamal kaya tiʼij, pix chpam",
+      "example_spa": "A los chuchitos se les pone adentro carne y tomate",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e363694-fecb-4a80-841d-1f8a33f7f3cf"
+}

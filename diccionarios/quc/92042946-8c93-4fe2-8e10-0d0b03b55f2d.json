@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pirilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suave al partir",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz VT Per (pir)",
+  "examples": [
+    {
+      "example_maya": "Li kaxlanwa pirilik we xpirik",
+      "example_spa": "El pan es suave al partirlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "92042946-8c93-4fe2-8e10-0d0b03b55f2d"
+}

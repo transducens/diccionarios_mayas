@@ -1,0 +1,33 @@
+{
+  "entryWord": "Yojöl (yojan)",
+  "definition": "Estar en mal estado un objeto; haber un grupo de cosas duras",
+  "additional_text": "p Xyojeʼ, xuyojbʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Chke la choqʼichin ri jun chʼichʼ yojöl tzan bʼey",
+      "example_spa": "A saber de quién es el carro en mal estado que está en la esquina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nikʼaj ajkoyaʼl tzimay yojöl chuchi jay, ninwajoʼ ninkʼayij",
+      "example_spa": "Quiero vender la media red de jícaras que está en el corredor de la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chʼakät xinyojbʼaʼ kan pa qʼayis",
+      "example_spa": "Dejé descompuesta una silla entre los montes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ke la apo yojol jun chʼichʼ",
+      "example_spa": "Un carro está descompuesto allá",
+      "dialect": null
+    }
+  ],
+  "uuid": "ada34773-a7a1-4620-8146-b5ddef70f094",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xqʼeʼchaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Choconoy",
+  "definitionDialect": "Dom.S. Chkop.",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li xqʼeʼchaj kʼax kataq li ukʼixal we kok cheh ubʼaqil jun winaq",
+      "example_spa": "Las espinas del choconoy causan dolor cuando se pegan en el cuerpo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e677dfae-7251-4747-af7f-96dab68eae33"
+}

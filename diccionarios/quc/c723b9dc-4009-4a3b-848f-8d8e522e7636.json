@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajal tzijol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calumnia, chisme",
+  "definitionDialect": "General",
+  "additional_text": "sN",
+  "examples": [
+    {
+      "example_maya": "Li achih, xok pa cheʼ umak ajal tzijol",
+      "example_spa": "Al hombre lo encarcelaron por calumniador",
+      "dialect": null
+    }
+  ],
+  "uuid": "c723b9dc-4009-4a3b-848f-8d8e522e7636"
+}

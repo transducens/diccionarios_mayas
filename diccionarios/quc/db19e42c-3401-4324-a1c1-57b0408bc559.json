@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qarmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqarmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar una persona gorda o nalguda",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Qar",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq kaqarmaʼy pa li ratzʼyaq",
+      "example_spa": "El muchacho gordo anda con la ropa apretada",
+      "dialect": null
+    }
+  ],
+  "uuid": "db19e42c-3401-4324-a1c1-57b0408bc559"
+}

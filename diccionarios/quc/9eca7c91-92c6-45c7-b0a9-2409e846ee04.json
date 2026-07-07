@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tutzʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtutzʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xututzʼubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Sentado en el suelo con las piernas estiradas rectas",
+  "definitionDialect": "",
+  "additional_text": "p Var Tʼuyulik Raíz P Tutzʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xa tutzʼul puliw",
+      "example_spa": "El niño está sentado en el suelo con las piernas estiradas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are taq xinbʼe pa li bʼinel chʼichʼ xa xintutzʼiʼ bʼik",
+      "example_spa": "Cuando me fui en el camión me senté con las piernas estiradas",
+      "dialect": null
+    }
+  ],
+  "uuid": "9eca7c91-92c6-45c7-b0a9-2409e846ee04"
+}

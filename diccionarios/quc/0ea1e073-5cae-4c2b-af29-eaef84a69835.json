@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼaʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Recostado",
+  "definitionDialect": "General",
+  "additional_text": "p Xqʼaʼiʼk, xuqʼaabʼaʼ Raiz P Qʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Qʼaʼl li qʼaʼam chwa li jah",
+      "example_spa": "En la pared de la casa está recostada la escalera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kunanel xuqʼabʼa li yawabʼ pa li chʼat",
+      "example_spa": "El enfermero recostó al enfermo en la cama",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ea1e073-5cae-4c2b-af29-eaef84a69835"
+}

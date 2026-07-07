@@ -1,0 +1,24 @@
+{
+  "entryWord": "Woqʼoqʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar los sapos o ranas, croar; hacer ruido el estómago",
+  "definitionDialect": "",
+  "additional_text": "vi Kawoqʼoqʼik Sinón Woqʼowoteem Raiz VI Woqʼ",
+  "examples": [
+    {
+      "example_maya": "We jun winaq kanumik kuchap woqʼoqʼem li upam",
+      "example_spa": "Si una persona tiene hambre le empieza a hacer ruido el estómago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li upam li yowabʼ sibʼalaj kawoqʼoqʼik, ma xa kʼax",
+      "example_spa": "El estómago del enfermo hace mucho ruido porque tiene gases",
+      "dialect": null
+    }
+  ],
+  "uuid": "359e6ffa-76bb-4da3-b54a-ee1211645069"
+}

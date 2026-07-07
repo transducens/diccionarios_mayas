@@ -1,0 +1,29 @@
+{
+  "entryWord": "Bʼachabʼatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido continuo al arrastrar los pies, bailar, regañar",
+  "definitionDialect": "",
+  "additional_text": "vi Kinbʼachabʼatik Raíz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "¿Jachin ri kabʼachabʼatik xqʼaxik?",
+      "example_spa": "¿Quién pasó haciendo ruido al arrastrar los pies?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sin nimachih, tajin kabʼachabʼat pa qʼojom",
+      "example_spa": "El ancianito está bailando una pieza de marimba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih sibʼalaj kabʼachabʼat chwij che yaj",
+      "example_spa": "El hombre me está regañando demasiado",
+      "dialect": null
+    }
+  ],
+  "uuid": "797ea9a1-c5da-4bd5-8fb9-1a017f498b6a"
+}

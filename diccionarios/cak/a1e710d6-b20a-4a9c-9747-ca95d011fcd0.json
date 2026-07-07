@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yakatajik",
+  "definition": "Levantarse, Alzar",
+  "additional_text": "VI Yakatajen (yakatajnen), yiyakatäj",
+  "examples": [
+    {
+      "example_maya": "Ri ixoqiʼ yalan jukumaj yeyakatäj",
+      "example_spa": "Las mujeres se levantan muy temprano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq nibʼan jun nimaqʼij, yalan jukumaj ri yakatajen",
+      "example_spa": "Cuando hacen una fiesta, se levantan muy temprano",
+      "dialect": null
+    }
+  ],
+  "uuid": "a1e710d6-b20a-4a9c-9747-ca95d011fcd0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

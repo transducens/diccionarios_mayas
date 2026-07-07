@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pitzʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Destripar grano para sacar materia; aplastar; apretar duro; exprimir",
+  "definitionDialect": "",
+  "additional_text": "vTR Kinpitzʼoh Raíz VT Pitzʼ",
+  "examples": [
+    {
+      "example_maya": "Li kunanel tajin kupitzʼ li spoj chech uqʼabʼ",
+      "example_spa": "El enfermo se está destripando el absceso con la mano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpitzʼ na li alah chwa li xan",
+      "example_spa": "Voy a apretar al muchacho contra la pared",
+      "dialect": null
+    }
+  ],
+  "uuid": "31b678f4-6b58-4807-b47a-a09a6a5ee5b4"
+}

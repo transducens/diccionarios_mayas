@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tochʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al cortar con hacha o machete",
+  "definitionDialect": "",
+  "additional_text": "vi Katoochʼoʼpik Raíz VT Tochʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan katajij katochʼoʼp chrij li bolaj",
+      "example_spa": "Juan está partiendo el trozo",
+      "dialect": null
+    }
+  ],
+  "uuid": "276d4ffe-3c82-4d7c-b2c3-8cfda530505a"
+}

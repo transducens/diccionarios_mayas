@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xanakatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxanakatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con un vestido muy apretado una persona gorda y chaparra",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VI Xan",
+  "examples": [
+    {
+      "example_maya": "Li alaj alih xaq kaxanakat kabʼinik, ma xa latzʼ li ratzʼyaq",
+      "example_spa": "La niña anda con un vestido muy apretado, porque le queda pequeño",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b1e1c07-eb5f-4d89-9e73-0050e9f4cd21"
+}

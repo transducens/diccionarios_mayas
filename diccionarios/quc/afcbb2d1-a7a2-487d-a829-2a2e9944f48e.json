@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jetelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alejado; retirado",
+  "definitionDialect": "general",
+  "additional_text": "p Xjetiʼk, xujetebʼaʼ Coment No muy lejos vtd Jetetexik Arrastrarse un niño, gatear sentado Raíz vr Jet",
+  "examples": [
+    {
+      "example_maya": "Li tinamit xan kataʼl jetel apan che li tinamit Nawal jaʼ",
+      "example_spa": "El pueblo de Santa Catarina está algo retirado de Nahualá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alaxik xjetiʼ uxoʼl taq li koʼch, ma xkijach kibʼ",
+      "example_spa": "Los familiares están alejados de nosotros",
+      "dialect": null
+    }
+  ],
+  "uuid": "afcbb2d1-a7a2-487d-a829-2a2e9944f48e"
+}

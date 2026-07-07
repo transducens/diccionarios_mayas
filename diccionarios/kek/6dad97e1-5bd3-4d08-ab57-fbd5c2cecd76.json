@@ -1,0 +1,23 @@
+{
+  "entryWord": "Choxa (choxaal)",
+  "definition": "Cielo, gloria",
+  "additional_text": "SNP",
+  "examples": [
+    {
+      "example_maya": "Li choxa qʼaxal najt wan qikʼin",
+      "example_spa": "El cielo está muy lejos de nosotros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun sut rubʼel choxa",
+      "example_spa": "En todas partes del mundo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6dad97e1-5bd3-4d08-ab57-fbd5c2cecd76",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

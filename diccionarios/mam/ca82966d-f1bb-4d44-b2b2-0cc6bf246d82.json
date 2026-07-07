@@ -1,0 +1,18 @@
+{
+  "entryWord": "JATUMA",
+  "definition": "¿dónde?",
+  "additional_text": "pi raíz ja par",
+  "examples": [
+    {
+      "example_maya": "¿Jatuma nchiyolan xkyaj tkiʼna?",
+      "example_spa": "¿Dónde estaban platicando cuando los viste?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ca82966d-f1bb-4d44-b2b2-0cc6bf246d82",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

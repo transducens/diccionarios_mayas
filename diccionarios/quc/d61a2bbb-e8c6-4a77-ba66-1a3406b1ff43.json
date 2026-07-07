@@ -1,0 +1,19 @@
+{
+  "entryWord": "Elaqʼom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ladrón",
+  "definitionDialect": "",
+  "additional_text": "Snp SPL Elaqʼomaabʼ Ladrones (pl) Raíz S Elaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom xrelaqʼaj pwaq pa jun jah",
+      "example_spa": "El ladrón robó dinero en una casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "d61a2bbb-e8c6-4a77-ba66-1a3406b1ff43"
+}

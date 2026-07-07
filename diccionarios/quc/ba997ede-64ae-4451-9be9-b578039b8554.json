@@ -1,0 +1,29 @@
+{
+  "entryWord": "Pixkʼanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpixkʼanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saltar; brincar",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li masat mas naj kel wi li upixkʼanem",
+      "example_spa": "El venado brinca muy alto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alaj alah tajin kapixkʼan chij kolobʼ",
+      "example_spa": "El niño está saltando sobre el lazo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah pixkʼanem kuʼon la pwi li cheʼ",
+      "example_spa": "El muchacho va a saltar desde la punta del árbol",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba997ede-64ae-4451-9be9-b578039b8554"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Ximbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuximbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cintura; cincho; cinturón; pita para amarrar; atadura",
+  "definitionDialect": "",
+  "additional_text": "scv F Ximbʼal uwa tzapaʼt Correa Raíz VT Xim",
+  "examples": [
+    {
+      "example_maya": "Li achih, uxekebʼam jun muruh puximbʼal",
+      "example_spa": "El hombre tiene un machete colgado en la cintura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ximbʼal reh li eqaʼn, xkiritajik",
+      "example_spa": "La atadura de la carga se aflojó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih tzʼuʼum li uximbʼal",
+      "example_spa": "El hombre usa un cincho de cuero",
+      "dialect": null
+    }
+  ],
+  "uuid": "c2e40af2-f78b-46db-8fa0-01b5700aeeb1"
+}

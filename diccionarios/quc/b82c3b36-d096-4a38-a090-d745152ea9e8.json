@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼuʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casita de paja en forma de cono",
+  "definitionDialect": "",
+  "additional_text": "sinv Nutzʼuʼq var Tzʼuuquʼy",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun laj tzʼuʼq chrij li kikoral karneʼl",
+      "example_spa": "Hay una casita de paja atrás del corral de las ovejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "b82c3b36-d096-4a38-a090-d745152ea9e8"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼatzinel",
+  "definition": "Util, necesario",
+  "additional_text": "Adj Sinón Okel var Rikʼaʼtz",
+  "examples": [
+    {
+      "example_maya": "Ri tzʼiʼ yalan kʼatzinel, richin nuchajij ri ruwa jay",
+      "example_spa": "El perro es útil para cuidar la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xajabʼ kʼatzinel richin ri awaqän",
+      "example_spa": "Los caites son útiles para los pies",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼatzinel chi yojsamaj",
+      "example_spa": "Es necesario que trabajemos",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a3959e6-56ee-436a-8198-43967d397fb1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

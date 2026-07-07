@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wokowik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hueca: cosa redonda, como una pelota o vejiga; tupido: árbol con hojas o flores",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Wok",
+  "examples": [
+    {
+      "example_maya": "Li ujul bʼah, xa wokowik",
+      "example_spa": "La cueva de la taltuza es hueca",
+      "dialect": null
+    }
+  ],
+  "uuid": "9581e20d-3b64-4af2-a4e7-3669546268f9"
+}

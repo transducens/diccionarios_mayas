@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaqom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pixque o tamal grande; tzocón",
+  "definitionDialect": "",
+  "additional_text": "SInv Nutzʼaqoom",
+  "examples": [
+    {
+      "example_maya": "Li achih, tzʼaqom xukʼam bʼik, are taq xxuliʼ pa tikoj abʼix pa taqʼaj",
+      "example_spa": "El hombre llevó tamales grandes cuando se fue a sembrar milpa a la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "16a76ca0-00b2-40dd-adbd-ca3135878b7d"
+}

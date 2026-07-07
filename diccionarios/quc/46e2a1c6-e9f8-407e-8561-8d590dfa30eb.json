@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pereʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Upereʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cresta",
+  "definitionDialect": "General",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Kaq kakaʼy li upereʼy li amaʼ",
+      "example_spa": "La cresta del gallo es roja",
+      "dialect": null
+    }
+  ],
+  "uuid": "46e2a1c6-e9f8-407e-8561-8d590dfa30eb"
+}

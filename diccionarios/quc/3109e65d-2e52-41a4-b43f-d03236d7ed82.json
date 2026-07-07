@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxa tzʼuʼum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuero no curtido",
+  "definitionDialect": "",
+  "additional_text": "scl Nuraxa tzʼuʼuum Raíz Adj Rax Raíz S Tzʼuʼuum DomS Tzʼuʼuum",
+  "examples": [
+    {
+      "example_maya": "Li raxtzʼuʼum, na utz taj kabʼan xajabʼ cheh",
+      "example_spa": "El cuero sin curtir no es bueno para fabricar zapatos",
+      "dialect": null
+    }
+  ],
+  "uuid": "3109e65d-2e52-41a4-b43f-d03236d7ed82"
+}

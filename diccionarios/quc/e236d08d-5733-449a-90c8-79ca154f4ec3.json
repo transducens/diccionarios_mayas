@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaxkʼolixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼaxkʼolij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sufrir; costar trabajos una cosa",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Kʼax",
+  "examples": [
+    {
+      "example_maya": "Li alah, xukʼaxkʼolij ubʼochiʼxik li alih",
+      "example_spa": "Al muchacho le costó mucho enamorar a la muchacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "e236d08d-5733-449a-90c8-79ca154f4ec3"
+}

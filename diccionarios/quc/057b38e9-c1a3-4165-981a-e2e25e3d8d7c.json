@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pichʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Upichʼal, xpichʼarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chillón; tierno: elote o frijol",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Pichʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xpichʼar rumal li yabʼil",
+      "example_spa": "El niño se puso chillón por la enfermedad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li aj kʼa pichʼ",
+      "example_spa": "Los elotes están tiernos todavía",
+      "dialect": null
+    }
+  ],
+  "uuid": "057b38e9-c1a3-4165-981a-e2e25e3d8d7c"
+}

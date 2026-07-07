@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rupnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karupnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido falda de mujer cuando camina o corre",
+  "definitionDialect": "vi.",
+  "additional_text": "Raíz VI Rup",
+  "examples": [
+    {
+      "example_maya": "Li ixoq karupnaj li ruq are taq kutij ranim",
+      "example_spa": "El corte de la mujer hace ruido cuando corre",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd9d6776-cb17-4b74-9e22-bfacff3455b7"
+}

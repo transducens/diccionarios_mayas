@@ -1,0 +1,18 @@
+{
+  "entryWord": "PAAP",
+  "definition": "tortilla Palabra propia para hablarle a los niños",
+  "additional_text": "s1 npapa",
+  "examples": [
+    {
+      "example_maya": "Qʼonx tpap qitzʼana",
+      "example_spa": "Dale su tortilla a nuestro hijo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7e0187b5-99e4-4568-8916-41ab81bd1c97",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

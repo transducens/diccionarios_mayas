@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yobʼoyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aplastado de un lado",
+  "definitionDialect": "Español",
+  "additional_text": "Adj Raíz P Yobʼ",
+  "examples": [
+    {
+      "example_maya": "Li ula qʼebʼal xuʼon yobʼoyik chwa li qʼaqʼ",
+      "example_spa": "La tinaja de plástico está aplastada de un lado por el calor del fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "4438d213-6579-4574-97ea-d7e1efab8d5f"
+}

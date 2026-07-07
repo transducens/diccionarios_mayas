@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Adobe",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuxaan",
+  "examples": [
+    {
+      "example_maya": "Li xan are taq kabʼantajik, kachaqijsax chwa qʼij",
+      "example_spa": "Cuando ya está hecho el adobe, se deja secar en el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "6033d1ee-4ce1-4f80-9ada-b485be9183e6"
+}

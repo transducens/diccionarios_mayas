@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzojon",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzojon",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jaboncillo",
+  "definitionDialect": "",
+  "additional_text": "sInv Raíz S Tzojoon",
+  "examples": [
+    {
+      "example_maya": "Li tzojon kachokon cheh chʼajbʼal atzʼyaq",
+      "example_spa": "El jaboncillo se usa para lavar ropa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzojon pa miqʼina juyubʼ kakʼiy wih",
+      "example_spa": "El árbol de jaboncillo crece en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3e95147-1069-4a8a-9544-0a9ef4f3dcba"
+}

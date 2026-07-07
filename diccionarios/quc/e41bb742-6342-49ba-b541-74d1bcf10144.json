@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼawalaʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Incompleto",
+  "definitionDialect": "",
+  "additional_text": "Adj Coment Cosas que tienen cierto orden entre sí, pero hace falta algo para estar completo (Ej Dientes cuando falta uno o mazorca que no tiene los granos completos) Ant Tzʼaqaat",
+  "examples": [
+    {
+      "example_maya": "Li jal chʼawalaʼq, na tzʼaqat ta li ixim kʼo cheh",
+      "example_spa": "Esta mazorca está incompleta, tiene pocos granos",
+      "dialect": null
+    }
+  ],
+  "uuid": "e41bb742-6342-49ba-b541-74d1bcf10144"
+}

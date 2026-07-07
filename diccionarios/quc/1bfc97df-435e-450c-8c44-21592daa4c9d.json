@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼujuwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apenarse; palpitar; temblar de miedo o nervios",
+  "definitionDialect": "",
+  "additional_text": "vi Kintʼujuwik Raíz VI Tʼuj",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom are taq xutoh, chi kok pa cheʼ xuchap tʼujuwem",
+      "example_spa": "El ladrón comenzó a temblar de miedo cuando se enteró de que lo iban a meter a la cárcel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xtʼujuw ranima are taq xuta li xya uchʼobʼik",
+      "example_spa": "Al hombre le palpitó el corazón al escuchar la noticia",
+      "dialect": null
+    }
+  ],
+  "uuid": "1bfc97df-435e-450c-8c44-21592daa4c9d"
+}

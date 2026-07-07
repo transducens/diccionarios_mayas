@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wirikotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawirikotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar un nene",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Wir",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal kawirikot chik",
+      "example_spa": "El nene ya puede caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "944f4b79-593b-445f-816c-42f9090c7144"
+}

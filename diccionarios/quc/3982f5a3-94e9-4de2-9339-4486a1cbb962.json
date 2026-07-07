@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qulquʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortado con asperezas; disparejo",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Qulqubʼ Raíz VT Qul",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalam sibʼalaj sin qulquʼx",
+      "example_spa": "La tabla está muy dispareja",
+      "dialect": null
+    }
+  ],
+  "uuid": "3982f5a3-94e9-4de2-9339-4486a1cbb962"
+}

@@ -1,0 +1,43 @@
+{
+  "entryWord": "Aqʼej (aqʼ)",
+  "definition": "Ropa (en general)",
+  "additional_text": "sos Waqʼ",
+  "examples": [
+    {
+      "example_maya": "Bʼutʼ sa junaq koxtal li aqʼej re naq junaj taaxik",
+      "example_spa": "Meta en un costal la ropa para que se vaya en un sólo lugar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aqʼej re bʼeek",
+      "example_spa": "Ropa de paseo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aqʼej re ixq",
+      "example_spa": "Ropa para mujeres",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aqʼej re kʼanjelak",
+      "example_spa": "Ropa de trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aqʼej re atink",
+      "example_spa": "Ropa de baño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aqʼej re chʼaat",
+      "example_spa": "Ropa de cama",
+      "dialect": null
+    }
+  ],
+  "uuid": "4af92dae-f4bb-4502-8f1a-d35c156de481",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

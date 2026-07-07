@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uxajabʼ kej",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casco de caballo",
+  "definitionDialect": "general",
+  "additional_text": "sds Raiz S Xajabʼ Raiz S Keej",
+  "examples": [
+    {
+      "example_maya": "Li uxajabʼ li kej sibʼalaj bʼaq",
+      "example_spa": "El casco de la bestia es de puro hueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "42f38fa2-a487-4e18-ad64-563c2c9fd668"
+}

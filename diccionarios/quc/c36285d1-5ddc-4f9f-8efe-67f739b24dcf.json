@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yakayik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande: perro o coyote",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Kayakik",
+  "examples": [
+    {
+      "example_maya": "Li utiw sibʼalaj jun yakayik",
+      "example_spa": "El coyote es demasiado grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "c36285d1-5ddc-4f9f-8efe-67f739b24dcf"
+}

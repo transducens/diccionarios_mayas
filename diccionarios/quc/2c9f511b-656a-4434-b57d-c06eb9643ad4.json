@@ -1,0 +1,19 @@
+{
+  "entryWord": "Reqreʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Roto (como trapo viejo); rasgado",
+  "definitionDialect": "General",
+  "additional_text": "Adj Var Raqraʼx Raíz VT Req",
+  "examples": [
+    {
+      "example_maya": "Li kʼul xa reqreʼx chik",
+      "example_spa": "La chamarra está rota y vieja",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c9f511b-656a-4434-b57d-c06eb9643ad4"
+}

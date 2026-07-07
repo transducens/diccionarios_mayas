@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sakil",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusakil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pepita de ayote, chilacayote, tecomate, jicara, güicoy, chan y melón; pepitoria",
+  "definitionDialect": "",
+  "additional_text": "SInv Var Bʼaqʼ Var Ijaʼ",
+  "examples": [
+    {
+      "example_maya": "Li usakil kʼum utz kakʼilixik, katijow rukʼ lij",
+      "example_spa": "La pepita de ayote es buena tostarla y comerla con tortillas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sakil utz cheh chʼaʼk pa chiʼaj",
+      "example_spa": "La pepita negra de chilacayote es buena para curar los granos de la boca",
+      "dialect": null
+    }
+  ],
+  "uuid": "4d7551c9-5ac0-4d23-aad4-1a30d8f762d5"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Mebʼaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Umebʼaʼil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xmeebʼaʼirik",
+  "altEntryWordDialect2": null,
+  "definition": "Pobre",
+  "definitionDialect": "",
+  "additional_text": "Adj Fbas //Mehbʼaaʼ// SPos Meebʼaʼiibʼ Ant Qʼinoom",
+  "examples": [
+    {
+      "example_maya": "Kʼi winaq e mebʼaʼ, maj kakitijoh",
+      "example_spa": "Hay mucha gente pobre que no tiene que comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih ojer xa mebʼaʼ, kamik kʼo chi uqʼinomal",
+      "example_spa": "El hombre era pobre antes, pero ahora ya tiene riqueza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq sin mebʼaʼ, maj kakajmanik, maj chi utat unan",
+      "example_spa": "La mujer es pobre, ninguno la mantiene, no tiene padre ni madre",
+      "dialect": null
+    }
+  ],
+  "uuid": "cdb221a2-c25e-4fba-9e30-030e2b45375e"
+}

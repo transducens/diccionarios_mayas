@@ -1,0 +1,18 @@
+{
+  "entryWord": "Pook",
+  "definition": "Foco de mano, linterna",
+  "additional_text": "SInv Inpook",
+  "examples": [
+    {
+      "example_maya": "Naq ninʼel chi bʼeek chi qʼeq, rajlal ninkʼam inpook",
+      "example_spa": "Cuando salgo a pasear en la noche, siempre llevo mi linterna",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f087c67-f8c9-45fa-bbec-f7c49317fc05",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

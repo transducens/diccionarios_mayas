@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tʼorbʼak",
+  "definition": "Caer de una sola vez, como un grano de maíz",
+  "additional_text": "vi Natʼorbʼak",
+  "examples": [
+    {
+      "example_maya": "Natʼorbʼak li kenqʼ saʼ chʼochʼ",
+      "example_spa": "El frijol se cayó al suelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Natʼorbʼak rix li kabʼl naq xeʼxmesu",
+      "example_spa": "Bien barrido dejaron alrededor de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "545bd6ff-1818-4118-a3f9-53645d7afa20",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

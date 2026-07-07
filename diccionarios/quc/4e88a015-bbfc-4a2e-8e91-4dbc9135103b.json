@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼochiʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantinear; enamorar; calmar: a un niño que llora mucho, a un bolo que quiere pelear",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinbʼoochiʼiij Fbas //Bʼohchiʼi// F",
+  "examples": [
+    {
+      "example_maya": "Li alah bʼochiʼxik kubʼan che li alih chi li kʼwaʼ",
+      "example_spa": "El muchacho está enamorando a la muchacha en la orilla del pozo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinbʼochiʼj sin awanima",
+      "example_spa": "Ruego a tú corazón",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e88a015-bbfc-4a2e-8e91-4dbc9135103b"
+}

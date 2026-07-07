@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rajable",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li siʼ we sukʼ sibʼalaj paqʼalik",
+      "example_spa": "Si la leña está recta, es rajable",
+      "dialect": null
+    }
+  ],
+  "uuid": "021c173c-0c0a-4d22-93ce-39b0f85a819d"
+}

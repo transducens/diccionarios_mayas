@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼakʼowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arder fuego con mucha llama, tener mucha temperatura",
+  "definitionDialect": "",
+  "additional_text": "VI Kinbʼakʼowik Raíz VI Bʼakʼ",
+  "examples": [
+    {
+      "example_maya": "Li sin laj neʼ sibʼalaj kabʼakʼow pa qʼaqʼ",
+      "example_spa": "El nene tiene temperatura muy alta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li poroʼn sibʼalaj kabʼakʼowik",
+      "example_spa": "El incendio está ardiendo mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "67514470-c602-40b3-a395-25f9c3744223"
+}

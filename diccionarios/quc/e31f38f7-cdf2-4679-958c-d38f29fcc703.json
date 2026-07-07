@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼotoʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy doblado; papel o tela, aplastado; muy enrollado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz PT Bʼot",
+  "examples": [
+    {
+      "example_maya": "Li powiʼ sibʼalaj bʼotoʼt pa kaqan li winaq",
+      "example_spa": "El sombrero fue aplastado por la gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li lij sibʼalaj bʼotoʼt xubʼan pa li eqaʼn",
+      "example_spa": "Las tortillas van muy dobladas dentro de la carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "e31f38f7-cdf2-4679-958c-d38f29fcc703"
+}

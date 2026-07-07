@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼokik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼokoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desclavar; despegar cosa clavada o engrapada",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Kʼok",
+  "examples": [
+    {
+      "example_maya": "Li ajanel, tajin kukʼok lawux chwa li tzʼalam",
+      "example_spa": "El carpintero está desclavando las tablas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a29ad022-dde1-436c-808d-2438c7565b70"
+}

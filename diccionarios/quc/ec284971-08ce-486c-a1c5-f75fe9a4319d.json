@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ramik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar leña, trozo o pita",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinramoh",
+  "examples": [
+    {
+      "example_maya": "Jun bʼolobʼik cheʼ tajin kinram cheh nusiʼ",
+      "example_spa": "Estoy cortando un trozo para mi leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "ec284971-08ce-486c-a1c5-f75fe9a4319d"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "Taraya",
+  "definition": "Atarraya (red para pescar)",
+  "additional_text": "sInv Nutaraya Atarraya",
+  "examples": [
+    {
+      "example_maya": "Ri taraya yeruchäp konojel ri taq kär",
+      "example_spa": "La atarraya agarra a todos los pescaditos",
+      "dialect": null
+    }
+  ],
+  "uuid": "01fc5162-cf9c-4b84-9d93-ce959874769f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

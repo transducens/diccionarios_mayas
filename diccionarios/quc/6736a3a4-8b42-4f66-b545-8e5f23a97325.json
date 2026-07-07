@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eechabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Herencia; recibir herencia",
+  "definitionDialect": "Español",
+  "additional_text": "SInv Weechabʼal Raíz SRel Eech",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kajach na li echabʼal chkiwach li aʼlaxik",
+      "example_spa": "Mañana se repartirá la herencia entre los hermanos",
+      "dialect": null
+    }
+  ],
+  "uuid": "6736a3a4-8b42-4f66-b545-8e5f23a97325"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "TNAM",
+  "definition": "pueblo",
+  "additional_text": "s1a ntanma frases: chman tnam abuelo del pueblo; nimaq tnam ciudad, pueblo, pueblo grande del nahuatl tenamitl",
+  "examples": [
+    {
+      "example_maya": "Aj tnam te lʼtzal mas matij twitz Ẍnil",
+      "example_spa": "El pueblo de Ixtahuacán es más grande que Colotenango",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "616e88de-9202-476b-9bc5-02f448ed11a2",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

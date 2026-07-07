@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtakiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutakabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Recostado (tabla, pizarrón, puerta o cosa alta delgada y ancha)",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Tak",
+  "examples": [
+    {
+      "example_maya": "Li alah xutakabʼa kan li tzʼalam chwa li xan",
+      "example_spa": "El muchacho dejó recostada la tabla en la pared",
+      "dialect": null
+    }
+  ],
+  "uuid": "cfba3ee8-a5c4-4b53-a342-3fd8173b72fe"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Achoqchin, achoq ichin (richin)",
+  "definition": "¿Para quién?, ¿de quién?",
+  "additional_text": "Int",
+  "examples": [
+    {
+      "example_maya": "¿Achoqchin la jun jay laʼ?",
+      "example_spa": "¿De quién es esa casa?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Achoq richin re wuj reʼ?",
+      "example_spa": "¿De quién es este libro?",
+      "dialect": null
+    }
+  ],
+  "uuid": "78c3edc1-69f5-4f6b-94f1-230f1987335e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

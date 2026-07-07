@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ixnam",
+  "entryWordDialect": null,
+  "altEntryWord": "Wixnam",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuñada de hombre",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Xkʼuliʼ li wixnan iwir",
+      "example_spa": "Ayer se casó mi cuñada",
+      "dialect": null
+    }
+  ],
+  "uuid": "5802a9d2-f30a-4b13-ae4d-4cb041a81be1"
+}

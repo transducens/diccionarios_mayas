@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼajtzaʼj (bʼajtzʼaʼj)",
+  "definition": "Tortilla cocida en brasas",
+  "additional_text": "SInv Nubʼajtzaʼj Wäy",
+  "examples": [
+    {
+      "example_maya": "Ri bʼajtzaʼj ma kan ta konojel ri ixoqiʼ yebʼanon",
+      "example_spa": "Este tipo de tortilla no todas las mujeres la hacen",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri bʼajtzʼaʼj ma kan ta nikowïr rupan",
+      "example_spa": "Esta clase de tortilla no se le endurece mucho lo de adentro",
+      "dialect": null
+    }
+  ],
+  "uuid": "87145b96-86a7-4373-bb51-2d85b047cb34",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

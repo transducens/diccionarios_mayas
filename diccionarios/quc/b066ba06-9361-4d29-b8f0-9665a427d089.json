@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼalaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Invierno",
+  "definitionDialect": "General",
+  "additional_text": "snp Ant Saqʼiij Raiz s Qʼalaj",
+  "examples": [
+    {
+      "example_maya": "Kaqataqej chi we qʼalaj",
+      "example_spa": "Vamos a comenzar el invierno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq qʼalaj keqaj ul",
+      "example_spa": "En el invierno hay derrumbes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li qʼalaj are sibʼalaj jabʼ chwach pa saqʼij",
+      "example_spa": "En invierno hay más lluvia que en verano",
+      "dialect": null
+    }
+  ],
+  "uuid": "b066ba06-9361-4d29-b8f0-9665a427d089"
+}

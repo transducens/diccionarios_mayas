@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lluvia Temporal Aguacero",
+  "definitionDialect": "",
+  "additional_text": "sas Ujabʼiil ( ujabʼaal) scl Qʼeqal jabʼ scl Amaʼlaj jabʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼo ujabʼil li qʼeqa sutzʼ",
+      "example_spa": "Las nubes negras traen lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "a10f5a2d-f46d-48d8-a178-1f0b6c8718e3"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Elk",
+  "definition": "Salir, renunciar",
+  "additional_text": "vi Xinʼel",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ jultik we naq xinʼel chaq saʼ li bʼanlebʼaal",
+      "example_spa": "Estaba inconsciente cuando salí del hospital",
+      "dialect": null
+    },
+    {
+      "example_maya": "Elk chaq li saqʼe",
+      "example_spa": "Salir el sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Elk chi us",
+      "example_spa": "Salir bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "afcde65e-9257-4296-b226-1c8b7b2876ed",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

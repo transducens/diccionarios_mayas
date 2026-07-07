@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xorik",
+  "entryWordDialect": null,
+  "altEntryWord": "Worik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Picar con una cosa con punta; perforar; picotear",
+  "definitionDialect": "",
+  "additional_text": "VTD Kiinxoroh Var Woorik Raíz VT Xot",
+  "examples": [
+    {
+      "example_maya": "Li chʼok tajin kuxor li taraʼs",
+      "example_spa": "El zanate está picoteando el durazno",
+      "dialect": null
+    }
+  ],
+  "uuid": "991cc332-1070-43a7-8647-fb6894f3c692"
+}

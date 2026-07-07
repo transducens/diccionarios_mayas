@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ajxibʼiribʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Ajxibʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona miedosa",
+  "definitionDialect": "General",
+  "additional_text": "SAgen Sinón Ajxiibʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih, sibʼalaj ajxibʼiribʼ",
+      "example_spa": "La muchacha es muy miedosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal sibʼalaj ajxibʼ chwach li ajkun",
+      "example_spa": "El niño es muy miedoso ante el enfermero",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e392287-a585-42aa-99ca-76c967dd6cdf"
+}

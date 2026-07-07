@@ -1,0 +1,19 @@
+{
+  "entryWord": "Likʼikʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse como tela tendida",
+  "definitionDialect": "General",
+  "additional_text": "vi Kalikʼikʼlabʼik Raíz VT Likʼ",
+  "examples": [
+    {
+      "example_maya": "Li ukap li tekum pa konkist sibʼalaj kalikʼikʼlabik are taq kaxojowik",
+      "example_spa": "La capa de Tecún en el baile de la conquista, se mueve mucho al bailar",
+      "dialect": null
+    }
+  ],
+  "uuid": "917e6957-1f53-4a6f-9fc0-d58608d8b0c9"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzalanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtzaliʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutzalabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Acostado de lado, o de canto",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Li akʼal are taq xqʼoyiʼk xa xtzaliʼk",
+      "example_spa": "Cuando el niño se acostó se puso de lado",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed47a91d-24cc-4639-8159-87b1173b0d43"
+}

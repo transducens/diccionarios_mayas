@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wirwotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawirwotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correr persona de poca estatura; caminar persona baja",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Wir",
+  "examples": [
+    {
+      "example_maya": "Li achih, kawirwotik, xbʼe pa kʼamoj joron",
+      "example_spa": "El hombre bajo fue corriendo a traer agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6c2b6e8-2c32-47dd-b450-a669015aeaca"
+}

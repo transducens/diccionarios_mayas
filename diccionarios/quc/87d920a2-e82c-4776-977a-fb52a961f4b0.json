@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pirpichyoʼk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pájaro de color beige como del tamaño del cenzontle",
+  "definitionDialect": "General",
+  "additional_text": "snP Var Pichʼolol DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li pirpichyoʼk kikikʼot awex",
+      "example_spa": "Estos pájaros escarban la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "87d920a2-e82c-4776-977a-fb52a961f4b0"
+}

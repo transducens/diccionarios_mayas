@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xyabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxyabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Peine",
+  "definitionDialect": "Dom.S. Chokonisa'n.",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li xyabʼ kachokon cheh xiybʼal wiʼaj",
+      "example_spa": "El peine se usa para peinarse el cabello",
+      "dialect": null
+    }
+  ],
+  "uuid": "3034c0d7-4514-443c-87ba-2d95bdb8cb12"
+}

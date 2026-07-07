@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jas cheh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Por qué?",
+  "definitionDialect": "",
+  "additional_text": "Interr",
+  "examples": [
+    {
+      "example_maya": "Jas cheh xok li achih pa cheʼ?",
+      "example_spa": "¿Por qué se fue el hombre a la cárcel?",
+      "dialect": null
+    }
+  ],
+  "uuid": "0090052f-3998-49c8-9f01-0fa0a58f14a3"
+}

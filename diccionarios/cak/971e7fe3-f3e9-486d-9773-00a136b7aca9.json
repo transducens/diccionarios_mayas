@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xérka",
+  "definition": "Jerga",
+  "additional_text": "sInv Nuxérka Tzyäq",
+  "examples": [
+    {
+      "example_maya": "Taq rubʼanun kan konojel bʼa ri achiʼaʼ nikikusaj kixérka, wakamin jujun chik ök",
+      "example_spa": "Anteriormente casi todos los hombres usaban sus jergas, ahora ya muy pocos las usan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rubʼonil ri xerka säq qäq",
+      "example_spa": "El color de la Jerga es negro o blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "971e7fe3-f3e9-486d-9773-00a136b7aca9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

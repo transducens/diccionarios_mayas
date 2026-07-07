@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pix",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupix",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomate",
+  "definitionDialect": "",
+  "additional_text": "scv var Ixim pix var Miltomaat Raíz S Pix DomS Rikiil DomS Kunabʼal",
+  "examples": [
+    {
+      "example_maya": "Li pix kayuj rukʼ ikʼ kachokon che rikil",
+      "example_spa": "El tomate se mezcla con chile y se usa como comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pix utz che kʼatik",
+      "example_spa": "El tomate es bueno para quemaduras",
+      "dialect": null
+    }
+  ],
+  "uuid": "22a7e37d-4151-45e9-b3f1-8bc3a986d522"
+}

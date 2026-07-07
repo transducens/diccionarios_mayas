@@ -1,0 +1,23 @@
+{
+  "entryWord": "XLEQʼLAJ KYAʼJ",
+  "definition": "relámpago que se ve a lo lejos sin haber lluvia",
+  "additional_text": "scl raíz kyaʼj s",
+  "examples": [
+    {
+      "example_maya": "Aj xleqʼlaj kyaʼj a njatz tuj mar",
+      "example_spa": "El relámpago sale del mar",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Oʼkx at xleqʼlaj kyaʼj qonikyʼan",
+      "example_spa": "El relámpago sólo se ve en la noche",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "6b5adee0-e250-453d-a497-b600369d8797",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rakik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Terminar la última parte del tejido; escarbar tierra con patas o garras",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinrakoh Sinón Roochik Sinón Rookik Var Raakʼik Raíz VT Rak",
+  "examples": [
+    {
+      "example_maya": "Li alih kʼa te xurak li ukem kamik",
+      "example_spa": "Hasta hoy terminó la muchacha la última parte de su tejido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼ xurak li ijaʼ",
+      "example_spa": "La gallina escarbó las semillas",
+      "dialect": null
+    }
+  ],
+  "uuid": "9cd29325-f719-4621-bd0f-e113ad04fd83"
+}

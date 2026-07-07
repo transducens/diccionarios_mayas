@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muqulik sutzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Neblina",
+  "definitionDialect": "",
+  "additional_text": "PS Raíz P Muq Raíz S Suutzʼ",
+  "examples": [
+    {
+      "example_maya": "Li kaj na kaʼilitaj ta rumal li muqulik sutzʼ",
+      "example_spa": "El cielo no se ve por la neblina",
+      "dialect": null
+    }
+  ],
+  "uuid": "15f4ca76-fb5f-462d-8559-38028b7e52e6"
+}

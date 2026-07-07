@@ -1,0 +1,29 @@
+{
+  "entryWord": "Solik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsoloh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enrollar hilo; desenrollar hilo; deshilar; hacer preguntas al Sacerdote Maya; adivinar",
+  "definitionDialect": "",
+  "additional_text": "VTR Raíz VT Sol",
+  "examples": [
+    {
+      "example_maya": "Kinsol na li chij ma xa kinkojoh",
+      "example_spa": "Tengo que desenrollar el hilo porque lo voy a usar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajqʼij tajin kusol rij li yabʼil kʼo che li achih",
+      "example_spa": "El Sacerdote maya está adivinando la causa de la enfermedad que tiene el hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinsol na rij li walkʼuʼal rukʼ ajqʼij ma xaq katajinik kayawajik",
+      "example_spa": "Voy a preguntarle al Sacerdote Maya por qué mi hijo se enferma a cada poco",
+      "dialect": null
+    }
+  ],
+  "uuid": "96c62216-9622-423a-97b8-bd56410f009c"
+}

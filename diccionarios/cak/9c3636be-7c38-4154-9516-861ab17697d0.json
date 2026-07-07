@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yalan",
+  "definition": "Mucho, muy, bien",
+  "additional_text": "AdvC Sinón Janíla, janina var Kʼïy Sinón Jebʼel var Sibʼiläj",
+  "examples": [
+    {
+      "example_maya": "Yalan xkiyalöj pe chi racho nataʼ",
+      "example_spa": "Me dilataré mucho en la casa de mi papá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan näj ri pa Saq Ulew",
+      "example_spa": "Es muy lejos Huehuetenango",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan xchapon ri nataʼ chwe",
+      "example_spa": "Me regañó mucho mi papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c3636be-7c38-4154-9516-861ab17697d0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

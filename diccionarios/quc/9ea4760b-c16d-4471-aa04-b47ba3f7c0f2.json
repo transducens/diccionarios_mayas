@@ -1,0 +1,24 @@
+{
+  "entryWord": "Waraxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Velar; poner en guardia; trasnochar; cuidar; vigilar; vigilar durante la noche",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinwaraaj DomS Waraam",
+  "examples": [
+    {
+      "example_maya": "Kinwaraj na kamnaq chaqʼabʼ kamik",
+      "example_spa": "Voy a ir al velorio esta noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kewarax li pres pa li kars kumal li pulusiyabʼ",
+      "example_spa": "Los policías vigilan a los presos en la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ea4760b-c16d-4471-aa04-b47ba3f7c0f2"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "AYANTOON",
+  "definition": "allantón (caserío del Papal Ixtahuacán)",
+  "additional_text": "tp",
+  "examples": [
+    {
+      "example_maya": "Maʼ kyim jun xjal ma Ayanton",
+      "example_spa": "Ya se murió una persona en el caserío Allantón",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "6a8db388-6ac8-4ebd-9e77-e8e4c76cf0d9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

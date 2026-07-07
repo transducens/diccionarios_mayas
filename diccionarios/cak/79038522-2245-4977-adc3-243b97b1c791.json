@@ -1,0 +1,23 @@
+{
+  "entryWord": "Taqonïk",
+  "definition": "Mandar a alguien para hacer un mandado",
+  "additional_text": "vT Taqoxik, (taqik), nintäq Ajtaqoʼn Persona que hace mandados, mandaderos Täq",
+  "examples": [
+    {
+      "example_maya": "Chwaʼq nintäq rubʼixik chi niloqʼ pe jun nukamixaʼ",
+      "example_spa": "Mañana voy a mandar a decir que me compren una camisa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xintäq el ri jun nuwuj armíta, kʼa runaj xbʼeʼapon",
+      "example_spa": "Cuando mandé una carta a la capital, llegó muy tarde",
+      "dialect": null
+    }
+  ],
+  "uuid": "79038522-2245-4977-adc3-243b97b1c791",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

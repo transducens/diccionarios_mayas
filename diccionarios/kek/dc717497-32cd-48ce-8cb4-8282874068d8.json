@@ -1,0 +1,18 @@
+{
+  "entryWord": "Max",
+  "definition": "Polilla, mico, pozol, polvo de maíz al comérselo los gorgojos",
+  "additional_text": "sInv Inmax",
+  "examples": [
+    {
+      "example_maya": "Xtaweʼ xbʼaan max li kenqʼ li wan saʼ rix",
+      "example_spa": "El frijol que está en vaina comenzó a picarse por la polilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc717497-32cd-48ce-8cb4-8282874068d8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

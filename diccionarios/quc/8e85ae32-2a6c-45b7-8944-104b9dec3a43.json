@@ -1,0 +1,29 @@
+{
+  "entryWord": "Oxʼox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "De tres en tres",
+  "definitionDialect": "",
+  "additional_text": "NumOrd Raíz N Ox",
+  "examples": [
+    {
+      "example_maya": "Chʼoxʼox junabʼ xeʼl bʼik",
+      "example_spa": "Cada tres años, salen de tres en tres",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chiʼoxʼox junabʼ",
+      "example_spa": "Cada tres años",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chiʼoxʼox junabʼ are juwinnaq bʼelejebʼ rajilabʼalil likʼ febrer\"",
+      "example_spa": "Después de cada tres años hay un año bisiesto",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e85ae32-2a6c-45b7-8944-104b9dec3a43"
+}

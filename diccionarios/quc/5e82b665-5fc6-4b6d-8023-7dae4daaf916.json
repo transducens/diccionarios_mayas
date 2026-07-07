@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xkoqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arco iris",
+  "definitionDialect": "",
+  "additional_text": "snP var Xkuqʼaabʼ",
+  "examples": [
+    {
+      "example_maya": "Li xkoqʼabʼ kʼo kʼih ukaʼybʼal",
+      "example_spa": "El arcoiris tiene muchos colores",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xkoqʼabʼ are li utun li qʼij kabʼanowik",
+      "example_spa": "El arco iris es causado por los rayos del sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e82b665-5fc6-4b6d-8023-7dae4daaf916"
+}

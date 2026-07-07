@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzatzlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapatzatzlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar haciendo ruido entre pajón o hierbas",
+  "definitionDialect": "",
+  "additional_text": "vI",
+  "examples": [
+    {
+      "example_maya": "Li masat kapatzatzlabʼ pa li qʼayes",
+      "example_spa": "El venado hace ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "b0bd40ff-b4cf-4884-bd8d-f3bffe141f0d"
+}

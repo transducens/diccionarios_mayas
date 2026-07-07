@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rapinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Levantar las patas delanteras; galopada",
+  "definitionDialect": "",
+  "additional_text": "vi Karapinik",
+  "examples": [
+    {
+      "example_maya": "Are taq xchʼay li kej xrapin chikaj",
+      "example_spa": "Cuando le pegaron al caballo, levantó las patas delanteras",
+      "dialect": null
+    }
+  ],
+  "uuid": "febb4fd7-ca8c-47e1-a29d-e76cf9421708"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Saqʼul",
+  "definition": "Banano, guineo",
+  "additional_text": "sInv Nusaqʼul Munibʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri saqʼul majun nel ta ri pa tewtöj taq ulew",
+      "example_spa": "El banano no se da en lugares fríos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri saqʼul ruyon pa täq taqʼaj nitik wi",
+      "example_spa": "El guineo se siembra en las costas",
+      "dialect": null
+    }
+  ],
+  "uuid": "3fe3296d-2df6-4621-8e2e-24c3b2b7fe22",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

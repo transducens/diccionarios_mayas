@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼolaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Qʼeʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trozo; tablón",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼoolaaj Fbas //Bʼohlaaj// Raíz P Bʼol",
+  "examples": [
+    {
+      "example_maya": "Li kamyon rukʼaʼm bʼi kʼi bʼolaj",
+      "example_spa": "El camión lleva muchos trozos de madera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sbʼoʼy chwi nimaq taq bʼolaj tikom wih",
+      "example_spa": "Las cebollas están sembradas sobre los tablones",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c847558-af35-444e-aab2-4c114058484a"
+}

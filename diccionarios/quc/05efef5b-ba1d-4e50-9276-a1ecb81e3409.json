@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wukixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwukij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Somatar cosas casi redondas, como rodillas, cabezas, etc; tirar cosas casi redondas",
+  "definitionDialect": "",
+  "additional_text": "vtd Raiz P Wuk",
+  "examples": [
+    {
+      "example_maya": "Li kebʼ akʼalabʼ xuwukij ribʼ li kijolom",
+      "example_spa": "Los dos niños se somataron las cabezas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwukij na li nujolom rukʼ li ujolom li wachiʼil",
+      "example_spa": "Me somaté la cabeza con la de mi compañero",
+      "dialect": null
+    }
+  ],
+  "uuid": "05efef5b-ba1d-4e50-9276-a1ecb81e3409"
+}

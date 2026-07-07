@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kuutink",
+  "definition": "Atrancar, apuntalar, acuñar, tirar una vez rápidamente",
+  "additional_text": "VTD Xinkuuti",
+  "examples": [
+    {
+      "example_maya": "Xinkuuti rix li re kabʼl xbʼaan naq yo iqʼ",
+      "example_spa": "Atranqué la puerta porque estaba corriendo mucho aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkuuti li wochoch re naq inkʼaʼ tʼaneʼq xbʼaan li iqʼ",
+      "example_spa": "Apuntalé mi casa para que no se cayera por el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f36128c-97c0-4e96-9ff9-5e207f470fad",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

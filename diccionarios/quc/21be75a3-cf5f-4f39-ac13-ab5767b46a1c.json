@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yujik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyujuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mezclar, disolver",
+  "definitionDialect": "",
+  "additional_text": "vtr Var Yujaʼxik Raíz VT Yuj",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal kaxlanwah tajin kuyuj li chʼam rukʼ li kʼaj",
+      "example_spa": "El panadero está mezclando la levadura con la harina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajwanil tajin kuyuj li mixkʼol taq abʼaj rukʼ li kʼajabʼaj",
+      "example_spa": "El albañil está mezclando el piedrín con el cemento",
+      "dialect": null
+    }
+  ],
+  "uuid": "21be75a3-cf5f-4f39-ac13-ab5767b46a1c"
+}

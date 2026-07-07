@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paʼäl",
+  "definition": "Parado cesado, paralizado, suspendido",
+  "additional_text": "p Xpaʼeʼ, xupabʼaʼ var Chakʼäl, pichïl var Tanäl, chamäl, kʼojlem, paʼ",
+  "examples": [
+    {
+      "example_maya": "Ri akʼwal paʼäl pa muj",
+      "example_spa": "El niño está parado en la sombra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chöj paʼäl ri samaj wakamin",
+      "example_spa": "Ahora está suspendida la construcción",
+      "dialect": null
+    }
+  ],
+  "uuid": "e489cc95-fa72-4e60-ab8a-dd4105ad45db",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

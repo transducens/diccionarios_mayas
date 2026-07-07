@@ -1,0 +1,23 @@
+{
+  "entryWord": "Raxrax",
+  "definition": "Muy verde, morado, azul",
+  "additional_text": "Adj Xraxraxoʼ, xraxraxil",
+  "examples": [
+    {
+      "example_maya": "Raxrax xkana xbʼonol li ochoch",
+      "example_spa": "Muy verde quedó el color de la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Raxrax ru insaʼ xchʼuy li kamenaq",
+      "example_spa": "Tengo morado el estómago porque me pellizcó el muerto",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d8be822-921f-4633-849d-2d6f4aaed5db",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

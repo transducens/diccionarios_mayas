@@ -1,0 +1,44 @@
+{
+  "entryWord": "Kʼa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aún; todavía; hasta",
+  "definitionDialect": "",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Kamik kʼa kuporoj ribʼ li xkanul chunaqaj Xelajuʼ",
+      "example_spa": "Aún está haciendo erupción el volcán, cerca de Quezaltenango",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nima bʼeh kʼa ajsik pwi li juyubʼ kaqʼatan wih",
+      "example_spa": "La carretera pasa hasta arriba de la montaña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa atamoq xulik",
+      "example_spa": "Todavía era temprano cuando llegó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa toʼqa chinuloq are taq xuchap jabʼ",
+      "example_spa": "Apenas había llegado cuando comenzó a llover",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kʼa tew ma kʼa nimaqʼabʼ",
+      "example_spa": "Está muy frío porque es temprano todavía",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa chweʼq chik kinpetik",
+      "example_spa": "Hasta mañana voy a venir",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce3377b8-beb0-4599-9e7e-3ff46be04b93"
+}

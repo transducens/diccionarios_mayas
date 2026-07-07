@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nukʼbʼal qʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunukʼbʼal qʼaqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "nukʼbʼal nuqʼaaqʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Cocina; fogón",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li nukʼbʼal qʼaqʼ chikaj kʼo wih",
+      "example_spa": "El fogón está en alto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li nukʼbʼal qʼaqʼ kabʼan wi li wah",
+      "example_spa": "En la cocina se hace la comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e12955d-ad2e-479a-a38f-cc2b8bae37ca"
+}

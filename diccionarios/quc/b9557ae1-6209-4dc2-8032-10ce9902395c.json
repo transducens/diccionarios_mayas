@@ -1,0 +1,19 @@
+{
+  "entryWord": "Parpoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio blanca: tipo de tela",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li koxtar na qas ta paqal rajil ma xa sin parpoj",
+      "example_spa": "La rodillera no es tan cara porque no tiene buen color",
+      "dialect": null
+    }
+  ],
+  "uuid": "b9557ae1-6209-4dc2-8032-10ce9902395c"
+}

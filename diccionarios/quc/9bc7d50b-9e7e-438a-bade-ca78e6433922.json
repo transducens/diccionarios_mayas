@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼax kakaʼyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Feo; chueco",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Li jun jah kʼax kakaʼyik, na utz ta xbʼan che kumal li wokol taq rech",
+      "example_spa": "La casa salió chueca por la mala construcción de los albañiles",
+      "dialect": null
+    }
+  ],
+  "uuid": "9bc7d50b-9e7e-438a-bade-ca78e6433922"
+}

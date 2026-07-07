@@ -1,0 +1,24 @@
+{
+  "entryWord": "Subʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Akitamal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Wah",
+  "altEntryWordDialect2": null,
+  "definition": "Tamalito de masa",
+  "definitionDialect": "general",
+  "additional_text": "scv Nusuubʼ Raiz S Subʼ DomS",
+  "examples": [
+    {
+      "example_maya": "Li nunan xubʼan subʼ chech li qʼor",
+      "example_spa": "Mi mamá hizo tamales de masa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li subʼ sibʼalaj kʼokʼ pa li uxaq bʼiloj",
+      "example_spa": "El tamal es muy sabroso en hoja de milpa tierna",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7131bc6-6460-445e-9414-b3fa15915d13"
+}

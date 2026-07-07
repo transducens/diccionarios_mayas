@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kachʼin roq",
+  "definition": "Corto, bajo, pequeño sólo para cosas que tienen patas o que son delgadas",
+  "additional_text": "Adj Xkachʼinoʼ roq, xkachʼinal roq",
+  "examples": [
+    {
+      "example_maya": "Li cheʼ aʼan jwal kachʼin roq",
+      "example_spa": "Ese palo es muy corto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xkachʼinoʼ roq inlaaps",
+      "example_spa": "Mi palo quedó muy corto",
+      "dialect": null
+    }
+  ],
+  "uuid": "d54b3ce0-357f-4eca-819b-080d5519162e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

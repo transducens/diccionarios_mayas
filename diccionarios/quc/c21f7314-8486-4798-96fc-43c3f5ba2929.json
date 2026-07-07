@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tekum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tecún Umán en el baile de la conquista",
+  "definitionDialect": "Dom.S. Ajxojolob'.",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li Tekum are kakamsax rumal li Alwarad pa chʼaʼoj",
+      "example_spa": "Tecún es matado por Alvarado en la batalla",
+      "dialect": null
+    }
+  ],
+  "uuid": "c21f7314-8486-4798-96fc-43c3f5ba2929"
+}

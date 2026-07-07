@@ -1,0 +1,34 @@
+{
+  "entryWord": "Xiyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Peinar personas o caballos; llamar la atención a una persona; cardar lana o algodón",
+  "definitionDialect": "",
+  "additional_text": "vtr Kiinxiyoh Raíz VT Xiy",
+  "examples": [
+    {
+      "example_maya": "Li bʼaker tajin kuxiy rij li kej",
+      "example_spa": "El vaquero está peinando el pelaje del caballo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih, tajin kuxiy uwiʼ, ma kabʼe pa nimaqʼij",
+      "example_spa": "La muchacha está peinándose porque irá a la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq sibʼalaj kaxiy pa qʼatbʼal tzij ma xa kubʼan ajal tzijol",
+      "example_spa": "Le están llamando la atención a la mujer en el juzgado porque es calumniadora",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajyuqʼ, lanah kuxiy cheh kalax",
+      "example_spa": "El pastor está cardando lana",
+      "dialect": null
+    }
+  ],
+  "uuid": "36e51d39-21d4-4366-a3dd-8f54de23beae"
+}

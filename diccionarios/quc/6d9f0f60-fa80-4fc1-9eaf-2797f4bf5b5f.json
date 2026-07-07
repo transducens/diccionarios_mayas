@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jucharaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cosa rolliza y larga, como cola, carne para asar, cordón, etc",
+  "definitionDialect": "",
+  "additional_text": "Enu Sinón Juroqaaj Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xubʼol jucharaj tiʼij chwa li qʼaqʼ",
+      "example_spa": "La mujer asó un pedazo de carne en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "6d9f0f60-fa80-4fc1-9eaf-2797f4bf5b5f"
+}

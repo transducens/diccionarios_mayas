@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paʼ",
+  "definition": "Papá",
+  "additional_text": "SInv Inpaʼ Sinón Yuwaʼ",
+  "examples": [
+    {
+      "example_maya": "Toqʼobʼ ru inpaʼ xkʼat saʼ re xmaak naq tiq li kape",
+      "example_spa": "Pobre mi papá, se quemó la boca porque el café está caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inpaʼ nakʼayin chakach saʼ kʼayiil",
+      "example_spa": "Mi papá vende canastos en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc4b35c9-0cfe-4186-8614-c59edced50ed",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

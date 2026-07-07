@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzajajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido una cosa caliente al echarle agua",
+  "definitionDialect": "",
+  "additional_text": "vi Katzajajik Raíz vi Tzaj",
+  "examples": [
+    {
+      "example_maya": "We sibʼalaj kʼatan junabʼaj, kʼa te kʼu riʼ katix joron chrij sibʼalaj katzajajik",
+      "example_spa": "Si una piedra está bien caliente, al echarle agua hace ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f281d80-ac53-4381-85df-f27ef988f050"
+}

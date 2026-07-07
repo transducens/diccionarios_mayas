@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Planta silvestre parecida a la pacaya; hoja de esta planta que se usa como adorno",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nukʼiibʼ DomS Wiqobʼal",
+  "examples": [
+    {
+      "example_maya": "Li kʼibʼ kachokon che wiqobʼal pa taq alaxbʼal chiʼl pa taq awasqʼij",
+      "example_spa": "La hoja de esta planta se usa como adorno en la Navidad y Semana Santa",
+      "dialect": null
+    }
+  ],
+  "uuid": "57e01dca-d71b-4bd7-b83f-93f744599928"
+}

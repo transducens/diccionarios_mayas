@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tobʼanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ayuda; colaboración",
+  "definitionDialect": "",
+  "additional_text": "sv",
+  "examples": [
+    {
+      "example_maya": "Ee kʼih winaq xkiya kitobʼanik chech ukojik li jaʼ",
+      "example_spa": "Mucha gente dio colaboración para la introducción del agua potable",
+      "dialect": null
+    }
+  ],
+  "uuid": "cede3cf9-977b-47a5-ba1b-c74c9e88abd5"
+}

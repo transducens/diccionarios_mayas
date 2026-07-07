@@ -1,0 +1,34 @@
+{
+  "entryWord": "Torik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintoroh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abrir; destapar; dejar libre o salir",
+  "definitionDialect": "",
+  "additional_text": "vtr Coment Abrir para dejar salir lo que está adentro, como destapar lata, abrir chorro, abrir puerta o caja sv Toronik Sacar ovejas y llevarlas a pastar Var Jaaqik Raíz VT Tor",
+  "examples": [
+    {
+      "example_maya": "Kintor li kaxah cheh li laweh",
+      "example_spa": "Voy a abrir el cofre con la llave",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li elaqʼom karaj kutor li kaxah",
+      "example_spa": "El ladrón quiere abrir el cofre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajkʼay karaj kutor le chapbʼal animah",
+      "example_spa": "El tendero quiere destapar el jugo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li mayor kutor li pres kʼo pa koʼk",
+      "example_spa": "El mayor va a dejar libre al preso",
+      "dialect": null
+    }
+  ],
+  "uuid": "a84fbbfc-5e57-4ce2-b2c2-0bd0dd4ccf6d"
+}

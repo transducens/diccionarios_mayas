@@ -1,0 +1,18 @@
+{
+  "entryWord": "MES",
+  "definition": "si",
+  "additional_text": "pad raíz mes par",
+  "examples": [
+    {
+      "example_maya": "Mes inkabʼana tuʼn tlaj qʼeʼn",
+      "example_spa": "Si me lastimé por culpa del trago",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "6a031975-87f6-4f14-95a4-b9eb3ccea047",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

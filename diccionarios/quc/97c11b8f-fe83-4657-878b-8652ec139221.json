@@ -1,0 +1,24 @@
+{
+  "entryWord": "Erexik",
+  "entryWordDialect": null,
+  "altEntryWord": "erexik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acarrear",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinweereej",
+  "examples": [
+    {
+      "example_maya": "Kinwerej na joron chanim",
+      "example_spa": "Voy a acarrear agua ahorita",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir xinwerej siʼ",
+      "example_spa": "Ayer acareé leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "97c11b8f-fe83-4657-878b-8652ec139221"
+}

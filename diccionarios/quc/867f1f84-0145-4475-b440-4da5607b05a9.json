@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼoxom",
+  "entryWordDialect": null,
+  "altEntryWord": "Nubʼoxom",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja de pacaya",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li uxaq bʼoxom utz chech wiqobʼal",
+      "example_spa": "En Semana Santa se adorna con hoja de pacaya",
+      "dialect": null
+    }
+  ],
+  "uuid": "867f1f84-0145-4475-b440-4da5607b05a9"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Michʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Numichʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deshierbo",
+  "definitionDialect": "",
+  "additional_text": "sInv SAgent Ajmiichʼ Hombre que hace deshierbo Raíz S Michʼ",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ tajin kakibʼan kimichʼ pa li trikoh",
+      "example_spa": "Los hombres están haciendo el deshierbo en el trigal",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b7cf05c-a8c1-49a8-a9c6-7f726530b3ac"
+}

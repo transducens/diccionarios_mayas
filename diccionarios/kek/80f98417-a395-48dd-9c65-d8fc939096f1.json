@@ -1,0 +1,23 @@
+{
+  "entryWord": "Siqʼok",
+  "definition": "Torcer",
+  "additional_text": "VTR Xinsiqʼ",
+  "examples": [
+    {
+      "example_maya": "Xinsiqʼ ruʼuj wuqʼ naq xintʼaneʼ",
+      "example_spa": "Cuando me caí, me torci los dedos",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Qasiqʼaq ruʼuj li alampr?",
+      "example_spa": "¿Torcemos la punta del alambre?",
+      "dialect": null
+    }
+  ],
+  "uuid": "80f98417-a395-48dd-9c65-d8fc939096f1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

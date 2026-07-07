@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼupik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar hojas con las puntas de los dedos; cortar frutas con la mano",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinchʼupuh P Chʼupulik Fácil de cortar vtd Chʼupupexiik Cortar todo vtd Chʼupixiik Cortar fruta con la mano ClasNum Juchʼuup Cortar un pedazo con la mano Raiz VT Chʼup",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom xuʼchʼupij li qʼana ankineʼy",
+      "example_spa": "El ladrón cortó los guineos maduros",
+      "dialect": null
+    }
+  ],
+  "uuid": "de5fe3e7-5123-4fd2-a51c-a701c73cfdff"
+}

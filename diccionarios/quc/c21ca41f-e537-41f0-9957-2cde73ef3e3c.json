@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juxim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una amarrada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Xiim",
+  "examples": [
+    {
+      "example_maya": "Li al Mariʼy xa juxim xuya cheh li upas li alaj a Xwan xuʼpam",
+      "example_spa": "María le dio una amarrada a la toga en la cintura de Juanito",
+      "dialect": null
+    }
+  ],
+  "uuid": "c21ca41f-e537-41f0-9957-2cde73ef3e3c"
+}

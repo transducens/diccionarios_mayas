@@ -1,0 +1,33 @@
+{
+  "entryWord": "Kʼo",
+  "definition": "Estar, existir, haber, tener, es irregular porque la primera forma del posicional no sale",
+  "additional_text": "p Xkʼojeʼ(xkʼujeʼ) var Kʼoj, kʼojlem",
+  "examples": [
+    {
+      "example_maya": "Taq xikʼojeʼ pa juyuʼ janíla tikʼasäs xinnaʼ",
+      "example_spa": "Cuando estuve en el monte me sentí muy contento",
+      "dialect": null
+    },
+    {
+      "example_maya": "Re junaʼ re kʼo janíla janina jöbʼ",
+      "example_spa": "Este año hay mucha lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿La kʼo ri ma Chepe?",
+      "example_spa": "¿Está don José?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ajaw xtikʼoje awikʼin",
+      "example_spa": "Dios esté con usted",
+      "dialect": null
+    }
+  ],
+  "uuid": "3dfd8591-e5ef-4bc7-aa82-a282519074a4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

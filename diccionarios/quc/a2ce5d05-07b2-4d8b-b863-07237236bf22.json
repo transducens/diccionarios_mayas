@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pejixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpejij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar con cosa ancha (tabla, lado ancho de machete o regla)",
+  "definitionDialect": "General",
+  "additional_text": "vTD Raíz VT Pej",
+  "examples": [
+    {
+      "example_maya": "Li ajtij xupejij li akʼal che jun reglʼ",
+      "example_spa": "El maestro le pegó al niño con una regla",
+      "dialect": null
+    }
+  ],
+  "uuid": "a2ce5d05-07b2-4d8b-b863-07237236bf22"
+}

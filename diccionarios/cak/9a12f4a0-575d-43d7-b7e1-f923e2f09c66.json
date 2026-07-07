@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼij",
+  "definition": "Día, sol, zodiaco En la cultura maya se le llama \"padre sol\"",
+  "additional_text": "sP",
+  "examples": [
+    {
+      "example_maya": "Ri winäq ronojel qʼij yewaʼ",
+      "example_spa": "Las personas comen todos los días",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq ri qʼij nel pe, nusaqirisaj ri ruwachʼulew",
+      "example_spa": "Cuando el sol sale, alumbra la tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a12f4a0-575d-43d7-b7e1-f923e2f09c66",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

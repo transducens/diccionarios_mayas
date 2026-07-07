@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xaqʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Destripado; apachado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Xaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li prut xux xaqʼaqʼ ma xel uwiʼ uchaqʼal",
+      "example_spa": "El banano se destripó porque se pasó de maduro",
+      "dialect": null
+    }
+  ],
+  "uuid": "9dc474f4-8d71-4fc6-aee0-d35ef4c0be9f"
+}

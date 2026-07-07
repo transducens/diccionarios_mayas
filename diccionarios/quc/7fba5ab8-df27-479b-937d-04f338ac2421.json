@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼutzkutixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonar telas, trapos y otras cosas suaves; patear",
+  "definitionDialect": "general",
+  "additional_text": "VTD Kinbʼutzkutiij Raíz P Bʼutz",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xubʼutzkutij kan li uqʼuʼ pa li chʼat",
+      "example_spa": "El niño dejó amontonada su chamarra en la cama",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinbʼutzkutij na li achih che aqan ma xinuyoqʼoh",
+      "example_spa": "Tengo que patear al hombre porque me insultó",
+      "dialect": null
+    }
+  ],
+  "uuid": "7fba5ab8-df27-479b-937d-04f338ac2421"
+}

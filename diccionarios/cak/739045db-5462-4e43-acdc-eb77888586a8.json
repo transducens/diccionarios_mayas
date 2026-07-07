@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xul",
+  "definition": "Chirimía, flauta, pito esófago",
+  "additional_text": "sinv Nuxul Qʼojom, chʼakulaj",
+  "examples": [
+    {
+      "example_maya": "Ri xul ja riʼ ri kiqʼojom rí ojer täq winäq",
+      "example_spa": "La chirimía fue instrumento musical de los antiguos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xul jun qʼojom yalan xokusäsax taq rubʼanun kan",
+      "example_spa": "La flauta es un instrumento que se usó mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "739045db-5462-4e43-acdc-eb77888586a8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

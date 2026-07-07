@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choqʼkoʼrem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachoqʼkoʼrik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hervir",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz VT Choqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kapeh sibʼalaj kachoqʼkoʼr chwa li qʼaq",
+      "example_spa": "El café está hirviendo mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "19e1ff26-964f-42d9-a981-f3e36fc826b2"
+}

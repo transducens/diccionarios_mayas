@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tukr (tukur)",
+  "definition": "Tecolote, buho",
+  "additional_text": "SInv Nutukr, (nutukur) Aj xikʼanel",
+  "examples": [
+    {
+      "example_maya": "Nibʼïx chi, nichʼoʼn ri tukr chi anaqaj, kʼo nuyaʼ retal",
+      "example_spa": "Dicen que cuando el tecolote canta cerca de uno, da alguna señal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tukr jun ajxikʼ chiköp ajchaqʼaʼ",
+      "example_spa": "El tecolote es un ave nocturna",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1d40e72-2a39-4115-b705-ae315ad586b8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

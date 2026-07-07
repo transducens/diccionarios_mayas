@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzajtzobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzajtzobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido una sola vez cosas calientes al echarles agua",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz vi Tzaj",
+  "examples": [
+    {
+      "example_maya": "Li rachaq qʼaqʼ we katix joron chrij katzajtzobʼik",
+      "example_spa": "Al echarle agua a las brasas hacen ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "66e0fc1c-537f-4e4b-8e26-b0ea94884342"
+}

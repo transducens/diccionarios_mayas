@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sakitan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ronrón",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li sakitan pa taq jabʼ kexikʼikʼlabʼik",
+      "example_spa": "Los ronrones se reproducen en la época de invierno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sakitan kakichup li qʼaqʼ, qʼakoʼj staʼq li kij",
+      "example_spa": "Los ronrones apagan la luz, son de color algo café",
+      "dialect": null
+    }
+  ],
+  "uuid": "d933deb8-ae18-4e13-8fec-5346217ba983"
+}

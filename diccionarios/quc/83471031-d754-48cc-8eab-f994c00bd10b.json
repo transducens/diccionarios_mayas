@@ -1,0 +1,19 @@
+{
+  "entryWord": "Makʼakʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamakʼakʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir mucho trigo, hierbas o verduras a flor de tierra",
+  "definitionDialect": "general",
+  "additional_text": "v I Raíz VI Makʼ",
+  "examples": [
+    {
+      "example_maya": "Li qʼayes kamakʼakʼik petnaq pa li tikoʼn",
+      "example_spa": "Las hierbas están saliendo entre las siembras",
+      "dialect": null
+    }
+  ],
+  "uuid": "83471031-d754-48cc-8eab-f994c00bd10b"
+}

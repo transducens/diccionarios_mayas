@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼatebʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escudo; pared; fortaleza; taparrabo Barrera; Taparrabo",
+  "definitionDialect": "General",
+  "additional_text": "scv Nuqʼaatebʼaal Raiz S Qʼat",
+  "examples": [
+    {
+      "example_maya": "Ri tekum umam ojer kʼo uqʼatebʼal kutoʼbʼej ribʼ pa chʼaʼoj",
+      "example_spa": "Tecún Umán tenía escudo para defenderse en la guerra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li roʼch li nima qʼatal tzij sutinnaq li qʼatebʼal chirij",
+      "example_spa": "La casa del presidente está rodeada de una fortaleza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri winaq ojer tzij maj katzʼyaq xew\" kiqʼatebʼal kakikojoh",
+      "example_spa": "La gente antigua no tenía vestido, sólo usaba taparrabo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6e6910ad-ec4a-409f-a361-1990ac9e5320"
+}

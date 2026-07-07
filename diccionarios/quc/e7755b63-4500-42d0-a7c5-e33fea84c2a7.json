@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tojojexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintojojej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regar mucha agua; derramar mucho; echar",
+  "definitionDialect": "Spanish",
+  "additional_text": "vtd Raiz VT Toj",
+  "examples": [
+    {
+      "example_maya": "Li albʼatz xutojojej li jaʼ pa jah",
+      "example_spa": "La nuera regó el agua en la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e7755b63-4500-42d0-a7c5-e33fea84c2a7"
+}

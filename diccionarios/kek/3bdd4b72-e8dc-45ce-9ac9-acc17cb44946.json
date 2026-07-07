@@ -1,0 +1,28 @@
+{
+  "entryWord": "Ani aj e",
+  "definition": "¿A quién?, ¿para quién?, ¿de quién?",
+  "additional_text": "Finterr",
+  "examples": [
+    {
+      "example_maya": "¿Ani aj e li poʼot xaloqʼ?",
+      "example_spa": "¿Para quién es el güipil que compró?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Ani aj e xaye?",
+      "example_spa": "¿A quién se lo dijiste?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Ani aj e li tzʼiibʼlebʼ aʼin?",
+      "example_spa": "¿De quién es este lápiz?",
+      "dialect": null
+    }
+  ],
+  "uuid": "3bdd4b72-e8dc-45ce-9ac9-acc17cb44946",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

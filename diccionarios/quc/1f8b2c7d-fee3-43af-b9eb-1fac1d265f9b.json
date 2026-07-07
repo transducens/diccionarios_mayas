@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tanalajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katanalajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar a tientas como ciego",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz PT Tan",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq katanalaj kabʼinik, ma xa chʼuqum li uwach",
+      "example_spa": "El niño anda a tientas, porque le han vendido los ojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f8b2c7d-fee3-43af-b9eb-1fac1d265f9b"
+}

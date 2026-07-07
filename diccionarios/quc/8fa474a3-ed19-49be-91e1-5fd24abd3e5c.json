@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wonolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tinaja vacía; viudo; huérfano; solo: personas, animales o cosas no muy altas y generalmente redondas (casa, piedra, trasto, pelota, etc)",
+  "definitionDialect": "",
+  "additional_text": "p Xwoniʼk, xuwonobʼaʼ Raíz P Won",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xwoniʼ kanoq ma xa xkam li rachajil",
+      "example_spa": "La mujer se quedó sólita porque se murió el marido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih, xuwonobʼa kan li uqʼebʼal chij li pilah",
+      "example_spa": "La muchacha dejó la tinaja sola atrás de la pila",
+      "dialect": null
+    }
+  ],
+  "uuid": "8fa474a3-ed19-49be-91e1-5fd24abd3e5c"
+}

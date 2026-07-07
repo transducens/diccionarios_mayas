@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼinixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchʼinij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar campanilla, tocar campanilla",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raíz VT Chʼin",
+  "examples": [
+    {
+      "example_maya": "Kinchʼinij li kampaniʼl che jun laj cheʼ",
+      "example_spa": "El niño tocó la campanilla con un palito",
+      "dialect": null
+    }
+  ],
+  "uuid": "4fbc1ab2-e226-444c-ad15-206f2339e50c"
+}

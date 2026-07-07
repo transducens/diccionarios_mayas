@@ -1,0 +1,28 @@
+{
+  "entryWord": "Jotöl",
+  "definition": "Subido, elevado, caro",
+  "additional_text": "p Xjoteʼ, xujotobʼaʼ Jotolen Subida, altura Pa jotol Norte, arriba Kʼojlen",
+  "examples": [
+    {
+      "example_maya": "Xujotobʼaʼ rajil ruway ri ixöq",
+      "example_spa": "La mujer le subió el precio a las tortillas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan xjoteʼ rajil ri ixim re junaʼ reʼ",
+      "example_spa": "Se elevó mucho el precio del maíz este año",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nutataʼ jotöl xbʼe jun ruchikop",
+      "example_spa": "Mi papá vendió caro un animal",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0f94589-fcca-4359-a0bb-0023986bc2f9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

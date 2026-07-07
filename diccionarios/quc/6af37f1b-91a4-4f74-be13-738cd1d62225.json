@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tebʼelik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtebʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutebʼebʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Asentada cosa gruesa y pesada",
+  "definitionDialect": "general",
+  "additional_text": "p Sinón Qebʼelik Raíz PT Tebʼ",
+  "examples": [
+    {
+      "example_maya": "Li bʼolaj tebʼel chwi li saqkowin",
+      "example_spa": "El trozo grueso está sobre la arena",
+      "dialect": null
+    }
+  ],
+  "uuid": "6af37f1b-91a4-4f74-be13-738cd1d62225"
+}

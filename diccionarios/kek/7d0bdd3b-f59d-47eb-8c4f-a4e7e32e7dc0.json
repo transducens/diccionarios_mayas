@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yotʼok",
+  "definition": "Destripar, morder los perros",
+  "additional_text": "VTR Xinyotʼ",
+  "examples": [
+    {
+      "example_maya": "Xinyotʼ xsaʼ li chaqʼal o chi wuqʼ",
+      "example_spa": "Destripé el aguacate maduro con la mano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xyotʼok laj waxtzʼiʼ chi qʼeq",
+      "example_spa": "El perro rabioso mordió anoche",
+      "dialect": null
+    }
+  ],
+  "uuid": "7d0bdd3b-f59d-47eb-8c4f-a4e7e32e7dc0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

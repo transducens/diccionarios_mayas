@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rokibʼal aqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Primeras horas de la noche",
+  "definitionDialect": "general",
+  "additional_text": "ps Var Umooy Raiz VT Ok Raiz S Aqʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Pa taq rokibʼal aqʼabʼ katzij li lus xoʼl taq jah",
+      "example_spa": "En las primeras horas de la noche, se encienden las luces en las calles",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5f9a1d3-8e37-45eb-9675-f051d4124be5"
+}

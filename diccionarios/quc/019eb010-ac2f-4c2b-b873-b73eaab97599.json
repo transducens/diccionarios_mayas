@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mewaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ayuno",
+  "definitionDialect": "",
+  "additional_text": "SCV Numeewaaj Fbas //Mehwaaj//",
+  "examples": [
+    {
+      "example_maya": "We xuriq koresm kabʼan mewaj",
+      "example_spa": "En tiempo de cuaresma se hace ayuno",
+      "dialect": null
+    }
+  ],
+  "uuid": "019eb010-ac2f-4c2b-b873-b73eaab97599"
+}

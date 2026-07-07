@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tikoʼnijel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agricultor, labrador, labriego, cultivador",
+  "definitionDialect": "general",
+  "additional_text": "SAgen Var Abʼixoom Raíz VT Tik",
+  "examples": [
+    {
+      "example_maya": "Li tikoʼnijel na kakʼekʼen ta rixim ukinaqʼ",
+      "example_spa": "Al agricultor nunca le hace falta maíz y frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "4fdf4a55-f097-41a6-9b13-40c1b81b4079"
+}

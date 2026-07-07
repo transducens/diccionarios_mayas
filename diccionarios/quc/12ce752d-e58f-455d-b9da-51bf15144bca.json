@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juyaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una trillada",
+  "definitionDialect": "",
+  "additional_text": "Enu Fbas //Yahqʼ// Raiz VT Yaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, xaq juyaqʼ xuʼon li utriko, ma xa maj xuyaʼoh",
+      "example_spa": "El hombre hizo solamente una trillada, porque no cosechó bien el trigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "12ce752d-e58f-455d-b9da-51bf15144bca"
+}

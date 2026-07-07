@@ -1,0 +1,23 @@
+{
+  "entryWord": "Koʼk",
+  "definition": "Corral, cerco, jaula",
+  "additional_text": "sInv Nukoʼk var Koral Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri koʼk nkʼatzin chi yekʼoje ri äkʼ chupan (chupam)",
+      "example_spa": "El corral sirve para que estén las gallinas adentro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wumül xanimäj el ri pa rukoʼk",
+      "example_spa": "Mi conejo se huyó de su jaula",
+      "dialect": null
+    }
+  ],
+  "uuid": "1be2ee9d-623d-4567-ac5d-8430a0dc8ce6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

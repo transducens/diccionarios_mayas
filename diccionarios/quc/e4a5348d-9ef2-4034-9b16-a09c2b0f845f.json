@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wajowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer, caminar o tocar hielo",
+  "definitionDialect": "",
+  "additional_text": "vi Kawajowik Raíz Vl Waj",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kawajow li tew are taq kabʼan bʼinem pwiʼ",
+      "example_spa": "Se hace mucho ruido al caminar sobre el hielo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e4a5348d-9ef2-4034-9b16-a09c2b0f845f"
+}

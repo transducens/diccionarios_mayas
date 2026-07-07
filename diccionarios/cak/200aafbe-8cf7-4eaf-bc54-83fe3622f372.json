@@ -1,0 +1,18 @@
+{
+  "entryWord": "Ta-",
+  "definition": "Prefijo que se añade a los verbos activos en el imperativo, al hablar en la segunda persona del singular (t= es el imperativo, a- segunda persona singular)",
+  "additional_text": "Pref",
+  "examples": [
+    {
+      "example_maya": "Tabʼanaʼ utzil, tabʼij chre ri aqʼomanel chi, - kʼa chuwaʼq xkibʼe",
+      "example_spa": "Por favor, decile al doctor que iré hasta mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "200aafbe-8cf7-4eaf-bc54-83fe3622f372",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

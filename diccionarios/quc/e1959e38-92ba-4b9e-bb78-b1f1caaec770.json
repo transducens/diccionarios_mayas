@@ -1,0 +1,24 @@
+{
+  "entryWord": "Reqʼeqʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lamer mucho; contar chismes; creer (burla)",
+  "definitionDialect": "General",
+  "additional_text": "VTD Kinreqʼeqʼeej Raíz VT Reqʼ",
+  "examples": [
+    {
+      "example_maya": "Li jun tzʼiʼ xureqʼeqʼej li ukikʼel li achih xsokotajik",
+      "example_spa": "El perro lamió toda la sangre del hombre que se hirió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jaswach ri xaʼreqʼeqʼej kan chikiwach ri winaq",
+      "example_spa": "¿Qué chisme fuiste a contarle a la gente?",
+      "dialect": null
+    }
+  ],
+  "uuid": "e1959e38-92ba-4b9e-bb78-b1f1caaec770"
+}

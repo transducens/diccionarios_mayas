@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kuyuk",
+  "definition": "Aguantar, soportar, vencer, perdonar, sufrir",
+  "additional_text": "VTR Xinkuy",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ xinkuy xrahil li woq naq xintoq",
+      "example_spa": "Cuando me fracturé, no soportaba el dolor del pie",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kuy chinʼok",
+      "example_spa": "Con permiso",
+      "dialect": null
+    }
+  ],
+  "uuid": "46e6cca3-0488-4d5d-9b11-176c042c913f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Rebʼelik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xrebʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xurebʼebʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Tirada: cosa espesa; regada: cosa espesa",
+  "definitionDialect": "General",
+  "additional_text": "p Raíz P Rebʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xurebʼebʼa kan li ukis pa li bʼeh",
+      "example_spa": "El perro dejó tirado su excremento en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xurebʼebʼa li uqʼor chwi li wankeʼt",
+      "example_spa": "El niño regó su atol sobre la mesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj ukis tzʼiʼ rebʼel kan chi li bʼeh",
+      "example_spa": "Hay mucho excremento de perros en la orilla del camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "17bf477b-9ecd-46ce-8eea-409dd312d0b8"
+}

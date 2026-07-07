@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yehok",
+  "definition": "Decir, advertir, avisar, anunciar",
+  "additional_text": "VTR Xinye",
+  "examples": [
+    {
+      "example_maya": "Ak xinye naq inkʼaʼ chik tinruuq chi kʼanjelak rikʼin laj Jwan",
+      "example_spa": "Ya dije que no voy a poder trabajar donde Juan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maakʼaʼ nakaye",
+      "example_spa": "No hay de que",
+      "dialect": null
+    }
+  ],
+  "uuid": "d36e4e19-0bee-43c2-a404-494689ed49c2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

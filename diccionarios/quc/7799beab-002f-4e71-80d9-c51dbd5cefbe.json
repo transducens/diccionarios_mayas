@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqaʼis",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaqaʼis",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Camote",
+  "definitionDialect": "General",
+  "additional_text": "SInv Raíz Adj Kaq Raíz S Iis DomS Raaʼ",
+  "examples": [
+    {
+      "example_maya": "Li kaqaʼis puliw kakʼiy wih, kaq xuq saq kakaʼyik, kiʼ katijowik",
+      "example_spa": "El camote crece bajo la tierra y tiene sabor dulce",
+      "dialect": null
+    }
+  ],
+  "uuid": "7799beab-002f-4e71-80d9-c51dbd5cefbe"
+}

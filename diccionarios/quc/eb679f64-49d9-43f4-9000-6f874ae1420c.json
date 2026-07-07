@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tujanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parto",
+  "definitionDialect": "General",
+  "additional_text": "sv Raíz S Tuuj",
+  "examples": [
+    {
+      "example_maya": "Pa tujanem xkam wih",
+      "example_spa": "Se murió en el parto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kamik chwi tujanem",
+      "example_spa": "Fiebre corporal",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb679f64-49d9-43f4-9000-6f874ae1420c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Penepik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espeso, como lodo",
+  "definitionDialect": "General",
+  "additional_text": "Adj var Kenekik Raíz VT Pen",
+  "examples": [
+    {
+      "example_maya": "Pa jun penepik xaqʼoʼl xchʼapiʼ wi li bʼinel chʼichʼ",
+      "example_spa": "El carro se atascó en un montón de lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "775b7ace-985c-41de-89b6-c320ef5dd98b"
+}

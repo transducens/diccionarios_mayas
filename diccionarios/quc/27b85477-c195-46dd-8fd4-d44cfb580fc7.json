@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaxlan winaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ladino",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li kaxlan winaq kachʼaw pa kaxlan tzij",
+      "example_spa": "El ladino habla el castellano",
+      "dialect": null
+    }
+  ],
+  "uuid": "27b85477-c195-46dd-8fd4-d44cfb580fc7"
+}

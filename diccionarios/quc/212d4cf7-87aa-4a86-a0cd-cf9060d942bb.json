@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Tojbʼalil",
+  "entryWordDialect": null,
+  "altEntryWord": "Utojbʼalil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Precio; castigo",
+  "definitionDialect": "Spanish",
+  "additional_text": "ssp Toj",
+  "examples": [
+    {
+      "example_maya": "Xuriq utojbʼalil li pop",
+      "example_spa": "Le dieron a buen precio el petate",
+      "dialect": null
+    }
+  ],
+  "uuid": "212d4cf7-87aa-4a86-a0cd-cf9060d942bb"
+}

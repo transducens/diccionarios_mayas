@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chomowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar la marimba",
+  "definitionDialect": "",
+  "additional_text": "vl Kachomowik Var Chemoweem",
+  "examples": [
+    {
+      "example_maya": "Tajin kachamow qʼojom are taq xinopan chwa jah",
+      "example_spa": "Estaba sonando la marimba cuando llegué a la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce49a340-140a-44a4-81c6-27ffc6496f9a"
+}

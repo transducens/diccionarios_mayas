@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sachalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xsachiʼk, xusachabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Inconsciente; perdido, no se sabe su paradero",
+  "definitionDialect": "",
+  "additional_text": "P Raíz P Sach",
+  "examples": [
+    {
+      "example_maya": "Li yowabʼ sachalik ma xa sibʼalaj lawaloh",
+      "example_spa": "El enfermo está inconsciente porque está muy grave",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah sachal pa nimaqʼij are taq xkam li utat",
+      "example_spa": "El muchacho estaba en la fiesta cuando se murió su papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "6eb7889a-9bc4-41aa-ace1-227ad06ee100"
+}

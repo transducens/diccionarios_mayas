@@ -1,0 +1,19 @@
+{
+  "entryWord": "Melqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Molqʼabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Anillo",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "scv Numelqʼaabʼ Var Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kʼakʼ li umelqʼabʼ ukojom che uchʼiʼpal uqʼabʼ",
+      "example_spa": "La mujer tiene puesto un anillo nuevo en el dedo meñique",
+      "dialect": "Dom.S."
+    }
+  ],
+  "uuid": "27b224db-ffb2-4d89-9ddb-5d657c98b8c9"
+}

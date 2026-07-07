@@ -1,0 +1,23 @@
+{
+  "entryWord": "KUʼK",
+  "definition": "ardilla",
+  "additional_text": "s1a nkuʼka raíz kuʼk s ds txkup",
+  "examples": [
+    {
+      "example_maya": "Maʼ naj nkojana tuʼn kuʼk, chi wekyʼ",
+      "example_spa": "Ya se echó a perder mi milpa por la ardilla, me dijo Juan",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kye naj kjoʼn tuʼn kuʼk",
+      "example_spa": "La ardilla destruye la milpa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "08e69c76-61a1-43ef-951f-0cfd6ef09f11",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

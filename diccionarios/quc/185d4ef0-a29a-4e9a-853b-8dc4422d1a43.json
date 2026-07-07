@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sokaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsokaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rasurar; afeitar; cortar el pelo; esquilar; usar para dormir",
+  "definitionDialect": "",
+  "additional_text": "VTD VT //Sohká// Raíz VT Sok",
+  "examples": [
+    {
+      "example_maya": "Li achih kusokaj na li rismaʼch",
+      "example_spa": "El hombre va a rasurarse la barba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sokal wiʼaj tajin kusokaj uwiʼ li achih",
+      "example_spa": "El barbero está cortando el pelo del hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jaswach kinsokaj in?",
+      "example_spa": "¿Qué voy a usar para dormir?",
+      "dialect": null
+    }
+  ],
+  "uuid": "185d4ef0-a29a-4e9a-853b-8dc4422d1a43"
+}

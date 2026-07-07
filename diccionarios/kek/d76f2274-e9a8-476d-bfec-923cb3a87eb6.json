@@ -1,0 +1,23 @@
+{
+  "entryWord": "Payok",
+  "definition": "Enamorar, decir palabras bonitas a una muchacha, encargar",
+  "additional_text": "vi Xinpay",
+  "examples": [
+    {
+      "example_maya": "Laj Artuur yo chi payok tuqʼix saʼ li tzolebʼaal",
+      "example_spa": "Arturo está enamorado de una muchacha en la escuela",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinpay jun li xqaʼal aj kobʼan",
+      "example_spa": "Enamoré a una joven cobanera",
+      "dialect": null
+    }
+  ],
+  "uuid": "d76f2274-e9a8-476d-bfec-923cb3a87eb6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

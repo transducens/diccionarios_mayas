@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tebʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katebʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar como gordo sin hablar; pasar caminando sin hablar (aburrido)",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz PT Tebʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq katebʼnajik, xokʼowik",
+      "example_spa": "El muchacho sólo pasó sin hablar",
+      "dialect": null
+    }
+  ],
+  "uuid": "07814442-535d-4a0a-a09b-f2cf4929fbfe"
+}

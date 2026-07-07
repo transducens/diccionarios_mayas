@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼupulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suave: terreno que se puede picar fácilmente",
+  "definitionDialect": "",
+  "additional_text": "p Xkʼupiʼk Raiz P Kʼup",
+  "examples": [
+    {
+      "example_maya": "Li uliw sibʼalaj kʼupulik ma ronojel junabʼ kakʼupik",
+      "example_spa": "El terreno está suave porque todos los años se pica",
+      "dialect": null
+    }
+  ],
+  "uuid": "909653db-0320-4ab3-9b71-09b3a1674221"
+}

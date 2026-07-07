@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzahik",
+  "definition": "Actuar como diablo, tener malas ideas, costumbres, etc",
+  "additional_text": "VTD Xintzahi",
+  "examples": [
+    {
+      "example_maya": "Li al nakinxtzahi",
+      "example_spa": "El muchacho tiene malas ideas de mí",
+      "dialect": null
+    },
+    {
+      "example_maya": "Mi-naatzahi chi rix injolom",
+      "example_spa": "No actués como diablo sobre mí",
+      "dialect": null
+    }
+  ],
+  "uuid": "76f599f4-dd9b-419e-8c1a-709e3ae24e19",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

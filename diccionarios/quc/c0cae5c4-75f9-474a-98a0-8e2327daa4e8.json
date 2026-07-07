@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼananem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼananik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ser bravo; estar bravo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Kʼan",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay xaq ronojel qʼij kakʼananik",
+      "example_spa": "La vendedora casi todos los días está brava",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0cae5c4-75f9-474a-98a0-8e2327daa4e8"
+}

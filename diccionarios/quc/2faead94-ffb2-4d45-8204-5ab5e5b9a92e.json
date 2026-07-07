@@ -1,0 +1,24 @@
+{
+  "entryWord": "Suʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusuʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pañuelo; sute",
+  "definitionDialect": "",
+  "additional_text": "sInv Sinón Suʼbʼal chiʼiij Raíz S Suʼt DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Li usuʼt li alah sibʼalaj qʼoʼom",
+      "example_spa": "El pañuelo del muchacho está bien bordado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li usuʼt li ixoq xunojaj cheh uloqʼoj",
+      "example_spa": "La mujer llenó su pañuelo de compras",
+      "dialect": null
+    }
+  ],
+  "uuid": "2faead94-ffb2-4d45-8204-5ab5e5b9a92e"
+}

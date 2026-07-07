@@ -1,0 +1,24 @@
+{
+  "entryWord": "Popik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Extenso, como siembra que ocupa mucho terreno; inflado",
+  "definitionDialect": "",
+  "additional_text": "Adj Fbas //Poh// Var Poolik",
+  "examples": [
+    {
+      "example_maya": "Li juwiʼ qʼayes sibʼalaj jun nima popik",
+      "example_spa": "La rama del arbusto es muy extensa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ruq li alih sibʼalaj popik ubʼanom",
+      "example_spa": "La muchacha tiene la falda grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "077a86a5-790a-4d0a-9f9d-0ce9d48fbef5"
+}

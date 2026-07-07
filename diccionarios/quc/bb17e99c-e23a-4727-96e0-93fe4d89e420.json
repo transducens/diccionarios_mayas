@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muchuʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Astillas; pedacitos; migajas; hilachas de trapo",
+  "definitionDialect": "",
+  "additional_text": "sInv Numuchuʼl Raíz S Much",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal siʼ kʼi muchuʼl xel che li usiʼ",
+      "example_spa": "El leñador dejó muchas astillas de su leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb17e99c-e23a-4727-96e0-93fe4d89e420"
+}

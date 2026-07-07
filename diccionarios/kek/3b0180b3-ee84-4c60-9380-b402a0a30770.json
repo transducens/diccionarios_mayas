@@ -1,0 +1,23 @@
+{
+  "entryWord": "Akʼach",
+  "definition": "Chunto (a), chompipe (a), pavo (a), cobarde",
+  "additional_text": "SInv Wakʼach",
+  "examples": [
+    {
+      "example_maya": "Yookebʼ xxox li akʼach",
+      "example_spa": "Los chuntos tienen granos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chanchanat li akʼach",
+      "example_spa": "Usted es cobarde",
+      "dialect": null
+    }
+  ],
+  "uuid": "3b0180b3-ee84-4c60-9380-b402a0a30770",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

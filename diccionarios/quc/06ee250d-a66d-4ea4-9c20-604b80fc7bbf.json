@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼalajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido un incendio",
+  "definitionDialect": "General",
+  "additional_text": "vi Kapaqʼalajik",
+  "examples": [
+    {
+      "example_maya": "Li juyubʼ xkʼatik sibʼalaj kapaqʼalajik",
+      "example_spa": "La montaña se quemó, hizo mucho ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "06ee250d-a66d-4ea4-9c20-604b80fc7bbf"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tajin",
+  "definition": "Estar haciendo algo",
+  "additional_text": "vi Yitajin, (yinajin)",
+  "examples": [
+    {
+      "example_maya": "Wakami yinajin chre jun wachoch",
+      "example_spa": "Ahora estoy haciendo mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kami ntajin (najin) jobʼ",
+      "example_spa": "Ahora está lloviendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e02f7266-24eb-4c01-a08f-9eec729288e7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

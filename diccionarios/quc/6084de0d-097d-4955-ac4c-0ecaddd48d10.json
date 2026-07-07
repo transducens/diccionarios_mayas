@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼixem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener vergüenza; avergonzarse",
+  "definitionDialect": "General",
+  "additional_text": "vI Kinkʼixik Raíz S Kʼix",
+  "examples": [
+    {
+      "example_maya": "Li alih, kakʼixik we kachʼabʼexik",
+      "example_spa": "Cuando le hablan a la muchacha, se avergüenza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa na kinkʼix ta chwach lah",
+      "example_spa": "Dispense, perdone (al pedir algo o un favor a alguien)",
+      "dialect": null
+    }
+  ],
+  "uuid": "6084de0d-097d-4955-ac4c-0ecaddd48d10"
+}

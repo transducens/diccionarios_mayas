@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼoxkʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy corto: falda o rodillera",
+  "definitionDialect": "",
+  "additional_text": "Adj Kʼox",
+  "examples": [
+    {
+      "example_maya": "Li kuq li xnuʼlayibʼ sibʼalaj kʼoxkʼik kakibʼan cheh",
+      "example_spa": "Las señoritas tienen las faldas muy cortas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2db859ef-66cd-40f7-9e18-4201ef29a00c"
+}

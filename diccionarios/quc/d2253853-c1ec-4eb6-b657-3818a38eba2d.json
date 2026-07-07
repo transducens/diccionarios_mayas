@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqʼiraj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una bola en la carne",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qʼir",
+  "examples": [
+    {
+      "example_maya": "Li uwach uchʼek li achih xuqʼosij sibʼalaj juqʼiraj xubʼano",
+      "example_spa": "Se formó una bola en la espinilla del hombre, cuando se lastimó",
+      "dialect": null
+    }
+  ],
+  "uuid": "d2253853-c1ec-4eb6-b657-3818a38eba2d"
+}

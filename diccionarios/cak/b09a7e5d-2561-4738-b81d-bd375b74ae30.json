@@ -1,0 +1,23 @@
+{
+  "entryWord": "Nimaqʼij",
+  "definition": "Fiesta, feria, boda, cumpleaños",
+  "additional_text": "sc Nunimaqʼij Nimaqʼij",
+  "examples": [
+    {
+      "example_maya": "Kuchi kʼo nimaqʼij, kʼo qʼojon, ri kʼo yexajon",
+      "example_spa": "Donde hay fiesta, hay música y algunos bailan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq e kʼïy winäq yebʼeʼapon pa jun nimaqʼij, yalan tikaʼsäs nuʼon (nubʼän)",
+      "example_spa": "Cuando llega mucha gente a una fiesta, se pone bien alegre",
+      "dialect": null
+    }
+  ],
+  "uuid": "b09a7e5d-2561-4738-b81d-bd375b74ae30",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

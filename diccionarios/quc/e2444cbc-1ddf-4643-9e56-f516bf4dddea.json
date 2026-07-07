@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pit",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Conacaste",
+  "definitionDialect": "",
+  "additional_text": "SnP Raíz S Piit DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li pit nima cheʼ pa taqʼaj kakʼiy wih",
+      "example_spa": "El conacaste es un árbol grande, crece en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e2444cbc-1ddf-4643-9e56-f516bf4dddea"
+}

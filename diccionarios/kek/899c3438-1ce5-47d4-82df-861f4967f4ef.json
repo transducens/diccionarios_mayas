@@ -1,0 +1,23 @@
+{
+  "entryWord": "Lajeebʼ",
+  "definition": "Diez (10)",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Xinchʼoq chaq lajeebʼ li chiin",
+      "example_spa": "Corté diez naranjas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Lajeebʼ xbʼe li po anaqwan re pebʼreer",
+      "example_spa": "Hoy tenemos diez de febrero",
+      "dialect": null
+    }
+  ],
+  "uuid": "899c3438-1ce5-47d4-82df-861f4967f4ef",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

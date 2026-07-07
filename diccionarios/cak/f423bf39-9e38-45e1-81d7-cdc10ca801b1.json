@@ -1,0 +1,23 @@
+{
+  "entryWord": "Muʼunïk",
+  "definition": "Lavar la cabeza",
+  "additional_text": "vt Muʼuxik (muʼik), ninmuʼ Muʼ",
+  "examples": [
+    {
+      "example_maya": "Pa taq rox qʼij ninmuʼ nuwiʼ (nujolom)",
+      "example_spa": "Cada tres días me lavo la cabeza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun akʼwal kʼa nimuʼ ruwiʼ roma ruteʼ",
+      "example_spa": "A un niño la mamá le lava la cabeza",
+      "dialect": null
+    }
+  ],
+  "uuid": "f423bf39-9e38-45e1-81d7-cdc10ca801b1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

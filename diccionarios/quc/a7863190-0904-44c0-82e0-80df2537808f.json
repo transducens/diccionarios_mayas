@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatqʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dividido en varias partes, como los dedos, un gusano, etc",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li uliw qʼatqʼoj ubʼanom ma kʼis e kʼo wi rajaw",
+      "example_spa": "El terreno está dividido en partes porque tiene diferentes dueños",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7863190-0904-44c0-82e0-80df2537808f"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xaʼwaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxaʼwaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrojar; vomitar",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Xaʼw",
+  "examples": [
+    {
+      "example_maya": "Are taq xintij tzam xinxaʼwaj kikʼ",
+      "example_spa": "Cuando tomé aguardiente, arrojé sangre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal tajin kuxaʼwaj kikʼ, ma kʼo chaqij qulaj chech",
+      "example_spa": "El niño está vomitando sangre, porque tiene tuberculosis",
+      "dialect": null
+    }
+  ],
+  "uuid": "770fde1e-7728-44a9-afea-249dc29fdd38"
+}

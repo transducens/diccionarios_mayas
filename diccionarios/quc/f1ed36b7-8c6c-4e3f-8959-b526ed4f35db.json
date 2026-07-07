@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raqan akʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba comestible que crece en la costa",
+  "definitionDialect": "",
+  "additional_text": "sds Nuraqan akʼaal Raíz S Aqan Raíz S Akʼaal DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li raqan akʼal utz katijowik xuq pa taqʼaj kakʼiy wih",
+      "example_spa": "Esta hierva es comestible y crece en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f1ed36b7-8c6c-4e3f-8959-b526ed4f35db"
+}

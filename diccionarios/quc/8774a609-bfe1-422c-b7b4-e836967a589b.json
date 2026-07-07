@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nima jabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aguacero",
+  "definitionDialect": "General",
+  "additional_text": "scl Raíz SCL Nim jabʼ",
+  "examples": [
+    {
+      "example_maya": "Li nima jabʼ xunimarsaj li jaʼ",
+      "example_spa": "El aguacero engrandeció al río",
+      "dialect": null
+    }
+  ],
+  "uuid": "8774a609-bfe1-422c-b7b4-e836967a589b"
+}

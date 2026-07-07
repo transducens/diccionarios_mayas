@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qanaʼ",
+  "definition": "Señora, doña",
+  "additional_text": "sInv Inqanaʼ",
+  "examples": [
+    {
+      "example_maya": "Xkoʼo li qanaʼ saʼ kʼayiil",
+      "example_spa": "La señora se fue al mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maani inqanaʼ",
+      "example_spa": "No está mi señora",
+      "dialect": null
+    }
+  ],
+  "uuid": "ec5d8441-0d29-4cb6-8e05-ea5a7e3b7e80",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

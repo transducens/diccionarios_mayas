@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼoranïk",
+  "definition": "Tener pereza, vagar",
+  "additional_text": "VI Qʼoranem, yiqʼoran Qʼor",
+  "examples": [
+    {
+      "example_maya": "Kʼo winäq yalan yeqʼoran",
+      "example_spa": "Hay personas que tienen mucha pereza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq manäq nusamaj, yiqʼoran",
+      "example_spa": "Cuando no tengo trabajo, vago",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ab8b058-0804-4134-bf4f-d0e4649621e2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

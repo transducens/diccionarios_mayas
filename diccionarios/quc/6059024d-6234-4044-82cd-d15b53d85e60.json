@@ -1,0 +1,24 @@
+{
+  "entryWord": "Oowaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwowaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Esconder",
+  "definitionDialect": "Español",
+  "additional_text": "vtd Raíz VT Oow",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xrowaj li pwaq",
+      "example_spa": "El niño escondió el dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq karowaj ubʼixik li usaqil tzij chwach li rachajil",
+      "example_spa": "La mujer va a esconderle la verdad a su marido",
+      "dialect": null
+    }
+  ],
+  "uuid": "6059024d-6234-4044-82cd-d15b53d85e60"
+}

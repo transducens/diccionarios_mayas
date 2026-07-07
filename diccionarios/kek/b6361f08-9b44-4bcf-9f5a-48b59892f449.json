@@ -1,0 +1,23 @@
+{
+  "entryWord": "Liim",
+  "definition": "Lima para afilar, o la frruta",
+  "additional_text": "SInv Inliim",
+  "examples": [
+    {
+      "example_maya": "Xtoqeʼ ruʼuj inliim",
+      "example_spa": "Se quebró la punta de mi lima para afilar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ewer xinlow naabʼal li liim xkʼe xrahil insaʼ",
+      "example_spa": "Ayer comí mucha lima y me dio diarrea",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6361f08-9b44-4bcf-9f5a-48b59892f449",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

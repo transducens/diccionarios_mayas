@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tikto",
+  "definition": "Luego, pronto, rápido, inmediatamente",
+  "additional_text": "PartT Principiado, inmediatamente, ya Se usa con relación a cosas ya hechas, generalmente",
+  "examples": [
+    {
+      "example_maya": "Tikto xjosqʼoʼ wikʼin",
+      "example_spa": "Luego se enojó conmigo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tikto xchapeʼ xbʼaan wara",
+      "example_spa": "Luego le agarró el sueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tikto xkohin chi rix",
+      "example_spa": "Inmediatamente me fui atrás de él",
+      "dialect": null
+    }
+  ],
+  "uuid": "8fd2c13d-d989-44cc-8a9d-1ba7cb6791b3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

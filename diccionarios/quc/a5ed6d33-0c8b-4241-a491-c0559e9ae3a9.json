@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amarrado en manojos; manojeado; deshojado: un árbol",
+  "definitionDialect": "K'al.",
+  "additional_text": "p Xkʼaliʼk, xukʼalabʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xukʼalabʼa kan li siʼ pa li qʼaqʼ",
+      "example_spa": "La mujer dejó el manojo de leña en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5ed6d33-0c8b-4241-a491-c0559e9ae3a9"
+}

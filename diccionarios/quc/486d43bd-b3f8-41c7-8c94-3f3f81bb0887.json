@@ -1,0 +1,34 @@
+{
+  "entryWord": "Paqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rajar; sobar hinchazón; pisar hierbas; apretar algodón, lana, mazorcas o tusas",
+  "definitionDialect": "",
+  "additional_text": "vt Kinpaqʼoh Raíz VT Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Kinpaqʼna siʼ chanim",
+      "example_spa": "Ahorita voy a rajar leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpaqʼ na li met pa li bʼrin",
+      "example_spa": "Tengo que apretar el algodón en el costal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpaqʼ na li siʼ rech qʼaqʼ",
+      "example_spa": "Tengo que rajar la leña para el fuego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li abʼix sibʼalaj xpaqʼ kumal chikop",
+      "example_spa": "La milpa fue pisada por los animales",
+      "dialect": null
+    }
+  ],
+  "uuid": "486d43bd-b3f8-41c7-8c94-3f3f81bb0887"
+}

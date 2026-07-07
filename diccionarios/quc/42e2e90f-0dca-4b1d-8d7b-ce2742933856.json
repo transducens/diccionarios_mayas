@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼanalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Posición de un envase de 1 litro (antiguo envase del trago)",
+  "definitionDialect": "",
+  "additional_text": "P Xtzʼaniʼk, xutzʼanabʼaʼ Raíz PT Tzʼan",
+  "examples": [
+    {
+      "example_maya": "Li achih xutzʼanabʼa kan li jun lameʼt li jun litr upam",
+      "example_spa": "El hombre dejó el envase de 1 litro",
+      "dialect": null
+    }
+  ],
+  "uuid": "42e2e90f-0dca-4b1d-8d7b-ce2742933856"
+}

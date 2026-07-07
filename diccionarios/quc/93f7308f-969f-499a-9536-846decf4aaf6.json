@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kwiʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuino (cerdo que se engorda pero no crece mucho)",
+  "definitionDialect": "",
+  "additional_text": "snP Cuino",
+  "examples": [
+    {
+      "example_maya": "Li al Leʼn kʼo jun kwiʼna aq chwaroʼch",
+      "example_spa": "Elena tiene en su casa un marrano cuino",
+      "dialect": null
+    }
+  ],
+  "uuid": "93f7308f-969f-499a-9536-846decf4aaf6"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Utzelaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lado de",
+  "definitionDialect": "",
+  "additional_text": "ssp Raíz P Tzel",
+  "examples": [
+    {
+      "example_maya": "Li chakatebʼ kajibʼ utzelaj",
+      "example_spa": "La mesa tiene cuatro lados",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8ca329e-ff44-432e-8edb-f79b1e6d880e"
+}

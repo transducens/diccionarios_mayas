@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caliente por mucho uso, por proximidad al fuego o por calor del sol",
+  "definitionDialect": "",
+  "additional_text": "Adj Uqʼaqʼaal, xqʼaqʼarik",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal xqʼaqʼar chwa li qʼaqʼ",
+      "example_spa": "La tinaja se calentó por estar próxima al fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "d689d6ab-3d55-4574-8a7e-f1a23d66e621"
+}

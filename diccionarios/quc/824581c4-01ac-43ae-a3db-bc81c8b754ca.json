@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tikoʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Siembra; planta cultivada",
+  "definitionDialect": "general",
+  "additional_text": "SInv Nutiikoʼn Fbas //Tihkoʼn// Raíz VT Tik",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼih uwach li utikoʼn kʼo pa li uliw, li utikom wi li abʼix",
+      "example_spa": "El hombre tiene varias siembras en el terreno donde ha sembrado la milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Na utz ta xel li tikoʼn cheh we junabʼ",
+      "example_spa": "No salió bien la siembra este año",
+      "dialect": null
+    }
+  ],
+  "uuid": "824581c4-01ac-43ae-a3db-bc81c8b754ca"
+}

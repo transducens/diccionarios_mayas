@@ -1,0 +1,24 @@
+{
+  "entryWord": "Awexabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Wawexabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morral pequeño donde llevan las semillas de maíz; instrumento para sembrar macana",
+  "definitionDialect": "",
+  "additional_text": "scv Coment Principio de una costumbre Raiz VT Aw",
+  "examples": [
+    {
+      "example_maya": "Li awexabʼal kachokaon chech awex",
+      "example_spa": "La macana se usa para la siembra de maíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Kawexabʼal kitikobʼal kan ri qatat qanan",
+      "example_spa": "Costumbres que nos dejaron nuestros antepasados",
+      "dialect": null
+    }
+  ],
+  "uuid": "1580df93-b4c4-4dda-9199-bf3a8879cc64"
+}

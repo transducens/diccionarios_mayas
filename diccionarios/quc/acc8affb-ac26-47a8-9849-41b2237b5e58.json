@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tzuyulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtzuyiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutzuyubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Conectado; amarrado a un poste; pendiente: un trabajo o asunto en un juzgado; unido",
+  "definitionDialect": "General",
+  "additional_text": "P Raíz PT Tzuy",
+  "examples": [
+    {
+      "example_maya": "Li chʼuʼja tzʼiʼ tzuyulik ma xa keʼutiʼ li winaq",
+      "example_spa": "El chucho con rabia está amarrado porque muerde a la gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alambʼr\" tzuyulik xa je riʼ kanikow\" li kaxlan qʼaqʼ",
+      "example_spa": "Los alambres eléctricos están conectados por eso alumbra la luz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih kʼa tzuyul li umak pa li qʼatbʼaltzij",
+      "example_spa": "La causa del hombre todavía está pendiente en el juzgado",
+      "dialect": null
+    }
+  ],
+  "uuid": "acc8affb-ac26-47a8-9849-41b2237b5e58"
+}

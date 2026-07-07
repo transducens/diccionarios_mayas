@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼarik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzʼaroh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tortear",
+  "definitionDialect": "General",
+  "additional_text": "vtr Raíz PT Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Li alih, tajin kutzʼar lij",
+      "example_spa": "La muchacha esta torteando",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d575f8d-2729-4190-917d-a8327dc4be81"
+}

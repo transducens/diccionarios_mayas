@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHEYL",
+  "definition": "tirada: planta o un tejido",
+  "additional_text": "p ma kubʼ cheyeʼ, ma kubʼ tcheybʼaʼn",
+  "examples": [
+    {
+      "example_maya": "Cheyl txaq kjoʼn tzluʼ makyʼ",
+      "example_spa": "Aquí estaba tirado un manojo de hojas de milpa desdihoj",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Cheyl nimal chemaj te nan Yan",
+      "example_spa": "Está tirado el gran tejido de doña Yan",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "dcf63c6d-38f6-4636-ab00-1b76a57672f4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mesaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jején; chaquiste",
+  "definitionDialect": "",
+  "additional_text": "SaP Fbas //Mehsaq// DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li utyoʼbʼal li mesaq kasipojik",
+      "example_spa": "La picadura del jején causa hinchazón",
+      "dialect": null
+    }
+  ],
+  "uuid": "a27d38f3-a2af-49e7-9029-5fa7e539b075"
+}

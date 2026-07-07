@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼasaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼas",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deuda",
+  "definitionDialect": "General",
+  "additional_text": "SOS",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan kʼo ukʼas pa li kʼayʼbʼal jastaq",
+      "example_spa": "Juan tiene una deuda en la tienda",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d80df6e-9783-4625-b87a-4095ad29c444"
+}

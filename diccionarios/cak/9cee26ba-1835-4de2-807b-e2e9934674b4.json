@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xik",
+  "definition": "Gavilán",
+  "additional_text": "sinv Nuxik Tzʼikin Kʼuxunel Ajxikʼ",
+  "examples": [
+    {
+      "example_maya": "Ri xik yerutij täq alajiʼ äkʼ",
+      "example_spa": "El gavilán come pollitos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xik jun ajxikʼ chiköp, ruyon tiʼij nutäj, ri rixkʼäq chigokinäq rey",
+      "example_spa": "El gavilán es un ave carnívora, sus garras son de mucho filo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9cee26ba-1835-4de2-807b-e2e9934674b4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

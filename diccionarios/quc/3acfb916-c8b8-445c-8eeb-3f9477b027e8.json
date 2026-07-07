@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuchkuch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tolobojo grande (pájaro)",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li kuchkuch rax kij, nimaʼq staʼq li kijeʼ",
+      "example_spa": "El tolobojo es azul con cola algo alargada",
+      "dialect": null
+    }
+  ],
+  "uuid": "3acfb916-c8b8-445c-8eeb-3f9477b027e8"
+}

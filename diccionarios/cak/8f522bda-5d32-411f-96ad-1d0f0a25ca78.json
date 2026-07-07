@@ -1,0 +1,28 @@
+{
+  "entryWord": "Liloj",
+  "definition": "Tibio",
+  "additional_text": "Adj Rulilojil, xlilojir var Meqʼen, kʼatän",
+  "examples": [
+    {
+      "example_maya": "Ri yatatin pa liloj yaʼ, yalan jebʼël",
+      "example_spa": "Bañarse en agua tibia es muy bueno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan liloj ri nuyaʼ xayaʼ pe chwe",
+      "example_spa": "Está muy tibia el agua que me diste",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq lilöj ri yaʼ, ma kan ta tew, chqa man kan ta kʼatän",
+      "example_spa": "Cuando el agua está tibia, no es tan fría, tampoco tan caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f522bda-5d32-411f-96ad-1d0f0a25ca78",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

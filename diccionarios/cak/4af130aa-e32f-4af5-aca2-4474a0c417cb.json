@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qoronïk",
+  "definition": "Tomar atol; dormir roncando",
+  "additional_text": "vt Qoroxik, (qorik), ninqör Qör",
+  "examples": [
+    {
+      "example_maya": "Kʼo winäq qʼij qʼij nikiqör ri qʼor pa kʼaybʼäl",
+      "example_spa": "Hay personas que todos los días toman atol en la plaza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jebʼël ninqör waran chi riʼ, taq xechʼayon pe kiʼ ri alabʼoʼ",
+      "example_spa": "Bien dormido estaba yo cuando se pelearon los muchachos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4af130aa-e32f-4af5-aca2-4474a0c417cb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

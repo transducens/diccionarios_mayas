@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHITEET",
+  "definition": "1 esparcir, regar granos, agua o cosas en polvo sin sputat 2 sacudir",
+  "additional_text": "vt chitol te, chitoʼn, ma bʼaj nchitoʼna, chitobʼil raíz chit p/t",
+  "examples": [
+    {
+      "example_maya": "Machinxa chitol tbʼaqʼ xlaqtxʼoʼ tuj txʼotxʼ",
+      "example_spa": "Voy a ir a esparcir las pepitas del bledo en el terreno",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tekyʼx chitoʼn bʼaj tiʼj xnoqʼala tuʼn tel bʼaj muʼp tiʼj",
+      "example_spa": "Sacudí bien la chamarra para que se le quite todo el tamo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "26a0dc2d-066c-47f1-b7c7-376dc66eb4b0",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

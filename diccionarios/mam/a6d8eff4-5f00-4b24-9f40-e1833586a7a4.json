@@ -1,0 +1,18 @@
+{
+  "entryWord": "SAMAAN",
+  "definition": "semana",
+  "additional_text": "s1 nsamana del español semana",
+  "examples": [
+    {
+      "example_maya": "Yabʼ qina ma jaʼwal jun saman",
+      "example_spa": "Estuve enfermo durante toda esta semana que terminó",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a6d8eff4-5f00-4b24-9f40-e1833586a7a4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

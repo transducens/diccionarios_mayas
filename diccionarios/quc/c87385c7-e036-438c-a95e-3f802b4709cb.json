@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼuqʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido un líquido en un trasto o en estómago",
+  "definitionDialect": "general",
+  "additional_text": "vi Kabʼuqʼnajik Raíz PT Bʼuqʼ",
+  "examples": [
+    {
+      "example_maya": "We jun winaq kutij kʼih joron, kabʼuqʼnaj chupam",
+      "example_spa": "Si una persona toma mucha agua hace ruido en el estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "c87385c7-e036-438c-a95e-3f802b4709cb"
+}

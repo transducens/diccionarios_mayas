@@ -1,0 +1,18 @@
+{
+  "entryWord": "WAʼLAN OOR",
+  "definition": "medio día media noche",
+  "additional_text": "scl 1 2 raíz waʼ p del español hora",
+  "examples": [
+    {
+      "example_maya": "Waʼlan or nchi waʼnkya xjal",
+      "example_spa": "A las doce en punto almuerzan las personas",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d7b342ad-a737-4cfa-a49c-df5828ebdd1f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Elesaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacar; quitar",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinwelesaaj Raiz vi El",
+  "examples": [
+    {
+      "example_maya": "Li elesal wareʼaj karesaj na nuwareh",
+      "example_spa": "El dentista me va a sacar la muela",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tinamit xekowinik xkelesaj le qʼatal tzij",
+      "example_spa": "El pueblo logró quitar al Alcalde",
+      "dialect": null
+    }
+  ],
+  "uuid": "9677f1c4-39b9-4d8a-bf10-f93f7d3e9e44"
+}

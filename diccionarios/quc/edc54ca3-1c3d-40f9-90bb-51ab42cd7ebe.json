@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqtanatoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hinchado el estómago, golpe o absceso",
+  "definitionDialect": "",
+  "additional_text": "rc Raíz Adj Kaq Raíz PT Tan",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kaqtanatoj li spoj",
+      "example_spa": "El absceso está muy hinchado",
+      "dialect": null
+    }
+  ],
+  "uuid": "edc54ca3-1c3d-40f9-90bb-51ab42cd7ebe"
+}

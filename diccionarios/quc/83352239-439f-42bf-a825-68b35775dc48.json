@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lajixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlajij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suspender, dejar a un lado el proyecto que se ha empezado",
+  "definitionDialect": "general",
+  "additional_text": "vtd Raíz vt Laj",
+  "examples": [
+    {
+      "example_maya": "Li alah, xulajij li kʼulanem",
+      "example_spa": "El muchacho suspendió el casamiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "83352239-439f-42bf-a825-68b35775dc48"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matzakatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamatzakatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar sin hacer ruido",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VI Matz",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom kamatzakatik, xok pa jah",
+      "example_spa": "El ladrón anda sin hacer ruido por la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9890efb8-482b-41b5-8018-95170d14603a"
+}

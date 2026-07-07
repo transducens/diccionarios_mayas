@@ -1,0 +1,18 @@
+{
+  "entryWord": "MASAAT",
+  "definition": "venado",
+  "additional_text": "s1 nmasata",
+  "examples": [
+    {
+      "example_maya": "Aj masat oʼkx itzʼ tjaqʼ kʼul bʼix bʼaʼn tchonjtz",
+      "example_spa": "El venado sólo vive en la montaña, pero se come",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "0ba0dac1-38bb-4a50-a741-0a41c65d48b5",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oʼon",
+  "entryWordDialect": null,
+  "altEntryWord": "nuʼoʼon",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "nuʼoʼoon",
+  "altEntryWordDialect2": null,
+  "definition": "Iguana",
+  "definitionDialect": "General",
+  "additional_text": "sInv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li oʼon kekʼojiʼ pa jaʼ, chiʼl pa kʼacheʼlaj",
+      "example_spa": "Las iguanas se encuentran en los ríos y en las montañas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9a57277-8ef3-4396-a0ea-aba5fddb17b2"
+}

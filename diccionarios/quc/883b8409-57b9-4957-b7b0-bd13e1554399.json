@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ukʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwukʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ser amigo; acompañar",
+  "definitionDialect": "General",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Na utz taj we kinwukʼij li elaqʼom ma kinbʼe pa cheʼ",
+      "example_spa": "No es bueno que acompañe al ladrón, porque me voy a la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "883b8409-57b9-4957-b7b0-bd13e1554399"
+}

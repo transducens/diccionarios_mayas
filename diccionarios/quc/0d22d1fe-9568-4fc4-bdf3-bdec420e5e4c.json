@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xalqʼatixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxalqʼatij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Xelqʼatixik",
+  "altEntryWordDialect2": null,
+  "definition": "Pasar sobre una cosa",
+  "definitionDialect": "",
+  "additional_text": "vTD Var Raíz VT Xal Raíz VT Qʼat",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuxalqʼatij li chakach",
+      "example_spa": "La mujer pasó sobre la canasta",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d22d1fe-9568-4fc4-bdf3-bdec420e5e4c"
+}

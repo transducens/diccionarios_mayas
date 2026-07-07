@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokʼanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventarse o picar la cáscara de huevo",
+  "definitionDialect": "",
+  "additional_text": "vi Katzokʼanik Raíz VT Tzokʼ",
+  "examples": [
+    {
+      "example_maya": "Li wichʼ tzokʼanem kakibʼan pa li saqmoʼl",
+      "example_spa": "Los pollitos ya están picando los cascarones de los huevos para salir",
+      "dialect": null
+    }
+  ],
+  "uuid": "26f4e10a-58a3-4fe7-8188-1b4e3f81bc14"
+}

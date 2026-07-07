@@ -1,0 +1,19 @@
+{
+  "entryWord": "Setixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsetij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar palo delgado o hierbas con machete",
+  "definitionDialect": "General",
+  "additional_text": "vTD Sinón Ketixik Raíz PT Set",
+  "examples": [
+    {
+      "example_maya": "Kinsetij na li xkʼaʼy rukʼ li muruh",
+      "example_spa": "Voy a cortar el palito con el machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "48a40509-3c55-4022-b2a9-88a43bf8b6d8"
+}

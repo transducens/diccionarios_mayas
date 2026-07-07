@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ratin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Baño de algunos animales, que se lo dan ellos mismos",
+  "definitionDialect": "",
+  "additional_text": "sNp",
+  "examples": [
+    {
+      "example_maya": "Li kej tajin kubʼan ratin puliw",
+      "example_spa": "El caballo está dándose un baño de tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "676ee99e-93c9-4eef-ba6c-eaeb68ac22ba"
+}

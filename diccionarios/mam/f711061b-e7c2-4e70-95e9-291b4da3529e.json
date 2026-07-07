@@ -1,0 +1,18 @@
+{
+  "entryWord": "ALCHI",
+  "definition": "¿quién dice?",
+  "additional_text": "pi raíz al par raíz chi vi",
+  "examples": [
+    {
+      "example_maya": "¿Alchi ajqa a qina qʼil tuʼja?",
+      "example_spa": "¿Quién dice que soy yo el que tengo tu cuaderno?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f711061b-e7c2-4e70-95e9-291b4da3529e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

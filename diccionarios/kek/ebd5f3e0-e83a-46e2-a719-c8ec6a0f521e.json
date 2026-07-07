@@ -1,0 +1,18 @@
+{
+  "entryWord": "Saklum",
+  "definition": "Barro de color blanco que se usa para hacer mezcla",
+  "additional_text": "SInv Insaklum",
+  "examples": [
+    {
+      "example_maya": "Qabʼonaq li qochoch rikʼin saklum",
+      "example_spa": "Pintemos nuestra casa con barro blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "ebd5f3e0-e83a-46e2-a719-c8ec6a0f521e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

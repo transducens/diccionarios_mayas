@@ -1,0 +1,19 @@
+{
+  "entryWord": "Itzibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Witzibʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enfermedad causada por brujería",
+  "definitionDialect": "General",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Xinriq jun itzibʼal chnupam",
+      "example_spa": "Me hicieron una brujería en el estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "b551a9ce-df08-40f9-9d39-8735a5468122"
+}

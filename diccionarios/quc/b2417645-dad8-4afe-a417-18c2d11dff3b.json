@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼipnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼipnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cojear",
+  "definitionDialect": "",
+  "additional_text": "vl Raíz P Kʼip",
+  "examples": [
+    {
+      "example_maya": "Li a Tun xaq kakʼipnajik kabʼinik ma xa xusok raqan",
+      "example_spa": "Antonio está cojeando porque se lastimó un pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2417645-dad8-4afe-a417-18c2d11dff3b"
+}

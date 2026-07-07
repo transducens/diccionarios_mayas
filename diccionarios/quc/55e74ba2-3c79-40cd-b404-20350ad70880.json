@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaqʼa ij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viruela",
+  "definitionDialect": "",
+  "additional_text": "SnP Adj Chaqʼ Raíz S Iij DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xkam rumal chaqʼa ij",
+      "example_spa": "El niño se murió de viruela",
+      "dialect": null
+    }
+  ],
+  "uuid": "55e74ba2-3c79-40cd-b404-20350ad70880"
+}

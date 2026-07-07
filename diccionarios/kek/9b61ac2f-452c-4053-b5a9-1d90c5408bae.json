@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼulubʼ",
+  "definition": "Merecido, conveniente",
+  "additional_text": "SInv Inkʼulub",
+  "examples": [
+    {
+      "example_maya": "Inkʼulub naq xinixket inyuwaʼ",
+      "example_spa": "Mi papá me pegó, es mi merecido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Moko inkʼulubʼ ta xbʼaanunkil aʼan",
+      "example_spa": "No me conviene hacer esa cosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b61ac2f-452c-4053-b5a9-1d90c5408bae",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

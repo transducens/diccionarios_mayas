@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼalabʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Recto: palo",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Kalakik",
+  "examples": [
+    {
+      "example_maya": "Li raqan ar\"k kachokon pa awasqʼij bʼalabʼik li upam",
+      "example_spa": "El asta de los arcos que se usan en Semana Santa es muy recto",
+      "dialect": null
+    }
+  ],
+  "uuid": "f31d441d-74b2-4b78-a8b9-32ed31c83e61"
+}

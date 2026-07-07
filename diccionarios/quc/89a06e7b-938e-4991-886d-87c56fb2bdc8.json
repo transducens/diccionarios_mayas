@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼolom qʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼolom qʼabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puño de la mano",
+  "definitionDialect": "",
+  "additional_text": "sInv Raíz VT Kʼol Raíz S Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li kʼolom qʼabʼ are li jobʼ uwi qʼabʼaj kumulij ribʼ pa qʼabʼaj",
+      "example_spa": "Puño se le llama a los cinco dedos que se juntan en la palma de la mano",
+      "dialect": null
+    }
+  ],
+  "uuid": "89a06e7b-938e-4991-886d-87c56fb2bdc8"
+}

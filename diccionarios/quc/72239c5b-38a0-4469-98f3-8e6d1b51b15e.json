@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pusum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Xeca partida con cuchillo que se come con miel en Semana Santa Estos panes a veces se hacen en forma de águilas, caballos o muñecos",
+  "definitionDialect": "",
+  "additional_text": "SInv Nupusuum Raíz S Pus DomS Wah",
+  "examples": [
+    {
+      "example_maya": "Pusum kuchax li kaxlanwah li pusum che kuchiʼl pa taq awas qʼij",
+      "example_spa": "Esto se le dice al pan partido con cuchillo en Semana Santa",
+      "dialect": null
+    }
+  ],
+  "uuid": "72239c5b-38a0-4469-98f3-8e6d1b51b15e"
+}

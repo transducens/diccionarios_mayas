@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pochʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Operar; quitar cáscara de frijol o cuxín; desvainar; destazar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinpochʼoh Raíz VT Pochʼ",
+  "examples": [
+    {
+      "example_maya": "Li kunanel kupochʼ li yawabʼ",
+      "example_spa": "El doctor opera al enfermo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xupochʼ li kaxlaʼn ma xa kutzakoh",
+      "example_spa": "La muchacha le quitó la cáscara a las habas porque las va a cocer",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe18eb46-498e-4ba6-8d7d-bc687a68acad"
+}

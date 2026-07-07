@@ -1,0 +1,19 @@
+{
+  "entryWord": "Siwik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar leña",
+  "definitionDialect": "",
+  "additional_text": "vI",
+  "examples": [
+    {
+      "example_maya": "Li achih xbʼe pa siwik pa kʼacheʼlaj",
+      "example_spa": "El hombre se fue a cortar leña a la montaña",
+      "dialect": null
+    }
+  ],
+  "uuid": "c708f7c4-5904-4b2b-941f-e6f53c70db11"
+}

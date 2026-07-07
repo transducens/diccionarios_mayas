@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼunun",
+  "definition": "Gorrión, colibrí",
+  "additional_text": "sInv Nutzʼunun Tzʼikin, ajxikʼ, chikop",
+  "examples": [
+    {
+      "example_maya": "Ri täq tzʼunun ruyon kotzʼiʼj nkisijaj",
+      "example_spa": "Los gorrioncitos sólo chupan flores",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼunün jun chʼiti chiköp koʼöl ök nim rutzaʼn, nirilibʼej riʼ rikʼin rukabʼil ri kotzʼiʼj jeʼ",
+      "example_spa": "El gorrión es un pajarito muy pequeño, de pico grande y se alimenta con la miel de las flores",
+      "dialect": null
+    }
+  ],
+  "uuid": "bac20c12-0db6-4117-93ee-2bd5bd007e93",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lukuʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kalukuʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblarse como arco; arquearse",
+  "definitionDialect": "Español",
+  "additional_text": "vl Raíz P Luk",
+  "examples": [
+    {
+      "example_maya": "Li cheʼ kalukuʼpik ma xa sibʼalaj nim raqan",
+      "example_spa": "El palo se dobla como arco porque es largo y delgado",
+      "dialect": null
+    }
+  ],
+  "uuid": "60b66527-1951-4a80-88fe-304ffeea94b1"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼajxujuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Azul oscuro",
+  "definitionDialect": "General",
+  "additional_text": "pc",
+  "examples": [
+    {
+      "example_maya": "Li paxuchʼ sibʼalaj qʼajxujuj li rij",
+      "example_spa": "Este pavo es de color azul obscuro",
+      "dialect": null
+    }
+  ],
+  "uuid": "54c6bfda-8269-474d-ae98-2cdaec72f232"
+}

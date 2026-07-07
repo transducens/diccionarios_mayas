@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼajchʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": "xchʼajchʼobʼirik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xchʼajchʼojirik",
+  "altEntryWordDialect2": null,
+  "definition": "Limpio; hermoso, lindo",
+  "definitionDialect": "",
+  "additional_text": "Adj Uchʼajchʼojiil, Raiz VT Chʼaj",
+  "examples": [
+    {
+      "example_maya": "Li webʼal sibʼalaj chʼajchʼoj",
+      "example_spa": "Los platos están muy limpios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uneʼ li ixoq sibʼalaj chʼajchʼoj",
+      "example_spa": "El nene de la mujer es muy hermoso",
+      "dialect": null
+    }
+  ],
+  "uuid": "c72c4071-8487-42fe-b8f2-e204fc13819c"
+}

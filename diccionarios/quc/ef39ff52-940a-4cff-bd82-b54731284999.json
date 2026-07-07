@@ -1,0 +1,19 @@
+{
+  "entryWord": "Suʼtabʼal suʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusuʼtabʼal suʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pañuelo ceremonial",
+  "definitionDialect": "",
+  "additional_text": "SCL Raíz S Suʼt DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Li mortoʼmayibʼ kakikoj kisuʼtabʼal suʼt pa taq nimaqʼij",
+      "example_spa": "Los mayordomos usan pañuelo ceremonial en las fiestas",
+      "dialect": null
+    }
+  ],
+  "uuid": "ef39ff52-940a-4cff-bd82-b54731284999"
+}

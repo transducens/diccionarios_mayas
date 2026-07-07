@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼyuʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mecate; cheche; chiyute",
+  "definitionDialect": "General",
+  "additional_text": "sinv Nuchʼyuʼt",
+  "examples": [
+    {
+      "example_maya": "Li chaqij chʼyuʼt utz kaximbʼex koral",
+      "example_spa": "El cheche seco es bueno para amarrar cercas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4bb99290-3e93-41e3-8c70-a577cd3cc7e4"
+}

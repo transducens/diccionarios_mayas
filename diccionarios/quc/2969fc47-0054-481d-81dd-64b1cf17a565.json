@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqal jabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Temporal",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz Adj Qʼeq Raiz S Jabʼ",
+  "examples": [
+    {
+      "example_maya": "Qʼeqal jabʼ kabʼix cheh we katajin jabʼ pa qʼij chiʼl chaqʼabʼ",
+      "example_spa": "Temporal se llama a la época de lluvia permanente por varios días",
+      "dialect": null
+    }
+  ],
+  "uuid": "2969fc47-0054-481d-81dd-64b1cf17a565"
+}

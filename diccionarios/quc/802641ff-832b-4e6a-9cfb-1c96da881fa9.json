@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wakik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Echar lana natural o algodón en un costal",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinwaakoh Raíz VT Wak",
+  "examples": [
+    {
+      "example_maya": "Li qʼolol met tajin kuwak li met pa li bʼrin",
+      "example_spa": "El cortador está echando el algodón en un costal",
+      "dialect": null
+    }
+  ],
+  "uuid": "802641ff-832b-4e6a-9cfb-1c96da881fa9"
+}

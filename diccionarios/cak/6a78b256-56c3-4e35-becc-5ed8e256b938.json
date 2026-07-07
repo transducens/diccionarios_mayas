@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qoröl",
+  "definition": "Roncar",
+  "additional_text": "vi Yiqoröl Sinón Qoroʼ niqoro Sinón Joro, nijoro",
+  "examples": [
+    {
+      "example_maya": "Kʼo winäq yalan yeqoröl taq yewär",
+      "example_spa": "Hay personas que roncan mucho al dormir",
+      "dialect": null
+    },
+    {
+      "example_maya": "E kʼiy winäq yeqoröl chuqaʼ pa kitzaʼn taq ye wär",
+      "example_spa": "Muchas personas roncan cuando duermen",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a78b256-56c3-4e35-becc-5ed8e256b938",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼumil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estrella",
+  "definitionDialect": "General",
+  "additional_text": "SnP SSP =Chʼumilaal",
+  "examples": [
+    {
+      "example_maya": "Chaqʼabʼ kaʼilitaj li chʼumil",
+      "example_spa": "En la noche se ven las estrellas",
+      "dialect": null
+    }
+  ],
+  "uuid": "49298d24-ec04-4b61-b79b-5293ea0a1c2a"
+}

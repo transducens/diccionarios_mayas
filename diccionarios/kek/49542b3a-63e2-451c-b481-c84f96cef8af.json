@@ -1,0 +1,23 @@
+{
+  "entryWord": "Teram",
+  "definition": "Altura",
+  "additional_text": "SInv Interam",
+  "examples": [
+    {
+      "example_maya": "Kachʼin interam",
+      "example_spa": "Soy de baja estatura",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Joʼ teram xtaqeʼ li tzʼak?",
+      "example_spa": "¿A qué altura subió la pared?",
+      "dialect": null
+    }
+  ],
+  "uuid": "49542b3a-63e2-451c-b481-c84f96cef8af",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

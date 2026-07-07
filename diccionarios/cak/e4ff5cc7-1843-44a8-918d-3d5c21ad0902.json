@@ -1,0 +1,28 @@
+{
+  "entryWord": "Jechʼël (jechʼ)",
+  "definition": "Torcido, disparejo, desigual Que está desviado de su posición normal",
+  "additional_text": "p Xjèchʼeʼ, xujechʼebʼaʼ Jechʼejoʼ Desviarse, torcerse Jechʼejöt Estar torciéndose Sinón Jechʼel var Tzalan Jëchʼ",
+  "examples": [
+    {
+      "example_maya": "Jechʼ ri weqaʼn",
+      "example_spa": "Mi carga está torcida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jechʼ ri nuxajabʼ, jun nüm (nim) jun koʼöl",
+      "example_spa": "Mis zapatos son desiguales: uno grande y uno pequeño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun wasaron yalan jechʼël ri pa ruchiʼ",
+      "example_spa": "Tengo un azadón con el filo muy torcido",
+      "dialect": null
+    }
+  ],
+  "uuid": "e4ff5cc7-1843-44a8-918d-3d5c21ad0902",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

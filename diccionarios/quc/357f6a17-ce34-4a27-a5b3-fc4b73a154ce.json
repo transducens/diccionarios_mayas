@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼajolcheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medida de granos (6 libras de maíz o 5 libras de trigo)",
+  "definitionDialect": "",
+  "additional_text": "Med Var Kʼojolcheʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, jun kʼajolcheʼ rixim xuchʼak chwa chak",
+      "example_spa": "El hombre ganó seis libras de maíz por su trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "357f6a17-ce34-4a27-a5b3-fc4b73a154ce"
+}

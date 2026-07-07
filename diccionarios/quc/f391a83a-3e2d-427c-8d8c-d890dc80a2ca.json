@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼunun",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gorrión; chupa flor; colibrí",
+  "definitionDialect": "",
+  "additional_text": "scv Nutzʼunuun Raíz S Tzʼun DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li tzʼunun kasiʼjan pa taq li usiʼj li tikoʼn",
+      "example_spa": "El gorrión chupa la miel de las flores",
+      "dialect": null
+    }
+  ],
+  "uuid": "f391a83a-3e2d-427c-8d8c-d890dc80a2ca"
+}

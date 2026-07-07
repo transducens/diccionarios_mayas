@@ -1,0 +1,34 @@
+{
+  "entryWord": "Juruxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacar jalando un palo debajo de otros, también hilos o palos en el tejido; lavar ropa, metiéndola ligeramente; sacar agua de un pozo o cosas largas y rollizas",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinjuruuj",
+  "examples": [
+    {
+      "example_maya": "Kinjuruj na kebʼ nucheʼ chuxe taq li bʼolaj",
+      "example_spa": "Tengo que sacar dos palos debajo de los trozos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq tajin kujuruj li umet",
+      "example_spa": "La mujer está hilando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinjuruj na nujoron pa li kʼwaʼ",
+      "example_spa": "Voy a sacar agua del pozo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinjuruj na kebʼ watzʼyaq pa joron",
+      "example_spa": "Voy a lavar unos vestidos en el río",
+      "dialect": null
+    }
+  ],
+  "uuid": "d81bf769-269d-4a09-863a-61d5fce3be99"
+}

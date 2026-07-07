@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juremaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una porción de líquido en reposo",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz P Rem",
+  "examples": [
+    {
+      "example_maya": "Juremaj li ukikʼel li wakax xtix puliw",
+      "example_spa": "Una porción de la sangre del buey se regó en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a4aedc88-4482-4dec-8fc0-473280fc5043"
+}

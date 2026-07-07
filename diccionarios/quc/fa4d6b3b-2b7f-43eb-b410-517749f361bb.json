@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzij wih",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cierto, verdad",
+  "definitionDialect": "",
+  "additional_text": "Adv Sinón Tziij Raíz Adv Tziij",
+  "examples": [
+    {
+      "example_maya": "¿La tzij chi xutzaq ri pwaq ri a teʼk?",
+      "example_spa": "¿Es cierto que Diego perdió el dinero?",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa4d6b3b-2b7f-43eb-b410-517749f361bb"
+}

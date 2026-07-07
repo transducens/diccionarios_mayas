@@ -1,0 +1,24 @@
+{
+  "entryWord": "Us",
+  "entryWordDialect": null,
+  "altEntryWord": "Uʼusil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xʼusirik",
+  "altEntryWordDialect2": null,
+  "definition": "Mosquitos que se alimentan de tal cosa O que se encuentran en tal parte",
+  "definitionDialect": "",
+  "additional_text": "Adj DomS Chokop",
+  "examples": [
+    {
+      "example_maya": "Li ankeneʼy we sibʼalaj elenaq uwiʼ uchaqʼal kʼo uʼusil",
+      "example_spa": "Si el banano está demasiado maduro tiene mosquitos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uʼusil taqʼaj sibʼalaj kʼax ketyoʼnik",
+      "example_spa": "Los piquetes de los mosquitos de costa duelen mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "d821572a-0652-4e63-83ff-40ada3156672"
+}

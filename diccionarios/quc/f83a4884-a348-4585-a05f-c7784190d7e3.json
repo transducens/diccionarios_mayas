@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mortoʼm sankristriy\"",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacristán",
+  "definitionDialect": "",
+  "additional_text": "ss DomS Eqeleʼn",
+  "examples": [
+    {
+      "example_maya": "Li mortoʼm sankristriy\" are katoʼw li pareh pa mis",
+      "example_spa": "El sacristán ayuda al sacerdote en la misa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f83a4884-a348-4585-a05f-c7784190d7e3"
+}

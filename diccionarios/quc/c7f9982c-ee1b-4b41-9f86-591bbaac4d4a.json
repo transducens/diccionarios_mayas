@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeʼejexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinbʼeʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosas en morral o en bolsa de manta",
+  "definitionDialect": "General",
+  "additional_text": "vtd Sinón Jeekeem Raíz PT Bʼej",
+  "examples": [
+    {
+      "example_maya": "Kinbʼeʼej bʼi li jun chim jal",
+      "example_spa": "En el morral llevo mazorcas",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7f9982c-ee1b-4b41-9f86-591bbaac4d4a"
+}

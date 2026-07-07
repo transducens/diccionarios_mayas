@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachakʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar un animal con cachos o una persona con chiriviscos y pasos lentos",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Chakʼ",
+  "examples": [
+    {
+      "example_maya": "Li jun wakax kachakʼnajik xqʼatanik",
+      "example_spa": "El buey que pasó, tiene los cachos muy grandes",
+      "dialect": null
+    }
+  ],
+  "uuid": "a069c5dd-dc7d-4aa6-8ec0-3f28cad664e7"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jetzʼ",
+  "definition": "Renco, cojo",
+  "additional_text": "sInv Nujetzʼ Var Jechʼ",
+  "examples": [
+    {
+      "example_maya": "Ri winäq e jetzʼ man yetikïr ta yebʼyin jebʼel (jebʼäl)",
+      "example_spa": "Las personas rencas no pueden caminar bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun winäq jetzʼ näq kan ta ütz nbʼyin",
+      "example_spa": "Una persona coja no camina bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "33c12fe3-e107-4f10-b486-51adb2577285",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼas",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vaso, taza; mi vaso",
+  "definitionDialect": "",
+  "additional_text": "sInv Nubʼaas DomS Chokonisabʼal Del Cast Vaso",
+  "examples": [
+    {
+      "example_maya": "Li bʼas kachokon che tijbʼal kapeh",
+      "example_spa": "La taza sirve para tomar café",
+      "dialect": null
+    }
+  ],
+  "uuid": "c343a225-6f53-4b42-9e00-10670d63a616"
+}

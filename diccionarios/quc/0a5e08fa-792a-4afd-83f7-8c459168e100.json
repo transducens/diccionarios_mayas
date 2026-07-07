@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taktatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kataktatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambalearse como persona al empujarla",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz PT Tak",
+  "examples": [
+    {
+      "example_maya": "Li qʼabʼarel are taq xpaqchix bʼik, kataktatik xbʼek",
+      "example_spa": "Cuando empujaron al bolo, se tambaleó",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a5e08fa-792a-4afd-83f7-8c459168e100"
+}

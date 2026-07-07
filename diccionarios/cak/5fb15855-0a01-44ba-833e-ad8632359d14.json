@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pe",
+  "definition": "Para acá (hacia acá)",
+  "additional_text": "Dirc",
+  "examples": [
+    {
+      "example_maya": "Taqʼasaj pe la chʼakät chwe",
+      "example_spa": "Alcánceme para acá esa silla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taqasaj pe kaʼiʼ nutzʼalam",
+      "example_spa": "Bájeme dos tablas",
+      "dialect": null
+    }
+  ],
+  "uuid": "5fb15855-0a01-44ba-833e-ad8632359d14",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

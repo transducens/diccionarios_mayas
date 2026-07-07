@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ramixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinramij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar madera, papel o tela con tijeras",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz VT Ram",
+  "examples": [
+    {
+      "example_maya": "Li ajanel ramixik kubʼan cheh li tem rukʼ syerʼ",
+      "example_spa": "El carpintero corta la viga con el serrucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "d3c59cf5-02a1-481f-9752-7bc4c724ba0e"
+}

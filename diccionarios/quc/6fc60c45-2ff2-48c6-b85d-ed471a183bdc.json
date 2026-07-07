@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xik",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gavilán",
+  "definitionDialect": "general",
+  "additional_text": "SInv Raíz S Xiik DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xik qʼeq rij, saq li uwach ukʼuʼx, xuq kutij akʼ, tzʼikin, kumatz, nikʼaj chik",
+      "example_spa": "El gavilán es de color negro con pecho blanco y come gallinas, pájaros, culebras y otros animales más",
+      "dialect": null
+    }
+  ],
+  "uuid": "6fc60c45-2ff2-48c6-b85d-ed471a183bdc"
+}

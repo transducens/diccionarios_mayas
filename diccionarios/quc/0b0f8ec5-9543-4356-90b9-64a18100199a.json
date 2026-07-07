@@ -1,0 +1,24 @@
+{
+  "entryWord": "Siwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar leña",
+  "definitionDialect": "",
+  "additional_text": "vI Kinsiwik",
+  "examples": [
+    {
+      "example_maya": "Li achih kasiwik ma rajawaxik qʼaqʼ",
+      "example_spa": "El hombre corta leña porque se necesita fuego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tajin kinsiwik are taq xinso k wibʼ cheh ikaj",
+      "example_spa": "Estaba cortando leña cuando me lastimé con el hacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b0f8ec5-9543-4356-90b9-64a18100199a"
+}

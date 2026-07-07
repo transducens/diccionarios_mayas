@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqpuqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Blanca: agua por algún alimento, cal o barro",
+  "definitionDialect": "General",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li bʼinel jaʼ sibʼalaj saqpuqʼ rumal li saniyebʼ",
+      "example_spa": "El río se puso muy blanco por la arena",
+      "dialect": null
+    }
+  ],
+  "uuid": "3b0163b6-8712-418a-92bb-f96618f6ef36"
+}

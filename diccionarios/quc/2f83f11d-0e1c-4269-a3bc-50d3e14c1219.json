@@ -1,0 +1,24 @@
+{
+  "entryWord": "Likʼipuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Extender; aclarar hechos",
+  "definitionDialect": "General",
+  "additional_text": "vt Kinlikʼipuuj Raíz VT Likʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xulikʼipuj umak li rachajil pa qʼatbʼal tzij",
+      "example_spa": "La mujer aclaró los delitos de su esposo en la municipalidad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Reʼn, xulikʼipuj li ixim chwa li pop",
+      "example_spa": "Lorenzo extendió el maíz sobre el petate",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f83f11d-0e1c-4269-a3bc-50d3e14c1219"
+}

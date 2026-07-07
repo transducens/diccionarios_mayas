@@ -1,0 +1,24 @@
+{
+  "entryWord": "Raqan jabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lluvia que cae en gotas grandes; tipo de bejuco (Las muchachas usan este bejuco como listón para que crezca bien el pelo)",
+  "definitionDialect": "",
+  "additional_text": "sds Raíz S Aqan Raíz S Jabʼ",
+  "examples": [
+    {
+      "example_maya": "Chikʼolo li siʼ ma xqaj raqan jabʼ",
+      "example_spa": "Guarden la leña porque ya empezaron a caer las primeras gotas de lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li raqan jabʼ jun kʼaʼam kakʼiy pwi taq cheʼ, xuq utz cheh wiʼaj we na kakʼiy taj, jer kakoj laxton",
+      "example_spa": "Raqan jabʼ es un tipo de bejuco que crece sobre los árboles, es bueno para el cabello si no crece, se usa como listón",
+      "dialect": null
+    }
+  ],
+  "uuid": "66d38325-d326-40b7-94cb-b1ec39b2342b"
+}

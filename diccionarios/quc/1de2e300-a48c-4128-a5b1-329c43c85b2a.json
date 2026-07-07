@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ukinaqʼ kej",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Monte parecido al frijol",
+  "definitionDialect": "General",
+  "additional_text": "sds Sinón Tzokit",
+  "examples": [
+    {
+      "example_maya": "Li ukinaqʼ kej, jer\" kape kinaqʼ",
+      "example_spa": "Este monte es parecido al frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "1de2e300-a48c-4128-a5b1-329c43c85b2a"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Salwaʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Afrecho de trigo",
+  "definitionDialect": "",
+  "additional_text": "sinv Nusalwaʼt",
+  "examples": [
+    {
+      "example_maya": "Li salwaʼt kayuj rukʼ qʼor kabʼan lij chech",
+      "example_spa": "El afrecho se mezcla con masa y se hacen tortillas",
+      "dialect": null
+    }
+  ],
+  "uuid": "69dd3dd3-2b0c-475b-990b-48e0c6902782"
+}

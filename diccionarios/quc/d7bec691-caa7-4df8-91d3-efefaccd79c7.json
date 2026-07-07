@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wajlinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar los sapos, chocoyos o muchas personas juntas",
+  "definitionDialect": "",
+  "additional_text": "vi Kawajlinik Raíz Vl Waj",
+  "examples": [
+    {
+      "example_maya": "Li winaq kewajlin cheh bʼix pa tyox",
+      "example_spa": "La gente está cantando alabanzas en la iglesia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq qʼalaj kewajlin li xpeq",
+      "example_spa": "En invierno los sapos cantan juntos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7bec691-caa7-4df8-91d3-efefaccd79c7"
+}

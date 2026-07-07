@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eesaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar; sacar",
+  "definitionDialect": "Español",
+  "additional_text": "vtrD Kinweesaaj F Kareesaj bʼi jaastaq Es ladrón var Elesaxik",
+  "examples": [
+    {
+      "example_maya": "Xinwesaj nuwuj pa qʼatbʼal tzij",
+      "example_spa": "Saqué mis documentos de la municipalidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "67b81ec1-e7d7-4bc2-8008-0cc9ff9c3dfb"
+}

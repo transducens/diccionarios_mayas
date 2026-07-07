@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Ismaʼch",
+  "entryWordDialect": null,
+  "altEntryWord": "Wismaʼch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Barba; bigote",
+  "definitionDialect": "General",
+  "additional_text": "sInv var Smaʼch",
+  "examples": [
+    {
+      "example_maya": "Li rismaʼch li achih sibʼalaj nimaʼq",
+      "example_spa": "Los bigotes del hombre son muy grandes",
+      "dialect": null
+    }
+  ],
+  "uuid": "f01fd141-5809-4012-b137-092c441b9442"
+}

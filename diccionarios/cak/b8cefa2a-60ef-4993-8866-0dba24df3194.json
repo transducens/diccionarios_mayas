@@ -1,0 +1,23 @@
+{
+  "entryWord": "Raxwach",
+  "definition": "Maíz negro, tortilla negra",
+  "additional_text": "sc Nuraxwach Ixin",
+  "examples": [
+    {
+      "example_maya": "Kʼo raxwach kan raxkʼujüj (raxjukʼujüj) titzuʼun",
+      "example_spa": "Hay maíz negro que tiene un color verde azul",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qäch qawinaq yalan nikitik ri raxwach",
+      "example_spa": "Nuestra gente siembra mucho el maíz negro",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8cefa2a-60ef-4993-8866-0dba24df3194",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

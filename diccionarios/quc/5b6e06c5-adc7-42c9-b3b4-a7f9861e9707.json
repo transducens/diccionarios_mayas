@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aqʼanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinaqʼanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Subir",
+  "definitionDialect": "General",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Aqʼanem raj kinbʼan pwiʼ li cheʼ are taq xpe li jabʼ",
+      "example_spa": "Estaba subiendo al árbol cuando vino la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b6e06c5-adc7-42c9-b3b4-a7f9861e9707"
+}

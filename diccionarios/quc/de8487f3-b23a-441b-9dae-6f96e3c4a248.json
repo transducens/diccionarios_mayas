@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tixtobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katixtobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar por llover",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz VT Tix",
+  "examples": [
+    {
+      "example_maya": "Li jabʼ koʼl ma na katixtobʼik",
+      "example_spa": "La lluvia está por caer",
+      "dialect": null
+    }
+  ],
+  "uuid": "de8487f3-b23a-441b-9dae-6f96e3c4a248"
+}

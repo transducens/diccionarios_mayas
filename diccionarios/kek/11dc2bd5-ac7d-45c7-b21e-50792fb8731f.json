@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼochaak",
+  "definition": "Aliviarse, mejorarse",
+  "additional_text": "vı Xinqʼocha",
+  "examples": [
+    {
+      "example_maya": "Xinqʼocha kachʼin",
+      "example_spa": "Me alivié un poco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼochaaqat wan",
+      "example_spa": "Hasta que te mejorés",
+      "dialect": null
+    }
+  ],
+  "uuid": "11dc2bd5-ac7d-45c7-b21e-50792fb8731f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

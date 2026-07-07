@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxa peraj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perraje ceremonial de color negro",
+  "definitionDialect": "",
+  "additional_text": "sds DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Li raxa peraj chuchuxelabʼ xuq ajkʼulanem kekojowik",
+      "example_spa": "El perraje ceremonial lo usan las Chuchuxeles y las que se casan en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b36dbfd-1344-470c-8c39-4f4a54618565"
+}

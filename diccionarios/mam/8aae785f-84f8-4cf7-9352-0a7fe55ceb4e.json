@@ -1,0 +1,18 @@
+{
+  "entryWord": "YEEK",
+  "definition": "1 diego 2 santiago",
+  "additional_text": "nom del español Diego, Santiago ds bʼibʼaj",
+  "examples": [
+    {
+      "example_maya": "¿Tqal tbʼi ttxuʼya qʼany Yek?",
+      "example_spa": "¿Cómo se llama tu mamá vos Diego?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8aae785f-84f8-4cf7-9352-0a7fe55ceb4e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

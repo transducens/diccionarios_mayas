@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼot",
+  "entryWordDialect": null,
+  "altEntryWord": "Met",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Algodón",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼoot Fbas //Bʼoht// vi Bʼootareem Ponerse suave",
+  "examples": [
+    {
+      "example_maya": "Li bʼot pa miqʼina juyubʼ kakʼiy wih",
+      "example_spa": "El algodón crece en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "99a4b27e-87f9-463a-9921-85a40f8b74c9"
+}

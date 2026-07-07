@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maqar",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba comestible",
+  "definitionDialect": "",
+  "additional_text": "scv Numaaqaar Poss //Mahqar// DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li uxaq li maqar nima ketekaʼq xuq utz katijowik",
+      "example_spa": "Esta hierba es comestible, sus hojas son algo redondas",
+      "dialect": null
+    }
+  ],
+  "uuid": "f047990b-829e-4682-85af-0afd710c587b"
+}

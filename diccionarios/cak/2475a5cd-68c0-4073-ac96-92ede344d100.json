@@ -1,0 +1,23 @@
+{
+  "entryWord": "Koloʼ",
+  "definition": "Lazo",
+  "additional_text": "sInv Nukoloʼ Kʼan, samajibʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri chʼiwuʼ (chʼiyuʼt) koloʼ kʼan ukunäq, nchʼaj, kʼa ri nibʼal",
+      "example_spa": "El lazo es hecho de maguey, se limpia, después se tuerce",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wakx yexim rikʼin nimaʼq koloʼ",
+      "example_spa": "El ganado se amarra con lazo grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "2475a5cd-68c0-4073-ac96-92ede344d100",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

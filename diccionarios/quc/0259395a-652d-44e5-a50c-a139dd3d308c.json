@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzalnajcem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzalnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar coyote o perro",
+  "definitionDialect": "",
+  "additional_text": "vt Coment Se le dice así a estos animales porque siempre andan algo de lado Raiz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Li litiw ketzalnaj kebʼinik",
+      "example_spa": "Los coyotes andan algo de lado",
+      "dialect": null
+    }
+  ],
+  "uuid": "0259395a-652d-44e5-a50c-a139dd3d308c"
+}

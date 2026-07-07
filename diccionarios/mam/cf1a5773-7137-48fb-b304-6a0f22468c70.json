@@ -1,0 +1,18 @@
+{
+  "entryWord": "KARS",
+  "definition": "1 carrillo Dialecto de Colotenango 2 garcía",
+  "additional_text": "ap ds tkʼoleʼ",
+  "examples": [
+    {
+      "example_maya": "Ma tzʼok tkyʼajal tat Kars te qʼanal",
+      "example_spa": "El hijo del señor Carrillo se hizo médico",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "cf1a5773-7137-48fb-b304-6a0f22468c70",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

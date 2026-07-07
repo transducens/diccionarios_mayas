@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼabʼmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼabʼmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con la boca abierta: perros rabiosos",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz p Kʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼuʼja tzʼiʼ, kakʼabʼmaʼy pa li bʼeh",
+      "example_spa": "El perro rabioso anda con la boca abierta en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8346ca8-c5ec-49e7-b7e0-152335a73907"
+}

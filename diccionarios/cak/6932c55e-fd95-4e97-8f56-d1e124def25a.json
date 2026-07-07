@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tza (tza wa)",
+  "definition": "Oh, mira",
+  "additional_text": "Adm Var Cha, cha wa",
+  "examples": [
+    {
+      "example_maya": "Kan tza wa titzuʼun ri akamxaʼ",
+      "example_spa": "¡Oh! que fina es tu camisa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tza wa ri nuwuj, xinmestaj kan",
+      "example_spa": "¡Oh! dejé olvidado mi libro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tza jebʼël ok rukʼan (ruxar) la alaʼ",
+      "example_spa": "Qué novia tan bonita la de aquel joven",
+      "dialect": null
+    }
+  ],
+  "uuid": "6932c55e-fd95-4e97-8f56-d1e124def25a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

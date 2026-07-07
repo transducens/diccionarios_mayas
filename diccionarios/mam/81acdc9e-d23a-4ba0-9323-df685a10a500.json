@@ -1,0 +1,18 @@
+{
+  "entryWord": "LIIM",
+  "definition": "lima (fruta o planta)",
+  "additional_text": "s1 nlima del español lima ds loʼj, ds awal",
+  "examples": [
+    {
+      "example_maya": "Purax chiʼ tlonjtz naq lim",
+      "example_spa": "Es muy dulce el sabor de la lima",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "81acdc9e-d23a-4ba0-9323-df685a10a500",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jurokʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un rasguño; un arañazo",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz PT Rokʼ",
+  "examples": [
+    {
+      "example_maya": "Li meʼs xaq jurokʼ xuya chinupalaj",
+      "example_spa": "El gato me dio un rasguño en la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "bda4ca3c-d6bb-4faa-9bed-410bae162662"
+}

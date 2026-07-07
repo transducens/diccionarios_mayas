@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rannajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karannajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar como un gordo o persona con la cintura alta",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz P Ran",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq karannaj pa li bʼeh",
+      "example_spa": "La mujer gorda sólo anda en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "d8fec5ec-8c68-4917-8437-6f5aed14e1d0"
+}

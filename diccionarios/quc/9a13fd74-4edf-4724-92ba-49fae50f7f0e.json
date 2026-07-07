@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pareh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Padre; sacerdote",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Winaq Del Cast Padre",
+  "examples": [
+    {
+      "example_maya": "Li Pareh are kaqasan jaʼ pa kiwiʼ li akʼalabʼ xuq kubʼan mis",
+      "example_spa": "El padre es el que bautiza a los niños y celebra la misa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a13fd74-4edf-4724-92ba-49fae50f7f0e"
+}

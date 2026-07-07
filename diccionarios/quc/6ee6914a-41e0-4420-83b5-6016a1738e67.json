@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wunuwuʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwunuwaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar tambor",
+  "definitionDialect": "General",
+  "additional_text": "vt Raiz P Wun",
+  "examples": [
+    {
+      "example_maya": "Tajin kinwunuwa li tambʼor are taq xteqʼetobʼik",
+      "example_spa": "Estaba tocando el tambor cuando se rompió",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ee6914a-41e0-4420-83b5-6016a1738e67"
+}

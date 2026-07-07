@@ -1,0 +1,23 @@
+{
+  "entryWord": "AAQʼ",
+  "definition": "bejuco",
+  "additional_text": "s1 waqʼa frases: ich aqʼ tipo de bejuco raíz aqʼ s",
+  "examples": [
+    {
+      "example_maya": "Aj aqʼ oʼkx jak kanet tjaqʼ kʼul",
+      "example_spa": "El bejuco sólo se puede encontrar en el monte",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Jun kʼlaj taqʼ ajtzyaʼ sultiʼn wukʼala",
+      "example_spa": "El migueleño trajo un tercio de bejuco para mi",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "efc854ef-f9f4-4a85-83a4-5738ba865612",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

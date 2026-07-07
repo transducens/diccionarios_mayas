@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rikikem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karikikik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correr perro con mucha velocidad; volar",
+  "definitionDialect": "es",
+  "additional_text": "vI Raíz vI Rik",
+  "examples": [
+    {
+      "example_maya": "Li alaj tzʼikin xuchap rikikem",
+      "example_spa": "El pajarito empezó a volar",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e0a8e50-c91b-46e0-b25e-6d3c1e0e5d30"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzimah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzima",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guacal",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz S Tzimah",
+  "examples": [
+    {
+      "example_maya": "Li tzimah kachokon cheh likbʼal joron",
+      "example_spa": "El guacal se usa para sacar agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "17b9fc5b-018f-446d-bc7a-696d3a64bc4e"
+}

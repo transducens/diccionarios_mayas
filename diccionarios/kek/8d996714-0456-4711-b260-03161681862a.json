@@ -1,0 +1,28 @@
+{
+  "entryWord": "Aatin",
+  "definition": "Palabra, lenguaje, opinión, discurso",
+  "additional_text": "SInv Waatin",
+  "examples": [
+    {
+      "example_maya": "Mare xextochʼ li waatin rikʼin li xinye",
+      "example_spa": "Tal vez les golpeó la palabra que dije",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taqenaq li aatin naroksi laj kʼutunel",
+      "example_spa": "El lenguaje que usa el maestro es muy elevado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qabʼihaq laawatin",
+      "example_spa": "Oigamos la opinión suya",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d996714-0456-4711-b260-03161681862a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

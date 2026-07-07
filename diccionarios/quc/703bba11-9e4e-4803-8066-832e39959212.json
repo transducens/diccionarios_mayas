@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oxmulinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinoxmulinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Repartir tres veces",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz N Ox",
+  "examples": [
+    {
+      "example_maya": "Li jun achih koxmulin cheh li urikil, sibʼalaj jun mun",
+      "example_spa": "El hombre repite tres veces la comida porque es comilón",
+      "dialect": null
+    }
+  ],
+  "uuid": "703bba11-9e4e-4803-8066-832e39959212"
+}

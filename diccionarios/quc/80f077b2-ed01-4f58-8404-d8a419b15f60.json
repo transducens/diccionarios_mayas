@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼeyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Haraganear; huevonear; tener pereza",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinkʼeyoh Raíz VT Kʼey",
+  "examples": [
+    {
+      "example_maya": "Li akʼal na karaj taj kachakunik, xa kukʼeyoh",
+      "example_spa": "El niño no quiere trabajar porque tiene pereza",
+      "dialect": null
+    }
+  ],
+  "uuid": "80f077b2-ed01-4f58-8404-d8a419b15f60"
+}

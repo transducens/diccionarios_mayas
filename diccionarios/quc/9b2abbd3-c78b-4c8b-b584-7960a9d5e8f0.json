@@ -1,0 +1,24 @@
+{
+  "entryWord": "Naʼtajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acordarse; recordarse (verbo impersonal)",
+  "definitionDialect": "",
+  "additional_text": "vi Kanaʼtajik Raíz VI Naʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼa kanaʼtaj ri nimaqʼij chwech rech junabʼir",
+      "example_spa": "Todavía me acuerdo de la fiesta del año pasado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq kʼa teʼ xnaʼtaj chwe chi kul jun wulaʼ chwa jah",
+      "example_spa": "De repente me acordé que va a llegar un visitante a mi casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b2abbd3-c78b-4c8b-b584-7960a9d5e8f0"
+}

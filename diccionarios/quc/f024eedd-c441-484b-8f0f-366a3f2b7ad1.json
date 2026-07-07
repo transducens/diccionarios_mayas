@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tubʼlixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintubʼlij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fumar cigarro",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz P Tubʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq sikʼ xutubʼlij jun qʼij",
+      "example_spa": "El hombre estuvo fumando cigarros todo el día",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li riʼjachih kutubʼlij kachiʼm",
+      "example_spa": "El anciano está fumando con pipa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f024eedd-c441-484b-8f0f-366a3f2b7ad1"
+}

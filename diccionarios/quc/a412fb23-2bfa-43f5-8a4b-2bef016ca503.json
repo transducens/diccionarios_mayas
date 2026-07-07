@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼoʼlanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enorgullecerse; presumirse; alagarse; vanagloriarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqʼoʼlanik Raíz S Qʼoʼl",
+  "examples": [
+    {
+      "example_maya": "Qʼoʼla alah",
+      "example_spa": "Muchacho Presumido",
+      "dialect": null
+    },
+    {
+      "example_maya": "At a qʼoʼl",
+      "example_spa": "Sos presumido",
+      "dialect": null
+    },
+    {
+      "example_maya": "At al qʼoʼl",
+      "example_spa": "Sos presumida",
+      "dialect": null
+    }
+  ],
+  "uuid": "a412fb23-2bfa-43f5-8a4b-2bef016ca503"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "KUTZʼ (chinkutzʼ)",
+  "definition": "gorrión, colibrí, chupaflor",
+  "additional_text": "s1a nkutzʼa sin chitzʼ;",
+  "examples": [
+    {
+      "example_maya": "Kye chi tzʼubʼan qatal kutzʼ tiʼj tchiʼal qabʼech",
+      "example_spa": "Los gorrioncillos chupan el néctar de las flores",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Mas tikyʼ kutzʼ kywitz tzanxkytenka chʼit",
+      "example_spa": "Los chupaflor corren más que los otros pájaros",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "912aacab-9af3-4b27-b047-e39303d4a41d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

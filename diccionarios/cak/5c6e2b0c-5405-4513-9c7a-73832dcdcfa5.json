@@ -1,0 +1,23 @@
+{
+  "entryWord": "Palamax",
+  "definition": "Mariposa",
+  "additional_text": "sInv Nupalamax Xikʼanel Paloma",
+  "examples": [
+    {
+      "example_maya": "Ri palamax yalan chawan (chawon) ri ruxikʼ",
+      "example_spa": "La mariposa tiene las alas muy grandes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri palamax yalan jut nkiyaʼ chi rij ri ichaj",
+      "example_spa": "Las mariposas dejan muchos gusanos en las verduras",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c6e2b0c-5405-4513-9c7a-73832dcdcfa5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

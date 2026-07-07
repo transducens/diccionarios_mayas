@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼajajexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼajajej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar en tono dulce y suave; decir algo en tono dulce y suave",
+  "definitionDialect": "es",
+  "additional_text": "vTD Raíz VT Qʼaj",
+  "examples": [
+    {
+      "example_maya": "Xkiqʼajajej chʼabʼal",
+      "example_spa": "Dijeron palabras muy suaves",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e16d5be-bc4e-42be-9a33-aaa0b56aacec"
+}

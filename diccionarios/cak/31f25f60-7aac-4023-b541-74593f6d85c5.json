@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xajan",
+  "definition": "Pecado",
+  "additional_text": "sNP",
+  "examples": [
+    {
+      "example_maya": "Ri yakamsan xajan",
+      "example_spa": "Matar es pecado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼukun tzij xajan",
+      "example_spa": "Mentir es pecado",
+      "dialect": null
+    }
+  ],
+  "uuid": "31f25f60-7aac-4023-b541-74593f6d85c5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

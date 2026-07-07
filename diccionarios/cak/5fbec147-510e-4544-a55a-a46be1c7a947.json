@@ -1,0 +1,23 @@
+{
+  "entryWord": "Atzʼaminïk",
+  "definition": "Salar comida",
+  "additional_text": "vtd Atzʼamixïk, ninwatzʼamij Atzʼam",
+  "examples": [
+    {
+      "example_maya": "Kʼo bʼëy ri ixoqiʼ näq nikatzʼamij ta qa ri ki qʼutuʼn",
+      "example_spa": "A veces las mujeres no salan la comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq nintzäk nukinaqʼ kʼa runaj ninwatzʼamij richin man kʼarakʼik nubʼän",
+      "example_spa": "Cuando cuezo frijol, le echo sal muy tarde para que se cueza bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "5fbec147-510e-4544-a55a-a46be1c7a947",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

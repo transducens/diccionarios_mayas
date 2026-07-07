@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rebʼebʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Defecar un buey; comer hierbas una bestia, o cosas largas como fideos una persona (colgando de la boca)",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kurebʼebʼeej Raíz P Rebʼ",
+  "examples": [
+    {
+      "example_maya": "Li wakax xurebʼebʼej kan le ukis pa li bʼeh",
+      "example_spa": "El buey dejó su excremento en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wakax xurebʼebʼej li alaj taq abʼix",
+      "example_spa": "El buey se comió la milpa tierna",
+      "dialect": null
+    }
+  ],
+  "uuid": "62bbd28c-7b5f-4d2b-8733-25ce400dc5ec"
+}

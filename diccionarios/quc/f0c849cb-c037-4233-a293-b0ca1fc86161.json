@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sangre",
+  "definitionDialect": "",
+  "additional_text": "sas Nukikʼeel Coment Posesión inajenable vl Kikʼareem Sangrar",
+  "examples": [
+    {
+      "example_maya": "Li kikʼ kasutin pa taq ronojel li ibʼochʼ pa li bʼaqilaj",
+      "example_spa": "La sangre circula por las venas del cuerpo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xsokik, xel ukikʼel",
+      "example_spa": "El hombre fue herido y le salió sangre",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0c849cb-c037-4233-a293-b0ca1fc86161"
+}

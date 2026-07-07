@@ -1,0 +1,23 @@
+{
+  "entryWord": "Rix",
+  "definition": "Cáscara, espalda",
+  "additional_text": "SSP",
+  "examples": [
+    {
+      "example_maya": "Makaʼchʼin li rix kenqʼ xeʼxpaji saʼ li bʼe",
+      "example_spa": "En la calle regaron muchas cáscaras de frijol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xintʼaneʼ sa li rix tul",
+      "example_spa": "Me caí por la cáscara del plátano",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ab31df6-4a2f-4743-b86b-cf04aa5aa039",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

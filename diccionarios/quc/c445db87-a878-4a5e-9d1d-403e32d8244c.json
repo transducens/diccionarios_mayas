@@ -1,0 +1,19 @@
+{
+  "entryWord": "Loqʼoʼmanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer compras; comprar",
+  "definitionDialect": "General",
+  "additional_text": "vi Kinloqʼoʼmanik Raíz VT Loqʼ",
+  "examples": [
+    {
+      "example_maya": "Li winaq pa loqʼoʼmanik kekibʼana pu kʼaybʼal",
+      "example_spa": "La gente va a hacer sus compras al mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "c445db87-a878-4a5e-9d1d-403e32d8244c"
+}

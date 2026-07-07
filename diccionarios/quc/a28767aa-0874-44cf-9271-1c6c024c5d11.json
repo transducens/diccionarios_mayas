@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼaxel tzij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Traductor; intérprete; mensajero; chismoso",
+  "definitionDialect": "es",
+  "additional_text": "scL Fbas //Qʼahx// Raíz S Tziij",
+  "examples": [
+    {
+      "example_maya": "Li achih xukoj qʼaxel tzij ma na retaʼm ta kaxlan tzij",
+      "example_spa": "El hombre usó traductor porque no sabe el castellano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qaxel nutzij chwach ri alih",
+      "example_spa": "Es mi mensajero con la muchacha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq na utz taj xa jun qʼaxel tzij",
+      "example_spa": "La mujer no es buena porque es chismosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a28767aa-0874-44cf-9271-1c6c024c5d11"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Piʼq",
+  "definition": "Olote, xilote",
+  "additional_text": "sInv Nupiʼq Rupiqal Olote de la mazorca Awän",
+  "examples": [
+    {
+      "example_maya": "Ri piʼq yalan ütz nok qʼaysan",
+      "example_spa": "El olote es muy bueno para abono natural",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri piʼq yalan ützʼ nok achiʼel siʼ",
+      "example_spa": "El xilote es muy bueno usarlo como leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a143f29-8677-4bd8-b46e-307fa3eaa0ed",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

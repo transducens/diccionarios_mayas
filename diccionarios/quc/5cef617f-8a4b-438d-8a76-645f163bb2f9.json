@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jaqʼajobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajaqʼajobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrarse cosa de madera como desgajándose o por mucho uso",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VT Jaqʼ",
+  "examples": [
+    {
+      "example_maya": "Xjaqʼajobʼ li jun uqʼabʼ cheʼ rumal li kaqiqʼ",
+      "example_spa": "La rama del árbol se quebró por el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "5cef617f-8a4b-438d-8a76-645f163bb2f9"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼirnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasar con pasos fuertes sin ser visto",
+  "definitionDialect": "",
+  "additional_text": "VI Kabʼirnajik Raíz PT Bʼir",
+  "examples": [
+    {
+      "example_maya": "¿Jachin riʼ ri kabʼirnajik xqʼaxik?",
+      "example_spa": "¿Quién habrá pasado con pasos fuertes?",
+      "dialect": null
+    }
+  ],
+  "uuid": "e75e2837-40e1-4677-b265-d7ea702e9543"
+}

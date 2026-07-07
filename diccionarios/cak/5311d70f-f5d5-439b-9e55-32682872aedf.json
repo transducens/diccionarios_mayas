@@ -1,0 +1,28 @@
+{
+  "entryWord": "Saqʼij",
+  "definition": "Verano, día claro",
+  "additional_text": "Adj Rusaqʼijal, xsaqʼijir Pa saqʼij En verano",
+  "examples": [
+    {
+      "example_maya": "Pa taq ruwaqxaq ikʼ kʼobʼey reʼnel jubʼaʼ saqʼij",
+      "example_spa": "En el mes de agosto a veces hace un poco verano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pa saqʼij yalan tew ri nimaqʼaʼ",
+      "example_spa": "En verano hay mucho frío por las mañanas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq jebʼel saqʼij niseqer yalan tew",
+      "example_spa": "Cuando amanece bien claro el día, hay mucho frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "5311d70f-f5d5-439b-9e55-32682872aedf",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

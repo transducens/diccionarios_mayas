@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tesorer",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tesorero",
+  "definitionDialect": "General",
+  "additional_text": "sinv Nutesoreer DomS Eqeleʼn Kʼolol pwaq Del Cast Tesorero",
+  "examples": [
+    {
+      "example_maya": "Li tesorer xukʼol li pwaq pa li kaxah",
+      "example_spa": "El tesorero guardó el dinero en la caja",
+      "dialect": null
+    }
+  ],
+  "uuid": "f86e3606-26d6-49ac-9b3b-debefb62ad07"
+}

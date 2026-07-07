@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qirik",
+  "entryWordDialect": null,
+  "altEntryWord": "Chetik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Raspar; lijar; cardar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinqiroh Var Cheetik Raiz VT Qir",
+  "examples": [
+    {
+      "example_maya": "Xuqir li upalaj are taq xtzaqik",
+      "example_spa": "Se raspó la cara al caerse",
+      "dialect": null
+    }
+  ],
+  "uuid": "25e77a1b-cda3-4ca8-8862-8c782cb178af"
+}

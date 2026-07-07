@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kemonïk",
+  "definition": "Tejer",
+  "additional_text": "vt Kemoxik, ninkëm, ninkën Kem Ken",
+  "examples": [
+    {
+      "example_maya": "Chwaʼq ninkem jun nuximbʼal",
+      "example_spa": "Mañana voy a tejer una mi faja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ixöq xukem jun nukamxaʼ",
+      "example_spa": "La mujer me tejió una camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "708bcc11-9a02-4d38-b64c-eaa5b46419a6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

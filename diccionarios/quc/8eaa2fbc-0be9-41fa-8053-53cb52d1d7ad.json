@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼilibʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parpadear, flamear muy lentamente",
+  "definitionDialect": "",
+  "additional_text": "vi Kabʼilibʼotik Raiz PT Bʼil",
+  "examples": [
+    {
+      "example_maya": "Li kotzʼiʼj tzij chwa li tyox kabʼilibʼotik",
+      "example_spa": "La candela que está encendida, flamea lentamente",
+      "dialect": null
+    }
+  ],
+  "uuid": "8eaa2fbc-0be9-41fa-8053-53cb52d1d7ad"
+}

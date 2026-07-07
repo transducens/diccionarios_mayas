@@ -1,0 +1,23 @@
+{
+  "entryWord": "SAMEET",
+  "definition": "enviar, mandar",
+  "additional_text": "vt samal te, sama txiʼ nsamaʼna, samabʼil raíz sam vt",
+  "examples": [
+    {
+      "example_maya": "Kxel samet kʼwal tuj sanjel",
+      "example_spa": "Se tiene que mandar el patojo al mandado",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma txiʼ nsamaʼn jun wuʼja tukʼ ntxuʼya",
+      "example_spa": "Ya envié una mi carta con mi mamá",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d5de5784-41e2-4bad-9a38-7963df2b3807",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

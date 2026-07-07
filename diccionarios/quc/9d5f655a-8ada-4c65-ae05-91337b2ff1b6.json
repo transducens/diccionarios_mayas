@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canasta",
+  "definitionDialect": "General",
+  "additional_text": "sinv Nuchʼuʼt DomS Chakach",
+  "examples": [
+    {
+      "example_maya": "Li muʼsabʼ chʼuʼt kakichokonsabʼej chirukʼaʼxik kikaxlanwa",
+      "example_spa": "Los ladinos usan canastas para pan",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d5f655a-8ada-4c65-ae05-91337b2ff1b6"
+}

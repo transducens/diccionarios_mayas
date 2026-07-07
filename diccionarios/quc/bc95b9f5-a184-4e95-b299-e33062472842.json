@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pequeño",
+  "definitionDialect": "general",
+  "additional_text": "Adj Coment Adjetivo atributivo Var Alaj",
+  "examples": [
+    {
+      "example_maya": "Li alaj tzʼiʼ xkamik",
+      "example_spa": "El perrito se murió",
+      "dialect": null
+    }
+  ],
+  "uuid": "bc95b9f5-a184-4e95-b299-e33062472842"
+}

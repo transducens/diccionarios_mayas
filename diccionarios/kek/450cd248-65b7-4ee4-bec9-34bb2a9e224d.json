@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paynum",
+  "definition": "Sin detenerse, directamente, rápido",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Paynum naq xnumeʼ li winq",
+      "example_spa": "El hombre pasó sin detenerse",
+      "dialect": null
+    },
+    {
+      "example_maya": "Paynum xnumeʼ saʼ li koxtal",
+      "example_spa": "Pasó directamente por el costal roto",
+      "dialect": null
+    }
+  ],
+  "uuid": "450cd248-65b7-4ee4-bec9-34bb2a9e224d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

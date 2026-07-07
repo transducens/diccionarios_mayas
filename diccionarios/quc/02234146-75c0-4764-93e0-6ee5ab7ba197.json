@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rajil",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurajil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Precio; valor; dinero",
+  "definitionDialect": "",
+  "additional_text": "scv Var Pwaq Var Meʼr Raíz S Ajil",
+  "examples": [
+    {
+      "example_maya": "Li achih xutoh, janipa rajil li powiʼ",
+      "example_spa": "El hombre preguntó el precio del sombrero",
+      "dialect": null
+    }
+  ],
+  "uuid": "02234146-75c0-4764-93e0-6ee5ab7ba197"
+}

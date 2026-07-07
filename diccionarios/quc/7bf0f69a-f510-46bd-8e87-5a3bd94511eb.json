@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼabʼatʼatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Decir babosadas; fanfarronear",
+  "definitionDialect": "general",
+  "additional_text": "vl Kintʼabʼatʼatik Raíz VT Tʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, xaq katʼabʼatʼatik ma xa qʼabʼarel",
+      "example_spa": "El hombre está hablando babosadas porque está bolo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq mattʼabʼatʼatik",
+      "example_spa": "No hablés babosadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bf0f69a-f510-46bd-8e87-5a3bd94511eb"
+}

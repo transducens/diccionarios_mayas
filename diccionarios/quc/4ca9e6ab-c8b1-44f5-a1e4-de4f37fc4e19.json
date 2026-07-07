@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rakaratem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karakaratik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar animal constantemente",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Rak",
+  "examples": [
+    {
+      "example_maya": "Xintoh karakarat li ibʼoy pa li jul",
+      "example_spa": "Oí que el armado estaba escarbando en la cueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ca9e6ab-c8b1-44f5-a1e4-de4f37fc4e19"
+}

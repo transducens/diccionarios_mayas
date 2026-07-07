@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuskik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pequeña: camisa o sombrero",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Kus",
+  "examples": [
+    {
+      "example_maya": "Li ukamiʼx li neʼ xa kuskik chech",
+      "example_spa": "La camisa del nene le queda pequeña",
+      "dialect": null
+    }
+  ],
+  "uuid": "7641e712-7080-49de-9f9b-1397c7db8677"
+}

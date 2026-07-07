@@ -1,0 +1,28 @@
+{
+  "entryWord": "Weqonik",
+  "definition": "Adornar, añadir, trajearse bien",
+  "additional_text": "vt var Jalonik Weq",
+  "examples": [
+    {
+      "example_maya": "Chupan ri nimaqʼij jebʼel xinweq wi",
+      "example_spa": "Por la fiesta me trajeé bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xbʼan jun nimaqʼij wawe wikʼin, xinwäq ri wacho",
+      "example_spa": "Cuando hubo una fiesta aquí conmigo, adorné mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ajtzʼisoʼn xuwäq ri nukaslon",
+      "example_spa": "El sastre me añadió mi pantalón",
+      "dialect": null
+    }
+  ],
+  "uuid": "c54851f7-2302-4c4a-8347-743115b0746c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

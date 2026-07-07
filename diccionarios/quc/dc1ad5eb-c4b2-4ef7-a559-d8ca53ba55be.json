@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼaranik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchʼariʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuchʼarabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Tirada: cosa de barro o metal ya vieja",
+  "definitionDialect": "General",
+  "additional_text": "p",
+  "examples": [
+    {
+      "example_maya": "Li rasaron li ajchak xa chʼaran chik",
+      "example_spa": "El trabajador tiene tirado el azadón",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc1ad5eb-c4b2-4ef7-a559-d8ca53ba55be"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ichaj",
+  "definition": "Hierba Hortaliza",
+  "additional_text": "sInv Wichaj Ichaj, qʼutumal",
+  "examples": [
+    {
+      "example_maya": "Kʼo ichaj ri yalan jebʼël titij",
+      "example_spa": "Hay hierbas que son muy sabrosas al comerlas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo ichaj ri aqʼon",
+      "example_spa": "Hay hierbas medicinales",
+      "dialect": null
+    }
+  ],
+  "uuid": "25895289-4cbc-49b4-9339-3168640bbab5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

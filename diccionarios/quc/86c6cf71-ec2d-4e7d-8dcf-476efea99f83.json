@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼix",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canción; mi canción",
+  "definitionDialect": "",
+  "additional_text": "sInv Nubʼiix sAgen Ajbʼiix Cantante ssp Ubʼixaal Melodía",
+  "examples": [
+    {
+      "example_maya": "Li alih sibʼalaj jeʼl li ubʼix",
+      "example_spa": "La canción de la muchacha es muy bonita",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajbʼix sibʼalaj jeʼl xbʼixanik",
+      "example_spa": "El cantante interpretó una canción romántica",
+      "dialect": null
+    }
+  ],
+  "uuid": "86c6cf71-ec2d-4e7d-8dcf-476efea99f83"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paja",
+  "definitionDialect": "Spanish",
+  "additional_text": "scv Nukʼiim Raiz S Kʼim",
+  "examples": [
+    {
+      "example_maya": "Li kʼim kachokon che uwi taq ja",
+      "example_spa": "La paja sirve para techos de casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6370217a-7331-4422-a559-dd5f1e3c3640"
+}

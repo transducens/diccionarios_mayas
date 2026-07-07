@@ -1,0 +1,29 @@
+{
+  "entryWord": "Taqalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtaqiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mediano de altura; agradable, persona que cae bien",
+  "definitionDialect": "general",
+  "additional_text": "p",
+  "examples": [
+    {
+      "example_maya": "Li achih na qas ta nim raqan, xaq taqalik",
+      "example_spa": "El hombre no es tan alto, es regular",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih sibʼalaj kataqiʼ chinuwach",
+      "example_spa": "La muchacha me cae bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li powiʼ sibʼalaj xtaqiʼ cheh li alah",
+      "example_spa": "El sombrero le quedó bien al muchacho",
+      "dialect": null
+    }
+  ],
+  "uuid": "4fd5c5b6-0c4c-4c7c-aee5-9dc9deadace2"
+}

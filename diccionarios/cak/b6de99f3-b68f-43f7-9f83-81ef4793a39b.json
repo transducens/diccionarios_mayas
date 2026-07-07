@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chaqwäy",
+  "definition": "Tortilla de ayer y que se come hoy",
+  "additional_text": "sc Nuchaqway Wʼay",
+  "examples": [
+    {
+      "example_maya": "Iwir chaqwäy xya el chwe richin pa juyuʼ",
+      "example_spa": "Ayer me dieron tortillas frías para llevar al monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chaqwäy nibʼix chi re ri wäy bʼanon kan iwir nitij wakami",
+      "example_spa": "Tortilla de ayer y que se come hoy",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6de99f3-b68f-43f7-9f83-81ef4793a39b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

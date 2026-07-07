@@ -1,0 +1,23 @@
+{
+  "entryWord": "Peʼy",
+  "definition": "Gallina de patas cortas",
+  "additional_text": "sInv Nupeʼy",
+  "examples": [
+    {
+      "example_maya": "Kʼo e kaʼiʼ wäkʼ ri e peʼy",
+      "example_spa": "Tengo dos gallinas que son de patas cortas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri äkʼ e peʼy yalan jebʼel kityojil",
+      "example_spa": "Las gallinas bajas son bien gordas",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb780d81-1c6e-4a96-9d4a-7c4e7e68bc0b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

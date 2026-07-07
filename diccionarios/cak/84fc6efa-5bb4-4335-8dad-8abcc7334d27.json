@@ -1,0 +1,28 @@
+{
+  "entryWord": "Loqʼonïk",
+  "definition": "Comprar",
+  "additional_text": "v t Loqʼoxik, ninlöqʼ Loqʼotajel, loqʼel, comprable Ant Kʼayinïk Löqʼ",
+  "examples": [
+    {
+      "example_maya": "Täq jun nulöqʼ jun wuj nipïs pe jebʼël",
+      "example_spa": "Cuando uno compra un libro, lo envuelven bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ixoqiʼ yebʼe pa loqʼonïk pa kʼaybʼäl",
+      "example_spa": "Las mujeres van a comprar al mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir xoqa jun achin nuloqʼ siʼ",
+      "example_spa": "Ayer llegó un hombre que compra leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "84fc6efa-5bb4-4335-8dad-8abcc7334d27",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

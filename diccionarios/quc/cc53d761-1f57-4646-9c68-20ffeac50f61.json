@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xot",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comal; teja de barro",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuxoot DomS Uleew",
+  "examples": [
+    {
+      "example_maya": "Li nuxot sibʼalaj paqal xinyaʼoh",
+      "example_spa": "El comal me costó muy caro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jah kʼakʼ taq xot xok pwiʼ",
+      "example_spa": "A la casa le pusieron tejas de barro",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc53d761-1f57-4646-9c68-20ffeac50f61"
+}

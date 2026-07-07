@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ta bʼiʼ",
+  "definition": "¿Será?, ¿acaso? Indica una duda",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "¿Ma taakʼam ta bʼiʼ?",
+      "example_spa": "¿Lo lleva pues?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Ma xsach ta bʼieʼ?",
+      "example_spa": "¿Acaso se perdió?",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3990299-c4cd-43f7-a099-5787690329e4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

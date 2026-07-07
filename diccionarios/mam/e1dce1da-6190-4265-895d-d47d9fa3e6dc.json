@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHIʼL",
+  "definition": "canasto",
+  "additional_text": "s1a nchiʼla raíz chiʼl s ds makbʼil",
+  "examples": [
+    {
+      "example_maya": "Tuj chiʼl matxiʼ twabʼaj Lina te tkʼaʼẍ tuj plas",
+      "example_spa": "En el canasto se llevó Catarina sus tortillas para venta en la plaza",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Pena nkyʼisj tchiʼl tukʼ qʼinan",
+      "example_spa": "Apenas puede cargar su canasto lleno de jocotes",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e1dce1da-6190-4265-895d-d47d9fa3e6dc",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

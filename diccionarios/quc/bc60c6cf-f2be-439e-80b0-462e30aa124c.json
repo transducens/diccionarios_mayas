@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tinitik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grueso como tabla, viga, camisa, libro y otras cosas anchas",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Piim Var Pejpik Raíz P Tin",
+  "examples": [
+    {
+      "example_maya": "Li atzʼyaq sibʼalaj tinitik",
+      "example_spa": "La tela es muy gruesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "bc60c6cf-f2be-439e-80b0-462e30aa124c"
+}

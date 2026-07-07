@@ -1,0 +1,19 @@
+{
+  "entryWord": "Insens",
+  "entryWordDialect": null,
+  "altEntryWord": "Winsens",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Incienso",
+  "definitionDialect": "General",
+  "additional_text": "sInv Del Cast Incienso",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼij tajin kukoj rinsens",
+      "example_spa": "El Sacerdote maya está usando incienso",
+      "dialect": null
+    }
+  ],
+  "uuid": "69a1c841-d4f7-4879-9546-fe20673cc28d"
+}

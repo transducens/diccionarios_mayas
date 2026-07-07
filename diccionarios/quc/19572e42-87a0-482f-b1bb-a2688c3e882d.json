@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wachinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dar fruta",
+  "definitionDialect": "",
+  "additional_text": "vi Kawachinik Raíz VI Wach",
+  "examples": [
+    {
+      "example_maya": "Li taraʼs xuchap wachinem",
+      "example_spa": "El duraznal empezó a dar frutos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj xwachin li taraʼs",
+      "example_spa": "El duraznal dio muchos frutos",
+      "dialect": null
+    }
+  ],
+  "uuid": "19572e42-87a0-482f-b1bb-a2688c3e882d"
+}

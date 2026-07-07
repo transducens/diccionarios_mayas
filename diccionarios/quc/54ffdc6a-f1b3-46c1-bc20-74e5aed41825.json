@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raqʼarik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alto, estatura de personas",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Raqʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih sibʼalaj jun nima raqʼarik raqan",
+      "example_spa": "La muchacha es de estatura alta",
+      "dialect": null
+    }
+  ],
+  "uuid": "54ffdc6a-f1b3-46c1-bc20-74e5aed41825"
+}

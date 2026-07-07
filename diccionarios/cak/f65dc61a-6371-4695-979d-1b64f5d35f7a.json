@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tziyinik",
+  "definition": "Enredar, desordenar Comer el animal",
+  "additional_text": "VT Tziyixik, nintziy, nintzʼiy Var Xichʼonik, patzonik tziy",
+  "examples": [
+    {
+      "example_maya": "Yin nintziy ri ruwiʼ ri ixoq chi ixkʼeq (ixkʼäq)",
+      "example_spa": "Yo le enredé el pelo a la mujer con las uñas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xar nikitziy ri wawän",
+      "example_spa": "Las xaras comen elotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "f65dc61a-6371-4695-979d-1b64f5d35f7a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

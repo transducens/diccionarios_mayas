@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tatzʼmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cojear con pie doblado",
+  "definitionDialect": "",
+  "additional_text": "VI Katatzʼmaʼyik Raiz VT Tatzʼ",
+  "examples": [
+    {
+      "example_maya": "Li a laj a Kux xaq katatzʼmaʼy li kabʼinik",
+      "example_spa": "Marquitos anda cojeando",
+      "dialect": null
+    }
+  ],
+  "uuid": "46f7ac18-1bc0-45c2-b984-9ddad4b369e5"
+}

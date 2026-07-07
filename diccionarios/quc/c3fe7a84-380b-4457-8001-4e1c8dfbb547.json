@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koxkal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escudilla de madera",
+  "definitionDialect": "",
+  "additional_text": "SInv Nukoxkal",
+  "examples": [
+    {
+      "example_maya": "Pa koxkal kawaʼ wi li akʼal",
+      "example_spa": "El niño come en escudilla de madera",
+      "dialect": null
+    }
+  ],
+  "uuid": "c3fe7a84-380b-4457-8001-4e1c8dfbb547"
+}

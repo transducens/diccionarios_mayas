@@ -1,0 +1,28 @@
+{
+  "entryWord": "Nakanïk",
+  "definition": "Tonto",
+  "additional_text": "AdjD Ant Juwiʼ Sinón Chiqichïk Nak",
+  "examples": [
+    {
+      "example_maya": "Chke nrajoʼ la jun nakanïk achin laʼ?",
+      "example_spa": "Qué quiere ese hombre tonto?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun alaʼ yalan nakanïk, chöj yerutzuʼ ri winäq pa bʼey",
+      "example_spa": "Hay un muchacho tonto, sólo se queda viendo a las personas en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun achin nakanïk, yalan nuxibʼij riʼ",
+      "example_spa": "Un hombre tonto se asusta mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "62bd716f-ecaf-4377-8179-d5669cc676e5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

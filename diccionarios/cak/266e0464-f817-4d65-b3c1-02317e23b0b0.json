@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paran",
+  "definition": "Estar bajo algo al llover",
+  "additional_text": "vI Yiparan Par",
+  "examples": [
+    {
+      "example_maya": "Taq xpe ri jöbʼ, xiparan chuxe jun cheʼ",
+      "example_spa": "Cuando llovió, estuve bajo un árbol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun achin niparan chuxeʼ jun cheʼ richin man nichʼeqeʼ chwa jöbʼ",
+      "example_spa": "Hay un hombre que está debajo de un árbol defendiéndose de la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "266e0464-f817-4d65-b3c1-02317e23b0b0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

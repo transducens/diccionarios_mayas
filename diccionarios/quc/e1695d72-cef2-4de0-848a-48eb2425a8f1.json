@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kebʼraqan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Temblor; terremoto",
+  "definitionDialect": "general",
+  "additional_text": "sap",
+  "examples": [
+    {
+      "example_maya": "Li kebʼraqan kuslabʼaj ronojel uwachuliw",
+      "example_spa": "El temblor mueve todas las casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e1695d72-cef2-4de0-848a-48eb2425a8f1"
+}

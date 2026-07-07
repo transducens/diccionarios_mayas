@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kok",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukok",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tortuga; llave de madera en las puertas antiguas El kok era la llave que se usaba antiguamente",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kok kekʼasiʼ pa li jaʼ chuqe chwach uliw",
+      "example_spa": "Las tortugas pueden vivir en el agua y en la montaña",
+      "dialect": null
+    }
+  ],
+  "uuid": "3a5cacda-3d77-4fde-860a-6293de18e44a"
+}

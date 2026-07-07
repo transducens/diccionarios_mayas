@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xichʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enredado: pelo; alborotado: paja, hojas, etc",
+  "definitionDialect": "general",
+  "additional_text": "Adj Var Patzapik Var Xichʼxiʼy Raíz VT Xichʼ",
+  "examples": [
+    {
+      "example_maya": "Li uwiʼ li ixoq sibʼalaj xichʼixik ma xa kʼo sibʼalaj kaqiqʼ",
+      "example_spa": "El pelo de la mujer está enredado porque hay mucho aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼim sibʼalaj xichʼixik, na bʼanom ta ubʼanik",
+      "example_spa": "La paja está alborotada, no está arreglada",
+      "dialect": null
+    }
+  ],
+  "uuid": "d69188c3-9a7d-4967-b72e-900b33e20544"
+}

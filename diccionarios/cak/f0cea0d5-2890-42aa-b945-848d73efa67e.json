@@ -1,0 +1,23 @@
+{
+  "entryWord": "Nimasaqʼul",
+  "definition": "Plátano",
+  "additional_text": "scs Nunimasaqʼul Munibʼäl",
+  "examples": [
+    {
+      "example_maya": "Yalan ütz ninnaʼ ri qʼor bʼanön rikʼin nimasaqʼul",
+      "example_spa": "Me gusta mucho el atol hecho de plátano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nimasaqʼul yalan jebʼel chi nitïj",
+      "example_spa": "El plátano es muy bueno para comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0cea0d5-2890-42aa-b945-848d73efa67e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

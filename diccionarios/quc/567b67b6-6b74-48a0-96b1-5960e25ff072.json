@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Bʼixkil",
+  "entryWordDialect": null,
+  "altEntryWord": "=bʼixikil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Anuncio, noticia",
+  "definitionDialect": "",
+  "additional_text": "ssp Nubʼiixkiil (nubʼiixikiil) Sinón =Chʼool (uchʼoobʼkiil)",
+  "examples": [
+    {
+      "example_maya": "Li achih xuya ubʼixkil chi kʼo nimaqʼij chweʼq",
+      "example_spa": "El hombre anunció que habría fiesta mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "567b67b6-6b74-48a0-96b1-5960e25ff072"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oor\"",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hora",
+  "definitionDialect": "Español",
+  "additional_text": "Adv Del Cast Hora",
+  "examples": [
+    {
+      "example_maya": "Juwinaq kajibʼ or\" bʼenaq pa jun aqʼabʼ chiʼl jun qʼij",
+      "example_spa": "Veinticuatro horas tiene un día y una noche",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d5b0fda-1c2a-4914-bf30-b3d88bcec736"
+}

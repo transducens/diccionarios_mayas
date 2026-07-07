@@ -1,0 +1,19 @@
+{
+  "entryWord": "Skopect",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escopeta",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuskopect Sinón Qʼaaqʼ Var Qʼol uwach Var Kʼaqabʼal Del Cast Escopeta",
+  "examples": [
+    {
+      "example_maya": "Li tzukunelabʼ skopet xkikamsabʼej reh li masat",
+      "example_spa": "Los cazadores usaron escopeta para matar al venado",
+      "dialect": null
+    }
+  ],
+  "uuid": "5a53d7de-679c-4d6f-8164-ddd0ad4ad6b6"
+}

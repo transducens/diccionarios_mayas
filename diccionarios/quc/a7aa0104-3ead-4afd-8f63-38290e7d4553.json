@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Clavos que se colocan en las orillas de la trama del tejido para hacerlo parejo; aguijón; bolsa que guarda los huevos de la cucaracha",
+  "definitionDialect": "",
+  "additional_text": "SCV Nuchʼuut DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li ixoq chʼut kuchokonsabʼej chuxkin ukem, are chi junam kubʼan li uwach",
+      "example_spa": "La señora pone clavos en la orilla del tejido para hacerlo parejo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7aa0104-3ead-4afd-8f63-38290e7d4553"
+}

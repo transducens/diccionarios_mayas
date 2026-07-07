@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xiliʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rota: hoja, papel o ropa",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Xil",
+  "examples": [
+    {
+      "example_maya": "Li uxaq abʼix sibʼalaj xiliʼl chi rumal li saqbʼach",
+      "example_spa": "Las hojas de la milpa están muy rotas por el granizo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3654639-71bd-4215-bd1f-5a8982fea938"
+}

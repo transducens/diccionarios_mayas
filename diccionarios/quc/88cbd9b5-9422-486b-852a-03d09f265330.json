@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼotik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enrollar, envolver, doblar cosas suaves",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinbʼotoh Sinón Bʼoorik Raíz PT Bʼot",
+  "examples": [
+    {
+      "example_maya": "Li achih xubʼot li kolobʼ",
+      "example_spa": "El hombre enrolló el lazo",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Xinbʼot pa tzij",
+      "example_spa": "Lo regañé",
+      "dialect": null
+    }
+  ],
+  "uuid": "88cbd9b5-9422-486b-852a-03d09f265330"
+}

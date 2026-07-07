@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaʼlil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona que se recuesta",
+  "definitionDialect": "General",
+  "additional_text": "sAgen Raiz P Qʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq qʼaʼlil pa tem maj kuchakuj",
+      "example_spa": "El hombre siempre se mantiene recostado y no trabaja",
+      "dialect": null
+    }
+  ],
+  "uuid": "9117a2b0-d05e-4085-9c27-d26b9cb12a06"
+}

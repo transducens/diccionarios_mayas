@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xirixotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Jaxirixotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar seguido el grillo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Xir",
+  "examples": [
+    {
+      "example_maya": "Li jun xiʼl kʼo pwi li jah si kaxirixotik",
+      "example_spa": "El grillo que está sobre la casa canta muy seguido",
+      "dialect": null
+    }
+  ],
+  "uuid": "334b59d1-98e6-4515-b502-12c8739f3cef"
+}

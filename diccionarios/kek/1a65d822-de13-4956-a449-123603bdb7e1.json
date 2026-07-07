@@ -1,0 +1,28 @@
+{
+  "entryWord": "Rax muhel",
+  "definition": "Buena suerte",
+  "additional_text": "SCL Inrax muhel",
+  "examples": [
+    {
+      "example_maya": "Rax aamuhel",
+      "example_spa": "Vos tenés buena suerte Ud Tiene buena suerte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kaq aamuhel",
+      "example_spa": "Vos tenés mala suerte Ud Tiene mala suerte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rax awk",
+      "example_spa": "Manera de sembrar sin hacer los requisitos preliminares: ritos y rezos",
+      "dialect": null
+    }
+  ],
+  "uuid": "1a65d822-de13-4956-a449-123603bdb7e1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,33 @@
+{
+  "entryWord": "Joqʼe",
+  "definition": "¿Cuándo?",
+  "additional_text": "PartInterr",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ ninnaw joqʼe tinxik Kobʼan",
+      "example_spa": "No sé cuándo iré a Cobán",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joqʼehex chaq",
+      "example_spa": "Cuándo vienen",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joqʼehaq xaq",
+      "example_spa": "¿De vez en cuando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joqʼehaqil",
+      "example_spa": "De vez en cuando",
+      "dialect": null
+    }
+  ],
+  "uuid": "99e2a73c-72d4-401f-a738-6f046d6058b4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

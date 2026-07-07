@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼatzalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebradizo, como hoja seca",
+  "definitionDialect": "",
+  "additional_text": "p Xqʼatzik, xuqʼatzabʼa Raíz P Qʼatz",
+  "examples": [
+    {
+      "example_maya": "Li uxaq abʼix we na bʼiloj taj xaq qʼatzalik",
+      "example_spa": "Cuando no están tiernas las hojas de milpa, son quebradizas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwa li qʼij xuqʼatzabʼa li abʼix",
+      "example_spa": "El calor del sol dejó la milpa quebradiza",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c8ff2ea-3717-405c-bd5f-6e9654907baf"
+}

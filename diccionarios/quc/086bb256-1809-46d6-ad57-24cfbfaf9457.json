@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tojonel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pagador",
+  "definitionDialect": "Spanish",
+  "additional_text": "sAgen Raiz VT Toj",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kul ri tojonel",
+      "example_spa": "Mañana llega el pagador",
+      "dialect": null
+    }
+  ],
+  "uuid": "086bb256-1809-46d6-ad57-24cfbfaf9457"
+}

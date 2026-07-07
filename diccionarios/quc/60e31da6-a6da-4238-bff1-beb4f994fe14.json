@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼekʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dar muy poco",
+  "definitionDialect": "Español",
+  "additional_text": "vTD Kinkʼekʼeej Raíz vT Kʼekʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kukʼekʼej uyaʼik uwa li rachajil, xa xuʼy",
+      "example_spa": "La mujer le da muy poca comida a su esposo",
+      "dialect": null
+    }
+  ],
+  "uuid": "60e31da6-a6da-4238-bff1-beb4f994fe14"
+}

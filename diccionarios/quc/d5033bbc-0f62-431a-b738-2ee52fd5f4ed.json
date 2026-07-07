@@ -1,0 +1,29 @@
+{
+  "entryWord": "Waʼlijsaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Levantar; construir, edificar, erigir, obrar, elevar, izar, alzar, erguir, encimar, encumbrar; construir casa y muros",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinwaʼlijsaaj Raiz Vt Waʼl",
+  "examples": [
+    {
+      "example_maya": "Waral, chiʼ li bʼeh, kinwaʼlijsaj na jun tzʼaq",
+      "example_spa": "Aquí en la orilla del camino voy a construir un muro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, waʼlijsaxik kubʼan cheh li qʼabʼarel pa li bʼeh",
+      "example_spa": "El hombre va a levantar al bolo del camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwaʼlijsaj na li yowabʼ pa li uchʼat, xa kinya ukunabʼal",
+      "example_spa": "Voy a levantar al enfermo de la cama; para darle su medicina",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5033bbc-0f62-431a-b738-2ee52fd5f4ed"
+}

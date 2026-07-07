@@ -1,0 +1,48 @@
+{
+  "entryWord": "Chʼina",
+  "definition": "Es un afijo que se encuentra entre el aspecto y la raíz de verbos transitivos e intransitivos Da el sentido de hacer la acción del verbo “con cuidado”",
+  "additional_text": "AdvC st Esmeradamente, cuidadosamente",
+  "examples": [
+    {
+      "example_maya": "Xinchʼina awk",
+      "example_spa": "Sembré con esmero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinchʼina bʼeek",
+      "example_spa": "Caminé con pasos pequeños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xchʼina waw",
+      "example_spa": "Lo sembré con esmero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xchʼina wil",
+      "example_spa": "Lo cuidé con esmero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinchʼina chʼap",
+      "example_spa": "Lo agarré con cuidado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼina ilok",
+      "example_spa": "Cuidar, ver con esmero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼina bʼeek",
+      "example_spa": "Caminar con pasitos, como un enfermo, un muchachito, etc",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea729f78-7dbe-414a-a3b8-9e2dd4ece0a5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

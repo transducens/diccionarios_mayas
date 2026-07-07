@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nim uwach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ancho",
+  "definitionDialect": "",
+  "additional_text": "AdjCL Sinón Pejpik Ant Koʼl uwach Raíz Adj",
+  "examples": [
+    {
+      "example_maya": "Li jun wankeʼt nim uwach, kʼih winaq kewaʼ pwiʼ",
+      "example_spa": "La mesa es ancha, mucha gente puede comer en ella",
+      "dialect": null
+    }
+  ],
+  "uuid": "0fce1271-0b88-4f1a-9f79-747b5592c3d7"
+}

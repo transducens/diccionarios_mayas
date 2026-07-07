@@ -1,0 +1,29 @@
+{
+  "entryWord": "Poroxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quemar, incendiar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpoorooj Coment Quemar, en el sentido de destruir por medio del fuego, quemar completamente Kʼaatik significa quemar, posiblemente sin destruir el objeto Var Kʼaatik",
+  "examples": [
+    {
+      "example_maya": "Kinporoj na nukwet xinloqʼoh",
+      "example_spa": "Voy a quemar el cohete que compré",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achijabʼ poroxik kakaʼn che li qʼayes ma xchaqijik",
+      "example_spa": "Los hombres van a quemar el monte porque ya está seco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq poroxik kubʼan che li mes",
+      "example_spa": "La mujer va a quemar la basura",
+      "dialect": null
+    }
+  ],
+  "uuid": "cfe50dd9-ee3a-4599-98af-1b916e8a58e3"
+}

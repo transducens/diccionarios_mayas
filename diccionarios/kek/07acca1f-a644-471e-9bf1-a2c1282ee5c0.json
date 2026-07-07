@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ma",
+  "definition": "Partícula interrogativa Esta partícula aparece al principio de oraciones que se contestan con \"sí\" o \"no\"",
+  "additional_text": "PI",
+  "examples": [
+    {
+      "example_maya": "¿Ma xko saʼ rochoch?",
+      "example_spa": "¿Se fue a su casa?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ma xikeenaq",
+      "example_spa": "¿Habrá ido?",
+      "dialect": null
+    }
+  ],
+  "uuid": "07acca1f-a644-471e-9bf1-a2c1282ee5c0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

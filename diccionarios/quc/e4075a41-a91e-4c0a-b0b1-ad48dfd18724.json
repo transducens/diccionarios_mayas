@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wechʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwechʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Picar tierra madera o paredes; machetear ayotes o chilacayotes; pellizcar frutas (ayotes, duraznos, etc)",
+  "definitionDialect": "",
+  "additional_text": "vTR var Muuchik var Kʼuupik Var Tzookʼik Raíz VT Wechʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil utz uwechʼik li tapyah, xubʼanoh, te riʼ kujunamaj",
+      "example_spa": "El albañil primero picó bien la pared después la repelló",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah, xaq loqʼ kuwechʼ li cheʼ",
+      "example_spa": "El muchacho está macheteando el palo por gusto",
+      "dialect": null
+    }
+  ],
+  "uuid": "e4075a41-a91e-4c0a-b0b1-ad48dfd18724"
+}

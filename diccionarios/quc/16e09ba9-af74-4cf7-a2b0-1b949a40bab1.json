@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yutzukutem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kayutzukutik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bailar rápido y suavemente; caminar ligero",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Yutz",
+  "examples": [
+    {
+      "example_maya": "Li nimachih kayutzukut kaxojowik",
+      "example_spa": "El ancianito baila muy ligero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ kayutzukutik kabʼinik",
+      "example_spa": "El perro camina muy ligero",
+      "dialect": null
+    }
+  ],
+  "uuid": "16e09ba9-af74-4cf7-a2b0-1b949a40bab1"
+}

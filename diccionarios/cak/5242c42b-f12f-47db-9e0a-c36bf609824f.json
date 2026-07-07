@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kujkïk",
+  "definition": "Empobrecida: la tierra, terreno cascajo, abultado",
+  "additional_text": "AdjD var Rokorik, sipisïk",
+  "examples": [
+    {
+      "example_maya": "Kʼo juläy wakx ri kan kujkïk rij kiwiʼ",
+      "example_spa": "Hay una clase de ganado que tiene la nuca abultada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq yalan kujkïk ri ulew, manäq chïk tikoʼn nuyaʼ",
+      "example_spa": "Cuando la tierra está muy empobrecida, ya no produce nada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kujkïk wulew man xa ta qʼayïs noqa el chwäch",
+      "example_spa": "Ni montes le salen a mi terreno cascajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5242c42b-f12f-47db-9e0a-c36bf609824f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

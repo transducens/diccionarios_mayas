@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonido al caer una piedra sobre una cosa dura",
+  "definitionDialect": "",
+  "additional_text": "Af",
+  "examples": [
+    {
+      "example_maya": "Kʼon xuʼchʼa jah are taq xtzaq li saqbʼach pwiʼ",
+      "example_spa": "Cuando cayó el granizo, sonaban los techos de lámina",
+      "dialect": null
+    }
+  ],
+  "uuid": "112818af-dfb0-4f18-9082-65154ee911bf"
+}

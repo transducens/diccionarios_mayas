@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzarajmaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzarajmaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poma, piedra pómez",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li tzarajmaq utz cheh josqʼibʼal muruh",
+      "example_spa": "La poma es buena para limpiar machetes",
+      "dialect": null
+    }
+  ],
+  "uuid": "bf5a5eeb-1ae3-4348-89b2-5a84a9b94fef"
+}

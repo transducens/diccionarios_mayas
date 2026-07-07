@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yamik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Masticar alimento duro con dificultad",
+  "definitionDialect": "",
+  "additional_text": "vtr Kiinyamoh Raíz VT Yam",
+  "examples": [
+    {
+      "example_maya": "Li tiʼij nimaril kinyamoh ma xa kʼax nuwareh",
+      "example_spa": "Apenas puedo masticar la carne porque me duelen los dientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "b5d71b8d-5894-4c57-88ba-43d97b0fd001"
+}

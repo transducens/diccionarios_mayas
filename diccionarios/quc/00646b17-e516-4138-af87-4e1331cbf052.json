@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Kʼonokʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼonokʼobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caer piedrecita o grano, sobre una cosa dura que suena",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz VI Kʼon",
+  "examples": [
+    {
+      "example_maya": "We xkʼaq jun laj abʼaj pwi jun chʼichʼa ja kakʼonokʼobʼik",
+      "example_spa": "Cuando se tira una piedrecita en el techo de lámina, hace ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "00646b17-e516-4138-af87-4e1331cbf052"
+}

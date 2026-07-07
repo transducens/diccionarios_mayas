@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chonik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer pozas de agua",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinchonoh Raíz VT Chon",
+  "examples": [
+    {
+      "example_maya": "Xok reqabʼalaʼ pa jah xuq sibʼalaj xchonik",
+      "example_spa": "En la casa entró agua y se hizo una gran poza",
+      "dialect": null
+    }
+  ],
+  "uuid": "57371245-115c-4149-bb09-d8867d3a6646"
+}

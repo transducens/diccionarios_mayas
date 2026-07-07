@@ -1,0 +1,28 @@
+{
+  "entryWord": "Pop",
+  "definition": "Petate",
+  "additional_text": "sInv Nupop Qʼayis, tzʼuybʼäl, warabʼäl",
+  "examples": [
+    {
+      "example_maya": "Chi ruwäch ri pop yexukeʼ wi ri ixoqiʼ",
+      "example_spa": "Sobre los petates se hincan las mujeres",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pop nikʼatzin chuqaʼ richin yawär chuwäch",
+      "example_spa": "El petate también sirve para dormir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq juyuʼ ri ixoqiʼ chwäch pop yexukeʼ wi",
+      "example_spa": "En las aldeas las mujeres se sientan en petates",
+      "dialect": null
+    }
+  ],
+  "uuid": "661ad509-e43e-485b-92c9-2620bad641dd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

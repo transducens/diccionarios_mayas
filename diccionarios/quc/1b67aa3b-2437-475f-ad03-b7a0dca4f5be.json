@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lumulutem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer persona que no tiene dientes",
+  "definitionDialect": "es",
+  "additional_text": "vi Kalumulutik Sinón Mulumuteem Raiz P Lum",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq kalumulutik kawaʼik, ma maj chi uwareh",
+      "example_spa": "La señora come despacio porque ya no tiene dientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b67aa3b-2437-475f-ad03-b7a0dca4f5be"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pokʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapokʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido, como zapatos al caminar",
+  "definitionDialect": "",
+  "additional_text": "vı Raíz P Pokʼ",
+  "examples": [
+    {
+      "example_maya": "Li xnuʼl kapokʼnaj li uxajabʼ are taq kabʼinik",
+      "example_spa": "Los zapatos de la ladina hacen ruido cuando camina",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc672ed8-63a0-466c-b870-1650f70e4d6c"
+}

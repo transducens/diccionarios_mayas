@@ -1,0 +1,23 @@
+{
+  "entryWord": "BʼAALAN",
+  "definition": "león",
+  "additional_text": "sz frases: tzmal twiʼ bʼalan barba de león raíz bʼalan s ds jil, ds txkup",
+  "examples": [
+    {
+      "example_maya": "Neʼpa nimal twitz teʼ bʼalan ok nkiʼna",
+      "example_spa": "Que grandes son los dientes del león que vi",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Oʼkx teʼ bʼalan tjaqʼ chikʼul",
+      "example_spa": "Sólamente en la montaña viven los leones",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d6615bcd-8b6a-4de5-b771-29979dc2bbf9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

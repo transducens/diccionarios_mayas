@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼebʼetʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grueso, como machete, azadón, tortilla, tabla o ladrillo",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Piim Raíz PT Tʼebʼ",
+  "examples": [
+    {
+      "example_maya": "Li asaron sibʼalaj tʼebʼetʼik",
+      "example_spa": "El azadón es muy grueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "d286364c-d796-4549-9757-fb9d44273aba"
+}

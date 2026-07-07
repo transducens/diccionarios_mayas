@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼoq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una arrancada",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz VT Bʼoq",
+  "examples": [
+    {
+      "example_maya": "Xaq jubʼoq xuya li achih che li juwiʼ abʼix",
+      "example_spa": "El hombre arrancó de una vez la mata de milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "faf3151f-176d-47df-bd75-6e1063240229"
+}

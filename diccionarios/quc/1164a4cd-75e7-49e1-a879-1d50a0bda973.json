@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Decir",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinbʼiij vt Bʼiʼbʼexik avisando ssp Ubʼiixiikil Anuncio, noticia F Jas ubʼiixiik ¿Cómo dice? F Ubʼiixik itzel tziij malas palabras; maldecir F Ubʼiixik itzel tziij Maldecir, decir malas palabras",
+  "examples": [
+    {
+      "example_maya": "winq kakibʼij chi na utz taq alkalteh",
+      "example_spa": "La gente dice que el alcalde no es bueno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ubʼixik itzel tzij che jun winaq awas",
+      "example_spa": "Decir malas palabras a una persona es pecado",
+      "dialect": null
+    }
+  ],
+  "uuid": "1164a4cd-75e7-49e1-a879-1d50a0bda973"
+}

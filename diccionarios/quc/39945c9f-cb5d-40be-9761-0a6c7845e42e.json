@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tix",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutix",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Elefante",
+  "definitionDialect": "general",
+  "additional_text": "scv Uqʼuʼ tix Planta de hojas grandes y redondas Raíz S Tix DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li tix xaq jun chʼanchʼaʼ, jun nima kotokik li utzaʼm",
+      "example_spa": "El elefante carece de pelaje y tiene un moco grande y encorvado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tix e nimaʼq, chaʼj li kij",
+      "example_spa": "Los elefantes son grandes y de color gris",
+      "dialect": null
+    }
+  ],
+  "uuid": "39945c9f-cb5d-40be-9761-0a6c7845e42e"
+}

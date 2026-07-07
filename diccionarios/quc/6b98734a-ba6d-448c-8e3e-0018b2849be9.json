@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼolʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukʼolʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Recipiente; lugar",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li qʼabʼarel xtzaq chrij li ukʼolbʼal joron",
+      "example_spa": "El borracho se cayó encima del recipiente de agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "6b98734a-ba6d-448c-8e3e-0018b2849be9"
+}

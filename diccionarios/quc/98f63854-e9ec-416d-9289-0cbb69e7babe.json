@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jitzʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ahorcar; colgar",
+  "definitionDialect": "General",
+  "additional_text": "VTD Kinjiitzʼaaj Fbas //Jihtzʼa// Raíz VT Jitzʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq xtzaq li wakax pa li swan xjitzʼatajik",
+      "example_spa": "Al caer la vaca al barranco se estranguló",
+      "dialect": null
+    }
+  ],
+  "uuid": "98f63854-e9ec-416d-9289-0cbb69e7babe"
+}

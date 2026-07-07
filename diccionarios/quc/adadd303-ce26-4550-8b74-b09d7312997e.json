@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pur\"",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puro (cigarro)",
+  "definitionDialect": "",
+  "additional_text": "SInv Nupuur\" Var Siikʼ Del Cast Puro",
+  "examples": [
+    {
+      "example_maya": "Li pur\" kasikʼaxik xuq kachokon che kunabʼal",
+      "example_spa": "El puro se fuma y también se usa para medicina",
+      "dialect": null
+    }
+  ],
+  "uuid": "adadd303-ce26-4550-8b74-b09d7312997e"
+}

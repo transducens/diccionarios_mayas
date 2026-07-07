@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nakʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Goma",
+  "definitionDialect": "",
+  "additional_text": "scv Nunakʼbʼaal Raíz S Nakʼ",
+  "examples": [
+    {
+      "example_maya": "Xinnakʼ li wuj rukʼ li nakʼbʼal",
+      "example_spa": "Pegué los papeles con goma",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba8804c7-b3a7-4180-83fb-35dfa37b8580"
+}

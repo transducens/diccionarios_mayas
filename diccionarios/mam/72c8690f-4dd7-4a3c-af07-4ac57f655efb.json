@@ -1,0 +1,18 @@
+{
+  "entryWord": "ELSAAL EECH",
+  "definition": "mozo que trabaja por cuerdas",
+  "additional_text": "scl elsal wecha raíz el vi raíz ech s",
+  "examples": [
+    {
+      "example_maya": "At jun elsal wecha maʼ tzul",
+      "example_spa": "Vino un mi mozo a desquitar la cuerda",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "72c8690f-4dd7-4a3c-af07-4ac57f655efb",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

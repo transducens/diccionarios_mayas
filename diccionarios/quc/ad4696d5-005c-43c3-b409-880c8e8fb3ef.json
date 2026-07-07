@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuch kuch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llamado para coches",
+  "definitionDialect": "",
+  "additional_text": "Al",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kuch kuch kacha che li aq kusikʼij",
+      "example_spa": "La mujer dice kuch kuch para llamar al marrano",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad4696d5-005c-43c3-b409-880c8e8fb3ef"
+}

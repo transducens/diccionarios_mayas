@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzinilajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzinilajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar monedas o cosas pequeñas de metal; un sonido de monedas, campanitas o cosas pequeñas de metal",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzin",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay, katzinilaj li urajil rukʼaʼam",
+      "example_spa": "El dinero que lleva el comerciante suena mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xuya jutzin che li kampaniʼl",
+      "example_spa": "El niño tocó una sola vez la campanilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "561e5ac4-fa23-4ecb-b4fa-88a6d78561d9"
+}

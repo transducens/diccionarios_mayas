@@ -1,0 +1,19 @@
+{
+  "entryWord": "Telteʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abultado en muchas partes, como huellas de llantas de tractor",
+  "definitionDialect": "",
+  "additional_text": "Adj var Teletik Raíz PT Tel",
+  "examples": [
+    {
+      "example_maya": "Li straktor xubʼan telteʼx cheh li upa li bʼeh",
+      "example_spa": "El tractor dejó abultado el camino en muchas partes",
+      "dialect": null
+    }
+  ],
+  "uuid": "fb85dcba-1a7f-4c73-a957-967f25c1c26d"
+}

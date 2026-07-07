@@ -1,0 +1,19 @@
+{
+  "entryWord": "Minut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Minuto",
+  "definitionDialect": "",
+  "additional_text": "sNP Del Cast Minuto",
+  "examples": [
+    {
+      "example_maya": "Oxkʼal minut bʼenaq pa jun or\"",
+      "example_spa": "Una hora tiene sesenta minutos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d841acf6-47b0-4ce7-9791-7a0ca2357fcf"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼoʼ",
+  "definition": "Nixtamal",
+  "additional_text": "sInv Nutzʼoʼ Ixin",
+  "examples": [
+    {
+      "example_maya": "Tzʼoʼ nibʼïx chire ri ixim taq xroqowisäx yan pa chun",
+      "example_spa": "Nixtamal le dicen al maíz cuando ya está cocido con cal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼoʼ ja riʼ ri nibʼan kiʼen chire",
+      "example_spa": "Del nixtamal hacen la masa",
+      "dialect": null
+    }
+  ],
+  "uuid": "d231e00d-f89f-4e1f-816d-f37611c9f1e4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

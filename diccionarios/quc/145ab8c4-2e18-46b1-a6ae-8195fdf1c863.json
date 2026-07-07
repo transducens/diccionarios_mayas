@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quchuchexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar bien la madera",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinquchucheej Raíz VT Quch",
+  "examples": [
+    {
+      "example_maya": "Li ramibʼal utz uquchuchexik li tzʼalam xubʼano",
+      "example_spa": "El serrucho cortó bien la tabla",
+      "dialect": null
+    }
+  ],
+  "uuid": "145ab8c4-2e18-46b1-a6ae-8195fdf1c863"
+}

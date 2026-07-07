@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wajxaqibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ocho",
+  "definitionDialect": "",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "E kʼo wajxaqibʼ nukarneʼl xeʼinloqʼoh",
+      "example_spa": "Tengo ocho carneros que compré",
+      "dialect": null
+    }
+  ],
+  "uuid": "815f8686-6c08-49e1-bf42-3c4824b0eeec"
+}

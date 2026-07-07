@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Daño",
+  "definitionDialect": "",
+  "additional_text": "s",
+  "examples": [
+    {
+      "example_maya": "Li kʼel sibʼalaj kakibʼan kʼax che li abʼix",
+      "example_spa": "Los chocoyos le hacen mucho daño a la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "b67063c2-3e8f-4aa0-a2df-3d0a392d31e7"
+}

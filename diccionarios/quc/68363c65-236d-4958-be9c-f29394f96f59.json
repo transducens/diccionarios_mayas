@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼokolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchʼokiʼk,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuchʼokobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Acuclillado",
+  "definitionDialect": "",
+  "additional_text": "p Adj Chʼokokexik Alto: silla o animal cuadrúpedo; grande: terreno irregular VT Chʼokokexik Encoger los pies Raíz P Chʼok",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq chʼokol chuchiʼ li kʼwaʼ",
+      "example_spa": "El muchacho está acuclillado en la orilla del pozo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xoltatoh xaq chʼokol pa taq li qʼayes",
+      "example_spa": "El soldado está acuclillado entre el monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "68363c65-236d-4958-be9c-f29394f96f59"
+}

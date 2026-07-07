@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar animal reflaco; sonar mal la marimba",
+  "definitionDialect": "K'al.",
+  "additional_text": "vt Kakʼalnajik",
+  "examples": [
+    {
+      "example_maya": "Li sin qʼeʼla qʼojom xaq kakʼalnaj chik",
+      "example_spa": "La marimba vieja ya suena mal",
+      "dialect": null
+    }
+  ],
+  "uuid": "060ceb42-cf8f-4b82-a325-a562d4fe3029"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Retal",
+  "entryWordDialect": null,
+  "altEntryWord": "//Ehtal//",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "//Eht//",
+  "altEntryWordDialect2": null,
+  "definition": "Seña; señal; liviano",
+  "definitionDialect": "",
+  "additional_text": "ssp Fbas Fbas",
+  "examples": [
+    {
+      "example_maya": "Li achih xuya retal cheh chi kakamik",
+      "example_spa": "El le dio seña al hombre que iba a morir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xukoj retal li ujastaq are chi na katzaq taj",
+      "example_spa": "El hombre le puso seña a sus cosas para que no perdieran",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li weqaʼn xaq retal, na al taj",
+      "example_spa": "Mi carga es liviana",
+      "dialect": null
+    }
+  ],
+  "uuid": "792dbf86-6d5e-4eeb-bb61-50eb2b297f4b"
+}

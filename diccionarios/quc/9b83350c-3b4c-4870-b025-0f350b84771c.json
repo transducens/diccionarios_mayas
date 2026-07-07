@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lotzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Picotear un ave; perforar cosa no muy dura como hoja, calabaza, madera",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kulotzoh Var Tzoopkʼik Raíz VT Lotz",
+  "examples": [
+    {
+      "example_maya": "Li akʼ kulotz uxaq li abʼix",
+      "example_spa": "La gallina picotea las hojas de la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b83350c-3b4c-4870-b025-0f350b84771c"
+}

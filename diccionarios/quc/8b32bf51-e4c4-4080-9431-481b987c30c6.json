@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lukanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xlukiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xulukubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Doblado en forma de arco; arqueado",
+  "definitionDialect": "",
+  "additional_text": "p",
+  "examples": [
+    {
+      "example_maya": "Li uqʼabʼ taraʼs xlukiʼ rumal raʼlal li uwach",
+      "example_spa": "La rama del duraznal está doblada por el peso de las frutas",
+      "dialect": null
+    }
+  ],
+  "uuid": "8b32bf51-e4c4-4080-9431-481b987c30c6"
+}

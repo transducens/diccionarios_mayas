@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tapet",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutapet",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuello de camisa",
+  "definitionDialect": "general",
+  "additional_text": "scv Sinón Taʼk Sinón Rij uwiʼ atzʼyaq DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Li alih tajin kuqʼoʼ jun tapet",
+      "example_spa": "La muchacha está bordando un cuello de camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "093bd17a-525a-4f40-9cd3-20b0ecefd379"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Repowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karepowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arder, echar llamas",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz Vl Rep",
+  "examples": [
+    {
+      "example_maya": "Li xkanul are taq xuporoj ribʼ sibʼalaj xrepowik",
+      "example_spa": "Cuando el volcán hizo erupción, estuvo ardiendo mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "33543c58-1f0f-4347-b792-e730308114c0"
+}

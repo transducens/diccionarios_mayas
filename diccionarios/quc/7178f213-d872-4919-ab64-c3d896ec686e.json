@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chuplixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchuplij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encender y apagar la luz",
+  "definitionDialect": "",
+  "additional_text": "VTD Sinón Yubʼlixik Raíz VT Chup",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom xuchuplij li uqʼaqʼ pa li qʼequʼm",
+      "example_spa": "El ladrón hizo brillar la luz en la obscuridad",
+      "dialect": null
+    }
+  ],
+  "uuid": "7178f213-d872-4919-ab64-c3d896ec686e"
+}

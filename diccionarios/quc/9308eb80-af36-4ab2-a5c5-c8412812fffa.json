@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uxlanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Descansar, reposar, yacer, aliviarse, tranquilizar, dormir",
+  "definitionDialect": "general",
+  "additional_text": "vı Kinuxlanik",
+  "examples": [
+    {
+      "example_maya": "We chnopan chwa ja kinuxlanik",
+      "example_spa": "Al llegar a la casa voy a descansar",
+      "dialect": null
+    }
+  ],
+  "uuid": "9308eb80-af36-4ab2-a5c5-c8412812fffa"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼaqap",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Otro lado (país lejano); en el extranjero",
+  "definitionDialect": "General",
+  "additional_text": "Adv Var Chʼaqa jaʼ",
+  "examples": [
+    {
+      "example_maya": "Li utza taq jastaq chʼaqap kape wih",
+      "example_spa": "En el extranjero hacen buena ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c35bf830-96ea-42bb-ac31-5b7079666ce1"
+}

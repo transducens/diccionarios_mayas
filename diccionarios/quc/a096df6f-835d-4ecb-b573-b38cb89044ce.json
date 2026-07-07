@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jachik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Repartir; divorciarse; transplantar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinjachoh Raíz VT Hach",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kul jastaq rech katijowik xaq si bʼenaq qʼij kinjachoh",
+      "example_spa": "Los alimentos que van a llegar, los repartiré mañana por la tarde",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wachajiil xuriq jun chi ixoq, rumal laʼ xinjachoh",
+      "example_spa": "Me divorcié de mi marido porque encontró otra mujer",
+      "dialect": null
+    }
+  ],
+  "uuid": "a096df6f-835d-4ecb-b573-b38cb89044ce"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "BOOL",
+  "definition": "bomba",
+  "additional_text": "s1 nbola del español bola",
+  "examples": [
+    {
+      "example_maya": "Tzinyax nqʼajt tjax bol tuj tnam",
+      "example_spa": "Están quemando mucha bomba en el pueblo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "2c6c398b-cf24-4398-9f9f-fa147e506c05",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

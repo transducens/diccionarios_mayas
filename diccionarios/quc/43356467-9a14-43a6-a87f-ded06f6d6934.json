@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wichʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Chʼiw",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pichón; pollito recién nacido",
+  "definitionDialect": "",
+  "additional_text": "scv Nuwiichʼ DomS Akʼ",
+  "examples": [
+    {
+      "example_maya": "Li wichʼ maja kakitij ixim, xuq maja kixikʼ",
+      "example_spa": "Los pollitos todavía no comen maíz, y tampoco tienen alas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wichʼ kuʼchax li alaj taq tzʼikin li kʼa te kekʼojiʼk",
+      "example_spa": "Pichones se les dice a los pajaritos recién nacidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "43356467-9a14-43a6-a87f-ded06f6d6934"
+}

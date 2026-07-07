@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sutut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rueda, juguete que da vuelta",
+  "definitionDialect": "",
+  "additional_text": "scv Nusutuut Sinón Setet Sinón Ketet Raíz VT Sut",
+  "examples": [
+    {
+      "example_maya": "Li usutut li akʼal jun ketekik kikʼ",
+      "example_spa": "La rueda que usa el niño como juguete es de hule",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6b8ff7c-aca5-4e87-aca7-13195cf18437"
+}

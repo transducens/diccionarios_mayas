@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sanixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llenar mucho (costal con granos o lugar con gente); dar puñetazo",
+  "definitionDialect": "",
+  "additional_text": "vtrD Kinsaniij Raíz P San",
+  "examples": [
+    {
+      "example_maya": "Kinsanij na li jun kʼat chech jal",
+      "example_spa": "Voy a llenar la red de mazorcas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Luʼ xusanij jun bʼukʼ chech li a Santiago",
+      "example_spa": "Pedro le dio un puñetazo a Santiago",
+      "dialect": null
+    }
+  ],
+  "uuid": "8191a062-f3cb-4245-ae4a-4158246a1b22"
+}

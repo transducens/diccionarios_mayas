@@ -1,0 +1,24 @@
+{
+  "entryWord": "Setelik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xsetiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xusetebʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Puesta: cosa redonda, como tortilla o plato",
+  "definitionDialect": "",
+  "additional_text": "p Sinón Ketelik Raíz PT Set",
+  "examples": [
+    {
+      "example_maya": "Li alah xok pa sak are taq xukʼaq li etzʼabʼaʼl xsetiʼ chij li kachʼakik",
+      "example_spa": "El muchacho entró en la lotería y cuando tiró la argolla, rodeó el premio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li upalaj li achih setelik",
+      "example_spa": "La cara del hombre es redonda",
+      "dialect": null
+    }
+  ],
+  "uuid": "3442f86e-cbf7-4b51-8d44-183feab83794"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tumïr",
+  "definition": "Humedecerse el adobe, ladrillo o teja y quedarse muy débil",
+  "additional_text": "vI Nitumïr",
+  "examples": [
+    {
+      "example_maya": "Ri xan pa taq jöbʼ, yalan yetumïr roma ri jöbʼ",
+      "example_spa": "Las paredes en invierno se humedecen mucho por la lluvia y quedan débiles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xyabʼäl täq niyaloj yaʼ chupan, nitumïr",
+      "example_spa": "Cuando la tinajera tiene agua, por cierto tiempo, se humedece mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "6e35de23-87ba-4875-83ab-7df91643b33c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

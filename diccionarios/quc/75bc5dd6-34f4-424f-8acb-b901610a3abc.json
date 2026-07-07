@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pilin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resbaloso (mojado); liso (mojado)",
+  "definitionDialect": "General",
+  "additional_text": "Adj Sinón Charan Var Plin Raíz VT Pil",
+  "examples": [
+    {
+      "example_maya": "Li uwa taq uliw pa taq qʼalaj sibʼalaj pilin",
+      "example_spa": "En invierno el suelo está muy liso",
+      "dialect": null
+    }
+  ],
+  "uuid": "75bc5dd6-34f4-424f-8acb-b901610a3abc"
+}

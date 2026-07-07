@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼurbʼuʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Borbollón",
+  "definitionDialect": "general",
+  "additional_text": "SnP Var",
+  "examples": [
+    {
+      "example_maya": "We xkʼaq abʼaj pa li joron, kel la bʼurbʼuʼx cheh",
+      "example_spa": "Al tirar una piedra dentro del agua, salen borbollones",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2e46074-07b8-4b61-9c69-6092d9aa9a34"
+}

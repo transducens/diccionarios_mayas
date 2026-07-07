@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paqʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Haraganear, (pereza); tener dolor",
+  "definitionDialect": "",
+  "additional_text": "vi Kinpaaqʼik Raíz vi Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kinpaqʼ che li nuchak",
+      "example_spa": "Tengo mucha pereza en mi trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kapaqʼ nujolom chech qʼaqʼ",
+      "example_spa": "Me duele mucho la cabeza por la calentura",
+      "dialect": null
+    }
+  ],
+  "uuid": "782c6654-8d48-4f2b-a6b6-763339b3e7a7"
+}

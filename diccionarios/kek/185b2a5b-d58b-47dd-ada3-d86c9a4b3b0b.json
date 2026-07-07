@@ -1,0 +1,23 @@
+{
+  "entryWord": "Relebʼ iqʼ",
+  "definition": "Norte",
+  "additional_text": "SNP",
+  "examples": [
+    {
+      "example_maya": "Li peten wan saʼ relebʼ iqʼ re xchoʼochʼel Watemaal",
+      "example_spa": "Petén está al norte de Guatemala",
+      "dialect": null
+    },
+    {
+      "example_maya": "Naq nachal li iqʼ saʼ relebʼ iqʼ jwal habʼ naraj",
+      "example_spa": "Cuando el aire sopla de norte a sur indica días muy lluviosos",
+      "dialect": null
+    }
+  ],
+  "uuid": "185b2a5b-d58b-47dd-ada3-d86c9a4b3b0b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

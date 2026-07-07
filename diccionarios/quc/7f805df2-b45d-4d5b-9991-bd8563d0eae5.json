@@ -1,0 +1,29 @@
+{
+  "entryWord": "Matzalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xmatziʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xumatzabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Tranquilo; quieto; silencio",
+  "definitionDialect": "",
+  "additional_text": "P Raíz P Matz",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ xaq matzalik, tanal li qʼoxom chech",
+      "example_spa": "El enfermo está tranquilo, porque se le quitó el dolor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼalabʼ e kʼo pa tijoxik, xaq e matzalik maj jun ketzʼanik",
+      "example_spa": "Los niños están quietos en la clase",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal ma xchʼay rumal li utat,",
+      "example_spa": "está quieto porque lo golpeó",
+      "dialect": null
+    }
+  ],
+  "uuid": "7f805df2-b45d-4d5b-9991-bd8563d0eae5"
+}

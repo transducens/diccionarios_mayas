@@ -1,0 +1,19 @@
+{
+  "entryWord": "Majixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmajij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empezar, comenzar; principiar",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Maj",
+  "examples": [
+    {
+      "example_maya": "Li a Chep kumajij li uchak",
+      "example_spa": "José va a comenzar el trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ef0dccf0-b18a-41c5-8655-29ec2b92a804"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kechʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkechʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Picar, con una herramienta; machetear cosas duras Picar mucho Cortar con instrumento sin filo, picar mal con una herramienta Picar sin cortar de una vez",
+  "definitionDialect": "",
+  "additional_text": "vtr VTD Kechʼechʼexik VI Kechʼnajeem VI Kechʼmaʼyeem Raíz VT Kechʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajchak xaq xukechʼ li uliw",
+      "example_spa": "El trabajador dejó mal picado el terreno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li rasaron li achih xaq kakechʼnaj pa li xaqʼoʼl",
+      "example_spa": "El azadón del hombre no pica bien en el lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "81387691-70bf-422d-9b42-11f82d00e53e"
+}

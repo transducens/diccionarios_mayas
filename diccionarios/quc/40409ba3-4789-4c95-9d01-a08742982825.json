@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chun",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchun",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cal Encalar Cal endurecida",
+  "definitionDialect": "",
+  "additional_text": "sInv vt Chunaxik scl Abʼajalaj chuun DomS Abʼaj",
+  "examples": [
+    {
+      "example_maya": "Li chun kachokon che tzʼajbʼal jah",
+      "example_spa": "La cal se usa para pintar casas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chun kachokon che qʼulibʼal tzih",
+      "example_spa": "La cal se usa para quitarle la cáscara al nixtamal",
+      "dialect": null
+    }
+  ],
+  "uuid": "40409ba3-4789-4c95-9d01-a08742982825"
+}

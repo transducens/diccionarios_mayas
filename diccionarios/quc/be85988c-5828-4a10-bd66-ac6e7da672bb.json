@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzʼanoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dar palmadas",
+  "definitionDialect": "General",
+  "additional_text": "vtr Raíz PT Tzʼan",
+  "examples": [
+    {
+      "example_maya": "Are taq xinok pa jah li ixoq katajin kutzʼan li ral chqʼabʼ",
+      "example_spa": "Cuando entré la mujer estaba dándole palmadas a su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "be85988c-5828-4a10-bd66-ac6e7da672bb"
+}

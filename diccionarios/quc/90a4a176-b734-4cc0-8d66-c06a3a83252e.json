@@ -1,0 +1,19 @@
+{
+  "entryWord": "Silikʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsilikʼuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cerrar puerta con pasador",
+  "definitionDialect": "",
+  "additional_text": "vrb Raíz VT Sil",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xusilikʼuj rij li uchi jah",
+      "example_spa": "La mujer cerró la puerta con el pasador",
+      "dialect": null
+    }
+  ],
+  "uuid": "90a4a176-b734-4cc0-8d66-c06a3a83252e"
+}

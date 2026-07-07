@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jumej jumejaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Mej ukabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Media cuerda, un rezo",
+  "definitionDialect": "",
+  "additional_text": "Enu Med Cuerda y media",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xbʼe chuyaʼik jumejaj pa tyox",
+      "example_spa": "La mujer fue a un rezo a la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "07da1fcd-43ae-4055-9bc3-f8181b1eff0f"
+}

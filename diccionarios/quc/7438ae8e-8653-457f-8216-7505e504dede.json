@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frotar ceniza, sal, tierra o cremas; manchar con la mano",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinkiloh vtd Kililexik Frotar, manchar mucho Raiz VT Kil",
+  "examples": [
+    {
+      "example_maya": "Kinkil wibʼ pa puqlaj",
+      "example_spa": "Me mancho en el polvo",
+      "dialect": null
+    },
+    {
+      "example_maya": "We xukililej li tiʼij patzʼam, utz riʼ",
+      "example_spa": "Si froto la carne con sal, agarra buen sabor",
+      "dialect": null
+    }
+  ],
+  "uuid": "7438ae8e-8653-457f-8216-7505e504dede"
+}

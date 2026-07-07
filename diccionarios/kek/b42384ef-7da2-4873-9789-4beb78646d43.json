@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tochʼonel",
+  "definition": "Marimbista, músico",
+  "additional_text": "SInv Intochʼnel var Aj tochʼonel",
+  "examples": [
+    {
+      "example_maya": "¿Laaʼat aj tochʼonel peʼ yaal?",
+      "example_spa": "¿Usted es marimbista verdad?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waʼranebʼ laj tochʼonel nekeʼchal chi najt",
+      "example_spa": "Ahí están los marimbistas que vienen de lejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "b42384ef-7da2-4873-9789-4beb78646d43",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

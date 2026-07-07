@@ -1,0 +1,29 @@
+{
+  "entryWord": "Skʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apazote",
+  "definitionDialect": "",
+  "additional_text": "scv Wiskʼaaj Raíz S Iskʼaj DomS Kunabʼal DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li skʼaj kaya chij rikil",
+      "example_spa": "El apazote se mezcla con comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li skʼaj utz cheh qʼoxom pamaj",
+      "example_spa": "El apazote es bueno para el dolor de estómago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li raʼ skʼaj utz cheh qʼoxom wareʼaj",
+      "example_spa": "La raíz de apazote es buena para dolor de muelas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c619870-9b3d-44eb-939d-9d31fa69b009"
+}

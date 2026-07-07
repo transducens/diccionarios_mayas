@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼawem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hablar; visitar",
+  "definitionDialect": "General",
+  "additional_text": "VI Kinchʼaawik s Chʼaaweel",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kinchʼaw in pa li chomal pa qʼatbʼaltzij",
+      "example_spa": "Mañana hablaré en la sesión de la municipalidad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinbʼe na pa chʼawik rukʼ sin yawabʼ",
+      "example_spa": "Iré a visitar a un enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "432064de-e6b7-4d83-be06-10e36828f31a"
+}

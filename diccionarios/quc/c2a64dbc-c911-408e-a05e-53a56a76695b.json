@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taqʼajal juyubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tierra caliente o tropical",
+  "definitionDialect": "general",
+  "additional_text": "SCL Raiz S Taqʼaaj Raiz S Juyubʼ",
+  "examples": [
+    {
+      "example_maya": "Li alanxax chiʼl li ankineʼy pa taqʼajal juyubʼ kakʼiy wih",
+      "example_spa": "La naranja y el guineo crecen en tierra tropical",
+      "dialect": null
+    }
+  ],
+  "uuid": "c2a64dbc-c911-408e-a05e-53a56a76695b"
+}

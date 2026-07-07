@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mor\"",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moros (bailadores)",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "saP Ajxojolobʼ Del Cast Moro",
+  "examples": [
+    {
+      "example_maya": "Li kitambʼor li mor\" sibʼalaj nim",
+      "example_spa": "El tambor de los moros es muy grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ad2c236-ba3c-4df5-8f6a-f8456bf0fe24"
+}

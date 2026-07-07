@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kot",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aguila de dos cabezas (mitología)",
+  "definitionDialect": "",
+  "additional_text": "snP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li kot ojer tzij kuʼtij winaq xuq kʼo ubʼanik chikiwach e qatat qanan",
+      "example_spa": "El águila de dos cabezas comía gente antiguamente y tenía significado para nuestros antepasados",
+      "dialect": null
+    }
+  ],
+  "uuid": "a02886af-d147-4d43-ba62-6ffd51d5830a"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tanäl",
+  "definition": "Suspendido, cesado",
+  "additional_text": "P Xtaneʼ, xutanabʼaʼ sinón Chamäl, kʼojlem",
+  "examples": [
+    {
+      "example_maya": "Iwir xinanabʼaʼ kan ri samaj pa qʼij",
+      "example_spa": "Ayer cesé el trabajo a las doce",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wakami xtaneʼ ri kaqʼiqʼ",
+      "example_spa": "Ahora cesó el aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rachoch ri nunimal xtaneʼ kan rubʼanik roma ri loqʼoläj jäbʼ",
+      "example_spa": "La construcción de la casa de mi hermano mayor, está suspendida por la bendita lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "5ad46f4c-6bc5-4d53-9893-bed357a91cf5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

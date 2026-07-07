@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulil",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼulil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enemigo; contrario",
+  "definitionDialect": "General",
+  "additional_text": "sInv Raíz VT Kʼul",
+  "examples": [
+    {
+      "example_maya": "We jun winaq qʼinom, xaq si kʼo wi ukʼulil",
+      "example_spa": "Una persona rica siempre tiene enemigos",
+      "dialect": null
+    }
+  ],
+  "uuid": "c35fb94d-bd43-4a36-938c-059295d92419"
+}

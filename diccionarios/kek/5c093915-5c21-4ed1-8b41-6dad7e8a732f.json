@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼeq",
+  "definition": "Negro",
+  "additional_text": "Adj Xqʼeqoʼ, xqʼeqal",
+  "examples": [
+    {
+      "example_maya": "Li xbʼonol xkaxonil li kamenaq aʼan qʼeq",
+      "example_spa": "El color de la caja mortuoria es negro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi qʼeq",
+      "example_spa": "De noche",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c093915-5c21-4ed1-8b41-6dad7e8a732f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

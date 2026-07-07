@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xoloʼp",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maíz pinto; frijol pinto; mezcla de colores Las mazorcas pintas son bonitas",
+  "definitionDialect": "",
+  "additional_text": "sNP",
+  "examples": [
+    {
+      "example_maya": "Li jal xoloʼp sibʼalaj utz kakaʼyik",
+      "example_spa": "Las mazorcas pintas son bonitas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f8871cd-836c-4474-80df-020c55e4985d"
+}

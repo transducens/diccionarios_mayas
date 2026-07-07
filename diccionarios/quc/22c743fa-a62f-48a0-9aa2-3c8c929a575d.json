@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼotoj chʼiʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Examen",
+  "definitionDialect": "",
+  "additional_text": "VTS Raíz VT Kʼot Raíz S Chiiʼ",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kabʼan kʼotoj chiʼij chkech li tijoxelabʼ",
+      "example_spa": "Los alumnos de la escuela van a tener examen mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "22c743fa-a62f-48a0-9aa2-3c8c929a575d"
+}

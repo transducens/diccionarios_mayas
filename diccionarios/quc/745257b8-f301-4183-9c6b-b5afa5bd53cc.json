@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jorojobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calmarse un dolor; aliviarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kajorojobʼik",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ xjorojobʼ li qʼaqʼ chrij",
+      "example_spa": "El enfermo se alivió de la calentura",
+      "dialect": null
+    }
+  ],
+  "uuid": "745257b8-f301-4183-9c6b-b5afa5bd53cc"
+}

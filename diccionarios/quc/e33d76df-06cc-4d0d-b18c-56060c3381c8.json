@@ -1,0 +1,19 @@
+{
+  "entryWord": "Teh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Té",
+  "definitionDialect": "Del Cast. Té.",
+  "additional_text": "scv Nutee",
+  "examples": [
+    {
+      "example_maya": "Li teh kaqumuxik jacha kapeh, miqʼsabʼal",
+      "example_spa": "El té se bebe como café para dar calor",
+      "dialect": null
+    }
+  ],
+  "uuid": "e33d76df-06cc-4d0d-b18c-56060c3381c8"
+}

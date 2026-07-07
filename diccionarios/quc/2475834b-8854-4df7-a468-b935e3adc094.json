@@ -1,0 +1,19 @@
+{
+  "entryWord": "Achalkaʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Wachalkaʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Concuña",
+  "definitionDialect": "General",
+  "additional_text": "SInv DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Li wachalkaʼn al Paxkwaʼl ubʼiʼ",
+      "example_spa": "Mi concuña se llama Pascuala",
+      "dialect": null
+    }
+  ],
+  "uuid": "2475834b-8854-4df7-a468-b935e3adc094"
+}

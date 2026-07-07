@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼaqʼwach",
+  "entryWordDialect": null,
+  "altEntryWord": "ubʼaqʼ nuwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ojo, grano de maíz, frijol, café o trigo; mis ojos Grano de maíz Padrastro",
+  "definitionDialect": "",
+  "additional_text": "sds Nubʼaqʼwach sds Ubʼaqʼwach ixiim sds Ubʼaqʼwach tap",
+  "examples": [
+    {
+      "example_maya": "Xok puqlaj pa nubʼaqʼwach",
+      "example_spa": "Me entró polvo en los ojos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li bʼeh tzaqnaq kan kebʼ ubʼaqʼwach ixim",
+      "example_spa": "En el camino hay dos granos de maíz tirados",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b78689f-8ec1-4c7c-b883-934f5c3bb3d3"
+}

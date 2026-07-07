@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maqaqexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmaqaqej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Buscar a tientas, a ciegas",
+  "definitionDialect": "general",
+  "additional_text": "vtd Raíz VT Maq",
+  "examples": [
+    {
+      "example_maya": "Li moy xaq xumaqaqej ubʼe ma na karil taj",
+      "example_spa": "El ciego busca su camino a tientas",
+      "dialect": null
+    }
+  ],
+  "uuid": "8de0f023-b91f-4281-9512-b9c05c6e311a"
+}

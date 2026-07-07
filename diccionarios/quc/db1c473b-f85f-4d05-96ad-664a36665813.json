@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzalijem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzalijik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regresar, retornar",
+  "definitionDialect": "",
+  "additional_text": "vt Ant Bʼenaam Raiz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kintzalij chwa woʼch, ma xa maj chi nuwa",
+      "example_spa": "Mañana regreso a mi casa, porque ya no tengo comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "db1c473b-f85f-4d05-96ad-664a36665813"
+}

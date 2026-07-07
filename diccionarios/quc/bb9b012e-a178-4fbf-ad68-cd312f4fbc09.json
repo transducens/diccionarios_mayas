@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rel ik",
+  "entryWordDialect": null,
+  "altEntryWord": "Rel wik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Masa para hacer sopa, recado de achiote y chile",
+  "definitionDialect": "",
+  "additional_text": "scl DomS Wah",
+  "examples": [
+    {
+      "example_maya": "Li albʼatz xjokʼotaj li rel ik rumal",
+      "example_spa": "La nuera preparó el recado con achiote y chile",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb9b012e-a178-4fbf-ad68-cd312f4fbc09"
+}

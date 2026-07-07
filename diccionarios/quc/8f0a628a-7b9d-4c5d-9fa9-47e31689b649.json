@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Plaga de animalitos Coment Este tipo de animalitos se encuentran en algunas siembras",
+  "definitionDialect": "",
+  "additional_text": "sP DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li uxaq li kinaqʼ kʼo sibʼalaj lim chrij",
+      "example_spa": "El frijolar tiene plagas de animalitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f0a628a-7b9d-4c5d-9fa9-47e31689b649"
+}

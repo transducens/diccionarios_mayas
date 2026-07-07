@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzeretzobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzeretzobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Romper cosas delgadas que hacen ruido",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Tzer",
+  "examples": [
+    {
+      "example_maya": "Li atzʼyaq we xa qʼeʼl chik, chanim katzeretzobʼik",
+      "example_spa": "Si una tela ya es vieja, luego se rompe",
+      "dialect": null
+    }
+  ],
+  "uuid": "e67ad285-ef08-4cfe-a2e5-48c9c8f955f2"
+}

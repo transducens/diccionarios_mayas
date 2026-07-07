@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jotoy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Retoño; descendiente",
+  "definitionDialect": "",
+  "additional_text": "SInv Ujotoy SSP Jotoyaal Descendiente",
+  "examples": [
+    {
+      "example_maya": "Li cheʼ xjikaxik xkʼiy ujotoy",
+      "example_spa": "Del árbol que cortaron, salió un retoño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nuxuʼmal nujotoyal",
+      "example_spa": "Mis descendientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "77d244b5-ef9a-4f7d-827e-879ae6b31a72"
+}

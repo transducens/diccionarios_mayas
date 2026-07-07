@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kinaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frijol",
+  "definitionDialect": "",
+  "additional_text": "scv Nukinaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kinaqʼ sibʼalaj kawachinik we utz li uliw",
+      "example_spa": "El terreno bueno da mucho frijol",
+      "dialect": "Dom.S. Kinaq'."
+    }
+  ],
+  "uuid": "053616f2-66d1-4c55-aa26-0aa1c576dec5"
+}

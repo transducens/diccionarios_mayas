@@ -1,0 +1,19 @@
+{
+  "entryWord": "Moʼra kʼul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poncho gris",
+  "definitionDialect": "",
+  "additional_text": "scl Numoʼra kʼuul",
+  "examples": [
+    {
+      "example_maya": "Li a Wel xuloqʼ jun umoʼra kʼul",
+      "example_spa": "Manuel compró un poncho gris",
+      "dialect": null
+    }
+  ],
+  "uuid": "5d076ef5-7a25-487e-9040-9ceff79d66fa"
+}

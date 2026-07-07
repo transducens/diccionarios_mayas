@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oom",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuʼom",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Raíz comestible de la familia de la malanga",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Tiikoʼn DomS Rikiil",
+  "examples": [
+    {
+      "example_maya": "Li om pa miqʼina juyubʼ kakʼiy wih, are li raʼ katijowik",
+      "example_spa": "Esta planta crece en tierra caliente, y la raíz se come",
+      "dialect": null
+    }
+  ],
+  "uuid": "61acdf85-e892-4b99-8744-1fe08c59275b"
+}

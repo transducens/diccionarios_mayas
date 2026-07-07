@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kutin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Camisa típica de color rojo",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukutiin",
+  "examples": [
+    {
+      "example_maya": "Li kʼuljah ukojom jun ukutin",
+      "example_spa": "El vecino tiene puesta una camisa típica de color rojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "00d041a4-a0e7-4dcf-872f-503b0ced7687"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuluʼmarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼuluʼmarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enojarse repentinamente sin motivo",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz S Kʼul",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay xaq kʼa teʼ xkʼuluʼmar aqʼanoq",
+      "example_spa": "El vendedor se enojó repentinamente",
+      "dialect": null
+    }
+  ],
+  "uuid": "a4c2787c-9e45-438c-99b3-77cd14940ad0"
+}

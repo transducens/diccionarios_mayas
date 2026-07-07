@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tikʼil aqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtikʼiʼ aqʼabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medianoche",
+  "definitionDialect": "General",
+  "additional_text": "ps Katikʼoj aqʼabʼ Raíz P Tikʼ Raíz S Aqʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq xtikʼiʼ aqʼabʼ, xporox li qʼaqʼ",
+      "example_spa": "Cuando era la media noche quemaron las bombas",
+      "dialect": null
+    }
+  ],
+  "uuid": "01b3b23f-bc1d-4fea-90fa-136d77f4f945"
+}

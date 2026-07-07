@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼaʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinbʼaʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Masticar; moler tamales ya cocidos",
+  "definitionDialect": "General",
+  "additional_text": "vtr Coment Tiene un sentido general, pero se usa más para hierbas Var Chʼayanik Raíz VT Bʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Li kunanel re uwa winaq tajin kubʼaʼ aqʼom kukunabʼej rech li akʼal",
+      "example_spa": "La curandera de mal de ojo está masticando ajos para curar al niño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ tajin kubʼaʼ li kʼakʼ atzʼyaq",
+      "example_spa": "El perro está masticando la ropa nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "9655f33a-3ec8-440c-b68b-2faa2fd8c569"
+}

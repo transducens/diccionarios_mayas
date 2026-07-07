@@ -1,0 +1,23 @@
+{
+  "entryWord": "XAAR",
+  "definition": "jarro",
+  "additional_text": "s1 nxara del español jarro ds makbʼil",
+  "examples": [
+    {
+      "example_maya": "Txʼotxʼ ttxʼotxʼal xar",
+      "example_spa": "El material del jarro es tierra",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Noq maʼ kubʼ xitj t-xar, tuʼnj miyal tzʼqʼajna",
+      "example_spa": "Se desboronó su jarro por no estar bien quemado",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e462ece3-a6a3-4918-b16c-54e4c5b41e38",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼay",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Golpe",
+  "definitionDialect": "General",
+  "additional_text": "SV Raíz VT Chʼay",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xkam rumal chʼay",
+      "example_spa": "La mujer se murió por los golpes",
+      "dialect": null
+    }
+  ],
+  "uuid": "fee8474c-09fa-4f7f-adc5-1fec850d7753"
+}

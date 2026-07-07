@@ -1,0 +1,19 @@
+{
+  "entryWord": "Inum",
+  "entryWordDialect": null,
+  "altEntryWord": "Winum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verga; pene",
+  "definitionDialect": "General",
+  "additional_text": "sInv Var Unuum DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Inum ubʼiʼ li ubaqil li achih",
+      "example_spa": "Pene es el conducto del aparato reproductor del hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "521855fe-746c-4ed3-9480-430da0911ca1"
+}

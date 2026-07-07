@@ -1,0 +1,28 @@
+{
+  "entryWord": "Xotöl",
+  "definition": "Inclinado, ladeado",
+  "additional_text": "p Xxoteʼ, xuxotobʼaʼ Xotoxik Ladeado o inclinado, torcido var Jechʼejik, xot Kʼojlen",
+  "examples": [
+    {
+      "example_maya": "Jun achin ruxotobʼan rupawiʼ pa rujolom",
+      "example_spa": "Un hombre tiene ladeado su sombrero en la cabeza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ruchʼichʼ ri a Chepe xotöl pa jun jomojïk jül",
+      "example_spa": "El carro de José está ladeado en un hoyo grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun nuchʼatal choj xotoxik ri raqän",
+      "example_spa": "Tengo una mesa que tiene desnivelado el mango",
+      "dialect": null
+    }
+  ],
+  "uuid": "34e5dcac-9ebc-4437-b29a-b2c400e8050b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

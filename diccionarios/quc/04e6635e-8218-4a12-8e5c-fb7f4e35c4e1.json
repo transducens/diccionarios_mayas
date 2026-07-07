@@ -1,0 +1,19 @@
+{
+  "entryWord": "Junelik",
+  "entryWordDialect": null,
+  "altEntryWord": "Junalik",
+  "altEntryWordDialect": "Amaqʼel",
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Siempre; todo el tiempo",
+  "definitionDialect": "",
+  "additional_text": "Adv Var Junalik Var Amaqʼel",
+  "examples": [
+    {
+      "example_maya": "Li Chep xaq junelik chi yawabʼ",
+      "example_spa": "Chepe siempre está enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "04e6635e-8218-4a12-8e5c-fb7f4e35c4e1"
+}

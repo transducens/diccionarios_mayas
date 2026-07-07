@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzaqanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aborto",
+  "definitionDialect": "",
+  "additional_text": "sv Raíz VI Tzaq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xubʼan jun tzaqanik",
+      "example_spa": "La mujer realizó un aborto",
+      "dialect": null
+    }
+  ],
+  "uuid": "db4669c0-eb97-4418-ac19-56a8ca45d655"
+}

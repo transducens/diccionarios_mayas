@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼuytzʼutem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzʼuytzʼutik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aullar el perro al estar solo o al ver a sus dueños",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Tzʼuy",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ sibʼalaj xtzʼuytzʼut chaqʼabʼ",
+      "example_spa": "El perro aulló mucho anoche",
+      "dialect": null
+    }
+  ],
+  "uuid": "1be41d8e-fb47-447e-af2d-46dd8d4c7913"
+}

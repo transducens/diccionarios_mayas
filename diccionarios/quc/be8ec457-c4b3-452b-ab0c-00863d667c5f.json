@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luqʼluʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caída: ala de sombrero",
+  "definitionDialect": "es",
+  "additional_text": "Adj Raiz P Luqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, ukojom jun powiʼ luqʼluʼx",
+      "example_spa": "El hombre se ha puesto un sombrero muy viejo con el ala caída",
+      "dialect": null
+    }
+  ],
+  "uuid": "be8ec457-c4b3-452b-ab0c-00863d667c5f"
+}

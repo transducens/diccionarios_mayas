@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kok",
+  "definition": "Tortuga",
+  "additional_text": "SInv Inkok",
+  "examples": [
+    {
+      "example_maya": "Xsoopchibʼl re kok tqaket waʼlebʼ",
+      "example_spa": "A las doce vamos a comer sopa de tortuga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun inkok xinloqʼ saʼ li kʼayiil",
+      "example_spa": "Compré una tortuga en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "7511bf3a-8038-4147-815a-6737b706b24e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

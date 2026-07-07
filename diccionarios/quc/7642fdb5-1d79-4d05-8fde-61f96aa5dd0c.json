@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wakʼwaʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ordinario: tejido o bordado; deshojado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Wakʼ",
+  "examples": [
+    {
+      "example_maya": "Li uqʼoʼoj li ixoq xa wakʼwaʼy kakaʼyik",
+      "example_spa": "El bordado de la mujer es ordinario",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ukem li alih, xa wakʼwaʼy",
+      "example_spa": "El tejido de la muchacha es ordinario",
+      "dialect": null
+    }
+  ],
+  "uuid": "7642fdb5-1d79-4d05-8fde-61f96aa5dd0c"
+}

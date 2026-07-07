@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rij lamobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cáscara de aliso",
+  "definitionDialect": "es",
+  "additional_text": "sds",
+  "examples": [
+    {
+      "example_maya": "Li rij lamobʼ xuq utz cheh tzʼajbʼal",
+      "example_spa": "La cáscara de aliso también es buena para tintura",
+      "dialect": null
+    }
+  ],
+  "uuid": "39b11050-adbb-48da-93f1-dd592543d7bd"
+}

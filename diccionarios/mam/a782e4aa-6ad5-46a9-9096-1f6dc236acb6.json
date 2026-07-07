@@ -1,0 +1,23 @@
+{
+  "entryWord": "IIPAT",
+  "definition": "1 comer a la fuerza 2 violar a una mujer",
+  "additional_text": "vt ipal te, ipan, ma bʼaj wipana raíz ip",
+  "examples": [
+    {
+      "example_maya": "lipan xiʼ waj tuʼn",
+      "example_spa": "A la fuerza comió la tortilla",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma kubʼ ipan xuʼj kyuʼn xjal",
+      "example_spa": "Fue violada la mujer por algunos hombres",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a782e4aa-6ad5-46a9-9096-1f6dc236acb6",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

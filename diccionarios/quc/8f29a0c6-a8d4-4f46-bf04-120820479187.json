@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patan",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupatan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mecapal (se pone en la cabeza)",
+  "definitionDialect": "",
+  "additional_text": "sInv Raíz S Patan DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li patan kachokon che eqaʼn",
+      "example_spa": "El mecapal sirve para cargar",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f29a0c6-a8d4-4f46-bf04-120820479187"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kisiy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarabajo pelotero; persona metiche",
+  "definitionDialect": "",
+  "additional_text": "SnP Var Siriraachaq Raiz S Kiis",
+  "examples": [
+    {
+      "example_maya": "Pa li chʼaʼoj xbʼantaj iwir kʼo jun kisiy chuxoʼl",
+      "example_spa": "En el lío de ayer hubo un metiche",
+      "dialect": null
+    }
+  ],
+  "uuid": "73aa414d-2c97-4dea-954c-a83c85640659"
+}

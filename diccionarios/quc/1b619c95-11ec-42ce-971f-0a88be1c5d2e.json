@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xjutzʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xujutzʼubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Triangular o en forma de cono",
+  "definitionDialect": "",
+  "additional_text": "p Adj Jutzʼujik Triangular",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil xa xujutzʼubʼa uwoqik li jah",
+      "example_spa": "El albañil construyó la casa en forma triangular",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b619c95-11ec-42ce-971f-0a88be1c5d2e"
+}

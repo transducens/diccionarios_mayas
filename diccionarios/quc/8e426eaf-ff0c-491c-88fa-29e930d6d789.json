@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼayesobʼirem",
+  "entryWordDialect": null,
+  "altEntryWord": "kaqʼayesobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Crecer hierbas o montes",
+  "definitionDialect": "General",
+  "additional_text": "vi Kaqʼayeesobʼirik Raiz S Qʼay",
+  "examples": [
+    {
+      "example_maya": "Li tirikoh xqʼayesobʼirik michʼ chi karaj",
+      "example_spa": "El trigo tiene mucho monte, ya necesita una limpia",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e426eaf-ff0c-491c-88fa-29e930d6d789"
+}

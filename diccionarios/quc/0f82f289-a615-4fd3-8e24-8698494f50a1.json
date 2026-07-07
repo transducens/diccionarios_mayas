@@ -1,0 +1,19 @@
+{
+  "entryWord": "Turik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinturuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desatar",
+  "definitionDialect": "",
+  "additional_text": "vtr Sinón Kiirik Raíz VT Tur",
+  "examples": [
+    {
+      "example_maya": "Kintur na li kolobʼ cheh li tzʼiʼ",
+      "example_spa": "Voy a desatarle el lazo al perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f82f289-a615-4fd3-8e24-8698494f50a1"
+}

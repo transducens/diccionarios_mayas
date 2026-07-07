@@ -1,0 +1,28 @@
+{
+  "entryWord": "Paqonk",
+  "definition": "Llevar en el hombro, levantar un poco una cosa pesada",
+  "additional_text": "VTD Xinpaqo",
+  "examples": [
+    {
+      "example_maya": "Toopaqonk cheʼ re roqʼechal alampr",
+      "example_spa": "Vamos a llevar postes para el alambrado, sobre los hombros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Paqonk qaawaʼ",
+      "example_spa": "Cargar imágenes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinxpaqo xbʼeen xtel li paar",
+      "example_spa": "El sacerdote me cargó sobre sus hombros",
+      "dialect": null
+    }
+  ],
+  "uuid": "627b8e5b-8508-4d97-a639-a132031d1a1e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

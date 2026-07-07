@@ -1,0 +1,28 @@
+{
+  "entryWord": "Takamäl",
+  "definition": "Tamal de carne, chucho de carne",
+  "additional_text": "sInv Nutakamäl (nutakamal) Wäy",
+  "examples": [
+    {
+      "example_maya": "Ri takamäl nibʼan kuchi kʼo nimaqʼij",
+      "example_spa": "El tamal con carne lo hacen cuando hay fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa nuqʼij xbʼan takamäl",
+      "example_spa": "En mi cumpleaños hicieron chuchos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo winäq jeʼ jataqil nikibʼän takamäl pa kacho",
+      "example_spa": "Hay personas que cada poco hacen chuchitos en la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "680c3933-7656-44ea-9a03-33544aaa7bde",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

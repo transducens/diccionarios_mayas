@@ -1,0 +1,19 @@
+{
+  "entryWord": "Texah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedazo de teja",
+  "definitionDialect": "Del Cast. Teja.",
+  "additional_text": "scv Nuteexaa",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj jabʼunaq texah chwa li jah",
+      "example_spa": "Se han regado muchos pedazos de teja en el patio de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "99881e5e-a356-4c18-8741-8e9b3e3ebf4a"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pejlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xpejiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xupejbʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Puesta; cosa ancha y grande (tabla ancha, piedra, azadón o machete de filo grande o de hoja ancha)",
+  "definitionDialect": "General",
+  "additional_text": "P Sinón Lajanik Raíz P Pej",
+  "examples": [
+    {
+      "example_maya": "Li ajanel naj xupejbʼa li tzʼalam chwa li qʼij",
+      "example_spa": "El carpintero puso mucho tiempo la tabla en el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "22820bbd-a230-4a45-b9b0-1d1be82c0ba8"
+}

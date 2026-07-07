@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xiʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grillo",
+  "definitionDialect": "",
+  "additional_text": "SnP Var Lool DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li xiʼl qʼakoʼj li rij xuq kabʼixan chaqʼabʼ",
+      "example_spa": "El grillo es de color canela y canta por las noches",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xiʼl kebʼixan rokibʼal taq aqʼabʼ",
+      "example_spa": "Los grillos comienzan a cantar al anochecer",
+      "dialect": null
+    }
+  ],
+  "uuid": "8bf27e8c-60db-4bf5-9e13-15ab9b9036ac"
+}

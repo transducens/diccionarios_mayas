@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼonokʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼonokʼotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correr un niño con la cabeza descubierta",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz VI Kʼon",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal kakʼonokʼotik bʼenaq pa li bʼeh",
+      "example_spa": "El niño pequeño corre con la cabeza descubierta",
+      "dialect": null
+    }
+  ],
+  "uuid": "566387b9-a4b8-4eed-8060-2e32d3e6848c"
+}

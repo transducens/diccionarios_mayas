@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxtew",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paludismo; malaria",
+  "definitionDialect": "",
+  "additional_text": "sc DomS Yaabʼiil Raíz Adj Rax Raíz S Teew",
+  "examples": [
+    {
+      "example_maya": "Li alah xuriqa raxtew pa pink",
+      "example_spa": "El muchacho fue a contagiar de paludismo a la finca",
+      "dialect": null
+    }
+  ],
+  "uuid": "bcc92d3a-5b03-432d-8833-2c745f1cc2b3"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juruq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un bocado de verduras; una rasgada",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz VT Ruq",
+  "examples": [
+    {
+      "example_maya": "Li alih xusipaj juruq wichaj",
+      "example_spa": "La muchacha me regaló un bocado de verduras",
+      "dialect": null
+    }
+  ],
+  "uuid": "0aba5f2f-5247-43b6-80df-0fbd4983116b"
+}

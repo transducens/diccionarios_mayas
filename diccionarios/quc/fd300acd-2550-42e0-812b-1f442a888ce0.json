@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chichicaste",
+  "definitionDialect": "general",
+  "additional_text": "snp Var Amiilah Raíz S Lah DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li uxaq li lah nimaʼq xuq ketekaʼq",
+      "example_spa": "Las hojas del chichicaste son grandes y redondas",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd300acd-2550-42e0-812b-1f442a888ce0"
+}

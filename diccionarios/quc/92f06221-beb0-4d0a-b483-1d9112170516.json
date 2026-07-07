@@ -1,0 +1,34 @@
+{
+  "entryWord": "Bʼolqʼotixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Bʼatzʼkatixik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enrollar lazo o alambre; envolver en tela o papel",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinbʼolqʼotiij var Bʼatzʼkatixik",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kubʼolqʼotij li kolobʼ",
+      "example_spa": "El hombre está enrollado el lazo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xbʼolqʼotix pa tzij",
+      "example_spa": "Fue maltratado con palabras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xbʼolqʼotix chaqan",
+      "example_spa": "Fue golpeado a patadas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xbʼolqʼotix rumal kaqiqʼ",
+      "example_spa": "Fue arruinado por el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "92f06221-beb0-4d0a-b483-1d9112170516"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sement",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusement",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cemento",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chokonisabʼal Del Cast Cemento",
+  "examples": [
+    {
+      "example_maya": "Li wokol jah sement kukoj cheh li jah kuwokoh",
+      "example_spa": "El albañil usa cemento para construir la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c4c8403-ee45-4729-acc3-f42aadcfc5fe"
+}

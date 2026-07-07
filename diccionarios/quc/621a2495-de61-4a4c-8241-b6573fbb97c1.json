@@ -1,0 +1,19 @@
+{
+  "entryWord": "Manoj",
+  "entryWordDialect": null,
+  "altEntryWord": "Numanoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Manojo",
+  "altEntryWordDialect2": null,
+  "definition": "Manojo",
+  "definitionDialect": "",
+  "additional_text": "sinv Del Cast Manojo",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuloqʼ jun manoj richaj pa kʼayʼbʼal",
+      "example_spa": "La mujer compró un manojo de verduras en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "621a2495-de61-4a4c-8241-b6573fbb97c1"
+}

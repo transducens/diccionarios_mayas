@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rachiʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Con; acompañado de",
+  "definitionDialect": "general",
+  "additional_text": "ssp Var Chiʼl Raíz S Ach",
+  "examples": [
+    {
+      "example_maya": "Li achih rachiʼl li rixoqil xebʼek",
+      "example_spa": "El hombre va acompañado de su esposa",
+      "dialect": null
+    }
+  ],
+  "uuid": "b204164f-3e1c-44ec-9592-a71d3992292f"
+}

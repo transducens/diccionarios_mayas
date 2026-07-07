@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼaranik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xkʼariʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xukʼarabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Amontonados: envases, botellas, cosas duras que suenan; quedarse vacíos: envases, botellas, cosas duras que suenan",
+  "definitionDialect": "General",
+  "additional_text": "P Raiz P Kʼar",
+  "examples": [
+    {
+      "example_maya": "Xkʼariʼ kan li qʼat lameʼt pa ja",
+      "example_spa": "Se quedaron vacíos los envases en la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li kʼolibʼal mes sibʼalaj kʼi lameʼt kʼaranik",
+      "example_spa": "En el basurero hay muchas botellas amontonadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a3a8fa5-61e2-4d45-a87f-7de15187d1ef"
+}

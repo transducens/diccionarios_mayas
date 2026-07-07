@@ -1,0 +1,23 @@
+{
+  "entryWord": "BAQA",
+  "definition": "acaso",
+  "additional_text": "pad acaso",
+  "examples": [
+    {
+      "example_maya": "Baqa mans t-xiʼ nimal kʼuxbʼil tuʼn xjal",
+      "example_spa": "Acaso la persona no lleva el carro con mucha velocidad",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Baqa miyaʼ junx kyipan yolbʼil",
+      "example_spa": "Acaso no todos los idiomas tienen el mismo valor",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ceaf04ad-ba7a-49de-a851-0b94b6359d8f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yililim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Venirse resbalada tierra o granos amontonados; moverse el estómago por purgante",
+  "definitionDialect": "",
+  "additional_text": "vi Kayililik Var Katililik Raíz VT Yil",
+  "examples": [
+    {
+      "example_maya": "Li tanatik kayililik xpetik, ma xa saqkowin",
+      "example_spa": "La peña se desmoronó fácilmente por ser de arena",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kayilil nupam rumal li rikil, xa elenaq uwiʼ aseyʼt rukʼ",
+      "example_spa": "Se me mueve mucho el estómago por la comida, porque tenía demasiado aceite",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c4d2e43-fca6-43b4-acf0-f7e9fe443620"
+}

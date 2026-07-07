@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaqʼaqʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachaqʼaqʼlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trabajar entre el agua; chapotear el agua al buscar algo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Chaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kachaqʼaqʼlabʼ pa li joron, chutzukuxik kar",
+      "example_spa": "El hombre chapotea el agua al buscar peces",
+      "dialect": null
+    }
+  ],
+  "uuid": "e73eb002-bafc-461a-ab90-28379755e7b9"
+}

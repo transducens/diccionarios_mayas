@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼapaʼp",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchʼapaʼp",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuña",
+  "definitionDialect": "General",
+  "additional_text": "SInv Var Chʼuuteel Raiz P Chʼap",
+  "examples": [
+    {
+      "example_maya": "Li raqan asaron xaq si rajawaxik wi chʼapaʼp chechʼ",
+      "example_spa": "El cabo de azadón siempre necesita cuña",
+      "dialect": null
+    }
+  ],
+  "uuid": "9418244d-24bc-4701-9572-5fa737f85681"
+}

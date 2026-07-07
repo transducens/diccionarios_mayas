@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maʼm",
+  "entryWordDialect": null,
+  "altEntryWord": "Numaʼm",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mamar, amamantar Coment Leche de mujer (palabra que usan los niños solamente)",
+  "definitionDialect": "",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li neʼ umaʼm kutijoh",
+      "example_spa": "El nene está mamando",
+      "dialect": null
+    }
+  ],
+  "uuid": "e535224f-456b-47e8-b60e-b67209a318d3"
+}

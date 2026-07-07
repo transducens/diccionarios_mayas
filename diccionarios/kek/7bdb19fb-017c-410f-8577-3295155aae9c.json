@@ -1,0 +1,23 @@
+{
+  "entryWord": "Waheʼ",
+  "definition": "Tomálo, tómelo, tené, tenga, aquí está",
+  "additional_text": "Imp Esta forma es más cortés que \"he\" Var Heʼ Var Wiʼ",
+  "examples": [
+    {
+      "example_maya": "Waheʼ li sekʼ",
+      "example_spa": "Toma el trasto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waheʼ rochoch laj ilonel",
+      "example_spa": "Aquí está la casa del curandero",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bdb19fb-017c-410f-8577-3295155aae9c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

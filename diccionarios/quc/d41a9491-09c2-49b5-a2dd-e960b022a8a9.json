@@ -1,0 +1,44 @@
+{
+  "entryWord": "Juyubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nujuyubʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Montaña; cerro; cantón; aldea",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li juyubʼ nim aqʼannaq",
+      "example_spa": "El cerro es muy alto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinbʼe pa nujuyubʼ",
+      "example_spa": "Voy a mi cantón",
+      "dialect": null
+    },
+    {
+      "example_maya": "sv Juyubʼarik",
+      "example_spa": "Defecar",
+      "dialect": null
+    },
+    {
+      "example_maya": "SCL Kaja juyubʼ",
+      "example_spa": "Cerro redondo y no alto",
+      "dialect": null
+    },
+    {
+      "example_maya": "SCL Juyubʼal aq",
+      "example_spa": "Coche de monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Xpe nujuyubʼarik",
+      "example_spa": "Querer defecar",
+      "dialect": null
+    }
+  ],
+  "uuid": "d41a9491-09c2-49b5-a2dd-e960b022a8a9"
+}

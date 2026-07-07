@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mekʼelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Obediente; humilde, que se comporta bien",
+  "definitionDialect": "General",
+  "additional_text": "p Xmekʼiʼk, xumekʼebʼaʼ Raíz P Mekʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah sibʼalaj utz xaq mekʼelik kaya utaqkil",
+      "example_spa": "El muchacho es obediente cuando se le pide hacer un mandado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xaq mekʼelik tajin uqʼilik rumal li utat",
+      "example_spa": "La muchacha es humilde porque su papá le llama la atención",
+      "dialect": null
+    }
+  ],
+  "uuid": "761c180c-8954-4ce3-931d-724386038590"
+}

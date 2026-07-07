@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raqmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Reqmaʼyem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa rota y abierta",
+  "definitionDialect": "",
+  "additional_text": "vi Karaqmaʼyik var Reqmaʼyeem Raíz VT Raq",
+  "examples": [
+    {
+      "example_maya": "Li toʼl reh li ajwanil, xaq karaqmaʼy li ukamiʼx, ukojom pa li chak",
+      "example_spa": "El ayudante del albañil anda con la camisa rota en el trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "97422b31-7ade-4b3b-b6b9-015de74eda8d"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼilibʼal kapeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tostadero de café",
+  "definitionDialect": "General",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Pa li kʼilibʼal kakʼilix wi li kapeh",
+      "example_spa": "El café se tuesta en el",
+      "dialect": null
+    }
+  ],
+  "uuid": "28ede44a-6717-41d3-a064-295a1c060a20"
+}

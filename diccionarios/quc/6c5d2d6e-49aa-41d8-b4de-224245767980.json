@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nawaʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Navaja",
+  "definitionDialect": "",
+  "additional_text": "SInv Nunawaʼx F Nawaʼx DomS Chʼiichʼ Del Cast Navaja",
+  "examples": [
+    {
+      "example_maya": "Li nawaʼx xa apawiʼ kachokon wiʼ",
+      "example_spa": "La navaja tiene varios usos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nawaʼx re uxe wiʼ",
+      "example_spa": "Navaja de afeitar",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c5d2d6e-49aa-41d8-b4de-224245767980"
+}

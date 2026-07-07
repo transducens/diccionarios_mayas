@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼamowaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼamowaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agradecer",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Kʼam",
+  "examples": [
+    {
+      "example_maya": "Kinkʼamowaj che dyos ma xkunataj sin walkʼuʼal",
+      "example_spa": "Le agradezco a Dios la sanación de mi hijo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alkʼwaʼlaxelabʼ kakikʼamowaj li koʼch xuya li kitat",
+      "example_spa": "Los hijos agradecen a su padre, las casas que les dio",
+      "dialect": null
+    }
+  ],
+  "uuid": "66d69e32-363b-420c-a400-79ebddc10125"
+}

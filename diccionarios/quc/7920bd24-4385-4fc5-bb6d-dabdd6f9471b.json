@@ -1,0 +1,39 @@
+{
+  "entryWord": "Utz",
+  "entryWordDialect": null,
+  "altEntryWord": "Utzil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "rutziil",
+  "altEntryWordDialect2": null,
+  "definition": "Bueno; satisfecho; feliz; contento; tranquilo; paz",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li nukej sibʼalaj utz",
+      "example_spa": "Mi caballo es muy bueno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Utzil chi li achih, ma xrelij",
+      "example_spa": "El hombre está satisfecho porque ya comió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj rukʼ utzil xinqʼaxej alaxibʼal",
+      "example_spa": "Pasé la navidad muy feliz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, utzil rech ma xtzir li uchak",
+      "example_spa": "El hombre está contento porque terminó su trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri utzil chi kʼojiʼ ta iwukʼ",
+      "example_spa": "La paz sea con ustedes",
+      "dialect": null
+    }
+  ],
+  "uuid": "7920bd24-4385-4fc5-bb6d-dabdd6f9471b"
+}

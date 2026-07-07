@@ -1,0 +1,18 @@
+{
+  "entryWord": "La (laʼ)",
+  "definition": "Partícula que indica preguntas con respuestas de \"sí\" o \"no\" funciona como artículo sin diferenciar masculino o femenino",
+  "additional_text": "Int",
+  "examples": [
+    {
+      "example_maya": "¿ La yabʼe ala xa manäq?",
+      "example_spa": "¿Vas vos o no?",
+      "dialect": null
+    }
+  ],
+  "uuid": "4fac51fc-5e9c-4ebd-8920-92eb3134de6a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

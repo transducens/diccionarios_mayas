@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼor",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼor",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Atol de masa; masa cruda",
+  "definitionDialect": "",
+  "additional_text": "sInv Raiz S Qʼoor",
+  "examples": [
+    {
+      "example_maya": "Li ajchakibʼ are taq xewaʼik, xuq xkitij qʼor",
+      "example_spa": "Cuando los trabajadores comieron, también tomaron atol de masa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼora lij Tortilla cruda Li subʼ we xa qʼor, kubʼan kʼax cheh li pamaj",
+      "example_spa": "Si están crudos los tamalitos, le hacen mal al estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "59ee38bf-5a7b-441e-9bce-a10901697cfd"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Poy",
+  "definition": "Espantapájaros",
+  "additional_text": "sInv Nupoy",
+  "examples": [
+    {
+      "example_maya": "Ri poy niyaʼox pa ruwiʼ awän chi yeruxbʼij ri tzʼikin (ajxikʼaʼ)",
+      "example_spa": "El espantapájaros se cuelga sobre la milpa para asustar a los pájaros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa rikʼin xinbʼän jun poy pa wawän, majun chik xeqa ta ri chiköpiʼ",
+      "example_spa": "Tan sólo un espantajo hice en mi milpa, fue suficiente y no bajaron más aves",
+      "dialect": null
+    }
+  ],
+  "uuid": "16f7df31-fb10-4d01-aaa4-6ebea08e5f0e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

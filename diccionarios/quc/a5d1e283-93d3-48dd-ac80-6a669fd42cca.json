@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roskiʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rosquita (pan en forma de anillo)",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuroskiʼl Var Raskiʼl DomS Kaxlanwah Del Cast Rosquita",
+  "examples": [
+    {
+      "example_maya": "Li roskiʼl; kabʼan Xelajuʼ chiʼl Chwi lah",
+      "example_spa": "Las rosquitas se fabrican en Quetzaltenango y Chichicastenango",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5d1e283-93d3-48dd-ac80-6a669fd42cca"
+}

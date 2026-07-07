@@ -1,0 +1,18 @@
+{
+  "entryWord": "BAARK",
+  "definition": "barco",
+  "additional_text": "s1 nbarka del español barco ds makbʼil, ds bʼetbʼil",
+  "examples": [
+    {
+      "example_maya": "Oʼkx nchikyʼal bark jatuma matij t-xeʼ mar, bʼixqa at jun",
+      "example_spa": "Los barcos sólo llegan donde hay un puerto y el mar es profundo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a0ff86f8-eb39-46c6-91d2-54c4d2b4f792",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

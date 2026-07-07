@@ -1,0 +1,23 @@
+{
+  "entryWord": "PROBAAR",
+  "definition": "prueba, experimento",
+  "additional_text": "(probal) s1 nprobara del español probar",
+  "examples": [
+    {
+      "example_maya": "Qʼintz jun nprobala oj qa maʼ tzqʼaj",
+      "example_spa": "Traéme un aguacate para probar si ya está maduro",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Lu mij laqta tprobar tʼal chmekyʼ",
+      "example_spa": "Aquí tenés media taza de caldo de jolote como prueba tuya",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d8ccce14-9921-44ea-8fab-b510b74c528e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

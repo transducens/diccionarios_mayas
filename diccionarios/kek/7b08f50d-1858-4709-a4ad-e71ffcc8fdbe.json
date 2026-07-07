@@ -1,0 +1,18 @@
+{
+  "entryWord": "Tzekem",
+  "definition": "Comida, alimento",
+  "additional_text": "SInv Intzekeem",
+  "examples": [
+    {
+      "example_maya": "Xkehoʼ li qatzekeem, qabʼaanukuhaq",
+      "example_spa": "Se enfrió nuestra comida, sirvámonos ya",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b08f50d-1858-4709-a4ad-e71ffcc8fdbe",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

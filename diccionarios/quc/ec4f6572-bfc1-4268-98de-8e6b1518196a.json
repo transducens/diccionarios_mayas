@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼa te riʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Después (de eso)",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Are taq kaqelij kʼa te riʼ kojbʼe pa chak",
+      "example_spa": "Después de comer, vamos a trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "ec4f6572-bfc1-4268-98de-8e6b1518196a"
+}

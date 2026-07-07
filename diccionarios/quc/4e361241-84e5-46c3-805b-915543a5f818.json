@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaniwach",
+  "entryWordDialect": null,
+  "altEntryWord": "qʼaniwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Nuqʼaniwaach",
+  "altEntryWordDialect2": null,
+  "definition": "Maíz amarillo",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li qʼaniwach are chanim kaʼajir chwach li raxwach chiʼl li xaqwach",
+      "example_spa": "El maíz amarillo crece más rápido que el maíz negro o el maíz blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e361241-84e5-46c3-805b-915543a5f818"
+}

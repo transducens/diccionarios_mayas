@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼiʼtajnaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aburrido",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Qʼiʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, qʼiʼtajnaq cheh bʼeh",
+      "example_spa": "El hombre está aburrido del camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "bbff035b-b29d-45cc-ad8f-5b5622e431ce"
+}

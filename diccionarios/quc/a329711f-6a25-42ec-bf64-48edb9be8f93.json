@@ -1,0 +1,24 @@
+{
+  "entryWord": "Titzʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Meter a la fuerza; llenar mucho",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintitzʼoh Raíz PT Titzʼ",
+  "examples": [
+    {
+      "example_maya": "Xintitzʼ li subʼ pa li sobʼal",
+      "example_spa": "Metí los tamales en la olla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih li xchʼoʼjinik, xtitzʼ pa koʼk",
+      "example_spa": "Al hombre que peleó, lo metieron a la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "a329711f-6a25-42ec-bf64-48edb9be8f93"
+}

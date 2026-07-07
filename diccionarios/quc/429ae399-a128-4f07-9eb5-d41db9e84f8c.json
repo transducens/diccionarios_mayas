@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nimaʼqil",
+  "entryWordDialect": null,
+  "altEntryWord": "unimaʼqil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cosas principales, más importantes (de un grupo); jefe",
+  "definitionDialect": "",
+  "additional_text": "SSP sPos Unimaʼqilaabʼ Jefes Raíz Adj Nim",
+  "examples": [
+    {
+      "example_maya": "Li krunsipalibʼ are kinimaʼqil li winaq pa li wokaj",
+      "example_spa": "En los cantones, los principales son los jefes de la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "429ae399-a128-4f07-9eb5-d41db9e84f8c"
+}

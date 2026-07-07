@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tzʼiril (tzʼiran)",
+  "definition": "Estar en silencio, extensión, detenida el ave en el aire, o un barrilete",
+  "additional_text": "p Xtzʼireʼ, xutzʼiribʼaʼ vi Tzʼiritzʼoʼ Ponerse silencio v Silan p Tzʼïr, kʼojlen",
+  "examples": [
+    {
+      "example_maya": "Wakamin tzʼiran bʼa ri kaqʼiqʼ",
+      "example_spa": "Ahora está un poco silencio el aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri litzʼlitzʼ nitzʼireʼ jataqäl pa kaqʼiqʼ",
+      "example_spa": "El gavilancillo cada poco se detiene en el aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq kʼechelaj yalan tzʼiran",
+      "example_spa": "En los bosques es muy silencio",
+      "dialect": null
+    }
+  ],
+  "uuid": "34d6a70b-716a-482a-a58a-9c6a6df07d78",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

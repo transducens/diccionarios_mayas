@@ -1,0 +1,44 @@
+{
+  "entryWord": "Qas",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "De verdad; verdaderamente; verdad",
+  "definitionDialect": "",
+  "additional_text": "Adv Raíz Adv Qas",
+  "examples": [
+    {
+      "example_maya": "Are kwaj qas kawetaʼmaj",
+      "example_spa": "Lo que quiero, es saber la verdad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qas jun tzij kawaj in",
+      "example_spa": "Quiero una sola verdad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qas kuloqʼoj",
+      "example_spa": "De verdad lo estima",
+      "dialect": null
+    },
+    {
+      "example_maya": "Na qas ta tzij",
+      "example_spa": "No es cierto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Na qas ta jeʼ",
+      "example_spa": "Realmente no es así",
+      "dialect": null
+    },
+    {
+      "example_maya": "Na qas ta",
+      "example_spa": "No es muy",
+      "dialect": null
+    }
+  ],
+  "uuid": "735664cd-601c-457e-bc93-3dd39ef9c4b2"
+}

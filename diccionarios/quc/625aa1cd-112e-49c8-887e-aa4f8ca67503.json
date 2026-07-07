@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jiʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjiʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sobar por algún dolor; dar masaje; embalsamar",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Jiʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajkun xujiʼ li rij li yawabʼ",
+      "example_spa": "La enfermera le da masajes en la espalda al paciente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kunanel xujiʼ li yawabʼ pa kunabʼal",
+      "example_spa": "La curandera sobó al enfermo con pomada",
+      "dialect": null
+    }
+  ],
+  "uuid": "625aa1cd-112e-49c8-887e-aa4f8ca67503"
+}

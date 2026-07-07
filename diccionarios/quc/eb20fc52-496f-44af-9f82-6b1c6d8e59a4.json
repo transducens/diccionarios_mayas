@@ -1,0 +1,24 @@
+{
+  "entryWord": "Par",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zorro",
+  "definitionDialect": "",
+  "additional_text": "sap DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li par kuwor li mukun, li qʼoqʼ",
+      "example_spa": "El zorro perfora el güicoy y el chilacayote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li par kʼo rismal, we koqataxik kupichʼij kan ri ukis sibʼalaj chuh",
+      "example_spa": "El zorro es muy peludo, y si le persigue un enemigo, echa un líquido muy hediondo",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb20fc52-496f-44af-9f82-6b1c6d8e59a4"
+}

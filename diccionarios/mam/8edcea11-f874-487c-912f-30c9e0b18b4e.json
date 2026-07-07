@@ -1,0 +1,23 @@
+{
+  "entryWord": "PLOOM",
+  "definition": "1 plomo 2 plomada",
+  "additional_text": "s1 nploma del español plomo, plomada",
+  "examples": [
+    {
+      "example_maya": "Oʼkx a plom nnajon te tbʼaqʼ ubʼil",
+      "example_spa": "Únicamente el plomo usan para las balas de la escopeta",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Nim nnajon plom kyuʼn albaniya",
+      "example_spa": "Los albañiles usan mucho la plomada",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8edcea11-f874-487c-912f-30c9e0b18b4e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuk",
+  "entryWordDialect": null,
+  "altEntryWord": "Uyukal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xyukarik (xyukanik)",
+  "altEntryWordDialect2": null,
+  "definition": "Cicatrizado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz s Yuuk",
+  "examples": [
+    {
+      "example_maya": "Li taqan li a Wel xyukanik",
+      "example_spa": "El pie de Manuel está cicatrizado",
+      "dialect": null
+    }
+  ],
+  "uuid": "f6d4f16e-5eee-4648-99dd-52a28d6dce1e"
+}

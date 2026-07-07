@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuqul\"bʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lugar donde se amarran caballos o bueyes",
+  "definitionDialect": "",
+  "additional_text": "ssp Uyuqul\"bʼal",
+  "examples": [
+    {
+      "example_maya": "Li wuliw xa kiyuqulbʼal kej",
+      "example_spa": "Mi terreno es un lugar donde amarran bestias",
+      "dialect": null
+    }
+  ],
+  "uuid": "dde0797a-539d-4fc2-8257-2c69af76b052"
+}

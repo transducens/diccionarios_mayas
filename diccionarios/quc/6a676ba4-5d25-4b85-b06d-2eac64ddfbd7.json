@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzaltzatlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzaltzatlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambalearse",
+  "definitionDialect": "",
+  "additional_text": "vt Raiz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq katzaltzatlabʼik, ma xa yawabʼ",
+      "example_spa": "El hombre se tambalea porque está enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a676ba4-5d25-4b85-b06d-2eac64ddfbd7"
+}

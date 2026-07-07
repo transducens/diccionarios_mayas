@@ -1,0 +1,19 @@
+{
+  "entryWord": "Makalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xmakiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xumakabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Débil; desmayado",
+  "definitionDialect": "",
+  "additional_text": "P Raíz P Mak",
+  "examples": [
+    {
+      "example_maya": "Li yowabʼ xaq makalik ma na kawaʼ taj",
+      "example_spa": "El enfermo está débil porque no come",
+      "dialect": null
+    }
+  ],
+  "uuid": "4d868024-ec93-45d7-9004-56de707ea90f"
+}

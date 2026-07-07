@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wechʼechʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Machetear; picar tierra; madera o frutas como el chilacayote",
+  "definitionDialect": "general",
+  "additional_text": "vtd Kinwechʼechʼeej Raíz VT Wechʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuwechʼechʼej li tzʼalam",
+      "example_spa": "El niño machetió la tabla",
+      "dialect": null
+    }
+  ],
+  "uuid": "548db3fb-71ba-40df-abd7-299368b3dc69"
+}

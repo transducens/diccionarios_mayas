@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kamyonet",
+  "entryWordDialect": null,
+  "altEntryWord": "bʼinibʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Camioneta; autobús",
+  "definitionDialect": "",
+  "additional_text": "snp DomS Chʼiichʼ Del Cast Camioneta",
+  "examples": [
+    {
+      "example_maya": "Li kamyonet xaq xew\" pa taq nimaq tinamit kabʼin wih",
+      "example_spa": "La camioneta sólo pasa por los pueblos grandes",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ac512b2-04d3-4f28-8f30-c69350ce5761"
+}

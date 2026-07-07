@@ -1,0 +1,23 @@
+{
+  "entryWord": "Lej",
+  "definition": "Tortilla delgada",
+  "additional_text": "sInv (lejal) Nulej Sinón Ponon, wäy",
+  "examples": [
+    {
+      "example_maya": "Yin nintij waqiʼ lej wäy",
+      "example_spa": "Yo me como seis tortillas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri lej wäy yalan jebʼël ok, chuqa choj a seton",
+      "example_spa": "La tortilla delgada es muy buena y redonda",
+      "dialect": null
+    }
+  ],
+  "uuid": "98e79170-c761-405b-89dd-92554a91b9a5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

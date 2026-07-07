@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼalul",
+  "entryWordDialect": null,
+  "altEntryWord": "bʼalul nah",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Travesaño de corral",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼaluul (nubʼaaluul)",
+  "examples": [
+    {
+      "example_maya": "Chech li bʼalul kaxim wi li patzʼan",
+      "example_spa": "Del travesaño del corral se amarran las cañas",
+      "dialect": null
+    }
+  ],
+  "uuid": "607e35b8-d7f7-458a-ac1f-15c318706cbe"
+}

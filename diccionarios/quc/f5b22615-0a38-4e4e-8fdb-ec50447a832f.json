@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chemechik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande: extensión de líquidos",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Chem",
+  "examples": [
+    {
+      "example_maya": "Li choh sibʼalaj jun nimalaj chemechik",
+      "example_spa": "El lago; es una gran extensión de agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "f5b22615-0a38-4e4e-8fdb-ec50447a832f"
+}

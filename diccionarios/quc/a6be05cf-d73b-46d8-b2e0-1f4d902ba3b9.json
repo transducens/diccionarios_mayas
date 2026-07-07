@@ -1,0 +1,19 @@
+{
+  "entryWord": "Munixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener deseos de comer, o de ocupar un cargo",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinmunij Raíz VT Muun",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kumunij utzʼubʼik kabʼ",
+      "example_spa": "El niño tiene deseos de comer caramelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6be05cf-d73b-46d8-b2e0-1f4d902ba3b9"
+}

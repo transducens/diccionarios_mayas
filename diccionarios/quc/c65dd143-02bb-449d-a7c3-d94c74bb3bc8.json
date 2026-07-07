@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqpeʼr",
+  "entryWordDialect": null,
+  "altEntryWord": "(saqperepoj)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Usaqpeʼraal, xsaqperiʼk",
+  "altEntryWordDialect2": null,
+  "definition": "Descolorido; desteñido",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz Adj Saq Raíz Adj Per",
+  "examples": [
+    {
+      "example_maya": "Li raxa wuj xchʼaqiʼ pa li joron, xa je riʼ xsaqperiʼk",
+      "example_spa": "El papel verde se mojó por eso se puso descolorido",
+      "dialect": null
+    }
+  ],
+  "uuid": "c65dd143-02bb-449d-a7c3-d94c74bb3bc8"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼaybʼäl",
+  "definition": "Mercado, plaza",
+  "additional_text": "scv Nukʼaybʼal Jay",
+  "examples": [
+    {
+      "example_maya": "Wakamin ruqʼij kʼaybʼäl",
+      "example_spa": "Hoy es día de mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ronojel ri kʼaybʼäl xnoj chi winäq ruma ri nimaqʼij",
+      "example_spa": "Toda la plaza se llenó de gente por la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa kʼaybʼäl nkʼayïx ixim, kinäqʼ",
+      "example_spa": "En el mercado venden maíz y frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe0f4320-3f1a-454d-bafe-2d28f8a5f8a2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

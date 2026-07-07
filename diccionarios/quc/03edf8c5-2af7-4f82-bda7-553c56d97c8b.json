@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qaʼwem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kʼatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arder",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqaʼwik var Kʼaatik",
+  "examples": [
+    {
+      "example_maya": "Li siʼ chaqiʼj sibʼalaj xqaʼwik",
+      "example_spa": "La leña seca ardió mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "03edf8c5-2af7-4f82-bda7-553c56d97c8b"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Piskʼ",
+  "definition": "Salto",
+  "additional_text": "sInv Inpiskʼ",
+  "examples": [
+    {
+      "example_maya": "Jun inpiskʼ xinkʼe chanchan xpiskʼ junaq kej",
+      "example_spa": "El salto que di es como el de un venado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ jun piskʼ xinnumeʼ saʼ jun pakʼal li nimaʼ",
+      "example_spa": "De un salto pasé al otro lado del río",
+      "dialect": null
+    }
+  ],
+  "uuid": "340bbcde-b7d1-4837-96bd-1074ff5eeff1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

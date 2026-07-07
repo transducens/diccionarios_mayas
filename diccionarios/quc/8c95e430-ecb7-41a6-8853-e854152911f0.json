@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qachachexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar mucho o con facilidad",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinqachacheej Raíz P Qach",
+  "examples": [
+    {
+      "example_maya": "Xuqachachej nuqʼabʼ li chʼichʼ",
+      "example_spa": "El machete me cortó la mano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maj kʼax xinqa chachej li bʼolaj",
+      "example_spa": "Corté el trozo con facilidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c95e430-ecb7-41a6-8853-e854152911f0"
+}

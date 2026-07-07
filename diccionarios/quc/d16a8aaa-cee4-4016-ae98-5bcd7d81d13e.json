@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼupik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Picar tierra",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinkʼupuh Var Tzokʼonik Var Wechʼonik Var Muchunik Raíz VT",
+  "examples": [
+    {
+      "example_maya": "Utz ukʼupik li uliw kabʼanik, are chi kuya uwachinem",
+      "example_spa": "Hay que picar bien la tierra, para que dé cosecha",
+      "dialect": null
+    }
+  ],
+  "uuid": "d16a8aaa-cee4-4016-ae98-5bcd7d81d13e"
+}

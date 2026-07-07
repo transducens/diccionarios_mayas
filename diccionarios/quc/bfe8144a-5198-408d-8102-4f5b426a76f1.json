@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mantilix",
+  "entryWordDialect": null,
+  "altEntryWord": "Numantilix",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Servilleta ceremonial",
+  "definitionDialect": "general",
+  "additional_text": "scv DomS Atzʼyaq Del Cast Manteles",
+  "examples": [
+    {
+      "example_maya": "Li mantilix käkʼakʼat chwi taq wankeʼt rech patan",
+      "example_spa": "Las servilletas ceremoniales lucen sobre las mesas en la ceremonia",
+      "dialect": null
+    }
+  ],
+  "uuid": "bfe8144a-5198-408d-8102-4f5b426a76f1"
+}

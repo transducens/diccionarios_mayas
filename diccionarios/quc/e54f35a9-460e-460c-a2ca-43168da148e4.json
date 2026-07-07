@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eeqeleʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cargo; oficio",
+  "definitionDialect": "Español",
+  "additional_text": "SInv Weeqeleʼn Raíz S Ehq",
+  "examples": [
+    {
+      "example_maya": "Li a Luʼ xya reqeleʼn pa qʼatbʼaltzij",
+      "example_spa": "A Pedro le dieron un cargo en la municipalidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "e54f35a9-460e-460c-a2ca-43168da148e4"
+}

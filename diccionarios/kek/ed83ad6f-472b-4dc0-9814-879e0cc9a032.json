@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tiqlaak",
+  "definition": "Vestirse bien, adornarse, añadir",
+  "additional_text": "vi Xintiqla",
+  "examples": [
+    {
+      "example_maya": "Xintiqla chi maatan",
+      "example_spa": "Me vestí de regalado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtiqla xsaʼ rochochebʼ li kaxaar",
+      "example_spa": "Adornaron la casa de los contrayentes",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed83ad6f-472b-4dc0-9814-879e0cc9a032",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

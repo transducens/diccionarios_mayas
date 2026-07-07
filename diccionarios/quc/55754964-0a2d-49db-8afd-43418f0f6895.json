@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xulkʼuʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxulkʼuʼtik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse un recipiente que no está muy lleno de algún líquido",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VT Xul",
+  "examples": [
+    {
+      "example_maya": "Kaxulkʼuʼt li uqʼebʼal li alih pujolom, ma xa na nojnaq taj",
+      "example_spa": "A la muchacha se le mueve la tinaja sobre la cabeza porque no está llena de agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "55754964-0a2d-49db-8afd-43418f0f6895"
+}

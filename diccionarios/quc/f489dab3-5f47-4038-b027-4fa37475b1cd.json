@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xaqʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abundantes: frutas, verduras o granos; coagulada: sangre; cuajado: atol o manjar; tirado: pedazo de carne cruda o ropa mojada; puesto: pedazo de carne cruda o ropa mojada; tener: trabajos pendientes",
+  "definitionDialect": "",
+  "additional_text": "p Xxaqʼiʼk, xuxaqʼabʼaʼ Raíz P Xaqʼ",
+  "examples": [
+    {
+      "example_maya": "Xaqʼal jun chak chqawach",
+      "example_spa": "Tenemos mucho trabajo pendiente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj xaqʼal li ankineʼy pa kʼayʼbʼal",
+      "example_spa": "En el mercado abundan los guineos",
+      "dialect": null
+    }
+  ],
+  "uuid": "f489dab3-5f47-4038-b027-4fa37475b1cd"
+}

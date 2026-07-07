@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼukʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puñetazo; sonido de un golpe sordo",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼukʼ Raiz VT Bʼukʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xya jun bʼukʼ chij uwiʼ",
+      "example_spa": "Al hombre le dieron un puñetazo en la nuca",
+      "dialect": null
+    }
+  ],
+  "uuid": "95a4ebf5-1b8f-427a-bb64-aac57619b413"
+}

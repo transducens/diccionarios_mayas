@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jubʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjubʼuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aporrear arroz, maíz, frijol o trigo; pegar con cosa flexible y algo gruesa; abrir camino entre el monte con un palo",
+  "definitionDialect": "General",
+  "additional_text": "vtr vi Jubʼnajeem Hacer ruido al aporrear PC Kaqjubʼujuj Abochornado, colorado, avergonzado, asareado vtd Jubʼlixik Sonar chicote Var Jichʼonik Raíz VT Jubʼ",
+  "examples": [
+    {
+      "example_maya": "Li tat xujubʼ li ukʼajol che bʼakeʼt xa na kaniman taj",
+      "example_spa": "El papá le pegó a su hijo con el cincho porque es desobediente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li mokom tajin kakijubʼ kinaqʼ",
+      "example_spa": "Los mozos están aporreando el frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "54b7de25-af4f-4d7c-be6d-aeb1d0c93056"
+}

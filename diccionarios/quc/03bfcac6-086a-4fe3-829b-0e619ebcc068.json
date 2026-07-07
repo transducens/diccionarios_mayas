@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uwaqaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sexto",
+  "definitionDialect": "General",
+  "additional_text": "NumOrd",
+  "examples": [
+    {
+      "example_maya": "In inuwaqaq winaq xinok pa qʼatuxik rukʼ li ajkun",
+      "example_spa": "Yo fui la sexta persona que entró a consulta con el doctor",
+      "dialect": null
+    }
+  ],
+  "uuid": "03bfcac6-086a-4fe3-829b-0e619ebcc068"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qumuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomar; beber",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinqumuuj Raíz VT Qum",
+  "examples": [
+    {
+      "example_maya": "Kinqumuj na nujoron, ma sibʼalaj qʼaqʼ",
+      "example_spa": "Voy a tomar agua porque hay mucho calor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinqumuj na nukape ma si kachaqij nuchiʼ",
+      "example_spa": "Voy a beber café porque tengo mucha sed",
+      "dialect": null
+    }
+  ],
+  "uuid": "8b687653-d850-4953-9ad9-1c79ea5a4b02"
+}

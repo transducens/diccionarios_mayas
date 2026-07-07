@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aguardiente",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutzaam Sinón Jaʼ Raíz S Tzaam DomS Kunabʼal",
+  "examples": [
+    {
+      "example_maya": "Pa li stangr\" kakʼayix wi tzam",
+      "example_spa": "En la cantina venden aguardiente",
+      "dialect": null
+    }
+  ],
+  "uuid": "702f243e-affd-44fd-a9f2-7434abd09ee3"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muʼjabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Numuʼjabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sombrilla",
+  "definitionDialect": "General",
+  "additional_text": "SInv Raiz S Muʼj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kʼo umuʼjabʼal chwa li qʼij",
+      "example_spa": "La mujer tiene sombrilla porque hay mucho sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "116fb2c4-79c1-4978-9e85-bba78c6709ea"
+}

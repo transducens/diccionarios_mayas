@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nim upam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hondo; profundo; amplio",
+  "definitionDialect": "",
+  "additional_text": "AdjCL",
+  "examples": [
+    {
+      "example_maya": "Li bʼinel jaʼ sibʼalaj nim upam pa taq qʼalaj",
+      "example_spa": "El río es muy hondo en invierno",
+      "dialect": null
+    }
+  ],
+  "uuid": "b485ae12-280a-436b-9ce8-af47160179ca"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "JEECHAN",
+  "definition": "1 clara o entendible: una plática 2 pareja: germinación de las plantas",
+  "additional_text": "adj tjechanil, ma jechanix raíz jech",
+  "examples": [
+    {
+      "example_maya": "Jechan qbʼibʼl ma tzaj tmaʼn",
+      "example_spa": "Fue entendible la noticia que nos dijo",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Jechan tqan nkojana ma jaʼwal",
+      "example_spa": "Germinó parejo mi milpa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "da48b5d4-5c14-4570-8823-a0c35043832f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

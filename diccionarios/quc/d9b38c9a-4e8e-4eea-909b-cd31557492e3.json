@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wechechem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desmoronarse",
+  "definitionDialect": "general",
+  "additional_text": "vi Kawechechej Raíz VI Wech",
+  "examples": [
+    {
+      "example_maya": "Li meʼs uwechechem kan kexuh pa li webʼal",
+      "example_spa": "El gato desmoronó el queso en el plato",
+      "dialect": null
+    }
+  ],
+  "uuid": "d9b38c9a-4e8e-4eea-909b-cd31557492e3"
+}

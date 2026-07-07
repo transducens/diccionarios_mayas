@@ -1,0 +1,23 @@
+{
+  "entryWord": "Looy",
+  "definition": "Amigo Se usa solamente como saludo al pasar cerca de alguien",
+  "additional_text": "Sal var Elooy, eloʼy, loʼy",
+  "examples": [
+    {
+      "example_maya": "Joʼ wan chik looy",
+      "example_spa": "Ahí nos vemos amigo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inwan bʼiʼ looy",
+      "example_spa": "Adiós pues amigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a17f8e9a-5d5c-485c-ad18-1c69d9428589",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

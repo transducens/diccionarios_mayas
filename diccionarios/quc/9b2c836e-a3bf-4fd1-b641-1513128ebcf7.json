@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalkʼatlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correr de un lado a otro, como un rebaño o un niño",
+  "definitionDialect": "K'al.",
+  "additional_text": "vt Kakʼalkʼatlabʼik",
+  "examples": [
+    {
+      "example_maya": "Li alih kakʼalkʼatlabʼ uchʼek xbʼek, ma xa xchʼayik",
+      "example_spa": "La muchacha se fue corriendo porque le pegaron",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b2c836e-a3bf-4fd1-b641-1513128ebcf7"
+}

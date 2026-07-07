@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼokʼsaʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukokʼsaʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fina: masa de maíz",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li kokʼsaʼn xtuk chech qʼor",
+      "example_spa": "La masa fina se le hizo atol",
+      "dialect": null
+    }
+  ],
+  "uuid": "9877c398-166b-49d3-9d4c-bbee60509198"
+}

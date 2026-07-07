@@ -1,0 +1,24 @@
+{
+  "entryWord": "Remelik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xremiʼk, xuremebʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reposado: líquido; regado: líquido Puesta: comida y bebida sobre la mesa para una ceremonia; presencia de varias personas en una ceremonia",
+  "definitionDialect": "",
+  "additional_text": "p Remelik tikʼilik Raíz P Rem",
+  "examples": [
+    {
+      "example_maya": "Li ukikʼel li wakax xpilik xremiʼ pa li kʼolibʼal",
+      "example_spa": "La sangre del buey destazado está reposada en el recipiente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ukikʼel li achih xsokotajik kʼih remelik",
+      "example_spa": "La sangre del hombre herido se ha regado mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "a078022d-d297-44b3-83f7-3149fa4843c2"
+}

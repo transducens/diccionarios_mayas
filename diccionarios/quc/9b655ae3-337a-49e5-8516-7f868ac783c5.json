@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼat",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chacanil",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "snp Yabʼiil",
+  "examples": [
+    {
+      "example_maya": "Kʼat ubʼiʼ jun yabʼil che ri xa kʼaqat kuyaʼoh",
+      "example_spa": "Chacanil se llama una enfermedad que sólo da comezón",
+      "dialect": "Dom.S."
+    }
+  ],
+  "uuid": "9b655ae3-337a-49e5-8516-7f868ac783c5"
+}

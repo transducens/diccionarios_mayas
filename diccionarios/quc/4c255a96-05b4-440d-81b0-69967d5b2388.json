@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqachaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cortada; una herida",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz P Qach",
+  "examples": [
+    {
+      "example_maya": "Li achih, si juqachaj xuʼon li raqan",
+      "example_spa": "El hombre recibió una herida profunda en el pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c255a96-05b4-440d-81b0-69967d5b2388"
+}

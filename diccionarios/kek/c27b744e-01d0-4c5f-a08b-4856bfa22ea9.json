@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pechʼel",
+  "definition": "Pelada Cosa sin cáscara o piel, mellado, quebrado Sin un pedazo, como una olla",
+  "additional_text": "sInv Inpechʼel",
+  "examples": [
+    {
+      "example_maya": "Li ukʼal pechʼel chi re",
+      "example_spa": "La olla está quebrada de la orilla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pechʼel rix li aaq",
+      "example_spa": "El cerdo está pelado",
+      "dialect": null
+    }
+  ],
+  "uuid": "c27b744e-01d0-4c5f-a08b-4856bfa22ea9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

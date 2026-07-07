@@ -1,0 +1,29 @@
+{
+  "entryWord": "Bʼiqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tragar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinbʼiqʼoh p Bʼiqʼilik Fácil de tragar Enu Jubʼiiqʼ Un poco Enu Jubʼiqʼaaj Un trago Raiz VT Bʼiqʼ",
+  "examples": [
+    {
+      "example_maya": "Nukunabʼal tajin kinbʼiqʼoh ma xa kʼo nuqʼaqʼal",
+      "example_spa": "Estoy tragándome la medicina porque tengo calentura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal kanum chik xaq kubʼiqʼ le uwa",
+      "example_spa": "El niño tiene hambre y traga fácilmente su comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ xaq xubʼiqʼ bʼi li kaxlanwah",
+      "example_spa": "El perro se tragó de una vez el pan",
+      "dialect": null
+    }
+  ],
+  "uuid": "283f0880-aafe-4344-856e-0f590c8f5121"
+}

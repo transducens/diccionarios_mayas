@@ -1,0 +1,23 @@
+{
+  "entryWord": "Cheʼ",
+  "definition": "Arbol, palo, madera",
+  "additional_text": "sInv Nucheʼ Tyox cheʼ Cedro Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri cheʼ jantapeʼ yechoy richin siʼ",
+      "example_spa": "Los árboles todo el tiempo los cortan para leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tyox cheʼ rubʼiʼ ri cheʼ ri yalan jebʼël tzʼalän nuyaʼ",
+      "example_spa": "Cedro se llama un árbol que da buena madera",
+      "dialect": null
+    }
+  ],
+  "uuid": "d6a420af-e471-42c4-a5aa-0661a8984eff",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

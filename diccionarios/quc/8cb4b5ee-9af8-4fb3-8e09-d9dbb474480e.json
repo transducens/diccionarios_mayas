@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼalbʼacheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "bʼalbʼacheʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juguete que se hace poniendo una tabla encima de varios trozos",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼalbʼacheeʼ DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuqʼaj ribʼ rukʼ waʼ we bʼalbʼacheʼ",
+      "example_spa": "El niño se fracturó con el juguete",
+      "dialect": null
+    }
+  ],
+  "uuid": "8cb4b5ee-9af8-4fb3-8e09-d9dbb474480e"
+}

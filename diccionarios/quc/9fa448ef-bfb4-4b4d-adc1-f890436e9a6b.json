@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juwakaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un montón de lana o algodón natural",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Kʼo juwakaj lanah chwa li achih, xa kukʼayij",
+      "example_spa": "Enfrente del hombre hay un montón de lana para vender",
+      "dialect": null
+    }
+  ],
+  "uuid": "9fa448ef-bfb4-4b4d-adc1-f890436e9a6b"
+}

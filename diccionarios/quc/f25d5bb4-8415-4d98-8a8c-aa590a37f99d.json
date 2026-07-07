@@ -1,0 +1,29 @@
+{
+  "entryWord": "Xibʼin ibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxibʼin ibʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Susto",
+  "definitionDialect": "",
+  "additional_text": "vRefl v Xiʼn iibʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xkam rumal xibʼin ibʼ",
+      "example_spa": "La mujer se murió, a causa del susto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xibʼin ibʼ cheh jun winaq na utz taj",
+      "example_spa": "El susto es malo para una persona",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Kʼo uxibʼ",
+      "example_spa": "Dar o tener miedo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f25d5bb4-8415-4d98-8a8c-aa590a37f99d"
+}

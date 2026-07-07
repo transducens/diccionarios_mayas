@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatunel",
+  "entryWordDialect": null,
+  "altEntryWord": "Ulaʼxel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Chʼaaweel",
+  "altEntryWordDialect2": null,
+  "definition": "Visitante; inspector",
+  "definitionDialect": "",
+  "additional_text": "sAgen Sinón Sinón Raíz VT Qʼat",
+  "examples": [
+    {
+      "example_maya": "Li nima qʼatal tzij xa qʼatunel xopan pa li tinamit",
+      "example_spa": "El presidente llegó de visitante al pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3398306d-4478-4ac7-9baa-3954dfaec513"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼilkʼiʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedregoso, lugar donde hay muchas piedrecitas; áspero",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Raiz VT Kʼil",
+  "examples": [
+    {
+      "example_maya": "Li solibʼal bʼeh sibʼalaj kʼilkʼiʼxa abʼaj",
+      "example_spa": "El extravío es muy pedregoso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq li kʼilkʼiʼxa abʼaj kuya wi uwach li kinaqʼ",
+      "example_spa": "En los lugares pedregosos se da muy bien el frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "28719a6d-f0e0-420a-b01c-5bc4e5199841"
+}

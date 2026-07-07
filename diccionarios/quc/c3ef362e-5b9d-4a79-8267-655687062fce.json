@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼirin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costal de manta; costal de pita",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼiriin Var Bʼriin",
+  "examples": [
+    {
+      "example_maya": "Li yakal kapeh sibʼalaj kʼih li ubʼirin",
+      "example_spa": "El comprador de café tiene muchos costales",
+      "dialect": null
+    }
+  ],
+  "uuid": "c3ef362e-5b9d-4a79-8267-655687062fce"
+}

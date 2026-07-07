@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maqoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar a ciegas; ir a ciegas",
+  "definitionDialect": "",
+  "additional_text": "vi Kinmaaqoʼpik Raíz VI Maq",
+  "examples": [
+    {
+      "example_maya": "Li winaq xaq kemaqoʼp pa li qʼequʼm are taq xeʼnkʼulaj",
+      "example_spa": "Cuando encontré a las personas, iban a ciegas en la obscuridad",
+      "dialect": null
+    }
+  ],
+  "uuid": "d245e564-dfea-42eb-8ac2-41b6fb98b585"
+}

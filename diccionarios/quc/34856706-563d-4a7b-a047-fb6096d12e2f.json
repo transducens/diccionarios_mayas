@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Walaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cordero; mi cordero",
+  "definitionDialect": "Dom.S. Chikop",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li chij kutzuq li alaj",
+      "example_spa": "La oveja da de comer al corderito",
+      "dialect": null
+    }
+  ],
+  "uuid": "34856706-563d-4a7b-a047-fb6096d12e2f"
+}

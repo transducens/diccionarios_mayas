@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nochtiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunochtiʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nopal; tuna",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Pruut Del Nahuatl Nochtli",
+  "examples": [
+    {
+      "example_maya": "Li nochtiʼ lajlaʼq li uxaq xuq kʼix",
+      "example_spa": "El nopal tiene hojas redondeadas y tiene espinas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nochtiʼ pa tewa juyubʼ kakʼiy wih, rax kakaʼyik, kiʼ katijowik",
+      "example_spa": "La tuna crece en tierra fría, es de color verde y su fruta es dulce",
+      "dialect": null
+    }
+  ],
+  "uuid": "9692f2e2-91c7-445d-bbd7-48c0f558c6ef"
+}

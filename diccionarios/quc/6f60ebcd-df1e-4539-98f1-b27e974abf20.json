@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sakrament",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusakrament",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corpus Cristi; cofradía del sacramento; comunión",
+  "definitionDialect": "",
+  "additional_text": "SInv s Nusanta sakrameent Esposa Raíz S Nimaqʼiij Raíz S Ajsaant Del Cast Sacramento",
+  "examples": [
+    {
+      "example_maya": "Pa sakrament kʼo sutinem kelik xuq e kʼo saqwiʼnabʼ, kʼo qʼojom kukʼ taq li ajsant",
+      "example_spa": "En la fiesta de Corpus salen procesiones, hay gracejos y hay marimba en las cofradías",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f60ebcd-df1e-4539-98f1-b27e974abf20"
+}

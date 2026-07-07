@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼa matam chi na riʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hasta más tarde; hasta después",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kʼa matam chi na riʼ are taq xinuxibʼij li achih",
+      "example_spa": "Ya era más tarde, cuando me asustó otra vez el hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "d93ee84b-1fbd-41c6-9df4-1bc29dd1d389"
+}

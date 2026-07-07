@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rechʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abrirse la ropa al caminar",
+  "definitionDialect": "General",
+  "additional_text": "vi Karechʼnajik Raíz PT Rechʼ",
+  "examples": [
+    {
+      "example_maya": "Li saqwiʼn karechʼnaj li ratzʼyaq are taq kabʼinik",
+      "example_spa": "La ropa del gracejo se habre al caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a055b58-4910-4694-802d-b6d560caf760"
+}

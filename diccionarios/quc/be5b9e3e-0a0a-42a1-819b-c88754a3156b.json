@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼutuʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despedazado; quebradizo; está por llorar",
+  "definitionDialect": "",
+  "additional_text": "Adj scl Qʼutul raanimah Angustiado scl Uqʼututʼibʼal kʼuʼx Angustia",
+  "examples": [
+    {
+      "example_maya": "Xaq qʼutuʼl chi li lij pa li chakach",
+      "example_spa": "Las tortillas están despedazadas en la canasta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq qʼutuʼl li wotzʼotzʼ we kamuchik",
+      "example_spa": "La tostada es quebradiza si se machuca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xaq qʼutulik xa koʼl ma na koqʼik ma xkam rixoqil",
+      "example_spa": "El hombre está por llorar, porque se murió su esposa",
+      "dialect": null
+    }
+  ],
+  "uuid": "be5b9e3e-0a0a-42a1-819b-c88754a3156b"
+}

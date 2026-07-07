@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼeek",
+  "definition": "Andar, caminar, pasear",
+  "additional_text": "vi Xinbʼe",
+  "examples": [
+    {
+      "example_maya": "Laaʼat kaw nakatbʼeek",
+      "example_spa": "Usted camina muy rápido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yoʼo chi bʼeek saʼ paark",
+      "example_spa": "Vamos a pasear al parque",
+      "dialect": null
+    }
+  ],
+  "uuid": "55e4d2d1-8653-48cb-8d0a-268fb6b237ba",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

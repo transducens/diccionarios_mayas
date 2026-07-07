@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aal",
+  "entryWordDialect": null,
+  "altEntryWord": "Wal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hijo, hija; mi hijo (a)",
+  "definitionDialect": "",
+  "additional_text": "sInv var Kʼajool var Miʼaal",
+  "examples": [
+    {
+      "example_maya": "Le wal tajin ketzʼanik",
+      "example_spa": "Mi hijo (a) está jugando",
+      "dialect": null
+    }
+  ],
+  "uuid": "a649a371-90a7-41e0-8a61-11798341bb64"
+}

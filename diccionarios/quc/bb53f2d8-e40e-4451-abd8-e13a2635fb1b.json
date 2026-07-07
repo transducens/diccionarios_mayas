@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzuquʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzuquʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comensal (persona a la que se le da comida); vividor; mantenido",
+  "definitionDialect": "General",
+  "additional_text": "SInv Raíz VT Tzuq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj e kʼih utzuquʼn",
+      "example_spa": "La mujer tiene muchos comensales",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb53f2d8-e40e-4451-abd8-e13a2635fb1b"
+}

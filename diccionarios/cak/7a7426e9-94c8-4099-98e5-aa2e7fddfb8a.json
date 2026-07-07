@@ -1,0 +1,23 @@
+{
+  "entryWord": "Matz",
+  "definition": "Ruido muy pequeño",
+  "additional_text": "Af",
+  "examples": [
+    {
+      "example_maya": "Chöj pa matz xinikʼo chi rij racho ri a Chepe, majun xirakʼaxaj ta",
+      "example_spa": "En silencio pasé tras la casa de Chepe y no me oyó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa matz",
+      "example_spa": "Ruido lo más silencioso posible",
+      "dialect": null
+    }
+  ],
+  "uuid": "7a7426e9-94c8-4099-98e5-aa2e7fddfb8a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

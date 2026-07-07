@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xaqʼap",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cinta para el pelo",
+  "definitionDialect": "",
+  "additional_text": "scv Nuxaqʼaap",
+  "examples": [
+    {
+      "example_maya": "Li uxaqʼap li alaj alih ukojom, kʼa kʼakʼ",
+      "example_spa": "La cinta que se puso la muchachita, todavía es nueva",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq kukoj xaqʼap pa li kʼulanem",
+      "example_spa": "La mujer usa cinta en el casamiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "f98204b1-3d37-49fb-bc37-d30ac4460a11"
+}

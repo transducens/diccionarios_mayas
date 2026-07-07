@@ -1,0 +1,43 @@
+{
+  "entryWord": "Qajanïk",
+  "definition": "Bajar, ser vencido, contribuir",
+  "additional_text": "Qajanen, yiqa",
+  "examples": [
+    {
+      "example_maya": "Yiqa pa jül",
+      "example_spa": "Me bajo en el hoyo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qajnäq rij",
+      "example_spa": "Bajarse la columna",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qajnäq rupan",
+      "example_spa": "Bajarse el estómago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qajnäq ruxeʼ",
+      "example_spa": "Crecer la raíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aajnäq ruwäch",
+      "example_spa": "Cargar bien el güisquilar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qajnäq rutzʼun",
+      "example_spa": "Agrandar la ubre de la vaca",
+      "dialect": null
+    }
+  ],
+  "uuid": "61212d4c-ac67-4d71-bca8-fc8fa310e487",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

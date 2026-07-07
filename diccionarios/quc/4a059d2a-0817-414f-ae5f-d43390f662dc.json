@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼebʼuʼtixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Usar palo para bajar frutas; vender a precio bajo; volcar con fuerza cosa que no sirve, o que cae mal",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kingʼeebʼuʼtiij",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq xuqʼebʼutij kan li ukʼay rumal li jabʼ",
+      "example_spa": "El hombre vendió a precio bajo su venta por la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a059d2a-0817-414f-ae5f-d43390f662dc"
+}

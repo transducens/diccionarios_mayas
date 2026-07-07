@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼiyal",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukʼiyal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muchedumbre; multitud; cantidad",
+  "definitionDialect": "",
+  "additional_text": "ssp Raíz VI Kʼih",
+  "examples": [
+    {
+      "example_maya": "Are taq xbʼan li nimaqʼij sibʼalaj ukʼiyal winaq xekʼojiʼk",
+      "example_spa": "En la fiesta, hubo una multitud enorme",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li eqaʼn kʼo pa li kamyon qas retal ukʼiyal",
+      "example_spa": "En el camión hay una cantidad mediana de cargas",
+      "dialect": null
+    }
+  ],
+  "uuid": "f072a346-dd3b-42c4-9e1f-aee78bbeac82"
+}

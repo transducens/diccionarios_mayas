@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼolaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un rollo, manojo; un trozo",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz P Bʼol",
+  "examples": [
+    {
+      "example_maya": "Li mortoʼm jubʼolaj ramux xuwiqobʼej",
+      "example_spa": "El mayordomo usó un manojo de palmas como adorno",
+      "dialect": null
+    }
+  ],
+  "uuid": "a1abac91-e82a-4930-a430-f74a2baa5362"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Uwosow",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espuma de comida o jabón",
+  "definitionDialect": "",
+  "additional_text": "SSP",
+  "examples": [
+    {
+      "example_maya": "Li tʼuʼy kel li uwosow pwi li qʼaqʼ",
+      "example_spa": "De la olla que está sobre el fuego sale espuma",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwosow li rikil are laʼ ukiʼil",
+      "example_spa": "La espuma es el sabor de la comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "7fd9f5e6-e527-4aae-9436-a0196abe49e2"
+}

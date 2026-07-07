@@ -1,0 +1,23 @@
+{
+  "entryWord": "Manäq",
+  "definition": "No, no hay, hallar",
+  "additional_text": "AdjvN var Naq",
+  "examples": [
+    {
+      "example_maya": "Kʼiy mul manäq nuqa (noqa) ta ri Ajaw chiqe",
+      "example_spa": "Muchas veces no nos acordamos de Dios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun kʼa jaʼ, jun kʼa manaq",
+      "example_spa": "Algunas veces sí, otras veces no",
+      "dialect": null
+    }
+  ],
+  "uuid": "92799b5a-7aaa-4af8-81c0-37ec1436c986",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

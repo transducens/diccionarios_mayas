@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xanaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chaparro y gordo; gordo y chaparro; lleno: costal pequeño",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Xan",
+  "examples": [
+    {
+      "example_maya": "Li sin laj akʼal sibʼalaj sin xanaxik",
+      "example_spa": "El patojito es muy gordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "46cdae28-fc57-4170-bccc-6ca8889a150a"
+}

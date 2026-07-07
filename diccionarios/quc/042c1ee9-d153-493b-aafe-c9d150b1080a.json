@@ -1,0 +1,29 @@
+{
+  "entryWord": "Jurabʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una pieza de marimba; una oración religiosa; un capítulo",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz P Rabʼ",
+  "examples": [
+    {
+      "example_maya": "Li winaq xaq jurabʼaj qʼojom xkitoh, xebʼek",
+      "example_spa": "La gente sólo escuchó una pieza de la marimba y se fue",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xa jurabʼaj chʼabʼal retaʼam kʼa tajin kutijoj ribʼ",
+      "example_spa": "El hombre sólo sabe una oración religiosa, todavía esta estudiando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pareh xusikʼij jurabʼaj upam li tyoxalaj wuj chkiwach li winaq",
+      "example_spa": "El sacerdote leyó un capítulo de la biblia a la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "042c1ee9-d153-493b-aafe-c9d150b1080a"
+}

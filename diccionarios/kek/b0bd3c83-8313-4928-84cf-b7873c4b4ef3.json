@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tikr",
+  "definition": "Tela, ropa",
+  "additional_text": "SInv Intʼikr",
+  "examples": [
+    {
+      "example_maya": "Kubʼenaq chaq li tʼikr saʼ roqel",
+      "example_spa": "La tela de fábrica es muy barata",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼuulahaq wan innebʼaʼ tʼikr",
+      "example_spa": "Voy a guardar mi pobre ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "b0bd3c83-8313-4928-84cf-b7873c4b4ef3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

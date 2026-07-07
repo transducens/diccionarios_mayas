@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tojoʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Venite (vente); imperativo del verbo venir",
+  "definitionDialect": "Spanish",
+  "additional_text": "Imp",
+  "examples": [
+    {
+      "example_maya": "Alah, tojoʼ, kʼo jun kinbʼij chawech chanim",
+      "example_spa": "Muchacho, venite, te voy a decir algo ahorita",
+      "dialect": null
+    }
+  ],
+  "uuid": "a34ac696-98d6-46db-977a-b2d2ecc70ba2"
+}

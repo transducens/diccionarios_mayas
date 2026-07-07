@@ -1,0 +1,23 @@
+{
+  "entryWord": "Rat",
+  "definition": "Vos, usted",
+  "additional_text": "Pron Raiwaj yujuʼ Animales salvajes",
+  "examples": [
+    {
+      "example_maya": "Chwaʼq ja rat yasamäj",
+      "example_spa": "Mañana usted va a trabajar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja rat ri José abʼiʼ",
+      "example_spa": "Vos sos el que se llama José",
+      "dialect": null
+    }
+  ],
+  "uuid": "dec05474-3b2a-4e59-8a47-0a77164e99a2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

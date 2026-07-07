@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼetetexik anima",
+  "entryWordDialect": null,
+  "altEntryWord": "Kukʼetetej wanima",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arder el pecho por hambre o desvelo",
+  "definitionDialect": "",
+  "additional_text": "vrs Raíz VT Kʼet",
+  "examples": [
+    {
+      "example_maya": "Li waram kukʼetetej qanima we na kojwar taj",
+      "example_spa": "Si no dormimos bien, arde el pecho",
+      "dialect": null
+    }
+  ],
+  "uuid": "197f1a70-72ef-4931-9320-5e6248fa4117"
+}

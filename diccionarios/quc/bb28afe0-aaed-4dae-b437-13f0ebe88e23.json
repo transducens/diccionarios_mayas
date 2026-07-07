@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ujaʼ akʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Huevo huero",
+  "definitionDialect": "General",
+  "additional_text": "sds Raíz S Ujaʼ Raíz S Akʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼ xjupubʼaxik, na e kʼih ta li xetzokʼanik, are e kʼih li ujaʼ",
+      "example_spa": "La gallina que se echó no tuvo muchas crías, sólo huevos hueros",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb28afe0-aaed-4dae-b437-13f0ebe88e23"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuqukʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pescuezudo (pescuezo largo y delgado)",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz P Kʼuq",
+  "examples": [
+    {
+      "example_maya": "Li noʼs Kʼuqukʼaʼq li kixul chikiwach li akʼ",
+      "example_spa": "Los chompipes son más pescuezudos que las gallinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ac3659e-2fa8-4388-9a71-f8d520fedbfb"
+}

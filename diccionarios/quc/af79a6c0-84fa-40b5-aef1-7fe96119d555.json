@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tanatoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar tambor seguido",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintanataʼ Raiz PT Tan",
+  "examples": [
+    {
+      "example_maya": "Li ajtambʼor kutanata li utambʼor",
+      "example_spa": "El tamborilero ejecuta el tambor frecuentemente",
+      "dialect": null
+    }
+  ],
+  "uuid": "af79a6c0-84fa-40b5-aef1-7fe96119d555"
+}

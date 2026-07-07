@@ -1,0 +1,19 @@
+{
+  "entryWord": "Staʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un poco",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq staʼq xuya li atzʼam rukʼ li rikil",
+      "example_spa": "La mujer echó sólo un poco de sal a la comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "67ccb8ec-c0e8-46af-a1a6-4a74bb2178b8"
+}

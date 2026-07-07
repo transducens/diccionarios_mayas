@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼuʼum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuero",
+  "definitionDialect": "",
+  "additional_text": "sinv Nutzʼuʼuum Dom S Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li tzʼuʼum kachokon cheh xajabʼ chiʼl bʼakeʼt",
+      "example_spa": "El cuero se usa para hacer zapatos y cinchos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼuʼum kʼih uwach kabʼan chech, xajabʼ, bʼakeʼt, patan chiʼl nikʼaj chik",
+      "example_spa": "Con el cuero se hacen muchas cosas, zapatos, cinchos, mecapales y otros",
+      "dialect": null
+    }
+  ],
+  "uuid": "b5653349-7af2-4524-8fc5-f618cf386b72"
+}

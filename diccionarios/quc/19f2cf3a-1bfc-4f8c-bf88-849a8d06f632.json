@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼabʼatʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy espeso",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz VT Tʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li raxkabʼ sibʼalaj tʼabʼatʼik",
+      "example_spa": "La miel es muy espesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "19f2cf3a-1bfc-4f8c-bf88-849a8d06f632"
+}

@@ -1,0 +1,33 @@
+{
+  "entryWord": "Kʼa",
+  "definition": "Hasta, hacia, todavía, pues",
+  "additional_text": "Par",
+  "examples": [
+    {
+      "example_maya": "Yin kʼa chwaʼq yibʼe pa bʼyajen",
+      "example_spa": "Yo hasta mañana iré a pasear",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa pa juyuʼ yibʼe wi",
+      "example_spa": "Voy hacia el campo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼ kʼa",
+      "example_spa": "Vamos pues",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa, kʼo na",
+      "example_spa": "Todavía está, todavía hay Todavía no",
+      "dialect": null
+    }
+  ],
+  "uuid": "490df227-4aa6-4dfb-8361-26761885b62e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

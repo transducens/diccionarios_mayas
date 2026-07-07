@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kanonïk",
+  "definition": "Cazar, buscar",
+  "additional_text": "vi Kanonen, yikanon Bʼiʼaj",
+  "examples": [
+    {
+      "example_maya": "Ri akʼwalaʼ jebʼël nkinaʼ yekanon",
+      "example_spa": "A los niños les gusta mucho ir a cazar",
+      "dialect": null
+    },
+    {
+      "example_maya": "E kʼo tzʼiʼ chuqaʼ yekanon",
+      "example_spa": "Hay perros que también cazan",
+      "dialect": null
+    }
+  ],
+  "uuid": "7e9a12b6-199a-487e-954a-dd0fc6130d37",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

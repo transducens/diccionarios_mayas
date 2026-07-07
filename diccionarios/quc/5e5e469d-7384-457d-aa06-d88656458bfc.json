@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perro; saquichán o mazorquillo",
+  "definitionDialect": "",
+  "additional_text": "scv Nutzʼiiʼ Raiz S Tzʼiʼ DomS Chikop DomS Qʼeqʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun nutzʼiʼ, utz cheh tzukunik",
+      "example_spa": "Tengo un perro; es bueno para cacería",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ, kaq kakaʼyik, kachokon cheh chʼajbʼal atzʼyaq, jacha qʼeqʼ",
+      "example_spa": "El mazorquillo es de color rojo, se usa como jabón para lavar ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e5e469d-7384-457d-aa06-d88656458bfc"
+}

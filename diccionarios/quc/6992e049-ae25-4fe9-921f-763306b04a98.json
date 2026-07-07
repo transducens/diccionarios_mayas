@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tenowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doler, zumbar",
+  "definitionDialect": "",
+  "additional_text": "vi Katenowik Raiz VT Ten",
+  "examples": [
+    {
+      "example_maya": "Li achih, katenow\" ujolom ma xa yawabʼ",
+      "example_spa": "Al hombre le duele la cabeza porque está enfermo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katenow pa qʼayes",
+      "example_spa": "Siembra, entre montes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katenow li bʼinel",
+      "example_spa": "Zumba el río",
+      "dialect": null
+    }
+  ],
+  "uuid": "6992e049-ae25-4fe9-921f-763306b04a98"
+}

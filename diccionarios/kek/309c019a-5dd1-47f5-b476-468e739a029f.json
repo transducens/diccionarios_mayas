@@ -1,0 +1,28 @@
+{
+  "entryWord": "Ru",
+  "definition": "Superficie, fruto, como, parecido a Se usa con sustantivos y algunos adjetivos para hacer un adjetivo con el sentido parecido a, como, o semejante al sustantivo adjetivo",
+  "additional_text": "SR Inru",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalamcheʼ ak jiʼ bʼil ru",
+      "example_spa": "La tabla está cepillada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chiin ak wan ru",
+      "example_spa": "El naranjal ya tiene frutas",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Chan ru nalochman li lampr aʼin?",
+      "example_spa": "¿Cómo se enciende esta lámpara?",
+      "dialect": null
+    }
+  ],
+  "uuid": "309c019a-5dd1-47f5-b476-468e739a029f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

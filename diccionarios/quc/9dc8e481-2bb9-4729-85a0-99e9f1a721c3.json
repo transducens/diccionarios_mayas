@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaxqʼariʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de ayote de cáscara comestible; comestible y tierna: cáscara de calabaza",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nuqʼaxqʼariʼj",
+  "examples": [
+    {
+      "example_maya": "Waʼ we qʼaxqʼariʼj utz katijow li rij",
+      "example_spa": "La cáscara de este ayote es comestible",
+      "dialect": null
+    }
+  ],
+  "uuid": "9dc8e481-2bb9-4729-85a0-99e9f1a721c3"
+}

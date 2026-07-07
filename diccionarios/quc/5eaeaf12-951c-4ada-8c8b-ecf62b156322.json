@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matzatzexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmatzatz",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abrazar bien; enchamarra bien",
+  "definitionDialect": "",
+  "additional_text": "RVT Raíz VT Matz",
+  "examples": [
+    {
+      "example_maya": "Kinmatzatzej na wibʼ nuqʼuʼ ma xa tew kʼo",
+      "example_spa": "Tengo que enchamararme bien, hace frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "5eaeaf12-951c-4ada-8c8b-ecf62b156322"
+}

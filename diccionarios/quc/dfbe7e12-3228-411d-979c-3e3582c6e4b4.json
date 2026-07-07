@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqʼijanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ser verano",
+  "definitionDialect": "",
+  "additional_text": "vi Kasaqʼijanik SCL Saqʼijal kaqiiqʼ Viento de verano",
+  "examples": [
+    {
+      "example_maya": "Pa li ujuʼlajuj ikʼ kumajij saqʼijanem",
+      "example_spa": "En el mes de noviembre comienza el verano",
+      "dialect": null
+    }
+  ],
+  "uuid": "dfbe7e12-3228-411d-979c-3e3582c6e4b4"
+}

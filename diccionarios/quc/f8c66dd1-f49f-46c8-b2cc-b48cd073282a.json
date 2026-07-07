@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqup",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cortada",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li ajanel xaq juqup xuya che li tem",
+      "example_spa": "El carpintero le dio una sola",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8c66dd1-f49f-46c8-b2cc-b48cd073282a"
+}

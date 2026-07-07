@@ -1,0 +1,23 @@
+{
+  "entryWord": "Eleqʼon (eleqʼom)",
+  "definition": "Ladrón, ratero",
+  "additional_text": "Adj Eleqʼomaʼ Ladrones",
+  "examples": [
+    {
+      "example_maya": "Eleqʼon nbʼïx chre jun winäq ri nelëqʼ",
+      "example_spa": "Ladrón se le dice a la persona que roba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri eleqʼomaʼ yalan ketzelal",
+      "example_spa": "Los ladrones son muy malos",
+      "dialect": null
+    }
+  ],
+  "uuid": "0495dea8-0dd3-4fed-b8e8-a9305122fc30",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

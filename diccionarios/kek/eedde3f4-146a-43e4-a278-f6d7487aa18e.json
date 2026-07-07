@@ -1,0 +1,23 @@
+{
+  "entryWord": "Hulaj",
+  "definition": "Mañana",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Hulaj xqʼehil xkutankil inyoʼlajik",
+      "example_spa": "Mañana es el mero día de mi cumpleaños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maaʼani ajʼe taaye naq tatxik hulaj",
+      "example_spa": "A nadie le dirás cuando te vayas mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "eedde3f4-146a-43e4-a278-f6d7487aa18e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

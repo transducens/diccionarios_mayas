@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tokʼöy",
+  "definition": "Panal que no da miel avispa negra",
+  "additional_text": "sInv Nutokʼöy Chikop",
+  "examples": [
+    {
+      "example_maya": "Pa ruwiʼ jun nïm cheʼ kʼo jun tok ʼöy ri man nkiyaʼ ta kikabʼ",
+      "example_spa": "Es un árbol grande hay un panal de avispa negra que no da miel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tokʼöy yalan poqon yechʼopon",
+      "example_spa": "Si estas avispasle pican a uno, duele mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "d838fc9c-0bd3-47c6-8867-a0bcc6391106",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

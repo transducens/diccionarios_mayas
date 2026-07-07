@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tuqarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintuqarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fatigarse; cansarse mucho; agotarse; debilitarse",
+  "definitionDialect": "",
+  "additional_text": "vi Var Kooseem Raíz PT Tuq",
+  "examples": [
+    {
+      "example_maya": "Li kej xtuqar xe li kebʼ eqaʼn ixim",
+      "example_spa": "El caballo se fatigó por el peso de las dos cargas de maíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are taq xintzalij la pa nutaqkil panim xinpetik, chanim xintuqarik",
+      "example_spa": "Cuando regresé de hacer el mandado me vine corriendo, pero me fatigué",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c551688-510d-4b9a-8c5a-0465761064d5"
+}

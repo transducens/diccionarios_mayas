@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxa kʼul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Capa de alcalde de cofradía",
+  "definitionDialect": "",
+  "additional_text": "sds Raíz Adj Rax Raíz s Kʼuul DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Li raxa kʼul qʼeq kakaʼyik, sutinnaq cheh kaqa laxton, alkalteh chij sant kakojowik",
+      "example_spa": "La capa es de color negro rodeada de listón colorado, lo usan los alcaldes de cofradía",
+      "dialect": null
+    }
+  ],
+  "uuid": "b136ea12-f268-4909-8b0f-7120c23fb4ce"
+}

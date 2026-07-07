@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wolowik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Redondo, como una pelota; esférico",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Wol",
+  "examples": [
+    {
+      "example_maya": "Li pelot xa wolowik",
+      "example_spa": "La pelota es redonda",
+      "dialect": null
+    }
+  ],
+  "uuid": "f721da5d-8941-48ac-bee4-66be65ae18bb"
+}

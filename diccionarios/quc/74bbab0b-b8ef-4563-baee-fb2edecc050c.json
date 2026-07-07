@@ -1,0 +1,34 @@
+{
+  "entryWord": "=Kʼolʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukʼolʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estación de camionetas, carros, trenes, etc; hogar; lugar",
+  "definitionDialect": "",
+  "additional_text": "ssp Raíz VI Kʼoh",
+  "examples": [
+    {
+      "example_maya": "Chij li kʼayʼbʼal kʼo wi li ukʼolʼbʼal li bʼinel chʼichʼ",
+      "example_spa": "Detrás del mercado está la estación de camionetas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, xuya li siʼ pa li ukʼolʼbʼal",
+      "example_spa": "El hombre puso la leña en su lugar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xbʼe pa kʼulanem xuya kan ukʼolʼbʼal",
+      "example_spa": "La muchacha se casó y dejó su hogar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ukʼolʼbʼal li ja sibʼalaj koh, na kapax taj",
+      "example_spa": "El lugar donde está la casa, es muy sólido, no se raja",
+      "dialect": null
+    }
+  ],
+  "uuid": "74bbab0b-b8ef-4563-baee-fb2edecc050c"
+}

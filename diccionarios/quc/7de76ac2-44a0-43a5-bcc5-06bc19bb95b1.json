@@ -1,0 +1,24 @@
+{
+  "entryWord": "Soposik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grueso: cosa aguada, como jilote tierno, persona vestida con mucha ropa o muy gorda, hilo; espeso: atole, caldo o recado; mocoso",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Sop",
+  "examples": [
+    {
+      "example_maya": "Li alih sibʼalaj jun soposik pa li ratzʼyaq",
+      "example_spa": "La muchacha parece más gorda por su vestido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alaj akʼal sibʼalaj soposik li uputzaʼm",
+      "example_spa": "El niño tiene mocos espesos",
+      "dialect": null
+    }
+  ],
+  "uuid": "7de76ac2-44a0-43a5-bcc5-06bc19bb95b1"
+}

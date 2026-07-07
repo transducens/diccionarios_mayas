@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yutnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kayutnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con vestido o cincho flojo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Yut",
+  "examples": [
+    {
+      "example_maya": "Li sin riʼjixoq xaq sin kayutnaj kabʼinik",
+      "example_spa": "La mujer anciana anda con el vestido flojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4210b83e-cff9-4646-a333-d1a63e4f0465"
+}

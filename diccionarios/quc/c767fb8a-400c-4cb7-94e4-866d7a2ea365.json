@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼabʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼabʼoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Boquear la gallina",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz P Kʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼ kakʼabʼoʼpik, ma xa kachaqij uchiʼ",
+      "example_spa": "La gallina boquea porque tiene mucha sed",
+      "dialect": null
+    }
+  ],
+  "uuid": "c767fb8a-400c-4cb7-94e4-866d7a2ea365"
+}

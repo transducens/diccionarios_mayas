@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lago, laguna",
+  "definitionDialect": "General",
+  "additional_text": "SaP",
+  "examples": [
+    {
+      "example_maya": "Pa li choh kʼo jukubʼ",
+      "example_spa": "En la laguna hay canoas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5976347-3b9f-474a-a47b-f9039baf2997"
+}

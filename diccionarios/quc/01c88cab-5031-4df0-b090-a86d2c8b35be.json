@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yuluyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desorejado: trasto; quebrado sin pescuezo: un trasto; mona: ave sin cola",
+  "definitionDialect": "general",
+  "additional_text": "Adj Sinón Kuʼt Raíz P Yul",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal xa yuluyik chik",
+      "example_spa": "La tinaja está quebrada de los agarradores y el pescuezo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li saqkoʼr xa yuluyik",
+      "example_spa": "El codorniz es mona",
+      "dialect": null
+    }
+  ],
+  "uuid": "01c88cab-5031-4df0-b090-a86d2c8b35be"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzapatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapatzapatem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar bestia con carga de paja; caminar animalito; ruido al caminar el pajón",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VI Patz",
+  "examples": [
+    {
+      "example_maya": "Li imul kapatzapatem pa li kʼim",
+      "example_spa": "El conejo hace ruido en el pajón",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e57311b-1288-4f48-8774-3c10181ad94a"
+}

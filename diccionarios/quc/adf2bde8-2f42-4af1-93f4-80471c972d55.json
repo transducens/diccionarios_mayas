@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laqʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flaco (vulgar); pequeña, como carga que no contiene mucho",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz P Laqʼ",
+  "examples": [
+    {
+      "example_maya": "Li reqaʼn li achih na nim taj, xa sin laqʼalik",
+      "example_spa": "La carga del hombre no es grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "adf2bde8-2f42-4af1-93f4-80471c972d55"
+}

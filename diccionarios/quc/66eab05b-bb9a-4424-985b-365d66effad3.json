@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxqʼor",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuraxqʼor",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pozol fino para atol con azúcar; masa de nixtamal para atol",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz Adj Rax Raíz S Qʼoor",
+  "examples": [
+    {
+      "example_maya": "Li raxqʼor kayuj kanelʼʼ chiʼl asukal rukʼ, pa joronal katijowik",
+      "example_spa": "Con el pozol se mezcla canela y azúcar y se toma frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "66eab05b-bb9a-4424-985b-365d66effad3"
+}

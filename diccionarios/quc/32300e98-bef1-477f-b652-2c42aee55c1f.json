@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqmuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encapotado: el cielo",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz Adj Qʼeq Raiz S Muuj",
+  "examples": [
+    {
+      "example_maya": "Li uwa li kaj sibʼalaj qʼeqmuj ma xa pa jutzʼit chik kaqaj jabʼ",
+      "example_spa": "El cielo está muy encapotado porque ya va a llover",
+      "dialect": null
+    }
+  ],
+  "uuid": "32300e98-bef1-477f-b652-2c42aee55c1f"
+}

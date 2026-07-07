@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nim xuporoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enojo causado por una plática mal entendida",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li tzij xubʼij li ixoq nim xuporoj",
+      "example_spa": "La plática de la mujer causó líos a otras personas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xchʼoʼjin rukʼ li ajchʼamiʼy, xa je riʼ xchʼojiʼn li alkalteh kukʼ li tinamit nim xuporoj",
+      "example_spa": "El hombre estuvo peleando con un alguacil, por eso también peleó el pueblo con el alcalde",
+      "dialect": null
+    }
+  ],
+  "uuid": "175b168a-a634-4d28-a028-9c47f6f24119"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Raqinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estallarse; explotar; reventar",
+  "definitionDialect": "",
+  "additional_text": "vi Karaqinik Raíz VT Raq",
+  "examples": [
+    {
+      "example_maya": "Li jun kintal ixim xraqinik are taq xtzaqik",
+      "example_spa": "Se reventó el quintal de maíz al caerse",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xraqin li qʼaqʼ puqʼabʼ, xkamik",
+      "example_spa": "Estalló una bomba en la mano del hombre y se murió",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5d5a0b9-81b7-4424-bacc-d562c7a1030d"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ituy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Liebre (animal parecido al conejo)",
+  "definitionDialect": "General",
+  "additional_text": "sNP DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li utiʼjal li ituy sibʼalaj utz",
+      "example_spa": "La carne de la liebre es muy sabrosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "98d550cd-0144-461e-a485-f90d1616da7d"
+}

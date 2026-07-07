@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xoral",
+  "definition": "Sitio",
+  "additional_text": "sInv Nuxoral Ulew",
+  "examples": [
+    {
+      "example_maya": "Re qʼij wakamin yalan xechʼutunïr qa ri xoral",
+      "example_spa": "En estos tiempos se redujeron mucho los sitios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri winäq kʼo kachoch pa tinamït man konojel ta kʼo kixoral",
+      "example_spa": "Todas las personas que tienen casa en el pueblo no tienen sitios",
+      "dialect": null
+    }
+  ],
+  "uuid": "5137a97e-def3-4070-91db-9780c5668be0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

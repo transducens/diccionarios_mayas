@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rixtol",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurixtol",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regidor, Consejal",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Eqeleʼn Del Cast Regidor",
+  "examples": [
+    {
+      "example_maya": "Li rixtol are ukʼexwach li alkalteh we na kakʼojiʼ taj",
+      "example_spa": "El Regidor es el representante del Alcalde cuando él no está",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nabʼe rixtol are kachomanik xuq kaqʼatow tzij we maj li alkalteh",
+      "example_spa": "El primer Regidor es el que arregla y hace justicia cuando está ausente el Alcalde",
+      "dialect": null
+    }
+  ],
+  "uuid": "bab7b12e-544e-46fe-b208-c885de8e944d"
+}

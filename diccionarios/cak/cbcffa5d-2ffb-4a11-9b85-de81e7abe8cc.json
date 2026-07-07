@@ -1,0 +1,33 @@
+{
+  "entryWord": "Jubʼinik",
+  "definition": "Encajar, cerrar bien fuerte Pegar con algún instrumento",
+  "additional_text": "VTD Jubʼixik, ninjubʼij",
+  "examples": [
+    {
+      "example_maya": "Xinjubʼij nikʼaj ruwä ri aqʼ chi ikäj",
+      "example_spa": "Le pegué en la frente al marrano con el hacha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinjubʼij pan ulew ri eleqʼon",
+      "example_spa": "Boté al suelo al ladrón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinjubʼij chi cheʼ ri qʼeʼl (kukuʼ)",
+      "example_spa": "Le di un mazazo a la tinaja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinjubʼij ruchiʼ wachoch",
+      "example_spa": "Cerré bien la puerta de mi casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "cbcffa5d-2ffb-4a11-9b85-de81e7abe8cc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

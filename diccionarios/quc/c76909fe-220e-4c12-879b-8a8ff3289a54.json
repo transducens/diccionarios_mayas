@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ukʼyaʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwukʼyaʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomar atol",
+  "definitionDialect": "General",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Xaq qʼor kinwukʼyaʼj ronojel qʼij",
+      "example_spa": "Tomo atole todos los días",
+      "dialect": null
+    }
+  ],
+  "uuid": "c76909fe-220e-4c12-879b-8a8ff3289a54"
+}

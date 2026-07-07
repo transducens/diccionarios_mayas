@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yojkoʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Descompuesto: carro, carga, tejido un corral y otras cosas de muchas piezas",
+  "definitionDialect": "Español",
+  "additional_text": "Adj Raíz P Yoj",
+  "examples": [
+    {
+      "example_maya": "Li altomow\" xaq yojkoʼr chik, ma xa xupaqʼij ribʼ",
+      "example_spa": "El carro está descompuesto, porque chocó",
+      "dialect": null
+    }
+  ],
+  "uuid": "6bbdeaf0-2acc-489d-93c3-cb6e0109775f"
+}

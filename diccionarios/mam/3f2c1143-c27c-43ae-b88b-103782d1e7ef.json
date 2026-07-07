@@ -1,0 +1,18 @@
+{
+  "entryWord": "TIIRA",
+  "definition": "tiro, bala",
+  "additional_text": "s1 ntiraya del español tiro",
+  "examples": [
+    {
+      "example_maya": "Junx tira ma tiqʼ masat bʼiʼx xkyim",
+      "example_spa": "Sólo una bala recibió el venado y de una vez se murió",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3f2c1143-c27c-43ae-b88b-103782d1e7ef",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

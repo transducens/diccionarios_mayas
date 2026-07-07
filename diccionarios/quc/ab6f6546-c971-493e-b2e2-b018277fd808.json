@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sepkʼun",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Remolino; torbellino",
+  "definitionDialect": "",
+  "additional_text": "snp Var Setkʼum DomS Kaqiiqʼ",
+  "examples": [
+    {
+      "example_maya": "Li sepkʼum kutor li uwi taq jah",
+      "example_spa": "El remolino arranca los techos de las casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "ab6f6546-c971-493e-b2e2-b018277fd808"
+}

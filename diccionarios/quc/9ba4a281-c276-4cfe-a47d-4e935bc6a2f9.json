@@ -1,0 +1,24 @@
+{
+  "entryWord": "=Qʼabʼibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼabʼibʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cosa o persona indispensable, de costumbre o más usada",
+  "definitionDialect": "es",
+  "additional_text": "ssP Raíz S Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj uqʼabʼibʼal li uqʼebʼal, xuq utz kariloh",
+      "example_spa": "La mujer tiene un cántaro indispensable, le gusta mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih na kakowin taj katzʼibʼan pa mox, ma na puqʼabʼibʼal taj",
+      "example_spa": "El hombre no está acostumbrado a escribir con la mano izquierda",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ba4a281-c276-4cfe-a47d-4e935bc6a2f9"
+}

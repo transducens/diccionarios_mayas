@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakʼoʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambalearse",
+  "definitionDialect": "",
+  "additional_text": "vi Kapaakʼoʼtik Raiz VI Paakʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kapakʼoʼtik bʼe chwa roʼch qʼabʼarel",
+      "example_spa": "El hombre se tamba dirigirse a su casa porque está",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9c3e8d6-28f1-4f66-8474-68028f5d4e31"
+}

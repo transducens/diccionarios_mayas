@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼiyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Crecer",
+  "definitionDialect": "General",
+  "additional_text": "vt Kinkʼiyik Raíz VI Kʼihy",
+  "examples": [
+    {
+      "example_maya": "Li neʼ kakanik kakʼiyik ma maj yabʼil uriqom",
+      "example_spa": "El nene está creciendo rápido porque no se ha enfermado",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3f8d847-e46f-4782-9b47-94376d3d4248"
+}

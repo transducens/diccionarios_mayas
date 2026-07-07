@@ -1,0 +1,23 @@
+{
+  "entryWord": "Patzʼom",
+  "definition": "Pregunta, petición",
+  "additional_text": "SInv Inpatzʼom",
+  "examples": [
+    {
+      "example_maya": "Wan inpatzʼom eerikʼin",
+      "example_spa": "Tengo preguntas para ustedes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inpatzʼom aʼan chi rix li tumin",
+      "example_spa": "Mi pregunta es por el dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "94b34ccd-f581-45b4-beb0-2bfe1d54c7bf",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pojlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xpojiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xupojbʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Descubierto, sin sombrero",
+  "definitionDialect": "",
+  "additional_text": "P Raíz P Poj",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq poj chwa li qʼij tajin kachakunik",
+      "example_spa": "El muchacho está trabajando sin sombrero bajo el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "c823a2e8-d62b-4c60-b61a-dd0dffea172f"
+}

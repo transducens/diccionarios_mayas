@@ -1,0 +1,19 @@
+{
+  "entryWord": "Loqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estimado; apreciado; amado",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li sin mebʼaʼ sibʼalaj loqʼ rumal Dios",
+      "example_spa": "El pobre es amado por Dios",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d3e44a9-7fdd-4cc4-b6ed-fedda2b6a1e5"
+}

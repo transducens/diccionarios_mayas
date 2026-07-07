@@ -1,0 +1,19 @@
+{
+  "entryWord": "Toronik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacar ovejas y llevarlas a pastar",
+  "definitionDialect": "",
+  "additional_text": "sv Var Yuqʼunik Raiz VT Tor",
+  "examples": [
+    {
+      "example_maya": "Li alah na karaj taj kabʼe pa toronik ma are karaj kabʼe pa nimaqʼij",
+      "example_spa": "El muchacho no quiere ir a sacar las ovejas a pastar porque quiere ir a la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "20c4fda3-97cf-42bb-9f57-a5fb8e24eb49"
+}

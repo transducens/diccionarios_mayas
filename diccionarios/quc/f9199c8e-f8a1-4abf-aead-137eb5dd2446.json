@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uwach Atzʼyaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cine; película",
+  "definitionDialect": "General",
+  "additional_text": "sds Sinón Uwa maantah",
+  "examples": [
+    {
+      "example_maya": "Xojpe chi rilik uwach atzʼyaq iwir",
+      "example_spa": "Fuimos al cine ayer",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9199c8e-f8a1-4abf-aead-137eb5dd2446"
+}

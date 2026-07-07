@@ -1,0 +1,23 @@
+{
+  "entryWord": "Patz",
+  "definition": "Cuache: mazorca o fruta",
+  "additional_text": "sInv Inpatz var Paʼat",
+  "examples": [
+    {
+      "example_maya": "Li hal xinqʼol junes patz wan saʼ xyanq",
+      "example_spa": "Entre las mazorcas que coseché hay muchas cuaches",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼaʼ us xlowbʼal li tul patz",
+      "example_spa": "No es recomendable comer el plátano cuache",
+      "dialect": null
+    }
+  ],
+  "uuid": "bca861d6-cf58-4e8a-98ee-ddb0832e448d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼay",
+  "definition": "Mercadería, venta",
+  "additional_text": "SInv Inkʼay Ajkʼay Comerciante",
+  "examples": [
+    {
+      "example_maya": "Toj ru inkʼay, inkʼaʼ xinkʼayin saʼ li ninqʼe",
+      "example_spa": "Todavía tengo venta, no vendí nada en la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xʼosoʼ inkokʼ kʼay",
+      "example_spa": "Se acabó mi mercadería",
+      "dialect": null
+    }
+  ],
+  "uuid": "265dc32e-5552-4d22-b9cc-cebaf5f6e34c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

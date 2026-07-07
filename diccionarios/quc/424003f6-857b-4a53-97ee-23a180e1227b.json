@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzuʼk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enredado",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Patzkuʼy Raíz P Patz",
+  "examples": [
+    {
+      "example_maya": "Li ixoq patzuʼk li uwiʼ chrij",
+      "example_spa": "La mujer tiene el cabello enredado sobre la espalda",
+      "dialect": null
+    }
+  ],
+  "uuid": "424003f6-857b-4a53-97ee-23a180e1227b"
+}

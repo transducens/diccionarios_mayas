@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nane",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¡Señora!; ¡Ave María!; ¿Hay gente?",
+  "definitionDialect": "",
+  "additional_text": "snP Var Naan Var Taat Var Taat naan Var Qʼaa",
+  "examples": [
+    {
+      "example_maya": "Nane, kacha li ixoq areq taq xopan chi roʼch li ukʼul jah",
+      "example_spa": "Cuando la mujer llegó a la casa del vecino, dijo: ¡Señora!",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd460d41-49cb-4e9b-bc89-c58733b40d04"
+}

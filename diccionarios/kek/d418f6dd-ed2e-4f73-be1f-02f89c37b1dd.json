@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼajnil",
+  "definition": "Porquería, suciedad",
+  "additional_text": "SInv Intzʼajnil",
+  "examples": [
+    {
+      "example_maya": "Anajwan maakʼaʼ chik xtzʼajnil li teex",
+      "example_spa": "Ahora ya no está sucia la teja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Naq nakooʼaatin naʼel li qatzʼajnil",
+      "example_spa": "Cuando nos bañamos se quita toda la suciedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "d418f6dd-ed2e-4f73-be1f-02f89c37b1dd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

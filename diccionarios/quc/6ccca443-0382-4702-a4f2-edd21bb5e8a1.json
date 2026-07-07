@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sink",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Síndico",
+  "definitionDialect": "",
+  "additional_text": "snP DomS Eqeleʼn Del Cast Síndico",
+  "examples": [
+    {
+      "example_maya": "Li sink are kachom an taq li chak pa li tinamit xuq pa taq juyubʼ, kʼayʼbʼal, chuqe taq li bʼeh",
+      "example_spa": "El síndico, es el que arregla los trabajos en el pueblo, las aldeas, los mercados, y las carreteras",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ccca443-0382-4702-a4f2-edd21bb5e8a1"
+}

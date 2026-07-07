@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tuʼch",
+  "definition": "Armado",
+  "additional_text": "SInv Nutuʼch Chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri tuʼch jun chiköp jantape pa jül kʼo wi, nirilibʼej riʼ kikʼin taq sanik",
+      "example_spa": "El armado es un animal que siempre se mantiene encuevado y se alimenta con las hormigas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tuʼch jubʼaʼ ma chiʼel alaj aq",
+      "example_spa": "El armadillo se parece a un marranito",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tuch achʼel bʼaq ri kij",
+      "example_spa": "La caparazón de armadillo parece hueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "001e3a28-5990-4b0b-a20b-0f3df33b9825",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

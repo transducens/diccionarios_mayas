@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wonnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar una persona sola o perdida",
+  "definitionDialect": "",
+  "additional_text": "vi Kawonnajik Raíz VI Won",
+  "examples": [
+    {
+      "example_maya": "Li sin akʼal xaq kawonnaj chi kan pa li bʼeh, ma xa xsach kanoq",
+      "example_spa": "El pobre niño anda sólito por el camino porque se perdió",
+      "dialect": null
+    }
+  ],
+  "uuid": "7842b0cb-3924-4020-8c68-d4eb947afd99"
+}

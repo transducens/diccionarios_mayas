@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokotzotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzokotzotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido un trasto sin agua en el fuego",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzok",
+  "examples": [
+    {
+      "example_maya": "Li tʼuʼy xumaj tzokotzotem chwa li qʼaqʼ ma maj chi uwaʼal",
+      "example_spa": "La olla comenzó a hacer ruido en el fuego porque no tiene agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "70e3d523-e7bc-443d-8e81-4fbfb90d0308"
+}

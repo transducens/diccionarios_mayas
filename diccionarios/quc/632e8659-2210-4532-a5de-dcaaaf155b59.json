@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼoxom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dolor de estómago; dolor de oídos; dolor de corazón; mal de ojo; dolor de cabeza; dolor de muelas",
+  "definitionDialect": "General",
+  "additional_text": "sinv Nuqʼoxoom scl Qʼoxom pamaaj sds Uqʼoxomal waanima Resentimiento scl Qʼoxom xkinaaj Dolor de oído scl Qʼoxom aanimah Resentimiento, dolor de corazón scl Qʼoxom wachaaj Dolor de los ojos scl Qʼoxom jolomaaj Dolor de cabeza scl Qʼoxom wareʼaaj Dolor de muela scl Qʼoxom aanimah Goma Var Kʼax Var Yaabʼiil Raíz vi Qʼox",
+  "examples": [
+    {
+      "example_maya": "Li ixoq uriqom qʼoxom wareʼaj",
+      "example_spa": "La mujer tiene dolor de muelas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kʼax na, we xuriq qʼoxom pamaj jun winaq",
+      "example_spa": "Cuando se tiene dolor de estómago, es muy molesto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa koʼl uqʼoxom li spoj",
+      "example_spa": "El dolor del tumorcillo es grandísimo",
+      "dialect": null
+    }
+  ],
+  "uuid": "632e8659-2210-4532-a5de-dcaaaf155b59"
+}

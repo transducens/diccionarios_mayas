@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqirik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Madrugada; aurora",
+  "definitionDialect": "",
+  "additional_text": "= ssp Usaqiriik Raíz",
+  "examples": [
+    {
+      "example_maya": "Xaq xpe usaqirik xkam li yawabʼ",
+      "example_spa": "El enfermo se murió en la madrugada",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7e1f346-ab9f-41cd-a75c-2c1d3c9c3f1b"
+}

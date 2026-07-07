@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xulkʼutixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxulkʼutij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regar líquido inclinando un poco el trasto; tomar de un sólo trago algún líquido",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Xul",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuxulkʼutij jun qʼebʼal joron",
+      "example_spa": "El niño regó una tinaja de agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "e27bc07a-ed8d-4d9a-b4bc-1e97e77dafff"
+}

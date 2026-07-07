@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sanïk",
+  "definition": "Hormiga",
+  "additional_text": "sInv Nusanïk Sanïk, chiköp",
+  "examples": [
+    {
+      "example_maya": "Kʼo sanïk qʼeq kij, kʼo ri keq, ri yechʼopon",
+      "example_spa": "Hay hormigas negras y rojas que pican",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri sanïk yekitïj kumätz jeʼ",
+      "example_spa": "Las hormigas se comen los gusanos muertos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4cb62e57-b7bf-4079-8115-c7d6e36eba3e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

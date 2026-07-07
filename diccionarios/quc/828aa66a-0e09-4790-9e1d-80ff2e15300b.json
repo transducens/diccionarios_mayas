@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eeqom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Organizador de un baile; encargado de un baile",
+  "definitionDialect": "Español",
+  "additional_text": "SaP s Eeqomaal Cargo, servicio que presta uno en su comunidad Sinón Ajjaa Raíz s Ehq",
+  "examples": [
+    {
+      "example_maya": "Li eqom, konkist xuʼqasaj",
+      "example_spa": "El encargado organizó el baile de la conquista",
+      "dialect": null
+    }
+  ],
+  "uuid": "828aa66a-0e09-4790-9e1d-80ff2e15300b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "León",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li koj are na mas ta kʼaʼn chwach li bʼalam",
+      "example_spa": "El león no es tan bravo como el tigre",
+      "dialect": null
+    }
+  ],
+  "uuid": "d82fb915-18b3-45d4-8d61-8574b05a94e6"
+}

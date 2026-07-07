@@ -1,0 +1,23 @@
+{
+  "entryWord": "SAKAAT",
+  "definition": "zacate",
+  "additional_text": "s1 nsakata del español zacate",
+  "examples": [
+    {
+      "example_maya": "Winqan joʼ sentabo twiʼ jun kʼlaj sakat tuj tnam",
+      "example_spa": "Veinticinco centavos cuesta un tercio de zacate en el pueblo",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Noq ma txiʼ iqan xjal tuʼn kyqʼiqʼ tjaqʼ tsakat",
+      "example_spa": "Tan fácil fue llevada la persona por el aire con todo y su zacate",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3a79c5a6-a071-4a3b-bdc5-bd2f36982e38",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

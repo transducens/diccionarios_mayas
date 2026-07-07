@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼoskʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy duro: terreno",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li uliw sibʼalaj kʼoskʼoj, kʼax uchakuxik",
+      "example_spa": "El terreno duro cuesta mucho trabajarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5031fca-5a4e-433a-8c82-175c209181ff"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xelqʼatixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxelqʼatij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasar sobre cosas",
+  "definitionDialect": "",
+  "additional_text": "vt Var Xalqʼatixik Raíz VT Xel",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuxelqʼatij li laq",
+      "example_spa": "El niño pasó sobre la escudilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e7b6cc6-feeb-414a-900a-feec1d699692"
+}

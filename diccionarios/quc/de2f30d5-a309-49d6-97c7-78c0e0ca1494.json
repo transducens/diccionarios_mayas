@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutʼikaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cosa voluminosa, como un libro, hacha o tabla",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li ikaj sibʼalaj jutʼikaj",
+      "example_spa": "El hacha es muy gruesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "de2f30d5-a309-49d6-97c7-78c0e0ca1494"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nakʼakʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kanakʼakʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar pegajoso",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz vi Nakʼ",
+  "examples": [
+    {
+      "example_maya": "Li qʼabʼaj kanakʼakʼ pa qʼol",
+      "example_spa": "Las manos están pegajosas por la trementina",
+      "dialect": null
+    }
+  ],
+  "uuid": "957a0a6f-8588-4ee0-9902-e35d09f9dede"
+}

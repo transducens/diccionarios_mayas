@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tem",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Banco; silla; tendal; viga",
+  "definitionDialect": "general",
+  "additional_text": "sinv SDS Utemul jaa Viga de casa Raíz S Teem",
+  "examples": [
+    {
+      "example_maya": "Li tem kachokon che tʼuyulʼbʼal",
+      "example_spa": "La silla sirve para sentarse",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼisis are mas utz cheh tem rech taq jah",
+      "example_spa": "El ciprés es lo mejor para vigas de las casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2582465e-1d80-4bc6-ac12-f78f9a54f345"
+}

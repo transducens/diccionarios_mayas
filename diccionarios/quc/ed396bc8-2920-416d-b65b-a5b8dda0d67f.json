@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzinitzobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzinitzobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar monedas o cosas pequeñas de metal al caer",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzin",
+  "examples": [
+    {
+      "example_maya": "Li rajil xtzaq pulew, xtzinitzobʼik",
+      "example_spa": "La moneda que se cayó, sonó mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed396bc8-2920-416d-b65b-a5b8dda0d67f"
+}

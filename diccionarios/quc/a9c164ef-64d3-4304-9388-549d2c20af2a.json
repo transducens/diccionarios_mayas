@@ -1,0 +1,34 @@
+{
+  "entryWord": "Eetaʼmaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwetaʼmaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aprender; estudiar; saber; conocer; reconocer como hijo",
+  "definitionDialect": "",
+  "additional_text": "VTD s Eetaʼmabʼal Conocimiento, saber SCL Eetaʼmaxik uwach Reconocer como hijo; conocer, saber, aprender, estudiar Raíz S Eht",
+  "examples": [
+    {
+      "example_maya": "Kawaj kinwetaʼmaj tzʼibʼ chiʼl uwa wuj",
+      "example_spa": "Quiero aprender a escribir y a leer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kawaj kinbʼan retaʼmaxik li kaxlan tzij pa tijobʼal",
+      "example_spa": "Quiero estudiar el castellano en la escuela",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwetaʼmaj na, jachin xelaqʼan nukej",
+      "example_spa": "Tengo que saber quién robó mi caballo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih kubʼan retaʼmaxik uwach li akʼal",
+      "example_spa": "El hombre va a reconocer al niño como hijo suyo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9c164ef-64d3-4304-9388-549d2c20af2a"
+}

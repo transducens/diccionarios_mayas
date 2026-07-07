@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ajawaren",
+  "definition": "Reino, señorío, dominio",
+  "additional_text": "sInv Wajawaren Ajaw",
+  "examples": [
+    {
+      "example_maya": "Achʼäl (achiʼel) rajawaren ri tataʼixel",
+      "example_spa": "Como el reino del Padre Eterno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qajawal xubʼij \"ri wajawaren ma aj ruwachʼulew ta xa richin chi la chi kaj\"",
+      "example_spa": "Nuestro señor dijo: \"Mi reino no es de este mundo, sino del cielo\"",
+      "dialect": null
+    }
+  ],
+  "uuid": "edf9b646-c50f-4ff3-885d-2955c4347ad3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacatinta (hierba que da tinta negra morada)",
+  "definitionDialect": "",
+  "additional_text": "scv Nuraxabʼaal Raíz Adj Rax DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li raxabʼal are laʼ jun qʼayes kachokon cheh tzʼajbʼal bʼatzʼ",
+      "example_spa": "La sacatinta es un monte, se usa para teñir hilo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b05c842a-8e2d-452b-a76c-3ddf0310bbcc"
+}

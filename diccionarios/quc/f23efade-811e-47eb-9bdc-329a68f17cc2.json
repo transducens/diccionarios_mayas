@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Uchaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinuchaxik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dice que; cuenta que",
+  "definitionDialect": "",
+  "additional_text": "vtd Coment Se usa más el tiempo presente y en forma impersonal",
+  "examples": [
+    {
+      "example_maya": "Rajawaxik kakunaj awibʼ kinuchaxik",
+      "example_spa": "Me dijeron que tengo que curarme",
+      "dialect": null
+    }
+  ],
+  "uuid": "f23efade-811e-47eb-9bdc-329a68f17cc2"
+}

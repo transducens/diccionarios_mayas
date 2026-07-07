@@ -1,0 +1,23 @@
+{
+  "entryWord": "Selonik",
+  "definition": "Rajar, cortar con cuchillo o machete",
+  "additional_text": "VT Selonik, (selïk), ninsël Sël",
+  "examples": [
+    {
+      "example_maya": "Taq xinsël ri nuqʼaʼ chi kuchíla, janíla (janina) kikʼ xel",
+      "example_spa": "Cuando me corté la mano con cuchillo, me salió mucha sangre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ixoqiʼ nikisël ri bʼoqʼ",
+      "example_spa": "Las mujeres cortan en rodajas el tamal",
+      "dialect": null
+    }
+  ],
+  "uuid": "42b4250d-f7e6-41d7-9fb9-bb6d318296c8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

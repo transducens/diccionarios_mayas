@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yanq",
+  "definition": "Espacio, distancia, separación",
+  "additional_text": "SR Xyanq",
+  "examples": [
+    {
+      "example_maya": "Li kʼal aʼin ninq xyanq",
+      "example_spa": "Esta milpa tiene grandes los espacios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tenamit junjunq wankebʼ xyanq chi ribʼilebʼ ribʼ",
+      "example_spa": "Cada uno de los pueblos tiene su separación",
+      "dialect": null
+    }
+  ],
+  "uuid": "b9bb5194-176a-426a-bc2b-45d6396192cb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

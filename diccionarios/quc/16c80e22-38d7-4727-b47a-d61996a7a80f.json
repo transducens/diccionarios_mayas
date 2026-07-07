@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pikʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar como persona muy flaca",
+  "definitionDialect": "General",
+  "additional_text": "vi Kapikʼnajik Raíz P Pikʼ",
+  "examples": [
+    {
+      "example_maya": "Li yawab xaq kapikʼnaji kabʼinik",
+      "example_spa": "El enfermo apenas camina",
+      "dialect": null
+    }
+  ],
+  "uuid": "16c80e22-38d7-4727-b47a-d61996a7a80f"
+}

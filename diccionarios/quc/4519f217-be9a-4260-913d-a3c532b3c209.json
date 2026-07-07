@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nojnaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lleno",
+  "definitionDialect": "",
+  "additional_text": "p //Nohj//",
+  "examples": [
+    {
+      "example_maya": "Nojnaq li chʼichʼ erel winaq chech winaq",
+      "example_spa": "La camioneta está llena de gente",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "4519f217-be9a-4260-913d-a3c532b3c209"
+}

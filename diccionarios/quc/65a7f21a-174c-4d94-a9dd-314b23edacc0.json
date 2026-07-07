@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xukʼukʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxukʼukʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Silbar fuerte; ir con mucha velocidad un carro",
+  "definitionDialect": "",
+  "additional_text": "VI var Kajukʼukʼik Raíz VI Xukʼ",
+  "examples": [
+    {
+      "example_maya": "Li kaqiqʼ sibʼalaj kaxukʼukʼik",
+      "example_spa": "El aire silba mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li altomow\" kaxukʼukʼik xqʼatanik",
+      "example_spa": "El carro pasó con mucha velocidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "65a7f21a-174c-4d94-a9dd-314b23edacc0"
+}

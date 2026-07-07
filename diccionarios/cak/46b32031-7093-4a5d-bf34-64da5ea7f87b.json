@@ -1,0 +1,28 @@
+{
+  "entryWord": "Bʼára",
+  "definition": "Vara de medida, vara insignia de autoridad La \"a\" final está ensordecida y por eso se pronuncia la \"r\" vibrante",
+  "additional_text": "sInv Nubʼára Cheʼ Vara",
+  "examples": [
+    {
+      "example_maya": "Kawinäq bʼára kʼo chupan jun kʼan ulew",
+      "example_spa": "La cuerda de terreno tiene 40 varas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼára ja ri ki kwaʼn ri qʼatöy taq tzij",
+      "example_spa": "Vara es la que llevan los de la autoridad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼára chuqa nibʼix chi re ri nikikʼwaj ri ajqʼijaʼ pa jun ti kipeqes",
+      "example_spa": "Vara se le dice a lo que llevan los guías espirituales en un morralito",
+      "dialect": null
+    }
+  ],
+  "uuid": "46b32031-7093-4a5d-bf34-64da5ea7f87b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

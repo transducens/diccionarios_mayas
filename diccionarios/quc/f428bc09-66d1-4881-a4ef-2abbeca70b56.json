@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kechʼkeʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Picado con herramienta; macheteado; golpeado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Kechʼ",
+  "examples": [
+    {
+      "example_maya": "Li jun choma cheʼ xaq kechʼkeʼy chik rumal muruh",
+      "example_spa": "El trozo de pino está muy macheteado",
+      "dialect": null
+    }
+  ],
+  "uuid": "f428bc09-66d1-4881-a4ef-2abbeca70b56"
+}

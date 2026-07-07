@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luxuwem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinluxuwik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentir el ardor del chile picante",
+  "definitionDialect": "Español",
+  "additional_text": "vi Raíz VI Lux",
+  "examples": [
+    {
+      "example_maya": "Li al Naʼ sibʼalaj ka luxuwik ma kutij champoroʼn",
+      "example_spa": "Ana está jalando aire porque comió chile manzana",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd7295ba-504e-4f3e-a0b9-f708cdb2f274"
+}

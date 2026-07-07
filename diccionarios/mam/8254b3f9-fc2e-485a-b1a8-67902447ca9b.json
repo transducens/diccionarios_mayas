@@ -1,0 +1,23 @@
+{
+  "entryWord": "TZI XUUʼKBʼAJ",
+  "definition": "1 pecho 2 vómito 3 náusea",
+  "additional_text": "scl tzi nxuʼka raíz tziʼ s raíz xuʼk s ds xumlalbʼaj, ds yabʼil",
+  "examples": [
+    {
+      "example_maya": "Maʼ kyʼixbʼa tzi nxuʼka toklen xoʼn pelot tuʼn wukʼala",
+      "example_spa": "Ya se puso adolorido mi pecho por la pelota que me tiró mi compañero",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Qa ma txiʼ tnebʼeʼn jun xjal nebʼebʼil tbʼiʼx kjawatz tzi Si",
+      "example_spa": "Si una persona saborea una comida aceda, de una vez echa vómitos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8254b3f9-fc2e-485a-b1a8-67902447ca9b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

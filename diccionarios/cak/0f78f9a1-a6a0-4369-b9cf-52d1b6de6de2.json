@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ulew",
+  "definition": "Tierra terreno",
+  "additional_text": "sInv Wulew Rulewal Tierra de, terreno donde produce algo Ruwiʼ ulew Suelo",
+  "examples": [
+    {
+      "example_maya": "Ninkʼöt na jubʼa wulew, richin ninbʼän bʼa nuchʼabʼaq",
+      "example_spa": "Voy a escarbar un poco de tierra, para hacer lodo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jün achin xa kʼa re kan xukʼayij rulew, kan chöj bʼa xusipaj",
+      "example_spa": "Un señor hace poco vendió su terreno casi lo dio regalado",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f78f9a1-a6a0-4369-b9cf-52d1b6de6de2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

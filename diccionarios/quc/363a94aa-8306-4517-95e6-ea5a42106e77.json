@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tatzʼatobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrarse palo o hueso al caerse persona; fracturarse; torcerse tobillo",
+  "definitionDialect": "",
+  "additional_text": "VI Katatzʼatobʼik Raiz VT Tatzʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Wel xtatzʼatobʼ li raqan pa li ujul bʼah",
+      "example_spa": "Manuel se dobló el tobillo en la cueva de la taltuza",
+      "dialect": null
+    }
+  ],
+  "uuid": "363a94aa-8306-4517-95e6-ea5a42106e77"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kaʼaj",
+  "definition": "Rancho, jacal",
+  "additional_text": "sInv Nukaʼaj var Moʼk Jay",
+  "examples": [
+    {
+      "example_maya": "Kaʼaj ja riʼ ri jay kʼïn ruwiʼ",
+      "example_spa": "Rancho es la casa con techo de paja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kaʼaj kʼïn ruwiʼ, koʼk ruxeʼ",
+      "example_spa": "El rancho tiene techo de paja y pared de bajareque",
+      "dialect": null
+    }
+  ],
+  "uuid": "c98db42d-3384-4326-aaa5-e59c5311f0f7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Soqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Untar, manchar con lodo, sangre, comida, pintura, etc",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinsoqʼoh Raíz VT Soqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kunanel tajin kusoqʼ li yawabʼ pa kunabʼal",
+      "example_spa": "El enfermero está untando al enfermo con medicina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼajanel xusoqʼ li ratzʼyaq pa li tzʼajbʼal",
+      "example_spa": "El pintor manchó su ropa con la pintura",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a7ccbb5-7141-4761-84e9-bf07d34a94ee"
+}

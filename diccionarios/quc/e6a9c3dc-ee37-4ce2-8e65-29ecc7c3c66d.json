@@ -1,0 +1,29 @@
+{
+  "entryWord": "Jisik",
+  "entryWordDialect": null,
+  "altEntryWord": "Chʼolik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar con hoja de navaja, gillette o cuchillo con filo; sacar fibras una por una o también liendres Cortar mucho con instrumento filudo Rajado Rajado Puntiagudo Rajado",
+  "definitionDialect": "General",
+  "additional_text": "VTR Kinjisoh VTD Jisisexik Adj Jiʼs Adj Jiiseʼl Adj Jisikʼ Adj Jiisjobʼnaq Var Chʼoolik Raíz VT Jis",
+  "examples": [
+    {
+      "example_maya": "Li nan tajin kujis kachaq ukʼ pujolom li ral",
+      "example_spa": "La mujer le está sacando liendres de la cabeza a su hijo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chajisa qakinaqʼ",
+      "example_spa": "Sacá las fibras de nuestros ejotes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj jisikʼ uwi li bʼaq",
+      "example_spa": "La aguja es muy puntiaguda",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6a9c3dc-ee37-4ce2-8e65-29ecc7c3c66d"
+}

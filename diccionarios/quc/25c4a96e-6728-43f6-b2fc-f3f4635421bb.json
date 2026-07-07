@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tawatik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entreabierto; xolco",
+  "definitionDialect": "general",
+  "additional_text": "Adj Coment (Insulto) Raíz PT Taw",
+  "examples": [
+    {
+      "example_maya": "Tawatik uwareh, kuchax jun, we xa na tzʼaqat ta uwareh",
+      "example_spa": "Xolco se le dice a alguien, si no tiene cabales los dientes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tawatik upuchiʼ",
+      "example_spa": "Persona regañona",
+      "dialect": null
+    }
+  ],
+  "uuid": "25c4a96e-6728-43f6-b2fc-f3f4635421bb"
+}

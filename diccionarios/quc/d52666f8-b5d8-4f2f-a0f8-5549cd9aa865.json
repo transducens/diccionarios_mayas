@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqchoyochoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Duro al cortar: madera",
+  "definitionDialect": "General",
+  "additional_text": "pc Raíz VT Choy",
+  "examples": [
+    {
+      "example_maya": "Li raxcheʼ sibʼalaj kaqchoyochoj",
+      "example_spa": "El encino es muy duro al cortarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d52666f8-b5d8-4f2f-a0f8-5549cd9aa865"
+}

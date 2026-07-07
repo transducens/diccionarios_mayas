@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rakʼaratem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karakʼaratik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar los animales",
+  "definitionDialect": "",
+  "additional_text": "vi Sinón Rakarateem",
+  "examples": [
+    {
+      "example_maya": "Li amaʼ karakʼarat pa li abʼix",
+      "example_spa": "El gallo está escarbando en la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "2539abf2-7e6d-43e8-8b99-3885ab9d3cb0"
+}

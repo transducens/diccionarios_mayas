@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wiriwik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bajo de estatura: persona",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Tʼanatʼik Raíz P Wir DomS Nimaal",
+  "examples": [
+    {
+      "example_maya": "Li achih, xa sin wiriwik",
+      "example_spa": "El hombre es bajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "265a78f9-1580-406a-ad03-b81fd68f6db7"
+}

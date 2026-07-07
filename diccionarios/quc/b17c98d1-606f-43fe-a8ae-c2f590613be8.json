@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un chupón de dulce, hueso o pan duro",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qul",
+  "examples": [
+    {
+      "example_maya": "Xaq juqul xuya li akʼal che li ukabʼ, xutzaqoh",
+      "example_spa": "El niño sólo le dio un chupón al dulce y se le cayó",
+      "dialect": null
+    }
+  ],
+  "uuid": "b17c98d1-606f-43fe-a8ae-c2f590613be8"
+}

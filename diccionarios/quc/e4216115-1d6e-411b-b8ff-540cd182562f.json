@@ -1,0 +1,24 @@
+{
+  "entryWord": "Titzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apretado; constipada: la nariz",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Utitzʼaal, xtitzʼobʼik (xtiitzʼobʼirik) Var Laatzʼ Raíz PT Titzʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj titzʼ li nukamiʼx",
+      "example_spa": "Mi camisa está muy apretada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal titzʼ li uputzaʼm",
+      "example_spa": "El niño tiene constipado",
+      "dialect": null
+    }
+  ],
+  "uuid": "e4216115-1d6e-411b-b8ff-540cd182562f"
+}

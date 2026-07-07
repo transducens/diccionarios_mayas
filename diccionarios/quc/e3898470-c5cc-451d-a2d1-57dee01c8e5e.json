@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kitziʼtz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Planta parecida a la hierbamora, no es comestible; desnutrido, flaco",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li alih xaq kitziʼtz ma xa torotajnaq upam",
+      "example_spa": "La muchacha está flaca porque tiene diarrea",
+      "dialect": "Dom.S. Q'ayees."
+    }
+  ],
+  "uuid": "e3898470-c5cc-451d-a2d1-57dee01c8e5e"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼolkopixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar camisa; pelar guineo; lastimarse quedando la piel colgando",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinqʼolkopiij Sinón Chʼolkopixik Raíz VT Qʼol",
+  "examples": [
+    {
+      "example_maya": "Li achih qʼolkopixik kubʼan cheh jun rankineʼy",
+      "example_spa": "El hombre está pelando un guineo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xuqʼolkopij li uwach uchʼek chwa li abʼaj",
+      "example_spa": "El hombre se lastimó la pierna con una piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1aded57-a8c9-4204-a390-fb0296b5b551"
+}

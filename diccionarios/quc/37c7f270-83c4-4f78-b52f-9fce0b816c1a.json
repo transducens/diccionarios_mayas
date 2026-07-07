@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼapalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cerrado",
+  "definitionDialect": "",
+  "additional_text": "P Xtzʼapiʼk, xutzʼapabʼaʼ Raíz PT Tzʼap",
+  "examples": [
+    {
+      "example_maya": "Li stangr\" xtzʼapiʼk, ma xok aqʼabʼ",
+      "example_spa": "La cantina está cerrada porque ya entró la noche",
+      "dialect": null
+    }
+  ],
+  "uuid": "37c7f270-83c4-4f78-b52f-9fce0b816c1a"
+}

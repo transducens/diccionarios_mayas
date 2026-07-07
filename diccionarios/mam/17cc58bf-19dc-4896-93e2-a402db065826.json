@@ -1,0 +1,23 @@
+{
+  "entryWord": "TZʼIYEET",
+  "definition": "1 cortar carne o cosas blandas 2 limpiar restos de comida en las ollas, platos, etc",
+  "additional_text": "vt tzʼiyol te, tzʼiyoʼn, ma bʼaj ntzʼiyoʼna, tzʼiyobʼil raíz tzʼiy vt",
+  "examples": [
+    {
+      "example_maya": "Ma kubʼ tzʼiyoʼn tqan loʼj tuʼn kwental",
+      "example_spa": "El mayordomo cortó el tallo del guineo de comida con la mano",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tzʼiyoʼn jaw twitz tlaqa qʼany",
+      "example_spa": "Limpiá tu plato vos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "17cc58bf-19dc-4896-93e2-a402db065826",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

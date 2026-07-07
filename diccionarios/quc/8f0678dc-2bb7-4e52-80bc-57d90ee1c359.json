@@ -1,0 +1,19 @@
+{
+  "entryWord": "Potzʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpotzʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Somatar cosa dura contra otra",
+  "definitionDialect": "",
+  "additional_text": "vıd Raíz VT Potzʼ",
+  "examples": [
+    {
+      "example_maya": "Xinpotzʼij uwa nuchʼek chwa li abʼaj",
+      "example_spa": "Me somaté la rótula en una piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f0678dc-2bb7-4e52-80bc-57d90ee1c359"
+}

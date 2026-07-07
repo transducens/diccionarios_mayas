@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sachk saʼ chʼool",
+  "definition": "Olvidar",
+  "additional_text": "VI Xsach saʼ inchʼool",
+  "examples": [
+    {
+      "example_maya": "Xsach saʼ inchʼool xyeebʼal re",
+      "example_spa": "Se me olvidó decírselo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xsach saʼ inchʼool kʼaru xqaye",
+      "example_spa": "Se me olvidó lo que habíamos dicho",
+      "dialect": null
+    }
+  ],
+  "uuid": "dab5771e-efe5-4120-8fea-6bd18dcc4605",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

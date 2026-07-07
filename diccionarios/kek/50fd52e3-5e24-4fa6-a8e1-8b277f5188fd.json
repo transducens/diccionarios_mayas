@@ -1,0 +1,18 @@
+{
+  "entryWord": "Tojom",
+  "definition": "Objeto que fue pagado",
+  "additional_text": "sInv Intojom",
+  "examples": [
+    {
+      "example_maya": "Intojom jun xkutan re tin xtenqʼa chi kʼanjelak",
+      "example_spa": "Le había pagado un día para que me ayudara con el trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "50fd52e3-5e24-4fa6-a8e1-8b277f5188fd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

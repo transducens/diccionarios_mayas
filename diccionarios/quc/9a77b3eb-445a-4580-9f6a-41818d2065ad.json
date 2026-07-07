@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sikʼowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasikʼowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner huevo la gallina",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Sikʼ",
+  "examples": [
+    {
+      "example_maya": "Li wakʼ xkamik xsikʼow na iwir",
+      "example_spa": "Se murió mi gallina y hasta ayer puso huevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a77b3eb-445a-4580-9f6a-41818d2065ad"
+}

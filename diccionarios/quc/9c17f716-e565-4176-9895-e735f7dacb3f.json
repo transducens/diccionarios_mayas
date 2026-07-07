@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rikʼilal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mes de; suerte; destino",
+  "definitionDialect": "",
+  "additional_text": "ssp",
+  "examples": [
+    {
+      "example_maya": "Li ikʼ may\", rikʼilal kotzʼiʼj",
+      "example_spa": "El mes de mayo, es el mes de las flores",
+      "dialect": null
+    },
+    {
+      "example_maya": "Utz kikʼilal kichʼumilal li winaq kʼo kimebʼaʼil",
+      "example_spa": "El destino de la gente que tiene riquezas, es bueno",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c17f716-e565-4176-9895-e735f7dacb3f"
+}

@@ -1,0 +1,38 @@
+{
+  "entryWord": "Chike (achike, chke)",
+  "definition": "Qué, cuál",
+  "additional_text": "Int ¿Qué dice?",
+  "examples": [
+    {
+      "example_maya": "¿Chike xubʼïj täq xchʼon?",
+      "example_spa": "¿Qué dijo cuando habló?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Chike xubʼän chi re ri rukʼayij?",
+      "example_spa": "¿Qué hizo con su venta?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Achike pe nabʼïj?",
+      "example_spa": "¿Qué decís?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Chike riʼ?",
+      "example_spa": "¿Qué es eso?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Chike rubʼanikil?",
+      "example_spa": "¿Cómo, de qué forma?",
+      "dialect": null
+    }
+  ],
+  "uuid": "4307f543-4347-49aa-bb4f-687b2199466e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

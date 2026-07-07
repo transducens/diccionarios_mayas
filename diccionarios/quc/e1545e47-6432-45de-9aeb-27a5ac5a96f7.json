@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kitaʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guitarra; guitar",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukitaʼr Del Cast Guitarra",
+  "examples": [
+    {
+      "example_maya": "Li alabʼom kakibʼan li kitaʼr chuq kebʼixanik",
+      "example_spa": "Los muchachos ejecutan la guitarra y cantan",
+      "dialect": "Dom.S. Q'ojoom."
+    }
+  ],
+  "uuid": "e1545e47-6432-45de-9aeb-27a5ac5a96f7"
+}

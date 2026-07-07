@@ -1,0 +1,18 @@
+{
+  "entryWord": "AT TAJ",
+  "definition": "alguien quiere",
+  "additional_text": "f raíz a raíz aj vt",
+  "examples": [
+    {
+      "example_maya": "¿At taj tuʼn t-xiʼ wukʼala nchiʼj?",
+      "example_spa": "¿Alguien quiere ir conmigo mañana?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "31743ded-a34e-45e7-94b2-3c49d1f258e4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

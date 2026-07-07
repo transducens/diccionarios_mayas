@@ -1,0 +1,19 @@
+{
+  "entryWord": "Libʼilotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kalibʼilotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flamear llama de candela",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Libʼ",
+  "examples": [
+    {
+      "example_maya": "Li ukotzʼiʼj li kamnaq nimaril kalibʼilot rumal li kaqiqʼ",
+      "example_spa": "La candela del muerto alumbra poco por el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "f770a222-3f14-45af-96bd-fba52e7ba36e"
+}

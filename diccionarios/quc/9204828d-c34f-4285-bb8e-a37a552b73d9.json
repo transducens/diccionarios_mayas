@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sarnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasarnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar sin carga, o desnuda una persona gorda",
+  "definitionDialect": "",
+  "additional_text": "vt Raiz vt Sar",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq kasarnaj pa li tikbʼal kotzʼiʼj",
+      "example_spa": "El muchacho se mantiene andando por el jardín",
+      "dialect": null
+    }
+  ],
+  "uuid": "9204828d-c34f-4285-bb8e-a37a552b73d9"
+}

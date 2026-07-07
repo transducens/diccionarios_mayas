@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼulunïk",
+  "definition": "Encontrar, recibir, recoger",
+  "additional_text": "vt Kʼuluxik, ninkʼül var kʼül, chwäch Comprender cualquier caso Kʼamonïk, kʼul",
+  "examples": [
+    {
+      "example_maya": "Yin xinkʼül jun achin pa bʼey",
+      "example_spa": "Me encontré con un hombre en la calle",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkʼül jun aqeʼn yaʼ rutzʼujal wachoch",
+      "example_spa": "Recogí un guacal de agua de las goteras de mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chwaʼq ninkʼül jun wachʼalal yinoruqʼejelaʼ",
+      "example_spa": "Mañana voy a recibir a un familiar que me viene a visitar",
+      "dialect": null
+    }
+  ],
+  "uuid": "316d8e7b-eeb6-405e-93ce-441d26df65cf",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

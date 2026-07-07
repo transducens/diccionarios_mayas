@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼtyox",
+  "entryWordDialect": null,
+  "altEntryWord": "Uqʼaqʼ tyox",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cicatriz que deja la viruela",
+  "definitionDialect": "General",
+  "additional_text": "sc Var Raíz S Qʼaaqʼ Raíz S Tyoox",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼo qʼaqʼtyox reh ij chupalaj",
+      "example_spa": "El hombre tiene cicatrices de viruela en la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "4f4245be-de0d-43f8-b261-4ac2a32b982b"
+}

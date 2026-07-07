@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rulaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suciedad que crece en la mollera de los nenes recién nacidos",
+  "definitionDialect": "ssp.",
+  "additional_text": "",
+  "examples": [
+    {
+      "example_maya": "Li neʼ kʼo rulaʼ pujaʼj ma na bʼaqom ta li uwiʼ",
+      "example_spa": "El nene tiene suciedad en la mollera, porque no lo han bañado",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee9bcdfd-74e8-4cd1-bffd-d4d0e3c61ff8"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuluyubʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kayuluyubʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zafarse",
+  "definitionDialect": "general",
+  "additional_text": "VI Raíz P Yul",
+  "examples": [
+    {
+      "example_maya": "Li kʼaʼam ximbʼem reh li jun kintal ixim xyluyubʼik",
+      "example_spa": "La pita con que han amarrado el quintal de maíz, se zafó",
+      "dialect": null
+    }
+  ],
+  "uuid": "c18d2720-8186-4840-ba37-7fefb47f40db"
+}

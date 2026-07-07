@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saʼsik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande y plana: piedra o terreno; plana y grande: piedra o terreno",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz VT Saʼ",
+  "examples": [
+    {
+      "example_maya": "Li jun abʼaj saʼsik li uwiʼ",
+      "example_spa": "La superficie de la piedra es grande y ancha",
+      "dialect": null
+    }
+  ],
+  "uuid": "df9c6094-d271-4a3e-b832-275e07763c16"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wirnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawirnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar un nene",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Wir",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal kawirnaj pa li bʼeh",
+      "example_spa": "El nene está andando por el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "6bbde8d2-1ffb-4779-80d3-545874dd45bf"
+}

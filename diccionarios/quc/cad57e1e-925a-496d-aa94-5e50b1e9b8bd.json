@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ixim qʼuqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quetzalillo",
+  "definitionDialect": "",
+  "additional_text": "scl Var Qʼuuqʼ DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li ixim qʼuqʼ kutij uwach li kʼuxkʼabʼel",
+      "example_spa": "El quetzalillo se come las frutas del cerezo",
+      "dialect": null
+    }
+  ],
+  "uuid": "cad57e1e-925a-496d-aa94-5e50b1e9b8bd"
+}

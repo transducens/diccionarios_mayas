@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼerer",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pájaro carpintero pequeño de color café",
+  "definitionDialect": "General",
+  "additional_text": "SnP Raíz S Tzʼerer",
+  "examples": [
+    {
+      "example_maya": "Waʼ we tzʼerer, xaq koʼlik, qʼakoʼj li rij",
+      "example_spa": "Este tipo de pájaro carpintero, es pequeño y de color café",
+      "dialect": null
+    }
+  ],
+  "uuid": "4822da09-34f1-4967-a1ed-374dbe399a98"
+}

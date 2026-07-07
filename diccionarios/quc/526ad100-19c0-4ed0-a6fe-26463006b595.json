@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yajik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyajoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regañar",
+  "definitionDialect": "",
+  "additional_text": "vtr",
+  "examples": [
+    {
+      "example_maya": "Kinyaj na li akʼal ma xaq koqʼik",
+      "example_spa": "Voy a regañar al niño porque",
+      "dialect": null
+    }
+  ],
+  "uuid": "526ad100-19c0-4ed0-a6fe-26463006b595"
+}

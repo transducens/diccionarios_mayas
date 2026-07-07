@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tijobʼäl",
+  "definition": "Escuela (centro de enseñanza)",
+  "additional_text": "scv Nutijobʼal",
+  "examples": [
+    {
+      "example_maya": "Ri pa tijobʼäl kʼiy ruwäch yeʼawetamalaʼ",
+      "example_spa": "En la escuela se aprenden muchas cosas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa tijobʼäl nawetamaj nasikʼij ruwa wuj, yatzʼibʼan chuqa kʼakʼaʼ taq naʼoj",
+      "example_spa": "En la escuela se aprende a leer, escribir y nuevos conocimientos",
+      "dialect": null
+    }
+  ],
+  "uuid": "ff858ad9-880b-4005-9394-8dd9dd4f2d28",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

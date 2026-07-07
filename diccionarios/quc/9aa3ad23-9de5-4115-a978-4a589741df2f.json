@@ -1,0 +1,24 @@
+{
+  "entryWord": "Waʼil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cucaracha",
+  "definitionDialect": "",
+  "additional_text": "snp Chkop",
+  "examples": [
+    {
+      "example_maya": "Li waʼil pa taq jah kekʼojiʼ wih, kakijaʼrsaj li qʼor e bʼanal kʼax",
+      "example_spa": "Las cucarachas se mantienen en las casas, deshacen la masa de maíz y son dañinas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li waʼil pa taq kʼima jah keriqitaj wih",
+      "example_spa": "Las cucarachas se encuentran más en las casas de paja",
+      "dialect": null
+    }
+  ],
+  "uuid": "9aa3ad23-9de5-4115-a978-4a589741df2f"
+}

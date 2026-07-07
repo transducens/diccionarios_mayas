@@ -1,0 +1,24 @@
+{
+  "entryWord": "Miqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmiqʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Meeqiʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Calentar",
+  "definitionDialect": "",
+  "additional_text": "vTR Var Raíz Adj Miqʼ",
+  "examples": [
+    {
+      "example_maya": "Kinmiqʼ wibʼ",
+      "example_spa": "Me estoy calentando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li riʼja winaq tajin kumiqʼ ribʼ chwa li qʼij",
+      "example_spa": "El anciano está calentándose en el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7a5945c-806f-4837-8328-ac4028f7156c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lotzotzexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kulotzotzej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Picotear mucho",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Lotz",
+  "examples": [
+    {
+      "example_maya": "Li akʼ, ronojel li uxaq ichaj xulotzotzej",
+      "example_spa": "La gallina picoteó todas las hojas de las verduras",
+      "dialect": null
+    }
+  ],
+  "uuid": "b42f7d61-4053-431b-9428-71e38fa7b088"
+}

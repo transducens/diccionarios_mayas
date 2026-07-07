@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ulaʼxel",
+  "entryWordDialect": null,
+  "altEntryWord": "Wulaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Visitante",
+  "definitionDialect": "General",
+  "additional_text": "sos sp Ulaʼxelaabʼ",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kul jun ulaʼxel",
+      "example_spa": "Mañana llega un visitante",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3cad0b2-357d-43b3-ade0-ef7fa58466d7"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un eructo",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qabʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq xwelij, xa juqabʼ xuya uwa nukʼuʼx",
+      "example_spa": "Cuando terminé de comer, eructé una vez",
+      "dialect": null
+    }
+  ],
+  "uuid": "3f042f75-cbcd-4fce-a4ca-e612aca3ecad"
+}

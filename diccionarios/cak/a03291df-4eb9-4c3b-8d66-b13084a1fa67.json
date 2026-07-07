@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kamïk",
+  "definition": "Bastante, mucho",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Kamïk chi jöbʼ",
+      "example_spa": "Mucho aguacero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kamïk chi winäq e kʼo",
+      "example_spa": "Hay bastante gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "a03291df-4eb9-4c3b-8d66-b13084a1fa67",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

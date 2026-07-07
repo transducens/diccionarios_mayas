@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqa wachaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mal de ojos (blanco)",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz Adj Saq Raíz S Wach DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li saqa wachaj na kaqʼoxow ta mas",
+      "example_spa": "El mal de ojo blanco, no duele mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "d63b58d7-cff2-462c-a885-c96cc790297c"
+}

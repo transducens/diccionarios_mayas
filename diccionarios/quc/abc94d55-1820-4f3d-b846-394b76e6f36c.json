@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morder los animales",
+  "definitionDialect": "",
+  "additional_text": "vtr Kuwaaqoh Raíz VT Waaq",
+  "examples": [
+    {
+      "example_maya": "Li nutzʼiʼ xuwaq li jun chi tzʼiʼ",
+      "example_spa": "Mi perro mordió al otro perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "abc94d55-1820-4f3d-b846-394b76e6f36c"
+}

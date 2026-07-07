@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ajqul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona que tiene güegüecho; goloso",
+  "definitionDialect": "General",
+  "additional_text": "SAgen",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj ajqul che kabʼ",
+      "example_spa": "El niño es muy goloso para los confites",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq sin ajqul pa ralajil",
+      "example_spa": "La mujer tiene güegüecho desde el nacimiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "7c593103-1dcd-4f8b-b35a-35dc9f079a3b"
+}

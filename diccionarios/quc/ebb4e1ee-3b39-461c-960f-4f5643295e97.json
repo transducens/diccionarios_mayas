@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qabʼaqobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Eructar",
+  "definitionDialect": "General",
+  "additional_text": "vi Kaqabʼaqobʼik Coment Generalmente empleado como verbo impersonal con uwa kʼuʼx Raíz VI Qabʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xqabʼaqobʼ uwach ukʼuʼx are taq xrelij",
+      "example_spa": "El hombre eructó cuando terminó de comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xqabʼaqobʼ uwa nukʼuʼx",
+      "example_spa": "Eructé",
+      "dialect": null
+    }
+  ],
+  "uuid": "ebb4e1ee-3b39-461c-960f-4f5643295e97"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "BALOON",
+  "definition": "paloma",
+  "additional_text": "s1 nbalona del español paloma ds chʼit",
+  "examples": [
+    {
+      "example_maya": "Aa tzʼis ntzaj kyqʼoʼn balon tuj kosin",
+      "example_spa": "Botan mucha basura las palomas en la cocina",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Winqan tbalon nan yuẍ at",
+      "example_spa": "La madrina tiene veinte palomas",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "9fa57836-708f-4b1e-b753-4ec8b3465dcc",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

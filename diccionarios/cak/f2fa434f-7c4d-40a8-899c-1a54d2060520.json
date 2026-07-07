@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzeʼenïk",
+  "definition": "Reírse",
+  "additional_text": "vI Tzeʼenen Yitzeʼen Tzeʼen, bʼanoj",
+  "examples": [
+    {
+      "example_maya": "Täq yisananëx, yalan yitzeʼen",
+      "example_spa": "Cuando me hacen cosquillas, me río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq janíla yitzeʼen, nipe raxkej chi nupam",
+      "example_spa": "Cuando me río mucho, me da calambre en el estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2fa434f-7c4d-40a8-899c-1a54d2060520",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

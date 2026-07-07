@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaxtun",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼaxtun",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hogar (ceremonial)",
+  "definitionDialect": "",
+  "additional_text": "sInv Coment Sólo se usa en la frase tzʼaaq kʼaxtuun",
+  "examples": [
+    {
+      "example_maya": "Kʼax uwokik li tzʼaq kʼaxtun",
+      "example_spa": "Es dificil construir la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f357207-3e67-4e02-b30c-eb91d2a2a46a"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼikitʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Tʼiqitʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grueso, como un libro; grosor volumen",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Piim var Tʼiqitʼik Raiz PT Tʼik",
+  "examples": [
+    {
+      "example_maya": "Li wuj sibʼalaj tʼikitʼik",
+      "example_spa": "El libro es muy grueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd4eccc6-9eae-400c-a22b-c4a0c66a1f75"
+}

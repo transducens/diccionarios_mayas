@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼa jampaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Hasta cuándo?",
+  "definitionDialect": "",
+  "additional_text": "Interr",
+  "examples": [
+    {
+      "example_maya": "Kʼa jampa katbʼe pa armit?",
+      "example_spa": "¿Hasta cuándo vas a ir a Guatemala?",
+      "dialect": null
+    }
+  ],
+  "uuid": "78b3b8e0-3479-4fac-b574-f49f42a2c0c9"
+}

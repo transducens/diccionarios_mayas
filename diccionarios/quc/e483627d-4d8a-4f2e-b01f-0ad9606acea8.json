@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajxut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona que rechaza",
+  "definitionDialect": "General",
+  "additional_text": "SAgen",
+  "examples": [
+    {
+      "example_maya": "Li akʼal ajxut chkech li e rukʼiʼn",
+      "example_spa": "El niño rechaza a sus amigos",
+      "dialect": null
+    }
+  ],
+  "uuid": "e483627d-4d8a-4f2e-b01f-0ad9606acea8"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tinïnik",
+  "definition": "A pisonar, apelmazar, apretar los hilos del tejido",
+  "additional_text": "vt Tinixik, (tinïk), nintïn Tinitaʼ vt Apisonar seguido vt Tin",
+  "examples": [
+    {
+      "example_maya": "Täq xinmüq ri jül pa bʼëy, xintïn ütz chipexun, jebʼël kow xel",
+      "example_spa": "Cuando rellené los hoyos en el camino, los pisoné bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ixoqiʼ täq chöj nikitïn ri kiken, yalan yekos",
+      "example_spa": "Cuando las mujeres aprietan los hilos de sus tejidos, se cansan mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "a36d5127-ddc6-4d77-8ddf-2f3a934009bb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

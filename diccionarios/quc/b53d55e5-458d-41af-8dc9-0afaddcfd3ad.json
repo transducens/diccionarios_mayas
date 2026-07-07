@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tikmaʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vuelta de gato; remiendo para camisa o pantalón",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nutikmaʼy Coment Así hace el brujo para cambiarse a animal Raíz VT Tik",
+  "examples": [
+    {
+      "example_maya": "Li ajʼitz xubʼan utikmaʼy, xux jun meʼs",
+      "example_spa": "El brujo hizo su vuelta de gato y se convirtió en gato",
+      "dialect": null
+    }
+  ],
+  "uuid": "b53d55e5-458d-41af-8dc9-0afaddcfd3ad"
+}

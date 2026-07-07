@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼurux bʼurux (bʼuruq)",
+  "definition": "Aspero, grueso",
+  "additional_text": "Adj Xbʼurux bʼuruxoʼ, xbʼurux bʼuruxil",
+  "examples": [
+    {
+      "example_maya": "Bʼurux bʼurux ru li cheʼ",
+      "example_spa": "La tabla es áspera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼurux bʼurux ru rismal li kawaay",
+      "example_spa": "El pelo del caballo es grueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8a9e1d9-c11a-4448-9a84-45966730a78d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

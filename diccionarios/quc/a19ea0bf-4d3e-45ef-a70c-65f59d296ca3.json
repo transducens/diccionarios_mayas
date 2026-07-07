@@ -1,0 +1,19 @@
+{
+  "entryWord": "Teʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": "telik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abierto",
+  "definitionDialect": "General",
+  "additional_text": "p Xteʼiʼk, xuteebʼaʼ Teʼ (teh)",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xutebʼa kan li uchi jah",
+      "example_spa": "La mujer dejó abierta la puerta de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a19ea0bf-4d3e-45ef-a70c-65f59d296ca3"
+}

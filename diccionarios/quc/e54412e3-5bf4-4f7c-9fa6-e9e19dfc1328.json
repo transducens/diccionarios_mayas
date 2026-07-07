@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suave: tierra o pan",
+  "definitionDialect": "General",
+  "additional_text": "p Xchʼuʼiʼk, xuchʼubʼaʼ Raiz P Chʼuʼ",
+  "examples": [
+    {
+      "example_maya": "Li uliw xchʼuʼiʼ rumal li jabʼ",
+      "example_spa": "La tierra se puso suave por la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "e54412e3-5bf4-4f7c-9fa6-e9e19dfc1328"
+}

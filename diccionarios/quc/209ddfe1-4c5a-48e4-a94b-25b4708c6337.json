@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saltamonte; esperanza (animal); chapulín",
+  "definitionDialect": "",
+  "additional_text": "SnP Raíz S Lool DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li lol rax li kij, nimaʼq kexikʼan chikaj",
+      "example_spa": "Los saltamontes son verdes y dan saltos grandes",
+      "dialect": null
+    }
+  ],
+  "uuid": "209ddfe1-4c5a-48e4-a94b-25b4708c6337"
+}

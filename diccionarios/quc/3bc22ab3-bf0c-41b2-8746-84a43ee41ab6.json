@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pankuʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Banco",
+  "definitionDialect": "",
+  "additional_text": "scv Nupaankuuʼ var Teem DomS Chokonisabʼal Del Cast Banco",
+  "examples": [
+    {
+      "example_maya": "Li pankuʼ kʼih winaq kuʼqʼiʼoh, ketʼuyiʼ pwiʼ",
+      "example_spa": "En el banco caben muchas personas",
+      "dialect": null
+    }
+  ],
+  "uuid": "3bc22ab3-bf0c-41b2-8746-84a43ee41ab6"
+}

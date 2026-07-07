@@ -1,0 +1,23 @@
+{
+  "entryWord": "Raj",
+  "definition": "Gustar mucho una cosa; hacer falta",
+  "additional_text": "vi Niraj",
+  "examples": [
+    {
+      "example_maya": "Jebʼel niraj ri oj chwe",
+      "example_spa": "Me gusta mucho el aguacate",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa niraj na chi nikʼachoj ri jay",
+      "example_spa": "Aún hace falta para terminar la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba2b3008-c949-40f4-9d4a-e04cb6541ad8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

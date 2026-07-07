@@ -1,0 +1,23 @@
+{
+  "entryWord": "Taqʼa",
+  "definition": "Abajo",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Hulaj tinxik saʼ li wochoch wan leʼ taqʼa",
+      "example_spa": "Mañana iré a la casa que tengo allá abajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ayu toj taqʼa",
+      "example_spa": "Andate hasta abajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a1a1399d-ecf5-4136-be54-174d2bf1b6d4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

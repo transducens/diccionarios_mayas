@@ -1,0 +1,24 @@
+{
+  "entryWord": "Raʼkixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinraʼkij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Molestar pidiendo algo; ser pedigüeño; pedir con insistencia",
+  "definitionDialect": "",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kinraʼkix cheh nurajil kumal li e walkʼuʼal",
+      "example_spa": "Como me molestan mis hijos al pedirme dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal sibʼalaj kuraʼkij li utat cheh rajil",
+      "example_spa": "El niño molesta mucho a su papá pidiéndole dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "930effcc-d88f-46ad-8082-8112e4c07513"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mapache",
+  "definitionDialect": "",
+  "additional_text": "sinv Nupaach DomS Chikop Del Cast Mapache",
+  "examples": [
+    {
+      "example_maya": "Li pach pa kʼacheʼlaj kʼo wih, katijow li utiʼjal",
+      "example_spa": "El mapache vive en la montaña, su carne es comestible",
+      "dialect": null
+    }
+  ],
+  "uuid": "d6d71fe3-4366-4ce1-bfd6-f48b7880883c"
+}

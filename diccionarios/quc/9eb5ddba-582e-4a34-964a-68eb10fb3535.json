@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba parecida a la hierbamora",
+  "definitionDialect": "General",
+  "additional_text": "SnP DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li paqʼ utz katijowik chema kelesax na li uwaʼal",
+      "example_spa": "Esta clase de hierba es comestible, menos el agua o la sopa que queda",
+      "dialect": null
+    }
+  ],
+  "uuid": "9eb5ddba-582e-4a34-964a-68eb10fb3535"
+}

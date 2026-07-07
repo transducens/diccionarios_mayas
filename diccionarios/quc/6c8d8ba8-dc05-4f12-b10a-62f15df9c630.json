@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jakajatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajakajatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover las piernas al estar sentado en una silla",
+  "definitionDialect": "",
+  "additional_text": "vı",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq kajakajat pa li utem",
+      "example_spa": "El muchacho que está sentado en la silla, mueve las piernas constantemente",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c8d8ba8-dc05-4f12-b10a-62f15df9c630"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Numik",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunumik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hambre",
+  "definitionDialect": "",
+  "additional_text": "scv //Nuhm// var Wayiʼjaal",
+  "examples": [
+    {
+      "example_maya": "Li alih xpe unumik, ma xpe na woʼqnaq taj",
+      "example_spa": "La muchacha tiene hambre, porque no ha comido",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc6f7a5c-aed6-41fa-8a83-a035aec4de3f"
+}

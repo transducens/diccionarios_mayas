@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rajixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrajij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chapear; rozar; botar árboles",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Raj",
+  "examples": [
+    {
+      "example_maya": "Kinrajij na qʼayes chij li woʼch chweʼq",
+      "example_spa": "Mañana voy a chapear el monte que está atrás de mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih tajin kurajij li cheʼ",
+      "example_spa": "El hombre está botando árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "d324f916-030e-4fbd-8868-da87d35cf63a"
+}

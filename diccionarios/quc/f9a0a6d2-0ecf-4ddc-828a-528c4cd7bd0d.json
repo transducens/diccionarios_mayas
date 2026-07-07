@@ -1,0 +1,29 @@
+{
+  "entryWord": "Latzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estrecho; apretado y lleno, que no da lugar para más",
+  "definitionDialect": "",
+  "additional_text": "Adj //Lahtzʼ// Sinón Tiitzʼ Raíz P Latzʼ",
+  "examples": [
+    {
+      "example_maya": "Li bʼeh kaqʼatan chiʼ li swan, sibʼalaj latzʼ",
+      "example_spa": "El camino de la orilla del barranco, es muy estrecho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uxoʼl taq jah pa armit sibʼalaj latzʼ che chʼichʼ",
+      "example_spa": "Las calles de Guatemala están llenas de carros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li jah jawi katajin wi li qʼojom sibʼalaj latzʼ",
+      "example_spa": "La gente está muy apretada en la casa donde están tocando marimba",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "f9a0a6d2-0ecf-4ddc-828a-528c4cd7bd0d"
+}

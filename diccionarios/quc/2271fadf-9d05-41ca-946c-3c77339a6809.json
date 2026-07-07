@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paloh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pala; pala madera",
+  "definitionDialect": "",
+  "additional_text": "scv Nupaaloo Dom Chokonisabʼal Del Cast Pala",
+  "examples": [
+    {
+      "example_maya": "Li paloh kachok che kʼaqbʼal trikoh pa erah",
+      "example_spa": "pala de madera sirve para trillar en era",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼichʼa paloh kachoko che lochʼbʼal uliw",
+      "example_spa": "La pala d hierro sirve para sacar tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "2271fadf-9d05-41ca-946c-3c77339a6809"
+}

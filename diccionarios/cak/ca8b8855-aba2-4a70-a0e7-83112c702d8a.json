@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jut",
+  "definition": "Gusano",
+  "additional_text": "sInv Nujut Jut, chiköp",
+  "examples": [
+    {
+      "example_maya": "Kʼïy kiwäch jut e kʼo pan ulew",
+      "example_spa": "En la tierra hay varias clases de gusanos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri munibʼäl taq niqʼäy, nkʼojeʼ pe rujutil",
+      "example_spa": "Cuando se pudren las frutas, les salen gusanos",
+      "dialect": null
+    }
+  ],
+  "uuid": "ca8b8855-aba2-4a70-a0e7-83112c702d8a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

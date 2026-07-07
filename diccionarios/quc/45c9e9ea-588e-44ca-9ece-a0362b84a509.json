@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼekul",
+  "entryWordDialect": null,
+  "altEntryWord": "chʼakul",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Legítimo; puro; raíz, origen; cuerpo",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuchʼekuul",
+  "examples": [
+    {
+      "example_maya": "Li reloj sibʼalaj karepowik ma uchʼekul saqa pwaq",
+      "example_spa": "El reloj brilla porque es de pura plata",
+      "dialect": null
+    }
+  ],
+  "uuid": "45c9e9ea-588e-44ca-9ece-a0362b84a509"
+}

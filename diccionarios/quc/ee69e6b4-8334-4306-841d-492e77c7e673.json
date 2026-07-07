@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Usibʼel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Humo",
+  "definitionDialect": "General",
+  "additional_text": "SAS Raíz S Sibʼ",
+  "examples": [
+    {
+      "example_maya": "Kel sibʼ pwi li xkanul",
+      "example_spa": "Del cráter del volcán sale humo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee69e6b4-8334-4306-841d-492e77c7e673"
+}

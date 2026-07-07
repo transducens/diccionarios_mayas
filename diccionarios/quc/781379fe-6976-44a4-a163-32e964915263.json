@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼabʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzʼabʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Tzʼobʼnajeem",
+  "altEntryWordDialect2": null,
+  "definition": "Tartajear",
+  "definitionDialect": "General",
+  "additional_text": "vi Var Raíz VI Tzʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq katzʼabʼnaj li kachʼawik",
+      "example_spa": "El hombre tartamudea",
+      "dialect": null
+    }
+  ],
+  "uuid": "781379fe-6976-44a4-a163-32e964915263"
+}

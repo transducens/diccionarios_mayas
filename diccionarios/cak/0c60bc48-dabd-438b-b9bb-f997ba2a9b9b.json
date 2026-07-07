@@ -1,0 +1,23 @@
+{
+  "entryWord": "Al",
+  "definition": "Azacuán",
+  "additional_text": "snP Chikop, tzʼikin Xikʼanel",
+  "examples": [
+    {
+      "example_maya": "Ri al täq yeʼikʼo e bʼenäq pa jotöl, naqaj chik ri jobʼ",
+      "example_spa": "Cuando los azacuanes pasan y van hacia el norte, ya está cerca la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nibʼix chi taq yeʼikʼo ri al, retal jäbʼ",
+      "example_spa": "Dicen que cuando pasan los azacuanes es señal de lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c60bc48-dabd-438b-b9bb-f997ba2a9b9b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

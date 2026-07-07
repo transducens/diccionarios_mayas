@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tuq Tüq",
+  "definition": "Encino de hoja bien grande",
+  "additional_text": "sInv Nutuq Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri tuq yalan chawän ri ruxaq",
+      "example_spa": "Este tipo de encino tiene la hoja bien grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ruxaq ri tüq utz nipis subʼan chupan",
+      "example_spa": "La hoja de este tipo de roble es buena para envolver tamalitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "f239a40a-a26d-4254-a828-d65afe8aebcd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

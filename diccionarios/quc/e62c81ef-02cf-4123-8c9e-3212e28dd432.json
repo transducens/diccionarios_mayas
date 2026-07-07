@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuchik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Contribuir con dinero, maíz o leña",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinkuchuh Raíz VT Kuch",
+  "examples": [
+    {
+      "example_maya": "Are taq xpe jun nimalaj kebʼraqan pwi li tinamit, aninaq xukuchula pwaq li qʼatbʼaltzij",
+      "example_spa": "Cuando vino un gran terremoto sobre el pueblo, luego contribuyó con dinero la municipalidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "e62c81ef-02cf-4123-8c9e-3212e28dd432"
+}

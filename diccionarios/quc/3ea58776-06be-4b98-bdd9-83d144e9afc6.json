@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xekmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxekmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Columpiarse; colgar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Xek",
+  "examples": [
+    {
+      "example_maya": "Li a Teʼk kaxekmaʼy li uchim putolokʼ ma xa tajin kaxojowik",
+      "example_spa": "El morral de Diego se columpia sobre su costado porque está bailando",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ea58776-06be-4b98-bdd9-83d144e9afc6"
+}

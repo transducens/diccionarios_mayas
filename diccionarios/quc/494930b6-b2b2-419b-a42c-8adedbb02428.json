@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼichiʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "bʼichilik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fácil de desgranar",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz VT Bʼich",
+  "examples": [
+    {
+      "example_maya": "Li jal sibʼalaj bʼichiʼl, ma xa sibʼalaj chaqiʼj",
+      "example_spa": "La mazorca es fácil de desgranar, porque está bien seca",
+      "dialect": null
+    }
+  ],
+  "uuid": "494930b6-b2b2-419b-a42c-8adedbb02428"
+}

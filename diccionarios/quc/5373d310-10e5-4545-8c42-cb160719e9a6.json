@@ -1,0 +1,19 @@
+{
+  "entryWord": "Retyox",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuretyox",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limosna o contribución que se da en la iglesia",
+  "definitionDialect": "",
+  "additional_text": "sinv",
+  "examples": [
+    {
+      "example_maya": "Li winaq pa li wokaj amaqʼel kakiya kiretyox chech li iglesia",
+      "example_spa": "Las personas en el cantón siempre dan limosna o contribución en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "5373d310-10e5-4545-8c42-cb160719e9a6"
+}

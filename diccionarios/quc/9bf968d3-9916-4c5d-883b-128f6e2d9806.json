@@ -1,0 +1,19 @@
+{
+  "entryWord": "Awajixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwawajij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Domesticar",
+  "definitionDialect": "",
+  "additional_text": "VT PPP Ajwajiim Domesticado PPP Awajiim Domesticado",
+  "examples": [
+    {
+      "example_maya": "Katajin kinwawajij jun kuk",
+      "example_spa": "Estoy domesticando a una ardilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "9bf968d3-9916-4c5d-883b-128f6e2d9806"
+}

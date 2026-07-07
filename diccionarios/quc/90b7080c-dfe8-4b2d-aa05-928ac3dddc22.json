@@ -1,0 +1,19 @@
+{
+  "entryWord": "Meqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calentar a persona o cosa",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinmeqʼoh Var Miiqʼik Raíz VT Meeqʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Wel subʼ xumeqʼoh, ma kanum chik",
+      "example_spa": "Manuel calentó tamales, porque ya tiene hambre",
+      "dialect": null
+    }
+  ],
+  "uuid": "90b7080c-dfe8-4b2d-aa05-928ac3dddc22"
+}

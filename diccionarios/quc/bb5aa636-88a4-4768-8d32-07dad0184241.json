@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaʼkatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinbʼaʼkatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juguetear",
+  "definitionDialect": "General",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li saqwiʼnabʼ xaq kebʼaʼkatik",
+      "example_spa": "Los bailadores gracejos sólo juguetean",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb5aa636-88a4-4768-8d32-07dad0184241"
+}

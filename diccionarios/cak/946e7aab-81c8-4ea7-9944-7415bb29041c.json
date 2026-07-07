@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pakʼaʼch",
+  "definition": "Cuchara de jícara, guacal grande",
+  "additional_text": "sInv Nupakʼaʼch Kʼojlibʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri pakʼaʼch nikʼatzin richin nipajbʼäx ri qʼutuʼn pa bʼojoʼy",
+      "example_spa": "La cuchara sirve para sacar comida de la olla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pakʼaʼch richin pa tuj",
+      "example_spa": "El guacal se usa en el temascal",
+      "dialect": null
+    }
+  ],
+  "uuid": "946e7aab-81c8-4ea7-9944-7415bb29041c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

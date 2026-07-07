@@ -1,0 +1,23 @@
+{
+  "entryWord": "Muheel",
+  "definition": "Ramada, sombra para proteger algo, como plantas o nilón, espíritu",
+  "additional_text": "sInv Inmuheel",
+  "examples": [
+    {
+      "example_maya": "Kʼe xmuheel aawiiq ma tʼaqa",
+      "example_spa": "Ponele nilón a tu carga para que no se moje",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xabʼoq raj xmuheel li kʼuulaʼal mare xxiwak naq xtʼaneʼ",
+      "example_spa": "Hubieras llamado a su espíritu, el niño quizá se asustó cuando se cayó",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c5c1d22-2aee-4e32-9d90-72449a83000f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

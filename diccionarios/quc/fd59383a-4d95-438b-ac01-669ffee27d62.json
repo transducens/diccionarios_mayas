@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lankʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kalankʼoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Columpiarse; moverse como puente de hamaca",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz vi Lan",
+  "examples": [
+    {
+      "example_maya": "Li abʼ qʼaʼam kʼo pwi li bʼinel jaʼ kalankʼoʼpik",
+      "example_spa": "El puente de hamaca que está sobre el río se columpia mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd59383a-4d95-438b-ac01-669ffee27d62"
+}

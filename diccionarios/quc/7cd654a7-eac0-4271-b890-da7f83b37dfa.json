@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nikinobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kanikinobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llamear; arder; encenderse",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz VI Nik",
+  "examples": [
+    {
+      "example_maya": "Xnikinobʼ li kotzʼiʼj xutzij li ixoq",
+      "example_spa": "La mujer encendió una candela",
+      "dialect": null
+    }
+  ],
+  "uuid": "7cd654a7-eac0-4271-b890-da7f83b37dfa"
+}

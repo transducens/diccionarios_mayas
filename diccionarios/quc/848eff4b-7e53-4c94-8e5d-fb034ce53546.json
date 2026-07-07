@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empujar; molestarse por incomodidad o al ser tocado",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinchʼuyuh Raiz VT Chʼuy",
+  "examples": [
+    {
+      "example_maya": "Li winaq pa li bʼinel chʼichʼ xaq kinkichʼuyuh",
+      "example_spa": "La incomodidad en la camioneta me molesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "848eff4b-7e53-4c94-8e5d-fb034ce53546"
+}

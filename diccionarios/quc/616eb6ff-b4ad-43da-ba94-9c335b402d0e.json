@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajkʼay kʼul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vendedor de chamarras",
+  "definitionDialect": "Español",
+  "additional_text": "sAgen",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay kʼul tʼuyul pa uxkut li kʼay\"bʼal",
+      "example_spa": "El vendedor de chamarras está sentado en la esquina del mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "616eb6ff-b4ad-43da-ba94-9c335b402d0e"
+}

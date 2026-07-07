@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yumchiʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyumchiʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mostrar una cosa con los labios; señalar con los labios",
+  "definitionDialect": "general",
+  "additional_text": "VT Raíz VT Yum",
+  "examples": [
+    {
+      "example_maya": "Li alah kuyumchiʼj apan li alih",
+      "example_spa": "El muchacho muestra a la muchacha con los labios",
+      "dialect": null
+    }
+  ],
+  "uuid": "6dead455-e0f4-454c-9af5-ac1d0c7db99f"
+}

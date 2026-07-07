@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ta",
+  "definition": "Partícula en frases negativas que completa su función por medio de otra partícula \"ma, man\"",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Ma xubʼän ta",
+      "example_spa": "No lo hizo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Man xubʼän ta ri kʼojlibʼäl",
+      "example_spa": "No alcanzó el recipiente",
+      "dialect": null
+    }
+  ],
+  "uuid": "48ab8d6d-aba9-4e01-8a4b-c72f0b5cee9b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

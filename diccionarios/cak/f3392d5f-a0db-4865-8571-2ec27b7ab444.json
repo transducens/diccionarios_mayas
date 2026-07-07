@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sachonik",
+  "definition": "Perder alguna cosa, gastar dinero",
+  "additional_text": "vt Sachoxik, (sachik), ninsäch vt Säch",
+  "examples": [
+    {
+      "example_maya": "Taq xinsäch ri nupayiʼaj (nupawiʼ) majun chïk xinwïl ta",
+      "example_spa": "Cuando perdí mi sombrero, ya no lo encontré",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pa nimaqʼij kʼïy mera xinsäch",
+      "example_spa": "En la fiesta gasté mucho dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "f3392d5f-a0db-4865-8571-2ec27b7ab444",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

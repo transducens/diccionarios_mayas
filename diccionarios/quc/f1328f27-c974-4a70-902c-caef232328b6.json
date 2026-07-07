@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rayixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrayij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desear, querer",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Ray",
+  "examples": [
+    {
+      "example_maya": "Kinrayij li mansaʼn ma sibʼalaj kiʼ",
+      "example_spa": "Quiero la manzana porque está dulce",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih kurayij uwach li rikil",
+      "example_spa": "El hombre desea la comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "f1328f27-c974-4a70-902c-caef232328b6"
+}

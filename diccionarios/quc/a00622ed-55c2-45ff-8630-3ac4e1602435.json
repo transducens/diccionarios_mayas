@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼajajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼajajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar dulcemente; sonar bien un canto de persona o animal",
+  "definitionDialect": "es",
+  "additional_text": "vI Raíz VT Qʼaj",
+  "examples": [
+    {
+      "example_maya": "Li alih kaqʼajajik are taq kabʼixanik",
+      "example_spa": "La muchacha canta muy dulce",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih sibʼalaj kaqʼajaj li ubʼix",
+      "example_spa": "La canción de la muchacha se escucha muy dulce",
+      "dialect": null
+    }
+  ],
+  "uuid": "a00622ed-55c2-45ff-8630-3ac4e1602435"
+}

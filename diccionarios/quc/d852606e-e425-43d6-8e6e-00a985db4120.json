@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jasanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajasanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ponerse ronco",
+  "definitionDialect": "",
+  "additional_text": "VI",
+  "examples": [
+    {
+      "example_maya": "Li uqul li ajbʼix xaq kajasan chik ma si jun aqʼabʼ xbʼixan pa li qʼojom",
+      "example_spa": "El cantante se puso ronco porque cantó una noche entera",
+      "dialect": null
+    }
+  ],
+  "uuid": "d852606e-e425-43d6-8e6e-00a985db4120"
+}

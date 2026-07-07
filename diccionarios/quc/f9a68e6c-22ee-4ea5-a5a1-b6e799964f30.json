@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼasuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼasuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despertar",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raiz VT Kʼas",
+  "examples": [
+    {
+      "example_maya": "Aqʼabʼ kinkʼasuj li akʼal chweʼq",
+      "example_spa": "Mañana temprano voy a despertar al niño",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9a68e6c-22ee-4ea5-a5a1-b6e799964f30"
+}

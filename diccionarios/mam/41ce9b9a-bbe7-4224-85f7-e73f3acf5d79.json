@@ -1,0 +1,18 @@
+{
+  "entryWord": "CHUCHUCHU",
+  "definition": "aviso para que paren las bestias",
+  "additional_text": "af chuchuchu:",
+  "examples": [
+    {
+      "example_maya": "Chuchuchu, chi xjal te tchej",
+      "example_spa": "Chuchuchu, le dice la persona a su bestia",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "41ce9b9a-bbe7-4224-85f7-e73f3acf5d79",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

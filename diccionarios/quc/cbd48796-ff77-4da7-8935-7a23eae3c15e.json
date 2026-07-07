@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzakbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzakbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Máquina para fabricar aguardiente Lugar donde se fabrica aguardiente",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz s Tzak",
+  "examples": [
+    {
+      "example_maya": "Tzakbʼal, kuchax ri kʼolbʼal ri katzak wi tzam, xuq ri kachokomsabʼex chech ri utzakik",
+      "example_spa": "Tzakbʼal, se le llama al objeto para fabricar guaro y también al lugar donde se fabrica",
+      "dialect": null
+    }
+  ],
+  "uuid": "cbd48796-ff77-4da7-8935-7a23eae3c15e"
+}

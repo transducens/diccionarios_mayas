@@ -1,0 +1,18 @@
+{
+  "entryWord": "GAAS",
+  "definition": "gas",
+  "additional_text": "s1 ngasa del español gas",
+  "examples": [
+    {
+      "example_maya": "Tjaqʼ txʼotxʼ njatz kanet gas kyuʼnqaj bʼincha te",
+      "example_spa": "Los que hacen el gas lo encuentran debajo de la tierra",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5390d90b-830c-44ba-a9f0-b1771cdca038",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

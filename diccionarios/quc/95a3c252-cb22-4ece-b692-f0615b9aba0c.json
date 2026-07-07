@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼiqitzʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande: carga",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz PT Tzʼiq",
+  "examples": [
+    {
+      "example_maya": "Li reqaʼn li achih, sibʼalaj jun tzʼiqitzʼik",
+      "example_spa": "La carga del hombre, es un gran bulto",
+      "dialect": null
+    }
+  ],
+  "uuid": "95a3c252-cb22-4ece-b692-f0615b9aba0c"
+}

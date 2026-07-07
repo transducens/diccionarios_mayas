@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzujlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtzujiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutzujbʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Salido: hueso; estar sin sombrero; jorobado; saltado: chichón; cabizbajo",
+  "definitionDialect": "",
+  "additional_text": "p Raíz PT Tzuj",
+  "examples": [
+    {
+      "example_maya": "Li achih xuqʼaj ribʼ nim xtzujiʼ li bʼaq chech",
+      "example_spa": "El hombre se fracturó y se le salió un hueso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xaq tzujlik maj upowiʼ",
+      "example_spa": "El hombre está sin sombrero",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba85d4e7-790f-4555-8623-a383200be8a1"
+}

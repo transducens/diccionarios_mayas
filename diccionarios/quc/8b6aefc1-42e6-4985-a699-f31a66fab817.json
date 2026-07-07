@@ -1,0 +1,19 @@
+{
+  "entryWord": "Peqʼepik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ancha: boca, tinaja",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Peqʼ",
+  "examples": [
+    {
+      "example_maya": "Li uchiʼ li qʼebʼal sibʼalaj peqʼepik",
+      "example_spa": "La abertura de la tinaja es muy ancha",
+      "dialect": null
+    }
+  ],
+  "uuid": "8b6aefc1-42e6-4985-a699-f31a66fab817"
+}

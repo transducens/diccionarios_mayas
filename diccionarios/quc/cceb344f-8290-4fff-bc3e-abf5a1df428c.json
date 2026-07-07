@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sotzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Murciélago",
+  "definitionDialect": "",
+  "additional_text": "snp Raíz S Sootzʼ DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li ajʼitz kukoj ribʼ chi sotzʼ chaqʼabʼ",
+      "example_spa": "El brujo se convierte en murciélago de noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sotzʼ kutij kikʼ, chaqʼabʼ karipipik",
+      "example_spa": "El murciélago chupa sangre, vuela en la noche",
+      "dialect": null
+    }
+  ],
+  "uuid": "cceb344f-8290-4fff-bc3e-abf5a1df428c"
+}

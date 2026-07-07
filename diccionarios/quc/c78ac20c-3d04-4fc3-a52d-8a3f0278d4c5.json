@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼolixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reparar con trementina; soldar",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinqʼoliij Raíz S Qʼool",
+  "examples": [
+    {
+      "example_maya": "Li alih tajin kuqʼolij li uqʼebʼal ma paxnaq",
+      "example_spa": "La muchacha está reparando la tinaja con trementina",
+      "dialect": null
+    }
+  ],
+  "uuid": "c78ac20c-3d04-4fc3-a52d-8a3f0278d4c5"
+}

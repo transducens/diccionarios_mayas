@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rokokexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrokokej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar todo",
+  "definitionDialect": "general",
+  "additional_text": "VTD Raiz VT Rok",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xurokokej li uliw cheh li rixkʼaq",
+      "example_spa": "El perro escarbó la tierra con las uñas",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba3d32f6-2925-4565-9160-a55b402a3f92"
+}

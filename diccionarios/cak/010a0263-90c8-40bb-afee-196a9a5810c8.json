@@ -1,0 +1,23 @@
+{
+  "entryWord": "Cholaj",
+  "definition": "Surco, fila",
+  "additional_text": "sinv Nucholaj Chöl",
+  "examples": [
+    {
+      "example_maya": "Kʼo woʼoʼ cholaj wis, (saqwach)",
+      "example_spa": "Tengo cinco surcos de papa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Cholaj nibʼïx chi re ri nojqäx chutikik jun tikoʼn",
+      "example_spa": "Surco se le dice a lo que sigue al sembrar alguna clase de cultivo",
+      "dialect": null
+    }
+  ],
+  "uuid": "010a0263-90c8-40bb-afee-196a9a5810c8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

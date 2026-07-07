@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼichilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fácil de desgranar; que se desgrana fácilmente",
+  "definitionDialect": "general",
+  "additional_text": "P Xbʼichiʼk, xubʼichilaʼ Raíz P Bʼich",
+  "examples": [
+    {
+      "example_maya": "Li jal sibʼalaj bʼichilik, ma sibʼalaj xchaqij chwa li qʼij",
+      "example_spa": "La mazorca se desgrana fácilmente porque se secó bajo el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "42ee2c21-20f5-49bf-abdb-bdded801948c"
+}

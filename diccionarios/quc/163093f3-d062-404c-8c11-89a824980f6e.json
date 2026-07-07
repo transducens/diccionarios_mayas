@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼijinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Adivinar; profetizar; hacer costumbre el sacerdote maya",
+  "definitionDialect": "",
+  "additional_text": "vi Kinqʼijinik Raíz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼij qʼijinik kubʼan chwi li juyubʼ",
+      "example_spa": "El sacerdote maya está haciendo costumbre en el cerro",
+      "dialect": null
+    }
+  ],
+  "uuid": "163093f3-d062-404c-8c11-89a824980f6e"
+}

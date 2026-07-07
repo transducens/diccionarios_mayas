@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nimaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnimaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Obedecer; acatar; respetar; aceptar; creer",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Nim",
+  "examples": [
+    {
+      "example_maya": "Kinnimaj li kʼulanem kabʼix chwech",
+      "example_spa": "Acepto el casamiento que me propusieron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinnimaj li qʼatbʼal tzij jas kataqan wih",
+      "example_spa": "Obedezco el mandato de las autoridades",
+      "dialect": null
+    }
+  ],
+  "uuid": "71c2fd00-b7e4-4f8b-a118-d1b4683d50bb"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzakʼatzobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzakʼatzobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despeltrarse; Hacer ruido, somatar botellas o cosas de vidrio y peltre",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Tzakʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq kupaqʼij ribʼ taq li lameʼt katzakʼatzobʼik",
+      "example_spa": "Cuando las botellas se somatan hacen ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b878922-74bf-44b8-833a-f37daa2cd0ef"
+}

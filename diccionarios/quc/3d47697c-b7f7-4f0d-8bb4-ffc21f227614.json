@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maxan",
+  "entryWordDialect": null,
+  "altEntryWord": "Numaxan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maxan (hoja de sal)",
+  "definitionDialect": "",
+  "additional_text": "SCV DomS Tzʼaaliik Del Cast Maxan",
+  "examples": [
+    {
+      "example_maya": "Li maxan kapisbʼex akitamal",
+      "example_spa": "El maxan se usa para envolver tamales",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d47697c-b7f7-4f0d-8bb4-ffc21f227614"
+}

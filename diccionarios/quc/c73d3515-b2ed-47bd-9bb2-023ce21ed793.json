@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chetexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchetej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar un manojo de paja, hierbas o candelas",
+  "definitionDialect": "General",
+  "additional_text": "vtd Fbas //Chehte// Raiz VT Chet",
+  "examples": [
+    {
+      "example_maya": "Kinchetej bʼi li kʼim pa nuqʼabʼ",
+      "example_spa": "Llevo la paja en la mano",
+      "dialect": null
+    }
+  ],
+  "uuid": "c73d3515-b2ed-47bd-9bb2-023ce21ed793"
+}

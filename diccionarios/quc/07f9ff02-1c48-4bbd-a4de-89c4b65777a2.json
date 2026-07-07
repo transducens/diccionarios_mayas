@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼuslik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salido: abceso, hueso, tumor, etc; saltado: abceso, hueso, tumor, etc; encorvada: espalda; sentarse",
+  "definitionDialect": "",
+  "additional_text": "p Xqʼusiʼk xuqʼusbʼaʼ Raíz P Qʼus",
+  "examples": [
+    {
+      "example_maya": "Li nima achih qʼus li rij kabʼinik",
+      "example_spa": "El anciano camina con la espalda encorvada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinqʼusiʼ na chi riʼ",
+      "example_spa": "Voy a sentarme un rato aquí",
+      "dialect": null
+    }
+  ],
+  "uuid": "07f9ff02-1c48-4bbd-a4de-89c4b65777a2"
+}

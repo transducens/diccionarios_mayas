@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pitzʼink",
+  "definition": "Exprimir una cosa varias veces, destripar una cosa varias veces, apretar una cosa varias veces",
+  "additional_text": "VTD Xinpitzʼi",
+  "examples": [
+    {
+      "example_maya": "Xinpitzʼi li mul saʼ li tonel",
+      "example_spa": "Destripé la basura en el tonel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pitzʼink kenqʼ saʼ jun koxtal",
+      "example_spa": "Apretar frijoles en un costal varias veces",
+      "dialect": null
+    }
+  ],
+  "uuid": "f809199f-9044-48ca-aabf-9715c865ba6c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

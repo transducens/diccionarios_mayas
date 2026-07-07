@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jakalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xjakiʼk, xujakabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abiertas: las piernas",
+  "definitionDialect": "General",
+  "additional_text": "P",
+  "examples": [
+    {
+      "example_maya": "Li jun alah xaq jakalik",
+      "example_spa": "El muchacho está sentado con las piernas abiertas",
+      "dialect": null
+    }
+  ],
+  "uuid": "679408d7-776e-4db3-abb9-7c1e7b7f62c9"
+}

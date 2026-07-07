@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeyeyʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tardarse mucho en dar o hacer algo",
+  "definitionDialect": "general",
+  "additional_text": "vi Kinbʼeyeyʼlabʼik Raíz VT Bʼey",
+  "examples": [
+    {
+      "example_maya": "Li achih xbʼeyeylabʼ chubʼanik li chak",
+      "example_spa": "El hombre se tardó mucho en hacer su trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "26c6191d-c730-47bd-b26c-ec4f2ff8017b"
+}

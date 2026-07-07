@@ -1,0 +1,23 @@
+{
+  "entryWord": "JUTZL",
+  "definition": "solitario en la obscuridad, quieto, callado",
+  "additional_text": "p ma kubʼ jutzeʼ, ma kubʼ tjutzbʼaʼn raíz jutz p",
+  "examples": [
+    {
+      "example_maya": "Jutzl nimal eleqʼ tuj qlolj",
+      "example_spa": "El ladrón está quieto en la obscuridad",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Noq jutzl xjal txe tja",
+      "example_spa": "Está calladita la persona en su casa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "9f1a92e1-ee00-45f9-91cc-b76b776bafac",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

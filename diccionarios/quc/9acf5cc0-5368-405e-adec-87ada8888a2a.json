@@ -1,0 +1,19 @@
+{
+  "entryWord": "Am",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Araña",
+  "definitionDialect": "",
+  "additional_text": "saP sCL Ukeem am Telaraña DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li am xtijow rumal li amaʼ akʼ",
+      "example_spa": "La araña fue comida por el gallo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9acf5cc0-5368-405e-adec-87ada8888a2a"
+}

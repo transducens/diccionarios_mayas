@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yumik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyumuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonreír",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz vt Yum",
+  "examples": [
+    {
+      "example_maya": "Li alih xaq kuyum uchiʼ chikech alabʼom",
+      "example_spa": "La patoja siempre se sonríe con los jóvenes",
+      "dialect": null
+    }
+  ],
+  "uuid": "b4deba63-6010-44a7-a5e0-b44c4708b5b0"
+}

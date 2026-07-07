@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kusul",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukusul",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuna",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li uneʼ li ixoq pa li kusul kawar wih",
+      "example_spa": "El nene se duerme en la cuna",
+      "dialect": null
+    }
+  ],
+  "uuid": "0fbe0a44-1626-4895-a871-336f58b78363"
+}

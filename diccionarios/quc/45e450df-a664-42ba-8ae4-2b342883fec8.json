@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wajxaqlajuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dieciocho",
+  "definitionDialect": "",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Xeʼlaqʼax wajxaqlajuj wakax pa li potreʼr kumal elaqʼomabʼ",
+      "example_spa": "Se robaron dieciocho vacas del potrero",
+      "dialect": null
+    }
+  ],
+  "uuid": "45e450df-a664-42ba-8ae4-2b342883fec8"
+}

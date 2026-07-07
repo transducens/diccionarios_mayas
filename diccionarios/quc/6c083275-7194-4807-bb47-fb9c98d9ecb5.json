@@ -1,0 +1,19 @@
+{
+  "entryWord": "Poqʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abundar; multiplicarse; reproducirse",
+  "definitionDialect": "",
+  "additional_text": "vi Kapooqʼik",
+  "examples": [
+    {
+      "example_maya": "Ri Atan sibʼalaj xpoqʼ kiwach ri ralkʼuʼal",
+      "example_spa": "Los hijos de Adán se multiplicaron mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c083275-7194-4807-bb47-fb9c98d9ecb5"
+}

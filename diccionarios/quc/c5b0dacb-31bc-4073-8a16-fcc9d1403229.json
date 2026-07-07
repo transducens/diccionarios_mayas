@@ -1,0 +1,19 @@
+{
+  "entryWord": "Piʼch",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupiʼch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pie (palabra propia de nenes)",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xusok li upiʼch che jun muruh",
+      "example_spa": "El niño se lastimó el pie con un machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "c5b0dacb-31bc-4073-8a16-fcc9d1403229"
+}

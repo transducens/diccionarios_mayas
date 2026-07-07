@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaʼl aqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tiempo de las diez de la noche hasta media noche",
+  "definitionDialect": "General",
+  "additional_text": "ps Raiz P Qʼaʼ Raiz S Aqʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Tun qʼaʼl aqʼabʼ xopan chwa jah",
+      "example_spa": "Antonio llegó de diez a once de la noche a la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b575353-543d-4859-9909-d9f217341b4d"
+}

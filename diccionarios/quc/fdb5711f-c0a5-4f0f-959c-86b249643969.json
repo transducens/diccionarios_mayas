@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼatuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Visitar; inspeccionar; ver",
+  "definitionDialect": "",
+  "additional_text": "vTD Kinqʼatuuj Raíz VT Qʼat",
+  "examples": [
+    {
+      "example_maya": "Li qʼatune xbʼe chikiqʼatuxik li ajchakibʼ",
+      "example_spa": "El encargado se fue a ver a los trabajadores",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kunanel qʼatuxik kubʼan chikeh li yawabʼibʼ pa li pixpital",
+      "example_spa": "El doctor visita a los enfermos en el hospital",
+      "dialect": null
+    }
+  ],
+  "uuid": "fdb5711f-c0a5-4f0f-959c-86b249643969"
+}

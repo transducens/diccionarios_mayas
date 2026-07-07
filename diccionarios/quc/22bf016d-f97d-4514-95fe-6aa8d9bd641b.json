@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raroj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ralo y desabrido (bebida); desabrido y ralo (bebida)",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz Adj Rah",
+  "examples": [
+    {
+      "example_maya": "Li kapeh we maj uchoqʼabʼ kabʼ rukʼ, xaq raroj",
+      "example_spa": "Si el café no tiene mucho dulce, está desabrido",
+      "dialect": null
+    }
+  ],
+  "uuid": "22bf016d-f97d-4514-95fe-6aa8d9bd641b"
+}

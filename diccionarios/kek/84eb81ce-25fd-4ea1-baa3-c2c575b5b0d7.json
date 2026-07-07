@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tojaq",
+  "definition": "Entonces, desde, en aquel tiempo, hace rato",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Tojaq xtiklajik chaq li chʼiichʼ chi bʼeek",
+      "example_spa": "Desde que entró en circulación la camioneta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tojaq xtiklajik li ruuchichʼochʼ",
+      "example_spa": "Desde el principio del mundo",
+      "dialect": null
+    }
+  ],
+  "uuid": "84eb81ce-25fd-4ea1-baa3-c2c575b5b0d7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

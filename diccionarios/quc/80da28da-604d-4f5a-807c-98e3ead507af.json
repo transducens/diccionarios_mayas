@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼawachixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼawachij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aprovechar bien; gozar; disfrutar; recibir, como suerte",
+  "definitionDialect": "",
+  "additional_text": "vtd Raiz VT Qʼaaw",
+  "examples": [
+    {
+      "example_maya": "Li nurajil kinchʼakoh are kwaj kinqʼawachij",
+      "example_spa": "Quiero aprovechar el dinero que estoy recibiendo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinqʼawachij li nurajil, ma chwi kʼax xinchʼakoh",
+      "example_spa": "Voy a aprovechar el dinero porque me costó mucho ganarlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winaq utz uqʼawachixik li nimaqʼij kakibʼanoh",
+      "example_spa": "La gente goza bien la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "80da28da-604d-4f5a-807c-98e3ead507af"
+}

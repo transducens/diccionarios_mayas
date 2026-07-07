@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wuqubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Siete",
+  "definitionDialect": "General",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li jah xwokik, wuqubʼ upam",
+      "example_spa": "La casa que construyeron, es de siete cuartos",
+      "dialect": null
+    }
+  ],
+  "uuid": "75a48c48-dd4d-4ff9-b7cc-e45462e359e2"
+}

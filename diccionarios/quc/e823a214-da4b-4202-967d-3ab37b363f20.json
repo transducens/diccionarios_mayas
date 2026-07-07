@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tunulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Tunul rixoqil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrimerado (puesto uno encima de otro); perchado, jateado; puesto uno al lado de otro, o uno sobre otro Mujeriego",
+  "definitionDialect": "Xtuni'k, xutunub'a'.",
+  "additional_text": "p F Raíz PT Tun",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xutunubʼa li lij pa tijowik",
+      "example_spa": "El niño arrimeró las tortillas para comerselas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tunul uwach li kʼaʼam",
+      "example_spa": "Las pitas están juntas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih tunul li ukamiʼx chuqul",
+      "example_spa": "El hombre se ha puesto dos camisas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e823a214-da4b-4202-967d-3ab37b363f20"
+}

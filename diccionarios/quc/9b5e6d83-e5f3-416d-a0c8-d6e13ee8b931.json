@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limpiar; quitar monte; chapear; asear; poner en orden cosas regadas",
+  "definitionDialect": "General",
+  "additional_text": "VTD Kinpakuuj VT Pak",
+  "examples": [
+    {
+      "example_maya": "Kinpakuj li uwa li jah arech chi ma kʼo ta yabʼil",
+      "example_spa": "Voy a limpiar el patio de la casa para que no haya enfermedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b5e6d83-e5f3-416d-a0c8-d6e13ee8b931"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kajkaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "De cuatro en cuatro",
+  "definitionDialect": "",
+  "additional_text": "NumDist NumDist Chkajkajiil De cuatro en cuatro NumDist Chkajkaj Cuatro por cuatro",
+  "examples": [
+    {
+      "example_maya": "Kajkaj li pajbʼal che li ixim",
+      "example_spa": "La medida de maíz cuesta cuatro centavos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tijoxelabʼ pa kajkaj kibʼanom kebʼinik",
+      "example_spa": "Los alumnos caminan de cuatro en cuatro",
+      "dialect": null
+    }
+  ],
+  "uuid": "7c3fab21-b33a-408c-a528-4659566caf43"
+}

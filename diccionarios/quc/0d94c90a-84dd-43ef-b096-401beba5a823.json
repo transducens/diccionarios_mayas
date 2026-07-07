@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼuslajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ventosearse",
+  "definitionDialect": "",
+  "additional_text": "vi Katʼuslajik",
+  "examples": [
+    {
+      "example_maya": "Li a laj a Kux xaq kʼatʼuslajik ma xa kʼax upam",
+      "example_spa": "Marcos se está ventoseando porque está mal del estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d94c90a-84dd-43ef-b096-401beba5a823"
+}

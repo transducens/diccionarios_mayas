@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tola powiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sombrero antiguo, endurecido con cera de abeja",
+  "definitionDialect": "",
+  "additional_text": "SCL",
+  "examples": [
+    {
+      "example_maya": "Waʼ we tola powiʼ are laʼ kikikoj winaq ojer tzij",
+      "example_spa": "Esta clase de sombrero era la que usaba la gente antigua",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7ddd681-6ca4-4cee-aa36-0f75f3d3273a"
+}

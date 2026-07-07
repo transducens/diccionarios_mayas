@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rayibʼal uwach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deseable; me parece",
+  "definitionDialect": "",
+  "additional_text": "scL Raíz VT Ray Raíz S Wach",
+  "examples": [
+    {
+      "example_maya": "Li alih chʼajchʼoj sibʼalaj rayibʼal uwach",
+      "example_spa": "La muchacha bonita es muy deseable",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rayibʼal uwach li kamiʼx",
+      "example_spa": "La camisa me parece bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "bded8e4b-b4d3-4336-b3a7-db052e9bf52c"
+}

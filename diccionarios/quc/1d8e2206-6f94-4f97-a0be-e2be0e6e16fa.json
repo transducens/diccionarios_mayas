@@ -1,0 +1,24 @@
+{
+  "entryWord": "Choqoqexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchoqoqej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonar semillas, granos, o polvos; rociar polvos o granos",
+  "definitionDialect": "General",
+  "additional_text": "vt Sinón Waqalik Sinón Chaqalik Sinón Tʼebʼelik Raíz P Choq",
+  "examples": [
+    {
+      "example_maya": "Li achih xuchoqogej sibʼalaj trikoh pwi li qʼeʼt",
+      "example_spa": "El hombre amontonó mucho trigo encima de los tablones",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xuchoqoqej sibʼalaj atzʼam chrij li imuʼt",
+      "example_spa": "La mujer le echó mucha sal a la hierbamora",
+      "dialect": null
+    }
+  ],
+  "uuid": "1d8e2206-6f94-4f97-a0be-e2be0e6e16fa"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lotz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de trébol que crece entre la milpa; chicha fuerte",
+  "definitionDialect": "General",
+  "additional_text": "snp DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li raqan li lotz koʼkoj upam",
+      "example_spa": "El tallo del trébol es muy delgado",
+      "dialect": null
+    }
+  ],
+  "uuid": "31d24146-faad-42eb-a52c-9c7af2b453b6"
+}

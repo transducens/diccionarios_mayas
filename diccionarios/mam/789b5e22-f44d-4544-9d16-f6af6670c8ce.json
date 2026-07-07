@@ -1,0 +1,23 @@
+{
+  "entryWord": "XQʼOL IIMJ",
+  "definition": "1 gusano que vive en la tierra, ataca a la cebolla y el chile; 2 planta de tallo rojizo y flores blancas Es medicinal",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Maʼ naj wicha tuʼn naq xqʼol imj",
+      "example_spa": "Ya se arruinó mi almácigo de chile por el \"xqʼol imj\"",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Bʼaʼn xqʼol imj",
+      "example_spa": "Es medicinal",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "789b5e22-f44d-4544-9d16-f6af6670c8ce",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

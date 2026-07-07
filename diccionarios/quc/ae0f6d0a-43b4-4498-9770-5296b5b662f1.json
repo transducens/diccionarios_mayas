@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar hojas o ramas pequeñas",
+  "definitionDialect": "",
+  "additional_text": "vTR Kintʼuluh",
+  "examples": [
+    {
+      "example_maya": "Li a Tʼuluʼl xutʼul uqʼabʼ li cheʼ",
+      "example_spa": "Tulul cortó las ramas del árbol",
+      "dialect": null
+    }
+  ],
+  "uuid": "ae0f6d0a-43b4-4498-9770-5296b5b662f1"
+}

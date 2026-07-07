@@ -1,0 +1,33 @@
+{
+  "entryWord": "Uchuqʼaʼ",
+  "definition": "Fuerza, poder energía",
+  "additional_text": "sInv Wuchuqʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Jun winäq yalan ruchuqʼaʼ, majun al ta nunaʼ jun mamaʼ ejqaʼn siʼ",
+      "example_spa": "Una persona que tiene mucha fuerza, no siente el pesor de un buen tercio de leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wakx yalan kuchuqʼaʼ",
+      "example_spa": "Los bueyes tienen mucha fuerza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq jun nisamäj, yalan nutzäq ruchuqʼaʼ",
+      "example_spa": "Cuando uno trabaja, utiliza mucha fuerza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ruchuqʼabʼon samaj",
+      "example_spa": "Trabajo difícil",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe11d7bc-f13c-4901-bfae-80ecd1dc0f8b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

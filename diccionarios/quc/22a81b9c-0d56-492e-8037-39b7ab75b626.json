@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqaxaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaqaxaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tierra colorada; talpetate",
+  "definitionDialect": "General",
+  "additional_text": "scl Raíz Adj Kaq Raíz S Xaq DomS Uleew",
+  "examples": [
+    {
+      "example_maya": "Li kaqaxaq kabʼan xot chech",
+      "example_spa": "De la tierra colorada se fabrican tejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "22a81b9c-0d56-492e-8037-39b7ab75b626"
+}

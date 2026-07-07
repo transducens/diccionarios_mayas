@@ -1,0 +1,18 @@
+{
+  "entryWord": "MAARK",
+  "definition": "marco para pesar por libra",
+  "additional_text": "s1 nmarka del español marco ds malbʼil",
+  "examples": [
+    {
+      "example_maya": "Aj mark jun libra talal",
+      "example_spa": "El marco pesa una libra",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8a6448eb-1b84-4d45-b37b-12dd90449185",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

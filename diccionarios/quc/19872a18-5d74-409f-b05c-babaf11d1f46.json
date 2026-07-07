@@ -1,0 +1,19 @@
+{
+  "entryWord": "Najtir",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hace tiempo",
+  "definitionDialect": "",
+  "additional_text": "Adv Var Ojeer",
+  "examples": [
+    {
+      "example_maya": "Li nim qʼatal tzij najtir kʼol\"naq waraʼ pa we tinamit",
+      "example_spa": "Hace tiempo que el presidente visitó este pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "19872a18-5d74-409f-b05c-babaf11d1f46"
+}

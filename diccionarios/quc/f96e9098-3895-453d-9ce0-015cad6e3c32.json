@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kus",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guardia de hacienda",
+  "definitionDialect": "",
+  "additional_text": "SnP",
+  "examples": [
+    {
+      "example_maya": "Li kus xoʼk pa jah chwi chʼaʼoj",
+      "example_spa": "La guardia de hacienda allanó una casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f96e9098-3895-453d-9ce0-015cad6e3c32"
+}

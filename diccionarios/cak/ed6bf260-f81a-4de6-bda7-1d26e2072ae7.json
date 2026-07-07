@@ -1,0 +1,23 @@
+{
+  "entryWord": "Moʼk",
+  "definition": "Ranchito, covacha, casita que se hace de zacate o lona, provisionalmente",
+  "additional_text": "sInv Numoʼk var Kaʼaj, jay, jay",
+  "examples": [
+    {
+      "example_maya": "Moʼk ja ri ri nubʼän jun winäq pa juyuʼ, taq nibʼe jun kaʼiʼ qʼij pa waran",
+      "example_spa": "Ranchito es lo que hace una persona en el monte, cuando se va a ir unos días a dormir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri achiʼaʼ täq nkichajij jäl, nkibʼän kimoʼk pa raqän täq awän",
+      "example_spa": "Los hombres cuando cuidan el maíz, hacen sus covachas entre las cañas de la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed6bf260-f81a-4de6-bda7-1d26e2072ae7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

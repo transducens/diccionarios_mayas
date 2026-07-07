@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼitol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Creador",
+  "definitionDialect": "",
+  "additional_text": "sp",
+  "examples": [
+    {
+      "example_maya": "Are ri bʼitol xtikow we amaqʼ Kʼicheʼ",
+      "example_spa": "Dios es el creador de esta nación Quiché",
+      "dialect": null
+    }
+  ],
+  "uuid": "0cedd31c-340b-4642-abb3-84d86b9f54ec"
+}

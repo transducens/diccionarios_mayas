@@ -1,0 +1,28 @@
+{
+  "entryWord": "Pata",
+  "definition": "Guayaba",
+  "additional_text": "SInv Inpata",
+  "examples": [
+    {
+      "example_maya": "Xrahoʼ insaʼ, xbʼaan naq naabʼal li pata xinlow",
+      "example_spa": "Me dolió el estómago, por comer mucha guayaba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kaqi pata",
+      "example_spa": "Guayaba roja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saqi pata",
+      "example_spa": "Guayaba blanca",
+      "dialect": null
+    }
+  ],
+  "uuid": "adb7131f-d9b1-494e-b28b-ef0164db6616",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

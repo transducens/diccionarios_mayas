@@ -1,0 +1,19 @@
+{
+  "entryWord": "Terebʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Recomendar a una persona que vaya atrás de otra; recomendar cualquier objeto para ser llevado",
+  "definitionDialect": "",
+  "additional_text": "vt Kinterebʼaʼ Raiz PT Ter",
+  "examples": [
+    {
+      "example_maya": "Li achih xuterebʼa bʼi li ukʼajol chwij",
+      "example_spa": "El hombre me recomendó a su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f52e93b9-f547-4538-b977-dd15be9071c8"
+}

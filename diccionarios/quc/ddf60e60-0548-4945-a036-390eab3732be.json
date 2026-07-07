@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼatzʼkatixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enrollar lazos, hojas y otras cosas delgadas, envolver comida en hojas, amarrar puerta",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinbʼatzʼkatiij Raíz VT Bʼatzʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xubʼatzʼkatij li kolobʼ pa rukʼaʼ li wakax",
+      "example_spa": "El hombre enrolló el lazo en los cachos del ganado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xubʼatzʼkatij li uchi ja pa kʼaʼam",
+      "example_spa": "El niño amarró bien la puerta con una pita",
+      "dialect": null
+    }
+  ],
+  "uuid": "ddf60e60-0548-4945-a036-390eab3732be"
+}

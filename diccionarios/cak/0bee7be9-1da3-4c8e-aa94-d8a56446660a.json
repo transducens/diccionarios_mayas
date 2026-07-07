@@ -1,0 +1,28 @@
+{
+  "entryWord": "Jül",
+  "definition": "Cueva, hoyo, sepultura",
+  "additional_text": "ssp Rujul Rujulil Agujero de cualquier cosa Ulew",
+  "examples": [
+    {
+      "example_maya": "Yin kʼo kaʼiʼ jül richin waqʼaʼl",
+      "example_spa": "Yo tengo dos hoyos para hacer carbón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼiläj rujulil bʼay kʼo pa wulew",
+      "example_spa": "En mi terreno hay mucha cueva de taltuza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun jül nuqʼayis",
+      "example_spa": "Tengo un hoyo de estiércol",
+      "dialect": null
+    }
+  ],
+  "uuid": "0bee7be9-1da3-4c8e-aa94-d8a56446660a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

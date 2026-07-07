@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ajʼikʼ",
+  "definition": "Sirvienta, criada, cocinera",
+  "additional_text": "sInv Wajʼikʼ Ajʼikʼaʼ Sirvientas, criadas Winäq",
+  "examples": [
+    {
+      "example_maya": "Ri ajʼikʼ chi ikʼ nisamäj wi",
+      "example_spa": "La sirvienta trabaja por mes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wajʼikʼ yalan nisamäj",
+      "example_spa": "Mi sirvienta trabaja bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "45fabbfe-49cd-45f0-9b8e-3c830251f967",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

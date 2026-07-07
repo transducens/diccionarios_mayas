@@ -1,0 +1,19 @@
+{
+  "entryWord": "Toqʼoqʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentir picazón de espinas; puyar el cuerpo espinas",
+  "definitionDialect": "General",
+  "additional_text": "vI Katoqʼoqʼik",
+  "examples": [
+    {
+      "example_maya": "Katoqʼoqʼ li kʼix pa waqan are taq kinbʼinik",
+      "example_spa": "Tengo una espina en el pie que me causa",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf86de41-2a7d-438b-9018-8408216a8e88"
+}

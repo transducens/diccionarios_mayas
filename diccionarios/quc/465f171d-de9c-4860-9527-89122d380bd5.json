@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pichkʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpichkʼuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apalancar; levantar con punta de palo",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz P Pich",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xupichkʼuj li jun chkop che jun cheʼ",
+      "example_spa": "El niño levantó al animalito con la punta de un palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "465f171d-de9c-4860-9527-89122d380bd5"
+}

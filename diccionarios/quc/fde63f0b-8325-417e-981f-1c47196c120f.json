@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ruido al echar agua en cosas calientes; agua para tamales o frijol",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Tzaj",
+  "examples": [
+    {
+      "example_maya": "Li kinaqʼ xtzaj li jutzaj uwaʼal pa li tʼuʼy",
+      "example_spa": "El agua que le echaron a la olla de frijoles por primera vez, se secó",
+      "dialect": null
+    }
+  ],
+  "uuid": "fde63f0b-8325-417e-981f-1c47196c120f"
+}

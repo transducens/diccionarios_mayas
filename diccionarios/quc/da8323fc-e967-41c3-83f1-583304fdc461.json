@@ -1,0 +1,19 @@
+{
+  "entryWord": "Worowotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agujerear",
+  "definitionDialect": "",
+  "additional_text": "vi Kaworowotik Raiz VT Wor",
+  "examples": [
+    {
+      "example_maya": "Li tzokʼoluwacheʼ tajin kaworowot chwa li cheʼ",
+      "example_spa": "El pájaro carpintero está agujereando el árbol",
+      "dialect": null
+    }
+  ],
+  "uuid": "da8323fc-e967-41c3-83f1-583304fdc461"
+}

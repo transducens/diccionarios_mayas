@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yatexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosa en manojo; abrazar en la cintura con los dos brazos",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinyaateej Sinón Kincheeteej Raíz VT Yat",
+  "examples": [
+    {
+      "example_maya": "Xa kinyatej bʼi li wichaj pa nuqʼabʼ ma xa maj nukʼolʼbʼal",
+      "example_spa": "Voy a llevar mis verduras en la mano porque no tengo donde ponerlas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah, uyatem li alih pa upas",
+      "example_spa": "El muchacho tiene abrazada a la muchacha de la cintura",
+      "dialect": null
+    }
+  ],
+  "uuid": "c61f960e-8ff7-4eef-8b92-5ce7d767651a"
+}

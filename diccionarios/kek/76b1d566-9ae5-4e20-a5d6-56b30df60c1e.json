@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzololnak",
+  "definition": "Caminar en fila, poner en fila",
+  "additional_text": "VIS Natzololnak",
+  "examples": [
+    {
+      "example_maya": "Ebʼ li moos natzololnak li hal naq xeʼxkʼe",
+      "example_spa": "Los mozos colocaron en fila las mazorcas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzolom nakeʼ-tzololnak chi xik",
+      "example_spa": "Los alumnos van en fila",
+      "dialect": null
+    }
+  ],
+  "uuid": "76b1d566-9ae5-4e20-a5d6-56b30df60c1e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

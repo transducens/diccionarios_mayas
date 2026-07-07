@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer hierbas una bestia",
+  "definitionDialect": "",
+  "additional_text": "VTR Kumatoh Raíz VT Mat",
+  "examples": [
+    {
+      "example_maya": "Li masat, tajin kumat li uxaq pley pa li abʼix",
+      "example_spa": "El venado se está comiendo las hojas del piloy, en la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "4da6bf5b-ad35-40ae-bc0f-43f4db2e035e"
+}

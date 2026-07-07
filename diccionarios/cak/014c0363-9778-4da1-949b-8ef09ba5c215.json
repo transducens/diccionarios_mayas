@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼök",
+  "definition": "Zanate",
+  "additional_text": "sInv Nuchʼök Ajtun chʼok",
+  "examples": [
+    {
+      "example_maya": "Ri chʼök jun xikʼalik (ajxikʼ) chikop qʼeq rij, nutij ruwäch jaws, arwenx, taq kʼa alaj na",
+      "example_spa": "El zanate es un ave de color negro que come habas y arvejas cuando están tiernas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Konojel ri chʼök qʼäq kij",
+      "example_spa": "Todos los zanates son de color negro",
+      "dialect": null
+    }
+  ],
+  "uuid": "014c0363-9778-4da1-949b-8ef09ba5c215",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Staʼqil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poco a poco",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Li achih xa chi staʼqil xukʼayij li ixim",
+      "example_spa": "El hombre vendió poco a poco el maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "45faf7ee-dc77-41ea-9a88-39dc12c84502"
+}

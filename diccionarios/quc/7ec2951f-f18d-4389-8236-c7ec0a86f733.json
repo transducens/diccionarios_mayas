@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qarachʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqarachʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Quruchʼixik",
+  "altEntryWordDialect2": null,
+  "definition": "Morder quitando un pedazo; quitar pedazo mordiendo; cortar pedazo con tijeras",
+  "definitionDialect": "",
+  "additional_text": "vt var Raíz VT Qar",
+  "examples": [
+    {
+      "example_maya": "Li ixoq are taq xechʼoʼjinik xuqarachʼij li rachajil chrij uqʼabʼ",
+      "example_spa": "La mujer estaba peleando con su marido y le dio un mordisco en la mano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ xuqarachʼij upa raʼ li ixoq",
+      "example_spa": "El perro le quitó un pedazo de pierna a la mujer al morderla",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ec2951f-f18d-4389-8236-c7ec0a86f733"
+}

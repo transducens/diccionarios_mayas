@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jinijotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hablar en secreto; susurrar",
+  "definitionDialect": "",
+  "additional_text": "vi Kajinijotik Raíz VI Jin",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kajinijot rukʼ li rachaʼjil",
+      "example_spa": "La mujer está hablándole en secreto a su esposo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1dec75a8-bc9b-4d34-8618-c939f5825791"
+}

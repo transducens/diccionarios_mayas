@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼabʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Echar la culpa a otro",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinqʼaabʼaaj Raíz VT Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xsokotajik xuqʼabʼaj chrij li a Luʼ",
+      "example_spa": "El hombre que fue herido, le echó la culpa a Pedro",
+      "dialect": null
+    }
+  ],
+  "uuid": "83543953-0004-4f28-bd5d-56a95a1ee324"
+}

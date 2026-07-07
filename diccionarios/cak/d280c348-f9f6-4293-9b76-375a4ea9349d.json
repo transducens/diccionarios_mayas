@@ -1,0 +1,33 @@
+{
+  "entryWord": "Nojinïk naʼojinïk",
+  "definition": "Pensar",
+  "additional_text": "vtd Nojixik, ninnojij Bʼanoj",
+  "examples": [
+    {
+      "example_maya": "Wakamin ninnojij ninbʼän jun wachoch",
+      "example_spa": "Ahora pienso hacer mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo winäq ronojel ri chke nikinojij (ruyon) jaʼ yeʼël chi kiwäch",
+      "example_spa": "Hay personas que todo lo que piensan, siempre les sale correcto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq yalan ninnojij chke na jun, nipe nuwaran",
+      "example_spa": "Cuando pienso mucho en algo me da sueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Noji nojin tzij nojiy tzij",
+      "example_spa": "Mentira, mentiroso",
+      "dialect": null
+    }
+  ],
+  "uuid": "d280c348-f9f6-4293-9b76-375a4ea9349d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

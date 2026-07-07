@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wotzok",
+  "definition": "Compartir, dividir algo entre varios, ayudar en trabajo",
+  "additional_text": "VTR Xinwotz (xqawotz)",
+  "examples": [
+    {
+      "example_maya": "Xqawotz qatzekeem wochbʼeen li yaj",
+      "example_spa": "Compartimos la comida con el enfermo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xqawotz xtojbʼal li kʼas saʼ oxibʼal",
+      "example_spa": "Entre los tres pagamos la deuda",
+      "dialect": null
+    }
+  ],
+  "uuid": "dfdacd11-b1ca-40df-b187-cceba7d51047",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar carne, trigo, masa o cuero en pedacitos; dividir en pedacitos; evitar; no permitir; dejar (no seguir); suspender; parar (pleito, sangre de herida)",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinqʼatoh",
+  "examples": [
+    {
+      "example_maya": "Li nutriko kʼa poxibʼ qʼij kinqʼatoh",
+      "example_spa": "Hasta entre",
+      "dialect": null
+    }
+  ],
+  "uuid": "b44c9ddb-9fe7-470c-8e32-b3a5df33eabd"
+}

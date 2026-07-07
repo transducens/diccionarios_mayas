@@ -1,0 +1,23 @@
+{
+  "entryWord": "TZʼEʼY",
+  "definition": "quemarse",
+  "additional_text": "vi tzʼeʼyna, ma tzʼeʼya raíz tzʼeʼy vi",
+  "examples": [
+    {
+      "example_maya": "Ma tzʼeʼy Las tuʼn qʼaqʼ toklen tleʼman tqʼabʼ",
+      "example_spa": "Francisco se quemó en el fuego, por calentarse sus manos",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "O oqʼ Chep ttzʼeʼy tqʼabʼ tuʼn txan sichʼ",
+      "example_spa": "José lloró amargamente cuando se quemó con la chenca del cigarro",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "68b5260a-08b4-4f97-8e49-136b3133d4fa",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

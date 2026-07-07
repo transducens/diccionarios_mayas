@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wechʼweʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Macheteado; picado (terreno, madera, chilacayotes o ayotes)",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz VT Wechʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih, are taq xupus li saqwach pwi li wankeʼt xubʼan kan wechʼweʼy",
+      "example_spa": "Cuando la muchacha partió las papas sobre la mesa, ésta quedó picada",
+      "dialect": null
+    }
+  ],
+  "uuid": "30fd5045-d6aa-422f-906f-a343157a5806"
+}

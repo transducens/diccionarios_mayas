@@ -1,0 +1,28 @@
+{
+  "entryWord": "Po",
+  "definition": "Luna, mes, sueldo mensual, pepita de güisquil",
+  "additional_text": "SInv Inpo Xyoʼlajik li po (alpo) (xbʼeen kʼiik) Primer día después de luna nueva Xkabʼ kʼiik (xkabʼ qʼojyin) De dos a tres días después de la luna nueva Rox kʼiik (rox qʼojyin) De 4 a 5 días después de la luna nueva Xkaa kʼiik (xka qʼojyin) Cuarto creciente por dos días Roʼ kʼiik (roʼ qʼojyin) De 1 a 2 días después del cuarto creciente Xwaq kʼiik (xwaq qʼojyin) De 3 a 4 días después del cuarto creciente Tixk re li po 2 días antes de la luna llena Xtix li po 1 día antes de la luna llena Xxorok li po Luna llena Xbʼeen xwara De 1 a dos días después de la luna llena Xkabʼ xwara De 3 a 4 días después de la luna llena Rox xwara De 5 a 6 días después de la luna llena Xka xwara Cuarto menguante durante dos días Roʼ xwara De 4 a 5 días antes de la luna nueva Xwaq xwara De 2 a 3 días antes de la luna nueva Kam re 1 día antes de la luna nueva Re po Menstruación Awas po Espíritu de",
+  "examples": [
+    {
+      "example_maya": "Xxorok li po anaqwan",
+      "example_spa": "Ahora hay luna llena",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ xchʼinaʼusal li po",
+      "example_spa": "Que hermosa está la luna",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xkam li po",
+      "example_spa": "Desapareció la luna",
+      "dialect": null
+    }
+  ],
+  "uuid": "27fc053c-013a-4ed8-a9d3-a92aab97b1d4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

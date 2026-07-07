@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chupiqʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Luciérnaga",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz VT Chup Raíz S Qʼaaqʼ DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li chupiqʼaqʼ kechupchut rokibʼal taq aqʼabʼ are taq kumajij li jabʼ",
+      "example_spa": "Las luciérnagas brillan al anochecer cuando comienza el invierno",
+      "dialect": null
+    }
+  ],
+  "uuid": "e66f7d06-714a-41c9-8d17-8e0939f9c6ff"
+}

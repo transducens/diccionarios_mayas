@@ -1,0 +1,19 @@
+{
+  "entryWord": "Melon",
+  "entryWordDialect": null,
+  "altEntryWord": "Numelon",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Melón",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Pruut Del Cast Melón",
+  "examples": [
+    {
+      "example_maya": "Li melon pa taqʼaj kakʼiy wih",
+      "example_spa": "El melón se da en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "dd817399-e011-4b30-a216-638afb936023"
+}

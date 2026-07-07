@@ -1,0 +1,23 @@
+{
+  "entryWord": "Eqal",
+  "definition": "Despacio",
+  "additional_text": "Adv M Ant Chanin, aninäq Maril",
+  "examples": [
+    {
+      "example_maya": "Taq eqal yasamäj, man nbʼiyin ta ri samaj",
+      "example_spa": "Cuando uno trabaja despacio, no le camina el trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq eqal yabʼiyin, man yakos ta",
+      "example_spa": "Cuando uno camina despacio, no se cansa",
+      "dialect": null
+    }
+  ],
+  "uuid": "42b0e266-9bcc-4cf6-b2f4-c121b07addce",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

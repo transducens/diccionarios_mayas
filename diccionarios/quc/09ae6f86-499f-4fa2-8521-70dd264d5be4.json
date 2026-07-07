@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mururem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido, al comer cosas tostadas",
+  "definitionDialect": "",
+  "additional_text": "vi Kamururik Raíz p Mur",
+  "examples": [
+    {
+      "example_maya": "Li a Teʼk kamurur kaxlaʼn puchiʼ",
+      "example_spa": "Diego hace ruido, al comer habas",
+      "dialect": null
+    }
+  ],
+  "uuid": "09ae6f86-499f-4fa2-8521-70dd264d5be4"
+}

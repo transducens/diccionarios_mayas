@@ -1,0 +1,28 @@
+{
+  "entryWord": "Aqʼawinäq",
+  "definition": "Mapache",
+  "additional_text": "scl Waqʼawinäq Chikop",
+  "examples": [
+    {
+      "example_maya": "Ri aqʼawinäq nukʼöt awex, richin nutäj ixin",
+      "example_spa": "El mapache escarba la siembra, para comerse el maíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri aqʼawinäq achiʼel (achʼäl) jun tzʼeʼ nüm (nïm) rujey",
+      "example_spa": "El mapache es como un perro de cola bien larga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri aqʼawinäq e kʼo ruqʼaʼ achiʼel ruqʼaʼ winäq",
+      "example_spa": "El mapache tiene dedos como la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "e47f88b4-2750-402e-8973-b1d81a8e36f0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

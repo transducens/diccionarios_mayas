@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼololexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼololij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encoger; guardar bien; estimar",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Kʼol",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj kukʼololej ribʼ are taq kawarik",
+      "example_spa": "El niño se encoge mucho cuando duerme",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li al Leʼn xukʼololej li sin suʼt li xsipax chech rumal li ral",
+      "example_spa": "Elena guardó bien el sute que le regaló su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d77b17f8-5380-48cd-9125-aecde7f1cbfa"
+}

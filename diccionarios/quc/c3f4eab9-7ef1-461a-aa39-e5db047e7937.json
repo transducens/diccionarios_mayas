@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tatzʼunaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba de flores rojas largas que contienen jugo dulce",
+  "definitionDialect": "",
+  "additional_text": "snp DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Waʼ we tatzʼunaʼ kaq li usij, ketekaʼq staʼq li uxaq",
+      "example_spa": "Esta hierba tiene flores rojas y hojas algo redondas",
+      "dialect": null
+    }
+  ],
+  "uuid": "c3f4eab9-7ef1-461a-aa39-e5db047e7937"
+}

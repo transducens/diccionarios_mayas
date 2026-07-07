@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matzʼatzʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamatzʼatzʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer cosa tostada",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz P Matzʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kamatzʼatzʼ chech utijowik watzʼotzʼa kaxlanwah",
+      "example_spa": "La mujer hace ruido al comer pan tostado",
+      "dialect": null
+    }
+  ],
+  "uuid": "59b05d19-2b7f-4a3c-b12c-6a8dfc01db7b"
+}

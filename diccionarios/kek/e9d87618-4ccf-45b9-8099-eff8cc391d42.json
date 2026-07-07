@@ -1,0 +1,33 @@
+{
+  "entryWord": "Kʼaʼ (kʼaru)",
+  "definition": "¿Qué?",
+  "additional_text": "PartInterr Var Kʼaru",
+  "examples": [
+    {
+      "example_maya": "Partícula interrogativa ¿Kʼaʼ aj e? (Kʼaru aj e?)",
+      "example_spa": "¿Para qué?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼaʼaq re ru, kʼaʼaq ru",
+      "example_spa": "Cualquier cosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼaʼ nakayoxi",
+      "example_spa": "De nada, no hay de qué (contestación a gracias)",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼaʼ xaq nakaye",
+      "example_spa": "De nada, no hay de qué (contestación a gracias)",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9d87618-4ccf-45b9-8099-eff8cc391d42",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

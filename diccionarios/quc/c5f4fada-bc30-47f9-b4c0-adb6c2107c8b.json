@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jachʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nujachʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tapisca; cosecha",
+  "definitionDialect": "",
+  "additional_text": "SCV",
+  "examples": [
+    {
+      "example_maya": "Li achih, jachʼ katajin kubʼanoh",
+      "example_spa": "El hombre está tapiscando",
+      "dialect": null
+    }
+  ],
+  "uuid": "c5f4fada-bc30-47f9-b4c0-adb6c2107c8b"
+}

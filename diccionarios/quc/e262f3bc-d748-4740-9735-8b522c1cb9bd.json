@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaman",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaman",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Contribución (dinero dado por toda la comunidad); diezmo; terreno comunal",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Pa li tyox xta kaman",
+      "example_spa": "En la iglesia pidieron contribución",
+      "dialect": null
+    }
+  ],
+  "uuid": "e262f3bc-d748-4740-9735-8b522c1cb9bd"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Püj",
+  "definition": "Materia",
+  "additional_text": "sInv Nupüj Yaʼ",
+  "examples": [
+    {
+      "example_maya": "Taq kʼo püj chi rupan jun chʼaʼk, janíla nyusun (nikaso)",
+      "example_spa": "Cuando tiene materia un grano, duele mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Püj nibʼïx chi re ri nel chi rupan jun sokotajïk taq nisipöj",
+      "example_spa": "Materia se le dice a lo que sale de una herida cuando se infecta",
+      "dialect": null
+    }
+  ],
+  "uuid": "c12f2a73-3ed8-4390-b046-6257d614601a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

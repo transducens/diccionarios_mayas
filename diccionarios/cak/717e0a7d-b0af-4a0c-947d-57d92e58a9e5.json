@@ -1,0 +1,23 @@
+{
+  "entryWord": "Relik",
+  "definition": "Suficiente, abundante",
+  "additional_text": "Advc",
+  "examples": [
+    {
+      "example_maya": "Jun winäq yalan (tzʼan) bʼeyon, kʼo relik rikʼin",
+      "example_spa": "Una persona muy rica tiene lo suficiente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri choj relik chʼichʼ ma kan ta kow",
+      "example_spa": "El hierro ordinario que abunda mucho no es muy resistente",
+      "dialect": null
+    }
+  ],
+  "uuid": "717e0a7d-b0af-4a0c-947d-57d92e58a9e5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Bʼur",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Burro; banquitos de cuatro patas; embudo",
+  "definitionDialect": "general",
+  "additional_text": "scv Nubʼuur DomS Chkop Del Cast Burro",
+  "examples": [
+    {
+      "example_maya": "Li bʼur chuq karukʼaʼj eqaʼn",
+      "example_spa": "El burro también lleva carga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼur kuchax li alaj taq tem kajibʼ utakʼalibʼal",
+      "example_spa": "Burritos se les llama a los banquitos de cuatro patas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼur kachokon che pajbʼal gas",
+      "example_spa": "El embudo se usa para medir gas",
+      "dialect": null
+    }
+  ],
+  "uuid": "dd80397d-7ed0-4439-9cde-fc64fa8fbecc"
+}

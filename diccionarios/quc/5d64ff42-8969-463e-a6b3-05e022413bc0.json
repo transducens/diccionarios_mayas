@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼoqnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Voz onomatopéyica de las gallinas enfermas",
+  "definitionDialect": "",
+  "additional_text": "vi Katzʼoqnajik Raíz VT Tzʼoq",
+  "examples": [
+    {
+      "example_maya": "Li xtuʼxa akʼ xumajij tzʼoqnajem ma xa yowabʼ",
+      "example_spa": "La gallina empezó a cacarear porque está enferma",
+      "dialect": null
+    }
+  ],
+  "uuid": "5d64ff42-8969-463e-a6b3-05e022413bc0"
+}

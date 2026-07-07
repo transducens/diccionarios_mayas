@@ -1,0 +1,19 @@
+{
+  "entryWord": "Janipaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Cuánto?",
+  "definitionDialect": "",
+  "additional_text": "Interr",
+  "examples": [
+    {
+      "example_maya": "¿Janipa rajil li tiʼij?",
+      "example_spa": "¿Cuánto cuesta la carne?",
+      "dialect": null
+    }
+  ],
+  "uuid": "7345d699-8e77-4a7e-a703-fecda44de63b"
+}

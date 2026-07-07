@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼaam",
+  "definition": "Bejuco, mecate, pita, cuerda",
+  "additional_text": "sInv Inkʼaam",
+  "examples": [
+    {
+      "example_maya": "Xtʼupeʼ inkʼaam",
+      "example_spa": "Mi pita se reventó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kaw nabʼakʼok li rax kʼaam",
+      "example_spa": "Con el bejuco verde se amarra muy duro",
+      "dialect": null
+    }
+  ],
+  "uuid": "89538910-18f5-4c28-bd21-e79152c66759",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

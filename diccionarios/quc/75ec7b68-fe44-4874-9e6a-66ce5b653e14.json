@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼaqʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpaqʼaqʼlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar pisando zacates",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz VI Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li chkop kapaqʼaqʼlabʼ pa taq li qʼayes",
+      "example_spa": "El animal anda entre el monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "75ec7b68-fe44-4874-9e6a-66ce5b653e14"
+}

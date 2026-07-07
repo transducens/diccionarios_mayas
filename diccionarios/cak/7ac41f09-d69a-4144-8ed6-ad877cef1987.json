@@ -1,0 +1,23 @@
+{
+  "entryWord": "In",
+  "definition": "Yo Pronombre dependiente, se usa en la formación de los verbos",
+  "additional_text": "Pro",
+  "examples": [
+    {
+      "example_maya": "Pa kajiʼ tiqaqʼij xinel pa samaj",
+      "example_spa": "A las cuatro de la tarde salí del trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jebʼël ninwakʼaxaj ri qʼolonïk pa qachʼabʼäl",
+      "example_spa": "Me gusta oír chistes en nuestro idioma",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ac41f09-d69a-4144-8ed6-ad877cef1987",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

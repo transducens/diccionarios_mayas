@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼitnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canto del gorrión, pero no seguido",
+  "definitionDialect": "",
+  "additional_text": "vi Katzʼitnajik Raíz vi Tzʼit",
+  "examples": [
+    {
+      "example_maya": "Li tzʼunun pa taq li ikʼ oktubr\", nobʼyembr\" kakimajij tzʼitnajem",
+      "example_spa": "Los gorriones comienzan a cantar en los meses de octubre y noviembre",
+      "dialect": null
+    }
+  ],
+  "uuid": "43cfdc5e-56c3-4263-9f11-acb6fbcdff62"
+}

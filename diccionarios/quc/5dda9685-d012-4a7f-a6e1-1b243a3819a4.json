@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xataʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Post",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Raqan jaa",
+  "altEntryWordDialect2": null,
+  "definition": "Horcón; horqueta",
+  "definitionDialect": "",
+  "additional_text": "sinv Nuxataʼt var var",
+  "examples": [
+    {
+      "example_maya": "Li xataʼt kachokon cheh wokbʼal koral",
+      "example_spa": "El horcón se usa para construir corrales",
+      "dialect": null
+    }
+  ],
+  "uuid": "5dda9685-d012-4a7f-a6e1-1b243a3819a4"
+}

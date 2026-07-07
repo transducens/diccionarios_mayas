@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼoyol\"bʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lugar para acostarse; hospedaje; dormitorio",
+  "definitionDialect": "General",
+  "additional_text": "sinv Var Warabʼal Raíz S Qʼoy",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ sibʼalaj chʼuchʼuj li uqʼoyol\"bʼal yaʼom",
+      "example_spa": "El lugar donde está acostado el enfermo, es muy suave",
+      "dialect": null
+    }
+  ],
+  "uuid": "3355c64d-366e-4dd1-bdd4-910e240f8cf8"
+}

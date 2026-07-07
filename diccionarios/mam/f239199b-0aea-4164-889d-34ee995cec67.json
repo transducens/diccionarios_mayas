@@ -1,0 +1,23 @@
+{
+  "entryWord": "BʼEE",
+  "definition": "camino",
+  "additional_text": "s1 nbʼekyʼa frases: tbʼe aʼ zanja; xpatxan bʼe vereda; tbʼetbʼil aʼ canal; saqanbʼe sacabé raíz bʼe s",
+  "examples": [
+    {
+      "example_maya": "Pur chʼak tuj tbʼe Xwan tuʼn jbʼal",
+      "example_spa": "El camino de Juan está lodoso por la lluvia",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Mes injaw tolja tuj tbʼe Xwan",
+      "example_spa": "Me tropecé una vez en el camino de Juan",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f239199b-0aea-4164-889d-34ee995cec67",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

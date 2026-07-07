@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼititem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar el clarinero o el gorrión",
+  "definitionDialect": "",
+  "additional_text": "vi Katzʼititik Raíz Vl Tzʼit",
+  "examples": [
+    {
+      "example_maya": "Li amaʼ chʼok katzʼititik, are taq kape usaqirik",
+      "example_spa": "El clarinero canta cuando ya está amaneciendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "7905e9f3-1a9b-4ad5-9fef-c79aa9c47c60"
+}

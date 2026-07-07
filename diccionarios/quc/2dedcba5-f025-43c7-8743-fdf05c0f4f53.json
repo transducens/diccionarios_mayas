@@ -1,0 +1,24 @@
+{
+  "entryWord": "Weslik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mojada: cosa de barro que chupa mucha agua, como tejas, tinajas, etc",
+  "definitionDialect": "",
+  "additional_text": "p Xwesiʼk, xuwesbʼaaʼ Sinón Weqelik Raiz P Wes DomS Chʼaqalik",
+  "examples": [
+    {
+      "example_maya": "Li xot pwi taq li jah xwesiʼ, rumal li jabʼ",
+      "example_spa": "Las tejas de las casas están rajadas porque chuparon agua de la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq wes li bʼoʼj rumal le jaʼ",
+      "example_spa": "El trasto de barro está mojado",
+      "dialect": null
+    }
+  ],
+  "uuid": "2dedcba5-f025-43c7-8743-fdf05c0f4f53"
+}

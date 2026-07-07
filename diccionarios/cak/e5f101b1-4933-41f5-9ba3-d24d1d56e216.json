@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xakaxot",
+  "definition": "Caminar persona con piernas abiertas",
+  "additional_text": "vi Nixakaxöt Xar",
+  "examples": [
+    {
+      "example_maya": "E kʼo winäq täq yeqʼabʼär, choj yexakaxot yebʼyin",
+      "example_spa": "Hay personas que cuando se embolan, caminan con las piernas abiertas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri winäq nikʼojeʼ chʼaʼk chukojol rachäq, yexakaxot yebʼiyin",
+      "example_spa": "Hay personas que tienen granos entre las piernas y caminan abiertas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5f101b1-4933-41f5-9ba3-d24d1d56e216",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

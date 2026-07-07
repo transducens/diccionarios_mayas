@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼukeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzʼukeʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mata de maíz, frijol o trigo que sale por casualidad",
+  "definitionDialect": "",
+  "additional_text": "slav Raíz S Tzʼuk",
+  "examples": [
+    {
+      "example_maya": "Li juwiʼ abʼix xa tzʼukeʼl",
+      "example_spa": "La mata de milpa creció sola",
+      "dialect": null
+    }
+  ],
+  "uuid": "e14f1747-1d04-4815-9638-5d2f5fe4d12c"
+}

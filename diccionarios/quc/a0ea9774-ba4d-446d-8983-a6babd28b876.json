@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzʼiqaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un bulto grande",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz P Tzʼiq",
+  "examples": [
+    {
+      "example_maya": "Li achih, xreqaj bʼi jutzʼiqaj ixim",
+      "example_spa": "El hombre se llevó cargado un bulto de maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "a0ea9774-ba4d-446d-8983-a6babd28b876"
+}

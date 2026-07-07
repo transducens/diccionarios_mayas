@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tux",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Roble",
+  "definitionDialect": "",
+  "additional_text": "scv Nutuux Raíz S Tux DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li tux utz kabʼan aqʼaʼl cheh, si kʼo rachaq",
+      "example_spa": "El roble es bueno para hacer carbón, hace mucha brasa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tux are nima cheʼ, kakʼiy pa tewa juyubʼ",
+      "example_spa": "El roble es un árbol grande que crece en tierra fría",
+      "dialect": null
+    }
+  ],
+  "uuid": "b35350e5-b7ce-4be0-976c-6fd151a143a0"
+}

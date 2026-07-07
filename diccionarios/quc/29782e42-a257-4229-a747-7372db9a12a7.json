@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqʼeqarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ennegrecerse, ponerse negro",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz Adj Qʼeq",
+  "examples": [
+    {
+      "example_maya": "Li xot qʼeqarem ubʼanom",
+      "example_spa": "El comal esta poniéndose negro",
+      "dialect": null
+    }
+  ],
+  "uuid": "29782e42-a257-4229-a747-7372db9a12a7"
+}

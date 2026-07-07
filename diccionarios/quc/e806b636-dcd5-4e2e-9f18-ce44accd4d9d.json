@@ -1,0 +1,19 @@
+{
+  "entryWord": "Labʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aguado",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Lubʼuubʼ",
+  "examples": [
+    {
+      "example_maya": "Li wotzʼotzʼa kaxlanwah, are taq kamuʼ pa li kapeh, kux labʼabʼ",
+      "example_spa": "El pan tostado cuando se moja con café, se pone aguado",
+      "dialect": null
+    }
+  ],
+  "uuid": "e806b636-dcd5-4e2e-9f18-ce44accd4d9d"
+}

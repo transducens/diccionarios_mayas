@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aʼjtzʼonolobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedidor y los padres de la muchacha o del muchacho",
+  "definitionDialect": "",
+  "additional_text": "sAgen DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li aʼjtzʼonolobʼ xebʼe chutzʼonik li alih, chwach utzʼaq ukʼaxtun",
+      "example_spa": "El pedidor y los padres del muchacho se fueron a pedir a la muchacha a su casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d3e98fa-0743-4077-bca8-f1dcedae2bab"
+}

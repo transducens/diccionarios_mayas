@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uxaq peq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja de pataxte",
+  "definitionDialect": "general",
+  "additional_text": "sds Raiz S Xaaq Raiz S Peeq DomS Tzʼalik",
+  "examples": [
+    {
+      "example_maya": "Li uxaq peq kachokon chech subʼabʼal wah",
+      "example_spa": "La hoja de pataxte sirve para envolver tamales",
+      "dialect": null
+    }
+  ],
+  "uuid": "26b8c02e-82c7-4e06-a016-422b49259e9b"
+}

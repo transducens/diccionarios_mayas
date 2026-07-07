@@ -1,0 +1,24 @@
+{
+  "entryWord": "Posowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinposowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acezar, jadear; respirar con dificultad por el cansancio; fatigarse",
+  "definitionDialect": "",
+  "additional_text": "vı Raíz VI Pos",
+  "examples": [
+    {
+      "example_maya": "We jun winaq kutij ranim kumaj posowem",
+      "example_spa": "Si alguien corre, comienza a acezar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq sibʼalaj xposow chwa li paqalik",
+      "example_spa": "La mujer se fatigó mucho en la subida",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd122f1f-b650-42ce-93e1-d7767e5ad793"
+}

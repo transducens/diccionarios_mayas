@@ -1,0 +1,18 @@
+{
+  "entryWord": "KANEELA",
+  "definition": "canela",
+  "additional_text": "s1 nkanelaya del español canela",
+  "examples": [
+    {
+      "example_maya": "¿Ma kux tqʼoʼna kanela tuj kape?",
+      "example_spa": "¿Agregaste canela en el café?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "61eb67ab-b340-41ad-98da-31bc5423295a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

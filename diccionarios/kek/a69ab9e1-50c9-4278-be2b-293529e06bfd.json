@@ -1,0 +1,28 @@
+{
+  "entryWord": "Bʼaraq",
+  "definition": "Donde quiera, en todas partes, en otras partes",
+  "additional_text": "PartIndet",
+  "examples": [
+    {
+      "example_maya": "Bʼaraq wan li rahilal",
+      "example_spa": "Donde quiera hay dificultad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sut bʼaraq yo li habʼ",
+      "example_spa": "En todas partes está lloviendo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼaraq jalan chik nakeʼxbʼaanu",
+      "example_spa": "En otras partes tienen diferentes costumbres",
+      "dialect": null
+    }
+  ],
+  "uuid": "a69ab9e1-50c9-4278-be2b-293529e06bfd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

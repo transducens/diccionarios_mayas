@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kachʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Masticar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinkachʼuuj",
+  "examples": [
+    {
+      "example_maya": "Kinkachʼuj na jun kachʼ xinloqʼoh",
+      "example_spa": "Voy a masticar un chicle que compré",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kolobʼ xa kachʼum chi rumal li kej",
+      "example_spa": "El lazo ya esta masticado por el caballo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1a8fb6f0-6996-494f-ab9b-a3436784a75c"
+}

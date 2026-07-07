@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hiel; bilis; café amargo (modismo)",
+  "definitionDialect": "",
+  "additional_text": "scv Nukʼaa Raiz S Kʼah",
+  "examples": [
+    {
+      "example_maya": "Are taq kinkʼaʼnarik kapax nukʼa",
+      "example_spa": "Cuando me enojo, se me sube la hiel",
+      "dialect": null
+    }
+  ],
+  "uuid": "c76f8ee3-1c70-4b7d-8fe6-430d8d16c300"
+}

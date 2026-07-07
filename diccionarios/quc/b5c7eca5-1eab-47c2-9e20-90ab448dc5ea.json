@@ -1,0 +1,19 @@
+{
+  "entryWord": "Trompet",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutrompet",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trompeta",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Qʼojoom Del Cast Trompeta",
+  "examples": [
+    {
+      "example_maya": "Li trompet kachokon rukʼ qʼojom xuq kakikoj li ajtijabʼ",
+      "example_spa": "La trompeta se toca con marimba y se usa en la banda",
+      "dialect": null
+    }
+  ],
+  "uuid": "b5c7eca5-1eab-47c2-9e20-90ab448dc5ea"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "Qʼunum",
+  "definition": "Criatura para chinear",
+  "additional_text": "SInv Inqʼunum",
+  "examples": [
+    {
+      "example_maya": "Yo chi wark inqʼunum",
+      "example_spa": "La criatura que cuido está durmiendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "703a8e4d-2761-411d-a4c4-913d8826edca",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

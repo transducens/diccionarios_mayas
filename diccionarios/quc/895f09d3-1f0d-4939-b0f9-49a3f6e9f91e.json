@@ -1,0 +1,34 @@
+{
+  "entryWord": "Tenik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar persona o animal con palo grueso, o a patadas",
+  "definitionDialect": "",
+  "additional_text": "vt Kinten Coment No lleva sufijo -- oh de frase final, porque siempre le sigue otra palabra",
+  "examples": [
+    {
+      "example_maya": "Kinten chicheʼ",
+      "example_spa": "Le pegó con el palo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinten chaqan",
+      "example_spa": "Le doy patadas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinten li bʼeh chaqan",
+      "example_spa": "Camino dando pisotones",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chkop xten cheh jun choma cheʼ",
+      "example_spa": "El animal fue golpeado con un palo grueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "895f09d3-1f0d-4939-b0f9-49a3f6e9f91e"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaqixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer muro",
+  "definitionDialect": "",
+  "additional_text": "vTD Kintzʼaqiij Sinón Kintzʼaqoh Raíz VT Tzʼaq",
+  "examples": [
+    {
+      "example_maya": "Kintzʼaq na jun nutzʼaq chrij li woʼch",
+      "example_spa": "Voy a construir un muro al rededor de mi casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c41701e0-7b00-41ad-8a8f-0b1300bac4c7"
+}

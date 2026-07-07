@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amargo",
+  "definitionDialect": "",
+  "additional_text": "Adj Ukʼayiil, xkʼayirik",
+  "examples": [
+    {
+      "example_maya": "Li kʼa kapeh, kukunaj qʼoxom pamaj",
+      "example_spa": "El café amargo cura el dolor de estómago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li keʼm aj matam xchaqʼajsaxik, xkʼayirik",
+      "example_spa": "Tardaron en cocer la masa de elote y se puso amarga",
+      "dialect": null
+    }
+  ],
+  "uuid": "78a6f41e-e3a2-40aa-add4-fdd45cd3a629"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrear; espantar animales",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinyoʼooj Raíz VT Yoʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih yoʼxik kubʼan cheh li ukej ma xa na kabʼin taj",
+      "example_spa": "El hombre está arreando a la bestia porque no camina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah yoʼxik kubʼan chkeh li kʼel ma kakitij li aj",
+      "example_spa": "El muchacho espanta a los chocoyos porque se comen los elotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c8507d0-0c4f-4f4c-8c7f-22a8b4f6313b"
+}

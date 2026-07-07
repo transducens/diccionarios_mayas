@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHILCH",
+  "definition": "flaca: persona o animal que se le notan las costillas",
+  "additional_text": "p ma kubʼ chileʼ, ma kubʼ tchilbʼaʼn raíz chil p",
+  "examples": [
+    {
+      "example_maya": "Chilch xjal twitz ja",
+      "example_spa": "La persona flaca está en el corredor de la casa",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Chilch naq txu bak twitz txʼotxʼ",
+      "example_spa": "Está tirada la vaca flaca en el suelo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b8410937-20bb-4382-aeec-db23c6b7d815",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

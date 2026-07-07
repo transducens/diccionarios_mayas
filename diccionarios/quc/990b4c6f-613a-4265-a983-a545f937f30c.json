@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tukik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintukuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover con paleta",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Tuk",
+  "examples": [
+    {
+      "example_maya": "Kintuk li kapeh rukʼ li paleʼt",
+      "example_spa": "Voy a mover el café con la paleta",
+      "dialect": null
+    }
+  ],
+  "uuid": "990b4c6f-613a-4265-a983-a545f937f30c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuluj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Oxidado; sucio",
+  "definitionDialect": "General",
+  "additional_text": "Adj Uchʼulujiil, xchʼulujirik",
+  "examples": [
+    {
+      "example_maya": "Li muruh xchʼulujirik, ma xa na kachokon ta chik",
+      "example_spa": "El machete está oxidado, porque ya no se usa",
+      "dialect": null
+    }
+  ],
+  "uuid": "79edb235-26be-4111-aa55-e064630cac54"
+}

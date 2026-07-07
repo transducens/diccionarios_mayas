@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼarakʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼarakʼobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Somatarse botellas",
+  "definitionDialect": "General",
+  "additional_text": "VI Raiz P Kʼar",
+  "examples": [
+    {
+      "example_maya": "Li lameʼt xkʼarakʼobʼik, xaq si xpaxik",
+      "example_spa": "Las botellas se quebraron al somatarse",
+      "dialect": null
+    }
+  ],
+  "uuid": "39895faa-d973-4ce5-999d-955fd50dda3e"
+}

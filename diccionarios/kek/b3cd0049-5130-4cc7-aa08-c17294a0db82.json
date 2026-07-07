@@ -1,0 +1,23 @@
+{
+  "entryWord": "Uuchil",
+  "definition": "Sustituto, reemplazo",
+  "additional_text": "SInv Wuuchil",
+  "examples": [
+    {
+      "example_maya": "Xintaqla wuuchil saʼ poopol, laaʼin inkʼaʼ xinru chi xik",
+      "example_spa": "Mandé mi reemplazo a la municipalidad, yo no puedo ir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wuuchil aʼan bʼanunq li kʼanjel",
+      "example_spa": "Mi sustituto hará el trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3cd0049-5130-4cc7-aa08-c17294a0db82",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

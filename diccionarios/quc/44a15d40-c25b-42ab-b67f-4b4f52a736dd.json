@@ -1,0 +1,19 @@
+{
+  "entryWord": "Imuʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Wimuʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quilete; hierbamora; macuy",
+  "definitionDialect": "General",
+  "additional_text": "sInv DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li imuʼt kakʼiy pa ronojel uliw, utz che rikil",
+      "example_spa": "El quilete crece en cualquier terreno y es bueno para comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "44a15d40-c25b-42ab-b67f-4b4f52a736dd"
+}

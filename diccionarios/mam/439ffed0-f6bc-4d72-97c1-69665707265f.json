@@ -1,0 +1,18 @@
+{
+  "entryWord": "TZIN",
+  "definition": "Es una partícula afirmativa o interrogativa por un cambio de tono",
+  "additional_text": "pf sí",
+  "examples": [
+    {
+      "example_maya": "Tzin nbʼant wuʼna awt tej ntiʼ",
+      "example_spa": "Sí, lo estoy haciendo, es diferente cuando no lo hago ¿Estás trabajando?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "439ffed0-f6bc-4d72-97c1-69665707265f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

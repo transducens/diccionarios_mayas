@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼexbʼal pwaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Banco, lugar para cambiar dinero",
+  "definitionDialect": "",
+  "additional_text": "ss Var Ukʼol bʼal pwaq Raíz VT Kʼex Raíz S Pwaq",
+  "examples": [
+    {
+      "example_maya": "Li kʼexbal pwaq pa taq nimaq taq tinamit kariqitaj wih",
+      "example_spa": "El banco se encuentra en los departamentos",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ceb9210-c7f8-4b12-8c49-420222508035"
+}

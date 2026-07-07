@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼaʼtzʼutuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Avispa amarilla; bejuquillo (culebra)",
+  "definitionDialect": "",
+  "additional_text": "SnP Sinón Qʼana staʼl DomS Kumatz DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li qʼaʼtzʼutuj xa junam katyoʼn rukʼ li qʼeqa staʼl",
+      "example_spa": "La avispa amarilla pica igual que la negra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼaʼtzʼutuj are laʼ jun kumatz kuʼxim winaq, chkop chwa taq cheʼ",
+      "example_spa": "El bejuquillo amarra a la gente y animales en los árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "880babe7-fdb8-4842-9435-580ec339ce56"
+}

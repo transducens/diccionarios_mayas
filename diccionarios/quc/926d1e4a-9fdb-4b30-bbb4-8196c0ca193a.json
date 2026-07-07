@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼokon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cucuyus",
+  "definitionDialect": "",
+  "additional_text": "scv Nutzʼokoon DomS Tzʼaaliik",
+  "examples": [
+    {
+      "example_maya": "Li tzʼokon pa tewa juyubʼ kakʼiy wih, kachokon cheh pisbʼal jastaq",
+      "example_spa": "El cucuyus crece en tierra fría, se usa para envolver cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "926d1e4a-9fdb-4b30-bbb4-8196c0ca193a"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "Yant",
+  "definition": "Llanta",
+  "additional_text": "sInv Inyant La \"y\" no es fonéticamente \"ty\" Sino solamente \"y\"",
+  "examples": [
+    {
+      "example_maya": "Xpukʼeʼ xyant li kamyoneet saʼ bʼe",
+      "example_spa": "Se pinchó la llanta de la camioneta en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "46a0dd1f-79b8-43fb-b13c-f1971ce2f1ad",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

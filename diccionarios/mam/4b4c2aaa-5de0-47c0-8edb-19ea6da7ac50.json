@@ -1,0 +1,18 @@
+{
+  "entryWord": "MAAʼNA",
+  "definition": "ya está, sí",
+  "additional_text": "pf raíz ma",
+  "examples": [
+    {
+      "example_maya": "¿Mapa txiʼ aja tuj sanjel? -- maʼna",
+      "example_spa": "¿Fuiste a hacer el mandado? -- sí",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "4b4c2aaa-5de0-47c0-8edb-19ea6da7ac50",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

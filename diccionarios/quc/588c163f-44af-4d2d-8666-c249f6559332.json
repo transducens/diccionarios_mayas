@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kum",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paleta para mover comida en la olla",
+  "definitionDialect": "",
+  "additional_text": "scv Var Paleʼt DomS Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Li watiʼt kutuk li qʼor chech kum",
+      "example_spa": "Mi abuela mueve el atol con la paleta",
+      "dialect": null
+    }
+  ],
+  "uuid": "588c163f-44af-4d2d-8666-c249f6559332"
+}

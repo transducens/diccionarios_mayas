@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juperaj kem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un tejido; la mitad del tejido de una camisa, güipil",
+  "definitionDialect": "",
+  "additional_text": "SCL DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Xtzir juperaj kem rumal li albʼatz",
+      "example_spa": "La nuera terminó la mitad del tejido de la camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa7eab6d-2b1d-492e-b3f9-537e4e622b95"
+}

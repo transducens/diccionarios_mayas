@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kumaʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukumaʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comadre",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Winaq Del Cast Comadre",
+  "examples": [
+    {
+      "example_maya": "Li kumaʼl xukʼam bʼi li akʼal pa li qasanaʼ",
+      "example_spa": "La comadre llevó al niño a bautizarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d607bb5-7ca8-442c-aa22-c2d7c5aa6879"
+}

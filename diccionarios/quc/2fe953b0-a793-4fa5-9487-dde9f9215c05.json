@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aqanil kʼaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nigua",
+  "definitionDialect": "General",
+  "additional_text": "scl Raíz S Aqan Raíz S Kʼaq DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kʼo jun aqanil kʼaq cheʼ raqan",
+      "example_spa": "El niño tiene una nigua en el pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "2fe953b0-a793-4fa5-9487-dde9f9215c05"
+}

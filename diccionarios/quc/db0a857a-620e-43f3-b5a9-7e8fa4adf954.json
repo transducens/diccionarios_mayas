@@ -1,0 +1,19 @@
+{
+  "entryWord": "Abʼixom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sembrador de milpa",
+  "definitionDialect": "General",
+  "additional_text": "sNP",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj abʼixom, rumal kʼu riʼ kʼo rixim",
+      "example_spa": "El hombre es buen sembrador de milpa, por eso tiene maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "db0a857a-620e-43f3-b5a9-7e8fa4adf954"
+}

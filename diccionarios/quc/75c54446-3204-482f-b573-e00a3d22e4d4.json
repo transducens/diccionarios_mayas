@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tixixem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katixixik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chorrear, hacer ruido agua de un río",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz VT Tix",
+  "examples": [
+    {
+      "example_maya": "Li jaʼ katixixik kaqaj la chwa li abʼaj",
+      "example_spa": "El agua hace bulla al caer de la roca",
+      "dialect": null
+    }
+  ],
+  "uuid": "75c54446-3204-482f-b573-e00a3d22e4d4"
+}

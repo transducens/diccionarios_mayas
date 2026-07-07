@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pulinïk",
+  "definition": "Rebalsar, subirse un líquido",
+  "additional_text": "vi Pulinen, nipulin Puli Var Tixun, tixtun, pul var Pulu, pul",
+  "examples": [
+    {
+      "example_maya": "Yalan nipulin ri yaʼ pa xaʼr taq niroqon",
+      "example_spa": "Se está subiendo mucho el agua en el jarro por estar hirviendo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq nipulin el ruyaʼal ri akinaqʼ, chöj yaʼ ntzuʼun",
+      "example_spa": "Cuando se riega el caldo del frijol, se ve como agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "3f6a84c5-7328-4f8e-97df-492b64306dce",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

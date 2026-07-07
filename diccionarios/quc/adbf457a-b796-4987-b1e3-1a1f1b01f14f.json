@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxchʼayachʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cansados: los músculos; adolorido",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz Adj Rax Raíz VT Chʼay",
+  "examples": [
+    {
+      "example_maya": "Li ubʼaqil li achih raxchʼayachʼoj rumal kosik",
+      "example_spa": "El cuerpo del hombre está adolorido por el cansancio",
+      "dialect": null
+    }
+  ],
+  "uuid": "adbf457a-b796-4987-b1e3-1a1f1b01f14f"
+}

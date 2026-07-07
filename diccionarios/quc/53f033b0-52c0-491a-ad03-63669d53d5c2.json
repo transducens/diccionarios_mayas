@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kareʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukareʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carreta",
+  "definitionDialect": "",
+  "additional_text": "sinv Chokonisaʼn Del Cast Carreta",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay karerej jastaq pa li ukareʼt",
+      "example_spa": "El vendedor carga cosas en su carreta",
+      "dialect": null
+    }
+  ],
+  "uuid": "53f033b0-52c0-491a-ad03-63669d53d5c2"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mantekaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Numantekaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manteca",
+  "definitionDialect": "",
+  "additional_text": "scv Var Untuh Del Cast Manteca",
+  "examples": [
+    {
+      "example_maya": "Li mantekaʼ, chkech aq kel wih",
+      "example_spa": "De los marranos se obtiene manteca",
+      "dialect": null
+    }
+  ],
+  "uuid": "a958e3bd-cf80-42c2-bbec-ce5c25cd4b48"
+}

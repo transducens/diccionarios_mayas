@@ -1,0 +1,19 @@
+{
+  "entryWord": "Iwir",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ayer",
+  "definitionDialect": "General",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Iwir xjalataj li alkalteh",
+      "example_spa": "Ayer fue cambiado el alcalde municipal",
+      "dialect": null
+    }
+  ],
+  "uuid": "4109e268-bbe5-4fee-82a7-e4fcc9244a27"
+}

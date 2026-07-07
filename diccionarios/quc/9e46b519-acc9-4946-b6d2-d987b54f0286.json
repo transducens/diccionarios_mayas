@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wachaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ojo; mal de ojo (los ojos lloran mucho y se llenan de cheles)",
+  "definitionDialect": "",
+  "additional_text": "sos Nuwach Sinón Ubʼaqʼ wach Yabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li nuwach kaqʼoxow rumal li sibʼ",
+      "example_spa": "Me arden los ojos por el humo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal kʼo wachaj chech",
+      "example_spa": "El niño tiene mal de ojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e46b519-acc9-4946-b6d2-d987b54f0286"
+}

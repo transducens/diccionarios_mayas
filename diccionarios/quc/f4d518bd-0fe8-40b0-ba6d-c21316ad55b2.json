@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzabʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un poco de sangre espesa",
+  "definitionDialect": "es",
+  "additional_text": "Enu Raiz P Tzabʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuloqʼ jutzabʼaj kikʼ pa li kakamsax wi wakaxx",
+      "example_spa": "La mujer compró un poco de sangre en el rastro",
+      "dialect": null
+    }
+  ],
+  "uuid": "f4d518bd-0fe8-40b0-ba6d-c21316ad55b2"
+}

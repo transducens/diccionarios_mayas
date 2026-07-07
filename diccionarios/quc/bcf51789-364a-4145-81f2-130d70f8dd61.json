@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kaqʼteʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaqʼteʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tablado que se construye en la milpa para ver desde arriba a los pájaros; plataforma en el baile de la conquista",
+  "definitionDialect": "",
+  "additional_text": "Sinv",
+  "examples": [
+    {
+      "example_maya": "Kaqʼteʼ kamik kachokon che xibʼibʼal tzʼikin pa abʼix",
+      "example_spa": "Este tablado es para espantar pájaros en la milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are taq li ajxojolobʼ konkist kepaqiʼ pwiʼ waʼ we kaqʼteʼ",
+      "example_spa": "Los bailadores de la conquista suben a la plataforma",
+      "dialect": null
+    }
+  ],
+  "uuid": "bcf51789-364a-4145-81f2-130d70f8dd61"
+}

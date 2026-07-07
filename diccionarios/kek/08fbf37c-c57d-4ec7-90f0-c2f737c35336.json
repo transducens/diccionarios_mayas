@@ -1,0 +1,28 @@
+{
+  "entryWord": "Joʼ kʼihal",
+  "definition": "¿Cuánto? (Cosas que no se pueden contar)",
+  "additional_text": "PartInterr",
+  "examples": [
+    {
+      "example_maya": "Joʼ kʼihal li kenq xʼel chaq saʼ aakʼal",
+      "example_spa": "¿Cuánto de frijol ha salido en tu milpa?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼ xkʼihal",
+      "example_spa": "Como la cantidad de los demás",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼ kʼihal chik",
+      "example_spa": "¿Cuánto más?",
+      "dialect": null
+    }
+  ],
+  "uuid": "08fbf37c-c57d-4ec7-90f0-c2f737c35336",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

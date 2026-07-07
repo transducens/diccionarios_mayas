@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼupup",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tule; petate",
+  "definitionDialect": "",
+  "additional_text": "SCV Nuchʼupuup Var Poop DomS Chokonsaʼn",
+  "examples": [
+    {
+      "example_maya": "Li pop chʼupup kojom chech",
+      "example_spa": "Los petates se fabrican de tule",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo kebʼ retbʼalil li chʼupup: nimaʼq chiʼl koʼkoj",
+      "example_spa": "Hay dos tamaños de petates: grandes y pequeños",
+      "dialect": null
+    }
+  ],
+  "uuid": "74050458-3309-4746-8f04-1279c085fd5d"
+}

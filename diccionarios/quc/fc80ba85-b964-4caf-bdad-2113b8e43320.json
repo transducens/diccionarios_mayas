@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jabʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjabʼuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regar granos o cosas en polvo; repartir; dividir; publicar",
+  "definitionDialect": "",
+  "additional_text": "VTD Var Jaachik",
+  "examples": [
+    {
+      "example_maya": "Li a Santo kujabʼuj li usiʼ are chi kachaqijik",
+      "example_spa": "Santos riega su leña para que se seque",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinjabʼuj na li nutriko chwi li qʼeʼt rech kintikoh",
+      "example_spa": "Voy a regar el trigo sobre los tablones para sembrarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc80ba85-b964-4caf-bdad-2113b8e43320"
+}

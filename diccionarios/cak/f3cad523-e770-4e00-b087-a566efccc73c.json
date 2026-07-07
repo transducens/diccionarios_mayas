@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kup",
+  "definition": "Pezón de las frutas, peciolo",
+  "additional_text": "sInv Nukup",
+  "examples": [
+    {
+      "example_maya": "Rukup ri tzʼoʼ nelesäx taq nikeʼex",
+      "example_spa": "El pezón del nixtamal se le saca cuando se muele",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xqʼaj el rukup ri wikʼoy majun chïk achike ta ninchapbʼej",
+      "example_spa": "Se le cayó el tronco a mi güicoy y no tengo de qué agarrarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f3cad523-e770-4e00-b087-a566efccc73c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

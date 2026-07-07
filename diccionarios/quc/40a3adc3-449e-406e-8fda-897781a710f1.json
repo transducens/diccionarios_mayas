@@ -1,0 +1,19 @@
+{
+  "entryWord": "Achih",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hombre",
+  "definitionDialect": "General",
+  "additional_text": "sNP sPl Achijaabʼ Hombres (plural) DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kawexanik",
+      "example_spa": "El hombre está sembrando maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "40a3adc3-449e-406e-8fda-897781a710f1"
+}

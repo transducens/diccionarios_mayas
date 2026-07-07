@@ -1,0 +1,19 @@
+{
+  "entryWord": "Musmul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llovizna",
+  "definitionDialect": "",
+  "additional_text": "sap",
+  "examples": [
+    {
+      "example_maya": "Li musmul na qas ta kachʼaqabʼanik",
+      "example_spa": "La llovizna no moja mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "b92e6f3a-e727-4306-a068-f0f78d9cdf18"
+}

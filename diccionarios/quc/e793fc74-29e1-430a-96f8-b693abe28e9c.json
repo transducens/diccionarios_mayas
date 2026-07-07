@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rumumexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrumumej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar cosa a larga distancia",
+  "definitionDialect": "VTD.",
+  "additional_text": "Raíz VT Rum",
+  "examples": [
+    {
+      "example_maya": "Li alah xurumumej bʼi li abʼaj pa li swan",
+      "example_spa": "El muchacho tiró una piedra en el barranco",
+      "dialect": null
+    }
+  ],
+  "uuid": "e793fc74-29e1-430a-96f8-b693abe28e9c"
+}

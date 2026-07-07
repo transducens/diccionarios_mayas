@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pon, pon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pon, pon, sonido de tambor o de tonel al caer en el suelo",
+  "definitionDialect": "",
+  "additional_text": "Al",
+  "examples": [
+    {
+      "example_maya": "Pon, pon kuʼon li tambʼor are taq kaqʼojomaxik",
+      "example_spa": "Pon, pon, hace el tambor cuando se toca",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb6b10b5-e882-490a-b131-217f9978d8df"
+}

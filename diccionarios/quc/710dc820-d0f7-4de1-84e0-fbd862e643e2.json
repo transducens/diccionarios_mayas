@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tokʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Takʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apoyarse en bastón o palo al andar",
+  "definitionDialect": "",
+  "additional_text": "vtn Kintokʼoh Raíz VT Tokʼ",
+  "examples": [
+    {
+      "example_maya": "Kintokʼ li cheʼ are taq kinbʼinik",
+      "example_spa": "Cuando camino me apoyo en el palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "710dc820-d0f7-4de1-84e0-fbd862e643e2"
+}

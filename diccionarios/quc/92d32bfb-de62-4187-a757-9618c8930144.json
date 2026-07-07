@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sobʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusobʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Olla para cocer tamales",
+  "definitionDialect": "",
+  "additional_text": "scv Fbas //Sohbʼal// DomS Bʼoʼj",
+  "examples": [
+    {
+      "example_maya": "Pa waʼ we sobʼal katzak wi li subʼ",
+      "example_spa": "En esta olla se cuecen los tamales",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xutzakabʼa jun sobʼal akitamal",
+      "example_spa": "La mujer puso a cocer una olla de tamales de carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "92d32bfb-de62-4187-a757-9618c8930144"
+}

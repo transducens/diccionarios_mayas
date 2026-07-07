@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ajil",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sueldo",
+  "definitionDialect": "",
+  "additional_text": "ssp ss Var Rajil",
+  "examples": [
+    {
+      "example_maya": "Xintzaq ri wajil kokaqʼabʼ iwir",
+      "example_spa": "Anoche perdí mi sueldo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ajil tzʼaqat",
+      "example_spa": "Prójimo (metáfora)",
+      "dialect": null
+    }
+  ],
+  "uuid": "1960a261-e35a-4949-b12f-df1c084b54d7"
+}

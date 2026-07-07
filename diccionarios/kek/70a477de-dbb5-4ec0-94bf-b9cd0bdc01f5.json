@@ -1,0 +1,18 @@
+{
+  "entryWord": "¡Yoʼqebʼ!",
+  "definition": "¡Vamos!",
+  "additional_text": "Imp",
+  "examples": [
+    {
+      "example_maya": "Yoʼqebʼ anaqwan chi bʼeek, xbʼaan naq hulaj inkʼaʼ chik tinruuq laaʼin",
+      "example_spa": "Vamos ahora a pasear, porque mañana ya no voy a poder",
+      "dialect": null
+    }
+  ],
+  "uuid": "70a477de-dbb5-4ec0-94bf-b9cd0bdc01f5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

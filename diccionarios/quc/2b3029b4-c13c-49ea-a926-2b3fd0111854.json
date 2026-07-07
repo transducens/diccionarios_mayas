@@ -1,0 +1,29 @@
+{
+  "entryWord": "Uxlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Respirar, espirar, bufar, insuflar",
+  "definitionDialect": "general",
+  "additional_text": "vı Kinuxlabʼik",
+  "examples": [
+    {
+      "example_maya": "We kuxlabʼ jun winaq pa jaʼ, kakamik",
+      "example_spa": "Si una persona respira en el agua, se muere",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ruxlabʼ tuj",
+      "example_spa": "Vapor de temascal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ruxlabʼ qʼaqʼ",
+      "example_spa": "Calor de fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b3029b4-c13c-49ea-a926-2b3fd0111854"
+}

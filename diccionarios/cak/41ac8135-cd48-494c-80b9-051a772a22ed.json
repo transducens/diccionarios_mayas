@@ -1,0 +1,23 @@
+{
+  "entryWord": "Lawx",
+  "definition": "Clavo",
+  "additional_text": "sInv Nulawx Chʼichʼ Clavo",
+  "examples": [
+    {
+      "example_maya": "Ri lawx nikʼatzin richin yebʼajix cheʼ chire",
+      "example_spa": "El clavo sirve para unir tablas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri lawx, chʼichʼ",
+      "example_spa": "El clavo es de hierro",
+      "dialect": null
+    }
+  ],
+  "uuid": "41ac8135-cd48-494c-80b9-051a772a22ed",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

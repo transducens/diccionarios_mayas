@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kop",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukop",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Copa",
+  "definitionDialect": "Del Cast. Copa.",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li kop kachokon che pajbʼal tzam",
+      "example_spa": "La copa se usa para medir el aguardiente",
+      "dialect": null
+    }
+  ],
+  "uuid": "0883fe4e-8266-4532-846c-b5ffa66ab641"
+}

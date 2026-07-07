@@ -1,0 +1,19 @@
+{
+  "entryWord": "Temuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner vigas",
+  "definitionDialect": "",
+  "additional_text": "vTD Kintemuuj Raíz S Teem",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ kakitemuj li jah",
+      "example_spa": "Los hombres están poniendo vigas nuevas para el techo de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "6901d3c0-be85-4b92-8e66-e425d3e9d279"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Cha",
+  "definition": "Ceniza, obsidiana, astilla de vidrio para sangrar",
+  "additional_text": "SInv Incha",
+  "examples": [
+    {
+      "example_maya": "Xʼosoʼ li wa saʼ cha",
+      "example_spa": "La tortilla se manchó de ceniza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wan jun jachal incha re bʼanok",
+      "example_spa": "Tengo una astilla de vidrio para sacar sangre",
+      "dialect": null
+    }
+  ],
+  "uuid": "cea344e0-647b-4f59-8ea6-4b087b54421a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

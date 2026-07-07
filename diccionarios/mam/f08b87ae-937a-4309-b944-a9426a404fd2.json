@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHMALNAJ",
+  "definition": "húmedo",
+  "additional_text": "adj tchmalnajil, ma chmalnajix",
+  "examples": [
+    {
+      "example_maya": "Chmalnaj tzeʼ Xwan tuʼn aʼ",
+      "example_spa": "Está húmedo el palo de Juan por el agua",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Nluʼlan xjal tuʼn tchmalnajil t-xbʼalan",
+      "example_spa": "Está temblando la persona por su ropa húmeda",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f08b87ae-937a-4309-b944-a9426a404fd2",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

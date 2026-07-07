@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lamn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lámina",
+  "definitionDialect": "",
+  "additional_text": "sinv Nulaamn Del Cast Lámina",
+  "examples": [
+    {
+      "example_maya": "Kʼi li ja lamn li uwiʼ",
+      "example_spa": "Muchas casas tienen techos de lámina",
+      "dialect": null
+    }
+  ],
+  "uuid": "196aec72-15d3-40b9-ab51-e8ded88497fa"
+}

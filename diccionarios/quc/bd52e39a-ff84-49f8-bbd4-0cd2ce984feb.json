@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jastaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cosas",
+  "definitionDialect": "",
+  "additional_text": "scv Nujastaaq",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼih ujastaq xukʼam bʼik, are taq xbʼe pa bʼinem",
+      "example_spa": "El hombre llevó muchas cosas al paseo",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd52e39a-ff84-49f8-bbd4-0cd2ce984feb"
+}

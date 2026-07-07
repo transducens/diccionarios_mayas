@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzinil",
+  "definition": "Sonante, sonoro",
+  "additional_text": "Adj Tzinil sonoro (sólo para sonidos agudos) Tziniloj, nitziniloj Sonar la campanilla lentamente a menudo var Wanäl",
+  "examples": [
+    {
+      "example_maya": "Nibʼïx chi taq jebʼel tzinil jun machät, kow kʼa ri",
+      "example_spa": "Dicen que cuando un machete es bien sonante, entonces es fuerte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri saqapwäq jebʼel tzinil",
+      "example_spa": "La plata tiene un sonido muy agudo y sonoro",
+      "dialect": null
+    }
+  ],
+  "uuid": "fbb60d72-527a-4874-a44b-a90358019cba",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

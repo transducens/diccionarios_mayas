@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakakexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar monte; limpiar todo",
+  "definitionDialect": "General",
+  "additional_text": "VTD Kinpakakeej Raíz VT Pak",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kinpakakej li woʼch",
+      "example_spa": "Mañana voy a limpiar toda la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b75e406-6c98-46b1-b41f-0e3afb4582d8"
+}

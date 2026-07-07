@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼikin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pájaro; pene (órgano sexual del hombre)",
+  "definitionDialect": "",
+  "additional_text": "scv Nutzʼikiin Raiz S Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Pa li kʼacheʼlaj kʼih kiwach chi tzʼikin e kʼolik",
+      "example_spa": "En la montaña hay varias clases de pájaros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tzʼikin ubiʼ li ubʼaqil li achih",
+      "example_spa": "Pene se le llama al órgano genital del hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba038050-9be8-4f81-9c9e-61c129a29ffd"
+}

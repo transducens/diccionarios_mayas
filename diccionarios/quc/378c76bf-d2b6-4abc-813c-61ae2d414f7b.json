@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuqulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventable",
+  "definitionDialect": "",
+  "additional_text": "p Xkʼuqiʼk var Kʼoqopixik Raíz P Kʼuq",
+  "examples": [
+    {
+      "example_maya": "Li kolobʼ xaq kuqulik",
+      "example_spa": "El lazo es reventable",
+      "dialect": null
+    }
+  ],
+  "uuid": "378c76bf-d2b6-4abc-813c-61ae2d414f7b"
+}

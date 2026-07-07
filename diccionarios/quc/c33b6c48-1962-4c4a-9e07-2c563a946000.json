@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼonik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedir la mano; solicitar",
+  "definitionDialect": "",
+  "additional_text": "vt Kintzʼoonoh Raiz VT Tzʼoom",
+  "examples": [
+    {
+      "example_maya": "Li kʼamal bʼeh, tajin kutzʼon li alih, chikiwach li utat unan, are chi kakʼuliʼ rukʼ li alah",
+      "example_spa": "El pedidor está pidiendo a la muchacha ante sus padres, para que se case con el muchacho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li utzʼonik jun winaq chwa roʼch, cheh kʼulanem, rajawaxik kʼamal bʼeh",
+      "example_spa": "Al pedir a una persona en su casa para casamiento, es necesario un pedidor",
+      "dialect": null
+    }
+  ],
+  "uuid": "c33b6c48-1962-4c4a-9e07-2c563a946000"
+}

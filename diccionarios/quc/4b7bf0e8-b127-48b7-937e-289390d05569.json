@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rechʼerik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy abierta: herida o rajadura larga",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz PT Rechʼ",
+  "examples": [
+    {
+      "example_maya": "Nima rechʼerik ubʼanom li usokotajik li achih",
+      "example_spa": "La herida del hombre está muy abierta",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b7bf0e8-b127-48b7-937e-289390d05569"
+}

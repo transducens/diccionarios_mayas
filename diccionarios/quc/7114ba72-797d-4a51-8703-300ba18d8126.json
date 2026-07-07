@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaraʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy aplastada una cosa o animal",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Raíz PT Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Li jun xpeq kʼo pa li bʼeh, sibʼalaj jun tzʼaraʼr chik, ma kʼih chi altamow\" xeqʼax chrij",
+      "example_spa": "El sapo está muy aplastado porque le han pasado muchos carros",
+      "dialect": null
+    }
+  ],
+  "uuid": "7114ba72-797d-4a51-8703-300ba18d8126"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waʼkatel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vago; viajero; turista, forastero",
+  "definitionDialect": "",
+  "additional_text": "sap DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li achih xa waʼkatel xokʼow pa we tinamit",
+      "example_spa": "El hombre que pasó por este pueblo es turista",
+      "dialect": null
+    }
+  ],
+  "uuid": "5678021e-95de-43cc-b8e8-d5e27181bec9"
+}

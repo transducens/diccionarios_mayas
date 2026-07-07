@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqjuchʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqjuchʼujuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rojizo, como la aurora",
+  "definitionDialect": "",
+  "additional_text": "PC Raíz VT Juchʼ",
+  "examples": [
+    {
+      "example_maya": "Li uxe li kaj kaqjuchʼujuj nimaqʼabʼ pa taq saqʼij",
+      "example_spa": "En las mañanas de verano, el horizonte es rojizo",
+      "dialect": null
+    }
+  ],
+  "uuid": "98631d08-1ed5-4909-858d-f9bf31b9fddf"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takʼtoʼmanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintakʼtoʼmanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar parándose a cada rato",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Takʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq katakʼtoʼman cheh rilik li abʼyon xqʼax chikaj",
+      "example_spa": "El niño se para a cada rato para ver el avión",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7123f23-b6b3-4084-add9-9dcdfd5b0c28"
+}

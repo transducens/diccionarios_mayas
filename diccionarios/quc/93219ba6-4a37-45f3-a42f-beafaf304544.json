@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tambʼor",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutambʼor",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambor",
+  "definitionDialect": "",
+  "additional_text": "scv Var Labʼaal DomS Qʼojoom Del Cast Tambor",
+  "examples": [
+    {
+      "example_maya": "Li kitambʼor li aʼjxojolobʼ mor\" sibʼalaj nim",
+      "example_spa": "El tambor del baile de los moros es muy grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "93219ba6-4a37-45f3-a42f-beafaf304544"
+}

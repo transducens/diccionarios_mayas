@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼojomaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar instrumento musical",
+  "definitionDialect": "",
+  "additional_text": "VTD Kingʼojomaaj Raíz S Qʼojoom",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ kakiqʼojomaj na li qʼojom",
+      "example_spa": "Los hombres van a ejecutar la marimba",
+      "dialect": null
+    }
+  ],
+  "uuid": "02b70069-92dd-4256-8649-2ea8e4235ec9"
+}

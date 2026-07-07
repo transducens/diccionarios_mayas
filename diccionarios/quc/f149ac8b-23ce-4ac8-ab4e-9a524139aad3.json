@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sokosik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Plano: lugar rodeado de cerros o pendientes y un poco ahondado, no completamente plano",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li tinamit Armit pa jun sokosik kʼo wih",
+      "example_spa": "La capital de Guatemala, kʼoo wih",
+      "dialect": null
+    }
+  ],
+  "uuid": "f149ac8b-23ce-4ac8-ab4e-9a524139aad3"
+}

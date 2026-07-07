@@ -1,0 +1,19 @@
+{
+  "entryWord": "Achikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "wachikʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sueño",
+  "definitionDialect": "General",
+  "additional_text": "sNP",
+  "examples": [
+    {
+      "example_maya": "Li Alxwaʼn xubʼan jun wachikʼ iwir",
+      "example_spa": "Juana tuvo un sueño ayer",
+      "dialect": null
+    }
+  ],
+  "uuid": "b60ae0eb-d29f-4824-b2aa-b552d94536a4"
+}

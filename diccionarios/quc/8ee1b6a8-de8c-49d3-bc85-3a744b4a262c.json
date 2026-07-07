@@ -1,0 +1,19 @@
+{
+  "entryWord": "Liw\"",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Legua",
+  "definitionDialect": "",
+  "additional_text": "sP Del Cast Legua",
+  "examples": [
+    {
+      "example_maya": "Jun liw\" kʼo kajibʼ kilómétr\" chupam",
+      "example_spa": "Una legua tiene cuatro kilómetros",
+      "dialect": null
+    }
+  ],
+  "uuid": "8ee1b6a8-de8c-49d3-bc85-3a744b4a262c"
+}

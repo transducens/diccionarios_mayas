@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼabʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer cosas secas o espesas que se pegan en la boca; decir babosadas",
+  "definitionDialect": "general",
+  "additional_text": "vtr Kintʼabʼoh Raíz VT Tʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xok pa jah, kʼaj tajin kutʼabʼoh",
+      "example_spa": "El perro que entró en la casa está comiendo harina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li yawabʼ xaq kutʼab ribʼ li uwa puchiʼ",
+      "example_spa": "El enfermo no tiene apetito",
+      "dialect": null
+    }
+  ],
+  "uuid": "c9acc177-f242-49cd-bd48-d11998d1b895"
+}

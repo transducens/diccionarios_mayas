@@ -1,0 +1,19 @@
+{
+  "entryWord": "Malalexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmalalij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sobar suave",
+  "definitionDialect": "general",
+  "additional_text": "v TD Raíz VT Mal",
+  "examples": [
+    {
+      "example_maya": "Li kunanel nojim xumalalej li sokotajik che raqan ri a ʼxtuʼp",
+      "example_spa": "La enfermera le sobó suavemente la herida del pie a Cristóbal",
+      "dialect": null
+    }
+  ],
+  "uuid": "748b2273-eb90-4b81-84ae-a25031cc15cf"
+}

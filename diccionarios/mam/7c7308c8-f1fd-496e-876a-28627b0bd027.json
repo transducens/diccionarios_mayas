@@ -1,0 +1,18 @@
+{
+  "entryWord": "PAART",
+  "definition": "distinto, diferente, aparte",
+  "additional_text": "par del español parte",
+  "examples": [
+    {
+      "example_maya": "Part tatwa bʼix part wekyʼ",
+      "example_spa": "Tu comida es aparte y la mía también",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7c7308c8-f1fd-496e-876a-28627b0bd027",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

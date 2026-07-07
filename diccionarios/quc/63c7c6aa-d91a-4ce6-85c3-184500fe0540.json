@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sepik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsepoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Construir pared, colocando adobe, ladrillos o blocks",
+  "definitionDialect": "",
+  "additional_text": "VTR SN Sepoj xaan Construcción de pared de adobe Raiz VT Sep",
+  "examples": [
+    {
+      "example_maya": "Kinsep na li xan cheh li jah",
+      "example_spa": "Voy a hacer la pared de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "63c7c6aa-d91a-4ce6-85c3-184500fe0540"
+}

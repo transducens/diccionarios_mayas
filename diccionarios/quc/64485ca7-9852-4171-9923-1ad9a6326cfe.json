@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pikʼipik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblada: tabla; pandeado",
+  "definitionDialect": "General",
+  "additional_text": "Adj Var Pekʼepik Raíz P Pikʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalam xaq pikʼipik chik chwa li qʼij",
+      "example_spa": "La tabla se ha pandeado bajo el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "64485ca7-9852-4171-9923-1ad9a6326cfe"
+}

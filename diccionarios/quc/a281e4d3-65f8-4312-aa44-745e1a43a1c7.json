@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kanajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkanajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quedarse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz vi Kahn",
+  "examples": [
+    {
+      "example_maya": "Li ubʼaqil li kamnaq kanajem kubʼan puliw",
+      "example_spa": "El cuerpo del muerto se queda dentro de la tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "a281e4d3-65f8-4312-aa44-745e1a43a1c7"
+}

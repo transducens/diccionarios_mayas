@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roqik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinroqoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrastrar pañuelo en el suelo",
+  "definitionDialect": "General",
+  "additional_text": "vtr Raíz PT Roq",
+  "examples": [
+    {
+      "example_maya": "Xaq maroq li asuʼt puliw",
+      "example_spa": "No arrastrés tu sute en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "054662a4-140a-4938-81c6-ccbf04a0477a"
+}

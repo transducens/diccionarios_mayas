@@ -1,0 +1,24 @@
+{
+  "entryWord": "Aar\"k",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puente, arco",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuaar\"k Var Arkuʼ DelCast Arco",
+  "examples": [
+    {
+      "example_maya": "Li Qʼatbʼaltzij xuwok jun ar\"k pwiʼ li binel jaʼ",
+      "example_spa": "La Municipalidad construyó un puente sobre el río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwok na jun ar\"k pa awasqʼij",
+      "example_spa": "Voy a construir un arco para la Semana Santa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f3247273-8d61-4709-bcfb-3613ca798551"
+}

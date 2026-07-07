@@ -1,0 +1,29 @@
+{
+  "entryWord": "Peq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupeq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pataxte; bolitas de lodo que se pegan al pelaje de animales; callos que tienen las mujeres en los pies por la parte de encima; suciedad en la cabeza de los niños pequeños",
+  "definitionDialect": "General",
+  "additional_text": "sInv Fbas //Pehq// DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li peq kakʼiy pa taqʼaj",
+      "example_spa": "El pataxte se da en la costa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Peq, are riʼ xaqʼoʼl kubʼan tʼorotʼaʼq pa kismal li aq",
+      "example_spa": "Este es lodo que se hace bolitas en el pelaje de los coches",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ee kʼo jujun ixoqibʼ kʼo peq chij kaqan",
+      "example_spa": "Hay algunas mujeres que tienen callos en los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "d495b3ab-f626-4460-ac25-4129a3968183"
+}

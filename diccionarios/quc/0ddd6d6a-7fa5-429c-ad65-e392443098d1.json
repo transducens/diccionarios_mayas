@@ -1,0 +1,19 @@
+{
+  "entryWord": "Silikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusilikʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasador de puerta; cerrojo",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz VI Sil",
+  "examples": [
+    {
+      "example_maya": "Xinkoj li silikʼ chrij li uchi jah",
+      "example_spa": "Puse el pasador detrás de la puerta",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ddd6d6a-7fa5-429c-ad65-e392443098d1"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Reprotk",
+  "definition": "Estar lleno de agua, relampaguear seguido en el mismo lugar, centellar llama de fuego repetidas veces",
+  "additional_text": "vi Nareprot",
+  "examples": [
+    {
+      "example_maya": "Nareprot li haʼ saʼ xbʼen eli kubʼeet",
+      "example_spa": "La cubeta está llena de agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nareprot xxamlel li kanteel",
+      "example_spa": "La llama de la candela comenzó a centellar",
+      "dialect": null
+    }
+  ],
+  "uuid": "07b9c3e8-065b-458d-9387-6ea6879e3ee2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

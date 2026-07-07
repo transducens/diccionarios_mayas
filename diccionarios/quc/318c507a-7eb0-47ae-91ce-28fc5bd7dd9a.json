@@ -1,0 +1,19 @@
+{
+  "entryWord": "Miʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmiʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Meejik",
+  "altEntryWordDialect2": null,
+  "definition": "Doblar milpa",
+  "definitionDialect": "",
+  "additional_text": "vTR Var Raíz VT Miʼ",
+  "examples": [
+    {
+      "example_maya": "Kinmiʼ na li abʼix, ma aj chiʼ",
+      "example_spa": "Voy a doblar la milpa porque ya tiene elotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "318c507a-7eb0-47ae-91ce-28fc5bd7dd9a"
+}

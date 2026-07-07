@@ -1,0 +1,28 @@
+{
+  "entryWord": "Taqoʼn",
+  "definition": "Mandado, envío encomienda",
+  "additional_text": "sInv Nutaqoʼn Sinón Uqxaʼn, uquxaʼn",
+  "examples": [
+    {
+      "example_maya": "Yin xintäq el jun nutaqoʼn chi rij ri ma Chepe",
+      "example_spa": "Mandé una mi encomienda con don José",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun taqoʼn ninbʼän el Bʼokoʼ chwaʼq",
+      "example_spa": "Mañana voy a hacer un envío para Chimaltenango",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nutaqoʼn xintäq el, man jun xbʼeyaʼ ta ri akuchiʼ ninwajoʼ wi",
+      "example_spa": "La encomienda que envié, no la fueron a dejar donde quería",
+      "dialect": null
+    }
+  ],
+  "uuid": "814d0fbb-241e-445c-bdd1-fe0df4b5f8bc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

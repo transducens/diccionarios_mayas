@@ -1,0 +1,24 @@
+{
+  "entryWord": "Palaʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbol parecido al cuxín",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupalaʼl DomS Cheeʼ Raíz S Palaʼl",
+  "examples": [
+    {
+      "example_maya": "Li palaʼl nima cheʼ, pa taqʼaj kakʼiy wih",
+      "example_spa": "Este árbol es grande y crece en tierra caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waʼ we palaʼl kuya uwach, xa nima junam rukʼ li tzʼaʼy, xuq katijowik",
+      "example_spa": "Este árbol da frutas parecidas al cuxín, también se comen",
+      "dialect": null
+    }
+  ],
+  "uuid": "790e5239-7894-4885-8122-a687b5014759"
+}

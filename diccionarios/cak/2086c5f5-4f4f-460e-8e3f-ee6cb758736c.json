@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tolan",
+  "definition": "Desocupado, vacío, deshabitado",
+  "additional_text": "p Xtole, xutolobʼaʼ Kʼojlem",
+  "examples": [
+    {
+      "example_maya": "Xtoleʼ ri jay täq xekän ri rajaw",
+      "example_spa": "Quedó deshabitada la casa cuando se murieron los dueños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri jun xoral kʼo chi anaqaj, chöj tolan kan",
+      "example_spa": "El sitio que está cerca de usted, está abandonado",
+      "dialect": null
+    }
+  ],
+  "uuid": "2086c5f5-4f4f-460e-8e3f-ee6cb758736c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

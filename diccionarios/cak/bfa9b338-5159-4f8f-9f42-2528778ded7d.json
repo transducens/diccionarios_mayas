@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chaqoj",
+  "definition": "Ordinario, áspero, tosco, burdo",
+  "additional_text": "Adj Ruchaqojil, xchaqojïr Ant Kokʼ, liqʼ, niʼj, chʼuchʼuj Sinón Waqawik",
+  "examples": [
+    {
+      "example_maya": "Yalan chaqoj xkibʼän kan chi re la ruwa xan",
+      "example_spa": "Muy áspera dejaron la pared",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xta Lena yalan chaqoj nubʼän chi re rukeʼen",
+      "example_spa": "Elena deja muy áspera su masa al moler",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kan chaqoj ri jun nukamxaʼ",
+      "example_spa": "Aquella mi camisa es muy ordinaria",
+      "dialect": null
+    }
+  ],
+  "uuid": "bfa9b338-5159-4f8f-9f42-2528778ded7d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

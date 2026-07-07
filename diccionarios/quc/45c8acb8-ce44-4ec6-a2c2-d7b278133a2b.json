@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼinobʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Porción pequeña de comida",
+  "definitionDialect": "",
+  "additional_text": "scv Nutʼinobʼaal Raiz VT Tʼin",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xa jubʼiqʼ li utʼinobʼal xyaʼik",
+      "example_spa": "Al niño le dieron una porción pequeña de comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "45c8acb8-ce44-4ec6-a2c2-d7b278133a2b"
+}

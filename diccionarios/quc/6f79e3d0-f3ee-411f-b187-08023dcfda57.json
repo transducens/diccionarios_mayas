@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rakbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurakbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Peine de madera para terminar tejido; última parte del tejido",
+  "definitionDialect": "",
+  "additional_text": "scv Sinón Xyabʼ Var Kemobʼ Var Rakʼbʼal Raíz VT Rak DomS Keem DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li rakbʼal kʼa te kachokonik are taq kel li kem",
+      "example_spa": "Este peine se usa cuando se termina un tejido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rakbʼal are riʼ ri kʼisnaq wi ukemik jun kem",
+      "example_spa": "Esta parte es donde se ha terminado un tejido",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f79e3d0-f3ee-411f-b187-08023dcfda57"
+}

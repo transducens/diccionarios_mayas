@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kewuj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukewuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbusto oloroso El jugo lo toman como medicina",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "We uwaʼl we kewuj katijow che qʼoxom pamaj",
+      "example_spa": "El jugo de este arbusto se toma para calmar el dolor de estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "73dafe32-0da2-43dd-946d-ff9487067393"
+}

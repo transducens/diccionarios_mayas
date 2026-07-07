@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ulisaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llegar - hacer llegar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinwulisaaj",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ ulisaxik kakibʼan chech li eqaʼn",
+      "example_spa": "Los hombres acaban de hacer llegar las cargas",
+      "dialect": null
+    }
+  ],
+  "uuid": "68cfd068-31a2-441c-a806-a85bcd1ddb81"
+}

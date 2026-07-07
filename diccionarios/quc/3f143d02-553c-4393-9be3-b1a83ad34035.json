@@ -1,0 +1,24 @@
+{
+  "entryWord": "Komon",
+  "entryWordDialect": null,
+  "altEntryWord": "Somon",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sociedad; invitados; cosa comunal",
+  "definitionDialect": "",
+  "additional_text": "SInv SCL Komon chʼaʼooj Guerra SCL Komon waʼiim Convivio SCL Komon chaak Trabajo comunal",
+  "examples": [
+    {
+      "example_maya": "In jun in pa li komon rech uqʼij sant",
+      "example_spa": "Yo soy miembro de la sociedad del santo patrón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj e kʼi li komon pa li uxqʼij skepul",
+      "example_spa": "Hay muchos invitados en la fiesta de Esquipulas",
+      "dialect": null
+    }
+  ],
+  "uuid": "3f143d02-553c-4393-9be3-b1a83ad34035"
+}

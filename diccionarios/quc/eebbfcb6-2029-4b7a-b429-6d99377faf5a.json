@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeyon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morería (tienda de ropa para bailes regionales)",
+  "definitionDialect": "general",
+  "additional_text": "SInv Nubʼeyoon SAgen Ajbʼeyoon Dueño de morería Var Bʼeyoom",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan kʼo ubʼeyon pa li tinamit",
+      "example_spa": "Juan tiene una morería en el pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "eebbfcb6-2029-4b7a-b429-6d99377faf5a"
+}

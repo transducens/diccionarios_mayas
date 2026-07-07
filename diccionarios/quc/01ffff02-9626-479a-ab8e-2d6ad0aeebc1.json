@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xoqʼajwabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Xoqʼojwabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trato respetuoso Solo se usa en plural",
+  "definitionDialect": "",
+  "additional_text": "SaP Chuchuxeles var Xoqʼojwaabʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoqibʼ xoqʼajwabʼ kakil mis",
+      "example_spa": "Las mujeres chuchuxeles asisten a misa",
+      "dialect": null
+    }
+  ],
+  "uuid": "01ffff02-9626-479a-ab8e-2d6ad0aeebc1"
+}

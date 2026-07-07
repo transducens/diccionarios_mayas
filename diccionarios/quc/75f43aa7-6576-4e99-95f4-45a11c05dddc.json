@@ -1,0 +1,19 @@
+{
+  "entryWord": "Komonexik",
+  "entryWordDialect": null,
+  "altEntryWord": "komonixik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Kaqakomoneej",
+  "altEntryWordDialect2": null,
+  "definition": "Hacer algo entre varias personas; trabajar juntos muchas personas",
+  "definitionDialect": "",
+  "additional_text": "VT (kaqakomonii) Raíz S Komoon",
+  "examples": [
+    {
+      "example_maya": "Kaqakomonej uwokik li tyox jah",
+      "example_spa": "Trabajemos juntos para construir la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "75f43aa7-6576-4e99-95f4-45a11c05dddc"
+}

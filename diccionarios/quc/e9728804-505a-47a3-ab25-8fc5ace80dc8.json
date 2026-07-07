@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chuch",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchuch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Madre; raíz; base",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Uchuch yabʼil",
+      "example_spa": "Raíz de una enfermedad que no se quita",
+      "dialect": null
+    },
+    {
+      "example_maya": "Uchuch pwaq",
+      "example_spa": "Capital, mucho dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9728804-505a-47a3-ab25-8fc5ace80dc8"
+}

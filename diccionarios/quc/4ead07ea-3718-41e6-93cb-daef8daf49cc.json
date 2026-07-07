@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pichʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpichʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Destripar; pinchar",
+  "definitionDialect": "",
+  "additional_text": "vtd var Pitzʼixik Raíz VT Pichʼ",
+  "examples": [
+    {
+      "example_maya": "Kinpichʼij na li pix ma xa katzak pa tʼuʼy",
+      "example_spa": "Voy a destripar el tomate porque lo van a cocer en la olla",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ead07ea-3718-41e6-93cb-daef8daf49cc"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jumumlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zumbar",
+  "definitionDialect": "General",
+  "additional_text": "vi Kajumumlabʼik",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kukʼaq abʼaj kajumumlabʼik kabʼe pa li swan",
+      "example_spa": "El muchacho tira piedras que se van zumbando al barranco",
+      "dialect": null
+    }
+  ],
+  "uuid": "03407e2d-b5fb-41d8-822e-6efe61a2e189"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suelto (pelo peinado); fácil de hacer (un trabajo); cargado: (árbol con mucha fruta)",
+  "definitionDialect": "",
+  "additional_text": "p Xkaliʼk, xukʼalabʼa Fbas //Kahlik// Sinón Kalanik Raíz P",
+  "examples": [
+    {
+      "example_maya": "Li chak sibʼalaj kalik, kacha li achih",
+      "example_spa": "El hombre dice que el trabajo es fácil",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼuxkʼabʼel chuxeʼ li ucheʼal sibʼalaj kalik",
+      "example_spa": "El cerezo está bien cargado de frutas",
+      "dialect": null
+    }
+  ],
+  "uuid": "87a4849e-32cb-4187-8a1b-8d4b69061747"
+}

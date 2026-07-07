@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lomanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlomanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quedarse mirando un paisaje, en la distancia",
+  "definitionDialect": "",
+  "additional_text": "vı Raíz S Loom",
+  "examples": [
+    {
+      "example_maya": "Li achih, utz xril li tinamit sibʼalaj xlomanik",
+      "example_spa": "Al hombre le gustó el pueblo, se quedó mirándolo",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa49f92b-44bd-43ec-ad7e-b5114bbe8ba1"
+}

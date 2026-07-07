@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mamaʼ",
+  "definition": "Viejito, abuelo",
+  "additional_text": "sInv Inmamaʼ Sinón Tiix",
+  "examples": [
+    {
+      "example_maya": "Yoʼo rikʼin inmamaʼ",
+      "example_spa": "Vamos donde mi abuelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtix linmamaʼ",
+      "example_spa": "Mi abuelo se envejeció",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8e63bbd-7d19-4265-bb62-9fbb522a9340",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

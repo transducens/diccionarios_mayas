@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼeʼtz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viejo: personas",
+  "definitionDialect": "",
+  "additional_text": "SnP Coment Palabra que indica cariño o afección",
+  "examples": [
+    {
+      "example_maya": "Qʼeʼtz a nutat",
+      "example_spa": "Mi viejo papá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼeʼtza nukʼeʼx",
+      "example_spa": "Mi viejo tocayo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qʼeʼtza achih sibʼalaj xchakunik",
+      "example_spa": "El hombre viejo trabajó mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "98d57e50-d58c-41e4-b714-732dba7c0224"
+}

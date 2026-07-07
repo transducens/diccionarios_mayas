@@ -1,0 +1,23 @@
+{
+  "entryWord": "MAANSAN",
+  "definition": "1 manzana 2 manzano",
+  "additional_text": "s1 nmansana del español manzana ds awal, ds loʼj",
+  "examples": [
+    {
+      "example_maya": "¿Qapa maʼ tzqʼaj qloʼ mansan tukʼala?",
+      "example_spa": "¿No por casualidad ya están maduros nuestros guineos de manzanita? ¿con vos?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Oʼkx ntzaj mansan tuj cheʼw txʼotxʼ",
+      "example_spa": "La manzana solo se da en tierra fría",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ec27ce03-83a9-4038-807b-c79e8f71d094",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

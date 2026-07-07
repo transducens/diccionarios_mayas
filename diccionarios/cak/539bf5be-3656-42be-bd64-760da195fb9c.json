@@ -1,0 +1,28 @@
+{
+  "entryWord": "Xa",
+  "definition": "Partícula que tiene muchos usos, según su colocación en la oración",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Xa yawaʼ ri a Xwan, roma riʼ man petenäq ta",
+      "example_spa": "Está enfermo Juan ; es por eso que no ha venido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rat, kajiʼ nawajoʼ? naʼq xa jun",
+      "example_spa": "Vos querés cuatro? no sólo uno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa ma xpe ta ri nataʼ wakamin",
+      "example_spa": "No vino mi papá ahora",
+      "dialect": null
+    }
+  ],
+  "uuid": "539bf5be-3656-42be-bd64-760da195fb9c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xujut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Engusanado; pícaro; ruin; pillo",
+  "definitionDialect": "",
+  "additional_text": "Adj Uxujutaal, xxujutirik Raíz S Xuj",
+  "examples": [
+    {
+      "example_maya": "Li akʼal elenaq uwiʼ uxujutal",
+      "example_spa": "El niño es muy pícaro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li mank xel uwi uchaqʼal, xxujutirik",
+      "example_spa": "Los mangos están demasiado maduros, ya están engusanados",
+      "dialect": null
+    }
+  ],
+  "uuid": "142b31d1-626e-4296-9d63-b8d6a471e8a7"
+}

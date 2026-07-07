@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuxkʼaʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kayuxkʼaʼtik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cabecear de sueño; moverse; inclinarse; marearse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Yux",
+  "examples": [
+    {
+      "example_maya": "Li achih kayuxkʼaʼtik ma xa karaj uwaram",
+      "example_spa": "El hombre está cabeceando porque tiene sueño",
+      "dialect": null
+    }
+  ],
+  "uuid": "a4e0768f-c764-40be-afd5-a28ab44a6fec"
+}

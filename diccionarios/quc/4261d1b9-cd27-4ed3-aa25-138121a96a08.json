@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juyol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una enjabonada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Yol",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xukoj juyol qʼeq chrij",
+      "example_spa": "El niño se echó una sola enjabonada",
+      "dialect": null
+    }
+  ],
+  "uuid": "4261d1b9-cd27-4ed3-aa25-138121a96a08"
+}

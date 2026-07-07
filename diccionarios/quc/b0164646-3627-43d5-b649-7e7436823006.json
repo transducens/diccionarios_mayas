@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jalalim",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajalalik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parecer extraño o desconocido",
+  "definitionDialect": "General",
+  "additional_text": "VI",
+  "examples": [
+    {
+      "example_maya": "Are taq xinul nabʼeh waral panqʼan, sibʼalaj kajalalik xinwiloh",
+      "example_spa": "Cuando llegué la primera vez aquí a Antigua, me pareció extraño todo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b0164646-3627-43d5-b649-7e7436823006"
+}

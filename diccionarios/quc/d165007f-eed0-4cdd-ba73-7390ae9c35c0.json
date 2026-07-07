@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼoskʼoxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar puerta",
+  "definitionDialect": "",
+  "additional_text": "VT Kinkʼoskʼaʼ Raíz VT Kʼos",
+  "examples": [
+    {
+      "example_maya": "Kinkʼoskʼa na li uchi jah, are chi kuta ri achih",
+      "example_spa": "Tengo que tocar la puerta para que la abran",
+      "dialect": null
+    }
+  ],
+  "uuid": "d165007f-eed0-4cdd-ba73-7390ae9c35c0"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzolok",
+  "definition": "Aprender, enseñar, estudiar",
+  "additional_text": "VTR Xintzol",
+  "examples": [
+    {
+      "example_maya": "Loqʼ li tzolok",
+      "example_spa": "Vale más aprender",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼaʼ naxnaw tzolok",
+      "example_spa": "No sabe enseñar",
+      "dialect": null
+    }
+  ],
+  "uuid": "4daad47e-7354-4062-867f-8c5ae5b695cd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

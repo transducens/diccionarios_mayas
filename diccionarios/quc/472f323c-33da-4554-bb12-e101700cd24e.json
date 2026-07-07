@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼebʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dar más de la medida de una cosa",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kintzʼebʼeej Raíz VT Tzʼebʼ",
+  "examples": [
+    {
+      "example_maya": "Li nusiʼ li xinloqʼ cheh li achih, sibʼalaj xutzʼebʼej",
+      "example_spa": "El hombre al que le compré la leña me dio mas de la medida",
+      "dialect": null
+    }
+  ],
+  "uuid": "472f323c-33da-4554-bb12-e101700cd24e"
+}

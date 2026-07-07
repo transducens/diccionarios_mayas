@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaʼylabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkaʼylabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escoger esposa o novia",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz VI Kaʼy",
+  "examples": [
+    {
+      "example_maya": "Li alah xumajij kaʼyʼlabʼem, chech rixoqil",
+      "example_spa": "El muchacho empezó a escoger esposa",
+      "dialect": null
+    }
+  ],
+  "uuid": "6531ddbd-1434-413e-bec6-f72cbc25c58b"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Pompotzireq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zacate espinoso que sirve para curar mal de ojo; poma",
+  "definitionDialect": "",
+  "additional_text": "SnP Var Pampatzreq DomS Abʼaj DomS Qʼayees DomS Kunabʼal",
+  "examples": [
+    {
+      "example_maya": "Li pompotzireq kʼix li uxaq xuq utz che kunabʼal",
+      "example_spa": "Este zacate tiene espinas en las hojas, también es bueno para remedio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pompotzireq utz che li qʼoxom wachaj",
+      "example_spa": "Este zacate es bueno para mal de ojo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pompotzireq na al taj ma xa saqkowin",
+      "example_spa": "La poma no pesa porque es pura arena",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8e7584c-be64-4f39-9c3b-d4bdb72312c8"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Elëqʼ",
+  "definition": "Robo Cosa robada",
+  "additional_text": "sInv Welëqʼ Tzaqik",
+  "examples": [
+    {
+      "example_maya": "Ri elëqʼ majun ütz ta",
+      "example_spa": "El robo no es bueno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa ruwiʼ ri elëqʼ kʼïy winäq yekän",
+      "example_spa": "En los robos mucha gente muere",
+      "dialect": null
+    }
+  ],
+  "uuid": "08ca1e5d-16cb-4f2d-9d11-ae6580087b31",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

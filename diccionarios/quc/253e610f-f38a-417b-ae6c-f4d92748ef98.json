@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzalkʼatixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzalkʼatij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dar vuelta de un lado a otro; retorcer los brazos",
+  "definitionDialect": "",
+  "additional_text": "vtd Raiz VT Tzal",
+  "examples": [
+    {
+      "example_maya": "Are taq xintzalkʼatij wibʼ pa li chʼat, xaq si xok nuwaram",
+      "example_spa": "Cuando di vuelta sobre la cama sentí sueño",
+      "dialect": null
+    }
+  ],
+  "uuid": "253e610f-f38a-417b-ae6c-f4d92748ef98"
+}

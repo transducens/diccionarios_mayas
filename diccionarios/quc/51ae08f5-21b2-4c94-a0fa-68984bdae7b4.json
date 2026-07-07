@@ -1,0 +1,24 @@
+{
+  "entryWord": "Koʼpijem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakoʼpijik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Terminarse; acabarse; disminuirse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Koʼ",
+  "examples": [
+    {
+      "example_maya": "Li kikʼay li winaq xkoʼpijik",
+      "example_spa": "La venta de la gente se está terminando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winaq katajin kekoʼpijik ma xbeʼ li qʼij",
+      "example_spa": "Las personas van disminuyendo porque ya es tarde",
+      "dialect": null
+    }
+  ],
+  "uuid": "51ae08f5-21b2-4c94-a0fa-68984bdae7b4"
+}

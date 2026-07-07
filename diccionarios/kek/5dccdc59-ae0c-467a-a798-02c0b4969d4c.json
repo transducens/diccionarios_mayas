@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kabʼ (kabʼl)",
+  "definition": "Casa",
+  "additional_text": "SSPL Wochoch var Kabʼl",
+  "examples": [
+    {
+      "example_maya": "Saʼ wochoch wan jun inmes",
+      "example_spa": "En mi casa tengo un gato",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wochoch aʼan tzʼalam cheʼ ru",
+      "example_spa": "Mi casa está hecha de madera",
+      "dialect": null
+    }
+  ],
+  "uuid": "5dccdc59-ae0c-467a-a798-02c0b4969d4c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

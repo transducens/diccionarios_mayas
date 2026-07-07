@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jujik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una hebra",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuya jujik qʼana chij pa li qʼin",
+      "example_spa": "La mujer puso una hebra de hilo amarillo en su trama",
+      "dialect": null
+    },
+    {
+      "example_maya": "Juchʼil sin tuj",
+      "example_spa": "Un baño en temascal (forma respetuosa)",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ae653e2-35c5-4ffb-8f4d-85c7f120f039"
+}

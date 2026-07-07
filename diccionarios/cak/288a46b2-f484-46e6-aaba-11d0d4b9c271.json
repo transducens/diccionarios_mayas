@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼäj",
+  "definition": "Pinol (maíz molido), harina",
+  "additional_text": "scv Nukʼaj Ixin, trigo",
+  "examples": [
+    {
+      "example_maya": "Kʼäj ja riʼ ri jokʼon kʼilin ixim",
+      "example_spa": "Pinol es el maíz tostado y molido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼäj ja riʼ ri nbʼan kaxlanwäy chi re",
+      "example_spa": "Harina es con la que se hace el pan",
+      "dialect": null
+    }
+  ],
+  "uuid": "288a46b2-f484-46e6-aaba-11d0d4b9c271",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

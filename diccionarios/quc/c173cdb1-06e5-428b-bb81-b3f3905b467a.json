@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rinum tzʼiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escupelo, orzuelo (grano que crece debajo de los ojos)",
+  "definitionDialect": "",
+  "additional_text": "sc",
+  "examples": [
+    {
+      "example_maya": "Waʼ we rinum tzʼiʼ riʼ jun seman kakʼojiʼ cheh li wachaj",
+      "example_spa": "Este escupelo tarda una semana en los ojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "c173cdb1-06e5-428b-bb81-b3f3905b467a"
+}

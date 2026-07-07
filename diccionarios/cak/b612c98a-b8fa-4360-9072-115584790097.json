@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sanüm",
+  "definition": "Cangrejos pequeños",
+  "additional_text": "SInv Nusanüm Chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri sanüm yeʼaläx kuchi naläx wi yaʼ",
+      "example_spa": "Los cangrejitos nacen donde nace agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri täq sanüm yalan jebʼël chi yetij",
+      "example_spa": "Los cangrejitos son muy buenos para comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "b612c98a-b8fa-4360-9072-115584790097",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

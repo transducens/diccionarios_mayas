@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ulaʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Recibir fiesta de algún santo en la casa; desvelarse por fiesta o viaje; velar candelas de una fiesta",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinwulaʼaaj",
+  "examples": [
+    {
+      "example_maya": "Kakulaʼj kibʼ ri aʼxojolobʼ kamik",
+      "example_spa": "Los bailadores se desvelan hoy",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwulaʼj na li sant kamik",
+      "example_spa": "Hoy voy a recibir a la imagen",
+      "dialect": null
+    }
+  ],
+  "uuid": "afca4b91-773a-465a-9663-7280d7ce193a"
+}

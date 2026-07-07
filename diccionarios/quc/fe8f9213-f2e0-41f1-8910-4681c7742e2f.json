@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaʼk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegado: lodo, sangre o pintura",
+  "definitionDialect": "General",
+  "additional_text": "Adj Utzʼaʼkiil, xtzʼaʼkirik Raíz P Tzʼaʼk",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj tzʼaʼk li xaqʼoʼl pa raqan li xajabʼ",
+      "example_spa": "El lodo se pegó en la suela de los zapatos",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe8f9213-f2e0-41f1-8910-4681c7742e2f"
+}

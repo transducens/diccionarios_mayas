@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xochʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lechuza, que se considera de mal agüero Si la lechuza grita anuncia enfermedad",
+  "definitionDialect": "",
+  "additional_text": "sNP Var Tuukur DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xochʼ we xuraq uchiʼ yabʼil kubʼij",
+      "example_spa": "Si la lechuza grita anuncia enfermedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1d3e1d1-901a-4191-b39d-975e7bdd2c98"
+}

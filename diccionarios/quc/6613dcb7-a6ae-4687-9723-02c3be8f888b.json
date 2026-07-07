@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jukʼuj",
+  "entryWordDialect": null,
+  "altEntryWord": "Jutzʼuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una gota",
+  "definitionDialect": "",
+  "additional_text": "Enu Sinón Raíz VT Kʼuj",
+  "examples": [
+    {
+      "example_maya": "Xya jukʼuj kunabʼal puchiʼ li neʼ ma xa yawabʼ",
+      "example_spa": "Al nene le dieron una gota de medicina porque está enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6613dcb7-a6ae-4687-9723-02c3be8f888b"
+}

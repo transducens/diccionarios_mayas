@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ripem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karipipik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Volar",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li sotzʼ xaq kok aqʼabʼ kikichap ripem",
+      "example_spa": "Al entrar la noche, los murciélagos empiezan a volar",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc1ac38e-e743-41fd-8b2e-945da30c6b7c"
+}

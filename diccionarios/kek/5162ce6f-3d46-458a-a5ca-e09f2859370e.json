@@ -1,0 +1,23 @@
+{
+  "entryWord": "Hireʼk",
+  "definition": "Regarse, deshilarse, descoserse",
+  "additional_text": "vi Xhireʼ",
+  "examples": [
+    {
+      "example_maya": "Xhireʼ saʼ poqs li aros chi wu",
+      "example_spa": "Se me regó el arroz en el polvo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xhireʼ xbʼojbʼal saʼ re rit linwex",
+      "example_spa": "Se descosió la costura de mi pantalón",
+      "dialect": null
+    }
+  ],
+  "uuid": "5162ce6f-3d46-458a-a5ca-e09f2859370e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

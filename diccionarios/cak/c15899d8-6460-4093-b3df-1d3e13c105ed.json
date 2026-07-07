@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sorosik",
+  "definition": "Rollizo y no muy largo, como un dedo inflamado",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Taq xirukʼët jun séra, kan sorosik xubʼän ri ruwi nuqʼaʼ",
+      "example_spa": "Cuando me picó una abeja, se hinchó bastante mi dedo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri koloʼ choj sorosik ma jubʼaʼ e achʼïy",
+      "example_spa": "Los lazos que son bofos no son resistentes",
+      "dialect": null
+    }
+  ],
+  "uuid": "c15899d8-6460-4093-b3df-1d3e13c105ed",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

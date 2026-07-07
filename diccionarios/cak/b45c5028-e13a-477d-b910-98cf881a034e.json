@@ -1,0 +1,28 @@
+{
+  "entryWord": "Xibʼirʼil (xibʼinʼil) xibʼin riʼil",
+  "definition": "Miedo, susto",
+  "additional_text": "scl Nuxibʼirʼil, nuxibʼin riʼil Xibʼ yabʼil",
+  "examples": [
+    {
+      "example_maya": "Ri xibʼirʼil nubʼän chawe chi man yatel ta el",
+      "example_spa": "El miedo le hace a uno no salir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun winäq rukʼamun ri yabʼil ximbʼiriʼil, wi xtoyöx, nikʼachoj, wi manäq nikän",
+      "example_spa": "Una persona que está enferma del susto, si lo llaman, sana, si no se muere",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo rutewul, kʼo ruxibʼiril",
+      "example_spa": "Hay temor",
+      "dialect": null
+    }
+  ],
+  "uuid": "b45c5028-e13a-477d-b910-98cf881a034e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

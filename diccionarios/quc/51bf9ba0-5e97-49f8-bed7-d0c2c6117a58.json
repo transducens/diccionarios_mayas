@@ -1,0 +1,19 @@
+{
+  "entryWord": "Malank",
+  "entryWordDialect": null,
+  "altEntryWord": "Numalank",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Malanga",
+  "definitionDialect": "general",
+  "additional_text": "sInv DomS Tiikoʼn Del Cast Malanga",
+  "examples": [
+    {
+      "example_maya": "Li malank pa taq xaqʼoʼl kakʼiy wih",
+      "example_spa": "La malanga crece en pantanos",
+      "dialect": null
+    }
+  ],
+  "uuid": "51bf9ba0-5e97-49f8-bed7-d0c2c6117a58"
+}

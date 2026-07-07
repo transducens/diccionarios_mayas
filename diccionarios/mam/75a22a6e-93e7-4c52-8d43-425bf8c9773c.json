@@ -1,0 +1,23 @@
+{
+  "entryWord": "T-XKʼOOMAL",
+  "definition": "cáscara",
+  "additional_text": "sy kyxkʼomal",
+  "examples": [
+    {
+      "example_maya": "Kyeʼyex naqʼatil t-xkʼomal chapil te tqʼeʼn ebʼaj",
+      "example_spa": "Es muy buena la cáscara de la mata de nance para bajar el dolor de muela",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kye tchis t-xkʼomal lanch ok tokx tuj qwitz",
+      "example_spa": "Arde mucho el zumo de la cáscara de naranja, cuando se mete en nuestros ojos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "75a22a6e-93e7-4c52-8d43-425bf8c9773c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

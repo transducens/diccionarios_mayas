@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHQʼALAAJ",
+  "definition": "plan, llano",
+  "additional_text": "s1 nchqʼalaja sin seʼsan raíz chqʼalaj s/a",
+  "examples": [
+    {
+      "example_maya": "Maʼ chqʼalaj Twiʼ Chupil",
+      "example_spa": "Es grande el llano en Chupil",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tzanx tenka chqʼalaj mitiʼ nnel tbʼanal tuʼn aʼ",
+      "example_spa": "Todo plan no es erosionado por el agua",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "9e18cffb-c74c-4e30-9926-c33f8a0c94f3",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

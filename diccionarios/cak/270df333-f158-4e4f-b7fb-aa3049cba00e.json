@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chay",
+  "definition": "Obsidiana Pedazos de vidrio",
+  "additional_text": "SInv Nuchay; Chaye;",
+  "examples": [
+    {
+      "example_maya": "Xok jun chay pa waqän",
+      "example_spa": "Se me entró un pedazo de vidrio en la planta del pie",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri rutzaʼn chʼabʼ ojer, bʼanon rikʼin chay",
+      "example_spa": "La punta de la flecha antigua era hecha con obsidiana",
+      "dialect": null
+    }
+  ],
+  "uuid": "270df333-f158-4e4f-b7fb-aa3049cba00e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

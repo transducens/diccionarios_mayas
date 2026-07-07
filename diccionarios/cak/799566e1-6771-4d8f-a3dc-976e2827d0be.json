@@ -1,0 +1,28 @@
+{
+  "entryWord": "Atinïk",
+  "definition": "Bañarse, flotar, nadar",
+  "additional_text": "vi Atinen, yinatin Atin",
+  "examples": [
+    {
+      "example_maya": "Kʼo winäq jebʼël ütz nikinaʼ yeʼatin pa raxyaʼ",
+      "example_spa": "Hay personas que les gusta bañarse en agua fría",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa täq raqän yaʼ yeʼatin yalan winäq",
+      "example_spa": "En los ríos se baña mucha gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin pa täq oxʼox qʼij yinatin",
+      "example_spa": "Yo me baño cada tres días",
+      "dialect": null
+    }
+  ],
+  "uuid": "799566e1-6771-4d8f-a3dc-976e2827d0be",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jachajik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partido; profunda: herida; rajado no completamente",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Jach",
+  "examples": [
+    {
+      "example_maya": "Li sokotajik sibʼalaj jachajik",
+      "example_spa": "La herida está muy profunda",
+      "dialect": null
+    }
+  ],
+  "uuid": "8ee5fba0-a8fd-4260-a745-cd4c628f71fe"
+}

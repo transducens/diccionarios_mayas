@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kurnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakurnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar animal con cola grande",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VI Kur",
+  "examples": [
+    {
+      "example_maya": "Li koy kakurnaj pa taq li kʼim",
+      "example_spa": "El coyote camina en los pajonales",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd31f7ed-7dea-470b-b3b8-26e66ebf7902"
+}

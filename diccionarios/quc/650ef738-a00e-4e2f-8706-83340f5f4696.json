@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jutzamaj rismaʼch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una barba tupida; un montón de hormigas",
+  "definitionDialect": "es",
+  "additional_text": "Enu Sinón Tzabʼatzik Raiz Adj Tzam",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj jutzamaj li rismaʼch",
+      "example_spa": "El hombre tiene la barba muy tupida",
+      "dialect": null
+    },
+    {
+      "example_maya": "E kʼo jutzamaj sanik pa raʼ li juwiʼ abʼix",
+      "example_spa": "Hay un montón de hormigas bajo la mata de milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "650ef738-a00e-4e2f-8706-83340f5f4696"
+}

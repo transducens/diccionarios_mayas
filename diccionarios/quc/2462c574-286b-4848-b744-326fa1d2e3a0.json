@@ -1,0 +1,24 @@
+{
+  "entryWord": "Puqem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perder el conocimiento por tomar guaro; cambiar de pelo o plumas; morirse aves de corral",
+  "definitionDialect": "",
+  "additional_text": "VI Kinpuuqik Sinón Puxaneem Raíz VI Puq",
+  "examples": [
+    {
+      "example_maya": "Xpuq li achih rumal li tzam",
+      "example_spa": "El hombre se quedó inconsciente por el aguardiente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼiʼ kapuq li kismal are taq e koʼkoj",
+      "example_spa": "Los perros cambian el pelaje cuando son pequeños",
+      "dialect": null
+    }
+  ],
+  "uuid": "2462c574-286b-4848-b744-326fa1d2e3a0"
+}

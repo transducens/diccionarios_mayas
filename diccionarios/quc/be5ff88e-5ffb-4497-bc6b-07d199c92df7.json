@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼarkʼar",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼarkʼar",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Matraca",
+  "definitionDialect": "General",
+  "additional_text": "SCV Var Kʼerkʼer",
+  "examples": [
+    {
+      "example_maya": "Li kʼarkʼar xaq xew\" pa awasqʼij kachokonik",
+      "example_spa": "La matraca sólo se usa en Semana Santa",
+      "dialect": null
+    }
+  ],
+  "uuid": "be5ff88e-5ffb-4497-bc6b-07d199c92df7"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mayalok",
+  "definition": "Mucho, bastante",
+  "additional_text": "PartCant",
+  "examples": [
+    {
+      "example_maya": "Mayalok ta li hal xtaw li wechkabʼal",
+      "example_spa": "Mi vecino cosechó bastantes mazorcas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Mayalokebʼ ta li tenamit chi xtojbʼal xbʼoleet",
+      "example_spa": "Mucha gente está pagando su ornato",
+      "dialect": null
+    }
+  ],
+  "uuid": "c164aa4e-8bda-44c3-af78-6efd876830cb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

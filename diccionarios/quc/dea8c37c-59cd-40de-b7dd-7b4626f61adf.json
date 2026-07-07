@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajaxul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pito de caña de castilla",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz S Aaj Uul DomS Etzʼabʼaʼl",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼojom kusuʼaj ajaxul",
+      "example_spa": "El músico ejecuta una melodía con el pito de caña de castilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "dea8c37c-59cd-40de-b7dd-7b4626f61adf"
+}

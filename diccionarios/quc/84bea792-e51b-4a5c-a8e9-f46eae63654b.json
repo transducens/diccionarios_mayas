@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Engordarse; madurarse; fermentar: supurar",
+  "definitionDialect": "",
+  "additional_text": "VI Kaqʼoobʼik Fbas //Qʼohbʼ//",
+  "examples": [
+    {
+      "example_maya": "Li wakax qʼobʼem ubʼanom",
+      "example_spa": "El ganado esta engordando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li spoj tajin kaqʼobʼ li upujal",
+      "example_spa": "El absceso está supurando",
+      "dialect": null
+    },
+    {
+      "example_maya": "We chqʼobʼ ri amak, katbʼe pa cheʼ",
+      "example_spa": "Si se agravan tus delitos, te vas a la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "84bea792-e51b-4a5c-a8e9-f46eae63654b"
+}

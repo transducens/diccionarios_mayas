@@ -1,0 +1,23 @@
+{
+  "entryWord": "QʼUULAN",
+  "definition": "tibio, medio caliente",
+  "additional_text": "adj tqʼulanil, ma qʼulanix raíz qʼul",
+  "examples": [
+    {
+      "example_maya": "Qʼulan tkʼaʼ luch xiʼ",
+      "example_spa": "Medio caliente fue la bebida que se le dio a pedro",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Matzan ma qulanlix chʼin kape",
+      "example_spa": "Hasta ahora se puso un poco tibio el café",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "066aa5dc-3073-436b-b099-5f558414f598",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

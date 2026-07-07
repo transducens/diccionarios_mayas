@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rokʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karokʼoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar persona desnuda en el agua, agarrándose de piedras",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz PT Rokʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal karokʼoʼp pa li jaʼ",
+      "example_spa": "El niño anda desnudo entre el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d77ba84-9cfb-4b8a-9e2c-98683319da77"
+}

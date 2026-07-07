@@ -1,0 +1,23 @@
+{
+  "entryWord": "TZALAJIBʼIL",
+  "definition": "1 alegría 2 saludos 3 gratitud",
+  "additional_text": "s1 ntzalajibʼila raíz tzalaj vi",
+  "examples": [
+    {
+      "example_maya": "Nim tzalajibʼil ma ten qxol tuj qʼij jaʼla",
+      "example_spa": "Hubo mucha alegría entre nosotros en este día que pasó",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aa jun tzalajibʼil xel nqʼoʼna te chojbʼil jun onbʼil ma tzaj",
+      "example_spa": "La ayuda que me dieron, la pago con gratitud",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "cf6fcb50-64f1-40a9-8a2c-d2e5e26eab08",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

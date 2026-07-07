@@ -1,0 +1,29 @@
+{
+  "entryWord": "Jeʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Ujeʼlal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xjeʼlobʼik",
+  "altEntryWordDialect2": null,
+  "definition": "Lindo; hermoso; bonito; sabroso",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Coment Es irregular, porque en la primera forma es posicional, pero las demás se hacen como si fuera jeʼl un adjetivo PPlu Jeʼjoj Bonitos (pl) Var Jebʼelik",
+  "examples": [
+    {
+      "example_maya": "Li tinamit sibʼalaj jeʼlik",
+      "example_spa": "El pueblo es muy bonito",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kapeh sibʼalaj jeʼlik, ma are qas tzij kapeh",
+      "example_spa": "El café puro es sabroso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xubʼan ujeʼlal chubʼixik li utzij pa li nimaqʼij",
+      "example_spa": "El niño recitó muy bonita su poesía en la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "be1be587-3775-465a-9a22-2ad397d357e5"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Salkʼön",
+  "definition": "Rajadura en la mano",
+  "additional_text": "sInv Nusalkʼön Yabʼil",
+  "examples": [
+    {
+      "example_maya": "Re salkʼön reʼ, jun yabʼil yalan itzel, nibʼix chi nojqan",
+      "example_spa": "Esta rajadura es una enfermedad muy peligrosa, dicen que es contagiosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq nipe salkʼön pan aqʼaʼ, kʼo re nel rukikʼel",
+      "example_spa": "Cuando brota esta enfermedad en la palma de la mano a veces sangra",
+      "dialect": null
+    }
+  ],
+  "uuid": "7a0939a4-b439-4480-bda7-edd064338695",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

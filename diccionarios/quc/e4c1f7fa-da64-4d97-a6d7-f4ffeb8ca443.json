@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tobʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con camisa o pantalón de cintura grande",
+  "definitionDialect": "",
+  "additional_text": "vi Katoobʼoʼpik Raíz p Tobʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq katobʼop pa li ratzʼyaq ma xa mim chech",
+      "example_spa": "El niño camina con dificultad, porque viste ropa grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "e4c1f7fa-da64-4d97-a6d7-f4ffeb8ca443"
+}

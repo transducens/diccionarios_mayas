@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wekewotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawekewotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lloviznar; ondear",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Wek",
+  "examples": [
+    {
+      "example_maya": "Li jabʼ xaq kawekewotik, chema kachʼaqabʼanik",
+      "example_spa": "Ayer lloviznó todo el día",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wiqobʼal kojom pa li nimaqʼij kawewot pa li kaqiqʼ",
+      "example_spa": "El adorno de papel que pusieron en la casa ondea por el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "fcb004a6-c909-4aeb-9da2-9a2cf90c54ce"
+}

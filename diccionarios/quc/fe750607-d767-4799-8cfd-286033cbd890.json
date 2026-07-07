@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ruido al vomitar; puf!",
+  "definitionDialect": "General",
+  "additional_text": "Al (Exclamación de asco)",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ oʼ xchaʼ are xxabʼik",
+      "example_spa": "El enfermo hizo oʼ, cuando vomitó",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe750607-d767-4799-8cfd-286033cbd890"
+}

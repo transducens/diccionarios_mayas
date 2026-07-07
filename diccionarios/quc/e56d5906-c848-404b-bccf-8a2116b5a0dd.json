@@ -1,0 +1,19 @@
+{
+  "entryWord": "Salpiʼch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manchas en la cara",
+  "definitionDialect": "",
+  "additional_text": "sinv Nusalpiʼch",
+  "examples": [
+    {
+      "example_maya": "Li salpiʼch chikipalaj akʼalabʼ kakʼiy wih",
+      "example_spa": "Estas manchas crecen en las caras de niños",
+      "dialect": null
+    }
+  ],
+  "uuid": "e56d5906-c848-404b-bccf-8a2116b5a0dd"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mebʼaʼil tzalatzil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pobreza (metáfora); riqueza (metáfora)",
+  "definitionDialect": "",
+  "additional_text": "ss",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼo umebaʼil tzalatzil",
+      "example_spa": "El hombre tiene riqueza",
+      "dialect": null
+    }
+  ],
+  "uuid": "7c64ae7c-eb42-42f9-92e2-bb528f9d565b"
+}

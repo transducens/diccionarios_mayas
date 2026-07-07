@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pekʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapekʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar inclinado hacia atrás",
+  "definitionDialect": "General",
+  "additional_text": "vI Raíz VT Pekʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kapekʼnaj kabʼinik",
+      "example_spa": "El hombre camina inclinado hacia atrás",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ae27643-1542-4d1c-b648-9ec8b8ddfa9f"
+}

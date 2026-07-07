@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rechʼelik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xrechʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xurechʼebʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Abierto, como herida o rajadura larga",
+  "definitionDialect": "General",
+  "additional_text": "p Raíz PT Rechʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq xok bʼaq chech li achih, xurechʼeba li uchiʼ",
+      "example_spa": "Cuando inyectaron al hombre, abrió la boca",
+      "dialect": null
+    }
+  ],
+  "uuid": "186c5dee-e4c4-47a9-8a8f-7eed1c4e3410"
+}

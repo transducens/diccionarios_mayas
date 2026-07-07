@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼarnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar morral vacío",
+  "definitionDialect": "General",
+  "additional_text": "vi Katzʼarnajik Raíz PT Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq katzʼarnaj uchim chrij are taq xopan chwa ja",
+      "example_spa": "El hombre traía el morral vacío, cuando llegó a su casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "b45fae1e-51d9-443f-b678-557c2c93b807"
+}

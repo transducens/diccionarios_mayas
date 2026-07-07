@@ -1,0 +1,18 @@
+{
+  "entryWord": "KARTOON",
+  "definition": "cartón",
+  "additional_text": "s1 nkartona del español cartón",
+  "examples": [
+    {
+      "example_maya": "Ma tzʼibʼan twitz jun piẍ karton",
+      "example_spa": "Escribió en un pedazo de cartón",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f3993ab8-a4a3-4c68-8a4a-66acadf0300c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

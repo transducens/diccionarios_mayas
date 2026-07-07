@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rebʼerik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espeso, como excremento de buey",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Rebʼ",
+  "examples": [
+    {
+      "example_maya": "Li wakax rebʼerik li ukis ubʼanom pa li roʼch",
+      "example_spa": "El buey tiene excremento espeso en su galera",
+      "dialect": null
+    }
+  ],
+  "uuid": "535e5a85-62c7-483e-a4d4-fcc741bb1543"
+}

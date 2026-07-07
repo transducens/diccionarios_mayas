@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tiiqʼ",
+  "definition": "Herida",
+  "additional_text": "sInv Intiiqʼ var Tiqʼilal",
+  "examples": [
+    {
+      "example_maya": "Xkʼira intiiqʼ",
+      "example_spa": "Se curó la herida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tiiqʼ we wu",
+      "example_spa": "Tengo heridas en diferentes partes del cuerpo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7afa997-a450-41fc-85d8-13b1058b6d95",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

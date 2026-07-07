@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jukʼalaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un manojo",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz P Kʼal",
+  "examples": [
+    {
+      "example_maya": "Li nim ixoq rukʼaʼm jukʼalaj usiʼ",
+      "example_spa": "La anciana lleva un manojo de leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jukʼalaj siʼ xaq kʼalan puliw",
+      "example_spa": "El manojo de leña está tirado en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c2f47c7-859a-4314-be87-b112c3907329"
+}

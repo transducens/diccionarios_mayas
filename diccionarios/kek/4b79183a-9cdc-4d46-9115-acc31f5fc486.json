@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mayej",
+  "definition": "Ofrenda, regalo, diezmo, sacrificio, contribución",
+  "additional_text": "sInv Inmayej",
+  "examples": [
+    {
+      "example_maya": "¿Jarubʼ ketzal li mayej xʼok?",
+      "example_spa": "¿Cuántos quetzales de ofrenda se recibió?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kachʼin raj inmayej waayeʼ",
+      "example_spa": "Aquí traigo un poco de mi contribución",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b79183a-9cdc-4d46-9115-acc31f5fc486",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

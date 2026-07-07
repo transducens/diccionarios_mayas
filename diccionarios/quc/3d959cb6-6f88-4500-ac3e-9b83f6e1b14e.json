@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ulim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llegar; regresar",
+  "definitionDialect": "",
+  "additional_text": "vi Kinulik Raíz VI Ul",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ kʼa te ulem kubʼan pa taqʼaj",
+      "example_spa": "El carro acaba de llegar de la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d959cb6-6f88-4500-ac3e-9b83f6e1b14e"
+}

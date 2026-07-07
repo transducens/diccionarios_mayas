@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuruwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Palpitar el corazón cuando uno está nervioso; latir el corazón cuando uno está nervioso",
+  "definitionDialect": "",
+  "additional_text": "vi Kinkʼuruwik Raiz VI Kʼur",
+  "examples": [
+    {
+      "example_maya": "Li a Pablo, xumajij kʼuruwem li ranimah, are taq xuchʼabʼej li alkalteh",
+      "example_spa": "A Pablo le empezó a palpitar el corazón cuando le habló al alcalde",
+      "dialect": null
+    }
+  ],
+  "uuid": "604fd5d8-32fb-47a7-96df-4d0b58467417"
+}

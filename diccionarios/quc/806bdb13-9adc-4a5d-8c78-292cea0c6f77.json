@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xoʼk",
+  "entryWordDialect": null,
+  "altEntryWord": "Xokah",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garabato para jalar ramas, zacate, o pan del horno",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuxoʼk var Xookah Raíz S Xoʼk",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal kaxlanwah xoʼk kujekʼbʼej reh li kaxlanwah pa li tuj",
+      "example_spa": "El panadero usa garabato para jalar los panes en el horno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajchak xoʼk kukoj cheh chapbʼal qʼayes",
+      "example_spa": "El trabajador usa garabato para agarrar el zacate",
+      "dialect": null
+    }
+  ],
+  "uuid": "806bdb13-9adc-4a5d-8c78-292cea0c6f77"
+}

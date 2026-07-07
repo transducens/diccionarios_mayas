@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rumurubʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karumurubʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventarse pita o lazo",
+  "definitionDialect": "vi.",
+  "additional_text": "Raíz VI Rum",
+  "examples": [
+    {
+      "example_maya": "Li ukolobʼ li achih xrumurubʼik are taq tajin kuxim li usiʼ",
+      "example_spa": "El lazo del hombre se reventó cuando estaba amarrando la leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ae11d66-1017-41ba-850e-212f35bbebdb"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una restregada",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Li alaj alih xaq jubʼach xuya che li upoʼt",
+      "example_spa": "La niña le dio una restregada a su güipil",
+      "dialect": null
+    }
+  ],
+  "uuid": "686e4ac3-88a3-48d5-b85e-497a35a1690d"
+}

@@ -1,0 +1,34 @@
+{
+  "entryWord": "Wachʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Atropellar; aplastar; destripar; machucar; chafar; estrujar; prensar; machacar; apisonar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinwachʼoh Raíz VT Wachʼ",
+  "examples": [
+    {
+      "example_maya": "Xwachʼ li achih, rumal li chʼichʼ",
+      "example_spa": "El hombre fue atropellado por el carro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinwachʼ raqan li wachiʼil cheh li nuxajabʼ",
+      "example_spa": "Aplaste el pie de mi compañero con mis zapatos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwachʼ na li xqʼeʼchaj cheh waqan",
+      "example_spa": "Voy a destripar el choconoy con mi pie",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwachʼ na li rorah, chwa li abʼaj, xa kinkoj cheh nukunabʼal",
+      "example_spa": "Voy a machacar la ruda con la piedra, porque la voy a usar para medicina",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad24bf21-0d2a-4996-9ec2-d955ab27da69"
+}

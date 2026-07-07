@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼotom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zanja; foso",
+  "definitionDialect": "",
+  "additional_text": "SnP Raíz VT Kʼot",
+  "examples": [
+    {
+      "example_maya": "Pa li kʼotom kakaraj wi kan li chʼichʼ ubʼinibʼal joron",
+      "example_spa": "En la zanja está el tubo para el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "f934dd4f-6179-4225-9bea-bfccda76c5bc"
+}

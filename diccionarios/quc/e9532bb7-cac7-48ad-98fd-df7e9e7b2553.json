@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jakaklabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajakaklabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar con paso largo; resbalarse continuamente entre lodo; juguetear",
+  "definitionDialect": "General",
+  "additional_text": "VI",
+  "examples": [
+    {
+      "example_maya": "Li achih kajakaklabʼik xbʼek, are taq xtzaqik",
+      "example_spa": "El hombre iba caminando con pasos largos cuando se cayó",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9532bb7-cac7-48ad-98fd-df7e9e7b2553"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Karneer (tzukxul)",
+  "definition": "Camero, oveja",
+  "additional_text": "sInv Inkarneer",
+  "examples": [
+    {
+      "example_maya": "Wan kaakʼaal inkarneer saʼ potreer",
+      "example_spa": "Tengo ochenta ovejas en el potrero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ewer xinloqʼ waqibʼ karneer",
+      "example_spa": "Ayer compré seis ovejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "661d3e90-eea8-4b71-955d-79dd5acf34f8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

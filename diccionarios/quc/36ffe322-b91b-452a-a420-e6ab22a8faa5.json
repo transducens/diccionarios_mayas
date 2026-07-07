@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yankʼaʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Menearse punta de una caña al llevarla o un puente de hamaca",
+  "definitionDialect": "",
+  "additional_text": "vi Kayankʼaʼtik Raíz VI Yan",
+  "examples": [
+    {
+      "example_maya": "Li qʼaʼam kʼo pwi li bʼinel jaʼ kayankʼaʼtik, ma xa chʼichʼ",
+      "example_spa": "El puente que está sobre el río se menea porque es de varillas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼichʼ utelem li achih chwi utelebʼ, kayankʼaʼt li utzaʼm",
+      "example_spa": "Las puntas de las varillas que lleva el hombre sobre el hombro se menean",
+      "dialect": null
+    }
+  ],
+  "uuid": "36ffe322-b91b-452a-a420-e6ab22a8faa5"
+}

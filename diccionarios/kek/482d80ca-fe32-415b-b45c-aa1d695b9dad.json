@@ -1,0 +1,23 @@
+{
+  "entryWord": "Oxibʼ",
+  "definition": "Tres (3)",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Oxibʼ xamaan xinwan chaq saʼ bʼanlebʼaal",
+      "example_spa": "Tres semanas fui a estar al hospital",
+      "dialect": null
+    },
+    {
+      "example_maya": "Oxibʼ sut",
+      "example_spa": "Tres veces",
+      "dialect": null
+    }
+  ],
+  "uuid": "482d80ca-fe32-415b-b45c-aa1d695b9dad",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

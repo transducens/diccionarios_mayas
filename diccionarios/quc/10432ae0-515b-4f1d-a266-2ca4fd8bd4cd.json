@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mil",
+  "definitionDialect": "",
+  "additional_text": "NumCard Del Cast Mil",
+  "examples": [
+    {
+      "example_maya": "Jun mil, okʼal kʼo chupam",
+      "example_spa": "Un mil tiene diez veces cien",
+      "dialect": null
+    }
+  ],
+  "uuid": "10432ae0-515b-4f1d-a266-2ca4fd8bd4cd"
+}

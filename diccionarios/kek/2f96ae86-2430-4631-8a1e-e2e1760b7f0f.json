@@ -1,0 +1,23 @@
+{
+  "entryWord": "Titzʼk",
+  "definition": "Aburrirse, fastidiarse, cansarse",
+  "additional_text": "VIR Xintitzʼ",
+  "examples": [
+    {
+      "example_maya": "Xintitzʼ chi xqʼusbʼalebʼ li kokʼal",
+      "example_spa": "Me cansé de reprender a los niños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xintitzʼ chi yokam chi ru chʼaat",
+      "example_spa": "Me cansé de estar postrado en la cama",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f96ae86-2430-4631-8a1e-e2e1760b7f0f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

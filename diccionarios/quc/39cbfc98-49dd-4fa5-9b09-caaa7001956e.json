@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qitzʼitzʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rechinar mucho, cama o silla",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinqitzʼitzʼeej Raiz VI Qitzʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Siʼs kuqitzʼitzʼej li chʼat",
+      "example_spa": "Francisco mueve mucho la cama",
+      "dialect": null
+    }
+  ],
+  "uuid": "39cbfc98-49dd-4fa5-9b09-caaa7001956e"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHIWTAAL",
+  "definition": "ciénaga, pantano",
+  "additional_text": "s1 nchiwtala sin yuʼyan, tʼal xoqʼal",
+  "examples": [
+    {
+      "example_maya": "Pur ttxaʼn chiwtal tkubʼ jun piẍ ntxʼotxʼa",
+      "example_spa": "Un mi pedazo de terreno lo tengo en la orilla de la ciénaga",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tbʼanalta tawaj tuʼnj chiwtal ttxʼotxʼaya",
+      "example_spa": "Tu siembra es buena por tu terreno pantanoso",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3118f3a6-eeae-4e39-919c-a85e31495e4e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

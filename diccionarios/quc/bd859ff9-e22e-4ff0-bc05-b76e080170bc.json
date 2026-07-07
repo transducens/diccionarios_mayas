@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajtzʼibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajtzʼibʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escribiente",
+  "definitionDialect": "",
+  "additional_text": "SAgen",
+  "examples": [
+    {
+      "example_maya": "Li ajtzʼibʼ pa qʼatbʼal tzij sibʼalaj kʼo uchak",
+      "example_spa": "El escribiente de la municipalidad tiene mucho trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd859ff9-e22e-4ff0-bc05-b76e080170bc"
+}

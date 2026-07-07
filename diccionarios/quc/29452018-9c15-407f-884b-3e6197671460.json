@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaʼma ik",
+  "entryWordDialect": "SCL",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de chile",
+  "definitionDialect": "Español",
+  "additional_text": "Raíz S Iik kʼaʼaam Raíz S Iik",
+  "examples": [
+    {
+      "example_maya": "Waʼ we kʼaʼma ik are sibʼalaj poqon chwach nikʼaj chik",
+      "example_spa": "Este chile es más picante que otros",
+      "dialect": null
+    }
+  ],
+  "uuid": "29452018-9c15-407f-884b-3e6197671460"
+}

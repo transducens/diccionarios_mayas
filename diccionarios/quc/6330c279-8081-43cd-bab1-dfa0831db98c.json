@@ -1,0 +1,29 @@
+{
+  "entryWord": "Empeʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Para mientras",
+  "definitionDialect": "General",
+  "additional_text": "Part Coment Partícula que sólo se usa después de imperativos",
+  "examples": [
+    {
+      "example_maya": "Jat empeʼ",
+      "example_spa": "Váyase a descansar para mientras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chakʼama ampe bʼik (//chʼakʼamaʼ empeʼ bʼik//)",
+      "example_spa": "Llévalo a pasear para mientras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kixpet empe chweʼq",
+      "example_spa": "Para mientras, véngase mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "6330c279-8081-43cd-bab1-dfa0831db98c"
+}

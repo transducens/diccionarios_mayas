@@ -1,0 +1,23 @@
+{
+  "entryWord": "AANMA",
+  "definition": "corazón",
+  "additional_text": "s1 wanmaya derivaciones: tanma tacto; nervio frases: tanma kutzʼ corazón de gorrión del español ánima ds xumlalbʼaj",
+  "examples": [
+    {
+      "example_maya": "Noq nputan tanma nital nbʼicha",
+      "example_spa": "Sólo está palpitando el corazón de mi polito",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aj at kyaq qiʼj tzinxax nputan qanma wena",
+      "example_spa": "Cuando tenemos temperatura como palpita nuestro corazón",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "2cfe0b81-7c0a-416b-aa68-8e836f475100",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼebʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar descalzo o a pie; tortear tortilla gruesa",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintʼebʼoh Raíz PT Tʼebʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, xaq kutebʼ chraqan xbʼe pa Armit",
+      "example_spa": "El hombre se fue a pie para Guatemala",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq tajin kutʼebʼ lij",
+      "example_spa": "La mujer está torteando tortillas gruesas",
+      "dialect": null
+    }
+  ],
+  "uuid": "5f1c2bf9-436f-4536-97b9-624a1154ac57"
+}

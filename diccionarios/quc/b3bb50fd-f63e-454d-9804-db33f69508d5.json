@@ -1,0 +1,19 @@
+{
+  "entryWord": "Meʼch",
+  "entryWordDialect": null,
+  "altEntryWord": "Ajmeʼch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Chiilʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Cuento; chiste",
+  "definitionDialect": "",
+  "additional_text": "SInv Numeʼch Coment Dialecto costeño //Meʼch// //meʼch// SAgen Sinón",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kuchʼobʼ jun meʼch chkech li rachiʼil",
+      "example_spa": "El hombre está contándoles un cuento a sus compañeros",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3bb50fd-f63e-454d-9804-db33f69508d5"
+}

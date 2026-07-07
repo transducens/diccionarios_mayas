@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xuʼmanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxuʼmanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brotar muchos granos juntos en el cuerpo (sarampión); florear cualquier siembra",
+  "definitionDialect": "Raíz s. Xu'm.",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Tajin kaxuʼman li ij chrij li akʼal",
+      "example_spa": "El sarampión está brotando en el cuerpo del niño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ronojel uwach qʼayes we xok saqʼij kaxuʼmanik",
+      "example_spa": "Cuando comienza el verano florean todas las clases de yerbas",
+      "dialect": null
+    }
+  ],
+  "uuid": "423935d4-9716-44da-b7ae-56b9b9f03c7f"
+}

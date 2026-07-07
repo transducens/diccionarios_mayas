@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rochorik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande; hoyo (como cueva de coyote)",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raiz PT Roch",
+  "examples": [
+    {
+      "example_maya": "Nima rochorik ubʼanom li ujul li utiw",
+      "example_spa": "La cueva del coyote es grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3276a12-192f-4c05-8d25-a683f4fb2b2b"
+}

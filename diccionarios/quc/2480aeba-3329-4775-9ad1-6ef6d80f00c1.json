@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tomayixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lazar, agarrar con lazo a los animales",
+  "definitionDialect": "",
+  "additional_text": "vt Kintomayiij",
+  "examples": [
+    {
+      "example_maya": "Li bʼakeʼr xutomayij li wakax",
+      "example_spa": "El vaquero lazó al buey",
+      "dialect": null
+    }
+  ],
+  "uuid": "2480aeba-3329-4775-9ad1-6ef6d80f00c1"
+}

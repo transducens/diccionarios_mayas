@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kabʼijir",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Anteayer",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kabʼijir xtzir uyakik li kʼakʼa jah",
+      "example_spa": "Anteayer se terminó de construir la casa nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a4cf3b2-2716-41fb-b089-d6f366024973"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quchʼquchʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuquchʼquchʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carne dura, cruda o no bien cocida",
+  "definitionDialect": "",
+  "additional_text": "SInv Coment Modismo",
+  "examples": [
+    {
+      "example_maya": "¿Katij quchʼquchʼ kamik?",
+      "example_spa": "¿Vas a comer carne ahora?",
+      "dialect": null
+    }
+  ],
+  "uuid": "31aa776e-030c-415a-8aac-76a2daeb60c0"
+}

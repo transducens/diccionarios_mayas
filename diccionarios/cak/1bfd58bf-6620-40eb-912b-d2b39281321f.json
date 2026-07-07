@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xibʼinel",
+  "definition": "Espanto, fantasma",
+  "additional_text": "sAgen",
+  "examples": [
+    {
+      "example_maya": "Taq jun winäq nutzʼët jun xibʼinel, wi kow näq chke ta nukʼulwachij, wi manäq jubʼa ma nikän",
+      "example_spa": "Cuando una persona ve un espanto, si es fuerte no le sucede nada, si no, casi lo mata",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xibʼinel ruyon chaqʼaʼ yexibʼin",
+      "example_spa": "Los fantasmas sólo de noche espantan",
+      "dialect": null
+    }
+  ],
+  "uuid": "1bfd58bf-6620-40eb-912b-d2b39281321f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼansiʼs",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doncella (tipo de abeja); cera de la abeja doncella",
+  "definitionDialect": "",
+  "additional_text": "sNp DomS Chkop DomS Kaabʼ",
+  "examples": [
+    {
+      "example_maya": "Li qʼansiʼs qʼan kekaʼyik, katijow li kikabʼil",
+      "example_spa": "Las doncellas son amarillas y su miel es comestible",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a84e1c0-fe84-4ba1-9ffb-f3dd20f541cd"
+}

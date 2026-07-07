@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼuquʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy viejo: vestido",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz S Tʼuq",
+  "examples": [
+    {
+      "example_maya": "Li ratzʼyaq li poy sibʼalaj tʼuquʼq",
+      "example_spa": "El vestido del espantapájaros está muy viejo y roto",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c1e5ba7-5e81-40ae-961f-af78f59387ca"
+}

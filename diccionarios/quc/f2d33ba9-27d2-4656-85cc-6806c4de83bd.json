@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tuʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Leche de mujer; chiche; sabia",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutuʼ Sinón Tzʼum Raíz S Tuʼ",
+  "examples": [
+    {
+      "example_maya": "Li neʼ xya utuʼ, ma xa koqʼik",
+      "example_spa": "Le dieron chiche al nene porque está llorando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ucheʼal li ul\" kʼo utuʼ",
+      "example_spa": "El palo de hule tiene sabia",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2d33ba9-27d2-4656-85cc-6806c4de83bd"
+}

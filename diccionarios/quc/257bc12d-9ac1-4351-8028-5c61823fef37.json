@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lichexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlichej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agarrar o llevar cosa en forma de abanico",
+  "definitionDialect": "",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom xulichej bʼi li ratzʼyaq li alaj alih",
+      "example_spa": "El ladrón se llevó la ropa plegada de la niña",
+      "dialect": null
+    }
+  ],
+  "uuid": "257bc12d-9ac1-4351-8028-5c61823fef37"
+}

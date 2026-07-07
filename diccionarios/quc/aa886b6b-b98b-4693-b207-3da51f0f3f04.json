@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼamal ubʼe koj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de pájaro",
+  "definitionDialect": "Tz'ikin.",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li kʼamal ubʼe koj, kuraq uchiʼ pa taq swan",
+      "example_spa": "Este pájaro canta por la noche en los barrancos",
+      "dialect": null
+    }
+  ],
+  "uuid": "aa886b6b-b98b-4693-b207-3da51f0f3f04"
+}

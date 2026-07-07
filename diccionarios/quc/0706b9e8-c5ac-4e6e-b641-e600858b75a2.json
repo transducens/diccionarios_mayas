@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rachaq qʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurachaq qʼaqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "rachaq nuqʼaaqʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Brasa",
+  "definitionDialect": "general",
+  "additional_text": "sc Raíz S Achaq Raíz S Qʼaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li tiʼij utz kabʼol pa rachaq qʼaqʼ",
+      "example_spa": "Es bueno asar la carne en las brasas",
+      "dialect": null
+    }
+  ],
+  "uuid": "0706b9e8-c5ac-4e6e-b641-e600858b75a2"
+}

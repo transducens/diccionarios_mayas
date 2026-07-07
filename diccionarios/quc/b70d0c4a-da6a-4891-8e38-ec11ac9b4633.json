@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jukʼulaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un par, pareja",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz S Kʼul",
+  "examples": [
+    {
+      "example_maya": "Li achih, xuloqʼ jukʼulaj uxajabʼ kʼakʼ",
+      "example_spa": "El hombre compró un par de caites nuevos",
+      "dialect": null
+    }
+  ],
+  "uuid": "b70d0c4a-da6a-4891-8e38-ec11ac9b4633"
+}

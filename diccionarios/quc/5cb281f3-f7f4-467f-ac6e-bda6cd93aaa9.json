@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wayiʼjal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escasez de maíz o alimentación básicos; hambre; carencia, falta, mezquindad",
+  "definitionDialect": "",
+  "additional_text": "sinv Nuwayiʼjaal Var Nuumik Raíz S Wah DomS Nuumik",
+  "examples": [
+    {
+      "example_maya": "Konojel winaq xkiriq wayiʼjal",
+      "example_spa": "Toda la gente está sufriendo hambre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ojer tzij pa ri tinamit kanan konojel ri ramaqʼ jacob xkiriq nimalaj wayiʼjal",
+      "example_spa": "En tiempos antiguos, en el pueblo de Canaan, toda la tribu de Jacob sufrió escasez de alimentos básicos",
+      "dialect": null
+    }
+  ],
+  "uuid": "5cb281f3-f7f4-467f-ac6e-bda6cd93aaa9"
+}

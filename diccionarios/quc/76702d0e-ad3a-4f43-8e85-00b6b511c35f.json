@@ -1,0 +1,19 @@
+{
+  "entryWord": "Par\"wel\"",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupar\"wel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parihuela",
+  "definitionDialect": "",
+  "additional_text": "sInv Var Chʼatun cheeʼ Parihuela",
+  "examples": [
+    {
+      "example_maya": "Li par\"wel\" kachokon che erebʼal xaqʼoʼl",
+      "example_spa": "La parihuela se usa para acarrear lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "76702d0e-ad3a-4f43-8e85-00b6b511c35f"
+}

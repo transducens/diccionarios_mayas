@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqmesmoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dura y limpia: tierra; limpia y dura: tierra",
+  "definitionDialect": "",
+  "additional_text": "PC Raíz Adj Kaq Raíz S Mes",
+  "examples": [
+    {
+      "example_maya": "Li upa li bʼeh sibʼalaj kaqmesmoj",
+      "example_spa": "El camino está duro y limpio",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bf6b738-ced9-4c90-a0ab-caacbd598acb"
+}

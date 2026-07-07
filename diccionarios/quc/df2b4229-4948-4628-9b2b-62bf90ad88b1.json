@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼoqotajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacar con facilidad",
+  "definitionDialect": "",
+  "additional_text": "vi Katzʼoqotajik Raíz VT Tzʼoq",
+  "examples": [
+    {
+      "example_maya": "Li lawux wemna utz ubʼajixik bʼanon, katzʼoqotajik",
+      "example_spa": "Si el clavo no está bien clavado fácilmente se arranca",
+      "dialect": null
+    }
+  ],
+  "uuid": "df2b4229-4948-4628-9b2b-62bf90ad88b1"
+}

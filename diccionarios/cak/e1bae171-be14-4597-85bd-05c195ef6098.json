@@ -1,0 +1,23 @@
+{
+  "entryWord": "Saqʼijin (saqʼjin)",
+  "definition": "Aclararse el día despejarse el día o el tiempo",
+  "additional_text": "vI",
+  "examples": [
+    {
+      "example_maya": "Yalan nikʼasäs täq nisaqʼijin el",
+      "example_spa": "Es muy alegre cuando aclara",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo bʼey chanin nisaqʼijin el, taq muqül niseqär",
+      "example_spa": "A veces se aclara luego el día, cuando amanece nublado",
+      "dialect": null
+    }
+  ],
+  "uuid": "e1bae171-be14-4597-85bd-05c195ef6098",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paqʼapatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Pokʼopotem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido palmadas seguidas, como al tortear o pepitas al ser masticadas por un coche",
+  "definitionDialect": "General",
+  "additional_text": "vi Kapaqʼapatik Sinón Raíz VI Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Kapaqʼapat che lij",
+      "example_spa": "Está dando palmadas al tortear",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li aq xaq kapaqʼapat xoʼl taq jah",
+      "example_spa": "El cerdo sólo está masticando pepitas en las calles",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3f6ff4d-3098-48db-b04d-282b8073417d"
+}

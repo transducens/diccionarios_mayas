@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqa tew",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frío seco, no cae hielo",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz Adj Qʼeq teew",
+  "examples": [
+    {
+      "example_maya": "Li qʼeqa tew na saq ta kakaʼyik",
+      "example_spa": "El frío seco, no es de color blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a84f219-3f8b-44ef-bc13-563499425d40"
+}

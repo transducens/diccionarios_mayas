@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼokokʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼokokʼobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despegarse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Kʼok",
+  "examples": [
+    {
+      "example_maya": "Li chʼaʼk we xchaqijik, kakʼokokʼobʼ li uwach",
+      "example_spa": "Cuando el grano se seca, se despega la costra",
+      "dialect": null
+    }
+  ],
+  "uuid": "5713a009-4180-485c-ae77-074dedc46dde"
+}

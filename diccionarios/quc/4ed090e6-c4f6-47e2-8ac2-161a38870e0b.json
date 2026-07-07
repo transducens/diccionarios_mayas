@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzatzem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapatzatzik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido en la basura",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VI Patz",
+  "examples": [
+    {
+      "example_maya": "Li chʼo kapatzatz pa li mes",
+      "example_spa": "El ratón hace ruido en el basurero",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ed090e6-c4f6-47e2-8ac2-161a38870e0b"
+}

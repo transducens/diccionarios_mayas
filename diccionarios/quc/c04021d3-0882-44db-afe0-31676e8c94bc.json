@@ -1,0 +1,19 @@
+{
+  "entryWord": "Locholik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bocón: hoyo o trastos",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Loch",
+  "examples": [
+    {
+      "example_maya": "Li tʼuʼy na utz taj ma locholik li uchiʼ",
+      "example_spa": "La olla no sirve porque es bocona",
+      "dialect": null
+    }
+  ],
+  "uuid": "c04021d3-0882-44db-afe0-31676e8c94bc"
+}

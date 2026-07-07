@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼaʼnarem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enojarse",
+  "definitionDialect": "Español",
+  "additional_text": "vI Kinkʼaʼnarik Raíz Adj Kʼaʼn",
+  "examples": [
+    {
+      "example_maya": "Le ajtij xkʼaʼnarik ma na kaketaʼmaj ta li tzʼibʼ li tijoxelabʼ",
+      "example_spa": "El maestro se enojó porque los alumnos no aprenden la escritura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li rachajil li ixoq chanim kumaj kʼaʼnarem",
+      "example_spa": "El marido de la mujer se enoja rápido",
+      "dialect": null
+    }
+  ],
+  "uuid": "39a246cb-b278-4244-8e65-2049204751a1"
+}

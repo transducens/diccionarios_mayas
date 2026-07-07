@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sutixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsutij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rodear; cercar; girar; dar vueltas",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Sut",
+  "examples": [
+    {
+      "example_maya": "Kinsutij na li wabʼix pa kʼixa chʼichʼ",
+      "example_spa": "Voy a rodear mi milpa de alambre espigado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinsutij li ukareʼtal li bʼinel chʼich",
+      "example_spa": "Voy a darle vueltas a la llanta del carro",
+      "dialect": null
+    }
+  ],
+  "uuid": "12222a72-9e0a-4486-8c8d-4ffecbfd8775"
+}

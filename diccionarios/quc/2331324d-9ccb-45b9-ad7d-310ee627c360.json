@@ -1,0 +1,19 @@
+{
+  "entryWord": "Techʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintechʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Somatar; topetar",
+  "definitionDialect": "general",
+  "additional_text": "vt Raíz PT Techʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xutechʼij li ujolom li tzʼiʼ cheh li chakitebʼ",
+      "example_spa": "El niño le somató la cabeza en la mesa al perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "2331324d-9ccb-45b9-ad7d-310ee627c360"
+}

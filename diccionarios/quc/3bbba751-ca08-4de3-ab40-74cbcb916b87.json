@@ -1,0 +1,19 @@
+{
+  "entryWord": "Metik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar la semilla del algodón",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinmetoh Sinón Elesan tuux Raíz S Met",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kumet li umet",
+      "example_spa": "La mujer está quitándole las semillas al algodón",
+      "dialect": null
+    }
+  ],
+  "uuid": "3bbba751-ca08-4de3-ab40-74cbcb916b87"
+}

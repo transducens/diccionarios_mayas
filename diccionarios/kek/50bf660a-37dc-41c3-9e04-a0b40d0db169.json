@@ -1,0 +1,23 @@
+{
+  "entryWord": "Raʼal",
+  "definition": "Trampa",
+  "additional_text": "sInv Inraʼal Sinón: Chʼimbʼ",
+  "examples": [
+    {
+      "example_maya": "Jun li bʼa xinkamsi chi ru li raʼal",
+      "example_spa": "Maté una taltuza con la trampa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li raʼal aʼin ak xkamsi junmay chi chʼo",
+      "example_spa": "Esta trampa ya mató veinte ratones",
+      "dialect": null
+    }
+  ],
+  "uuid": "50bf660a-37dc-41c3-9e04-a0b40d0db169",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

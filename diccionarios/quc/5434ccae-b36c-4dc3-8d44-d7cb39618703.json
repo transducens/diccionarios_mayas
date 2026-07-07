@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ribʼriʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Panzudo",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Ribʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xa ribʼriʼx ma xa kʼo rajiʼt",
+      "example_spa": "El niño está panzudo porque tiene lombrices",
+      "dialect": null
+    }
+  ],
+  "uuid": "5434ccae-b36c-4dc3-8d44-d7cb39618703"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼameʼy (chʼamiʼy)",
+  "definition": "Vara edilicia, bordón, bastón",
+  "additional_text": "SInv Nuchʼameʼy Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Chʼamey nibʼix chi re ri cheʼ nikʼatzin chi ke ri rijitaʼq täq winäq ri ma yetikir ta chik yebʼyin jebʼel",
+      "example_spa": "Bastón se le llama al palo que utilizan las personas ancianas que ya no pueden caminar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun achin xuqʼäj jun raqän ma nitikir ta nibʼyin, kʼa rikʼin na chʼameʼy nibʼyin jubʼaʼ",
+      "example_spa": "Un hombre que se fracturó una pierna no puede caminar, con bastón puede un poco",
+      "dialect": null
+    }
+  ],
+  "uuid": "8023bccb-f2c6-46b6-a98e-49c37bea0a67",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

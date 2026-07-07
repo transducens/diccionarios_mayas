@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jatʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amarrar; atar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinjatʼiij p Jatʼilik Amarrado vt Jatʼatʼexik Amarrar bien vi Jatʼmaʼyeem Andar con vestido muy apretado vi Jatʼnajeem Andar con vestido apretado vi Jatʼakateem Andar con vestido apretado Ximonik Sinón",
+  "examples": [
+    {
+      "example_maya": "Kinjatʼij na li nuwakax chwa li jun cheʼ",
+      "example_spa": "Voy a atar al toro en el palo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Luʼx xujatʼij li usiʼ pa kolobʼ",
+      "example_spa": "Alonso amarró su leña con el lazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "2e1a967e-2a97-4524-8b5f-eefded787d4e"
+}

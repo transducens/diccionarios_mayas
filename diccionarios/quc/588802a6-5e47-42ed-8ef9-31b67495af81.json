@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wakʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parado: animal de muchas patas; deshojado: árbol",
+  "definitionDialect": "",
+  "additional_text": "p Xwakʼiʼk, xuwakʼabʼaʼ Sinón Chakʼachik Raíz P Wakʼ",
+  "examples": [
+    {
+      "example_maya": "Li uqʼabʼ li cheʼ xaq wakʼalik",
+      "example_spa": "Las ramas del árbol están deshojadas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xaʼn wakʼal chwa li xan rech li jah",
+      "example_spa": "El zancudo está parado en la pared de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "588802a6-5e47-42ed-8ef9-31b67495af81"
+}

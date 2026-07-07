@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mantah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costal hecho de tela blanca (manta)",
+  "definitionDialect": "",
+  "additional_text": "scv Numaantaa DomS Atzʼyaq DomS Chokonisaʼ Del Cast Manta",
+  "examples": [
+    {
+      "example_maya": "Li kʼaj pa mantah kakʼayix wih",
+      "example_spa": "La harina se vende en costales de manta",
+      "dialect": null
+    }
+  ],
+  "uuid": "9718071f-f040-4d70-8e89-540bf0c163a6"
+}

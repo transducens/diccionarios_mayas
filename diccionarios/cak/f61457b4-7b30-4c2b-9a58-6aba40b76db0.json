@@ -1,0 +1,23 @@
+{
+  "entryWord": "Echan",
+  "definition": "Cuñado de mujer",
+  "additional_text": "sInv Wechan Ant Ixnan Winäq",
+  "examples": [
+    {
+      "example_maya": "Wechan nchaʼ jun ixöq chi re runimal chuqaʼ chi re ruchaqaʼ ri rachjil",
+      "example_spa": "Cuñado, le dice una mujer al hermano mayor o menor de su marido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo echan yalan itzel kinaʼoj",
+      "example_spa": "Hay cuñados que son muy malos",
+      "dialect": null
+    }
+  ],
+  "uuid": "f61457b4-7b30-4c2b-9a58-6aba40b76db0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

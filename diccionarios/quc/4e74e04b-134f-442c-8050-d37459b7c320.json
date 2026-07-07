@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sarik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsaroh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar con puño o palo grueso",
+  "definitionDialect": "",
+  "additional_text": "VTR Raíz VT Sar",
+  "examples": [
+    {
+      "example_maya": "Li qʼat itzel taq alabʼom are kakaj kinkisar chi cheʼ",
+      "example_spa": "Los muchachos malos quieren pegarme con palos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e74e04b-134f-442c-8050-d37459b7c320"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutoqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un puyón",
+  "definitionDialect": "",
+  "additional_text": "ClasNum Raíz VT Toqʼ",
+  "examples": [
+    {
+      "example_maya": "Li pilol wakax xaq jutoqʼ xuya che li uqul li wakax",
+      "example_spa": "El destazador de bueyes le dio un solo puyón en el pescuezo al buey",
+      "dialect": null
+    }
+  ],
+  "uuid": "321c3f6b-1178-40b3-8528-ebe6a1fcd869"
+}

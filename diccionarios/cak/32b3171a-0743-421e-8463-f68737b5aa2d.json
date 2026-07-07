@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yakʼayïk",
+  "definition": "Delgado de en medio por naturaleza o por estar amarrado",
+  "additional_text": "AdjD Sinón: Yachʼayïk",
+  "examples": [
+    {
+      "example_maya": "Ri nataʼ kʼo jun rutzuy, kan chʼiti yakʼayïk rupam, yalan ütz nutzʼet",
+      "example_spa": "Mi papá tiene un tecomate que es bien delgadito de en medio y le gusta mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo ixoqiʼ yalan yakʼayïk kipan",
+      "example_spa": "Hay mujeres que tienen delgada la cintura",
+      "dialect": null
+    },
+    {
+      "example_maya": "E kʼo achijaʼ täq tzʼiʼ (tzʼeʼ) yakʼayïk xe xipan",
+      "example_spa": "Algunos perros tienen delgado el estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "32b3171a-0743-421e-8463-f68737b5aa2d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

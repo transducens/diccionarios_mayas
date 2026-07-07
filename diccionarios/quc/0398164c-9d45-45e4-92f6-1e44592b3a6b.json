@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼininem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar lira o xilófono, marimba",
+  "definitionDialect": "Spanish",
+  "additional_text": "vI Kakʼininik Raiz VI Kʼin",
+  "examples": [
+    {
+      "example_maya": "Kakʼinin li chʼichʼa qʼojom rumal li tijoxel",
+      "example_spa": "El alumno hace sonar el xilófono",
+      "dialect": null
+    }
+  ],
+  "uuid": "0398164c-9d45-45e4-92f6-1e44592b3a6b"
+}

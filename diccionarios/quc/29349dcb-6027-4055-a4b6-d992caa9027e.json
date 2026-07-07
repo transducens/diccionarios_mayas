@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼakeʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vaquero",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼakeʼr Del Cast Vaquero",
+  "examples": [
+    {
+      "example_maya": "Li bʼakeʼr xtzaq la chrij li kej",
+      "example_spa": "El vaquero se cayó del caballo",
+      "dialect": null
+    }
+  ],
+  "uuid": "29349dcb-6027-4055-a4b6-d992caa9027e"
+}

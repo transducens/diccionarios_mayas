@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼet, kʼet, kʼet",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ruido que hace la gallina para llamar a los pollitos; llamada que hacen las personas a los pollitos",
+  "definitionDialect": "",
+  "additional_text": "al",
+  "examples": [
+    {
+      "example_maya": "Kʼet, kʼet, kʼet kacha li ixoq are taq kuʼsikʼij li wichʼ",
+      "example_spa": "Kʼet, kʼet, kʼet, dice la mujer cuando llama a los pollitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ae7b951-5e73-4a7f-9ac2-1a6566d738ff"
+}

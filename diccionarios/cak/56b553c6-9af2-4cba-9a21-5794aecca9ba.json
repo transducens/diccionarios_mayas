@@ -1,0 +1,23 @@
+{
+  "entryWord": "Toʼon (toʼön)",
+  "definition": "Tamal de frijol",
+  "additional_text": "sInv Nutoʼon, nutoʼön Wäy",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun tinamït ri kuchiʼ jebʼël nikʼayix toʼon",
+      "example_spa": "Hay un pueblo donde venden tamalitos de frijol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri toʼön yalan jebʼël titij",
+      "example_spa": "El tamalito de frijol es muy rico",
+      "dialect": null
+    }
+  ],
+  "uuid": "56b553c6-9af2-4cba-9a21-5794aecca9ba",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

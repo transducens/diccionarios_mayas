@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajqʼin",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajqʼin",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mujer que sabe urdir, urdidor, urdidora",
+  "definitionDialect": "General",
+  "additional_text": "SAgen Raíz S Qʼin",
+  "examples": [
+    {
+      "example_maya": "Li ixoq ajqʼin sibʼalaj utz kubʼan cheh",
+      "example_spa": "La mujer es buena para urdir",
+      "dialect": null
+    }
+  ],
+  "uuid": "483ec632-d967-4105-97ed-50c3aa0aeba2"
+}

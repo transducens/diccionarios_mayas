@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼutzbʼuʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonado: ropa, algodón y otras cosas suaves; enredado: hilo",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz P Bʼutz",
+  "examples": [
+    {
+      "example_maya": "Li bʼatzʼ xubʼan bʼutzbʼuʼy pa li kembʼal",
+      "example_spa": "El hilo está enredado en el telar",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b2ca3b3-d9f9-4bd9-97d6-7e3d7b24cfef"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tulututem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agitar las manos; mover manos o pies estando inquieto; patalear",
+  "definitionDialect": "Katulututik.",
+  "additional_text": "vi Raíz VT Tul",
+  "examples": [
+    {
+      "example_maya": "Li wakax katulututik, ma xa kapiilik",
+      "example_spa": "El buey se mueve porque le amarraron las patas para destazarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "42aa9b5d-b137-44a1-90aa-0b18118a8184"
+}

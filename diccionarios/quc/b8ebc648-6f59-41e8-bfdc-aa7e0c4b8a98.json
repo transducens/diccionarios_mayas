@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pepeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mariposa",
+  "definitionDialect": "General",
+  "additional_text": "snP DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li pepeh kexikʼikʼ pwi taq li kotzʼiʼj, xuq kakiya xujut che taq li ichaj",
+      "example_spa": "Las mariposas vuelan sobre las flores y dejan gusanos en las verduras Peh",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8ebc648-6f59-41e8-bfdc-aa7e0c4b8a98"
+}

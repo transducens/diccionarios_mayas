@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jeʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Galán",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj jeʼl li alih ma qʼoʼom li upoʼt",
+      "example_spa": "La muchacha está galana con su güipil bordado",
+      "dialect": null
+    }
+  ],
+  "uuid": "503c9b2e-43a1-492d-a3cf-456ea993166f"
+}

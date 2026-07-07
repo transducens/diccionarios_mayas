@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qobʼobʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqobʼobʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomar cantidad grande de bebida espesa",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Qobʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuqobʼobʼej aji qʼor tzatz",
+      "example_spa": "El niño tomó atol de elote espeso",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee9250c2-b674-4b17-8c39-c1344d45a991"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼa teʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hasta",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kʼa teʼ pa li ikʼ disyembr\" kokʼow\"sax li nimaqʼij alaxibʼal",
+      "example_spa": "Hasta diciembre se celebra navidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "8b1e4793-0135-47d2-a571-a5af377cf699"
+}

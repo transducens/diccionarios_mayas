@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqchoqʼabʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuarzo (lo usan los sacerdotes mayas); pedernal",
+  "definitionDialect": "",
+  "additional_text": "sc",
+  "examples": [
+    {
+      "example_maya": "Li saqchoqʼabʼaj kel qʼaqʼ chech we xtʼoy cheh chʼichʼ",
+      "example_spa": "El cuarzo saca chispas si lo somatan con",
+      "dialect": null
+    }
+  ],
+  "uuid": "7a0b4075-5999-4465-8370-aa1f9bb14e13"
+}

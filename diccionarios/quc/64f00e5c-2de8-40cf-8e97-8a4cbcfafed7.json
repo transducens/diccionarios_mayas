@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼoskʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": "kinkʼosokʼotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar puerta",
+  "definitionDialect": "",
+  "additional_text": "vi Kinkʼoskʼotik Raíz VT Kʼos",
+  "examples": [
+    {
+      "example_maya": "Li achih, kakʼosokʼot chirij li uchi jah",
+      "example_spa": "El hombre está tocando la puerta",
+      "dialect": null
+    }
+  ],
+  "uuid": "64f00e5c-2de8-40cf-8e97-8a4cbcfafed7"
+}

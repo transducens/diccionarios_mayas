@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rorah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurora",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ruda; planta medicinal",
+  "definitionDialect": "General",
+  "additional_text": "scv DomS Kunabʼal Del Cast Ruda",
+  "examples": [
+    {
+      "example_maya": "Li rorah utz cheh uwa winaq chkeh neʼabʼ",
+      "example_spa": "La ruda es buena para curar nenes ojeados",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8dce2c1-f638-407d-a169-0b7bb32ee9bb"
+}

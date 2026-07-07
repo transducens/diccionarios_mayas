@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼixtan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quixtán hierba comestible que crece sobre los árboles",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nukʼixtaan DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li kʼixtan kʼo ukʼixal xuq sibʼalaj utz katijowik",
+      "example_spa": "El quixtán tiene espinas y es comestible",
+      "dialect": null
+    }
+  ],
+  "uuid": "c18aac53-acb4-4364-ba91-5329a19218c3"
+}

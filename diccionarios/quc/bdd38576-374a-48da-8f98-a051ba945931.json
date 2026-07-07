@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzawnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzawnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ladrar el perro o gato de monte; ladrido del perro que anuncia desgracia",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz VT Tzaw",
+  "examples": [
+    {
+      "example_maya": "Kabʼixik chi li yak we katzawnajik, na utz taj",
+      "example_spa": "Se dice que el aullido del gato de monte es de mal agüero",
+      "dialect": null
+    }
+  ],
+  "uuid": "bdd38576-374a-48da-8f98-a051ba945931"
+}

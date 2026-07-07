@@ -1,0 +1,18 @@
+{
+  "entryWord": "CHAP",
+  "definition": "candado",
+  "additional_text": "s1a nchapa raíz chap s",
+  "examples": [
+    {
+      "example_maya": "¿Jatuma taʼ chap? tuʼn tkyaj tal ja",
+      "example_spa": "¿Dónde está el candado?, para dejar bajo llave la casa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b246ced7-336b-4577-9bd1-b7c0c3cc7ccd",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

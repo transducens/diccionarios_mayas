@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchʼabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Voz; idioma",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li uchʼabʼal li akʼal sibʼalaj utz che bʼix",
+      "example_spa": "La niña tiene buena voz para cantar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼi uwach chi chʼabʼal kʼo pa we uwachuliw",
+      "example_spa": "Hay distintos idiomas en el mundo",
+      "dialect": null
+    }
+  ],
+  "uuid": "229b63e9-2881-4737-8c70-579dc812a01b"
+}

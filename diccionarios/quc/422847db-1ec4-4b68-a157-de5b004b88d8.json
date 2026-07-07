@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼuqtzʼuʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cónico: como una casa, cerro o copa de sombrero",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Tzʼuuquʼy",
+  "examples": [
+    {
+      "example_maya": "Li koʼch li ajyuqʼabʼ tzʼuqtzʼuʼy",
+      "example_spa": "La casa de los pastores de ovejas es cónica",
+      "dialect": null
+    }
+  ],
+  "uuid": "422847db-1ec4-4b68-a157-de5b004b88d8"
+}

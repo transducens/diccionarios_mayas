@@ -1,0 +1,19 @@
+{
+  "entryWord": "Presk",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupresk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Refresco",
+  "definitionDialect": "",
+  "additional_text": "sInv Del Cast Refresco",
+  "examples": [
+    {
+      "example_maya": "Li presk kutanabʼa li chaqij chiʼ",
+      "example_spa": "El refresco quita la sed",
+      "dialect": null
+    }
+  ],
+  "uuid": "ae6ad405-6b66-488b-a79d-73cfa846624a"
+}

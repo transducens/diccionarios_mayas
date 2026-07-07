@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼeʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocayo",
+  "definitionDialect": "General",
+  "additional_text": "SInv Nukʼeʼx var Kʼaxeel",
+  "examples": [
+    {
+      "example_maya": "Li akʼal ukʼeʼx utat li ixoq",
+      "example_spa": "El niño es tocayo del papá de la mujer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li walkʼuʼal kikʼeʼx kibʼ rukʼ li ntat",
+      "example_spa": "Mi hijo es tocayo con mi papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "173ed554-fe25-4a98-ac8d-1901bea3ec98"
+}

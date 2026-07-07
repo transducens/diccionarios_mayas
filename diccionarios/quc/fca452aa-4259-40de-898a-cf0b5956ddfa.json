@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wunulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xwuniʼk, xuwunubʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puesta: cosa redonda, como tambor, tina, olla, etc",
+  "definitionDialect": "General",
+  "additional_text": "P Raiz P Wun",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuwunubʼa kan li tʼuʼy chwa jah",
+      "example_spa": "La mujer dejó la olla en el patio",
+      "dialect": null
+    }
+  ],
+  "uuid": "fca452aa-4259-40de-898a-cf0b5956ddfa"
+}

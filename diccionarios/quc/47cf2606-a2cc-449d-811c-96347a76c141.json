@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nabʼyajem",
+  "entryWordDialect": null,
+  "altEntryWord": "nabʼyejem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Kinnabʼyajik (kinnabʼyejik)",
+  "altEntryWordDialect2": null,
+  "definition": "Adelantarse",
+  "definitionDialect": "",
+  "additional_text": "vi //Nahbʼeh//",
+  "examples": [
+    {
+      "example_maya": "Li a Pablo karaj kanabʼyaj chwach li achih kʼo reqaʼn",
+      "example_spa": "Pablo quiere adelantarse al hombre que lleva carga",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "47cf2606-a2cc-449d-811c-96347a76c141"
+}

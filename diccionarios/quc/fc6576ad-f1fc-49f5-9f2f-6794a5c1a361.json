@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tikʼil qʼij",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtikʼiʼ qʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mediodía",
+  "definitionDialect": "",
+  "additional_text": "ps Raíz P Tikʼ Raíz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Pa taq tikʼil qʼij kakitij kireh paqʼij li ajchakibʼ",
+      "example_spa": "A mediodía almuerzan los trabajadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc6576ad-f1fc-49f5-9f2f-6794a5c1a361"
+}

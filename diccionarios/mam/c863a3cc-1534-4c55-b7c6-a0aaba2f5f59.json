@@ -1,0 +1,18 @@
+{
+  "entryWord": "AAL",
+  "definition": "¿quién?",
+  "additional_text": "pi raíz al par",
+  "examples": [
+    {
+      "example_maya": "¿Aal xiʼ tuj tnam?",
+      "example_spa": "¿Quién se fue al pueblo?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c863a3cc-1534-4c55-b7c6-a0aaba2f5f59",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

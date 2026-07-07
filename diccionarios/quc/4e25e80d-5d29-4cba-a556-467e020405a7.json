@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzuʼq",
+  "entryWordDialect": null,
+  "altEntryWord": "Utzuʼqal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xtzuʼqarik",
+  "altEntryWordDialect2": null,
+  "definition": "Bigotuda: gallina que tiene como pelos cerca del pico",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz Adj Tzuʼq",
+  "examples": [
+    {
+      "example_maya": "Li qʼapoja akʼ xtzuʼqarik",
+      "example_spa": "Al pollo le crecieron plumas alrededor del pico",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e25e80d-5d29-4cba-a556-467e020405a7"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tatabʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entender; escuchar; oír",
+  "definitionDialect": "",
+  "additional_text": "vtrD Kintatabʼeej SAgen Tatabʼeneel Oyente; espía Var Tayik",
+  "examples": [
+    {
+      "example_maya": "Kintatabʼej nah, jas kakibʼij li winaq pa li chomal",
+      "example_spa": "Voy a escuchar lo que dice la gente en la reunión",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintatabʼej na li kabʼix chwech ma sibʼalaj rajawaxik",
+      "example_spa": "Voy a escuchar lo que me dicen porque es necesario",
+      "dialect": null
+    }
+  ],
+  "uuid": "40ee77f1-6dec-4c24-a418-f3682697d276"
+}

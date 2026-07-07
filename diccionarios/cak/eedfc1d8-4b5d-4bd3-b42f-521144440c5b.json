@@ -1,0 +1,23 @@
+{
+  "entryWord": "Rey",
+  "definition": "Filo de cualquier instrumento",
+  "additional_text": "ssp",
+  "examples": [
+    {
+      "example_maya": "Jebʼël rey ri numachät",
+      "example_spa": "Mi machete tiene buen filo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin kʼo jun numachät yaʼ rey",
+      "example_spa": "Tengo un machete con buen filo",
+      "dialect": null
+    }
+  ],
+  "uuid": "eedfc1d8-4b5d-4bd3-b42f-521144440c5b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

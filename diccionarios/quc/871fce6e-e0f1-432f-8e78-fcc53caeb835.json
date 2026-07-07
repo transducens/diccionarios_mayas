@@ -1,0 +1,19 @@
+{
+  "entryWord": "Toqoqlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cacarear el gallo cuando ve a la gallina",
+  "definitionDialect": "General",
+  "additional_text": "vI Katoqoqlabʼik Raíz PT Toq",
+  "examples": [
+    {
+      "example_maya": "Li amaʼ katoqoqlabʼ chrij li xtuʼx",
+      "example_spa": "El gallo anda cacareándole a la gallina",
+      "dialect": null
+    }
+  ],
+  "uuid": "871fce6e-e0f1-432f-8e78-fcc53caeb835"
+}

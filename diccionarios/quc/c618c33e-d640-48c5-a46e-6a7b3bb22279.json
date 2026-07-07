@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sakʼajanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsakʼajanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ser diligente, astuto o hábil",
+  "definitionDialect": "",
+  "additional_text": "vI",
+  "examples": [
+    {
+      "example_maya": "Li alah sibʼalaj kasakʼajanik, are taq kataqik",
+      "example_spa": "El muchacho es muy diligente al hacer un mandado",
+      "dialect": null
+    }
+  ],
+  "uuid": "c618c33e-d640-48c5-a46e-6a7b3bb22279"
+}

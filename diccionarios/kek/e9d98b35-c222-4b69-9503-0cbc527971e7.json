@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pahalal",
+  "definition": "Abertura",
+  "additional_text": "SSP Xpahalal",
+  "examples": [
+    {
+      "example_maya": "Naʼok chaq li iqʼ saʼ li xpahalal li wochoch",
+      "example_spa": "Por la abertura de mi casa entra mucho aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nim xpahalil intʼikr xkanabʼ li iqʼ",
+      "example_spa": "La abertura que el aire le dejó en mi tela es grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9d98b35-c222-4b69-9503-0cbc527971e7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

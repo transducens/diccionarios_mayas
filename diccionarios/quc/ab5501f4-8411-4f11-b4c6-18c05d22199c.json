@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yukanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cicatrizar",
+  "definitionDialect": "",
+  "additional_text": "vi Kayukanik Raíz S Yuk",
+  "examples": [
+    {
+      "example_maya": "Li usokotajik li tzʼiʼ tajin kayukanik",
+      "example_spa": "Las heridas del perro se están cicatrizando",
+      "dialect": null
+    }
+  ],
+  "uuid": "ab5501f4-8411-4f11-b4c6-18c05d22199c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uxaq abʼix",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja de milpa",
+  "definitionDialect": "general",
+  "additional_text": "sds Raiz S Xaaq Raiz S Bʼiix DomS Tzʼalik",
+  "examples": [
+    {
+      "example_maya": "Li uxaq abʼix kachokon chech subʼabʼal wah",
+      "example_spa": "La hoja de milpa sirve para envolver tamales",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7a57ea6-ed47-4104-a4b1-08244fd056f0"
+}

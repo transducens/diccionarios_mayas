@@ -1,0 +1,24 @@
+{
+  "entryWord": "Muqik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmuquh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enterrar; rescoldar, cocer bajo las brasas",
+  "definitionDialect": "General",
+  "additional_text": "VTR Raiz VT Muq",
+  "examples": [
+    {
+      "example_maya": "Li winaq keʼkimuqu li kamnaq",
+      "example_spa": "La gente va a enterrar al muerto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq kumuq li akʼwah chuxe li chaj",
+      "example_spa": "La mujer pone el tamal de elote debajo de las cenizas",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d9d3979-82f5-42e5-9690-e2822ae6c4ea"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sirisik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grueso: cosa rolliza (como lazo o pita o animales); gordo: persona o animal",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz PT Sir",
+  "examples": [
+    {
+      "example_maya": "Li kumatz xuriq li achih sibʼalaj jun sirisik",
+      "example_spa": "La culebra que encontró el hombre, es muy gruesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "170c3c2e-bcf4-4580-9e64-3a9efaf5b564"
+}

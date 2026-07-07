@@ -1,0 +1,24 @@
+{
+  "entryWord": "Siʼj",
+  "entryWordDialect": null,
+  "altEntryWord": "Usiʼj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "usiʼjaal",
+  "altEntryWordDialect2": null,
+  "definition": "Flor de cualquier planta que cambia a fruto y no de adorno",
+  "definitionDialect": "",
+  "additional_text": "ssp Usiʼj (usiʼjaal)",
+  "examples": [
+    {
+      "example_maya": "Ronojel uwach chi tikoʼn kʼo usiʼj",
+      "example_spa": "Toda clase de planta tiene flor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq kiqʼij sant ronojel uwach chi qʼayes kʼo usiʼjal",
+      "example_spa": "En la fiesta de todos los Santos, toda clase de planta tiene flor",
+      "dialect": null
+    }
+  ],
+  "uuid": "190264a9-aeab-4944-8043-a3dbc384abb1"
+}

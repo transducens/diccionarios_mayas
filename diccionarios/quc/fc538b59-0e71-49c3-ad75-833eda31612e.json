@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wonokotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar una persona sola o perdida",
+  "definitionDialect": "",
+  "additional_text": "vi Kawonokotik Raíz VI Won",
+  "examples": [
+    {
+      "example_maya": "Li menor xaq kawonokot xoʼl taq jah",
+      "example_spa": "El huérfano anda solo por la calle",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc538b59-0e71-49c3-ad75-833eda31612e"
+}

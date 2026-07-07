@@ -1,0 +1,19 @@
+{
+  "entryWord": "Payirsaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar el tiempo a alguien que está trabajando; hacerlo tonto",
+  "definitionDialect": "",
+  "additional_text": "vrc Kinpayirsaaj Raíz VT Pay",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xupayirsaj li rachajil",
+      "example_spa": "La mujer tonteó a su esposo",
+      "dialect": null
+    }
+  ],
+  "uuid": "250320fd-1d21-401f-913c-b0bc21e8ebce"
+}

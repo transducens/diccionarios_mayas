@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajwach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maestro de obra, guía, doctor, conductor, dirigente",
+  "definitionDialect": "",
+  "additional_text": "SAgen",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutzukuj li ajwach, chubʼanik li roʼch",
+      "example_spa": "El hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "c23e7f27-715a-476c-a5d1-6a7925766f35"
+}

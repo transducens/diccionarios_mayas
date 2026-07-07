@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jupatzaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un montón de hojas, hierba o basura",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Jupatzaj li mes xuʼkʼaqa kan li pres",
+      "example_spa": "La basura que el preso fue a botar, era un montón",
+      "dialect": null
+    }
+  ],
+  "uuid": "279b18a3-b466-41d0-9fa0-954a3aa73d19"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼalixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llenar un objeto",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinbʼaliij Var Nojsaxik",
+  "examples": [
+    {
+      "example_maya": "Li alih kubʼalij li uqʼebʼal pa li kʼwaʼ",
+      "example_spa": "La muchacha va a llenar su tinaja en el pozo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a23732d4-9a76-4c7a-b303-dc5d3e883269"
+}

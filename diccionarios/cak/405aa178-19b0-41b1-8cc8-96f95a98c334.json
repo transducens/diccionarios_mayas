@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yaloj",
+  "definition": "Tardarse, dilatarse, durar",
+  "additional_text": "vi Niyaloj Sinón Layoj",
+  "examples": [
+    {
+      "example_maya": "Ri chʼichʼ yalan niyaloj ruma man utz ta ri bʼey",
+      "example_spa": "La camioneta tarda mucho por estar muy malo el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xyalöj yan rubʼanik racho ri a Chepe",
+      "example_spa": "Ya se tardó mucho la construcción de la casa de Chepe",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq yibʼeyalöj chubʼanik jun nutaqkil, yichap ruma nataʼ",
+      "example_spa": "Cuando me tardo mucho en ir a hacer un mandado, me regaña mi papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "405aa178-19b0-41b1-8cc8-96f95a98c334",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

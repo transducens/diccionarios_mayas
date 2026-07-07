@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼimaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner paja a algo; empajar",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTD Kinkʼimaaj Raiz S Kʼim",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan katajin kukʼimaj uwi li rochoch",
+      "example_spa": "Francisco está poniendo paja al techo de su casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "32f83557-a9ea-42f7-9b2c-d35b97f41afb"
+}

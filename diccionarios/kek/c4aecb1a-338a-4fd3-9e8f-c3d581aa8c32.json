@@ -1,0 +1,23 @@
+{
+  "entryWord": "Siʼ",
+  "definition": "Leña",
+  "additional_text": "sInv Insiʼ",
+  "examples": [
+    {
+      "example_maya": "Waayeʼ chaq aj yeechiʼinel siʼ",
+      "example_spa": "Ya viene un ofrecedor de leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maakʼaʼ chik insiʼ",
+      "example_spa": "Ya no tengo leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "c4aecb1a-338a-4fd3-9e8f-c3d581aa8c32",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Kʼajol",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼajol",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hijo de hombre (varón)",
+  "definitionDialect": "",
+  "additional_text": "ssp DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Li ukʼajol li Toʼl sibʼalaj utz unaʼoj",
+      "example_spa": "El hijo de Bartolo, tiene un buen carácter",
+      "dialect": null
+    }
+  ],
+  "uuid": "784ff8f2-0bb9-49f5-acd5-f626afbd6ddb"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waral",
+  "entryWordDialect": null,
+  "altEntryWord": "Waralik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aquí",
+  "definitionDialect": "",
+  "additional_text": "Adv Adv De aquí, local",
+  "examples": [
+    {
+      "example_maya": "Waral riʼ pa we uchʼuʼk bʼeh, xkamsax wi jun achih",
+      "example_spa": "Aquí en esta curva mataron a un hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "ead98b2c-fccd-4c87-a24c-6c886c610059"
+}

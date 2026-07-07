@@ -1,0 +1,19 @@
+{
+  "entryWord": "Junut",
+  "entryWordDialect": null,
+  "altEntryWord": "junutaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cantidad de cosas jateadas; un rimero",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Junutaj li wuj kʼo pwi li wankeʼt",
+      "example_spa": "Hay una cantidad de libros jateados sobre la mesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e2e28ad-76d6-4108-9a0b-20ef2c48e283"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "TWIʼ IIMJ",
+  "definition": "pezón",
+  "additional_text": "scl twiʼ wima raíz wiʼ s raíz im s ds xumlalbʼaj",
+  "examples": [
+    {
+      "example_maya": "Maʼ bʼaj txʼaʼn twiʼ imj tuʼn nuʼẍ",
+      "example_spa": "El nene mordió el pezón",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aj twiʼ imj ajo nnokx tuj kytziʼ nuʼẍ",
+      "example_spa": "El pezón es lo que se mete en la boca de los nenes",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "40f1a226-18d3-4c96-aa8c-26f1d71b890f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

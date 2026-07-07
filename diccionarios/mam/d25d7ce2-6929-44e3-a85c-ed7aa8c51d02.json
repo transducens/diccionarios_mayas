@@ -1,0 +1,18 @@
+{
+  "entryWord": "XWAAN",
+  "definition": "juan",
+  "additional_text": "nom",
+  "examples": [
+    {
+      "example_maya": "$wan kybʼi tzʼibʼal te uʼj te lʼtzal",
+      "example_spa": "Los escritores del diccionario de Ixtahuacán se llaman Juan",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d25d7ce2-6929-44e3-a85c-ed7aa8c51d02",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

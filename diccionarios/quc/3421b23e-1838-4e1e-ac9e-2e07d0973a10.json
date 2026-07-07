@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼojoxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼojoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Remendar; componer; reparar",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Kʼoj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kukʼojoj li atzʼyaq",
+      "example_spa": "La mujer va a remendar la ropa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼayal chʼichʼ tajin kukʼojoj jun jaʼbʼal",
+      "example_spa": "El herrero está reparando una regadera",
+      "dialect": null
+    }
+  ],
+  "uuid": "3421b23e-1838-4e1e-ac9e-2e07d0973a10"
+}

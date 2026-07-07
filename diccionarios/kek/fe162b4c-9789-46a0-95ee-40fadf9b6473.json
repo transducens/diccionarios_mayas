@@ -1,0 +1,18 @@
+{
+  "entryWord": "Tzimaj",
+  "definition": "Arco y flecha",
+  "additional_text": "sInv Intzimaj",
+  "examples": [
+    {
+      "example_maya": "Naq toj maakʼaʼaq li puubʼ rikʼin tzimaj nekeʼyohobʼ chaq li najter winq",
+      "example_spa": "Cuando todavía no existían las armas de fuego, cazaban con flechas",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe162b4c-9789-46a0-95ee-40fadf9b6473",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

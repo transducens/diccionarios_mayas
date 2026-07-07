@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzʼan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caña seca de milpa",
+  "definitionDialect": "",
+  "additional_text": "scv Nupatzʼaan",
+  "examples": [
+    {
+      "example_maya": "Li patzʼan rech abʼix kachokon che koral",
+      "example_spa": "La caña de milpa se usa para corrales",
+      "dialect": null
+    }
+  ],
+  "uuid": "578f0d5c-9499-456a-ab19-48d57b628543"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xilaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxilaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Silla",
+  "definitionDialect": "general",
+  "additional_text": "SInv Del Cast Silla",
+  "examples": [
+    {
+      "example_maya": "Li xilaʼ kachokon cheh tʼuyulibʼal",
+      "example_spa": "La silla se usa para sentarse",
+      "dialect": null
+    }
+  ],
+  "uuid": "346514df-33f0-439c-b8de-a78cb987e62c"
+}

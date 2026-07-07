@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jukʼil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una tostadita; una cantidad de cosas para tostar",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Kʼiil",
+  "examples": [
+    {
+      "example_maya": "Le ixoq xaq jukʼil xuya che li kapeh",
+      "example_spa": "La mujer sólo le dio una tostadita al café",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b71e880-f7ae-4394-a2ba-93eabe2857bf"
+}

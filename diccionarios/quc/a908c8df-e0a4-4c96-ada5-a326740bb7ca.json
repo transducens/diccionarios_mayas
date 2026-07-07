@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kolobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukolobʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lazo",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li kolobʼ kachokon che ximbʼal siʼ",
+      "example_spa": "El lazo sirve para amarrar leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "a908c8df-e0a4-4c96-ada5-a326740bb7ca"
+}

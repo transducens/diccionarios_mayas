@@ -1,0 +1,23 @@
+{
+  "entryWord": "JIQʼEET (xjiqʼet)",
+  "definition": "jalar aire o agua, aspirar aire o agua",
+  "additional_text": "vt jiqʼol te, jiqʼoʼn, ma njiqʼa, ma bʼaj njiqʼoʼna raíz jiqʼ vt",
+  "examples": [
+    {
+      "example_maya": "Ma chinx aja jiqʼol te kyqʼiqʼ ma twiʼ witz",
+      "example_spa": "Fui a aspirar aire allá en la punta del cerro",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "li ttzaj jiqʼet aʼ tuj tubo",
+      "example_spa": "Hay que jalar agua del tubo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e991d2bf-d91b-40cf-9a53-ff597e912fac",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

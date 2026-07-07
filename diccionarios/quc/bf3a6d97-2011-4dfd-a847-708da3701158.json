@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqqʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Negruzco",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz Adj Qʼeq",
+  "examples": [
+    {
+      "example_maya": "Li rij li tzʼiʼ xaq qʼeqqʼoj",
+      "example_spa": "El perro es de color negruzco",
+      "dialect": null
+    }
+  ],
+  "uuid": "bf3a6d97-2011-4dfd-a847-708da3701158"
+}

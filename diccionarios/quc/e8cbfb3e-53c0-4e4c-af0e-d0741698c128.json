@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqa kʼoy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de mico",
+  "definitionDialect": "General",
+  "additional_text": "scl Raíz Adj Kaq Raíz S Kʼooy",
+  "examples": [
+    {
+      "example_maya": "Li kaqa kʼoy kabʼin pwi taq li cheʼ",
+      "example_spa": "Este tipo de mico camina sobre los árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "e8cbfb3e-53c0-4e4c-af0e-d0741698c128"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lochʼochʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlochʼochʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despegar venda",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz vr Lochʼ",
+  "examples": [
+    {
+      "example_maya": "Li kunanel xulochʼochʼej uwach li sokotajnaq che raqan li a Mario",
+      "example_spa": "El enfermero le despegó la venda de la herida del pie a Mario",
+      "dialect": null
+    }
+  ],
+  "uuid": "39af8d4f-9a95-4969-af86-34f50a065b83"
+}

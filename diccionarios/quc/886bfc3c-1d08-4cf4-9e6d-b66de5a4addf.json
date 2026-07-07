@@ -1,0 +1,19 @@
+{
+  "entryWord": "Plom",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuplom",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Plomo",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chʼiichʼ Del Cast Plomo",
+  "examples": [
+    {
+      "example_maya": "Li plom kachokon che upam skopet",
+      "example_spa": "El plomo sirve para hacer balas de escopeta",
+      "dialect": null
+    }
+  ],
+  "uuid": "886bfc3c-1d08-4cf4-9e6d-b66de5a4addf"
+}

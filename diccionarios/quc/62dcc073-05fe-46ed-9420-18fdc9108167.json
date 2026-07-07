@@ -1,0 +1,24 @@
+{
+  "entryWord": "Setetexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsetetej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rodar",
+  "definitionDialect": "",
+  "additional_text": "vtD Sinón Ketetexik Raíz PT Set",
+  "examples": [
+    {
+      "example_maya": "Kinsetetej na li jun ukareʼtal chʼichʼ",
+      "example_spa": "Voy a rodar la llanta del carro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal setetexik kubʼan cheh li jun ketekik etzʼabʼaʼl",
+      "example_spa": "El niño va a rodar la llanta que tiene como juguete",
+      "dialect": null
+    }
+  ],
+  "uuid": "62dcc073-05fe-46ed-9420-18fdc9108167"
+}

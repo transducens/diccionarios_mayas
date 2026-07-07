@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyoloh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enjabonar ropa o cuerpo; untar una medicina en barra o bola",
+  "definitionDialect": "General",
+  "additional_text": "VTR Sinón Kinpiloh Raíz VT Yol",
+  "examples": [
+    {
+      "example_maya": "Nal kinyol wibʼ pa qʼeq are chi kel li tzʼil",
+      "example_spa": "Voy a enjabonarme bien para que salga la suciedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "da94cf00-a5b9-4ca6-89da-58ac9ff5329e"
+}

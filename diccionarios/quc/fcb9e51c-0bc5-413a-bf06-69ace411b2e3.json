@@ -1,0 +1,19 @@
+{
+  "entryWord": "Supem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir, como pasta dental, humo de motocicleta o tractor",
+  "definitionDialect": "general",
+  "additional_text": "vi Kasupupik",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼa kej kasupup li sibʼ kel kan chrij",
+      "example_spa": "La moto expulsa mucho humo al caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "fcb9e51c-0bc5-413a-bf06-69ace411b2e3"
+}

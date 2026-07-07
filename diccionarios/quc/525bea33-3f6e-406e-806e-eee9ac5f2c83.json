@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqʼatz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una quebrada a alguna cosa",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qʼatz",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq juqʼatz xuya che li uxaq abʼix",
+      "example_spa": "La mujer quebró la hoja de milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "525bea33-3f6e-406e-806e-eee9ac5f2c83"
+}

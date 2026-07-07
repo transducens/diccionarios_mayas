@@ -1,0 +1,19 @@
+{
+  "entryWord": "Albʼatz",
+  "entryWordDialect": null,
+  "altEntryWord": "Walibʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nuera, cuñada (entre mujeres); mi nuera",
+  "definitionDialect": "F. Waliib' achih. Suegro de mujer. F. Waliib' ixoq. Suegra de mujer. Dom.S. Alaxik.",
+  "additional_text": "sPos",
+  "examples": [
+    {
+      "example_maya": "Li albʼatz sibʼalaj loqʼ chwach li ralibʼ ixoq",
+      "example_spa": "La nuera es muy estimada por su suegra",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8ce64e7-a9ee-4b61-909e-2a42f82ac15e"
+}

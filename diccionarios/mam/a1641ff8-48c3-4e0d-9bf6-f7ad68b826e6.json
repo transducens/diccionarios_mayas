@@ -1,0 +1,23 @@
+{
+  "entryWord": "A",
+  "definition": "ay no",
+  "additional_text": "pex sin aʼnwa",
+  "examples": [
+    {
+      "example_maya": "A mliʼn labʼta",
+      "example_spa": "Ay no molestés",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "A mliʼn txi tyoʼna",
+      "example_spa": "Ay no lo asustés",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a1641ff8-48c3-4e0d-9bf6-f7ad68b826e6",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

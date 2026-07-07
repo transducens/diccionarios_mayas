@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lobʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblado: metal, torcido: metal",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Lobʼ",
+  "examples": [
+    {
+      "example_maya": "Li uware li muruh xubʼan lobʼolik chwa li abʼaj",
+      "example_spa": "El filo del machete está torcido por la piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "83918e05-7f84-441f-a08c-ffea44e0f91d"
+}

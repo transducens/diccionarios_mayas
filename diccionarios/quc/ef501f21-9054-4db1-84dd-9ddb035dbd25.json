@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pusik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tajar, cortar; aserrar tabla; hacer una hendidura; cortar pan con cuchillo",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinpusuh Raíz VT Pus",
+  "examples": [
+    {
+      "example_maya": "Kinpus na li tzʼalam cheh syer\"",
+      "example_spa": "Voy a cortar la tabla con la sierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "ef501f21-9054-4db1-84dd-9ddb035dbd25"
+}

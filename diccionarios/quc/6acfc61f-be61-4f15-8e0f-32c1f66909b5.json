@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaratzʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Delgado y ancho; plano y delgado",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Raíz PT Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Li uchʼojoʼmbʼal li ixoq, jun tzʼaratzʼik abʼaj",
+      "example_spa": "El lavadero que usa la mujer, es una piedra delgada y ancha",
+      "dialect": null
+    }
+  ],
+  "uuid": "6acfc61f-be61-4f15-8e0f-32c1f66909b5"
+}

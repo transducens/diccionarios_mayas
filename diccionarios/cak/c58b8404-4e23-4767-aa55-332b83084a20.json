@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pa jöbʼ",
+  "definition": "Invierno",
+  "additional_text": "AdvT Ant Pa saqʼij",
+  "examples": [
+    {
+      "example_maya": "Ri pa jöbʼ yalan kʼo chʼabʼäq",
+      "example_spa": "En invierno hay mucho lodo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa jöbʼ yalan tew, kʼo chi nakusaj (nawokusaj) kʼïy atzyaq",
+      "example_spa": "En invierno hace mucho frío, hay que ponerse bastante ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c58b8404-4e23-4767-aa55-332b83084a20",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

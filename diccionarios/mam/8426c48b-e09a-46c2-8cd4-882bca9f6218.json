@@ -1,0 +1,18 @@
+{
+  "entryWord": "PELOOT",
+  "definition": "pelota",
+  "additional_text": "s1 npelota del español pelota",
+  "examples": [
+    {
+      "example_maya": "Tuʼnqʼa maʼ xoptzʼaj qpelot",
+      "example_spa": "El fue quien pinchó nuestra pelota",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8426c48b-e09a-46c2-8cd4-882bca9f6218",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

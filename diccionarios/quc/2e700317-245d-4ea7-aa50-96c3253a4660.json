@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼapitzʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cerradas: puertas y ventanas",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Tzʼapitzʼoj li wantaʼn cheh li woʼch",
+      "example_spa": "Las ventanas de mi casa están cerradas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2e700317-245d-4ea7-aa50-96c3253a4660"
+}

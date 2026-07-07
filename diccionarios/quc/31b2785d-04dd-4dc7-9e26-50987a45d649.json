@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼiroʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse los músculos de la pantorrilla; andar con carga pesada",
+  "definitionDialect": "General",
+  "additional_text": "vi Kachʼiroʼpik Raíz P Chʼir",
+  "examples": [
+    {
+      "example_maya": "Kachʼiroʼp li tiʼoj pa raʼ li achih are taq kabʼinik",
+      "example_spa": "Al hombre se le mueven los músculos de las pantorrillas al caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "31b2785d-04dd-4dc7-9e26-50987a45d649"
+}

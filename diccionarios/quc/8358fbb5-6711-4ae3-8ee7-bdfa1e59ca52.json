@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qitzʼowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqitzʼowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rechinar o hacer ruido, como caites, cama, puerta o ramas; rebuznar el burro",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Qitzʼ",
+  "examples": [
+    {
+      "example_maya": "We xa kʼaʼama chʼichʼ li chʼat, kaqitzʼowik",
+      "example_spa": "Si la cama es de alambre, rechina mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "8358fbb5-6711-4ae3-8ee7-bdfa1e59ca52"
+}

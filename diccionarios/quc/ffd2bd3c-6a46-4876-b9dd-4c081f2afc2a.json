@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼawex",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Anona",
+  "definitionDialect": "",
+  "additional_text": "scv Nukʼaweex DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li kʼawex utz katijowik, ubʼaqʼ qʼeq kakaʼyik",
+      "example_spa": "La anona es buena para comerla y tiene pepita de color negro",
+      "dialect": null
+    }
+  ],
+  "uuid": "ffd2bd3c-6a46-4876-b9dd-4c081f2afc2a"
+}

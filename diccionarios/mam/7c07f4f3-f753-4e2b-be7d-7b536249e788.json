@@ -1,0 +1,18 @@
+{
+  "entryWord": "MACHIT",
+  "definition": "machete",
+  "additional_text": "s1a nmachita del español machete ds makbʼil",
+  "examples": [
+    {
+      "example_maya": "Maʼ kabʼan tuʼn machit tjawlen tolj",
+      "example_spa": "Se lastimó por el machete al tropezarse",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7c07f4f3-f753-4e2b-be7d-7b536249e788",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

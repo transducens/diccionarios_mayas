@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuchʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katuchʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar enojado",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Tuchʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq katuchʼnaj chwech, ma xa na xinya ta ukʼas",
+      "example_spa": "La mujer está enojada conmigo porque no le di fiado",
+      "dialect": null
+    }
+  ],
+  "uuid": "a58c44d9-d148-427b-8ada-b3e692bc70eb"
+}

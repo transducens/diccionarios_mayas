@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHITOOK",
+  "definition": "que dice Expresión que se usa en todas las personas y tiempos",
+  "additional_text": "v raíz chi vi",
+  "examples": [
+    {
+      "example_maya": "¿Chitok tuʼna xel tmaʼna te?",
+      "example_spa": "¿Qué le vas a decir a él?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Chitok tuʼna tiʼj nkamiẍa?",
+      "example_spa": "¿Que decís por mi camisa?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "09d087fe-b14a-4e28-939f-dde7b6b830c4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

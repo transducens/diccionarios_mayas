@@ -1,0 +1,18 @@
+{
+  "entryWord": "TOJOSAANT",
+  "definition": "Día de los Santos",
+  "additional_text": "sz del español todos santos",
+  "examples": [
+    {
+      "example_maya": "Tzaʼnx kytenka xjal nkubʼ kynaʼn kykyimna te tojosant",
+      "example_spa": "Toda la gente recuerda el alma de su familiar fallecido en el Día de los Santos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "cb8090be-1752-4b22-8dd6-c99e3e72cece",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

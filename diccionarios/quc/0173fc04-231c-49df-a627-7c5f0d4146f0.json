@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rabʼakatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar en pantalón",
+  "definitionDialect": "",
+  "additional_text": "vi Karabʼakatik Raiz P Rabʼ",
+  "examples": [
+    {
+      "example_maya": "Li muʼsabʼ kerabʼakat chupam le katzʼyaq",
+      "example_spa": "Los ladinos andan en pantalón",
+      "dialect": null
+    }
+  ],
+  "uuid": "0173fc04-231c-49df-a627-7c5f0d4146f0"
+}

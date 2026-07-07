@@ -1,0 +1,19 @@
+{
+  "entryWord": "Salutiw",
+  "entryWordDialect": null,
+  "altEntryWord": "Sala utiw",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lobo",
+  "definitionDialect": "",
+  "additional_text": "sc Fbas Raíz S Saal Raíz S Utiw DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li salutiw are mas nim na chwach li utiw",
+      "example_spa": "El lobo es más grande que el coyote",
+      "dialect": null
+    }
+  ],
+  "uuid": "9fa0acca-2be1-4c0a-bf02-e6dc23aa25f6"
+}

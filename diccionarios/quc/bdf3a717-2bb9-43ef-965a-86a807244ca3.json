@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rokʼorotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karokʼorotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rascarse seguido",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz PT Rokʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kʼo sal cheh li ubʼaqil xaq karokʼorotik",
+      "example_spa": "La mujer tiene jiote en el cuerpo y está rascandose",
+      "dialect": null
+    }
+  ],
+  "uuid": "bdf3a717-2bb9-43ef-965a-86a807244ca3"
+}

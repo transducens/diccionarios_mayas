@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tuqaʼr",
+  "entryWordDialect": null,
+  "altEntryWord": "Tuqaʼril,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xtuuqarik",
+  "altEntryWordDialect2": null,
+  "definition": "Débil; debilitado; derrotado, muy cansado: apocado",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Bʼaaq Raíz PT Tuq DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li karneʼl xa tuqaʼr ma xa uriqom yabʼil",
+      "example_spa": "La oveja está débil porque está enferma",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tuqaʼra chkop na kuqʼiʼ taj kabʼe pa yuqʼ",
+      "example_spa": "El carnero débil no aguanta ir al pasto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xrokʼow\"saj yabʼil xux tuqʼaʼr",
+      "example_spa": "La mujer se enfermó y se puso débil",
+      "dialect": null
+    }
+  ],
+  "uuid": "74b3f37c-917a-49c2-a6b9-2a8b24de5edb"
+}

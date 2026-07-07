@@ -1,0 +1,24 @@
+{
+  "entryWord": "Popoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "popaʼxik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacudir tela o chamarra",
+  "definitionDialect": "",
+  "additional_text": "vt Kinpoopaʼ Fbas //Poh// Sinón Tootaʼxik Sinón Totoʼxik",
+  "examples": [
+    {
+      "example_maya": "Kinpopa na li atzʼyaq are chi kel li puqlaj chech",
+      "example_spa": "Tengo que sacudir la ropa para que le salga el polvo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq kupopa li kʼul, ma tzʼil",
+      "example_spa": "La mujer sacude la chamarra porque está sucia",
+      "dialect": null
+    }
+  ],
+  "uuid": "86ef4a63-52fd-46e9-a38c-b968eb53f0d7"
+}

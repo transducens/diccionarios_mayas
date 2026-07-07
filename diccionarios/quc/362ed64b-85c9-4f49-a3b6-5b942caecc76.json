@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼilibʼaʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frijoles muy redondos",
+  "definitionDialect": "",
+  "additional_text": "AdjPlu Raiz PT Bʼil",
+  "examples": [
+    {
+      "example_maya": "Li kinaqʼ sibʼalaj bʼilibaʼq",
+      "example_spa": "Los frijoles son muy redondos",
+      "dialect": null
+    }
+  ],
+  "uuid": "362ed64b-85c9-4f49-a3b6-5b942caecc76"
+}

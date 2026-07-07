@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patanixel sant",
+  "entryWordDialect": null,
+  "altEntryWord": "Cofradía",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cofradía",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Katajin qʼojom rukʼ li patanixel sant",
+      "example_spa": "En la cofradía están tocando marimba",
+      "dialect": null
+    }
+  ],
+  "uuid": "a54337d5-94f8-4ec7-8b0b-34de71cc8e11"
+}

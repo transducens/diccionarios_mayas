@@ -1,0 +1,28 @@
+{
+  "entryWord": "Pomok",
+  "definition": "Asar, recalentar tortillas",
+  "additional_text": "VTR Xinpom",
+  "examples": [
+    {
+      "example_maya": "Okwe chi pomok tibʼ",
+      "example_spa": "Voy a asar carne",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pomok kʼux saʼ li xam",
+      "example_spa": "Asar elotes en el fuego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pomok kʼool wa",
+      "example_spa": "Recalentar tortilla tiesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "61fc199c-3e15-4470-8dfe-2efde399b8df",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

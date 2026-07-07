@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nejnik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ralo: líquido",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Nej",
+  "examples": [
+    {
+      "example_maya": "Li qʼor xukeʼj li ixoq sibʼalaj jun nejnik",
+      "example_spa": "La masa que molió la mujer, era muy rala",
+      "dialect": null
+    }
+  ],
+  "uuid": "6d30629d-a631-4c4c-831c-d3c00520f0e6"
+}

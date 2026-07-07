@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mokʼokotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamokʼokotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con los pies encogidos",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz Adj Mokʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kamokʼokotik kabʼinik ma sibʼalaj tew",
+      "example_spa": "El hombre camina con los pies encogidos, porque hace mucho frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "d07b41b4-b93b-462e-9d32-872517c1a9dd"
+}

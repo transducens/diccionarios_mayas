@@ -1,0 +1,19 @@
+{
+  "entryWord": "Urox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tercero",
+  "definitionDialect": "",
+  "additional_text": "NumOrd Raíz Num Ox",
+  "examples": [
+    {
+      "example_maya": "Churox qʼij xkʼastaj uwach ri jesus are taq muqum chik",
+      "example_spa": "Al tercer día resucitó Jesús, después de haber sido enterrado",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9a8fd6b-f3ca-4153-aab9-d105c4f8b7b7"
+}

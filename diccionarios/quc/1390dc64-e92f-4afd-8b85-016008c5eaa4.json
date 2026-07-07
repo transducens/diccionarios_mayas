@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sikʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsikʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llamar; citar; convocar; invitar",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Siikʼ",
+  "examples": [
+    {
+      "example_maya": "Keʼnsikʼij na konojel li wachiʼil",
+      "example_spa": "Tengo que llamar a todos mis compañeros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajchʼamiʼy xbʼe cheh li usikʼixik li achih",
+      "example_spa": "El alguacil se fue a citar al hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jaʼsikʼij li ajchʼamiʼy arech kulukʼama li elaqʼom",
+      "example_spa": "Andá a llamar al alguacil para que venga a traer al ladrón",
+      "dialect": null
+    }
+  ],
+  "uuid": "1390dc64-e92f-4afd-8b85-016008c5eaa4"
+}

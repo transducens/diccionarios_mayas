@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutenaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cosa gorda o pesada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Ten",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xya jutenaj cheʼ chwi raʼ",
+      "example_spa": "Al perro le pegaron con un palo grueso en el lomillo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0987f31-98a0-4ffb-8453-31310a7cc498"
+}

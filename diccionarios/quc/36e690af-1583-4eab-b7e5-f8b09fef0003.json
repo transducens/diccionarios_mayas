@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rakixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrakij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arreglar última parte del tejido con peine; preocuparse por",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Rak",
+  "examples": [
+    {
+      "example_maya": "Li ixoq rakixik kubʼan cheh li ukem",
+      "example_spa": "La mujer está arreglando la última parte del tejido con el peine",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kinrakij ma maj kayoʼw nujalanik cheh pwaq",
+      "example_spa": "Estoy muy preocupado porque ninguno me presta dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "36e690af-1583-4eab-b7e5-f8b09fef0003"
+}

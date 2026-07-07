@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar basura u hojas de milpa",
+  "definitionDialect": "",
+  "additional_text": "vtrD Kinpaatzeej Raíz VT Patz",
+  "examples": [
+    {
+      "example_maya": "Kinpatzej bʼi li uxaq abʼix",
+      "example_spa": "Llevo las hojas de milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "396d1af1-d364-4fad-9f6a-2fc6b08d5e96"
+}

@@ -1,0 +1,44 @@
+{
+  "entryWord": "=Tun",
+  "entryWordDialect": null,
+  "altEntryWord": "Utun",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rayo de sol; reflejo de sol, luna, estrella, luz; luz; destello, viso, centelleo, vislumbre; resplandor; imán de culebra; magnetismo; ano (modismo); hipnotizar",
+  "definitionDialect": "",
+  "additional_text": "ssp Raíz S Tuun",
+  "examples": [
+    {
+      "example_maya": "Li utun qʼij qʼan kaq kakaʼyik",
+      "example_spa": "El rayo del sol es de color amarillo y rojo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li utun ikʼ na kʼatan ta chwa li qʼij",
+      "example_spa": "Los rayos de la luna no son calientes como los del sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ekoqʼij kʼo utun are taq kel loq",
+      "example_spa": "El venus tiene rayos cuando sale",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼaqʼ wachinnaq li utun pa ja",
+      "example_spa": "La luz del fuego alumbra dentro la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kumatz utun xukoj chuchapik li masat",
+      "example_spa": "La culebra usó su imán para cazar al venado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xkʼiy jun chʼaʼk putun li alah",
+      "example_spa": "Le nació un grano en el ano del muchacho",
+      "dialect": null
+    }
+  ],
+  "uuid": "0552899c-cd7e-4369-8c27-29156a3b3b10"
+}

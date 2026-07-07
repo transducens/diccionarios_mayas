@@ -1,0 +1,33 @@
+{
+  "entryWord": "Qʼän",
+  "definition": "Amarillo, maduro, grasa",
+  "additional_text": "Adj Ruqʼanal, xqʼanär",
+  "examples": [
+    {
+      "example_maya": "Ri rnaʼj qʼän qʼän ri rij",
+      "example_spa": "La naranja tiene amarilla la cáscara",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin xinlöqʼ jun nukamxaʼ qʼän rutzubʼal",
+      "example_spa": "Yo compré una camisa amarilla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wakamin xqʼanär yan ri nutraʼs",
+      "example_spa": "Ahora ya maduró mi durazno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan ruqʼanal ruchʼakul ri qol",
+      "example_spa": "La carne del chompipe tiene mucha grasa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e39a3ba5-f3be-4e09-93a8-56465782f32e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

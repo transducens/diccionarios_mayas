@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kokoch",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukokoch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Portón",
+  "definitionDialect": "",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj nim li kokoch re li tyox",
+      "example_spa": "El portón de la iglesia es muy grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "86adce76-ee20-4ffb-8634-97cbb1b34b21"
+}

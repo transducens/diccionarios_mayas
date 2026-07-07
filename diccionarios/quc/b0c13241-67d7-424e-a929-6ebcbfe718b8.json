@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xukʼukʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxukʼukʼlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Soplar el aire; silbar el aire",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VI Xukʼ",
+  "examples": [
+    {
+      "example_maya": "Pa taq saqʼij kumaj xukʼukʼlabʼem li kaqiqʼ",
+      "example_spa": "En verano sopla muy fuerte el aire",
+      "dialect": null
+    }
+  ],
+  "uuid": "b0c13241-67d7-424e-a929-6ebcbfe718b8"
+}

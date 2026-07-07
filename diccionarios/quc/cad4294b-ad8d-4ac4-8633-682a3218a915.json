@@ -1,0 +1,24 @@
+{
+  "entryWord": "Juchiy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un baño en el temascal; un poco de paja",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Xintij juchiy tuj",
+      "example_spa": "Tomé un baño rápido en el temascal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tat xutij juchiy tuj",
+      "example_spa": "El señor tomó un baño rápido en el temascal",
+      "dialect": null
+    }
+  ],
+  "uuid": "cad4294b-ad8d-4ac4-8633-682a3218a915"
+}

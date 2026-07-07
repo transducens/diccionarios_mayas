@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sas",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chispa",
+  "definitionDialect": "",
+  "additional_text": "SnP Sinón Uxuʼm qʼaaqʼ Raíz S Saas",
+  "examples": [
+    {
+      "example_maya": "Li sas xuporoj li atzʼyaq",
+      "example_spa": "La chispa quemó la tela",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b299298-45a9-417b-a4ef-61c09b0dcca5"
+}

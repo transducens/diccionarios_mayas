@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼipik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover la cadera al bailar",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinkʼipoh Raíz VT Kʼip",
+  "examples": [
+    {
+      "example_maya": "Li achih, sibʼalaj kukʼip ribʼ tzaʼm qʼojom",
+      "example_spa": "El hombre mueve mucho la cadera al bailar",
+      "dialect": null
+    }
+  ],
+  "uuid": "39727d50-b559-4945-a8cb-58328664aff1"
+}

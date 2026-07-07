@@ -1,0 +1,28 @@
+{
+  "entryWord": "Rij",
+  "definition": "Cáscara, corteza de árboles",
+  "additional_text": "SSP Var Ij, jomeʼt",
+  "examples": [
+    {
+      "example_maya": "Ri rij ri rnaʼj qʼän nitzuʼun (rubʼonil)",
+      "example_spa": "La cáscara de la naranja es de color amarillo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rij ri traʼs yalan xax",
+      "example_spa": "La cáscara del durazno es muy delgada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo cheʼ yalan pim ri kij",
+      "example_spa": "Algunos árboles tienen la corteza bien gruesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "65df1976-a94d-4250-8698-4b69b04f1105",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

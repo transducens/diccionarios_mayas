@@ -1,0 +1,18 @@
+{
+  "entryWord": "Sachom",
+  "definition": "Gasto, consumo",
+  "additional_text": "SInv Insachom var Sachomj (9)",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ tzʼaqal insachom re hulaj",
+      "example_spa": "Mi gasto no es suficiente para el día de mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "b07a0b7d-0236-4afc-866c-d4f481836cfa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

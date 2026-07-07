@@ -1,0 +1,28 @@
+{
+  "entryWord": "Etal (yuk)",
+  "definition": "Cicatriz, huella, señal",
+  "additional_text": "sInv Wetal sinón Tzʼibʼal, xaqil, yuk var Tyuqʼ",
+  "examples": [
+    {
+      "example_maya": "Taq xinsök nupaläj junabʼir jumül xkʼojeʼ kan wetal",
+      "example_spa": "Cuando me golpeé la cara el año pasado me quedó cicatrizada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq yatikʼo pa poqolaj, nkʼoje kan retal ri awaqän",
+      "example_spa": "Cuando uno pasa donde hay polvo, queda la huella del pie",
+      "dialect": null
+    },
+    {
+      "example_maya": "Retal kabʼlajuj ri niqʼajän",
+      "example_spa": "El toque de campana es señal de las doce horas medio día",
+      "dialect": null
+    }
+  ],
+  "uuid": "15e5a03a-4386-460c-8aef-cfd5a8568b45",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

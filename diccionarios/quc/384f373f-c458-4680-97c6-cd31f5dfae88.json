@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqatubʼin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frijol blanco",
+  "definitionDialect": "",
+  "additional_text": "sc Nusaqatubʼiin Raíz Adj Saq Raíz S Tubʼiin DomS Kinaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li saqatubʼin kabʼan jokʼoʼm chrij, kakʼaq kamaron rukʼ, sibʼalaj jeʼl utijowik",
+      "example_spa": "El frijol blanco es muy sabroso con recado y camarones",
+      "dialect": null
+    }
+  ],
+  "uuid": "384f373f-c458-4680-97c6-cd31f5dfae88"
+}

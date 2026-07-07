@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mos",
+  "entryWordDialect": null,
+  "altEntryWord": "Numos",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mozo",
+  "definitionDialect": "",
+  "additional_text": "ssp Mozo",
+  "examples": [
+    {
+      "example_maya": "Li mos na xukʼis ta li ukʼaʼam",
+      "example_spa": "El mozo no terminó su tarea",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc3a6ddd-a33b-4e78-af86-e383fcf1a246"
+}

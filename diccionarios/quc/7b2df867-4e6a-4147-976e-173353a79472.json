@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lotʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener cadáver o candelas en los brazos o en la mano",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinlootʼeej Raíz P Lotʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, xulotʼej bʼi li kotzʼiʼj pa tyox",
+      "example_spa": "El hombre llevó las candelas en sus brazos a la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b2df867-4e6a-4147-976e-173353a79472"
+}

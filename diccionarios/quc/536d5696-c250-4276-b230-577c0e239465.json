@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rochik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrochoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar con machete o uñas, sin hacer hoyos profundos; rascar",
+  "definitionDialect": "general",
+  "additional_text": "VTR Sinón Raakik Sinón Rookik Var Kʼootik Raiz PT Roch",
+  "examples": [
+    {
+      "example_maya": "Li ibʼoy tajin kuroch ujul pa li swan",
+      "example_spa": "El armado está escarbando su cueva en el barranco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal tajin kuroch uwach li tanatik cheh jun laj cheʼ",
+      "example_spa": "El niño está escarbando el frente de la peña con un palito",
+      "dialect": null
+    }
+  ],
+  "uuid": "536d5696-c250-4276-b230-577c0e239465"
+}

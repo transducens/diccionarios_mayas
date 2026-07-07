@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uxibʼ ubʼarabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Miedo de entrar a una cosa o tomar un cargo",
+  "definitionDialect": "general",
+  "additional_text": "sds Coment",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼo uxibʼ ubʼarabʼ are taq xok chech alkalteh",
+      "example_spa": "El hombre tuvo miedo cuando tomó el cargo de alcalde",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f642c60-d839-477d-8af6-bf58abf208b5"
+}

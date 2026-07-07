@@ -1,0 +1,33 @@
+{
+  "entryWord": "Haʼ yaal",
+  "definition": "Según",
+  "additional_text": "Prep var Aʼ yaal",
+  "examples": [
+    {
+      "example_maya": "Haʼ yaal jarubʼ wan",
+      "example_spa": "Según cuantos haya",
+      "dialect": null
+    },
+    {
+      "example_maya": "Haʼ yaal naxye ma wan aatumin re xloqʼbʼal",
+      "example_spa": "Según si usted tiene dinero para comprarlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Haʼ yaal bʼar",
+      "example_spa": "Dondequiera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Haʼ yaal joqʼe",
+      "example_spa": "Cuandoquiera",
+      "dialect": null
+    }
+  ],
+  "uuid": "e58b3b61-abfd-448f-8bb1-b159adc84629",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

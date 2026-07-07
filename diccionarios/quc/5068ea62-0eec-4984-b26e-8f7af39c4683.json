@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muchʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Numuchʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chipilín",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "SInv Raíz S Muuch DomS",
+  "examples": [
+    {
+      "example_maya": "Li nunan xubʼan subʼ rukʼ muchʼ",
+      "example_spa": "Mi mamá hizo tamalitos con chipilines",
+      "dialect": null
+    }
+  ],
+  "uuid": "5068ea62-0eec-4984-b26e-8f7af39c4683"
+}

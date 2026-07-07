@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼulunk",
+  "definition": "Venir, llegar",
+  "additional_text": "vı Xinkʼulun",
+  "examples": [
+    {
+      "example_maya": "Xinkʼulun chaq saʼ inkʼanjel, tchaqiq we ut twaj ukʼak",
+      "example_spa": "Vengo de mi trabajo, tengo sed y quiero beber",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kim",
+      "example_spa": "Venite, vengase",
+      "dialect": null
+    }
+  ],
+  "uuid": "57d12db9-c60a-4e03-993a-40b93149faf1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

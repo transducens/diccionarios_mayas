@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼisikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cabro",
+  "definitionDialect": "General",
+  "additional_text": "scv Nukʼisiikʼ DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kʼisikʼ kʼo rukʼaʼ xuq utz katijow li uwaʼl utzʼum",
+      "example_spa": "La cabra tiene cuernos y es bebible su leche",
+      "dialect": null
+    }
+  ],
+  "uuid": "af948e4f-e52b-4da0-a06a-cdbb88ea9744"
+}

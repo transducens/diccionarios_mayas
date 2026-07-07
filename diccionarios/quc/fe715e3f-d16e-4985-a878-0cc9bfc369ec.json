@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rinik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrinoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar instrumento de tono bajo",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Rin",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kurin li bʼyolon",
+      "example_spa": "El hombre está tocando el violón",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe715e3f-d16e-4985-a878-0cc9bfc369ec"
+}

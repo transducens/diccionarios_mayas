@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juquch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un bocado; una aserrada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Quch",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq juquch li lij xutijoh",
+      "example_spa": "El hombre se comió de un solo bocado la tortilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d53da08-d8ea-4ccc-9c5c-dc007a0ae265"
+}

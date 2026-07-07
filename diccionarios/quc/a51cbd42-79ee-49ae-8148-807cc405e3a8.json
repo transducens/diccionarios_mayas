@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ichaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba comestible",
+  "definitionDialect": "General",
+  "additional_text": "SInv Wichaaj DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Pa li wuliw kʼi uwach chi ichaj nutikom",
+      "example_spa": "En mi terreno he sembrado varios tipos de verduras",
+      "dialect": null
+    }
+  ],
+  "uuid": "a51cbd42-79ee-49ae-8148-807cc405e3a8"
+}

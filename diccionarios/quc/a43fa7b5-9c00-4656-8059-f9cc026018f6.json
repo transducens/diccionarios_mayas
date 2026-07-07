@@ -1,0 +1,19 @@
+{
+  "entryWord": "Janimpaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Cuánto?; ¿cuántos?",
+  "definitionDialect": "",
+  "additional_text": "Interr Var Janipaʼ",
+  "examples": [
+    {
+      "example_maya": "¿Janimpaj pajbʼal ixim kawaj?",
+      "example_spa": "¿Cuántas medidas de maíz querés?",
+      "dialect": null
+    }
+  ],
+  "uuid": "a43fa7b5-9c00-4656-8059-f9cc026018f6"
+}

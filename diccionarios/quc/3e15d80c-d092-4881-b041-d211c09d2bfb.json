@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kakateʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukakateʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quijada; barbilla",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Che li kakateʼ kakʼiy wi li ismaʼch",
+      "example_spa": "De la barbilla crece la barba",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e15d80c-d092-4881-b041-d211c09d2bfb"
+}

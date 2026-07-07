@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ripexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinripej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Extender todo",
+  "definitionDialect": "",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Li kʼuch are taq xel la li qʼij xuripej li uxikʼ",
+      "example_spa": "El zopilote extendió sus alas cuando salió el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "82dcce9f-4f9d-486b-b08e-510cf22e06c6"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼajoʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lavado (ropa ya lavada pero mojada o para lavar); menstruación",
+  "definitionDialect": "General",
+  "additional_text": "SInv Nuchʼaajoʼn Raíz VT Chʼaj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj kʼi li uchʼajoʼn xukʼam bʼik",
+      "example_spa": "La mujer llevó mucha ropa para lavar",
+      "dialect": null
+    }
+  ],
+  "uuid": "79cc97e3-767e-47b0-871c-76a5fc94b014"
+}

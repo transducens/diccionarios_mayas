@@ -1,0 +1,19 @@
+{
+  "entryWord": "Junabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Año",
+  "definitionDialect": "General",
+  "additional_text": "sNP",
+  "examples": [
+    {
+      "example_maya": "Kʼo kabʼlajuj ikʼ pa jun junabʼ",
+      "example_spa": "Hay doce meses en un año",
+      "dialect": null
+    }
+  ],
+  "uuid": "869ba177-5fbf-4036-be04-98a48dd599d9"
+}

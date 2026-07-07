@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼoril",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼoril",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pereza; holganza",
+  "definitionDialect": "",
+  "additional_text": "sInv Raiz S Qʼor",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kʼo uqʼoril na karaj taj kabʼe pa tijoxik",
+      "example_spa": "El niño tiene pereza, no quiere ir a la enseñanza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpe nuqʼoril",
+      "example_spa": "Me dio pereza",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d0e056c-2f75-4161-aceb-275a515e2d0a"
+}

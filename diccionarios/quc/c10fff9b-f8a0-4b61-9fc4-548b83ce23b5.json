@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rokʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karokʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar desnudo",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz PT Rokʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih karokʼnaj pa li bʼeh",
+      "example_spa": "El hombre va desnudo por el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "c10fff9b-f8a0-4b61-9fc4-548b83ce23b5"
+}

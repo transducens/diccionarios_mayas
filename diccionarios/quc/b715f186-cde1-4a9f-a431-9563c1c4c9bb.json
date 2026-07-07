@@ -1,0 +1,29 @@
+{
+  "entryWord": "Pas",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Faja",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupaas DomS Atzʼyaq",
+  "examples": [
+    {
+      "example_maya": "Li upas li ixoq si qʼoʼom xuq nim",
+      "example_spa": "La faja de la mujer es bordada y grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li neʼ kʼakʼ li upas re uwa kusul",
+      "example_spa": "El nene tiene nueva faja de cuna",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Pas re uwa kusul",
+      "example_spa": "Faja de cuna",
+      "dialect": null
+    }
+  ],
+  "uuid": "b715f186-cde1-4a9f-a431-9563c1c4c9bb"
+}

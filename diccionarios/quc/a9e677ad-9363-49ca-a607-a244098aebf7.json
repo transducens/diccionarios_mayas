@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tulul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zapote",
+  "definitionDialect": "Nutuluul.",
+  "additional_text": "scv Raíz S Tulul DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li tulul chomaʼq, taqʼaj kakʼiy wih",
+      "example_spa": "Los zapotes son grandes, crecen en tierra tropical",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tulul pa miqʼina juyubʼ kakʼiy wih",
+      "example_spa": "El zapote crece en tierra caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li juwiʼ tulul sibʼalaj kawachinik",
+      "example_spa": "El zapotal da muchos frutos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9e677ad-9363-49ca-a607-a244098aebf7"
+}

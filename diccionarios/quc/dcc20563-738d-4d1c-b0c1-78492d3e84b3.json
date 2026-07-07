@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼokixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼokij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desclavar; despegar cosa clavada o engrapada",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Kʼok",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xukʼokij uwach li chʼaʼk",
+      "example_spa": "El niño se despegó la costra del grano",
+      "dialect": null
+    }
+  ],
+  "uuid": "dcc20563-738d-4d1c-b0c1-78492d3e84b3"
+}

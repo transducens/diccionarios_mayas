@@ -1,0 +1,29 @@
+{
+  "entryWord": "Toqʼobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Favor; da lástima",
+  "definitionDialect": "General",
+  "additional_text": "snP vT Toqʼobʼaxik Tener lástima",
+  "examples": [
+    {
+      "example_maya": "Li achih xubʼan jun toqʼobʼ chweh, xinqaj kebʼ urajil",
+      "example_spa": "El hombre me hizo un favor, me prestó un poco de dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼana jun toqʼobʼ, chaya jubʼiqʼ nujoron",
+      "example_spa": "Por favor, dame un poco de agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xkam rachajil, sibʼalaj toqʼobʼ uwach",
+      "example_spa": "La mujer da lástima porque se le murió el esposo",
+      "dialect": null
+    }
+  ],
+  "uuid": "884b3604-3499-4ed5-adb3-d00344675e83"
+}

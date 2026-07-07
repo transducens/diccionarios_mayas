@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kalax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carda para lana",
+  "definitionDialect": "",
+  "additional_text": "scv Nukaalaax Del Cast Carda",
+  "examples": [
+    {
+      "example_maya": "Li kalax, chech lanah kachokon wih",
+      "example_spa": "La carda se usa para lana",
+      "dialect": null
+    }
+  ],
+  "uuid": "246daf45-88e9-49e2-b4e0-e970e3f9cf7d"
+}

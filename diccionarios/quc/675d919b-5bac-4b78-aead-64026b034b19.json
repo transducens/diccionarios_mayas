@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼochoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar agachado",
+  "definitionDialect": "",
+  "additional_text": "VI Kaqʼoochoʼpik Raíz P Qʼoch",
+  "examples": [
+    {
+      "example_maya": "Li sin nima achih kaqʼochoʼpik kaxojowik",
+      "example_spa": "El anciano baila agachado",
+      "dialect": null
+    }
+  ],
+  "uuid": "675d919b-5bac-4b78-aead-64026b034b19"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼan oj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼan oj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canojo (árbol parecido al aguacate, de color amarillo)",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li qʼan oj nima cheʼ, utz cheh tzʼalam",
+      "example_spa": "El canojo es un",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc8016b8-a87d-4950-88cd-a5934682d85f"
+}

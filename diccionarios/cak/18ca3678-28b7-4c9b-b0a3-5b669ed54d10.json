@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tzʼumal",
+  "definition": "Cutis pellejo, piel, cuero",
+  "additional_text": "sinv Nutzʼumal Tzʼum",
+  "examples": [
+    {
+      "example_maya": "Kan xqʼolqʼot el ri nutzʼumal, taq xtix ri meqʼën yaʼ chi rij ri nuqʼaʼ",
+      "example_spa": "Se levantó bastante la piel de mi mano porque e cayó agua caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kej janíla pin ri rutzʼumal",
+      "example_spa": "El pellejo del caballo es bien grueso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri rutzʼumal wakx nibʼan patän (tapäl) chre",
+      "example_spa": "Con la piel del buey hacen el mecapal",
+      "dialect": null
+    }
+  ],
+  "uuid": "18ca3678-28b7-4c9b-b0a3-5b669ed54d10",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼawnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer chile verde",
+  "definitionDialect": "General",
+  "additional_text": "vi Kaqʼawnajik Raiz VT Qʼaw",
+  "examples": [
+    {
+      "example_maya": "Li raxa ik kaqʼawnaj pa chiʼaj",
+      "example_spa": "El chile verde hace ruido en la boca",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5e4c44a-474e-4e34-a566-3bf9b83109b3"
+}

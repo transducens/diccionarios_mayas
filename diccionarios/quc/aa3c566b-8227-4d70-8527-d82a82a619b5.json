@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sijah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pájaro vaquero; tordo; gaviota garrapata",
+  "definitionDialect": "Spanish",
+  "additional_text": "SnP Raíz S Siijah DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li sijah kekitij li amoloh chkij taq li wakax",
+      "example_spa": "Los pájaros vaqueros comen moscas sobre el lomo de las vacas",
+      "dialect": null
+    }
+  ],
+  "uuid": "aa3c566b-8227-4d70-8527-d82a82a619b5"
+}

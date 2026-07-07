@@ -1,0 +1,18 @@
+{
+  "entryWord": "KAAX",
+  "definition": "caja de muerta, ataúd",
+  "additional_text": "s1 nkaxa 1 2 cofre del español caja",
+  "examples": [
+    {
+      "example_maya": "Oʼkx a nnoknen kax kyiʼj kyimna",
+      "example_spa": "La caja mortuoria solo se usa para llevar a los muertos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "723dabc6-94d6-41b9-bcf6-d779097ae418",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

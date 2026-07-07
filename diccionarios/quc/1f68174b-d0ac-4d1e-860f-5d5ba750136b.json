@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kulantoh",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukulanto",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Culantro",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Ichaaj Del Cast Culantro, cilantro",
+  "examples": [
+    {
+      "example_maya": "Li kulantoh kaya rukʼ uwaʼl ik, kuya ukʼokʼal",
+      "example_spa": "El culantro se echa al caldo para darle sabor",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f68174b-d0ac-4d1e-860f-5d5ba750136b"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼina",
+  "definition": "Se usa con adjetivos, usualmente para dar el sentido de “medio”; a veces da el sentido de “muy” o “bien”",
+  "additional_text": "AdvCant Medio, muy, bien",
+  "examples": [
+    {
+      "example_maya": "Chʼina nim",
+      "example_spa": "Medio grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼina kaq",
+      "example_spa": "Medio rojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d42a4b33-ae3d-4984-9f34-0720f11b73a4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzoqoqem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alcanzar una cosa al repartirla crecer hierbas o siembras tupidas",
+  "definitionDialect": "",
+  "additional_text": "VI Katzoqoqik Raiz PT Tzoq",
+  "examples": [
+    {
+      "example_maya": "Li qʼayes katzoqoqik xkʼiy rumal li jabʼ",
+      "example_spa": "La yerba creció muy tupida por la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tzoqonem chwachil",
+      "example_spa": "Suficiente para todos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2279711a-df4c-4178-8a88-88acb3fe8291"
+}

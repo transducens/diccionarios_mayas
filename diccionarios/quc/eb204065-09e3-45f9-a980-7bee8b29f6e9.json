@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrojar; vomitar",
+  "definitionDialect": "Spanish",
+  "additional_text": "vi Kinxaabʼik Raiz VI Xabʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq kinbʼin pa altamow\" kinxabʼik",
+      "example_spa": "Cuando viajo en carro vomito",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb204065-09e3-45f9-a980-7bee8b29f6e9"
+}

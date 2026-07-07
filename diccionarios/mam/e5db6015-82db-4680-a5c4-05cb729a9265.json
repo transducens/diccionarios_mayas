@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHLINK (ẍlink)",
+  "definition": "jarrito",
+  "additional_text": "s1 nchlinka var ẍlink raíz link s ds makbʼil",
+  "examples": [
+    {
+      "example_maya": "Tuj chlink qʼoʼnjax chʼin tʼal tqʼanbʼila",
+      "example_spa": "En el jarrito herví un poco tu medicina",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kyuʼn chnaʼ nbʼaj bʼinchan qatal tchink nan tmink",
+      "example_spa": "Los tutuapas fabrican los jarritos de la señora domingo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e5db6015-82db-4680-a5c4-05cb729a9265",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rochnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karochnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar",
+  "definitionDialect": "",
+  "additional_text": "VI Raiz PT Roch",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xuchap rochnajem cheh li ibʼoy",
+      "example_spa": "El perro empezó a escarbar el armado",
+      "dialect": null
+    }
+  ],
+  "uuid": "dd34d9df-b41e-4721-ba12-b9e847f8c19b"
+}

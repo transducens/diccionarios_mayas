@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼusnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con la cabeza hacia abajo",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqʼusnajik Raíz P Qʼus",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ xa kaqʼusnaj kabinik rumal qʼoxom",
+      "example_spa": "El enfermo anda cabizbajo por el dolor",
+      "dialect": null
+    }
+  ],
+  "uuid": "83f52aac-1d9a-4b9e-9408-cd3ef22d7373"
+}

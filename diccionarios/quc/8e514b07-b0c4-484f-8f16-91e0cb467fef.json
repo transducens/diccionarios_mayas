@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼenik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar con machete",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintʼenoh Sinón Seetik Sinón Keetik",
+  "examples": [
+    {
+      "example_maya": "Li achih, tajin kutʼen li cheʼ chech muruh",
+      "example_spa": "El hombre, está cortando el palo con machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e514b07-b0c4-484f-8f16-91e0cb467fef"
+}

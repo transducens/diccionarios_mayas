@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼilipuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Esparcir granos; asolear granos haciendo capa delgada",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTD Kinkʼilipuuj Raiz VT Kʼil",
+  "examples": [
+    {
+      "example_maya": "Kinkʼilipuj ixim, kinaqʼ chwa qʼij",
+      "example_spa": "Asoleo maíz y frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "4f9bd55d-e67b-49c0-8e9b-424d3eb968a9"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "=Qʼijil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tiempo de",
+  "definitionDialect": "",
+  "additional_text": "ssp Uqʼijiil Raíz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Pa taq qʼalaj uqʼijil taraʼs",
+      "example_spa": "En invierno es tiempo de duraznos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Uqʼijil chi jachʼ kamik, ma xchaqij li abʼix",
+      "example_spa": "Ahora es tiempo de tapizca, porque ya se secó la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb445f6a-6848-4f1c-843c-3a4ede44ee9d"
+}

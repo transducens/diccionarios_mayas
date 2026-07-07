@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jamik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desocupar; vaciar Derramar líquidos o granos, regar líquidos o granos",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinjamoh vtd Jamamexik",
+  "examples": [
+    {
+      "example_maya": "Li kaxon kʼa maja kinjamoh",
+      "example_spa": "Todavía no he vaciado el cajón",
+      "dialect": null
+    }
+  ],
+  "uuid": "270399d6-ecb9-4081-917a-590a0b95ad83"
+}

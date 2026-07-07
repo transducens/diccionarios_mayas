@@ -1,0 +1,23 @@
+{
+  "entryWord": "Loot",
+  "definition": "Lote, fracción de terreno",
+  "additional_text": "SInv Inloot",
+  "examples": [
+    {
+      "example_maya": "Inyuwaʼ xloqʼ jun xloot najt chi re tenamit",
+      "example_spa": "Mi papá compró un lote más retirado del pueblo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ li xamaan kinumeʼ kinloqʼ jun inloot",
+      "example_spa": "La semana pasada compré un lote",
+      "dialect": null
+    }
+  ],
+  "uuid": "c247fbfc-7ddb-4ff8-a2af-883a0a4183e5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

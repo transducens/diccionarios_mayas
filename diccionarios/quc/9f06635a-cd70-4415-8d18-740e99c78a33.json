@@ -1,0 +1,29 @@
+{
+  "entryWord": "Winaqirem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawinaqirik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llegar a tener bienes; terminar con dificultad la construcción de casas; completar las cosas al formar un nuevo hogar; recuperar las energías después de una enfermedad",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz S Winaq",
+  "examples": [
+    {
+      "example_maya": "Li sin achih, xwinaqirik",
+      "example_spa": "El hombre llegó a tener sus bienes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa te xwinaqir aqʼan li sin woʼch",
+      "example_spa": "Acabo de terminar la construcción de mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼa te xwinaqir upa li kʼakʼ woʼch",
+      "example_spa": "Ya completé las cosas de mi nueva casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9f06635a-cd70-4415-8d18-740e99c78a33"
+}

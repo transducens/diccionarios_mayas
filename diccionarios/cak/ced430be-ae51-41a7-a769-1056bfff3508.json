@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kan",
+  "definition": "Partícula con tres funciones: Adjetivo Calificativo, de complemento y Admiración",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Kan Jebʼël ok xubʼän ri nimaqʼij",
+      "example_spa": "La fiesta estuvo muy alegre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xkanäj kan ri wal pa kaybʼäl",
+      "example_spa": "Se quedó mi hija en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "ced430be-ae51-41a7-a769-1056bfff3508",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

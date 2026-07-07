@@ -1,0 +1,23 @@
+{
+  "entryWord": "Käqʼ",
+  "definition": "Guayaba",
+  "additional_text": "sInv Nukäqʼ Nukäqʼ Munibʼäl, cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri käqʼ cheʼ ruyon bʼa e koköj ok, ri ruwäch, yalan nitij, xa xe chʼanchʼöj bʼaʼ",
+      "example_spa": "Los guayabales son un poco bajos, su fruta se come bien, sólo que es un poco ácida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri käqʼ jebʼel nkʼojeʼ pa taq taqʼaj",
+      "example_spa": "La guayaba se da mucho en las costas",
+      "dialect": null
+    }
+  ],
+  "uuid": "876fafc5-b008-41ca-a230-f3b8d736e5d1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Xaq",
+  "definition": "Tizne, negro",
+  "additional_text": "Adj Ruxaqil, xaqir Sinón Qʼäq, sübʼ",
+  "examples": [
+    {
+      "example_maya": "Ri akʼwalaʼ yalan niketzʼabʼej ri xaq",
+      "example_spa": "Los niños juegan mucho con el tizne",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa xe jun bʼëy xinyaʼ ök ri bʼojoʼy pa qʼaqʼ, kan xaq xubʼän ri rij",
+      "example_spa": "Tan sólo una vez metí la olla en el fuego y ya se puso negra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xot sibʼiläj xaq chirij",
+      "example_spa": "El comal tiene bastante tizne",
+      "dialect": null
+    }
+  ],
+  "uuid": "28ea2247-47e2-4cb0-b0f8-bab35bd4ac33",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

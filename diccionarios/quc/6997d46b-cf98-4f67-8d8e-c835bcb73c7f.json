@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼalama abʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Peña, piedra plana",
+  "definitionDialect": "",
+  "additional_text": "scL Raíz S Tzalam Raíz S Abʼaj",
+  "examples": [
+    {
+      "example_maya": "Chwa li tzʼalamabʼaj na kakʼiy ta cheʼ",
+      "example_spa": "En la peña no crecen árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "6997d46b-cf98-4f67-8d8e-c835bcb73c7f"
+}

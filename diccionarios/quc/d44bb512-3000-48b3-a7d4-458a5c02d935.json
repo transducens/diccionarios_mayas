@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wachʼeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrado: peine sin dientes; aplastado",
+  "definitionDialect": "",
+  "additional_text": "ADS Raíz vt Wachʼ",
+  "examples": [
+    {
+      "example_maya": "Li uware li xyabʼ xa wachʼeʼl ma xa qʼipnaq",
+      "example_spa": "Los dientes del peine están disparejos porque están quebrados",
+      "dialect": null
+    }
+  ],
+  "uuid": "d44bb512-3000-48b3-a7d4-458a5c02d935"
+}

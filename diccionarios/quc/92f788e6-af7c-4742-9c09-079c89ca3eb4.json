@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pekʼekʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpekʼekʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblar mucho",
+  "definitionDialect": "General",
+  "additional_text": "vT Raíz VT Pekʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah xupekʼekʼej li upowiʼ",
+      "example_spa": "El muchacho dobló mucho el sombrero",
+      "dialect": null
+    }
+  ],
+  "uuid": "92f788e6-af7c-4742-9c09-079c89ca3eb4"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼajajexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzʼajajej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pintar todo",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raíz PT Tzʼaj",
+  "examples": [
+    {
+      "example_maya": "Li achih xutzʼajajej li roʼch ma xpe nimaqʼij",
+      "example_spa": "El hombre pintó toda su casa porque ya se acerca la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "24129cc3-f535-40fc-845e-6c1dfd21b358"
+}

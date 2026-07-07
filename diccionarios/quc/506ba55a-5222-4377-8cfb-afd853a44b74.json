@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼamaʼmoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dorado, color de oro; tostado (tamal, tortilla); brillante por tanto uso; amarillo fuerte",
+  "definitionDialect": "",
+  "additional_text": "Adj Xqʼamaʼiʼk Raiz P Maʼ",
+  "examples": [
+    {
+      "example_maya": "Li alimah sibʼalaj qʼamaʼmoj ma chaqʼ chik",
+      "example_spa": "La lima es de color amarillo, porque está madura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li lij chiʼl li subʼ we qʼamaʼmoj xubʼanoh, sibʼalaj jeʼl utijowik",
+      "example_spa": "Las tortillas y tamales son muy sabrosas si están bien dorados",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uchʼamiʼy li nim achih sibʼalaj qʼamaʼmoj ma ronojel qʼij kukojoh",
+      "example_spa": "El bastón del anciano es brillante, porque lo usa todos los días",
+      "dialect": null
+    }
+  ],
+  "uuid": "506ba55a-5222-4377-8cfb-afd853a44b74"
+}

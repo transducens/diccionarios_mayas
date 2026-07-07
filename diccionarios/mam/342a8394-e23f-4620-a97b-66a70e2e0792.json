@@ -1,0 +1,23 @@
+{
+  "entryWord": "TUUNAN",
+  "definition": "1 copa del sombrero 2 cogollo de cualquier planta",
+  "additional_text": "sy raíz un",
+  "examples": [
+    {
+      "example_maya": "Nkuʼtz aʼ tuj tunan tpas",
+      "example_spa": "Se le baja el agua en la copa de su sombrero",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Noj xton tkuʼx tuj tunan kjoʼn",
+      "example_spa": "Hay muchos cogolleros en el cogollo de la milpa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "342a8394-e23f-4620-a97b-66a70e2e0792",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

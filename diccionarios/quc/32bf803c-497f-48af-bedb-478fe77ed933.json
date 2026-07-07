@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quruwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gritar el coche; gruñido del coche",
+  "definitionDialect": "",
+  "additional_text": "VI Kaquruwik Raíz VI Qur",
+  "examples": [
+    {
+      "example_maya": "Are taq kawaʼ li aq kaquruw chrij li tzʼiʼ",
+      "example_spa": "Cuando el marrano come, le gruñe al perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "32bf803c-497f-48af-bedb-478fe77ed933"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Itzel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Demonio, malo; diablo; el malo",
+  "definitionDialect": "General",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Ri itzel maj jun kilowik",
+      "example_spa": "Ninguno puede ver al demonio",
+      "dialect": null
+    }
+  ],
+  "uuid": "403a5bc8-aa4f-4952-ac83-109781a7552d"
+}

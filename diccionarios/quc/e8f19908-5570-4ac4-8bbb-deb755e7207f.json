@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tubʼuqʼinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katubʼuqʼinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brillar como ojos de animal; mirar de reojo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Tubʼ",
+  "examples": [
+    {
+      "example_maya": "Li meʼs katubʼuqʼin li ubʼaqʼwach pa li qʼequʼm",
+      "example_spa": "Los ojos del gato brillan en la oscuridad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih katubʼuqʼin li ubʼaqʼwach chweh ma xa royowal",
+      "example_spa": "La muchacha me mira de reojo porque está enojada",
+      "dialect": null
+    }
+  ],
+  "uuid": "e8f19908-5570-4ac4-8bbb-deb755e7207f"
+}

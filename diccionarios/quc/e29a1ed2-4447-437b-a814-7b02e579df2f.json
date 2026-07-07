@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼabʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xkʼabʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xukʼabʼabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Boquiabierto; abierto, como la boca de culebra o lagarto",
+  "definitionDialect": "",
+  "additional_text": "p Raíz p Kʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq xkʼabʼiʼk, are taq xojtzijonik",
+      "example_spa": "El niño estuvo boquiabierto durante la plática",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xekʼabʼiʼ puchiʼ",
+      "example_spa": "Creyeron todo lo que dijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e29a1ed2-4447-437b-a814-7b02e579df2f"
+}

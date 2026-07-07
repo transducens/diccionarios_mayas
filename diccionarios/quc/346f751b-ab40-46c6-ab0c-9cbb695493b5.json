@@ -1,0 +1,24 @@
+{
+  "entryWord": "Waʼim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer",
+  "definitionDialect": "",
+  "additional_text": "vi Kinwaʼik Raiz S Wah",
+  "examples": [
+    {
+      "example_maya": "Li achʼih, xok cheh waʼim",
+      "example_spa": "El hombre empezó a comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kwaj kinwaʼik ma xa kinnum chik",
+      "example_spa": "Quiero comer porque ya tengo hambre",
+      "dialect": null
+    }
+  ],
+  "uuid": "346f751b-ab40-46c6-ab0c-9cbb695493b5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Boca arriba",
+  "definitionDialect": "General",
+  "additional_text": "P Xpakʼiʼk, xupakʼaʼ Ant Jupulik Raíz P",
+  "examples": [
+    {
+      "example_maya": "Li akʼal pakʼal pa li chʼat",
+      "example_spa": "El niño está boca arriba en la cama",
+      "dialect": null
+    }
+  ],
+  "uuid": "22bba43a-fbf9-4473-8e99-3c7bc00b6df9"
+}

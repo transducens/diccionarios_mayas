@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼlixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpaqʼlij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido con chicote o cohete",
+  "definitionDialect": "General",
+  "additional_text": "vtd Sinón Pokʼlixik Raíz VT Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xupaqʼlij kwet pa ri alaxibʼal",
+      "example_spa": "Para la navidad los niños hacen ruido con los cohetes",
+      "dialect": null
+    }
+  ],
+  "uuid": "46e48f06-fb3d-4c7f-b070-9ac5b70af9b5"
+}

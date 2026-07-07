@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oyowarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinoyowarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enojarse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz vi Oyow",
+  "examples": [
+    {
+      "example_maya": "Li ajtiij koyowar chikeh li akʼalabʼ ma xaq keʼtzʼanik",
+      "example_spa": "El maestro se enoja con los niños porque están jugando",
+      "dialect": null
+    }
+  ],
+  "uuid": "695230af-baa3-428a-83d5-8825e1706585"
+}

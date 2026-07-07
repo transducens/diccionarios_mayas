@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Surco; tablón",
+  "definitionDialect": "",
+  "additional_text": "SAS Uqʼeʼtaal Raíz s Qʼeʼt",
+  "examples": [
+    {
+      "example_maya": "Pwi li qʼeʼt katik wi li trikoh",
+      "example_spa": "Sobre el tablón se siembra el trigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "68b15983-bec7-4ab4-990c-35826769eb7b"
+}

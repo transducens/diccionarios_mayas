@@ -1,0 +1,24 @@
+{
+  "entryWord": "Trikoh",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutriko",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trigo",
+  "definitionDialect": "",
+  "additional_text": "SCV Var Ririkoh DomS Tiikoʼn DomS Ixiim Del Cast Trigo",
+  "examples": [
+    {
+      "example_maya": "Li utriko li achih, xa jobʼ kʼaʼam utikom",
+      "example_spa": "El hombre sólo ha sembrado cinco cuerdas de trigo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li trikoh kabʼan kaxlanwah chech; pa tewa juyubʼ kakʼiy wih",
+      "example_spa": "Del trigo se hace pan; crece en tierra fría",
+      "dialect": null
+    }
+  ],
+  "uuid": "deff6b09-b196-4ad4-9771-dc8b19392066"
+}

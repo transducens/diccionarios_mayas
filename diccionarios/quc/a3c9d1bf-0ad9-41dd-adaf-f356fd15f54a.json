@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kok",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukok",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coco",
+  "definitionDialect": "Dom.S. Pruut. Del Cast. Coco.",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li uwaʼal li kok sibʼalaj kajororik",
+      "example_spa": "El agua de coco es refrescante",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3c9d1bf-0ad9-41dd-adaf-f356fd15f54a"
+}

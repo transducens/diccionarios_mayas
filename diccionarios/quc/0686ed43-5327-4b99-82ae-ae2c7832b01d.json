@@ -1,0 +1,19 @@
+{
+  "entryWord": "Julemaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una fila",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz P Lem",
+  "examples": [
+    {
+      "example_maya": "Pa li tyentah, kʼo julemaj ser\"wes",
+      "example_spa": "En la tienda hay una fila de cervezas",
+      "dialect": null
+    }
+  ],
+  "uuid": "0686ed43-5327-4b99-82ae-ae2c7832b01d"
+}

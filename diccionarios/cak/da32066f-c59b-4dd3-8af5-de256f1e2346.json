@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qa",
+  "definition": "Bajo, abajo Esta partícula indica la dirección de la acción o la posición del objeto de que se habla",
+  "additional_text": "Dirc",
+  "examples": [
+    {
+      "example_maya": "Konojel ri qäkʼ xetzaq qa",
+      "example_spa": "Todas nuestras gallinas se cayeron abajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qawuj yalan xerijix yan qa",
+      "example_spa": "Ya se envejecieron mucho nuestros libros",
+      "dialect": null
+    }
+  ],
+  "uuid": "da32066f-c59b-4dd3-8af5-de256f1e2346",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

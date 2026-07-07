@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ruxaq Qʼaqʼ (ruxal qʼaqʼ)",
+  "definition": "Llama de fuego",
+  "additional_text": "sds Ruxaq nuqʼaqʼ Qʼaqʼ",
+  "examples": [
+    {
+      "example_maya": "Taq manäq nel ruxaq qʼaqʼ, nubʼän janïla (janina) sübʼ (sibʼ)",
+      "example_spa": "Cuando no hay llama en el fuego, hace mucho humo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ruxaq qʼaqʼ chaʼnin nikʼaton",
+      "example_spa": "La llama del fuego luego quema",
+      "dialect": null
+    }
+  ],
+  "uuid": "20a3f8a6-1c23-4d60-84b7-5e467b12eca7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

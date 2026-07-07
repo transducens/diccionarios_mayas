@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼawel tzijonel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Testigo; fiador",
+  "definitionDialect": "General",
+  "additional_text": "s+s",
+  "examples": [
+    {
+      "example_maya": "Li a Luix sibʼalaj utz ma are chʼawel tzijonel chwij",
+      "example_spa": "Luis es muy bueno como testigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "46c77323-511d-4ce1-8f73-2b523516101d"
+}

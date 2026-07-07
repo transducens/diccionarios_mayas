@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xibʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxibʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espantar; asustar",
+  "definitionDialect": "",
+  "additional_text": "vtd Sinón Xibʼin iibʼ Raíz VT Xibʼ",
+  "examples": [
+    {
+      "example_maya": "Kinxibʼij na li wachiʼil pa li qʼequʼm",
+      "example_spa": "Voy a asustar a mi compañero en la obscuridad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Keʼnxibʼij na kʼel pa abʼix",
+      "example_spa": "Iré a espantar chocoyos a la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c346e4e6-705f-4d2c-991c-aa05666aefe6"
+}

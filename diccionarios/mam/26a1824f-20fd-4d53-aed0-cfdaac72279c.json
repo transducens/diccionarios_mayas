@@ -1,0 +1,23 @@
+{
+  "entryWord": "KʼAʼSAT",
+  "definition": "1 entapancar, hacer tapanco 2 guardar distintos objetos en el tapanco",
+  "additional_text": "vt kʼaʼsal te, kʼaʼsan, ma bʼaj nkʼaʼsana raíz kʼaʼs s",
+  "examples": [
+    {
+      "example_maya": "Ma chinxa kʼaʼsal tukʼ njiʼya",
+      "example_spa": "Voy a ir a hacer tapanco donde mi suegro",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tat weʼj, i tbʼaj kʼaʼsat ni qaqʼanbʼen twiʼ kʼaʼs",
+      "example_spa": "Abuelo, hay que guardar nuestra cosecha en el tapanco",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "26a1824f-20fd-4d53-aed0-cfdaac72279c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chʼabʼäl",
+  "definition": "Lenguaje, idioma, voz, doctrina",
+  "additional_text": "sInv Nuchʼabʼäl var Tzij, qul",
+  "examples": [
+    {
+      "example_maya": "Ri qachʼabʼäl ma junan ta rikʼin ri kichin ri xexaʼ",
+      "example_spa": "Nuestro idioma no es igual que el de los ladinos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ruchʼabʼäl ri Chi Xot ja ri Kaqchikel",
+      "example_spa": "El idioma de Comalapa es el Kaqchikel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kichʼabʼäl kitzijobʼäl",
+      "example_spa": "Testimonio sobre el acontecimiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "8eb2a719-1adb-489b-b9b6-5a9957e7147a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

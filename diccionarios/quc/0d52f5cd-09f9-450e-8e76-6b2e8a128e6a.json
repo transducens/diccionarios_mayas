@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quchʼuchʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinquchʼuchʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rechinar los dientes; cortar cosa dura con los dientes",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Quchʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼoh xuquchʼuchʼej li tzʼuʼum",
+      "example_spa": "El ratón cortó el cuero",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d52f5cd-09f9-450e-8e76-6b2e8a128e6a"
+}

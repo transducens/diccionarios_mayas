@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼinel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viajero; caminante; absceso",
+  "definitionDialect": "",
+  "additional_text": "sAgen Sinón Awaas Raíz VI Bʼihn Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li bʼinel chʼaqajaʼ kape wi",
+      "example_spa": "El viajero viene de Europa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f974a8de-5301-493f-bb1e-471ad3479820"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuqukʼubʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventarse pita o lazo",
+  "definitionDialect": "",
+  "additional_text": "vi Kakʼuqukʼubik Raiz VI",
+  "examples": [
+    {
+      "example_maya": "Li kʼaʼam ximbʼal re li eqaʼn xkʼuqukʼubʼik",
+      "example_spa": "La pita con que fue amarrada la carga, se reventó",
+      "dialect": null
+    }
+  ],
+  "uuid": "a04318e8-2039-4beb-93d6-3fb16204a0d1"
+}

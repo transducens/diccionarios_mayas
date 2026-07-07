@@ -1,0 +1,23 @@
+{
+  "entryWord": "ALEMAJ",
+  "definition": "animal doméstico",
+  "additional_text": "s3 waʼlana sin aloʼmj frases: tzmal alemaj pelo de animales domésticos raíz aloʼm s",
+  "examples": [
+    {
+      "example_maya": "Kye chiwaʼn qakya taʼlan tiʼj t-xaq kjoʼn",
+      "example_spa": "Tus animales comen la hoja de milpa",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Nimqa alemaj teʼ tukʼ xwan, saber tichaq wiqalqa",
+      "example_spa": "Donde juan hay muchos animales, y saber de que clases son",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "2dc41305-996b-4382-beba-33651c382d8e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

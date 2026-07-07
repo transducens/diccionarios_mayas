@@ -1,0 +1,18 @@
+{
+  "entryWord": "Xep",
+  "definition": "Xepe (tamalito de masa con frijol verde entero), gallina negra criolla con manchitas blancas",
+  "additional_text": "sInv Inxep",
+  "examples": [
+    {
+      "example_maya": "Xkam li kaxlan xep rix",
+      "example_spa": "Se murió la gallina de color negro con manchitas blancas",
+      "dialect": null
+    }
+  ],
+  "uuid": "3a455a82-3369-48ae-a223-55cb0bb8f4a3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

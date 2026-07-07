@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼapowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqʼapowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar dura la comida, como tortilla fría; crecer bien una mata",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz VT Qʼap",
+  "examples": [
+    {
+      "example_maya": "Li lij pa taqʼaj we joron sibʼalaj kaqʼapowik",
+      "example_spa": "Las tortillas de la costa son muy duras si están frías",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd0767be-05f7-4790-81de-f5fbb5dafe28"
+}

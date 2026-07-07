@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzeyoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzeyoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover cosa colgada sobre el agua; flotar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Tzey",
+  "examples": [
+    {
+      "example_maya": "Katzeyoʼp li jukubʼ chwi li choh",
+      "example_spa": "La canoa flota sobre el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "d4c69a88-e688-4b0e-946d-8f6a0c27a24c"
+}

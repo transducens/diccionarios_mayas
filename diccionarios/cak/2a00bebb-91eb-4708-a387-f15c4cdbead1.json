@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzimay (tzumay)",
+  "definition": "Jícara",
+  "additional_text": "sInv Nutzimay Sinón Mulul kʼojlibʼäl, pajbʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri qawinaq ruyon nikiqum kiyaʼ pa tzimay",
+      "example_spa": "Nuestra gente toma agua en jícara",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzimay nokusäx richin nukʼyabʼäx yaʼ",
+      "example_spa": "La jícara se usa para beber agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "2a00bebb-91eb-4708-a387-f15c4cdbead1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xaʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vómito",
+  "definitionDialect": "",
+  "additional_text": "sinv Nuxaʼooj DomS Yabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li akʼal na kaqʼatiʼ ta li uxaʼoj",
+      "example_spa": "El niño no se alivia de los vómitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "6b1ffbfa-a5ba-4134-8f9c-4f44e4e4181b"
+}

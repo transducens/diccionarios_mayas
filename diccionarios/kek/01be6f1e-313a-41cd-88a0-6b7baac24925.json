@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sotlaak",
+  "definition": "Acostarse",
+  "additional_text": "vi Xinsotla",
+  "examples": [
+    {
+      "example_maya": "Xikwe chi sotlaak",
+      "example_spa": "Voy a ir a acostarme",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak xinsotla",
+      "example_spa": "Ya me acosté",
+      "dialect": null
+    }
+  ],
+  "uuid": "01be6f1e-313a-41cd-88a0-6b7baac24925",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

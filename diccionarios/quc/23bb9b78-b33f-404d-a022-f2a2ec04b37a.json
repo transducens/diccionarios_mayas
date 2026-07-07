@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rojnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karojnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer bulla con hojas, nailon, papeles, etc",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz VT Roj",
+  "examples": [
+    {
+      "example_maya": "Are taq koksax li nayʼl, karojnajik",
+      "example_spa": "Cuando se usa el nailon, hace ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "23bb9b78-b33f-404d-a022-f2a2ec04b37a"
+}

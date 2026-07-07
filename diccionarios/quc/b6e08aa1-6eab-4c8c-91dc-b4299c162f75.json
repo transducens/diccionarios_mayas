@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yutzʼuyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Triangular: terreno o mesa",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Yutzʼ",
+  "examples": [
+    {
+      "example_maya": "Li wankeʼt xa yutzʼuyik",
+      "example_spa": "La mesa es triangular",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6e08aa1-6eab-4c8c-91dc-b4299c162f75"
+}

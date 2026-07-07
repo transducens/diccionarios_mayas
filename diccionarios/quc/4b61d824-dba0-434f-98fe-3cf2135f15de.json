@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼabʼoj chiʼij",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼabʼ nuchiʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bostezar",
+  "definitionDialect": "",
+  "additional_text": "vts",
+  "examples": [
+    {
+      "example_maya": "We xkʼastaj jun winaq che waram, kumajij kʼabʼoj chiʼij",
+      "example_spa": "Cuando uno se despierta, empieza a bostezar",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b61d824-dba0-434f-98fe-3cf2135f15de"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "JIL",
+  "definition": "1 sumergida rápida 2 salida rápida",
+  "additional_text": "af raíz jil af",
+  "examples": [
+    {
+      "example_maya": "Jil sajka naq ẍjaʼw tuj tqʼuʼ",
+      "example_spa": "Se sumergió rápido el tacuatzín en su nido",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Jil xjatz xjal tjaqʼ ttxoʼw",
+      "example_spa": "\"Jil\", salió la persona de sus chamarras",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f58af393-c2b3-4b96-b722-1fdc92d4252a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

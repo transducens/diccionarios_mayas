@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jachʼabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nujachʼabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tapiscador (instrumento para abrir mazorcas)",
+  "definitionDialect": "",
+  "additional_text": "SCV",
+  "examples": [
+    {
+      "example_maya": "Kʼo jachʼabʼal xa cheʼ xuq kʼo bʼaq cheh",
+      "example_spa": "En mi casa hay tapiscadores de palo y de",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b70cef5-ddf8-40a1-bbfa-694cb915fe1e"
+}

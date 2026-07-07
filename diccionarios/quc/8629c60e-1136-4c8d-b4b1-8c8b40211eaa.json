@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼabʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼabʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con la boca abierta (despectivo)",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz p Kʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li kekʼabʼnaj pa taq bʼeh jer kepe chʼuʼj",
+      "example_spa": "Los que andan con la boca abierta parecen tontos",
+      "dialect": null
+    }
+  ],
+  "uuid": "8629c60e-1136-4c8d-b4b1-8c8b40211eaa"
+}

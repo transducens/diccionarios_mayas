@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼajalik",
+  "entryWordDialect": null,
+  "altEntryWord": "tʼajlik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Helado; cubierto de nieve o hielo",
+  "definitionDialect": "general",
+  "additional_text": "p Xtʼajiʼk, xutʼajabʼaʼ PC Raxtʼajalik Congelado; muy verdoso PC Saqtʼajlik Blanco con nieve Raíz P Tʼaj",
+  "examples": [
+    {
+      "example_maya": "Li tew sibʼalaj tʼajalik, are taq xsaqirik",
+      "example_spa": "Cuando amaneció ya había caído mucho hielo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nima jabʼ xutʼajbʼa kan li saqbʼach chwach uliw",
+      "example_spa": "El aguacero dejó granizo sobre el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3108f21c-d309-48e5-a3d6-91a8cce3a4fd"
+}

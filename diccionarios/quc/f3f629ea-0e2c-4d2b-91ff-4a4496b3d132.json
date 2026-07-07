@@ -1,0 +1,24 @@
+{
+  "entryWord": "Telebʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brazo (del codo al hombro)",
+  "definitionDialect": "Raiz PT. Tel. Dom.S. B'aqilaaj.",
+  "additional_text": "sInv Nutelebʼ Var Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Che li telebʼ kok wi li toqʼoj",
+      "example_spa": "En el brazo se ponen inyecciones",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li utelebʼ li achih sibʼalaj tiʼoj",
+      "example_spa": "El brazo del hombre es muy musculoso",
+      "dialect": null
+    }
+  ],
+  "uuid": "f3f629ea-0e2c-4d2b-91ff-4a4496b3d132"
+}

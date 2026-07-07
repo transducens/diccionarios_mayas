@@ -1,0 +1,24 @@
+{
+  "entryWord": "Naqaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cerca; cercano; corto (distancia)",
+  "definitionDialect": "",
+  "additional_text": "Adv Unaqajaal, (unaqajiil) xnaqajobʼik Ant Naj Raíz Adv Naqaaj",
+  "examples": [
+    {
+      "example_maya": "Naqaj uxoʼl li Xelajuʼ, rukʼ li chwimiqʼinaʼ",
+      "example_spa": "Quetzaltenango está cerca de Totonicapán",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ramibʼal bʼeh are naqaj chwach li nima bʼeh",
+      "example_spa": "La vereda es más corta que la carretera",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c9a70ec-8a3c-4b65-9846-e1d87d38ab1f"
+}

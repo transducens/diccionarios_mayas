@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kakatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakakatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jilotearla milpa",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Ronojel li wabʼix kakakat pa ochʼ",
+      "example_spa": "Toda la milpa está jiloteando",
+      "dialect": null
+    }
+  ],
+  "uuid": "787bb1a0-3671-4603-a09b-d9e76cea51df"
+}

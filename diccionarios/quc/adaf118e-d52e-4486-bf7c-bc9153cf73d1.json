@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinluʼuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar no muy profundo; rozar",
+  "definitionDialect": "Español",
+  "additional_text": "vtr",
+  "examples": [
+    {
+      "example_maya": "Li akʼ tajin kuluʼ li tikoʼn",
+      "example_spa": "La gallina está escarbando la siembra",
+      "dialect": null
+    }
+  ],
+  "uuid": "adaf118e-d52e-4486-bf7c-bc9153cf73d1"
+}

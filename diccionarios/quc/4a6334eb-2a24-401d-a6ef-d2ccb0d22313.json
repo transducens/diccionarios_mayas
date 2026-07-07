@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qaxalajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqaxalajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Chʼaqalajeem",
+  "altEntryWordDialect2": null,
+  "definition": "Caerse pedazo por pedazo (peña)",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Qax",
+  "examples": [
+    {
+      "example_maya": "Katajin kaqaxalaj la uchi taq li bʼeh rumal li jabʼ",
+      "example_spa": "Están cayendo derrumbes en la carretera por la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a6334eb-2a24-401d-a6ef-d2ccb0d22313"
+}

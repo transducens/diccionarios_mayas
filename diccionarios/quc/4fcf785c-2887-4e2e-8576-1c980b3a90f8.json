@@ -1,0 +1,19 @@
+{
+  "entryWord": "Junjayil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona independiente de sus padres",
+  "definitionDialect": "",
+  "additional_text": "SInv Nujunjayiil",
+  "examples": [
+    {
+      "example_maya": "Kinel pa junjayil chij ri ntat",
+      "example_spa": "Voy a ser independiente de mis padres",
+      "dialect": null
+    }
+  ],
+  "uuid": "4fcf785c-2887-4e2e-8576-1c980b3a90f8"
+}

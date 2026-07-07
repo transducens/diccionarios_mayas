@@ -1,0 +1,23 @@
+{
+  "entryWord": "Law",
+  "definition": "Llave, candado, chapa",
+  "additional_text": "sInv Nulaw (nulabʼ) Sinón Jaqbʼäl, rulawiʼil, ral lawiʼl, Ant Ruteʼ lawiʼil Chʼichʼ Llave",
+  "examples": [
+    {
+      "example_maya": "Ri nulaw xinqʼäj ri iwir",
+      "example_spa": "Ayer quebré mi llave",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri jun ixöq xutzäq ri rulaw kʼo chi xujöqʼ ri ruchi ruxan",
+      "example_spa": "Una mujer perdió su llave y tuvo que romper la puerta",
+      "dialect": null
+    }
+  ],
+  "uuid": "22f2fa87-354b-4056-8a40-ae52a6dbcac8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

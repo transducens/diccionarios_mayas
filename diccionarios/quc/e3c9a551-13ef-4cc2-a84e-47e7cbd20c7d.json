@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kokʼsaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkokʼsaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moler muy fino; afinar",
+  "definitionDialect": "",
+  "additional_text": "VTD",
+  "examples": [
+    {
+      "example_maya": "Li nan xukokʼsaj li qʼor",
+      "example_spa": "La señora molió muy fina la masa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3c9a551-13ef-4cc2-a84e-47e7cbd20c7d"
+}

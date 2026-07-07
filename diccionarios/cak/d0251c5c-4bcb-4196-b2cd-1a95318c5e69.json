@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼayil",
+  "definition": "Vendedor (siempre necesita del sustantivo que es la cosa que se vende)",
+  "additional_text": "sAgen",
+  "examples": [
+    {
+      "example_maya": "Ri kʼayil taq ixim xkijotobʼaʼ rajil ri ixim",
+      "example_spa": "Los vendedores de maíz le subieron el precio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼayil ik",
+      "example_spa": "Vendedor de chile",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0251c5c-4bcb-4196-b2cd-1a95318c5e69",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

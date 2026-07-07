@@ -1,0 +1,33 @@
+{
+  "entryWord": "ök (ok)",
+  "definition": "Entrar Partícula que complementa con algunos verbos, y que indica: adentro, humildad y cualidad",
+  "additional_text": "Dirc",
+  "examples": [
+    {
+      "example_maya": "Ri akʼwal xok ok pa rachoch",
+      "example_spa": "El niño entró a su casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jebʼël ok chʼaʼäl ri ixöq",
+      "example_spa": "Muy amable la mujer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kan jebʼël ok la xtän",
+      "example_spa": "Muy bonita la muchacha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jebʼël ok",
+      "example_spa": "Muy bonito",
+      "dialect": null
+    }
+  ],
+  "uuid": "c284e975-c6da-40f3-a210-8d922419444a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

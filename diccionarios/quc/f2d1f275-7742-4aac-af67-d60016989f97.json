@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mayay\"labʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamayay\"labʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer eco; comenzar a sentir enfermedad en el cuerpo",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VI May",
+  "examples": [
+    {
+      "example_maya": "Li achih kamayay\"labʼ yabʼil pubʼaqil",
+      "example_spa": "El hombre siente indicios de gripe en su cuerpo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2d1f275-7742-4aac-af67-d60016989f97"
+}

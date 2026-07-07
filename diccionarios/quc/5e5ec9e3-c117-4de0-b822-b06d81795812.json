@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hormiga",
+  "definitionDialect": "",
+  "additional_text": "SnP Raíz S Sanik DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kityoʼbʼal li sanik sibʼalaj kʼax",
+      "example_spa": "La picadura de las hormigas es dolorosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e5ec9e3-c117-4de0-b822-b06d81795812"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muruh",
+  "entryWordDialect": null,
+  "altEntryWord": "Numuruh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Machete",
+  "definitionDialect": "General",
+  "additional_text": "SCV Pbas //Muhruh// Sinón Siiw\"bʼal chʼiichʼ DomS Chʼiichʼ",
+  "examples": [
+    {
+      "example_maya": "Li muruh are laʼ kachokon che bʼanoj siʼ",
+      "example_spa": "Este machete es el que se usa para hacer leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "1220cfc1-58e0-4b70-89f7-8e706ee66034"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xichʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxichʼoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con carga de paja o de hojas",
+  "definitionDialect": "general",
+  "additional_text": "vI Raíz VT Xichʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Xeroʼm kaxichʼoʼp chuxe li uxaq taq qʼayes",
+      "example_spa": "Jerónimo camina bajo la carga agobiante de la paja",
+      "dialect": null
+    }
+  ],
+  "uuid": "8a06b4b1-284e-413d-9312-1eb528ee5070"
+}

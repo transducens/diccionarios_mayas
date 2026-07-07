@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxkʼibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sancochado: verduras; dura: verdura que no se cuece bien",
+  "definitionDialect": "",
+  "additional_text": "sc",
+  "examples": [
+    {
+      "example_maya": "Xa raxkʼibʼ li ichaj li xqatijoh, ma xa na chaqʼ taj",
+      "example_spa": "La verdura que comimos, estaba dura porque no se había cocido",
+      "dialect": null
+    }
+  ],
+  "uuid": "bf3a40d7-e433-4b56-a393-ed41e5d214ad"
+}

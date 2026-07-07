@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakʼmayixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner boca arriba; voltear cosa puesta boca abajo",
+  "definitionDialect": "General",
+  "additional_text": "VTD Kinpakʼmayiij Raíz VT Pakʼ",
+  "examples": [
+    {
+      "example_maya": "Kinpakʼmayij kan li palangan jupul kan puliw",
+      "example_spa": "Voy a voltear la palangana que está boca abajo en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1e6bdbec-c085-4911-be0d-c640fdfc8c5f"
+}

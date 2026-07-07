@@ -1,0 +1,23 @@
+{
+  "entryWord": "TXAAJAN",
+  "definition": "1 muy seco 2 sonoro: instrumento musical",
+  "additional_text": "adj ttxajanil, ma txajanix sin txijan raíz txaj",
+  "examples": [
+    {
+      "example_maya": "Txajan siʼ sul wuʼna tukʼ nmambʼila",
+      "example_spa": "La leña que le llevé a mi padrastro estaba muy seca",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kye tbʼinx ttxajanil twiʼ chnabʼ tuʼnj akʼaj taʼ",
+      "example_spa": "Se oye muy bien lo sonoro de la marimba, por ser nueva",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5d12e3c3-a2bf-4700-8159-6616a63b3b29",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzoy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Liviano, cosa de poco peso",
+  "definitionDialect": "",
+  "additional_text": "Adj Utzoyaal, xtzoyiʼk Raíz Adj Tzooy",
+  "examples": [
+    {
+      "example_maya": "Li siʼ pa taq saqʼij tzoy ma chaqiʼj",
+      "example_spa": "La leña en verano no es pesada porque está seca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li reqaʼn li achih sibʼalaj tzoy ma xa met",
+      "example_spa": "La carga del hombre no es pesada, porque es algodón",
+      "dialect": null
+    }
+  ],
+  "uuid": "f27687fd-e380-4aeb-9bf8-65a36bfe5b77"
+}

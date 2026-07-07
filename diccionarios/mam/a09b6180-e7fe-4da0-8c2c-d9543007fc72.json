@@ -1,0 +1,18 @@
+{
+  "entryWord": "TZANTTEEN",
+  "definition": "¿cómo?",
+  "additional_text": "pi raíz tzaʼn par",
+  "examples": [
+    {
+      "example_maya": "¿Tzaʼntten kokal tqʼuqal ja?",
+      "example_spa": "¿Cómo se va a hacer el cimiento de la casa?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a09b6180-e7fe-4da0-8c2c-d9543007fc72",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

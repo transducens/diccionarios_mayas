@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xepoh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Candela de sebo; sebo",
+  "definitionDialect": "",
+  "additional_text": "scv Nuxeepoo DomS Tiʼij DomS Kootzʼiʼj",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼij amaqʼel kuchokonisabʼej xepoh",
+      "example_spa": "El sacerdote maya siempre usa candelas de sebo",
+      "dialect": null
+    }
+  ],
+  "uuid": "34c12152-0293-44b9-83a2-11ed947287b3"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yaʼan",
+  "definition": "Echar materia o agua una úlcera o trementina un árbol al rasparlo",
+  "additional_text": "VI Niyaʼan",
+  "examples": [
+    {
+      "example_maya": "Niyaʼan ri qʼol chwäch ri xti chäj xinqöl chi machät",
+      "example_spa": "Está echando trementina el pinito que raspé con el machete",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan niyaʼan ri chʼaʼk chi rij nuqʼaʼ",
+      "example_spa": "Me supura la úlcera que tengo en la mano",
+      "dialect": null
+    }
+  ],
+  "uuid": "edd990b6-4f7a-44e4-9640-4096acf801c3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koyoʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coyote",
+  "definitionDialect": "",
+  "additional_text": "sNP Del Cast Coyote",
+  "examples": [
+    {
+      "example_maya": "Li koyoʼt xutij li akʼ",
+      "example_spa": "El coyote se comió a la gallina",
+      "dialect": null
+    }
+  ],
+  "uuid": "cd8a33ab-bf90-44ad-a43e-26d1d1aa8420"
+}

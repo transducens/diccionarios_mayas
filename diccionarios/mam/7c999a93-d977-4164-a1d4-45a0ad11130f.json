@@ -1,0 +1,18 @@
+{
+  "entryWord": "JAT",
+  "definition": "¿dónde está?",
+  "additional_text": "pi raíz ja par",
+  "examples": [
+    {
+      "example_maya": "¿Jat xjal waʼl tzluʼ makyʼ?",
+      "example_spa": "¿Dónde está la persona que estaba parada aquí desdihoy?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7c999a93-d977-4164-a1d4-45a0ad11130f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

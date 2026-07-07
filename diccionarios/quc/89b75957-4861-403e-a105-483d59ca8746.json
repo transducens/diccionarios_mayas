@@ -1,0 +1,34 @@
+{
+  "entryWord": "Wuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Título de propiedad o profesión; mapa; documento; membrana",
+  "definitionDialect": "",
+  "additional_text": "sInv Uwujiil",
+  "examples": [
+    {
+      "example_maya": "Ronojel tinamit kʼo uwujil ruliw",
+      "example_spa": "Todos los pueblos tienen título de su territorio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li waʼkatelabʼ xa pa li uwujil uliw kakil wi li kibʼeh",
+      "example_spa": "Los turistas se orientan con un mapa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jobʼ kʼaʼm wuliw xinloqʼoh, xinbʼan uwujil pa qʼatbʼaltziij",
+      "example_spa": "En la municipalidad hice un documento por las cinco cuerdas de terreno que compré",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li upam wakax kʼo uwujil rij chrij",
+      "example_spa": "La panza de res tiene una membrana que la cubre",
+      "dialect": null
+    }
+  ],
+  "uuid": "89b75957-4861-403e-a105-483d59ca8746"
+}

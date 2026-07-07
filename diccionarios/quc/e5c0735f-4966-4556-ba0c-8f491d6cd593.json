@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luknajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaluknajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Balancearse",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li alah, nim raqan rumal riʼ kaluknaj kabʼinik",
+      "example_spa": "El muchacho alto se balancea al caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5c0735f-4966-4556-ba0c-8f491d6cd593"
+}

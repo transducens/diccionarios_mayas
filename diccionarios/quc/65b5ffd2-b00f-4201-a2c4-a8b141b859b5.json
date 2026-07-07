@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzaʼm",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzaʼm",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nariz Esta palabra la usan los abuelos al dirigirse a sus nietos con cariño",
+  "definitionDialect": "",
+  "additional_text": "SInv Raiz S Tzaʼm",
+  "examples": [
+    {
+      "example_maya": "Li tzaʼm, kariqitaj chuxoʼl li bʼaqʼwachaj rukʼ li chiʼaj",
+      "example_spa": "La nariz se encuentra entre los ojos y la boca",
+      "dialect": null
+    }
+  ],
+  "uuid": "65b5ffd2-b00f-4201-a2c4-a8b141b859b5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Café en uva (el que se seca con todo y cáscara)",
+  "definitionDialect": "",
+  "additional_text": "scv Nukʼoox Raíz S Kʼox",
+  "examples": [
+    {
+      "example_maya": "Li kʼox xaq si rachiʼl li rij kakʼilix pa xot",
+      "example_spa": "El café seco con cáscara se tuesta en el comal",
+      "dialect": null
+    }
+  ],
+  "uuid": "79a2d7c4-c605-41f0-b7e1-2cb3ccecc566"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wuqʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawuqʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar agachado",
+  "definitionDialect": "General",
+  "additional_text": "vi Raiz P Wuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li nima winaq xaq kawuqʼnaj li kabʼinik",
+      "example_spa": "El anciano anda agachado al caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "94ff1049-ddb3-47cc-91a1-bb8cc1d263a7"
+}

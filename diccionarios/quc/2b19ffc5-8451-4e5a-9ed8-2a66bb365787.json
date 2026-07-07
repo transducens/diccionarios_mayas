@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rabʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karabʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa larga y mojada; caminar con otra clase de traje después de usar el típico; o moverse cosa que se lleva puesta y que cuelga; con ropa mojada",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz P Rabʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih karabʼnaj chupam li ratzʼyaq",
+      "example_spa": "El hombre camina con la ropa mojada",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b19ffc5-8451-4e5a-9ed8-2a66bb365787"
+}

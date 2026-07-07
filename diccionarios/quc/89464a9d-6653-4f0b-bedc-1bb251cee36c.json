@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roʼlajuj kʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "rolajuj kʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trescientos",
+  "definitionDialect": "",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li achih xuloqʼ roʼlajuj kʼal oj",
+      "example_spa": "El hombre compró trescientos aguacates",
+      "dialect": null
+    }
+  ],
+  "uuid": "89464a9d-6653-4f0b-bedc-1bb251cee36c"
+}

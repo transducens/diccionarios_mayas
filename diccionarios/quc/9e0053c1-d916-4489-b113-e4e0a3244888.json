@@ -1,0 +1,24 @@
+{
+  "entryWord": "Juqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una pulgada; un dedo (medida del ancho del dedo)",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz S Qʼabʼ DomS Eetanik",
+  "examples": [
+    {
+      "example_maya": "Li upimil li tzʼalam xa juqʼabʼ",
+      "example_spa": "El grueso de la tabla es de una pulgada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xa kaqʼabʼ li utʼisoʼm xubʼano xutanabʼaʼ",
+      "example_spa": "La muchacha sólo hizo dos pulgadas de su costura y la abandonó",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e0053c1-d916-4489-b113-e4e0a3244888"
+}

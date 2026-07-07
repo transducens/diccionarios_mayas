@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wakx",
+  "definition": "Ganado",
+  "additional_text": "sInv Nuwakx Awäj, chikop Vaca",
+  "examples": [
+    {
+      "example_maya": "Ri wakx yalan nutoʼ ri achin",
+      "example_spa": "El ganado ayuda mucho al hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun nuwakx xkʼojeʼ junabʼïr, yalän royowal",
+      "example_spa": "Hace un año tuve ganado muy bravo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e538934-cbcb-4a00-b012-768e6c7a8ac2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

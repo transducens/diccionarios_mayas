@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tate",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Señor",
+  "definitionDialect": "",
+  "additional_text": "SnP",
+  "examples": [
+    {
+      "example_maya": "La kʼo ri tate chwa jah",
+      "example_spa": "¿Está el señor en la casa?",
+      "dialect": null
+    }
+  ],
+  "uuid": "48fe5c34-6d83-4aa3-95ec-6a39777fb213"
+}

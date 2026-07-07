@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼatzʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una porción de comida envuelta en hojas",
+  "definitionDialect": "General",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li achajilom xukʼam bʼi jubʼatzʼaj ukinaqʼ",
+      "example_spa": "El esposo llevó una porción de frijol envuelta en hojas",
+      "dialect": null
+    }
+  ],
+  "uuid": "718193e0-70cf-4e6c-ab96-53bc983c57b4"
+}

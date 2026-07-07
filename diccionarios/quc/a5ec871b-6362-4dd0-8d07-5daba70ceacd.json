@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼaqʼinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Usar arma de fuego",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz S Qʼaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kaqʼaqʼinik",
+      "example_spa": "El hombre usa arma de fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5ec871b-6362-4dd0-8d07-5daba70ceacd"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Plin -- n",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonido de un machete al golpearlo con una piedra",
+  "definitionDialect": "",
+  "additional_text": "Al",
+  "examples": [
+    {
+      "example_maya": "Plin - xubʼan li umuru li achih are xutzoqopij chwa li abʼaj",
+      "example_spa": "Plin - n, hizo el machete del hombre cuando lo soltó contra una piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "56ad6118-4c48-4d04-9cda-84331d2ef023"
+}

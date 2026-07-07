@@ -1,0 +1,24 @@
+{
+  "entryWord": "Meskʼutajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Subʼutajem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cometer errores o faltas sin intención",
+  "definitionDialect": "",
+  "additional_text": "vi Kinmeskʼutajik Sinón Raíz VT Mes",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xmeskʼutajik, na xutzayij ta li rikil",
+      "example_spa": "La mujer cometió un error, no le echó sal a la comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xok pa cheʼ, xa na kʼu xmeskʼutaj laʼ",
+      "example_spa": "La mujer cometió una falta sin intención",
+      "dialect": null
+    }
+  ],
+  "uuid": "aa58f054-dba6-4343-bc7f-14f0e5d8aaa4"
+}

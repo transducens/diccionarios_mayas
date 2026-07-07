@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juroqaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un montón de lazos; un pedazo largo de carne",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz PT Roq",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xutij juroqaj tiʼij",
+      "example_spa": "El perro se comió un pedazo largo de carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "5acc958d-1369-4a98-9fdf-dea826474e25"
+}

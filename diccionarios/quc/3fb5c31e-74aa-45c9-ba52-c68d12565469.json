@@ -1,0 +1,19 @@
+{
+  "entryWord": "Moy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ciego",
+  "definitionDialect": "",
+  "additional_text": "Adj Umoyiil, xmoyirik Raíz Adj Mooy",
+  "examples": [
+    {
+      "example_maya": "Li riʼja achih xa moy, xa je riʼ kuta urajil chke li winaq",
+      "example_spa": "El anciano está ciego, por eso pide limosna a la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "3fb5c31e-74aa-45c9-ba52-c68d12565469"
+}

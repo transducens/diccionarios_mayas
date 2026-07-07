@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqwach",
+  "entryWordDialect": null,
+  "altEntryWord": "saqiwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Nusaqwaach",
+  "altEntryWordDialect2": null,
+  "definition": "Maíz blanco",
+  "definitionDialect": "General",
+  "additional_text": "sc Raíz S Ixiim",
+  "examples": [
+    {
+      "example_maya": "Li saqiwach are paqal rajil",
+      "example_spa": "El maíz blanco tiene buen precio",
+      "dialect": null
+    }
+  ],
+  "uuid": "9bbea574-0adb-45df-ae43-6d0fc312d605"
+}

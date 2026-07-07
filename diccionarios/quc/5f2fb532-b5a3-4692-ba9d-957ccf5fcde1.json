@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzabʼmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa vieja o zacate",
+  "definitionDialect": "",
+  "additional_text": "vi Katzabʼmaʼyik Raíz P Tzabʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Luʼx katzabʼmaʼy li qʼayes chrij",
+      "example_spa": "El zacate que lleva Alonzo se mueve",
+      "dialect": null
+    }
+  ],
+  "uuid": "5f2fb532-b5a3-4692-ba9d-957ccf5fcde1"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼajajexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despedazar en muchas partes",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinkʼajajeej Raiz VT Kʼaj",
+  "examples": [
+    {
+      "example_maya": "Li siwil xukʼajajej li rax siʼ chwach li qʼij are chi kachaqijik",
+      "example_spa": "El leñador hizo en varios pedazos la leña, para que se secara",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9946539-e582-47dd-8ccc-25a65a12dc5e"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pixkunil",
+  "definition": "Avaricia, miseria, tacañería, malicia",
+  "additional_text": "SInv Inpixkunil Es más fuerte que pixil",
+  "examples": [
+    {
+      "example_maya": "Li ixq aʼan xpixkunil naxbʼanu wiʼ",
+      "example_spa": "Esa mujer lo hace por avaricia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ xpixkunil laj Paawl",
+      "example_spa": "Pablo Tiene mucha tacañería",
+      "dialect": null
+    }
+  ],
+  "uuid": "59535340-a6ca-48c6-85ad-4bde38bb3d8c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

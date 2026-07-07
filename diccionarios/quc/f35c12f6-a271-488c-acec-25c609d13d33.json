@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rij aqanaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dorso del pie",
+  "definitionDialect": "",
+  "additional_text": "sds Rij waqan DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li achih xtakʼiʼ chij waqan",
+      "example_spa": "El hombre se paró sobre el dorso de mi pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "f35c12f6-a271-488c-acec-25c609d13d33"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juweq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una quebradura",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Weq",
+  "examples": [
+    {
+      "example_maya": "Li kej xaq juweq xuya kan che li xot, che raqan",
+      "example_spa": "El caballo le hizo una quebradura a la teja de una patada",
+      "dialect": null
+    }
+  ],
+  "uuid": "d6070030-acb4-4c3a-8284-a8aa5657a02d"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Raʼ jah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cimiento de casa",
+  "definitionDialect": "",
+  "additional_text": "sds Raíz S Aaʼ Raíz S Jaa",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil abʼaj xukoj cheh li raʼ jah",
+      "example_spa": "El albañil usó piedras para el cimiento de la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih abʼaj xukoj cheh li raʼ li roʼch",
+      "example_spa": "El hombre usó piedras para sostener los pilares de su casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Uwa raʼ jah",
+      "example_spa": "Palos que sostienen los pilares de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "8b51bbac-e3d9-448f-8a7a-e8734a1bf66d"
+}

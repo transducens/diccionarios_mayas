@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tes",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bledo hierba parecida al chichicaste (tierra caliente)",
+  "definitionDialect": "Dom.S. Ichaaj.",
+  "additional_text": "sInv Nutees",
+  "examples": [
+    {
+      "example_maya": "Waʼ we tes chanim kachaqʼajik",
+      "example_spa": "Este bledo se cuece luego",
+      "dialect": null
+    }
+  ],
+  "uuid": "23ce57a0-ff4b-4a4c-a277-9d4dc583d523"
+}

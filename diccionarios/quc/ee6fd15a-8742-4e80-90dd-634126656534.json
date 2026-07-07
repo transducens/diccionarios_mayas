@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuluʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mareo",
+  "definitionDialect": "",
+  "additional_text": "snP Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li a Tun, xpe kʼuluʼm cheh rumal li qʼaqʼ",
+      "example_spa": "Antonio se está mareando por el calor",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee6fd15a-8742-4e80-90dd-634126656534"
+}

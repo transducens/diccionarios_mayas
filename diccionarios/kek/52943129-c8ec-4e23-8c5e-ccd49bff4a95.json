@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tawok",
+  "definition": "Encontrar, hallar, alcanzar, lograr",
+  "additional_text": "VTR Xintaw Sinón Tzolok",
+  "examples": [
+    {
+      "example_maya": "Xintaw inkʼanjel saʼ tenamit",
+      "example_spa": "Encontré trabajo en el pueblo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tawok tumin saʼ bʼe",
+      "example_spa": "Encontrar dinero en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tawok ixq saʼ jalan chik tenamit",
+      "example_spa": "Encontrar mujer en otro pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "52943129-c8ec-4e23-8c5e-ccd49bff4a95",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

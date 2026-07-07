@@ -1,0 +1,18 @@
+{
+  "entryWord": "PAQ",
+  "definition": "rato Necesita número antes no se usa sola",
+  "additional_text": "md raíz paq md",
+  "examples": [
+    {
+      "example_maya": "Antz jun paq nmajana yolbʼil qʼany",
+      "example_spa": "Prestame un rato el micrófono vos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "fccc3b3a-b8a3-488e-81bc-1c952d7889ff",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

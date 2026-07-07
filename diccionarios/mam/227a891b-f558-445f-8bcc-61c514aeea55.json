@@ -1,0 +1,23 @@
+{
+  "entryWord": "TNAQ",
+  "definition": "aquel, aquella",
+  "additional_text": "pd",
+  "examples": [
+    {
+      "example_maya": "Tzul tnaq xuʼj qukʼal",
+      "example_spa": "Viene aquella mujer con nosotros",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Tqal jtnaq kina qʼany?",
+      "example_spa": "¿Qué es aquella cosa vos?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "227a891b-f558-445f-8bcc-61c514aeea55",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

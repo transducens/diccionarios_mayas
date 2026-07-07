@@ -1,0 +1,28 @@
+{
+  "entryWord": "Wi (we)",
+  "definition": "Si",
+  "additional_text": "Cond Si var We",
+  "examples": [
+    {
+      "example_maya": "Wi xkinanimaj ninlöqʼ ri akamxaʼ",
+      "example_spa": "Si me obedecés, te compraré la camisa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wi yasamäj nachʼäk ri away",
+      "example_spa": "Si trabajás, ganarás el pan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wi ma xtabʼän ta yatinchʼey",
+      "example_spa": "Si no lo hacés, te voy a pegar",
+      "dialect": null
+    }
+  ],
+  "uuid": "bc16b27c-151b-4267-9bc9-8a17a9fc92ea",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

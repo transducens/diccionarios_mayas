@@ -1,0 +1,19 @@
+{
+  "entryWord": "Potzʼotzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Upotzʼotzʼil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xpotzʼotzʼirik",
+  "altEntryWordDialect2": null,
+  "definition": "Reseco: herida o grano muy seco",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz VT Potzʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼaʼk kʼo chrij li akʼal xepotzʼotzʼirik",
+      "example_spa": "Se secaron todos los granos que el niño tenía en el cuerpo",
+      "dialect": null
+    }
+  ],
+  "uuid": "617d0151-cda9-4174-9d0d-b0b973e01efa"
+}

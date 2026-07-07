@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzeyeyexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kutzeyeyef",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flotar, llevar cosas con una mano",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz P Tzey",
+  "examples": [
+    {
+      "example_maya": "Li bʼinel jaʼ xutzeyeyej bʼi li achih",
+      "example_spa": "El río se llevó fácilmente al hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c11b9db-8c0e-4dd1-a7c6-b8cd46159e81"
+}

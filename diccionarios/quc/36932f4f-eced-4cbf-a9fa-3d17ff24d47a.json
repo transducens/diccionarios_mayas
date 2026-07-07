@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ripik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinripoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Extender (tela, poncho o cuero); crucificar",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz PT Rip",
+  "examples": [
+    {
+      "example_maya": "Li mortoʼm xuripibʼa kan li pop puliw",
+      "example_spa": "El mayordomo dejó extendido el petate en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "36932f4f-eced-4cbf-a9fa-3d17ff24d47a"
+}

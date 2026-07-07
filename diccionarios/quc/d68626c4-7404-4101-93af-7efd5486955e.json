@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼukem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzʼukik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gotear peña o nacimientos en forma vertical; llorarse peña (modismo)",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Pa taq qʼalaj kumajij tzʼukem li joron pa taq li bʼeh",
+      "example_spa": "En invierno se empieza a juntar agua en los caminos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d68626c4-7404-4101-93af-7efd5486955e"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Perenik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xperiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuperebʼa",
+  "altEntryWordDialect2": null,
+  "definition": "Tirado, libro abierto, pedazo de tortilla, comal o cosa ancha",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Per (pir)",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuperebʼa kan li uwuj li bʼeh",
+      "example_spa": "El niño dejó tirado el cuaderno en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "f86a2966-3e4f-419a-b7a3-89847cb4d1de"
+}

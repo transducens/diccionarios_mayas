@@ -1,0 +1,23 @@
+{
+  "entryWord": "Choy",
+  "definition": "Laguna, lago",
+  "additional_text": "sInv Nuchoy Var Nimalaxel choy Yaʼ",
+  "examples": [
+    {
+      "example_maya": "Wawe pa qarawachʼulew kʼo oxiʼ nimaʼq täq choy",
+      "example_spa": "Aquí en nuestra república hay tres lagos grandes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nimala xel choy, mar Ruchul choy",
+      "example_spa": "Desagüe de lago",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a7fb66f-f23b-4432-af48-a7faf8ca480f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

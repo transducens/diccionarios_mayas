@@ -1,0 +1,23 @@
+{
+  "entryWord": "Lebʼelik",
+  "definition": "Grande: estómago Aguado: lodo",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Ri winäq yalan e lebʼeläq kipan majun kan ta ütz yebʼiyin",
+      "example_spa": "Las personas que tienen el estómago grande, no muy pueden caminar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan lebʼelik xel ri nuchʼabʼaq",
+      "example_spa": "Muy aguado salió mi lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a84d07e4-cb9a-4a72-9b7c-efad0a05b44c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

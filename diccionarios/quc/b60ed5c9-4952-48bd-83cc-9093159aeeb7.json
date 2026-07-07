@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ixim",
+  "entryWordDialect": null,
+  "altEntryWord": "Wixim",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maíz",
+  "definitionDialect": "",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li ixim kajibʼ uwach, kʼo qʼan, saq, raxwach, chiʼl kaq",
+      "example_spa": "Hay cuatro clases de maíz: amarillo, blanco, negro y rojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b60ed5c9-4952-48bd-83cc-9093159aeeb7"
+}

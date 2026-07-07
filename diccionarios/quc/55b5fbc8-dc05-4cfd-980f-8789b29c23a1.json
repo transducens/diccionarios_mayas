@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nikodems",
+  "entryWordDialect": null,
+  "altEntryWord": "Nicodemus",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nicodemus",
+  "definitionDialect": "General",
+  "additional_text": "snP Del Cast Nicodemus DomS Eqeleʼn",
+  "examples": [
+    {
+      "example_maya": "Li nabʼe nikodems are kaqʼan chwi li krus pa bʼyerʼʼns sant",
+      "example_spa": "El primer Nicodemus es el que sube sobre la cruz el Viernes Santo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ukabʼ nikodems are teren chirij li nabʼe nikodems chutelexik li krus",
+      "example_spa": "El segundo Nicodemus es el que sigue al primer Nicodemus para cargar la cruz",
+      "dialect": null
+    }
+  ],
+  "uuid": "55b5fbc8-dc05-4cfd-980f-8789b29c23a1"
+}

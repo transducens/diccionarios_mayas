@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼichʼal",
+  "definition": "Toque de campana para los muertos \"doble o redoble de campana\"",
+  "additional_text": "ssp Ruchʼichʼal Chʼichʼ",
+  "examples": [
+    {
+      "example_maya": "Ri kaminaqiʼ nibʼan kichʼichʼal",
+      "example_spa": "Se hacen toques de campana para los muertos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Niqʼajan chik ruchʼichʼal ri kaminäq",
+      "example_spa": "Ya se oye el toque de campana del muerto",
+      "dialect": null
+    }
+  ],
+  "uuid": "305c6289-54c1-49e7-9697-a3a3c87e4abc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

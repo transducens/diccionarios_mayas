@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzer",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un jalón al romper",
+  "definitionDialect": "es",
+  "additional_text": "Enu Raiz VT Tzer",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼajy xaq jutzer xuya che li uq xukʼayij bʼik",
+      "example_spa": "El vendedor rompió el corte de un jalón y lo vendió",
+      "dialect": null
+    }
+  ],
+  "uuid": "cd3634e3-1704-44c1-a0e0-d779835ac6aa"
+}

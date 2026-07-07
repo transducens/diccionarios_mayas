@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakʼabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Instrumento para sacar cosas de un recipiente",
+  "definitionDialect": "",
+  "additional_text": "scv Nupakʼabʼaal DomS Paakʼ",
+  "examples": [
+    {
+      "example_maya": "Xkʼat li pakʼabʼal",
+      "example_spa": "Se quemó el cucharón",
+      "dialect": null
+    }
+  ],
+  "uuid": "cde3fa28-2c45-4287-98bb-17f4ba0386f9"
+}

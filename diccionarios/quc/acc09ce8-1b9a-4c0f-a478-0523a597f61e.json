@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jachnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajachnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar una persona con herida profunda",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VT Jach",
+  "examples": [
+    {
+      "example_maya": "Li xsokotaj wi li achih sibʼalaj kajachnajik",
+      "example_spa": "Al hombre se le abre la herida al caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "acc09ce8-1b9a-4c0f-a478-0523a597f61e"
+}

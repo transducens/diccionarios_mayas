@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼal kʼim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paja venenosa",
+  "definitionDialect": "General",
+  "additional_text": "SCL Raíz S Qʼaaqʼ Raíz S Kʼim",
+  "examples": [
+    {
+      "example_maya": "Li kej xkamik xa qʼaqʼal kʼim xutijoh",
+      "example_spa": "La bestia se murió por comer paja venenosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "7237df12-5078-4bfe-9c8c-bd962cd7210b"
+}

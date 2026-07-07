@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼanxoʼx",
+  "entryWordDialect": "uqʼanxoʼxiil",
+  "altEntryWord": "Uqʼanxoʼxal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xqʼanxoʼxirik",
+  "altEntryWordDialect2": null,
+  "definition": "Mantecosco; grasoso",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Qʼan",
+  "examples": [
+    {
+      "example_maya": "Li tiʼij sibʼalaj qʼanxoʼx",
+      "example_spa": "La carne está muy mantecosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li aq sibʼalaj kʼo kiqʼanxoʼxal",
+      "example_spa": "Los cerdos son muy mantecosos",
+      "dialect": null
+    }
+  ],
+  "uuid": "400b1eb4-e826-4c64-b0c3-2d4cdc90e67e"
+}

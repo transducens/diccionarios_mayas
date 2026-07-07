@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuquʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estirado: lazo o cuerda vieja",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz P Yuq",
+  "examples": [
+    {
+      "example_maya": "Li sin kolobʼ sibʼalaj sin yuquʼq chik ma xa qʼeʼl",
+      "example_spa": "El lazo está demasiado estirado porque está muy usado",
+      "dialect": null
+    }
+  ],
+  "uuid": "31fca47d-5b37-460d-a45d-fdcd9079b168"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waqibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Seis",
+  "definitionDialect": "",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li alaj alah iwir xtzʼaqat waqibʼ ujunabʼ",
+      "example_spa": "El muchachito cumplió seis años ayer",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b931916-274a-4859-9543-ca0d442a5e54"
+}

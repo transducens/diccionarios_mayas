@@ -1,0 +1,23 @@
+{
+  "entryWord": "Räx",
+  "definition": "Crudo, tierno",
+  "additional_text": "Adj Ruraxal",
+  "examples": [
+    {
+      "example_maya": "Taq kʼa räx ri qʼutuʼn, majun kiʼ ta",
+      "example_spa": "Cuando la comida todavía está cruda, no es sabrosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun akʼwal xa tal yerutïj räx taq traʼs",
+      "example_spa": "Un niño se come los duraznos tiernos sin pena",
+      "dialect": null
+    }
+  ],
+  "uuid": "52a3f543-4748-42c8-94f6-5461c894a7d6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

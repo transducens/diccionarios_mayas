@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼojkʼöt",
+  "definition": "Tocar la puerta",
+  "additional_text": "vi Yikʼojkʼöt Qʼajanil",
+  "examples": [
+    {
+      "example_maya": "Jebʼël, yikʼojkʼöt chuchi ruxan ri awanaʼ, taq xtzaq ri achin",
+      "example_spa": "Yo estaba tocando la puerta de tu hermana, cuando se cayó el hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq jun nukʼojkʼaʼ ruchiʼ jun jay, ri rajaw nujäq chaʼnin",
+      "example_spa": "Cuando uno toca una puerta, el dueño rápido la abre",
+      "dialect": null
+    }
+  ],
+  "uuid": "f59f021d-3c9f-40cf-b031-88cd6cb818df",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

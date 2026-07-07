@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kayexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morder; prensar entre los dientes",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinkaayeej Raiz P Kay",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ kayexik kubʼan chkech li winaq",
+      "example_spa": "El perro va a morder a la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c10614b-46ae-471a-9b76-75aea98fdb8a"
+}

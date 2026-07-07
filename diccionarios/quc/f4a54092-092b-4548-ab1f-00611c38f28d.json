@@ -1,0 +1,24 @@
+{
+  "entryWord": "Palaj",
+  "entryWordDialect": null,
+  "altEntryWord": "palaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cara",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupalaj Palaj DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li palajaj che li jolomaj kʼo wih",
+      "example_spa": "La cara está en la cabeza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun alih si utz li upalaj",
+      "example_spa": "La muchacha tiene cara bonita",
+      "dialect": null
+    }
+  ],
+  "uuid": "f4a54092-092b-4548-ab1f-00611c38f28d"
+}

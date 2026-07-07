@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jotay",
+  "definition": "Retoño de plantas, descendencia de hijos y nietos de una persona",
+  "additional_text": "sInv Nujotay Rujotayil Retoño de la planta Watal, cheʼ, qʼayis",
+  "examples": [
+    {
+      "example_maya": "Ronojel ri cheʼ xchoy, xepe kijotay",
+      "example_spa": "A todos los árboles que fueron cortados les salieron retoños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo cheʼ majun kijotay ta",
+      "example_spa": "Hay árboles que no tienen retoños",
+      "dialect": null
+    }
+  ],
+  "uuid": "5be7edb3-709c-4ca1-8ca3-2fa91cd3d0fe",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼirtʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentir picazón en la lengua al comer chile, cosas ácidas o verdes como banano",
+  "definitionDialect": "",
+  "additional_text": "vl Katʼirtʼotik Raiz PT Tʼir",
+  "examples": [
+    {
+      "example_maya": "Are taq katijtaj li ik qumal, kumaj tʼirtʼotem li qaqʼ",
+      "example_spa": "Después de comer chile, sentimos picazón en nuestra lengua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katʼirtʼot waqʼ rumal li awasyos",
+      "example_spa": "Me pica la lengua por el agua gaseosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c4d6d404-7175-4d2e-84b4-3aeaf562385d"
+}

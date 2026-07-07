@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼatok ibʼ",
+  "definition": "Quemarse, acusarse, implicar",
+  "additional_text": "VR Xinkʼat wibʼ",
+  "examples": [
+    {
+      "example_maya": "Yal injunes xinkʼat wibʼ",
+      "example_spa": "Yo mismo me acusé",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkʼat wibʼ chi kape",
+      "example_spa": "Me quemé con el café",
+      "dialect": null
+    }
+  ],
+  "uuid": "c09677f0-6b61-4b2d-ab78-c2dc2d96eaa1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

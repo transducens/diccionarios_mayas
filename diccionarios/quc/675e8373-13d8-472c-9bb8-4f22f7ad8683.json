@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qirnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rasparse un objeto sobre otro; hacer ruido como la piedra de moler; frotar",
+  "definitionDialect": "General",
+  "additional_text": "vı Kaqirnajik Raiz VT Qir",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ keʼbʼal tzih sibʼalaj kaqirnajik",
+      "example_spa": "El molino de nixtamal hace mucho ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "675e8373-13d8-472c-9bb8-4f22f7ad8683"
+}

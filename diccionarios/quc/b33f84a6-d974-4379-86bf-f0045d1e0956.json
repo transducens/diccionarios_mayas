@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sok",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusok",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Esquila",
+  "definitionDialect": "",
+  "additional_text": "sInv Fbas //Sohk// Raíz S Sok",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kabʼan nusok",
+      "example_spa": "Mañana van a esquilar mis ovejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "b33f84a6-d974-4379-86bf-f0045d1e0956"
+}

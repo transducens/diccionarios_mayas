@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼannajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar un gordito o un descalzo",
+  "definitionDialect": "",
+  "additional_text": "vi Katʼannajik Raiz PT Tʼan",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq katʼannajik bʼenaq pa li bʼeh",
+      "example_spa": "El hombre va caminando descalzo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xaq katʼannajik",
+      "example_spa": "El niño anda descalzo",
+      "dialect": null
+    }
+  ],
+  "uuid": "84bb1538-ffef-48bd-a008-0da5aff1c099"
+}

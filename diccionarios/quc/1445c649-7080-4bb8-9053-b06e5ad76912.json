@@ -1,0 +1,24 @@
+{
+  "entryWord": "Choqʼochoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchoqʼochaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puyar varias veces",
+  "definitionDialect": "General",
+  "additional_text": "vtr vi Choqʼochobʼeem Ruido al puyar o meter una cosa con punta en algo suave vi Choqʼolajeem Doler por ratos una espina metida en el cuerpo o calambre Raíz VT Choqʼ",
+  "examples": [
+    {
+      "example_maya": "Kinchoqʼocha li jun qʼoqʼ chech jun cheʼ",
+      "example_spa": "Puyo varias veces el chilacayote con un palo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xchoqʼochobʼ jun cheʼ pa nuwach rumal li achih",
+      "example_spa": "El hombre me puyó el ojo con un palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1445c649-7080-4bb8-9053-b06e5ad76912"
+}

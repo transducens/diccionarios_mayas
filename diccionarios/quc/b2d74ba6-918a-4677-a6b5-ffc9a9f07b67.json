@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaqleʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flaco",
+  "definitionDialect": "es",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li achih xa sin bʼaqleʼx chik ma xa xyawajik",
+      "example_spa": "El hombre está muy flaco porque se enfermó",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2d74ba6-918a-4677-a6b5-ffc9a9f07b67"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼutzubʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonados: trapos, hilo, hierbas y otras cosas suaves",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz P Bʼutz",
+  "examples": [
+    {
+      "example_maya": "Li qʼayes xmulixik, jun nima bʼutzubʼik xubʼanoh",
+      "example_spa": "Las hierbas que cortaron las dejaron amontonadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "7674e54d-bb65-4fa4-96f1-4da8a7f4a03a"
+}

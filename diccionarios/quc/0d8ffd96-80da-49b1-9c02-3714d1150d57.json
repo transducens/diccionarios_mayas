@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼinabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tabla donde se arregla la trama del tejido; urdidora",
+  "definitionDialect": "",
+  "additional_text": "scv Nuqʼinabʼaal DomS Keem DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li qʼinabʼal kʼa kʼakʼ",
+      "example_spa": "El urdidor es nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d8ffd96-80da-49b1-9c02-3714d1150d57"
+}

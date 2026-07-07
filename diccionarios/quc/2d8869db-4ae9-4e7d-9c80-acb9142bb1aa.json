@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xakʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Juxakʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alto y delgado",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Raíz VT Xakʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah sibʼalaj xakʼaxik",
+      "example_spa": "El muchacho es muy alto y algo delgado",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d8869db-4ae9-4e7d-9c80-acb9142bb1aa"
+}

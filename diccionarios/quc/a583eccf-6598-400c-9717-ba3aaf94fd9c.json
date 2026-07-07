@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼebʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar una cosa gruesa",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintʼebʼiij Raíz PT Tʼebʼ",
+  "examples": [
+    {
+      "example_maya": "Kintʼebʼij li tzʼalam chwach uliw ma sibʼalaj al",
+      "example_spa": "Tiro la tabla gruesa al suelo porque es muy pesada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintʼebʼij qaj li choma achih puliw",
+      "example_spa": "Voy a tirar al suelo al hombre gordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a583eccf-6598-400c-9717-ba3aaf94fd9c"
+}

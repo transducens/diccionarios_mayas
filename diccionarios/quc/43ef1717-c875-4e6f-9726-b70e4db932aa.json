@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tol (objeto aguacalado que sirve para mantener las tortillas calientes)",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutool Raíz S Tol DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Pa li tol kakʼol wi li lij arech na kajorobʼ taj",
+      "example_spa": "En el tol se guardan las tortillas para que no se enfríen",
+      "dialect": null
+    }
+  ],
+  "uuid": "43ef1717-c875-4e6f-9726-b70e4db932aa"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pum",
+  "entryWordDialect": null,
+  "altEntryWord": "Ipum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paloma de monte; verdolaga; barba de San Nicolás",
+  "definitionDialect": "",
+  "additional_text": "SInv Nupuum Var Ipuum DomS Tzʼikin DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li pum chaʼj li kij",
+      "example_spa": "Esta paloma es de color gris",
+      "dialect": "Dom.S."
+    },
+    {
+      "example_maya": "Li ichaj ubʼiʼ pum xa chwach taq uliw karipiʼ wih",
+      "example_spa": "La verdura que se llama barba de San Nicolás, sólo se extiende sobre la tierra",
+      "dialect": "Dom.S."
+    }
+  ],
+  "uuid": "ad4d0f6a-7a20-4696-8881-b08e47df3722"
+}

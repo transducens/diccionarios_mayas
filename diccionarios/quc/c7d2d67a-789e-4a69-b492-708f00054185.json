@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqbʼixlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqbʼixbʼoj, xkaqbʼixiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Robusto (Fuerte del cuerpo); ruborizado",
+  "definitionDialect": "General",
+  "additional_text": "pc Raíz VT Bʼix",
+  "examples": [
+    {
+      "example_maya": "Li alah sibʼalaj kaqbʼixbʼoj",
+      "example_spa": "El muchacho está muy robusto",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7d2d67a-789e-4a69-b492-708f00054185"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼosik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼosoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar a cosa sólida con palo; batir",
+  "definitionDialect": "",
+  "additional_text": "vtr Var Chʼaayik var Juubʼik Var Bʼuukʼik Raiz VT Qʼos",
+  "examples": [
+    {
+      "example_maya": "Li ajtij xuqʼos li akʼal cheh jun cheʼ, ma xa ketzʼanik",
+      "example_spa": "El maestro le pegó al niño con un palo, porque estaba jugando",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9716c90-2c4e-4c87-a299-aa11080b0a45"
+}

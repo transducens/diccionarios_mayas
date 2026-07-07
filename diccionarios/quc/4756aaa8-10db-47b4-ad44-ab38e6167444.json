@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sutin",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusutin",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "ustin",
+  "altEntryWordDialect2": null,
+  "definition": "Giro (movimiento como remolino); vuelta como remolino",
+  "definitionDialect": "",
+  "additional_text": "sv Raíz S Sut",
+  "examples": [
+    {
+      "example_maya": "Li akʼal tajin kubʼan ustin",
+      "example_spa": "El niño esta dando vueltas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4756aaa8-10db-47b4-ad44-ab38e6167444"
+}

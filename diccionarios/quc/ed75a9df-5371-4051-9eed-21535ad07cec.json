@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paxlaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Siempreviva",
+  "definitionDialect": "",
+  "additional_text": "scv Nupaxlaaq DomS Wiqobʼal DomS Kunabʼal",
+  "examples": [
+    {
+      "example_maya": "Li paxlaq kachokon che wiqobʼal kukʼ taq ajsant",
+      "example_spa": "La siempreviva se usa para adorno en las cofradías",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li paxlaq utz chech xaʼoj xuq chʼaʼk",
+      "example_spa": "La siempreviva es buena para vómito y granos",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed75a9df-5371-4051-9eed-21535ad07cec"
+}

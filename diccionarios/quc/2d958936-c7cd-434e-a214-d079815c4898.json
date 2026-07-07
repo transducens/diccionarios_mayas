@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzujuʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzujuʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ofrecimiento",
+  "definitionDialect": "General",
+  "additional_text": "SInv lee Raíz PT Tzuj",
+  "examples": [
+    {
+      "example_maya": "Li utzujuʼn achih sibʼalaj utz",
+      "example_spa": "El ofrecimiento del hombre es muy bueno",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d958936-c7cd-434e-a214-d079815c4898"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Ix",
+  "definition": "Ustedes Pronombre dependiente, en esta forma se usa con los verbos",
+  "additional_text": "Pro",
+  "examples": [
+    {
+      "example_maya": "Yixwaʼ chïk,",
+      "example_spa": "ya están comiendo",
+      "dialect": null
+    },
+    {
+      "example_maya": "La xixok ok pa jay?",
+      "example_spa": "Entraron en la casa?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yixkitzuʼ pe rijeʼ",
+      "example_spa": "Ellos los están mirando a ustedes",
+      "dialect": null
+    }
+  ],
+  "uuid": "60b86e4f-248b-41cd-ae5b-f2a20671bd0a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

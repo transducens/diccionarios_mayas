@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pokʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xpokʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xupokʼobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Tirado, como zapato viejo, sapo muerto y seco, cosa tiesa y encogida; desocupado como un haragán; estar bestia en lugar sin pasto",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Pokʼ",
+  "examples": [
+    {
+      "example_maya": "Li jun qʼeʼl xajabʼ pokʼol kan pa li bʼe",
+      "example_spa": "El zapato viejo está tirado en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq pokʼol chwa jah",
+      "example_spa": "Está haraganeando en la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "33786ca5-1114-4469-a37c-d0409c89f5ab"
+}

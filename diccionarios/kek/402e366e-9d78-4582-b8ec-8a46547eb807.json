@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yaalal",
+  "definition": "Verdad, paciencia, buen carácter o modo",
+  "additional_text": "SInv Inyaalal, xyaalal",
+  "examples": [
+    {
+      "example_maya": "Taaye li xyaalal",
+      "example_spa": "Vas a decir la verdad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Laaʼat inkʼaʼ nakanaw inyaalal",
+      "example_spa": "Vos no sabés mi modo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ xyaalal taalabʼaanu",
+      "example_spa": "Vas a hacerlo con paciencia",
+      "dialect": null
+    }
+  ],
+  "uuid": "402e366e-9d78-4582-b8ec-8a46547eb807",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

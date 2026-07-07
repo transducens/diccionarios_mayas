@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paqalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alto; caro; en alto",
+  "definitionDialect": "General",
+  "additional_text": "p Xpaqiʼk, xupaqabʼaʼ Ant Xulanik Raíz P Paq",
+  "examples": [
+    {
+      "example_maya": "Li xkanul ajpuh naj paqalik",
+      "example_spa": "El volcán de agua es muy alto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xupaqabʼa li rixoqil pa li altamow\"",
+      "example_spa": "El hombre subió a su esposa al carro",
+      "dialect": null
+    }
+  ],
+  "uuid": "abf7351f-c3c8-49e6-ae57-d8bd77c3146c"
+}

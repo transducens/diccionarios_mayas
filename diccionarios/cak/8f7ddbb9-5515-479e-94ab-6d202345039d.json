@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ja laʼ",
+  "definition": "Eso, ese, esa Por eso Demostrativo",
+  "additional_text": "Dem var La laʼ",
+  "examples": [
+    {
+      "example_maya": "Ja laʼ la koʼöl ninwajoʼ",
+      "example_spa": "Eso, el pequeño quiero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja laʼ ninbʼij chawe chi ma yayokeʼ kan",
+      "example_spa": "Por eso le dije que no se tardara mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f7ddbb9-5515-479e-94ab-6d202345039d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

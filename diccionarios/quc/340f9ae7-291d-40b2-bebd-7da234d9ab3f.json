@@ -1,0 +1,19 @@
+{
+  "entryWord": "Petsaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpetsaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer venir a alguien personalmente",
+  "definitionDialect": "General",
+  "additional_text": "vT Fbas Peh (peht)",
+  "examples": [
+    {
+      "example_maya": "Li sutzʼ kupetsaj li jabʼ",
+      "example_spa": "Las nubes hacen venir la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "340f9ae7-291d-40b2-bebd-7da234d9ab3f"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jusus",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juego que consiste en lanzar al aire una caña de milpa seca",
+  "definitionDialect": "",
+  "additional_text": "sInv Nujusus",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xubʼan ujusus chech le patzʼan",
+      "example_spa": "El niño hizo un juguete de la caña",
+      "dialect": null
+    }
+  ],
+  "uuid": "4217b295-e065-4cfe-8281-9f7d98257847"
+}

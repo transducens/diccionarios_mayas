@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼebʼuʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Palo que se tira para bajar frutas",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nuqʼeebʼuʼt Raíz S Qʼeebʼ",
+  "examples": [
+    {
+      "example_maya": "Li alabʼom tajin kakipich alanxax, qʼebʼuʼt kakikoj cheh",
+      "example_spa": "Los muchachos están usando palos para cortar naranjas",
+      "dialect": null
+    }
+  ],
+  "uuid": "56912d84-c948-42ad-8c36-31cbae2d5181"
+}

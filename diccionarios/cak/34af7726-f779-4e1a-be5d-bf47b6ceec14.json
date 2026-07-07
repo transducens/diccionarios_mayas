@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jay",
+  "definition": "Casa, hogar, habitación, morada",
+  "additional_text": "sspl Wachoch, wochọch, wacho Kaʼai, moʼk, Jay",
+  "examples": [
+    {
+      "example_maya": "Chaqʼaʼ konojel ri winäq e kʼo pa taq kachoch",
+      "example_spa": "Por la noche toda la gente se encuentra en su casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin kʼo oxiʼ wachoch chi laʼ pa juyuʼ",
+      "example_spa": "Yo tengo tres casas allá en la aldea",
+      "dialect": null
+    }
+  ],
+  "uuid": "34af7726-f779-4e1a-be5d-bf47b6ceec14",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

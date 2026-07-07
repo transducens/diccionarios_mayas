@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yobʼoyobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hundirse poco a poco la tierra; aplastarse poco a poco trastos de metal o plástico; apacharse; derretirse",
+  "definitionDialect": "Español",
+  "additional_text": "vı Kayobʼoyobʼik Raíz P Yobʼ",
+  "examples": [
+    {
+      "example_maya": "Xyobʼoyobʼ bʼi li uliw pa waqan",
+      "example_spa": "Cuando me paré encima de la tierra se hundió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xyobʼoyobʼ li bʼot pa waqan are taq xintakʼiʼ chirij",
+      "example_spa": "Se apachó una parte del bote cuando me paré en él",
+      "dialect": null
+    }
+  ],
+  "uuid": "6fa9e9db-8c1c-403a-b6e1-ad56553b6beb"
+}

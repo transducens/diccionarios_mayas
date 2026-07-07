@@ -1,0 +1,28 @@
+{
+  "entryWord": "Joʼ",
+  "definition": "Como, semejante a, parece",
+  "additional_text": "PartAdv",
+  "examples": [
+    {
+      "example_maya": "Joʼ li winq aʼin",
+      "example_spa": "Como este hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼ naaye",
+      "example_spa": "Se dice, se oye, así se dice",
+      "dialect": null
+    },
+    {
+      "example_maya": "Laj Luʼ yo chi xyiibʼankil jun rochoch joʼ xnimal re laj Xiwan",
+      "example_spa": "Pedro está construyendo una casa como la de Juan",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0a1f7d1-8ba1-4c20-b12a-209427656855",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jusuwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir como agua de la nariz cuando uno tiene catarro; gemir",
+  "definitionDialect": "",
+  "additional_text": "vi Kajusuwik Raíz VT Jus",
+  "examples": [
+    {
+      "example_maya": "Xaq kajusuw utzaʼm li akʼal ma kʼax ujolom",
+      "example_spa": "Al niño le sale agua de la nariz, porque tiene catarro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xaq kajusuwik ma xa xyajik",
+      "example_spa": "La muchacha empezó a gemir por el dolor",
+      "dialect": null
+    }
+  ],
+  "uuid": "e74a0d38-1092-4940-a0b4-0753e0985f51"
+}

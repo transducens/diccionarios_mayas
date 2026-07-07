@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qawuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqawuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer fruta verde",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Qaw",
+  "examples": [
+    {
+      "example_maya": "Li aq qawuxik kubʼan cheh li aj",
+      "example_spa": "El coche se está comiendo los elotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb8a4457-3138-4646-b41d-28bf02835e7c"
+}

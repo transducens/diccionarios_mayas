@@ -1,0 +1,29 @@
+{
+  "entryWord": "Xkoyopaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "xkoyopaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Relámpago",
+  "definitionDialect": "Dom.S. Q'aaq'.",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li xkoyopaʼ retal chi kʼo jabʼ kubʼan chi pa jun chi tinamit",
+      "example_spa": "El relámpago es la señal de que está lloviendo en otra parte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xkoyopaʼ katzukʼlin chaqʼabʼ",
+      "example_spa": "El relámpago brilla por las noches",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xkoyopaʼ pa taq qʼalaj kubʼanoh",
+      "example_spa": "En invierno hay muchos relámpagos",
+      "dialect": null
+    }
+  ],
+  "uuid": "efbca5f5-8deb-4cda-95dd-f6f3b693e3ec"
+}

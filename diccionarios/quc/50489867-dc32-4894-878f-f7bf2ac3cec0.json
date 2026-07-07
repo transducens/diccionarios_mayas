@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼunnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼunnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar marimba sin afinamiento de la música",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz VT Kʼun",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq kakʼunnaj li qʼojom rumal",
+      "example_spa": "El niño toca la marimba desafinadamente",
+      "dialect": null
+    }
+  ],
+  "uuid": "50489867-dc32-4894-878f-f7bf2ac3cec0"
+}

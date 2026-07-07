@@ -1,0 +1,23 @@
+{
+  "entryWord": "Samajbʼäl",
+  "definition": "Instrumento para trabajar",
+  "additional_text": "scv Nusamajbʼal Samajbʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri e nusamajbʼal richin choyoj cheʼ jebʼël key",
+      "example_spa": "Mis instrumentos para cortar palos tienen buen filo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Samajibʼäl qʼij",
+      "example_spa": "Días hábiles",
+      "dialect": null
+    }
+  ],
+  "uuid": "04997f57-7671-410d-8dd0-3d4ed80c2d4f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

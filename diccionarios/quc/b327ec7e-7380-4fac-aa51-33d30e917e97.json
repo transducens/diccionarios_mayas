@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roqolajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caer varias veces un bolo",
+  "definitionDialect": "",
+  "additional_text": "vt Karoqolajik Raíz PT Roq",
+  "examples": [
+    {
+      "example_maya": "Li qʼabʼarel xaq karoqolajik",
+      "example_spa": "El bolo se está cayendo a cada rato",
+      "dialect": null
+    }
+  ],
+  "uuid": "b327ec7e-7380-4fac-aa51-33d30e917e97"
+}

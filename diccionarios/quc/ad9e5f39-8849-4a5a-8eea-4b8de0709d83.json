@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kiʼkotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Contento, estar contento; alegrarse Contento",
+  "definitionDialect": "",
+  "additional_text": "vl Kinkiʼkotik ssp Kiʼkotemaal Raiz Adj Kiʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xkiʼkotik are taq xuriq li urajil",
+      "example_spa": "El hombre está contento, porque encontró su dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih sibʼalaj kakiʼkotik ma kʼo nimaqʼij",
+      "example_spa": "El hombre está muy alegre porque hay fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj xkiʼkot li achih, ma xbʼan uqʼij",
+      "example_spa": "El hombre estuvo bien contento porque celebraron su cumpleaños",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad9e5f39-8849-4a5a-8eea-4b8de0709d83"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Neʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nene",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nuneeʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kuya utzʼum li neʼ",
+      "example_spa": "La mujer le da leche a su nene",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ne kʼa te oxibʼ rikʼil",
+      "example_spa": "El nene tiene tres meses",
+      "dialect": null
+    }
+  ],
+  "uuid": "137e9048-2708-43d0-a3b3-40f94775ff83"
+}

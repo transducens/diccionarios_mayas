@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼililexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tostar mucho, o una cantidad grande",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTD Kinkʼilileej Raiz VT Kʼil",
+  "examples": [
+    {
+      "example_maya": "Kinkʼililej na sibʼalaj kaxlaʼn pa li xot",
+      "example_spa": "Voy a tostar muchas habas en el comal",
+      "dialect": null
+    }
+  ],
+  "uuid": "8b3410ad-763a-4288-9de9-ba1471b04fa4"
+}

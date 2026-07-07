@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼuluh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encontrarse personas o animales; cruzarse los caminos o personas",
+  "definitionDialect": "General",
+  "additional_text": "vT Raíz VT Kʼul",
+  "examples": [
+    {
+      "example_maya": "¿Jawiʼ kukʼul wi ribʼ li bʼeh?",
+      "example_spa": "¿Dónde se cruzan los caminos?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xbʼe pa kʼulunik che li rachajil",
+      "example_spa": "La mujer fue a encontrar a su esposo",
+      "dialect": null
+    }
+  ],
+  "uuid": "24776861-4d83-499d-a8ef-1af1bc39ed07"
+}

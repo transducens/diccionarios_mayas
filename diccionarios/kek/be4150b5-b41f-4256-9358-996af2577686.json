@@ -1,0 +1,23 @@
+{
+  "entryWord": "May",
+  "definition": "Vendedor de cigarros",
+  "additional_text": "Aj kʼay may Sinón Sikʼl Sinón Bʼeneen",
+  "examples": [
+    {
+      "example_maya": "Saʼ yiibʼlebʼaal may",
+      "example_spa": "En la tabacalera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yo xmay insaʼ",
+      "example_spa": "Tengo dolor de estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "be4150b5-b41f-4256-9358-996af2577686",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

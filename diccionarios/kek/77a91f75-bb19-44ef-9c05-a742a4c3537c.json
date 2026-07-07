@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pix",
+  "definition": "Tomate, mezquino",
+  "additional_text": "sInv Inpix Pix akʼach Tomate de chompipe, lóbulo de chompipe",
+  "examples": [
+    {
+      "example_maya": "Xinloqʼ jun liiwr li pix, re li aros saʼ manteek",
+      "example_spa": "Compré una libra de tomate para preparar el arroz con manteca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xqʼa inpix saʼ li haʼ",
+      "example_spa": "El tomate se pudrió en el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "77a91f75-bb19-44ef-9c05-a742a4c3537c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

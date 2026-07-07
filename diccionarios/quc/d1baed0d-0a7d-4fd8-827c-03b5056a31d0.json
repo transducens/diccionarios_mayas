@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkoloh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salvar; defender; guardar; dejar restos",
+  "definitionDialect": "",
+  "additional_text": "VTR",
+  "examples": [
+    {
+      "example_maya": "Rajawaxik kakol li a Luʼ tajin uchʼayik",
+      "example_spa": "Hay que defender a Pedro porque le están pegando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xkol puqʼabʼ li ukʼulil",
+      "example_spa": "El hombre fue salvado de las manos de su",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1baed0d-0a7d-4fd8-827c-03b5056a31d0"
+}

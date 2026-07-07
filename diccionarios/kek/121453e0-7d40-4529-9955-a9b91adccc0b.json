@@ -1,0 +1,23 @@
+{
+  "entryWord": "Saaraqʼ",
+  "definition": "Plática, cuento",
+  "additional_text": "SInv Insaaraqʼ var Seeraqʼ",
+  "examples": [
+    {
+      "example_maya": "Makachʼin li saaraqʼ rikʼin li cheekel winqʼ",
+      "example_spa": "El anciano tiene muchas pláticas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inyehaq junaq saaraqʼ eere",
+      "example_spa": "Voy a contarles un cuento",
+      "dialect": null
+    }
+  ],
+  "uuid": "121453e0-7d40-4529-9955-a9b91adccc0b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

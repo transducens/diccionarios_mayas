@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ramamexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinramamej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar en pedazos",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Ram",
+  "examples": [
+    {
+      "example_maya": "Ronojel li wuj xramamexik ma xa kachokon cheh wiqobʼal",
+      "example_spa": "Todos los papeles se cortan en pedazos",
+      "dialect": null
+    }
+  ],
+  "uuid": "5920a085-6ab9-4b2f-a712-2b4bd1c37126"
+}

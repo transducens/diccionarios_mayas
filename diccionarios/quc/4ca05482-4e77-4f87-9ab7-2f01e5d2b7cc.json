@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nojem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnojik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "//Nohj//",
+  "altEntryWordDialect2": null,
+  "definition": "Llenarse",
+  "definitionDialect": "",
+  "additional_text": "vi FbaS",
+  "examples": [
+    {
+      "example_maya": "Are taq kinwaʼik, kinnojik",
+      "example_spa": "Cuando como, me lleno",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ca05482-4e77-4f87-9ab7-2f01e5d2b7cc"
+}

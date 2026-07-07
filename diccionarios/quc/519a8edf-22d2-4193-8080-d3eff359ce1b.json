@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼujbʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desnivelado; jorobado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Bʼuj",
+  "examples": [
+    {
+      "example_maya": "Li upa ja sibʼalaj bʼujbʼik",
+      "example_spa": "El piso de la casa está muy desnivelado",
+      "dialect": null
+    }
+  ],
+  "uuid": "519a8edf-22d2-4193-8080-d3eff359ce1b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hígado",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nuqʼeeq Sinón Seseebʼ Raíz S Qʼeeq",
+  "examples": [
+    {
+      "example_maya": "Li uqʼeq li achih xqʼayik",
+      "example_spa": "El hígado del hombre se pudrió",
+      "dialect": null
+    }
+  ],
+  "uuid": "d284ddbc-2c8d-4d91-b577-d09387920120"
+}

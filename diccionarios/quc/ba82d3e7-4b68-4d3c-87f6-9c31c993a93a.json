@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pichʼilol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cucarachero, pájaro pequeño que hace su nido en el techo de las casas",
+  "definitionDialect": "",
+  "additional_text": "snP var Pichʼolol Doms Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li pichʼilol staq laj e koʼkoj xuq qʼakoʼj li kij",
+      "example_spa": "Los cucaracheros son pequeñitos y son de color café",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba82d3e7-4b68-4d3c-87f6-9c31c993a93a"
+}

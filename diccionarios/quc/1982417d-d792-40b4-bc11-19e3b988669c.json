@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oxkʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sesenta",
+  "definitionDialect": "",
+  "additional_text": "NumCard Raíz N Ox Raíz S Kʼaal",
+  "examples": [
+    {
+      "example_maya": "Oxkʼal qʼij kʼo oxibʼ ikʼ chpam rech li chol qʼij mayab",
+      "example_spa": "Tres meses del calendario maya tienen sesenta días",
+      "dialect": null
+    }
+  ],
+  "uuid": "1982417d-d792-40b4-bc11-19e3b988669c"
+}

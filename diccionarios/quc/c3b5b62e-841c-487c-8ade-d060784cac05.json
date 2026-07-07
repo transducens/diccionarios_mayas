@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sililʼʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasililʼʼlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentir toque eléctrico o inyección, que se extiende por el cuerpo",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Xsililʼʼlabʼ nubʼaqil are taq xintij li bʼaq",
+      "example_spa": "Sentí un toque eléctrico cuando me pusieron la inyección",
+      "dialect": null
+    }
+  ],
+  "uuid": "c3b5b62e-841c-487c-8ade-d060784cac05"
+}

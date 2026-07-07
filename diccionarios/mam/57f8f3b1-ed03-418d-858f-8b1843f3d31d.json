@@ -1,0 +1,18 @@
+{
+  "entryWord": "MEEN",
+  "definition": "mudo",
+  "additional_text": "s1 nmena raíz men s/a",
+  "examples": [
+    {
+      "example_maya": "At maj ntiʼ nnoj ni men tuʼnj mibʼan yolan",
+      "example_spa": "Hay veces que no se llena el mudo, porque no puede hablar",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "57f8f3b1-ed03-418d-858f-8b1843f3d31d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

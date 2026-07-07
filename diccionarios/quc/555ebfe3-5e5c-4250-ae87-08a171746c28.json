@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juxil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una hilacha de carne; un poquito de lana; un poquito de algodón",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Xil",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xa juxil utiʼ li ral xuyaʼoh",
+      "example_spa": "La mujer le dio una hilacha de carne a su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "555ebfe3-5e5c-4250-ae87-08a171746c28"
+}

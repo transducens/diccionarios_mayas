@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tobʼotik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande de cintura; flojo: camisa o pantalón",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Raiz P Tobʼ",
+  "examples": [
+    {
+      "example_maya": "Li saqwiʼn xukoj jun tobʼotik atzʼyaq",
+      "example_spa": "El gracejo se puso una ropa floja",
+      "dialect": null
+    }
+  ],
+  "uuid": "166a081e-9cbe-40f1-9b17-a3cc17dd3300"
+}

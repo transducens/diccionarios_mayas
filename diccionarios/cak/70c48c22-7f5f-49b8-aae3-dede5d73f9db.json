@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kaqacheʼ",
+  "definition": "Arbol de madera roja",
+  "additional_text": "sc Nukaqacheʼ Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri kaqacheʼ yalan kow",
+      "example_spa": "Este árbol es muy fuerte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kaqacheʼ yalan (tzʼan) nim rejqalen chuwäch qatinamit",
+      "example_spa": "El árbol rojo es de mucho valor para nuestro pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "70c48c22-7f5f-49b8-aae3-dede5d73f9db",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

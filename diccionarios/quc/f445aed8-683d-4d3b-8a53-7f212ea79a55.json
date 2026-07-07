@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mandarin",
+  "entryWordDialect": null,
+  "altEntryWord": "Numandarin",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Mangariin",
+  "altEntryWordDialect2": null,
+  "definition": "Mandarina",
+  "definitionDialect": "",
+  "additional_text": "sinv var DomS Pruut Del Cast Mandarina",
+  "examples": [
+    {
+      "example_maya": "Li mandarin, sibʼalaj paqalik",
+      "example_spa": "Las mandarinas están muy caras",
+      "dialect": null
+    }
+  ],
+  "uuid": "f445aed8-683d-4d3b-8a53-7f212ea79a55"
+}

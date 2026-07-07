@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼowoqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grueso, como yema de planta, caña de milpa o tallo; tierno y robusto",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Qʼow",
+  "examples": [
+    {
+      "example_maya": "Li sbʼoʼy sibʼalaj qʼowoqʼaʼq li uxaq",
+      "example_spa": "Las cebollas tienen hojas muy gruesas",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc4d14a7-5f5c-401e-943f-17a09dee278d"
+}

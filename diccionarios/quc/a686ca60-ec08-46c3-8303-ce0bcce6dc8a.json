@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼipeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrado: cosa rolliza y delgada",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Qʼip",
+  "examples": [
+    {
+      "example_maya": "Li nutzʼibʼabʼal na utz ta chik xaq e qʼipeʼl chik",
+      "example_spa": "Mis lápices ya no sirven, están quebrados",
+      "dialect": null
+    }
+  ],
+  "uuid": "a686ca60-ec08-46c3-8303-ce0bcce6dc8a"
+}

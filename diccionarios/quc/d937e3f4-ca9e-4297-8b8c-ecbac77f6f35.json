@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aanum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fugitivo",
+  "definitionDialect": "",
+  "additional_text": "SAgen",
+  "examples": [
+    {
+      "example_maya": "Li ajchʼamiʼyabʼ xkichap li anum iwir",
+      "example_spa": "Los alguaciles agarraron ayer al fugitivo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d937e3f4-ca9e-4297-8b8c-ecbac77f6f35"
+}

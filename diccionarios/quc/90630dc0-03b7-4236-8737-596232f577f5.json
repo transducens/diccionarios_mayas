@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pernajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse como pedazo de tela rota",
+  "definitionDialect": "",
+  "additional_text": "vI Kapernajik Raíz P Per (pir)",
+  "examples": [
+    {
+      "example_maya": "Li kebʼ achijabʼ xkichʼay kibʼ xaq kapernaj chi li katzʼyaq chkij",
+      "example_spa": "Las camisas de los dos hombres que se pelearon, están rotas",
+      "dialect": null
+    }
+  ],
+  "uuid": "90630dc0-03b7-4236-8737-596232f577f5"
+}

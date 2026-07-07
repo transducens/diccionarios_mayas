@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼa majaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Todavía no",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kʼa maja kuʼl li ajkʼayibʼ",
+      "example_spa": "Todavía no han llegado los vendedores",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d328428-f864-4507-98a3-5898b14e9507"
+}

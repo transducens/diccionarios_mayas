@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqoloh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cepillar tabla; emparejar tabla con machete o hacha; quitar cáscara de palo con machete",
+  "definitionDialect": "",
+  "additional_text": "VTR Raíz VT Qol",
+  "examples": [
+    {
+      "example_maya": "Jun tzʼalam kinqoloh",
+      "example_spa": "Estoy emparejando una tabla",
+      "dialect": null
+    }
+  ],
+  "uuid": "61e033d4-01d8-4cda-a9ed-9b550b93eb91"
+}

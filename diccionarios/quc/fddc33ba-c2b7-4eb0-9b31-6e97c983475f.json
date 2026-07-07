@@ -1,0 +1,24 @@
+{
+  "entryWord": "Waqʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwaqʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrar tablas, vidrios o cosas de barro; dar puñetazos",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Waqʼ",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal xuwaqʼij li ukʼerkʼer",
+      "example_spa": "El niño quebró la matraca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xwaqʼix jun qʼabʼ putzaʼm li achih",
+      "example_spa": "Al hombre le dieron un puñetazo en la nariz",
+      "dialect": null
+    }
+  ],
+  "uuid": "fddc33ba-c2b7-4eb0-9b31-6e97c983475f"
+}

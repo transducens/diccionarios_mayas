@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqlachʼaloj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Colorado (como la piel debajo de una venda)",
+  "definitionDialect": "",
+  "additional_text": "PC Raíz Adj Kaq lachʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kaqlachʼaloj li uqʼabʼ li akʼal, ma xa ukʼatom",
+      "example_spa": "La mano del niño está colorada, porque la tenía quemada",
+      "dialect": null
+    }
+  ],
+  "uuid": "880f434f-1fc4-4b28-8d33-70e16c68c119"
+}

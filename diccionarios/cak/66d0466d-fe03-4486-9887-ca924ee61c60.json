@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tanaj",
+  "definition": "Una percha; un capítulo",
+  "additional_text": "Med Jutanaj v =Nukʼaj, =tusaj",
+  "examples": [
+    {
+      "example_maya": "Chi wachoch kʼo oxiʼ tanaj nusiʼ",
+      "example_spa": "Tengo tres perchas de leña en mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq kʼayibʼäl pa tanaj kʼo ri tziyäq",
+      "example_spa": "En los mercados está por perchas la ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "66d0466d-fe03-4486-9887-ca924ee61c60",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

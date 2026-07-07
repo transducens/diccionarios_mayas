@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pojik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Somatar una cosa dura contra otra",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinpojoh Raíz VT Poj",
+  "examples": [
+    {
+      "example_maya": "Kinpoj na li jun tzʼalam che jun cheʼ",
+      "example_spa": "Voy a somatar la tabla con un palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e138a7c9-dfb1-4232-96f8-165e31921133"
+}

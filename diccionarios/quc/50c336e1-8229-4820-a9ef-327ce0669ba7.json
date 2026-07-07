@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chowixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchowij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limpiar pozo para que el agua sea muy cristalina",
+  "definitionDialect": "General",
+  "additional_text": "vtd Var Saqchowochoj Raíz VT Chow",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kuchowij li kʼwaʼ",
+      "example_spa": "La señora está limpiando el pozo",
+      "dialect": null
+    }
+  ],
+  "uuid": "50c336e1-8229-4820-a9ef-327ce0669ba7"
+}

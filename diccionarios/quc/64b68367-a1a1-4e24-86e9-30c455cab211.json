@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼuturem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacerse pedazos; despedazarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqʼuturik Raíz VI Qʼut",
+  "examples": [
+    {
+      "example_maya": "Ronojel li ubʼaqil xqʼuturik",
+      "example_spa": "Se despedazó todos los huesos",
+      "dialect": null
+    }
+  ],
+  "uuid": "64b68367-a1a1-4e24-86e9-30c455cab211"
+}

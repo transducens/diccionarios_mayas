@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qiʼr",
+  "entryWordDialect": null,
+  "altEntryWord": "Uqiʼral,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xqiʼrobʼik",
+  "altEntryWordDialect2": null,
+  "definition": "Grueso: hilo o tela; ordinario: hilo o tela; áspero: tela; basto: tela; desgastado: tela",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Chanqiʼr Raíz VT Qir",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xa qiʼra bʼatzʼ ukojom cheh li upoʼt",
+      "example_spa": "La mujer sólo ha usado hilo grueso para su güipil",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼul xqʼeʼlabʼik, xqiʼrobʼik",
+      "example_spa": "El poncho se desgastó y se arruinó",
+      "dialect": null
+    }
+  ],
+  "uuid": "58348a10-9519-442b-ae88-b5883808117e"
+}

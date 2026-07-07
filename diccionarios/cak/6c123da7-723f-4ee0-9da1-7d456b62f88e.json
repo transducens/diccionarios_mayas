@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼoqʼ",
+  "definition": "Chilacayote",
+  "additional_text": "sInv Nuqʼoqʼ Tikoʼn",
+  "examples": [
+    {
+      "example_maya": "Ri qʼoqʼ jebʼël nikitïj ri wakx",
+      "example_spa": "Las vacas se comen bien el chilacayote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qʼoqʼ jun tikoʼn chöj chuwiʼ (chi ruwiʼ) ulew nurïp wi riʼ",
+      "example_spa": "El chilacayote es una siembra que sólo se extiende sobre el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c123da7-723f-4ee0-9da1-7d456b62f88e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

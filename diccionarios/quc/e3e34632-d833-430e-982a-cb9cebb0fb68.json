@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajtʼuʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mujer encargada de repartir comida en una fiesta",
+  "definitionDialect": "",
+  "additional_text": "SAgen s Ajtʼuʼy Encargada de repartir comida en las fiestas Raíz S Tʼuʼy",
+  "examples": [
+    {
+      "example_maya": "Li nim ixoq are xok ajtʼuʼy pa li kʼulanem",
+      "example_spa": "La anciana es la encargada de repartir la comida en el casamiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3e34632-d833-430e-982a-cb9cebb0fb68"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼuyik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzʼuyuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coquetear",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Tzʼuy",
+  "examples": [
+    {
+      "example_maya": "Li al Xeʼp kutzʼuy ribʼ pa bʼeh",
+      "example_spa": "Isabel coquetea en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "05c6b3b8-fd54-4fcc-94fe-fc4c46a04443"
+}

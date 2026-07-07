@@ -1,0 +1,24 @@
+{
+  "entryWord": "Witzʼitzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flaco; delgado",
+  "definitionDialect": "",
+  "additional_text": "Adj F Witzʼiitzʼ raqan Pie delgado F Witzʼiitzʼ uqʼabʼ Brazo delgado F Witzʼiitzʼ upaam Cintura delgada Raíz Adj Witzʼ",
+  "examples": [
+    {
+      "example_maya": "Li raqan li achih, xa witzʼitzʼ chik, ma xa xuriq yabʼil",
+      "example_spa": "El pie del hombre es muy delgado, porque tuvo una enfermedad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, xa witzʼitzʼ chi rumal li raxtew",
+      "example_spa": "El hombre ya está muy flaco por el paludismo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b63c1c5-2037-46ab-a79f-e3a777215671"
+}

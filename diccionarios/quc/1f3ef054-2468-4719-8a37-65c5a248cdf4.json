@@ -1,0 +1,24 @@
+{
+  "entryWord": "Weʼbʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Usar para comer los trastos",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinweʼbʼeej Raíz VT Weʼbʼ",
+  "examples": [
+    {
+      "example_maya": "Are kinweʼbʼej li laq",
+      "example_spa": "Voy a usar la escudilla para comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li muʼsabʼ webʼal kakiweʼbʼej",
+      "example_spa": "Los ladinos usan platos para comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f3ef054-2468-4719-8a37-65c5a248cdf4"
+}

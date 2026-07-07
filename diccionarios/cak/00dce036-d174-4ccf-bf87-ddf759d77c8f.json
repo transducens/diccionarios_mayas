@@ -1,0 +1,28 @@
+{
+  "entryWord": "Lukul",
+  "definition": "Doblado, encorvado, agachado",
+  "additional_text": "p Xlukeʼ, xulukubʼaʼ Kʼojlen",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun cheʼ chuchiʼ bʼey, lukul pe pa ruwiʼ bʼey",
+      "example_spa": "Hay un árbol en la orilla del camino y está algo doblado sobre el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri jun cheʼ xlukeʼ kan roma ri kaqʼäqʼ",
+      "example_spa": "Un árbol se quedó doblado por el aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "La ixoq lukul chusikʼïk ixim",
+      "example_spa": "Esa mujer está agachada por recoger maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "00dce036-d174-4ccf-bf87-ddf759d77c8f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

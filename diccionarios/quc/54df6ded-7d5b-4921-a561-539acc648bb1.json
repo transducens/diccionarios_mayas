@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xelah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxela",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hilo de seda",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Bʼatzʼ",
+  "examples": [
+    {
+      "example_maya": "Li xelah are utz cheh qʼoʼbʼal, utz kakaʼyik",
+      "example_spa": "La seda es mejor para bordar, tiene buen color",
+      "dialect": null
+    }
+  ],
+  "uuid": "54df6ded-7d5b-4921-a561-539acc648bb1"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wolqotixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar cosa grande, dura y más o menos redonda",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinwolqotiij Raíz VT Wol",
+  "examples": [
+    {
+      "example_maya": "Kinwolqotij bʼi li abʼaj pa li swan",
+      "example_spa": "Voy a tirar la piedra al barranco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah, xuwolqotij li pelot",
+      "example_spa": "El muchacho rodó la pelota",
+      "dialect": null
+    }
+  ],
+  "uuid": "bead4216-b71e-4268-a278-f67e65ad2577"
+}

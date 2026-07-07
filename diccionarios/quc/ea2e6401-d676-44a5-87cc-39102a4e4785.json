@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raqnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Reqnajem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa y abierta",
+  "definitionDialect": "",
+  "additional_text": "vi Karaqnajík var Reqnajeem Raíz VT Raq",
+  "examples": [
+    {
+      "example_maya": "Li alah li kʼo pa li bʼeh karaqnaj li ukamiʼx",
+      "example_spa": "El muchacho que está en el camino, tiene rota la camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea2e6401-d676-44a5-87cc-39102a4e4785"
+}

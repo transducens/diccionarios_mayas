@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeʼejik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinbʼejoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar frutas con palo; bajar frutas con palo",
+  "definitionDialect": "General",
+  "additional_text": "vtr Raíz PT Bʼej",
+  "examples": [
+    {
+      "example_maya": "Li achih, xubʼej uwach li taraʼs",
+      "example_spa": "El hombre cortó muchos duraznos",
+      "dialect": null
+    }
+  ],
+  "uuid": "14da7580-ccaf-4926-893a-fba0e0a1eeeb"
+}

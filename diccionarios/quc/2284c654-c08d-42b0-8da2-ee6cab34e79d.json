@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼulaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Recibir a personas; encontrar",
+  "definitionDialect": "General",
+  "additional_text": "vTD Var Riqonik Raíz VT Kʼul",
+  "examples": [
+    {
+      "example_maya": "Li sin mebʼaʼ maj utat, xinkʼulaj chwa woʼch",
+      "example_spa": "Recibí al pobre huérfano en mi casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "2284c654-c08d-42b0-8da2-ee6cab34e79d"
+}

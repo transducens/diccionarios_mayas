@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼixal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espina (poseída por la planta)",
+  "definitionDialect": "General",
+  "additional_text": "ssp Ukʼixaal",
+  "examples": [
+    {
+      "example_maya": "Li chʼimah kʼo chi ukʼixal, ma riʼj chik",
+      "example_spa": "El güisquil ya tiene espinas porque está sazón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nochtiʼ kʼo ukʼixal chwach li juleʼ chi uwach taq cheʼ",
+      "example_spa": "La tuna tiene más espinas que otro tipo de frutas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6400ecb1-7f3d-4e14-9450-db8f9b07537e"
+}

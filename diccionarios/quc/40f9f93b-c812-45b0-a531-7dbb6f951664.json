@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼuʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manco (que no tiene brazos o dedos); tunco",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Tʼunutʼik Raíz PT Tʼun",
+  "examples": [
+    {
+      "example_maya": "Xa tʼuʼn li uwi taq uqʼabʼ li achih, ma xa xusok chech chʼichʼ",
+      "example_spa": "El hombre está tunco porque se cortó los dedos con el machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "40f9f93b-c812-45b0-a531-7dbb6f951664"
+}

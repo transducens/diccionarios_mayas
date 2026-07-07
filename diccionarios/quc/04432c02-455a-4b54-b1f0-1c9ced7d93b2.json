@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqmoʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaqmoʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Huevo",
+  "definitionDialect": "General",
+  "additional_text": "sInv SDS Usaqmoʼl kar Huevo de pescado DomS Rikiil",
+  "examples": [
+    {
+      "example_maya": "Li walkʼuʼal kutij saqmoʼl kech akʼ",
+      "example_spa": "Mi hijo come huevos de gallina",
+      "dialect": null
+    }
+  ],
+  "uuid": "04432c02-455a-4b54-b1f0-1c9ced7d93b2"
+}

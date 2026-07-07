@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼäq",
+  "definition": "Pulga",
+  "additional_text": "scv Nukʼaq Chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri kʼäq ruyon kikʼ nutäj",
+      "example_spa": "La pulga sólo se alimenta de sangre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kʼäq nutïj rukikʼel ri winäq",
+      "example_spa": "La pulga chupa la sangre de la persona",
+      "dialect": null
+    }
+  ],
+  "uuid": "2bc5afe1-c3a8-423f-b387-67ceb41d3c07",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

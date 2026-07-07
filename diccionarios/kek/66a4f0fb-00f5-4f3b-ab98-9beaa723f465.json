@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼiichʼul",
+  "definition": "Herramienta del campo con un uso determinado por el dueño",
+  "additional_text": "SSP Xchʼiichʼul",
+  "examples": [
+    {
+      "example_maya": "Kʼaʼ chʼiichʼul taawaj?",
+      "example_spa": "Qué clase de herramienta quiéres? Qué clase de herramienta quiere usted?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼe jun xchʼiichʼul pek we",
+      "example_spa": "Dame una herramienta para piedra, (piocha, cincel, Etc)",
+      "dialect": null
+    }
+  ],
+  "uuid": "66a4f0fb-00f5-4f3b-ab98-9beaa723f465",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

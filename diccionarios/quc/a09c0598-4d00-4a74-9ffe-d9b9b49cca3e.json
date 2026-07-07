@@ -1,0 +1,29 @@
+{
+  "entryWord": "Waʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pendiente; reincidente en un delito; recaída; suspendido, suspenso, indefinido, irresoluto, aplazado, diferido, que carece de solución",
+  "definitionDialect": "general",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kamik xaq waʼl li chʼaʼoj",
+      "example_spa": "Ahora está pendiente la guerra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, xaq waʼl li yabʼil pubʼaqil",
+      "example_spa": "La enfermedad no tiene solución en el cuerpo del hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq waʼl umak li achih, pa jwes",
+      "example_spa": "El delito del hombre está pendiente con el juez",
+      "dialect": null
+    }
+  ],
+  "uuid": "a09c0598-4d00-4a74-9ffe-d9b9b49cca3e"
+}

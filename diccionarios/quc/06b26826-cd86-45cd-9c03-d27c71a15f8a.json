@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pachnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar agachado",
+  "definitionDialect": "",
+  "additional_text": "vt Kinpachnajik Raíz P Pach",
+  "examples": [
+    {
+      "example_maya": "Li sin riʼj ixoq xaq kapachnaj chik",
+      "example_spa": "La pobre anciana ya camina agachada",
+      "dialect": null
+    }
+  ],
+  "uuid": "06b26826-cd86-45cd-9c03-d27c71a15f8a"
+}

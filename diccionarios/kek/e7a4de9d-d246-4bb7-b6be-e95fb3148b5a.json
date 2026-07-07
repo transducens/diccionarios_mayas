@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼaakʼalenk",
+  "definition": "Guardar, cuidar, vigilar, velar",
+  "additional_text": "VID Xinkʼaakʼale Sinón Yoʼlek",
+  "examples": [
+    {
+      "example_maya": "Kʼaakʼalenk kamenaq",
+      "example_spa": "Velar muerto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼaakʼalenk kabʼl",
+      "example_spa": "Vigilar la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e7a4de9d-d246-4bb7-b6be-e95fb3148b5a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

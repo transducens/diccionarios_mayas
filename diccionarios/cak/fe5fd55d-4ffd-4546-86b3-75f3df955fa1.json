@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mayonïk",
+  "definition": "Pensar, preocupar",
+  "additional_text": "vT Mayoxik, ninmäy",
+  "examples": [
+    {
+      "example_maya": "Yin yalan ninmäy ri xkʼulwachitäj pa Bʼokoʼ",
+      "example_spa": "Yo pienso mucho en lo que pasó en Chimaltenango",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan ninmäy ri wachikʼ, kʼïy rejqalen",
+      "example_spa": "Pienso mucho en mi sueño y significa mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe5fd55d-4ffd-4546-86b3-75f3df955fa1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

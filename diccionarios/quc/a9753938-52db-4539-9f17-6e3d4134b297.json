@@ -1,0 +1,29 @@
+{
+  "entryWord": "Okem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinokik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entrar; llegar a ser",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VT Ok",
+  "examples": [
+    {
+      "example_maya": "Li winaq okem kakibʼan pa li jah chirilik nimaqʼij",
+      "example_spa": "La gente va a entrar en la casa para ver el baile",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Okem pa cheʼ",
+      "example_spa": "Ser encarcelado",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Xok aqʼabʼ",
+      "example_spa": "Buenas noches",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9753938-52db-4539-9f17-6e3d4134b297"
+}

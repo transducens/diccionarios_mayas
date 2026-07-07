@@ -1,0 +1,29 @@
+{
+  "entryWord": "Chʼobʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Explicar; contar",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinchʼobʼoh SSP =Chʼoobʼikiil Relato, contenido de un cuento Raíz VT Chʼobʼ",
+  "examples": [
+    {
+      "example_maya": "Li pareh xuchoʼbʼ li chʼabʼal chwach li akʼal",
+      "example_spa": "El padre explicó la oración al niño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajtij tajin kuchʼobʼ li tzʼibʼ chikiwach li akʼalabʼ",
+      "example_spa": "El maestro está explicando las letras a los niños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih chʼobʼoj ribʼ xubʼan che taq li xajom",
+      "example_spa": "El hombre contó rápido lo sucedido",
+      "dialect": null
+    }
+  ],
+  "uuid": "9f409640-5c33-4fbf-b254-432a5ebebf91"
+}

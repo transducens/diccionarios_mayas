@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tunexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintunej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosas arrimeradas en las manos",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz PT Tun",
+  "examples": [
+    {
+      "example_maya": "Kintunej oxibʼ nulij pa nuqʼabʼ",
+      "example_spa": "Voy a llevarme las tres tortillas en la mano",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6dbe78e-b22c-428c-ab4d-822b0dcd0a75"
+}

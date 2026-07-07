@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼexol tzij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona que cuenta lo que dijo otro, pero no correctamente",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz VT Kʼex Raíz S Tziij",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xa jun kʼexol tzij",
+      "example_spa": "La mujer cambia las palabras",
+      "dialect": null
+    }
+  ],
+  "uuid": "08379880-9a69-400d-b6d1-3f82901bf1c6"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ruqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rasgar con los dientes; exigir; pedir molestando",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinruquh Raíz VT Ruq",
+  "examples": [
+    {
+      "example_maya": "Kinruq na li tiʼij cheh nuwareh",
+      "example_spa": "Voy a rasgar la carne con mis dientes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kinkiruq li walkʼuʼal cheh pwaq",
+      "example_spa": "Mis hijos me molestan mucho, pidiendo dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "d18da259-808c-43a4-be11-e007f5dc5323"
+}

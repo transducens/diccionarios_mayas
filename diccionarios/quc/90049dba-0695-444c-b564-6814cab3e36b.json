@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kup",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukup",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedúnculo (tronquito o palito que sostiene a la fruta)",
+  "definitionDialect": "",
+  "additional_text": "ssP",
+  "examples": [
+    {
+      "example_maya": "Li alanxax kukʼayij li ixoq, kʼa kʼo ukup",
+      "example_spa": "Las naranjas que vende la señora, todavía tienen tronquitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "90049dba-0695-444c-b564-6814cab3e36b"
+}

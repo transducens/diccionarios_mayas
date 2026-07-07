@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wulül",
+  "definition": "Hacer ruido las mazorcas al regarse en la troje; ruido de un gran aguacero que viene derrumbarse tierra",
+  "additional_text": "VI Niwulül",
+  "examples": [
+    {
+      "example_maya": "Taq niwulül ri nujal chaqʼaʼ, ja aj kʼa ri qames nibʼanun",
+      "example_spa": "Mis mazorcas hacían ruido en la noche, y era el gato que las movía",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq yalan jobʼ xubʼän, xwuluwuʼ el ri jun tanatik",
+      "example_spa": "Cuando llovió mucho, se derrumbo la peña",
+      "dialect": null
+    }
+  ],
+  "uuid": "f1fa9c21-8a1c-4d81-aaeb-9036adcd98ec",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

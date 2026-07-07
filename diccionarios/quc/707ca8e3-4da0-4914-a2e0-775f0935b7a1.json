@@ -1,0 +1,19 @@
+{
+  "entryWord": "Akʼeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maíz y frijol camagua",
+  "definitionDialect": "Dom.S. Wah",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Akʼeʼl na li wixim xinloqʼo",
+      "example_spa": "El maíz que compré está camagua",
+      "dialect": null
+    }
+  ],
+  "uuid": "707ca8e3-4da0-4914-a2e0-775f0935b7a1"
+}

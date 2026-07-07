@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqʼat",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un grupo (despectivo); una cortada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qʼat",
+  "examples": [
+    {
+      "example_maya": "Chwi li juyubʼ e kʼo juqʼat kʼoy kakiraq kichiʼ",
+      "example_spa": "En la montaña hay un grupo de monos que gritan mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "8440c1f5-6ba0-4cbf-852b-b8d617cbf0c5"
+}

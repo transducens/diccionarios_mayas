@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaxon",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaxon",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cajón",
+  "definitionDialect": "",
+  "additional_text": "sinv F Kaxoon ree xaqʼoʼl Molde de adobe Del Cast Cajón",
+  "examples": [
+    {
+      "example_maya": "Li kaxon reh kaxlanwah sibʼalaj nim",
+      "example_spa": "El cajón del pan es grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5d557ec-999a-4a24-8b57-15e6434d076b"
+}

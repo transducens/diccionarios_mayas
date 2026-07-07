@@ -1,0 +1,28 @@
+{
+  "entryWord": "Eqanïk (ejqanïk)",
+  "definition": "Cargar",
+  "additional_text": "vtd Eqaxik, ninweqaj (nimwejqaj) Ejqa",
+  "examples": [
+    {
+      "example_maya": "Kʼo ixoqiʼ jantapeʼ nkejqaj ri kal",
+      "example_spa": "Hay mujeres que siempre cargan a sus criaturas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Okʼal traʼs yitikir ninwejqaj",
+      "example_spa": "Puedo cargar cien duraznos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq ninwejqaj siʼ yalan yikos",
+      "example_spa": "Cuando cargo leña me canso mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "7d1e10b0-d144-40fd-8d22-af3398d07d18",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

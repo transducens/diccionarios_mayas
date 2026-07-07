@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tetobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perforarse; abrirse hoyo; gastarse telas o papeles por el uso",
+  "definitionDialect": "Fbas. Te' (teh).",
+  "additional_text": "vi Kateetobʼik",
+  "examples": [
+    {
+      "example_maya": "Li akʼal tetobʼem ubʼanom li uxyal",
+      "example_spa": "El niño está gastando el cotón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xtetobʼ li ukamiʼx cheʼl rij",
+      "example_spa": "Se abrió un hoyo en la espalda de la camisa del hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "1384547b-dd06-4018-b898-3db61eef5101"
+}

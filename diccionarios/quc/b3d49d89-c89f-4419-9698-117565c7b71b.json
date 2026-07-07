@@ -1,0 +1,39 @@
+{
+  "entryWord": "Kʼax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Duro; costoso; doloroso",
+  "definitionDialect": "",
+  "additional_text": "Adj Ukʼaxaal, xkʼaxarik F Na kʼax taj Fácil",
+  "examples": [
+    {
+      "example_maya": "ujosqʼixik li abʼix pa taq kʼax ubʼanik",
+      "example_spa": "En el pedregal es difícil limpiar milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼeh pa kʼacheʼlaj sibʼalaj kʼax",
+      "example_spa": "El camino en la montaña es muy costoso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li toqʼoj sibʼalaj kʼax",
+      "example_spa": "La inyección es muy dolorosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nima yabʼ sibʼalaj ukʼaxal nah",
+      "example_spa": "La enfermedad grave es muy dolorosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chak xkʼaxarik, ma mataj xchakux li qʼayes",
+      "example_spa": "El trabajo se puso difícil porque tardaron en limpiar el monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3d49d89-c89f-4419-9698-117565c7b71b"
+}

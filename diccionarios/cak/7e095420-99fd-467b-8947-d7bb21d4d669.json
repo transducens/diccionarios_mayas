@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kape",
+  "definition": "Café",
+  "additional_text": "sInv Nukape Cheʼ, tikoʼn yaʼ Café",
+  "examples": [
+    {
+      "example_maya": "Yin yalan yiqumun kape",
+      "example_spa": "Yo tomo mucho café",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinqʼupij jun ruqʼaʼ ri kape",
+      "example_spa": "Quebré una rama del café",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kape jun tikoʼn ruyon pa taq meqʼen nitïk wiʼ",
+      "example_spa": "El café se siembra más en tierras calientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "7e095420-99fd-467b-8947-d7bb21d4d669",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

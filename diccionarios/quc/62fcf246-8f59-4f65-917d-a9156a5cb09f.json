@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sel\"",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusel\"",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guineo de seda",
+  "definitionDialect": "",
+  "additional_text": "DomS Pruut Del Cast Seda",
+  "examples": [
+    {
+      "example_maya": "Li rij li sel\" qʼan kakaʼyik",
+      "example_spa": "La cáscara del guineo de seda es amarilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "62fcf246-8f59-4f65-917d-a9156a5cb09f"
+}

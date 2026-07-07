@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yokol",
+  "definition": "Tardado, tardío, atraso; flojo un lazo",
+  "additional_text": "P Xyokeʼ xuyokobʼaʼ Var Chʼoqöl",
+  "examples": [
+    {
+      "example_maya": "Kʼo tinamït yalan yokol ri jobʼ",
+      "example_spa": "Hay pueblos donde es tardada la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq yoköl rukoloʼ ri nukej, chqibʼaʼ nikiritäj",
+      "example_spa": "Cuando el lazo de mi caballo está flojo, se desata facilmente",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc45fa96-6bc4-411b-8a6b-924a506e768a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

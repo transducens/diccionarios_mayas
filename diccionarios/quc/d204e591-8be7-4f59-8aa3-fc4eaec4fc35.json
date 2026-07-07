@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sokaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusok",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cama, lugar para dormir",
+  "definitionDialect": "",
+  "additional_text": "sPos Fbas //Sohk// Sinón Warabʼal Var Chʼaat Raíz S Sok",
+  "examples": [
+    {
+      "example_maya": "Chasoko qasok, karaj chi nuwaram",
+      "example_spa": "Arreglá nuestra cama, ya tengo sueño",
+      "dialect": null
+    }
+  ],
+  "uuid": "d204e591-8be7-4f59-8aa3-fc4eaec4fc35"
+}

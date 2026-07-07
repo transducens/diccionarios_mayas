@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nima tinamit",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Capital; ciudad",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Pa li nima tinamit kʼo wi li nima qʼatal tzij",
+      "example_spa": "El presidente está en la capital",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed079b52-b44b-470c-bede-84383cd20db7"
+}

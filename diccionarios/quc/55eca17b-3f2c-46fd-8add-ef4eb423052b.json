@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzererexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzererej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Romper telas, papel o cosas delgadas que hacen ruido",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Tzer",
+  "examples": [
+    {
+      "example_maya": "Li qʼabarel xutzererej li ukamiʼx",
+      "example_spa": "El borracho se rompió toda la camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "55eca17b-3f2c-46fd-8add-ef4eb423052b"
+}

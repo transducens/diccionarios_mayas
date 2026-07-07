@@ -1,0 +1,54 @@
+{
+  "entryWord": "Tayik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Tatabʼexik",
+  "altEntryWordDialect2": null,
+  "definition": "Escuchar; oír; pedir; preguntar; entender; sintonizar",
+  "definitionDialect": "general",
+  "additional_text": "vtd Var Raíz VT Tah",
+  "examples": [
+    {
+      "example_maya": "Tajin kinta li kachʼobʼ pa li chomal",
+      "example_spa": "Estoy escuchando lo que dicen en la reunión",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinta nurajil cheh li nutat",
+      "example_spa": "Pido dinero a mi papá",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih tayik tajin kubʼan cheh li kaxlanwah",
+      "example_spa": "El hombre está pidiendo el pan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wemna okʼow\"naq jun winaq pa tijoxik pa tijobʼal, na kakowin ta cheh utayik kaxlan tzij",
+      "example_spa": "Si uno no ha estudiado en la escuela, no puede entender el castellano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Interr ¿Jachin xtowik?",
+      "example_spa": "¿Quién lo pidió?",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Na kinta taj",
+      "example_spa": "No lo entiendo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Imp Chataʼ",
+      "example_spa": "Oyelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "pp Nutom",
+      "example_spa": "He oído",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc47553a-9275-4c57-8374-1879e639cc04"
+}

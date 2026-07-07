@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventarse botón de flor, huevo, bellota o frijol",
+  "definitionDialect": "",
+  "additional_text": "vi Kapaaqʼanik Raíz vi Paaqʼ",
+  "examples": [
+    {
+      "example_maya": "Xpaqʼan li bʼuyubʼaq taq kotzʼiʼj rumal li jabʼ",
+      "example_spa": "La lluvia reventó los botones de rosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e0656226-807a-4407-ab81-a4b17e8cf1f7"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tat",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutat (intat)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Padre; papá; señor",
+  "definitionDialect": "",
+  "additional_text": "sInv Raíz S Taat DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Li tat sibʼalaj e loqʼ li ralkʼuʼal chwach",
+      "example_spa": "El papá quiere mucho a sus hijos",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f766a76-bbd4-4976-a7a8-cc6c7198cf3a"
+}

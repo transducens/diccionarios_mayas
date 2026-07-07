@@ -1,0 +1,19 @@
+{
+  "entryWord": "Siqobʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limosna para la iglesia; candela para imágenes",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz S Siq",
+  "examples": [
+    {
+      "example_maya": "Li winaq kakiya kisiqobʼal pa tyox",
+      "example_spa": "La gente da limosna en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "3b91eb9a-8be0-4ff9-8dc2-79609fac1c6e"
+}

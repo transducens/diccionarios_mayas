@@ -1,0 +1,23 @@
+{
+  "entryWord": "Reetal",
+  "definition": "Al fin, por fin, tener que En el sentido de \"tener que\", se usa como partícula para indicar la necesidad del verbo",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Toj reetal xintaw",
+      "example_spa": "Por fin lo encontré",
+      "dialect": null
+    },
+    {
+      "example_maya": "Toj reetal tintaw",
+      "example_spa": "Tengo que hallarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "7a06bf2f-2866-42f0-ba54-fe6774abb3b5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

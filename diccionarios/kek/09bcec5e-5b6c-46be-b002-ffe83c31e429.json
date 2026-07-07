@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pachʼlok",
+  "definition": "Salpicar el agua, chapotear el agua",
+  "additional_text": "vi Napachʼlok",
+  "examples": [
+    {
+      "example_maya": "Xinxpachʼ chi sulul li kamyon naq xnumeʼ saʼ aanil",
+      "example_spa": "Me salpicó de lodo el camión cuando pasó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xiikil naq napachʼlok li okes saʼ li rukʼalil bʼuch",
+      "example_spa": "Como salpica la gotera en la olla del nixtamal",
+      "dialect": null
+    }
+  ],
+  "uuid": "09bcec5e-5b6c-46be-b002-ffe83c31e429",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxtojlik",
+  "entryWordDialect": null,
+  "altEntryWord": "raxtojtoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verde como siembra, planta o leña",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Rax Raíz VT Toj",
+  "examples": [
+    {
+      "example_maya": "Li usiʼ li achih xuʼbʼanaʼ, sibʼalaj raxtojlik",
+      "example_spa": "La leña que fue a hacer el hombre, está muy verde",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6acd8ce-8361-4c6b-878f-fd4152bd1252"
+}

@@ -1,0 +1,34 @@
+{
+  "entryWord": "Tʼajajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enfriarse; sentir mucho frío; estar muy helada",
+  "definitionDialect": "general",
+  "additional_text": "vl Kintʼajajik Var Bʼajajeem Raíz P Tʼaj",
+  "examples": [
+    {
+      "example_maya": "Are taq kaqaj li tew kumaj tʼajajem li uwachuliw",
+      "example_spa": "Cuando cae el hielo empieza a enfriarse el suelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kintʼajajik kinnaʼoh",
+      "example_spa": "Siento mucho frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tew sibʼalaj katʼajajik",
+      "example_spa": "El hielo es muy frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj xtʼajaj jun qʼabʼaj xinchapow chaqʼabʼ",
+      "example_spa": "Estaba muy helada la mano que me tocó anoche",
+      "dialect": null
+    }
+  ],
+  "uuid": "9563752b-1742-49c7-bc95-d162b2ea1bc9"
+}

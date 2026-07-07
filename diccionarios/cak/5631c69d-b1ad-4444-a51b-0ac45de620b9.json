@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jumüm",
+  "definition": "Hacer ruido el aire fuerte, hacer ruido las alas del zope al dejarse venir Ruido en el oído por taparse",
+  "additional_text": "VI Nijumüm Jüm",
+  "examples": [
+    {
+      "example_maya": "Kan nijumüm ri kaqʼäqʼ, (kaqʼiqʼ)",
+      "example_spa": "Hasta ruido está haciendo el aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kʼüch nijumüm kixikʼ, taq yebʼeqa pe",
+      "example_spa": "Los zopes cuando se dejan venir de lo alto, les hacen ruido las alas",
+      "dialect": null
+    }
+  ],
+  "uuid": "5631c69d-b1ad-4444-a51b-0ac45de620b9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

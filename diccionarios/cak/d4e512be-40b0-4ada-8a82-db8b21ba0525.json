@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼankil",
+  "definition": "Tamaño, forma, manera",
+  "additional_text": "(bʼanikil) sv Rubʼankil Chubʼankil Fastidio",
+  "examples": [
+    {
+      "example_maya": "¿Janipe rubʼankil nibʼän chi re?",
+      "example_spa": "¿De qué tamaño lo van a hacer?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Chike rubʼankil nibʼan chi re?",
+      "example_spa": "¿De qué forma lo van a hacer?",
+      "dialect": null
+    }
+  ],
+  "uuid": "d4e512be-40b0-4ada-8a82-db8b21ba0525",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

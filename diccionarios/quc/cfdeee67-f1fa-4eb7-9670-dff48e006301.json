@@ -1,0 +1,19 @@
+{
+  "entryWord": "Utun qʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rayo de sol; halo del sol o luna",
+  "definitionDialect": "",
+  "additional_text": "sds Raíz SSP =Tuun",
+  "examples": [
+    {
+      "example_maya": "Li utun qʼij kʼaqannaq pa taq li tel chech li uwi jah",
+      "example_spa": "Los rayos del sol penetran por los hoyos del tejado",
+      "dialect": null
+    }
+  ],
+  "uuid": "cfdeee67-f1fa-4eb7-9670-dff48e006301"
+}

@@ -1,0 +1,34 @@
+{
+  "entryWord": "Wopolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rizado: corte; hueco: olla, panal, etc; bien crecida: una siembra; ahoyado: terreno por taltuzas",
+  "definitionDialect": "",
+  "additional_text": "p Xwopiʼk, xuwopobʼaʼ Raíz P Wop",
+  "examples": [
+    {
+      "example_maya": "Li ruq li aj kobʼan xaq wopolik",
+      "example_spa": "El corte de la cobanera está rizado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq wopol li kisok staʼl pwi li cheʼ",
+      "example_spa": "El panal de avispas que está sobre el árbol ya está vacío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa jun wopolik abʼix xojokʼow wuloq are taq xojpe pa siʼ",
+      "example_spa": "Cuando fuimos a hacer leña pasamos por una milpa bien crecida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wuliw xinkʼayij, xa jun wopolik uliw",
+      "example_spa": "El terreno que vendí estaba ahoyado de taltuzas",
+      "dialect": null
+    }
+  ],
+  "uuid": "34868580-cc78-497c-9993-983722930309"
+}

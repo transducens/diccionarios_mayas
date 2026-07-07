@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar café, algodón, frutas, flores o verduras; engañar",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinqʼoloh Raíz VT Qʼol",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kapeh kuqʼoloh ma kaq chik",
+      "example_spa": "La mujer corta el café porque está maduro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq qʼoloj kinaqʼ kubʼano ma sibʼalaj chaqiʼj chik",
+      "example_spa": "La mujer está cortando frijol porque está muy seco",
+      "dialect": null
+    }
+  ],
+  "uuid": "5451c377-2488-472f-8423-1d9b8c92f656"
+}

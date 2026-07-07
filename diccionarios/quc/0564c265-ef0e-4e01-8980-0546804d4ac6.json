@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼijibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Material del sacerdote maya",
+  "definitionDialect": "",
+  "additional_text": "scv Nuqʼijibʼaal Raíz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼij upisom li uqʼijibʼal pa suʼt",
+      "example_spa": "El sacerdote maya ha envuelto su material en un sute",
+      "dialect": null
+    }
+  ],
+  "uuid": "0564c265-ef0e-4e01-8980-0546804d4ac6"
+}

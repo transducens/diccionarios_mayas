@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Kʼeyowal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pobreza",
+  "definitionDialect": "General",
+  "additional_text": "ssp Ukʼeyowaal Coment Sólo se usa en la frase \"xbʼee pa ukʼeyowaal\" se empobreció",
+  "examples": [
+    {
+      "example_maya": "Li a Mikel xbʼe pa ukʼeyowal",
+      "example_spa": "Miguel se empobreció",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f29f50c-5779-46c1-9940-3438fb6ab738"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼuxtʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hinchado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz PT Tʼux",
+  "examples": [
+    {
+      "example_maya": "Li raqan li achih xusokoh, sibʼalaj tʼuxtʼik",
+      "example_spa": "El pie que se lastimó el hombre está muy hinchado",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c0b16c9-af7e-42ca-8eec-7fb2a1be0388"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kux",
+  "entryWordDialect": null,
+  "altEntryWord": "Tzam",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Clandestino; cuxa (licor clandestino)",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukuux Var Tzaam",
+  "examples": [
+    {
+      "example_maya": "Li kux xa chowal kakʼayixik",
+      "example_spa": "La cuxa se vende clandestinamente",
+      "dialect": null
+    }
+  ],
+  "uuid": "f919c373-5a3d-4227-b35f-21a440568a45"
+}

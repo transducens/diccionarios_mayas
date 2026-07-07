@@ -1,0 +1,18 @@
+{
+  "entryWord": "BAANK",
+  "definition": "banco para depositar dinero",
+  "additional_text": "s1 nbanka del español banco",
+  "examples": [
+    {
+      "example_maya": "Aa tuj bank nchmet kypwaq aj kyajbʼil",
+      "example_spa": "Los que quieren depositar su dinero lo hacen en el banco",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "812016ed-5ef7-4c5e-a5cb-3873e8445911",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

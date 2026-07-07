@@ -1,0 +1,19 @@
+{
+  "entryWord": "Peʼchaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpeʼchaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner colchoncito para carga",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz S Peʼch",
+  "examples": [
+    {
+      "example_maya": "Kinpeʼchaj li bʼrin chuxe li weqaʼn",
+      "example_spa": "Pongo el costal para colchón debajo de mi carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "49c575a2-8158-4dc0-a7ef-9bf77ec4b23c"
+}

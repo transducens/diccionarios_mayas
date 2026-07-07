@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzoqolik",
+  "entryWordDialect": null,
+  "altEntryWord": "xtzoqiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutzoqobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Tupido: montón de plantas; puesto: puño de granos",
+  "definitionDialect": "",
+  "additional_text": "P Var Choqolik Var Tzobʼotzik Raiz PT Tzoq",
+  "examples": [
+    {
+      "example_maya": "Jun tikoʼn we xa tzoqolik, na qas ta jeʼ ukʼiyik",
+      "example_spa": "Cuando una siembra está bien tupida, no crece bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtzoqiʼ rachaqa kapeh pa nuqul",
+      "example_spa": "Se amontonó la xinga de café en mi garganta",
+      "dialect": null
+    }
+  ],
+  "uuid": "62bd6b71-07e8-439d-be47-ffe10dce8b62"
+}

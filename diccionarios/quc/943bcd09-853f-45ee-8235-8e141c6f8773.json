@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rikilaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurikilaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chile seco largo (parecido al chile de Cobán)",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li rikilaʼ are na qas ta poqon chwach li kobʼan",
+      "example_spa": "El chile seco no es tan picante como el chile de Cobán",
+      "dialect": null
+    }
+  ],
+  "uuid": "943bcd09-853f-45ee-8235-8e141c6f8773"
+}

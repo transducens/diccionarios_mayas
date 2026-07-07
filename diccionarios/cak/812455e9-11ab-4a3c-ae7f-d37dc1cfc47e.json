@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ikaʼn, ikan",
+  "definition": "Gallina ciega",
+  "additional_text": "sNP Wikaʼn Jut",
+  "examples": [
+    {
+      "example_maya": "Täq yalan ikaʼn e kʼo pa jun ulew, nkiqʼanarisaj ri tikoʼn",
+      "example_spa": "Cuando hay mucha gallina ciega en un terreno, arruina la siembra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ikaʼn nkitïj ruxeʼ ri tikoʼn",
+      "example_spa": "La gallina ciega se come la raíz de la siembra",
+      "dialect": null
+    }
+  ],
+  "uuid": "812455e9-11ab-4a3c-ae7f-d37dc1cfc47e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

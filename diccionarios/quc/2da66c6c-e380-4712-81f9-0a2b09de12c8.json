@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼisikʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ahumado, olor o sabor",
+  "definitionDialect": "General",
+  "additional_text": "Adj Xkʼiskʼobʼirik",
+  "examples": [
+    {
+      "example_maya": "Li rikil sibʼalaj kʼisikʼ, ma xa xkʼatik",
+      "example_spa": "La comida tiene sabor a humo porque se quemó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kapeh naj xpoqʼowik, xubʼan kʼisikʼ",
+      "example_spa": "El café hirvió mucho tiempo y se ahumó",
+      "dialect": null
+    }
+  ],
+  "uuid": "2da66c6c-e380-4712-81f9-0a2b09de12c8"
+}

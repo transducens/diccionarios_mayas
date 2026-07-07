@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakatajik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aurora",
+  "definitionDialect": "General",
+  "additional_text": "SSP Upakatajiik Raíz VT Pak",
+  "examples": [
+    {
+      "example_maya": "Maltyox chech ri ronojel utzirsanel xul jun chi upakatajik",
+      "example_spa": "Gracias al Creador por haber dado otro amanecer",
+      "dialect": null
+    }
+  ],
+  "uuid": "c4ecfc98-d75a-4325-86a6-135e7fa58cc6"
+}

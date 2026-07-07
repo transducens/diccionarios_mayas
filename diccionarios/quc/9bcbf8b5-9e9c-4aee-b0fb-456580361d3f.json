@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kubʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entregar cargo a una autoridad; dar posesión de un cargo; consolar",
+  "definitionDialect": "",
+  "additional_text": "vr Kinkuubʼaʼ Raíz P Kuʼ",
+  "examples": [
+    {
+      "example_maya": "Li krunsipalibʼ xebʼe pa kubʼanik chech alkalteh",
+      "example_spa": "Las autoridades principales fueron a darle posesión al alcalde",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinkubʼsaj na ukʼuʼx li achih, ma xa xkam li rixoqil",
+      "example_spa": "Voy a consolar a mi vecino porque se murió su esposa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9bcbf8b5-9e9c-4aee-b0fb-456580361d3f"
+}

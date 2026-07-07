@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jalkʼatixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjalkʼatij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cambiar una cosa de un lugar a otro o de trato al hablar: de lah ʼustedʼ en lugar de at ʼvosʼ",
+  "definitionDialect": "General",
+  "additional_text": "VT",
+  "examples": [
+    {
+      "example_maya": "Li achih xujalkʼatij li ukej",
+      "example_spa": "El hombre cambió de lugar al caballo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xujalkʼatij chkeh li utat unan, lal chik kubʼij chkech",
+      "example_spa": "La muchacha cambió el trato a sus suegros, los trata de ustedes",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d6e8d37-6918-4192-87c3-b4f4cb1e34fe"
+}

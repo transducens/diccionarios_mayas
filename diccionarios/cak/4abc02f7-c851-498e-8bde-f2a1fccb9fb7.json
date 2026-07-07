@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼüch",
+  "definition": "Zope, zopilote",
+  "additional_text": "sInv Nukʼuch var Kajawal kʼuch, tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Ri kʼuch nutij kamnäq tzʼiʼ",
+      "example_spa": "El zope come perros muertos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kʼuch jantape nixikʼan chi kaj",
+      "example_spa": "El zope siempre vuela por los aires",
+      "dialect": null
+    }
+  ],
+  "uuid": "4abc02f7-c851-498e-8bde-f2a1fccb9fb7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

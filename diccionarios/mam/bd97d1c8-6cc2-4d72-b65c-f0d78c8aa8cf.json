@@ -1,0 +1,23 @@
+{
+  "entryWord": "NAQ",
+  "definition": "aquél, aquella, ese, esa",
+  "additional_text": "pd",
+  "examples": [
+    {
+      "example_maya": "Mitiʼ ma tzul naq tor",
+      "example_spa": "No vino aquel toro",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tzʼinan naq xuʼj ẍin pona",
+      "example_spa": "No estaba aquella mujer cuando llegué",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "bd97d1c8-6cc2-4d72-b65c-f0d78c8aa8cf",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

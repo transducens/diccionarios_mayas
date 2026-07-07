@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qawik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer fruta verde; roer fruta",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinqawoh Var Jaawik Raíz VT Qaw",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj utz kunaʼ uqawik taraʼs",
+      "example_spa": "Al niño le gusta mucho comer duraznos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li taraʼs sibʼalaj qawom rumal kuk",
+      "example_spa": "Los duraznos han sido roídos por las ardillas",
+      "dialect": null
+    }
+  ],
+  "uuid": "fdf54b97-817b-4025-a9c9-f35b5b92962c"
+}

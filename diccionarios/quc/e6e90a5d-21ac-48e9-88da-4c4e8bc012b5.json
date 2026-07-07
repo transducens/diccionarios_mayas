@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xsaʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xusaabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Asoleado, asoleando",
+  "definitionDialect": "",
+  "additional_text": "p Raiz VT Saʼ",
+  "examples": [
+    {
+      "example_maya": "Saʼl li kapeh are chi kachaqijik",
+      "example_spa": "Se está asoleando el café para que se seque",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6e90a5d-21ac-48e9-88da-4c4e8bc012b5"
+}

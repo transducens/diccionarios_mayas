@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼixa akʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "kʼixa akʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gallina con plumas paradas",
+  "definitionDialect": "General",
+  "additional_text": "sms Raíz S Kʼiix Raíz S Akʼ",
+  "examples": [
+    {
+      "example_maya": "Ee kʼo kixa akʼ cher takʼatoj li kismal",
+      "example_spa": "Hay gallinas que tienen las plumas paradas",
+      "dialect": null
+    }
+  ],
+  "uuid": "455d8484-855e-498c-928b-e723efde624d"
+}

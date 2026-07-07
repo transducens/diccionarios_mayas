@@ -1,0 +1,24 @@
+{
+  "entryWord": "Silowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentirse el efecto de un trago; estar muy alegre una fiesta",
+  "definitionDialect": "",
+  "additional_text": "vi Kasilowik Raíz VI Sil",
+  "examples": [
+    {
+      "example_maya": "Kasilow nujolom che tzam",
+      "example_spa": "Estoy medio bolo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj xsilow li nimaqʼij ma kʼo qʼojom chiʼl aʼjxojolobʼ",
+      "example_spa": "La fiesta estuvo muy alegre porque hubo marimba y bailadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "12542086-7ec6-4cdc-a034-0ae2ea43125a"
+}

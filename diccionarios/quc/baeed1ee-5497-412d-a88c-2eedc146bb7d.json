@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chojim tiʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carne chojineada",
+  "definitionDialect": "General",
+  "additional_text": "SCL Raíz VT Choj Raíz S Tiʼiij",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kutzak chojim tiʼij",
+      "example_spa": "La mujer está chojineando la carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "baeed1ee-5497-412d-a88c-2eedc146bb7d"
+}

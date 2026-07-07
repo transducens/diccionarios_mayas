@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mop",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coyol; amante",
+  "definitionDialect": "",
+  "additional_text": "scv Numoop (modismo) Raíz S Mop DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li mop pa miqʼina juyubʼ kakʼiy wih",
+      "example_spa": "El coyol crece en tierra caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah utz karil li umop",
+      "example_spa": "El muchacho quiere mucho a su amante",
+      "dialect": null
+    }
+  ],
+  "uuid": "d96b023f-eb48-4a38-bdc5-96ebc105ac34"
+}

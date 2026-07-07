@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sakʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Usakʼajal, xsakʼajarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Diligente; astuto; chispudo, hábil, diestro",
+  "definitionDialect": "",
+  "additional_text": "Adj Ant Saas Ant Qʼor Raíz S Sakʼaaj",
+  "examples": [
+    {
+      "example_maya": "Li alah sibʼalaj sakʼaj are taq kataq rumal li utat",
+      "example_spa": "El muchacho es muy diligente al hacer el mandado de su padre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah sakʼaj ujolom, chanim karetaʼmaj",
+      "example_spa": "El muchacho es astuto, aprende luego",
+      "dialect": null
+    }
+  ],
+  "uuid": "c772cfe0-a01d-4864-af74-dc8b5d6d9544"
+}

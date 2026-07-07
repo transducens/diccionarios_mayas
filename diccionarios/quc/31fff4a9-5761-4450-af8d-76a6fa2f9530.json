@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tukmux",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Torcaz; torcaza; paloma de monte",
+  "definitionDialect": "General",
+  "additional_text": "snp Raíz S Tukmuux DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li tukmux nima junam rukʼ li ipum",
+      "example_spa": "La torcaza es casi igual a la mariquita",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tukmux chaʼj kakaʼy li kij, xuq utz katijow li kitiʼjal",
+      "example_spa": "Las torcazas son de color gris y la carne es comestible",
+      "dialect": null
+    }
+  ],
+  "uuid": "31fff4a9-5761-4450-af8d-76a6fa2f9530"
+}

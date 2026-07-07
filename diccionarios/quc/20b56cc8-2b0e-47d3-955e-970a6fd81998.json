@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tʼisik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coser; costurar; ensartar; suturar (elev); zurcir",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintʼisoh vl Tʼisoʼmaneem Costurar SCL Tʼisoʼmbʼal bʼaaq Aguja Raiz VT Tʼis",
+  "examples": [
+    {
+      "example_maya": "Li achih, kutʼis li xyal chech bʼatzʼa lana rukʼ bʼaq",
+      "example_spa": "El hombre cose el cotón con hilo de lana y aguja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtʼis jun cheʼ chpam li qʼoqʼ kʼo chi li beh",
+      "example_spa": "Le ensartaron un palo al chilacayote que está en la orilla del camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, xtʼis li usokotajik",
+      "example_spa": "Al hombre le suturaron la herida",
+      "dialect": null
+    }
+  ],
+  "uuid": "20b56cc8-2b0e-47d3-955e-970a6fd81998"
+}

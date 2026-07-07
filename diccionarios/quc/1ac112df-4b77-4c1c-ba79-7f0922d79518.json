@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzajel jaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Riachuelo",
+  "definitionDialect": "",
+  "additional_text": "scl Ant Kʼiyel jaʼ Raíz VT Tzaj Raíz S Jaʼ",
+  "examples": [
+    {
+      "example_maya": "Waʼ we tzajel jaʼ kachaqij pa taq saqʼij",
+      "example_spa": "Este riachuelo se seca en tiempo de verano",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ac112df-4b77-4c1c-ba79-7f0922d79518"
+}

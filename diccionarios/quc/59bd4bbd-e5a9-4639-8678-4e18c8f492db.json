@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼajik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrar; fracturar; faltar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinqʼajoh",
+  "examples": [
+    {
+      "example_maya": "Jun cheʼ kinqʼajoh kinchʼaybʼej reh jun tzʼiʼ",
+      "example_spa": "Estoy quebrando un palo para pegarle al perro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xqʼaj jun raqan",
+      "example_spa": "El hombre tiene una pierna fracturada",
+      "dialect": null
+    }
+  ],
+  "uuid": "59bd4bbd-e5a9-4639-8678-4e18c8f492db"
+}

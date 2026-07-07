@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mejejem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblarse; arrodillarse",
+  "definitionDialect": "General",
+  "additional_text": "vt Kamejejik",
+  "examples": [
+    {
+      "example_maya": "Kamejejik xqajik",
+      "example_spa": "Se cayó doblado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri Mariy\" Magdalena kamejejik xqaj chwach ri Jesús rech kuta sachbʼal umak",
+      "example_spa": "María Magdalena se arrodilló ante Jesús, para pedirle perdón por sus pecados",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d4e49c9-de96-46a1-af0e-a1b59036c1c9"
+}

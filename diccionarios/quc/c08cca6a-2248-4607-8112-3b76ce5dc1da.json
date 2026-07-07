@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sukʼubʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enderezar; emparejar; asegurar",
+  "definitionDialect": "general",
+  "additional_text": "vt Kinsukʼubʼaʼ Raiz VT Sukʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xusukʼubʼa ubʼixik chi kabʼe chweʼq pa taqʼaj",
+      "example_spa": "El hombre aseguró que mañana va a ir a la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c08cca6a-2248-4607-8112-3b76ce5dc1da"
+}

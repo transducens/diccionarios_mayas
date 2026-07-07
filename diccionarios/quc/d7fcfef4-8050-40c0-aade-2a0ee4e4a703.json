@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaxlan imul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Conejo de raza o de castilla (los que se crían en granjas)",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li kaxlan imul sibʼalaj saq li rismal",
+      "example_spa": "El conejo tiene el pelaje muy blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7fcfef4-8050-40c0-aade-2a0ee4e4a703"
+}

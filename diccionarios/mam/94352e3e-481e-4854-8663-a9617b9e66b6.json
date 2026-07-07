@@ -1,0 +1,23 @@
+{
+  "entryWord": "XEEʼNAN",
+  "definition": "zancudo",
+  "additional_text": "sz ds us",
+  "examples": [
+    {
+      "example_maya": "Pur a nimal xeʼnan tuj kyaq txʼotxʼ",
+      "example_spa": "Abundan mucho los zancudos en tierra caliente",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Mitiʼyin qakya xeʼnan tuj cheʼw txʼotxʼ",
+      "example_spa": "No hay tantos zancudos en tierra fría",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "94352e3e-481e-4854-8663-a9617b9e66b6",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

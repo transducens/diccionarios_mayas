@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Irse por camino corto, vereda o al lado del camino principal",
+  "definitionDialect": "",
+  "additional_text": "vt Kintzaloh Raíz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Li ixoq na karaj taj kapaqiʼ chwa li paqalik, are karaj kutzaloh",
+      "example_spa": "La mujer no quiere subir por la cuesta, ella quiere irse por otro camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "927d41e4-757c-4241-ab20-8a03542ebb8b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼateʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quemado",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li lij we xa kʼateʼl, na utz taj, xa kʼah",
+      "example_spa": "Si las tortillas están quemadas, son amargas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6b44f00f-4cb6-4ab9-98e9-7a11038d0f20"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼuʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Liso; hacha, machete o cuchillo sin filo; forma como de un pan",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Bʼun",
+  "examples": [
+    {
+      "example_maya": "Li ikaj xa sin bʼuʼn chik",
+      "example_spa": "El hacha ya está muy gastada",
+      "dialect": null
+    }
+  ],
+  "uuid": "daa57e47-e765-41c6-b419-a938eaeb6cac"
+}

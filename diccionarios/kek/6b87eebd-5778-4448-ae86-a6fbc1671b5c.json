@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paach kape",
+  "definition": "Cafetal pache, pachá",
+  "additional_text": "SCL Inpaach kape",
+  "examples": [
+    {
+      "example_maya": "Xchaqʼal ru inkape paach, tzʼajtzʼo li ru chi qʼan",
+      "example_spa": "Mi cafetal pachá, está muy hermoso y bien tupido de frutas maduras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sa xreekʼa li kape naq xtʼaneʼ li habʼ, anaqwan xraxoʼ li xxaq ut xʼok chi elk ratzʼum",
+      "example_spa": "Les cayó bien el agua a los cafetales, se pusieron verdes las hojas y ahora está floreando",
+      "dialect": null
+    }
+  ],
+  "uuid": "6b87eebd-5778-4448-ae86-a6fbc1671b5c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

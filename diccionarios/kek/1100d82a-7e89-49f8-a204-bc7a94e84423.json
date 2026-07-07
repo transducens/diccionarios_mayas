@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼochkʼo",
+  "definition": "Parado, estacionado como vehículo o barco",
+  "additional_text": "P Kʼochobʼank, xinkʼochobʼ, kʼochlaak",
+  "examples": [
+    {
+      "example_maya": "Kʼochkʼo jun munyeek saʼ xbʼeen meex",
+      "example_spa": "Una Muñeca está parada sobre la mesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼiichʼ kʼochkʼo saʼ li bʼe",
+      "example_spa": "El vehículo está estacionado en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "1100d82a-7e89-49f8-a204-bc7a94e84423",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

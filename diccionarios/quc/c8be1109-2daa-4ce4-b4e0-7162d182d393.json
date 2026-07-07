@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqtubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pálido, que no tiene sangre",
+  "definitionDialect": "General",
+  "additional_text": "Adj Sinón Saq majmoj",
+  "examples": [
+    {
+      "example_maya": "Li achih xusok ribʼ xaq saqtubʼ ma kʼih li ukikʼel xelik",
+      "example_spa": "El hombre que se lastimó, está muy pálido porque le salió mucha sangre",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8be1109-2daa-4ce4-b4e0-7162d182d393"
+}

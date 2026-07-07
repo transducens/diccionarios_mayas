@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ismal",
+  "entryWordDialect": null,
+  "altEntryWord": "Rismal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pelo de animal; pluma; plumaje",
+  "definitionDialect": "General",
+  "additional_text": "sInv Raíz S Ism",
+  "examples": [
+    {
+      "example_maya": "Li tzʼikin chiʼl li akʼ xa kismal kʼolik",
+      "example_spa": "Los pájaros y las gallinas tienen plumas",
+      "dialect": null
+    }
+  ],
+  "uuid": "5ea8eb7c-f7b2-4578-bc07-0586aa6e2395"
+}

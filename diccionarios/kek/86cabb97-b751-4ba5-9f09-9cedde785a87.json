@@ -1,0 +1,23 @@
+{
+  "entryWord": "Nyawnotk",
+  "definition": "Maullar",
+  "additional_text": "vi Nanyawnot",
+  "examples": [
+    {
+      "example_maya": "Nayawnot li mes xbʼaan ke",
+      "example_spa": "El gato está maullando por el frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nayawli li mes chi qʼeq saʼ kusiin",
+      "example_spa": "Anoche estaba maullando el gato en la cocina",
+      "dialect": null
+    }
+  ],
+  "uuid": "86cabb97-b751-4ba5-9f09-9cedde785a87",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

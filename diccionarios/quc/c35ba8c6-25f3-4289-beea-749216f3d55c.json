@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼatzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cebra",
+  "definitionDialect": "",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li bʼatzʼ kariqitaj pa Africa",
+      "example_spa": "La cebra se encuentra en Africa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c35ba8c6-25f3-4289-beea-749216f3d55c"
+}

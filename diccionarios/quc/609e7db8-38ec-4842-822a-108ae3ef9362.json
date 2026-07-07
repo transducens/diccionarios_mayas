@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼabʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegarse la comida en la boca; sentir mal sabor a la comida por enfermedad; pronunciar mal las palabras; tartajear",
+  "definitionDialect": "general",
+  "additional_text": "vl Katʼabʼnajik Raíz VT Tʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, xaq katʼabʼnaj li uwa puchiʼ ma xa yawabʼ",
+      "example_spa": "El hombre no le siente sabor a la comida porque está enfermo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, xaq katʼabʼnaj li katzijonik ma xa kʼo yabʼil chech li raqʼ",
+      "example_spa": "El hombre, no pronuncia bien las palabras porque tiene una enfermedad en la lengua",
+      "dialect": null
+    }
+  ],
+  "uuid": "609e7db8-38ec-4842-822a-108ae3ef9362"
+}

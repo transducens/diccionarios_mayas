@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼix",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vergüenza; respeto",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nukʼix Kʼix",
+  "examples": [
+    {
+      "example_maya": "Li alih, kʼo ukʼix chikiwach li komon winaq",
+      "example_spa": "La muchacha tiene vergüenza ante el público",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwesaj nukʼix",
+      "example_spa": "Escandalizo a la gente, me avergüenzo ante la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "55580908-fe77-4746-a58a-d062e18f743f"
+}

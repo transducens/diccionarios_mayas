@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼunun",
+  "entryWordDialect": null,
+  "altEntryWord": "Güitzitzil tzunun",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "bailador que le sigue a tecún human en la conquista",
+  "definitionDialect": "",
+  "additional_text": "snp Var Witzitzil tzʼunun",
+  "examples": [
+    {
+      "example_maya": "Li tzʼunun, are utaqoʼn li Tekum are taq kakichomaj li chʼaʼoj",
+      "example_spa": "Es el embajador de Tecún cuando discuten la guerra",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b71b039-5105-4952-bee6-0ce27a1ccd12"
+}

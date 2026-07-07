@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jaʼmarem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calmarse; suspenderse",
+  "definitionDialect": "",
+  "additional_text": "vi Kajaʼmarik",
+  "examples": [
+    {
+      "example_maya": "Li nimaqʼij xjaʼmarik, xebʼe li ajkʼayibʼ",
+      "example_spa": "La fiesta se calmó, ya se fueron los vendedores",
+      "dialect": null
+    }
+  ],
+  "uuid": "18803533-7aae-42d3-bbee-e4a492f68e3f"
+}

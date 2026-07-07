@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼoqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chilacayote",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuqʼooqʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼih qʼoqʼ tikom pa taq li abʼix",
+      "example_spa": "Hay muchos chilacayotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "1461af60-7f53-4e6d-a419-f92e5c80f862"
+}

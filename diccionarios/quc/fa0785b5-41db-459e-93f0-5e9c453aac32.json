@@ -1,0 +1,19 @@
+{
+  "entryWord": "Stranjeʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Extranjero",
+  "definitionDialect": "",
+  "additional_text": "snp DomS Winaq Del Cast Extranjero",
+  "examples": [
+    {
+      "example_maya": "Li stranjeʼr kawaʼkat chi li choh",
+      "example_spa": "El extranjero pasea por el lago",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa0785b5-41db-459e-93f0-5e9c453aac32"
+}

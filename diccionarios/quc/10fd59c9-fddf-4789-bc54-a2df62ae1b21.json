@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pojnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapojnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido tocando cosa dura o cortando palo con hacha; vagar; andar sin hacer nada",
+  "definitionDialect": "",
+  "additional_text": "vı",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kapojnaj churamixik li jun cheʼ chech ikaj",
+      "example_spa": "El hombre está haciendo ruido al cortar el palo con el hacha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun alah xaq kapojnajik, ma xa maj kuchakuj",
+      "example_spa": "El muchacho vaga sin trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "10fd59c9-fddf-4789-bc54-a2df62ae1b21"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sok",
+  "entryWordDialect": null,
+  "altEntryWord": "Usok",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nido",
+  "definitionDialect": "",
+  "additional_text": "sInv SDS Raíz S Sok",
+  "examples": [
+    {
+      "example_maya": "Li akʼalabʼ xkiqasaj la li usok tzʼikin chwi li cheʼ",
+      "example_spa": "Los niños bajaron del árbol el nido del pájaro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kisok tzʼikin xa uxaq taq qʼayes",
+      "example_spa": "El nido de los pájaros es de hojas de zacate",
+      "dialect": null
+    },
+    {
+      "example_maya": "Usok tew",
+      "example_spa": "Nubes que bajan por la tarde",
+      "dialect": null
+    }
+  ],
+  "uuid": "1a73bfd5-fdb2-44bb-a7da-371c6c8753bf"
+}

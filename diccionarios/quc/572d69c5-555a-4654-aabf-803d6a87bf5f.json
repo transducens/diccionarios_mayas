@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sibʼalaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy; mucho",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Li achajilom sibʼalaj kʼaʼn chuq kuchʼay li rixoqil",
+      "example_spa": "El hombre es muy bravo y le pega a su esposa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj yawabʼ li achih, xa koʼl ma na xkamik",
+      "example_spa": "Estaba muy enfermo el hombre, ya se iba a morir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq alaxbʼal sibʼalaj kaqaj tew nimaqʼabʼ",
+      "example_spa": "En la navidad cae mucho hielo por la madrugada",
+      "dialect": null
+    }
+  ],
+  "uuid": "572d69c5-555a-4654-aabf-803d6a87bf5f"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qumunïk",
+  "definition": "Tomar, beber",
+  "additional_text": "vt Qumuxik, (qumik), ninqüm Qüm var Chobʼonik, tobʼonik",
+  "examples": [
+    {
+      "example_maya": "Taq nichaqiʼj nuchiʼ kʼïy yaʼ ninqüm",
+      "example_spa": "Cuando tengo sed, bebo mucha agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ronojel ri niqum ruyon yaʼ",
+      "example_spa": "Todo lo que se toma es líquido",
+      "dialect": null
+    }
+  ],
+  "uuid": "63b1a989-e659-46b5-9849-8133ef1d7065",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

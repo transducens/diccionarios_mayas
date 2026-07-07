@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzipitzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salido, como pluma de ave o palo en un techo",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Tzip",
+  "examples": [
+    {
+      "example_maya": "Li uxikʼ li akʼ tzipitzik",
+      "example_spa": "La pluma de la gallina está salida",
+      "dialect": null
+    }
+  ],
+  "uuid": "40ae89f2-9e5e-4d13-895a-7b68dc4762f7"
+}

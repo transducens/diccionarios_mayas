@@ -1,0 +1,29 @@
+{
+  "entryWord": "Wonik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encogerse; humillarse; azarearse; acurrucarse",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinwonoh",
+  "examples": [
+    {
+      "example_maya": "Li ul\" kayuquqik chuq kuwon ribʼ",
+      "example_spa": "El hule se estira y se encoge",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are taq xinbʼe pa pixpital xaq sin kinwon wibʼ, maj kinchʼabʼenik",
+      "example_spa": "Cuando fui al hospital me azarié porque ninguno me hablaba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, xaq kuwon ribʼ pa tew",
+      "example_spa": "El hombre se acurruca por el frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "22a02f8f-15d7-4f4b-954b-ab5edededc85"
+}

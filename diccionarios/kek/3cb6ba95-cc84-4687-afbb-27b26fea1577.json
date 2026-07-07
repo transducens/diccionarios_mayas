@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼilonk",
+  "definition": "Llevar de la mano, andar de la mano",
+  "additional_text": "VTD Xinchʼilo",
+  "examples": [
+    {
+      "example_maya": "Xinchʼilo chaq li wiitzʼin naq xoonumeʼ chaq saʼ li nimaʼ",
+      "example_spa": "Le agarré la mano a mi hermano cuando pasábamos sobre el río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼilonk ibʼ",
+      "example_spa": "Andar de la mano",
+      "dialect": null
+    }
+  ],
+  "uuid": "3cb6ba95-cc84-4687-afbb-27b26fea1577",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

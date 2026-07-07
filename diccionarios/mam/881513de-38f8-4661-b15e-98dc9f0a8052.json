@@ -1,0 +1,23 @@
+{
+  "entryWord": "A",
+  "definition": "Es una palabra con la cual se da el aviso a otro al escuchar un ruido o la voz de alguien",
+  "additional_text": "af ah",
+  "examples": [
+    {
+      "example_maya": "A, ma nqʼajt xjal jlaj",
+      "example_spa": "Ah, allá está gritando la persona, de aquel lado",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿A, alkye nẍutʼan?",
+      "example_spa": "¿Ah, quién está silbando?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "881513de-38f8-4661-b15e-98dc9f0a8052",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

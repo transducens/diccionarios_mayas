@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chuchuxel",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchuchuxel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chuchuxel (capitana de la cofradía)",
+  "definitionDialect": "",
+  "additional_text": "sinv",
+  "examples": [
+    {
+      "example_maya": "Li chuchuxel kʼakʼ li u poʼt",
+      "example_spa": "El güipil de la capitana de la cofradía es nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3067581f-5318-460b-bc06-02509fd756e5"
+}

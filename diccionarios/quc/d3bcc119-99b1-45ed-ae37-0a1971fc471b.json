@@ -1,0 +1,34 @@
+{
+  "entryWord": "Kaqiqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viento; aire; Lacandón en el baile de la conquista; ataque (enfermedad)",
+  "definitionDialect": "General",
+  "additional_text": "SnP SCL Nima kaqiqʼ jabʼ Chubasco; viento de lluvia SCL Saqʼijal kaqiiqʼ Viento de verano Sinón Jikaak Var Uxlabʼ Raíz Adj Kaq Raíz S Iiqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kaqiqʼ are oj kʼasbʼannaq",
+      "example_spa": "El aire da vida a todos los seres",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kaqiqʼ chkixoʼl li konkist kukoj pulumah",
+      "example_spa": "El Lacandón en el baile de la conquista usa plumas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nima kaqiqʼ jabʼ kubʼan pa qʼalaj kuqasaj cheʼ",
+      "example_spa": "En invierno el viento y la lluvia botan árboles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saqʼijal kaqiqʼ maj jabʼ chpam, chema kuqasaj cheʼ",
+      "example_spa": "El viento del verano no tiene lluvia pero bota árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "d3bcc119-99b1-45ed-ae37-0a1971fc471b"
+}

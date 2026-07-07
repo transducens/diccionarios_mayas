@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chʼaʼk",
+  "definition": "Llaga o úlcera",
+  "additional_text": "sInv Nuchʼaʼk Chʼakïr Volverse llaga Yabʼil",
+  "examples": [
+    {
+      "example_maya": "Ri chʼaʼk yalan itzel yabʼil",
+      "example_spa": "La úlcera es muy mala enfermedad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chʼak jun yabʼil (ruyon) püj nikʼojeʼ chupan",
+      "example_spa": "La llaga es una enfermedad que tiene materia adentro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri waqän xa chöj xujös jun xikʼaʼy, xubʼän pe chʼaʼk",
+      "example_spa": "Un varejón me raspó el pie y se me volvió llaga",
+      "dialect": null
+    }
+  ],
+  "uuid": "f917b45a-8f6a-48d2-bf58-dd4f8ab4d97a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

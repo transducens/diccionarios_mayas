@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qulqubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortado con asperezas; disparejo",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Qulquʼx Raíz VT Qul",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ maj uwareh xaq qulqubʼ kubʼan cheh li cheʼ",
+      "example_spa": "El machete sin filo, corta mal los palos",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d8894d2-5cdb-4659-a488-3a2d23995c3a"
+}

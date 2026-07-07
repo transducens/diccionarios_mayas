@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xuluxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxuluj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deshojar verduras; quitar hojas o troncos de plantas",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Xul",
+  "examples": [
+    {
+      "example_maya": "Kinxuluj na li muchʼ, ma kapoqʼow chi li tʼuʼy",
+      "example_spa": "Voy a deshojar el chipilín, porque ya está hirviendo el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9613f16-ca8f-4352-bee8-8dced0c875ec"
+}

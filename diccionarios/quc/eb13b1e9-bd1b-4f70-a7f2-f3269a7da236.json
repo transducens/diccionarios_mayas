@@ -1,0 +1,19 @@
+{
+  "entryWord": "Telah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutela",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tela para marimba",
+  "definitionDialect": "general",
+  "additional_text": "scv Coment Membrana de coche que se coloca en los cajones de la marimba Del Cast Tela",
+  "examples": [
+    {
+      "example_maya": "We maj telah, cheh jun qʼojom na utz ta kachʼawik",
+      "example_spa": "Si una marimba no tiene tela no suena bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb13b1e9-bd1b-4f70-a7f2-f3269a7da236"
+}

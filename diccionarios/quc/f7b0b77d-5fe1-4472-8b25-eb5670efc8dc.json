@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzatz",
+  "entryWordDialect": null,
+  "altEntryWord": "Utzatzil, xtzatzarik (i)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espeso",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz Adj Tzatz",
+  "examples": [
+    {
+      "example_maya": "We sibʼalaj tzatz li qʼor na karaj ta qumuxik",
+      "example_spa": "Si el atol está muy espeso es difícil beberlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f7b0b77d-5fe1-4472-8b25-eb5670efc8dc"
+}

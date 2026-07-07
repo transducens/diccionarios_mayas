@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yuchuyik",
+  "definition": "Arrugado doblado en desorden: tela o papel rizado",
+  "additional_text": "AdjD var Yochoyik",
+  "examples": [
+    {
+      "example_maya": "Ri chʼakulaj täq yalan nirijix, yuchuyik nubʼän",
+      "example_spa": "El cuerpo cuando envejece, se pone arrugado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kan yuchuyik ri jun nukaslon ri xinyüch",
+      "example_spa": "Está bien fruncido mi pantalón que surcí",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ixoqiʼ wawe manäq kan ta yuchuyik ri kuq",
+      "example_spa": "Los cortes de las mujeres de este lugar no son tan plegados",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc0830e9-9849-474e-a11c-335232f8655f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

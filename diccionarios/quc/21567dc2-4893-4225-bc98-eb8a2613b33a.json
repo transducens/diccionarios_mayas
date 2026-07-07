@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzʼanaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una palmada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Tzʼan",
+  "examples": [
+    {
+      "example_maya": "Li alah, xuya jutzʼanaj qʼabʼ chupalaj li alih",
+      "example_spa": "El muchacho, le dio una palmada en la cara a la muchacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "21567dc2-4893-4225-bc98-eb8a2613b33a"
+}

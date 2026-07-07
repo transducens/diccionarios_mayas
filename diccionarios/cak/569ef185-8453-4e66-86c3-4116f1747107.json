@@ -1,0 +1,33 @@
+{
+  "entryWord": "Meqʼën",
+  "definition": "Caliente",
+  "additional_text": "Adj Rumeqʼenal, xmeqʼenär Ant Tew, chʼichʼ (chʼuchʼ) var Qʼaqʼ, kʼatän,",
+  "examples": [
+    {
+      "example_maya": "Ri yaʼ meqʼën chïk",
+      "example_spa": "El agua ya está caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq nitzuʼn jebʼël ri qʼij ronojel jebʼël nimeqʼeʼ",
+      "example_spa": "Cuando alumbra bien el sol se pone bien caliente todo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nuyaʼ meqʼën chïk",
+      "example_spa": "Mi agua ya está caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa meqʼën",
+      "example_spa": "En la zona tropical",
+      "dialect": null
+    }
+  ],
+  "uuid": "569ef185-8453-4e66-86c3-4116f1747107",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

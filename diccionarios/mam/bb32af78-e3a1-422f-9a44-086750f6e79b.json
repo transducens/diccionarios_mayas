@@ -1,0 +1,18 @@
+{
+  "entryWord": "KAAXAT",
+  "definition": "guardar en cofres",
+  "additional_text": "vt kaxal te, kaxan, ma nkaxaya, ma bʼaj nkaxana del español caja",
+  "examples": [
+    {
+      "example_maya": "¿Kbʼelax kaxat xbʼalan?",
+      "example_spa": "¿Se va a guardar la ropa en el cofre?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "bb32af78-e3a1-422f-9a44-086750f6e79b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,33 @@
+{
+  "entryWord": "Chaabʼil",
+  "definition": "Bueno, amable, gentil, bien portado, fértil",
+  "additional_text": "Adj Xchaabʼiloʼ, xchaabʼilal",
+  "examples": [
+    {
+      "example_maya": "Laj Xep chaabʼil saʼ li xkʼanjel",
+      "example_spa": "José es muy amable en su trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chaabʼil chʼochʼ",
+      "example_spa": "Tierra fértil",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chaabʼil kutan",
+      "example_spa": "Buen tiempo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chaabʼil naʼlebʼ",
+      "example_spa": "Buena costumbre",
+      "dialect": null
+    }
+  ],
+  "uuid": "83d1a8aa-561a-4c7f-a8f0-3a6903f6e597",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,33 @@
+{
+  "entryWord": "Rupam",
+  "definition": "Fondo de algún objeto, grosor, interior Superficie de la casa, camaza de una fruta",
+  "additional_text": "ssp Taq",
+  "examples": [
+    {
+      "example_maya": "Taq nijik rupam jun bʼojoʼy, nibʼïx chi näq ütz ta",
+      "example_spa": "Dicen que no es bueno limpiar el fondo de la olla para comer",
+      "dialect": null
+    },
+    {
+      "example_maya": "yalan nïm rupam jun cheʼ kʼayew ruchoyïk",
+      "example_spa": "Cuando un árbol es muy grueso, cuesta cortarlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pa jöbʼ yalan räx rupam ri wachoʼ",
+      "example_spa": "En invierno es muy húmedo el interior de mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri rupam ri bʼojoʼy xkʼat",
+      "example_spa": "El cotenido de la olla se quemó",
+      "dialect": null
+    }
+  ],
+  "uuid": "f550c7c2-c45d-4f8a-8fdf-1078a0556403",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Li",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "La, el, los y las",
+  "definitionDialect": "",
+  "additional_text": "Art",
+  "examples": [
+    {
+      "example_maya": "Li tem kʼo pa jah",
+      "example_spa": "La silla está en la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "75618bda-1aee-40be-afda-c62f07d96af4"
+}

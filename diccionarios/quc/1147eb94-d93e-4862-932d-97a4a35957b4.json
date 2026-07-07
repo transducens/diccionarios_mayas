@@ -1,0 +1,24 @@
+{
+  "entryWord": "Worik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agujerear; hacer hoyos; perforar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinworoh Var Teqʼuxik",
+  "examples": [
+    {
+      "example_maya": "Kinwor na li tzʼalam cheh worbʼal",
+      "example_spa": "Voy a perforar la tabla con el trépano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nimabʼaj kʼo pa li bʼeh, katajin kaworik, ma xa kaporoxik",
+      "example_spa": "Están agujereando a la piedra grande que está en el camino, porque van a dinamitarla",
+      "dialect": null
+    }
+  ],
+  "uuid": "1147eb94-d93e-4862-932d-97a4a35957b4"
+}

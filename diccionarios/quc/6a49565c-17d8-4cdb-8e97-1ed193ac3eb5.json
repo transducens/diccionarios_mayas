@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuxín (fruta parecida a la paterna)",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nutzʼaʼy Raíz S Tzʼaʼy",
+  "examples": [
+    {
+      "example_maya": "Li tzʼaʼy pa miqʼina juyubʼ kakʼiy wih, rax kakaʼyik, li ubʼaqʼ qʼeq kakaʼyik",
+      "example_spa": "El cuxín crece en tierra caliente, es de color verde, la pepita es de color negro",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a49565c-17d8-4cdb-8e97-1ed193ac3eb5"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼaxem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼaxik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cruzar; pasar de un lado a otro; trasladarse",
+  "definitionDialect": "es",
+  "additional_text": "vI Fbas //Qʼahx// Var Qʼataneem Var Oʼoweem",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kʼax uqʼaxik pa li bʼinel jaʼ ma nim",
+      "example_spa": "A la mujer le cuesta cruzar el río porque es muy hondo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih kʼo reqaʼn qʼaxem kubʼan pa li ubʼe chʼichʼ",
+      "example_spa": "El hombre con carga va a cruzar la carretera",
+      "dialect": null
+    }
+  ],
+  "uuid": "201b30af-e151-4d3e-8486-fa9af0abae35"
+}

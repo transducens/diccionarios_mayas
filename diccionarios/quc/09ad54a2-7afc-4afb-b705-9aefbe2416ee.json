@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kajaryal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calle principal; parque",
+  "definitionDialect": "",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Chwach li kajar\"yal kʼo wi li qʼatbʼal tzij",
+      "example_spa": "Frente al parque está el juzgado",
+      "dialect": null
+    }
+  ],
+  "uuid": "09ad54a2-7afc-4afb-b705-9aefbe2416ee"
+}

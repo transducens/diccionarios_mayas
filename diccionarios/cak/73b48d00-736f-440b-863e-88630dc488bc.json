@@ -1,0 +1,28 @@
+{
+  "entryWord": "Moy",
+  "definition": "Ciego",
+  "additional_text": "Adj Rumoyil, xmoyïr",
+  "examples": [
+    {
+      "example_maya": "Jun winäq moy kʼayew nukʼowsaj ri rukʼaslen",
+      "example_spa": "Una persona ciega pasa su vida difícilmente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri moyiʼ ja ri ri winäq ri ma yetzuʼun ta",
+      "example_spa": "Los ciegos son las personas que no miran",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin xmoyïr jun runaqʼ nuwäch ruma yabʼil",
+      "example_spa": "Yo soy ciego de un ojo por una enfermedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "73b48d00-736f-440b-863e-88630dc488bc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

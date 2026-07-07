@@ -1,0 +1,23 @@
+{
+  "entryWord": "At",
+  "definition": "Tú, usted, vos",
+  "additional_text": "Pron Segunda persona singular en VI y en estativo",
+  "examples": [
+    {
+      "example_maya": "¿Ma yajat wiʼ chik laaʼat?",
+      "example_spa": "¿Usted, ya está enfermo otra vez?",
+      "dialect": null
+    },
+    {
+      "example_maya": "At in qaawaʼ",
+      "example_spa": "Tú eres mi Dios",
+      "dialect": null
+    }
+  ],
+  "uuid": "716c6764-86ad-4060-b031-63a72553aa2b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

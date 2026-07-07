@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼoxinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacerse nudo (hilo o lazo); anudarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kakʼoxinik Raíz VT Kʼox",
+  "examples": [
+    {
+      "example_maya": "Li uchij li alih xkʼoxinik",
+      "example_spa": "El hilo de la muchacha se hizo nudo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ukolobʼ li ajsiwil xkʼoxinik, na kakowin ta chukirik",
+      "example_spa": "El lazo del leñador se hizo nudo, no lo puede desatar",
+      "dialect": null
+    }
+  ],
+  "uuid": "8bbcd9c7-053b-4f28-b706-12f087da9311"
+}

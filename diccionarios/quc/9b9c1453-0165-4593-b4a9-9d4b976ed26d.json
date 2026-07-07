@@ -1,0 +1,19 @@
+{
+  "entryWord": "Majanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmajanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener pulso para apuntar con arma",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VT Maj",
+  "examples": [
+    {
+      "example_maya": "Li kʼaqanel sibʼalaj kamajan chekʼaqik chkop",
+      "example_spa": "El cazador tiene buen pulso para cazar animales",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b9c1453-0165-4593-b4a9-9d4b976ed26d"
+}

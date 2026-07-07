@@ -1,0 +1,19 @@
+{
+  "entryWord": "Perpwaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chotacabras; cuerporruín",
+  "definitionDialect": "",
+  "additional_text": "snP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li perpwaq kebʼixan pa taq koresm",
+      "example_spa": "El cuerporruín canta en el tiempo de cuaresma",
+      "dialect": null
+    }
+  ],
+  "uuid": "703c089d-4fec-40a7-9248-ba2d0aa2becf"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼunutʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tunco (sin dedos una persona; es insulto); despuntado",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Tʼuʼn Raíz PT Tʼun",
+  "examples": [
+    {
+      "example_maya": "Li utzʼibʼabʼal li achih xa tʼunutʼik",
+      "example_spa": "El lápiz del hombre está sin punta",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d24d1ac-0626-4e66-91dd-6d2e98334a90"
+}

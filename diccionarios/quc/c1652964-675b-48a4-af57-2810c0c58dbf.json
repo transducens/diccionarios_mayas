@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼakakem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Patear el caballo",
+  "definitionDialect": "",
+  "additional_text": "VID Kabʼakakik Raíz VI Bʼak",
+  "examples": [
+    {
+      "example_maya": "Li kej sibʼalaj xbʼakakik are taq xaqʼanisax li reqaʼn",
+      "example_spa": "El caballo pateó mucho cuando le pusieron la carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1652964-675b-48a4-af57-2810c0c58dbf"
+}

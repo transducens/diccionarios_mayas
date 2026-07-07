@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼabʼachʼatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer cosas",
+  "definitionDialect": "General",
+  "additional_text": "VI Kachʼabʼachʼatik Raíz VI Chʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li aq kachʼabʼachʼatik are taq kawaʼik",
+      "example_spa": "El cerdo hace ruido al comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2d28737-435e-4ab1-ad9a-7d8c651b4670"
+}

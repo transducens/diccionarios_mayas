@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼuyulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentado",
+  "definitionDialect": "",
+  "additional_text": "p Xtʼuyiʼk, xutʼuyubʼaʼ Raíz P Tʼuy",
+  "examples": [
+    {
+      "example_maya": "Li alkalteh pa qʼatbʼaltzij, tʼuyulik are taq xujopanik",
+      "example_spa": "Cuando llegamos a la municipalidad el alcalde estaba sentado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih tʼuyul pa li xilaʼ",
+      "example_spa": "El hombre está sentado en la silla",
+      "dialect": null
+    }
+  ],
+  "uuid": "c9510d7a-80ad-4fe7-bd4a-7c7cfb736e5b"
+}

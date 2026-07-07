@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajichar",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajichar",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zaranda de cuero que sirve para cernir el trigo; mi zaranda",
+  "definitionDialect": "",
+  "additional_text": "sInv Var Alneʼr",
+  "examples": [
+    {
+      "example_maya": "Li nujiʼ xuqaj le wajichar",
+      "example_spa": "Mi yerno me prestó la zaranda",
+      "dialect": null
+    }
+  ],
+  "uuid": "e62cf144-8911-4c9b-a295-d3307c3ba159"
+}

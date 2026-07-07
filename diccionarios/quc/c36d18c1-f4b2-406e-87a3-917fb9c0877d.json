@@ -1,0 +1,24 @@
+{
+  "entryWord": "Waqaqexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kuwaqaqej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morder, solo para animales",
+  "definitionDialect": "",
+  "additional_text": "VTD",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xuwaqaqej li akʼal",
+      "example_spa": "El perro mordió mucho al niño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼuʼjatzʼiʼ xuwaqaqej li jun chi tzʼiʼ",
+      "example_spa": "El perro con rabia mordió al otro perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "c36d18c1-f4b2-406e-87a3-917fb9c0877d"
+}

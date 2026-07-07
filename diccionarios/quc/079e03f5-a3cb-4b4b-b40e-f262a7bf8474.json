@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tutzʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katutzʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar animal de trompa larga",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz P Tutzʼ",
+  "examples": [
+    {
+      "example_maya": "Li chkop katutzʼnaj utzaʼm pa li qʼayes",
+      "example_spa": "El animal de trompa larga anda entre la hierva",
+      "dialect": null
+    }
+  ],
+  "uuid": "079e03f5-a3cb-4b4b-b40e-f262a7bf8474"
+}

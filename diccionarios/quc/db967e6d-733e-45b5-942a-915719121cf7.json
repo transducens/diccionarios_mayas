@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chuqnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachuqnajík",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cansarse al comenzar una cuesta; andar un baboso",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Chuq",
+  "examples": [
+    {
+      "example_maya": "Li sin riʼjachih xaq kachuqnaj chwa li paqalik",
+      "example_spa": "El pobre viejito se cansa en la cuesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "db967e6d-733e-45b5-942a-915719121cf7"
+}

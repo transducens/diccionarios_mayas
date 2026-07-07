@@ -1,0 +1,23 @@
+{
+  "entryWord": "Naʼajil",
+  "definition": "Lo mismo, igual",
+  "additional_text": "sInv Innaʼajil",
+  "examples": [
+    {
+      "example_maya": "Saʼ xnaʼajil aj wiʼ li yaj",
+      "example_spa": "El enfermo está lo mismo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼaʼ ninʼusa saʼ innaʼjil ajwiʼ naq naweekʼa",
+      "example_spa": "No me he recuperado lo siento igual que antes",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd0649f3-4427-46ad-8370-d36180a53153",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

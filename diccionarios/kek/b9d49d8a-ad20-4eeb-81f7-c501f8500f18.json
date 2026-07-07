@@ -1,0 +1,23 @@
+{
+  "entryWord": "Numik",
+  "definition": "Pasada de pintura, mano de pintura, momento de pasar",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Kaʼ numik nanumsiman li bʼon chi ru li tzʼak",
+      "example_spa": "La pared necesita dos pasadas de pintura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ innumik saʼ kʼayiil toxinnumeʼ loqʼ li wixim",
+      "example_spa": "Al pasar por el mercado voy a comprar maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "b9d49d8a-ad20-4eeb-81f7-c501f8500f18",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xutʼink",
+  "definition": "Envolver varias veces, arrugar",
+  "additional_text": "VTD Xinxuti",
+  "examples": [
+    {
+      "example_maya": "Xinxutʼi tiqwal pixtun saʼ tʼikr, re na inkʼaʼ tkehoʼq",
+      "example_spa": "Envolví los pixtones en la servilleta para que no se enfríaran",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ma xutʼi ru li hu",
+      "example_spa": "No arrugue los papeles",
+      "dialect": null
+    }
+  ],
+  "uuid": "1e013334-0385-410f-949d-1bb045dd8fbd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

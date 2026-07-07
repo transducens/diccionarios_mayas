@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tulül",
+  "definition": "Zapote",
+  "additional_text": "sInv Nutulül Munibʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri tulül jun munibʼäl xa xe pa meqʼmöj taq ulew nel wi, jebʼël kiʼ titij",
+      "example_spa": "El zapote es una fruta que sólo se da en los lugares tropicales y es bien sabroso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tulul kʼaqoʼj rupan, jebʼel kiʼ",
+      "example_spa": "El apazote es de color café por dentro y es dulce",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tulül man nel ta pa tew ulew",
+      "example_spa": "El zapote no se da en tierra fría",
+      "dialect": null
+    }
+  ],
+  "uuid": "eda46b15-8713-41a3-b7a1-e38a82230e7e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

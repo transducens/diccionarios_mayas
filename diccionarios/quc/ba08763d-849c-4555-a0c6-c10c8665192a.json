@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar desabotonada la camisa",
+  "definitionDialect": "",
+  "additional_text": "vi Kapakʼnajik Raíz VT Pakʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq kapakʼnaj li ukamiʼx chwach ukʼuʼx",
+      "example_spa": "La camisa del muchacho está desabotonada",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba08763d-849c-4555-a0c6-c10c8665192a"
+}

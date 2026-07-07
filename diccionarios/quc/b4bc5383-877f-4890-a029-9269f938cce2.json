@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼisik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼisoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Terminar; acabar; gastar",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Kʼis",
+  "examples": [
+    {
+      "example_maya": "Li alah, uchak tajin kukʼisoh, are karaj kuxlanik",
+      "example_spa": "El muchacho está terminando su trabajo, quiere descansar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal na karaj taj kukʼis li ukape",
+      "example_spa": "El niño no quiere terminarse el café",
+      "dialect": null
+    }
+  ],
+  "uuid": "b4bc5383-877f-4890-a029-9269f938cce2"
+}

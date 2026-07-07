@@ -1,0 +1,29 @@
+{
+  "entryWord": "Bʼachʼuʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empapado: pelaje de animales o personas, marchito, marchitado, machucado",
+  "definitionDialect": "General",
+  "additional_text": "Adj SCL SCL Sinón Bʼakʼuʼy Sinón",
+  "examples": [
+    {
+      "example_maya": "Li abʼix bʼachʼuʼy ma maj jabʼ",
+      "example_spa": "La milpa está marchita porque no hay lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼachʼuʼyalaj winaq",
+      "example_spa": "Persona muy flaca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼachʼuʼyalaj kej",
+      "example_spa": "Bestia muy flaca",
+      "dialect": null
+    }
+  ],
+  "uuid": "f96a2229-d8d8-4520-8c2a-a84b6224e8de"
+}

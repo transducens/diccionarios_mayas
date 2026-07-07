@@ -1,0 +1,18 @@
+{
+  "entryWord": "T-XMAAKAL WIINTAN",
+  "definition": "flor de izote (es comestible)",
+  "additional_text": "scl t-xmakal nwintana raíz xmaʼk s raíz wintan s ds bʼech",
+  "examples": [
+    {
+      "example_maya": "Bʼaʼn tchonjtz t-xmakal wintan",
+      "example_spa": "La flor de izote es comestible",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f54abb81-3a19-40ad-a46f-5a2e710dc11e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

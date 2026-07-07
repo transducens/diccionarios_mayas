@@ -1,0 +1,28 @@
+{
+  "entryWord": "Ik",
+  "definition": "Chile",
+  "additional_text": "sInv Wik Ik, qʼutumal",
+  "examples": [
+    {
+      "example_maya": "Ri ik nuya rukiʼil ri qʼutuʼn",
+      "example_spa": "El chile le da sabor a la comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rikʼin ri ik nbʼan wi ri chilmol",
+      "example_spa": "Con el chile se hace el chirmol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ik jubʼaʼ ma rikʼin ronojel ri qʼutuʼn ntok (nok) wi",
+      "example_spa": "El chile casi en todas las comidas se echa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f31f6e92-8152-4f5b-ac3e-e169adb8215f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

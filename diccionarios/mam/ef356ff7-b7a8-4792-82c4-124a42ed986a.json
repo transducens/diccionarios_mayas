@@ -1,0 +1,18 @@
+{
+  "entryWord": "OOR",
+  "definition": "hora",
+  "additional_text": "s1 nʼora frases: waʼlan or medio día, media noche del español hora",
+  "examples": [
+    {
+      "example_maya": "Maʼ pon or tuʼn qwaʼn qʼany",
+      "example_spa": "Ya llegó la hora para que comamos vos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ef356ff7-b7a8-4792-82c4-124a42ed986a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

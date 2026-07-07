@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼixtuʼla akʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gallina enferma con las plumas paradas",
+  "definitionDialect": "General",
+  "additional_text": "scL Raíz S Kʼii Raíz S Akʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kʼo jun ukʼixtuʼla akʼ",
+      "example_spa": "La mujer tiene una gallina con las plumas paradas",
+      "dialect": null
+    }
+  ],
+  "uuid": "57b51a4d-a552-4d70-8428-7b30babc2c29"
+}

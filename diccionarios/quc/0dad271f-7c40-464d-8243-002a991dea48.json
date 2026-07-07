@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luqʼuqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desinflada: pelota; caída: ala de sombrero o las hojas de plantas",
+  "definitionDialect": "es",
+  "additional_text": "Adj Raiz P Luqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kikʼ xaq luqʼuqʼ",
+      "example_spa": "La pelota está desinflada",
+      "dialect": null
+    }
+  ],
+  "uuid": "0dad271f-7c40-464d-8243-002a991dea48"
+}

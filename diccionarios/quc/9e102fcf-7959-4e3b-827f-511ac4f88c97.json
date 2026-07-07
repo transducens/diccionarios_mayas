@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼaranik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dejar una cosa vacía, como cartera",
+  "definitionDialect": "Spanish",
+  "additional_text": "p Stzʼariʼk, xutzʼarabʼaʼ Raíz PT Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutzʼarabʼa kan li ukarteʼr chwi li chakatebʼ",
+      "example_spa": "El hombre dejó la cartera vacía sobre la mesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e102fcf-7959-4e3b-827f-511ac4f88c97"
+}

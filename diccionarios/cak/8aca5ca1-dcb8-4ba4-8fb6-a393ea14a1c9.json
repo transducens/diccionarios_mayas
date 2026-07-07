@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wäy",
+  "definition": "Tortill, pan",
+  "additional_text": "scv Nuway Kaxlanwäy Pan Wäy",
+  "examples": [
+    {
+      "example_maya": "Ja ri wäy nqatij täq yojnüm",
+      "example_spa": "Comemos tortilla cuando tenemos hambre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Röj kan xaxe wi ök ri wäy oj kʼasbʼayon",
+      "example_spa": "Nosotros sólo de las tortillas vivimos",
+      "dialect": null
+    }
+  ],
+  "uuid": "8aca5ca1-dcb8-4ba4-8fb6-a393ea14a1c9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

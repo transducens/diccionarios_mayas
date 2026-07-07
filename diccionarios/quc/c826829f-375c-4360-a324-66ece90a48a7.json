@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comida hecha de masa; alimentación en general",
+  "definitionDialect": "",
+  "additional_text": "scv Nuwaa DomS Wah",
+  "examples": [
+    {
+      "example_maya": "Li rixoqil li patron xuya kiwa li umokom",
+      "example_spa": "La esposa del patrón dio de comer a sus mozos",
+      "dialect": null
+    }
+  ],
+  "uuid": "c826829f-375c-4360-a324-66ece90a48a7"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "NEBʼEBʼAL",
+  "definition": "comida, alimento",
+  "additional_text": "s1 nnebʼebʼala raíz nebʼ vt",
+  "examples": [
+    {
+      "example_maya": "Baqa jak txiʼ tnebʼebʼal wuʼna",
+      "example_spa": "Acaso puedo comerme el alimento de él",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Pur kʼokʼj chʼin nebʼebʼal xbʼaj tuʼn",
+      "example_spa": "Estaba sabroso un poco de comida que se acabó él",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7b52e04c-8684-4a5e-834e-a009860eb290",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

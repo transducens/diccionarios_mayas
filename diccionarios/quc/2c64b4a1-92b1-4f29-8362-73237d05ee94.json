@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uyajubʼiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apodo o sobre nombre",
+  "definitionDialect": "general",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li alah, xa uyajubʼiʼ kabʼixik",
+      "example_spa": "Al muchacho le llaman por su sobre nombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c64b4a1-92b1-4f29-8362-73237d05ee94"
+}

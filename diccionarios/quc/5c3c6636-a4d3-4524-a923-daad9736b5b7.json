@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matzʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xmatzʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fácil de mascar cosa tostada",
+  "definitionDialect": "",
+  "additional_text": "P Raíz P Matzʼ",
+  "examples": [
+    {
+      "example_maya": "Li kaxlaʼn we utz ukʼilixik kabʼanik matzʼalik",
+      "example_spa": "Las habas bien tostadas, son fáciles de mascar",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c3c6636-a4d3-4524-a923-daad9736b5b7"
+}

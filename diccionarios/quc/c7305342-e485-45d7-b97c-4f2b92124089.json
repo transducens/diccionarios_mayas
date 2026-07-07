@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yukʼuyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pescuezudo por enfermedad, enflaquecimiento, o también para animales como el chompipe",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Yukʼ",
+  "examples": [
+    {
+      "example_maya": "Li yowabʼ sibʼalaj yukʼuyik li uqul ma na karaj ta uwa",
+      "example_spa": "El enfermo está pescuezudo porque no come",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li noʼs yukʼuyik li uxul",
+      "example_spa": "El chompipe es pescuezudo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7305342-e485-45d7-b97c-4f2b92124089"
+}

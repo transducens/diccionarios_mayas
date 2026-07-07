@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tebʼetobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katebʼetobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caerse cosa pesada",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz PT Tebʼ",
+  "examples": [
+    {
+      "example_maya": "Li pima tzʼalam xtebʼetobʼ puliw",
+      "example_spa": "La tabla gruesa se cayó",
+      "dialect": null
+    }
+  ],
+  "uuid": "90d2c6ce-6e77-4428-9766-4c7f3da51ba7"
+}

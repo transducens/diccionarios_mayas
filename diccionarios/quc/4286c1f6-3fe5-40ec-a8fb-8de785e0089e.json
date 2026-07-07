@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqkʼoskʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Duro: tierra limpia de hierbas",
+  "definitionDialect": "",
+  "additional_text": "PC Raíz Adj Kaq Raíz P Kʼos",
+  "examples": [
+    {
+      "example_maya": "Li uwa jah sibʼalaj kaqkʼoskʼoj",
+      "example_spa": "El patio de la casa es de tierra dura",
+      "dialect": null
+    }
+  ],
+  "uuid": "4286c1f6-3fe5-40ec-a8fb-8de785e0089e"
+}

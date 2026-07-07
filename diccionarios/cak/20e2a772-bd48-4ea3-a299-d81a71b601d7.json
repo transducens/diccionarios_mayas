@@ -1,0 +1,23 @@
+{
+  "entryWord": "Karneʼl",
+  "definition": "Oveja, carnero, cordero",
+  "additional_text": "sInv Nukarneʼl (karnela) sinón Chiʼj Awäj, chiköp Carnero",
+  "examples": [
+    {
+      "example_maya": "Ri rismal karneʼl (chiʼj) nok chi nibʼan kʼul",
+      "example_spa": "La lana de la oveja sirve para hacer ponchos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xsach jun nukarneʼl",
+      "example_spa": "Se me perdió una oveja",
+      "dialect": null
+    }
+  ],
+  "uuid": "20e2a772-bd48-4ea3-a299-d81a71b601d7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

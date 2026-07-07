@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzernajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzernajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con vestido roto (insulto)",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Tzer",
+  "examples": [
+    {
+      "example_maya": "Li saqwiʼn katzernaj pa jun qʼeʼl atzʼyaq",
+      "example_spa": "El gracejo anda con un vestido roto",
+      "dialect": null
+    }
+  ],
+  "uuid": "abd95f5b-93af-4568-ad06-e9612a03a013"
+}

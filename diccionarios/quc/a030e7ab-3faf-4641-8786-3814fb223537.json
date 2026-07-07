@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqʼos",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sauce",
+  "definitionDialect": "",
+  "additional_text": "sInv Nusaqʼoos Raíz S Saqʼoos DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Chuchiʼ li bʼinel jaʼ kʼo jun saqʼos",
+      "example_spa": "En la orilla del río hay un sauce",
+      "dialect": null
+    }
+  ],
+  "uuid": "a030e7ab-3faf-4641-8786-3814fb223537"
+}

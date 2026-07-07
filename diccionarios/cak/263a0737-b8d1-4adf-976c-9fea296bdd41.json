@@ -1,0 +1,28 @@
+{
+  "entryWord": "Läq",
+  "definition": "Taza para comida, trasto",
+  "additional_text": "scv Nulaq Kʼojlibʼäl, ulew, chʼichʼ",
+  "examples": [
+    {
+      "example_maya": "Chupan ri läq niyaʼ wi ri qʼutuʼn",
+      "example_spa": "En la taza se echa la comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nulaq xupaxij ri nukʼajol",
+      "example_spa": "Mi taza la quebró mi hijo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri läq nikʼatzin chiqe richin kʼo niqatij kʼo niqaqüm chupan",
+      "example_spa": "Los trastos nos sirven para comer y beber en ellos",
+      "dialect": null
+    }
+  ],
+  "uuid": "263a0737-b8d1-4adf-976c-9fea296bdd41",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

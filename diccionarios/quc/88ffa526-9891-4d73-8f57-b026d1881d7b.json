@@ -1,0 +1,19 @@
+{
+  "entryWord": "Meʼsa kinaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinaqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frijol pinto",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "SCL Numeʼsa kinaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Luʼ xutik meʼsa kinaqʼ",
+      "example_spa": "Pedro sembró frijoles pintos",
+      "dialect": null
+    }
+  ],
+  "uuid": "88ffa526-9891-4d73-8f57-b026d1881d7b"
+}

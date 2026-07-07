@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sobʼosik",
+  "definition": "Hundidos: los ojos",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Jun sobʼosik runaqʼ ruwa achin laʼ, janíla janina royowal",
+      "example_spa": "Ese hombre de ojos hundidos, es muy enojado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun winäq yaʼ chi pamaj chire chöj taq sobʼosik nunaqʼ ruwa natzʼët",
+      "example_spa": "Una persona que padece de diarrea tiene los ojos hundidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c98d812-0288-4a4c-a94c-654f58c875f0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼakeʼt",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cincho; mi cincho",
+  "definitionDialect": "",
+  "additional_text": "SInv Nubʼakeʼt Del Cast Vaqueta",
+  "examples": [
+    {
+      "example_maya": "Li achih xuloqʼ jun kʼakʼ bʼakeʼt",
+      "example_spa": "El hombre compró un cincho nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "64e7b751-0fdb-496f-8da0-393a6a7f4949"
+}

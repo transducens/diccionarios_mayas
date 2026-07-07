@@ -1,0 +1,19 @@
+{
+  "entryWord": "Amaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wamaqʼ nutinamit",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nación, país, pueblo extranjero",
+  "definitionDialect": "",
+  "additional_text": "s",
+  "examples": [
+    {
+      "example_maya": "Li wamaqʼ ubiʼ Guatemala",
+      "example_spa": "Mi país se llama Guatemala",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f318cf7-8a47-4185-86b9-2a2df23e2e92"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Malakʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmalakʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pelar, cortar con instrumento de mucho filo",
+  "definitionDialect": "general",
+  "additional_text": "v TD Raíz VT Mal",
+  "examples": [
+    {
+      "example_maya": "Li muruh xaq xumalakʼij li qʼayes ma kʼo uwareh",
+      "example_spa": "El machete corta fácilmente la hierba porque tiene mucho filo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9d36264-47f4-4670-a60f-084da91b049b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qachixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar carne, adobe o tierra; tajar cosa suave",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinqachiij",
+  "examples": [
+    {
+      "example_maya": "Maj kʼax kinqachij li tiʼij ma kʼo uware li kuchiʼl",
+      "example_spa": "No me cuesta cortar la carne porque el cuchillo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a0417851-8b79-4d2b-b96d-71f2930a891a"
+}

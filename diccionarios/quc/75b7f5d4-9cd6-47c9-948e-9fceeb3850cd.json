@@ -1,0 +1,34 @@
+{
+  "entryWord": "Kʼis",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Completamente; todo; sólo",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Li ankineʼy kʼis xeqʼayik",
+      "example_spa": "Todos los bananos se pudrieron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼis xaʼr",
+      "example_spa": "Sólo vasos (no hay otra cosa)",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼis kʼo wih",
+      "example_spa": "Son distintos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tinamit kʼis jalajoj taq li ukaʼyʼbʼal",
+      "example_spa": "Los paisajes de los pueblos son completamente distintos",
+      "dialect": null
+    }
+  ],
+  "uuid": "75b7f5d4-9cd6-47c9-948e-9fceeb3850cd"
+}

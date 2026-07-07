@@ -1,0 +1,19 @@
+{
+  "entryWord": "Turubʼaxik ibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empaparse, mojarse mucho",
+  "definitionDialect": "Español",
+  "additional_text": "vRef Kinturubʼa wiibʼ Sinón Maabʼaxik iibʼ Raíz P Tur",
+  "examples": [
+    {
+      "example_maya": "Li akʼal, xuturubʼa ribʼ pa li jaʼ",
+      "example_spa": "El niño se empapó en el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "dd6860f1-dbda-46f6-b0e1-cd903bca3801"
+}

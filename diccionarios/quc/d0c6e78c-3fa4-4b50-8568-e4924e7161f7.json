@@ -1,0 +1,19 @@
+{
+  "entryWord": "Gars",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garza",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nugaars DomS Tzʼikin Del Cast Garza",
+  "examples": [
+    {
+      "example_maya": "Iwir xenwil gars chi li choh",
+      "example_spa": "Ayer vi garzas en la orilla del lago",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0c6e78c-3fa4-4b50-8568-e4924e7161f7"
+}

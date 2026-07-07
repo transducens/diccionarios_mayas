@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paatzʼajel",
+  "definition": "Mentado, recordado, mencionado, pedido",
+  "additional_text": "Adj Xpaatzʼajeloʼ, xpaatzʼajelil Var Paatzʼel",
+  "examples": [
+    {
+      "example_maya": "Paatzʼajel xkʼabʼaʼ chi awaʼbʼejil",
+      "example_spa": "Es muy mencionado por ser el presidente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Paatzʼajel aʼan",
+      "example_spa": "Muy recordado",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7a5d607-1262-4d15-8f37-9b314dfa1a01",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

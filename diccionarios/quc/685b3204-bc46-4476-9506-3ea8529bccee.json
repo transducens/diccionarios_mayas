@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tizne",
+  "definitionDialect": "",
+  "additional_text": "SuP",
+  "examples": [
+    {
+      "example_maya": "Li xaq are li sibʼ kakʼiysanik",
+      "example_spa": "El tizne crece por el humo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tʼuʼy sibʼalaj kʼo xaq chrij",
+      "example_spa": "La olla tiene mucho tizne",
+      "dialect": null
+    }
+  ],
+  "uuid": "685b3204-bc46-4476-9506-3ea8529bccee"
+}

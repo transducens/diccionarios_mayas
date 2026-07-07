@@ -1,0 +1,29 @@
+{
+  "entryWord": "Taqik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintaqoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ordenar; mandar; enviar",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Taq",
+  "examples": [
+    {
+      "example_maya": "Li ajkun xa kʼo pa utaqik puqʼabʼ li kunanel",
+      "example_spa": "La enfermera está bajo la orden del doctor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintaq na bʼi li mokom pa loqʼoj",
+      "example_spa": "Voy a mandar al mozo para hacer las compras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintaq na bʼi jun nuwuj",
+      "example_spa": "Voy a enviar una carta",
+      "dialect": null
+    }
+  ],
+  "uuid": "b0407f31-2f3c-40b2-8fe2-2b0d802bddef"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xaqixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxaqij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tiznar",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Xaq",
+  "examples": [
+    {
+      "example_maya": "Li meʼs xuxaqij ribʼ chrij li tʼuʼy",
+      "example_spa": "El gato se tiznó con la olla",
+      "dialect": null
+    }
+  ],
+  "uuid": "e806c3e0-a637-49b5-af8e-238dc2f1b821"
+}

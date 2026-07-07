@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajqʼij",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajqʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacerdote maya; mi sacerdote",
+  "definitionDialect": "General",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼij kuta utzil chiʼl tewechiʼbʼal",
+      "example_spa": "El sacerdote pide tranquilidad y bendición",
+      "dialect": null
+    }
+  ],
+  "uuid": "441f739c-96cf-4e6b-957f-602c6e56da6a"
+}

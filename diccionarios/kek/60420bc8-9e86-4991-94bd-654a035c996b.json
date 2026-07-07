@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sal",
+  "definition": "Jiote, sarna",
+  "additional_text": "SInv Insal",
+  "examples": [
+    {
+      "example_maya": "Sal rix aatzʼiʼ",
+      "example_spa": "Tu perro tiene jiote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xnaq sal chi rix wuqʼ",
+      "example_spa": "Principió a salir jiote en mi brazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "60420bc8-9e86-4991-94bd-654a035c996b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

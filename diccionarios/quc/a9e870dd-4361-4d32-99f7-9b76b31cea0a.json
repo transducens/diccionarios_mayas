@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼacheʼlaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼacheʼlaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bosque",
+  "definitionDialect": "",
+  "additional_text": "sInv var Kʼicheʼlaaj",
+  "examples": [
+    {
+      "example_maya": "Pa li kʼacheʼlaj kʼo nimaq taq cheʼ",
+      "example_spa": "En el bosque hay grandes árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9e870dd-4361-4d32-99f7-9b76b31cea0a"
+}

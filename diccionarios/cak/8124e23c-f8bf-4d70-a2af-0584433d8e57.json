@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tʼayatʼik",
+  "definition": "Tartajo, tartamudo",
+  "additional_text": "AdjD Winäq",
+  "examples": [
+    {
+      "example_maya": "La jun tʼayatʼik achin laʼ, janíla nuchʼäy ri rixjayil",
+      "example_spa": "Ese tartamudo,le pega mucho a su mujer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin kʼo jun wachʼalal choj tʼayatʼik jubʼaʼ, man jebʼel ta nichʼoʼn",
+      "example_spa": "Yo tengo un familiar un poco tartajo, no puede hablar bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "8124e23c-f8bf-4d70-a2af-0584433d8e57",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

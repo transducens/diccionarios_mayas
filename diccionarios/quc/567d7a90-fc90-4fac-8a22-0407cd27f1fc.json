@@ -1,0 +1,29 @@
+{
+  "entryWord": "Jikik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limpiar con los dedos o con tortilla; contar con los dedos o con granos de maíz; ordenar bien el tejido, hilo por hilo",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTR Kinjikoh Raíz VT Jik DomS Kemenik",
+  "examples": [
+    {
+      "example_maya": "Li alih kujik li ukem",
+      "example_spa": "La muchacha está ordenando los hilos del tejido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinjik na li nulaq che uwi taq nuqʼabʼ",
+      "example_spa": "Voy a limpiar mi plato con los dedos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinjik na rij li ukʼas li achih",
+      "example_spa": "Voy a contar cuanto me debe el hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "567d7a90-fc90-4fac-8a22-0407cd27f1fc"
+}

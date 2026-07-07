@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼaslem (kʼaslen)",
+  "definition": "Vida",
+  "additional_text": "sInv Nukʼaslem",
+  "examples": [
+    {
+      "example_maya": "Kʼaslem nibʼïx chi re ri ruyaʼon ri Ajaw chiqe qonojel",
+      "example_spa": "Vida se le dice a lo que nos ha dado nuestro Dios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼaslen, uxnaqil",
+      "example_spa": "Salud y vida",
+      "dialect": null
+    }
+  ],
+  "uuid": "5213ce9f-f40a-4733-84bd-8c6fcb859af5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "BYAAJ",
+  "definition": "viaje",
+  "additional_text": "s1 nbyaja del español viaje",
+  "examples": [
+    {
+      "example_maya": "Tzʼinan nmana, maʼ txiʼ tuj jun tbyaj",
+      "example_spa": "No está mi papá, se fue a un su viaje",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "83a4c8e3-e407-4d54-8b9b-9be9afbf643c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

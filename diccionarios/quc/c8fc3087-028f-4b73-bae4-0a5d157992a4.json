@@ -1,0 +1,44 @@
+{
+  "entryWord": "Kʼamik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomar; aceptar; recibir; traer",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinkʼamoh Raíz VT Kʼam",
+  "examples": [
+    {
+      "example_maya": "Li al Wan karaj kukʼam li a Manwel",
+      "example_spa": "Manuela quiere aceptar a Manuel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal kukʼam li retzʼabʼal xsipax chech",
+      "example_spa": "El niño tomó el juguete que le regalaron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal karaj kukʼam li kasipax chech",
+      "example_spa": "El niño quiere recibir el premio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li Max kuya li pwaq chwech, kinkʼamoh",
+      "example_spa": "Tomás me da dinero, lo acepto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼamik bʼik kʼa te loq",
+      "example_spa": "Llevar (para afuera)",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼamik uloq",
+      "example_spa": "Traerlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8fc3087-028f-4b73-bae4-0a5d157992a4"
+}

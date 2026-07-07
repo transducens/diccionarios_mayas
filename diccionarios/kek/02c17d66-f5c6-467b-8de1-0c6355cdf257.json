@@ -1,0 +1,18 @@
+{
+  "entryWord": "Kurum",
+  "definition": "Cosa que fue cortada en pedazos grandes",
+  "additional_text": "sInv Inkurum",
+  "examples": [
+    {
+      "example_maya": "Ak inkurum chi machet a xtux a o aʼin ut xniman wiʼ chik",
+      "example_spa": "Ya había cortado el retoño de este aguacatal y volvió a crecer",
+      "dialect": null
+    }
+  ],
+  "uuid": "02c17d66-f5c6-467b-8de1-0c6355cdf257",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

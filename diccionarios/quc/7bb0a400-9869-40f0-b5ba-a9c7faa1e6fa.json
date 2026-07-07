@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roqorik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande y flexible, como lazo, corte largo, pantalón grande, bolo o uno que no camina bien",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz PT Roq",
+  "examples": [
+    {
+      "example_maya": "Li utzaʼm li tix, nima roqorik",
+      "example_spa": "La trompa del elefante es muy grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bb0a400-9869-40f0-b5ba-a9c7faa1e6fa"
+}

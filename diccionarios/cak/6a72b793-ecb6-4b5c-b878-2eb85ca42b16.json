@@ -1,0 +1,28 @@
+{
+  "entryWord": "Rachoch ajaw",
+  "definition": "Templo, oratoria, capilla",
+  "additional_text": "sds Sinón Rachoch, tyox, jay ",
+  "examples": [
+    {
+      "example_maya": "Pa ronojel tinamït, kʼo rachoch Ajaw",
+      "example_spa": "En todos los pueblos hay iglesias",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa rachoch ri ajaw yebʼeʼapon xa xe ri nikinimaj chi kʼo Ajaw",
+      "example_spa": "A las iglesias llegan sólo los que creen en Dios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa nutinamit sibʼiläj chi tyox e kʼo pa rachoch Ajaw",
+      "example_spa": "En mi pueblo hay muchas imágenes en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a72b793-ecb6-4b5c-b878-2eb85ca42b16",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

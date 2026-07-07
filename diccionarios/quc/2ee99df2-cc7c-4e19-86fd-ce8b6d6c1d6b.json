@@ -1,0 +1,29 @@
+{
+  "entryWord": "Uliw",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tierra; terreno; bazo",
+  "definitionDialect": "",
+  "additional_text": "sInv Wuleew F Uleew ree comoon Terreno comunal Raíz S Uleew",
+  "examples": [
+    {
+      "example_maya": "Kʼo kajibʼ kaʼam wuliw kʼa te xinloqʼoh",
+      "example_spa": "Tengo cuatro cuerdas de terreno que compré recientemente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xukʼaq uliw puwach li ranabʼ",
+      "example_spa": "El niño le echó tierra en los ojos a su hermana",
+      "dialect": null
+    },
+    {
+      "example_maya": "Uliw ubʼiʼ jun tiʼoj kariqitaj chkipam taq li wakax, qʼeqqʼoj kakaʼyik",
+      "example_spa": "Bazo se le llama a un órgano que se encuentra en el estómago de los ganados, es de color café amarillento",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ee99df2-cc7c-4e19-86fd-ce8b6d6c1d6b"
+}

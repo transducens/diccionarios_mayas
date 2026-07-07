@@ -1,0 +1,19 @@
+{
+  "entryWord": "Abʼixaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sembrar milpa",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinwabʼixaaj",
+  "examples": [
+    {
+      "example_maya": "Li Aluʼ xrabʼixaj li uliw che we junabʼ",
+      "example_spa": "Pedro sembró milpa en el terreno este año",
+      "dialect": null
+    }
+  ],
+  "uuid": "983c2b87-ed70-44ad-81a8-da2336007fdf"
+}

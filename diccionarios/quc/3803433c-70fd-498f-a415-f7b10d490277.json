@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takatobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katakatobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despegarse suela de zapato",
+  "definitionDialect": "",
+  "additional_text": "vt Raiz PT Tak",
+  "examples": [
+    {
+      "example_maya": "Li upa raqan uxajabʼ li achih xtakatobʼik",
+      "example_spa": "La suela del zapato del hombre se despegó",
+      "dialect": null
+    }
+  ],
+  "uuid": "3803433c-70fd-498f-a415-f7b10d490277"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ryatah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reata, lazo muy resistente",
+  "definitionDialect": "",
+  "additional_text": "scv Nuryaataa Del Cast Reata",
+  "examples": [
+    {
+      "example_maya": "Li ryatah, kachokon cheh ximbʼal reqaʼn kej",
+      "example_spa": "La reata sirve para amarrar la carga del caballo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8d740e7-bbf2-43f4-9dd8-c74e8c734b2c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaqabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desobediente",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li alih na karaj taj kaqʼilik, sibalaj chaqabʼ",
+      "example_spa": "La muchacha es muy desobediente y no quiere que la corrijan",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7f540fb-b4e9-43b0-9bb6-ecca5ac6d945"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaqoj trikoh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limpiar trigo después de trillado",
+  "definitionDialect": "General",
+  "additional_text": "SCL",
+  "examples": [
+    {
+      "example_maya": "Li achih, kʼaqoj trikoh kubʼan pa li erah che paloh",
+      "example_spa": "El hombre está limpiando trigo en la era con una pala de madera",
+      "dialect": null
+    }
+  ],
+  "uuid": "49cc656a-da35-443e-a683-acb302acf49d"
+}

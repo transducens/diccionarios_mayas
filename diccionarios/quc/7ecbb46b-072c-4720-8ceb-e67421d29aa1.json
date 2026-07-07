@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼinel jaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Río",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz Vl Bʼihn Raiz S Jaʼ",
+  "examples": [
+    {
+      "example_maya": "Pa taq li bʼineljaʼ kabʼan wi chʼajoʼn",
+      "example_spa": "En el río lavan ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ecbb46b-072c-4720-8ceb-e67421d29aa1"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼijik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aguantar; hacer esfuerzo; obligar",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinchʼijoh PPP Chʼijoom Perdonado VTD Chʼijijexik Aguantar carga pesada Raiz VT Chʼij",
+  "examples": [
+    {
+      "example_maya": "Li alah xuchʼij li alih che tzij",
+      "example_spa": "El muchacho obligó a hablar a la patoja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Siʼs xaq nimaril xuchʼij li reqaʼn ma sibʼalaj al",
+      "example_spa": "Francisco apenas aguantó con la carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d3737f2-7eca-4169-908d-1f60b03f99aa"
+}

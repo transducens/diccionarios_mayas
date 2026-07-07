@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼoxney",
+  "entryWordDialect": null,
+  "altEntryWord": "Nubʼoxney",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Güixnay",
+  "altEntryWordDialect2": null,
+  "definition": "Palabras ceremoniales que usa el pedidor de casamiento",
+  "definitionDialect": "",
+  "additional_text": "scv SCL Saqa bʼoxney, qʼana bʼoxney",
+  "examples": [
+    {
+      "example_maya": "Li bʼoxney sibʼalaj utz katijowik",
+      "example_spa": "El güixnay es bueno comerlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc40ec0a-3490-4013-bfa1-31a05e3e660e"
+}

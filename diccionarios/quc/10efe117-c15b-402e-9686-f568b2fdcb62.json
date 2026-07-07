@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼosiʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼosiʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carda del algodón",
+  "definitionDialect": "",
+  "additional_text": "sInv var Meet Raiz S Qʼos",
+  "examples": [
+    {
+      "example_maya": "Li ixoq qʼosiʼn kubʼanoh, ma kumaj bʼatzʼinik",
+      "example_spa": "La mujer está haciendo la carda del algodón, porque va a comenzar a hilar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼosiʼn are riʼ ri met kaya chwa jun saleʼy chuq kajubʼ cheh kebʼ cheʼ",
+      "example_spa": "La carda del algodón, es cuando se pone en una zalea y se golpea con dos palos",
+      "dialect": null
+    }
+  ],
+  "uuid": "10efe117-c15b-402e-9686-f568b2fdcb62"
+}

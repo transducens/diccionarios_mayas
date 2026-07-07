@@ -1,0 +1,18 @@
+{
+  "entryWord": "SUT",
+  "definition": "acción de dar una vuelta",
+  "additional_text": "af raíz sut",
+  "examples": [
+    {
+      "example_maya": "Sut ẍin jaw bʼixana tuj plas",
+      "example_spa": "“Sut”, giré bailando en la plaza",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c91f3e56-5561-4d69-bd56-29eae28dd50a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Naqajobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acercarse",
+  "definitionDialect": "",
+  "additional_text": "vI Kinnaqajobʼik Raíz Adj Naqaaj",
+  "examples": [
+    {
+      "example_maya": "Li masat xanimajik are taq xnaqajob li tzukunel rukʼ",
+      "example_spa": "El venado huyó cuando se acercaba el cazador",
+      "dialect": null
+    }
+  ],
+  "uuid": "5bd66bd0-b9f1-4bed-8738-86641f90071b"
+}

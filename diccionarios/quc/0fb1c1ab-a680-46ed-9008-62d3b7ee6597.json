@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼutzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer pedazos grandes; patear",
+  "definitionDialect": "general",
+  "additional_text": "VTR Kinbʼutzuh Raíz VT Bʼutz",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj xubʼutz li kaxlanwah",
+      "example_spa": "El niño comió pedazos grandes de pan",
+      "dialect": null
+    }
+  ],
+  "uuid": "0fb1c1ab-a680-46ed-9008-62d3b7ee6597"
+}

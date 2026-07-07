@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ribʼmaʼycem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar como panzudo",
+  "definitionDialect": "General",
+  "additional_text": "vi Karibʼmaʼyik Raíz P Ribʼ",
+  "examples": [
+    {
+      "example_maya": "Li jun wakax karibʼmaʼy upam are taq kabʼinik",
+      "example_spa": "El buey panzudo, se mueve al caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a5310a9-9a8c-4461-acbb-d9e37e1c0101"
+}

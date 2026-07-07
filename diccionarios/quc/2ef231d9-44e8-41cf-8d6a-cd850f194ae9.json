@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jeʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cola",
+  "definitionDialect": "",
+  "additional_text": "SInv Ujeeʼ",
+  "examples": [
+    {
+      "example_maya": "Li ujeʼ li imul are koʼl na chwach li kijeʼ li konojel chkop",
+      "example_spa": "La cola del conejo es más pequeña que la de otros animales",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ef231d9-44e8-41cf-8d6a-cd850f194ae9"
+}

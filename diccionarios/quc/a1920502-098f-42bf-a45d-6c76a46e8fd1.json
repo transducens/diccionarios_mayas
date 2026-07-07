@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼachkatixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinbʼachkatij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Revolver, mezclar chile con verduras",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raiz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xubʼachkatij li ichaj pa ik",
+      "example_spa": "La mujer revolvió las verduras con chile",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Xinbʼachkatix pa ik",
+      "example_spa": "Me regañaron",
+      "dialect": null
+    }
+  ],
+  "uuid": "a1920502-098f-42bf-a45d-6c76a46e8fd1"
+}

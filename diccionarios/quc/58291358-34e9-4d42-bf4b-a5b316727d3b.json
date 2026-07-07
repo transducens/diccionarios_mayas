@@ -1,0 +1,19 @@
+{
+  "entryWord": "Korochocʼh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carpintero de cabeza roja (ave)",
+  "definitionDialect": "",
+  "additional_text": "snP Var Korechech DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li korochocʼh kakiwoqʼ taq cheʼ xuq kaq kijolom",
+      "example_spa": "Los pájaros carpinteros perforan los palos",
+      "dialect": null
+    }
+  ],
+  "uuid": "58291358-34e9-4d42-bf4b-a5b316727d3b"
+}

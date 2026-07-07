@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Walaxik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pariente; mi pariente; nacimiento",
+  "definitionDialect": "SCL. Ch'utiq alaxik. Parientes políticos. Dom.S. Alaxik.",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Le aʼlaxik xkimulij kibʼ are taq xkam le kimam",
+      "example_spa": "Los parientes se reunieron cuando se murió el abuelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "401f8110-3b49-47a3-a6ed-511b65087133"
+}

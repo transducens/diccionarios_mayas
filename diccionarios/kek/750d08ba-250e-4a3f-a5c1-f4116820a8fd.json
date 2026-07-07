@@ -1,0 +1,23 @@
+{
+  "entryWord": "Saʼ xyi",
+  "definition": "En medio de dos cosas",
+  "additional_text": "SR",
+  "examples": [
+    {
+      "example_maya": "Wan saʼ xyihebʼ li pek",
+      "example_spa": "Está en medio de las piedras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ xyi li tzuul xoʼinlubʼq",
+      "example_spa": "Me cansé a la mitad de la cuesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "750d08ba-250e-4a3f-a5c1-f4116820a8fd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

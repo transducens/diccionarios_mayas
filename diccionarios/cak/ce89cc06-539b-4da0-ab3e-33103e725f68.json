@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼakʼaʼ",
+  "definition": "Nuevo",
+  "additional_text": "Adj var Kʼakʼakʼ Ant Riʼj",
+  "examples": [
+    {
+      "example_maya": "Ri nukamixaʼ kʼa kʼakʼaʼ na",
+      "example_spa": "Mi camisa todavía es nueva",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa taq nimaqʼij ruyon kʼakʼa taq kitzyaq nkikusaj ri winäq",
+      "example_spa": "En las fiestas la gente usa sólo ropa nueva",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼakʼaʼ retal tzij",
+      "example_spa": "Nuevo testamento",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce89cc06-539b-4da0-ab3e-33103e725f68",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

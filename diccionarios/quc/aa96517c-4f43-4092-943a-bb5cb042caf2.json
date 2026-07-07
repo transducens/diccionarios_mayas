@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼyaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viaje",
+  "definitionDialect": "",
+  "additional_text": "sInv Nubʼyaaj Del Cast Viaje",
+  "examples": [
+    {
+      "example_maya": "Li achih xbʼe pa byaj",
+      "example_spa": "El hombre se va de viaje",
+      "dialect": null
+    }
+  ],
+  "uuid": "aa96517c-4f43-4092-943a-bb5cb042caf2"
+}

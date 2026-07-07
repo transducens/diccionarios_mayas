@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼelmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachʼelmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con carga pesada",
+  "definitionDialect": "K'iche'",
+  "additional_text": "vi Raiz VT Chʼel",
+  "examples": [
+    {
+      "example_maya": "Li a Kulax kachʼelmaʼy xe eqaʼn",
+      "example_spa": "Nicolás anda con la carga pesada",
+      "dialect": null
+    }
+  ],
+  "uuid": "2411c5e2-ea84-42a1-9670-f487b999b206"
+}

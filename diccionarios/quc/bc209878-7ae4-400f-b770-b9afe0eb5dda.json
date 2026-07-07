@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sanalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Chʼanalik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Rokʼolik",
+  "altEntryWordDialect2": null,
+  "definition": "Desnudo, echada: cosa gruesa, sólida, y algo rolliza",
+  "definitionDialect": "",
+  "additional_text": "p Xsaniʼk, xusanabʼaʼ Sinón Jitʼilik Var Chʼanalik Var Rokʼolik Raíz P San",
+  "examples": [
+    {
+      "example_maya": "Li achih xusanabʼa kan li jun kintal ixim pa jah",
+      "example_spa": "El hombre dejó el costal de maíz en la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li aq xaq kasaniʼ chik, ma xa xchaqʼajik",
+      "example_spa": "El cerdo se mantiene echado porque está muy gordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "bc209878-7ae4-400f-b770-b9afe0eb5dda"
+}

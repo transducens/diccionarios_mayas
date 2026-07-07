@@ -1,0 +1,19 @@
+{
+  "entryWord": "Semeʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusemeʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pan ordinario",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li salwaʼt kʼo staq kʼaj chupam are laʼ bʼanom semeʼt cheh",
+      "example_spa": "Del afrecho que contiene menos harina, se hace el pan ordinario",
+      "dialect": null
+    }
+  ],
+  "uuid": "2fe12f5f-4fc2-4a37-b3a1-ea7cf76907e8"
+}

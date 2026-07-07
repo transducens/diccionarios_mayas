@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Qax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Retazo de tela; madera, pedazo de tela",
+  "definitionDialect": "General",
+  "additional_text": "ssp Uqaax Raíz VT Qax",
+  "examples": [
+    {
+      "example_maya": "Li tʼisol atzʼyaq sibʼalaj kʼi uqax taq atzʼyaq kʼo rukʼ",
+      "example_spa": "El sastre tiene muchos retazos",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd15b629-39ca-442b-a665-734a4d346a62"
+}

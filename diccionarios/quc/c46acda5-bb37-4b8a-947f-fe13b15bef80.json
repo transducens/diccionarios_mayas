@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jurebʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Plasta, cualquier cosa blanda, como masa, barro, etc",
+  "definitionDialect": "general",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li winaq xkaʼn kan jurebʼaj xaqʼoʼl chij li woʼch",
+      "example_spa": "La gente hizo una plasta de lodo espeso atrás de mi casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c46acda5-bb37-4b8a-947f-fe13b15bef80"
+}

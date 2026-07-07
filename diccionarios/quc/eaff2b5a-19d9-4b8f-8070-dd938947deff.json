@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saksapon",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaksapon",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saxofón",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Qʼojoom Del Cast Saxofón",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼojomabʼ kakikoj li saksapon rukʼ li qʼojom",
+      "example_spa": "Los marimbistas ejecutan el saxofón para acompañar a la marimba",
+      "dialect": null
+    }
+  ],
+  "uuid": "eaff2b5a-19d9-4b8f-8070-dd938947deff"
+}

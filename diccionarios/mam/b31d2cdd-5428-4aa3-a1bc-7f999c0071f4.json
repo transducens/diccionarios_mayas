@@ -1,0 +1,23 @@
+{
+  "entryWord": "JTEʼ",
+  "definition": "1 ¿cuánto? 2 ¿qué cantidad? 3 ¿a qué precio?",
+  "additional_text": "pi",
+  "examples": [
+    {
+      "example_maya": "¿Jteʼ pwaq nxiʼ aja qʼilte tuj pink?",
+      "example_spa": "¿Cuánto de dinero vas a ganar en la finca?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Jteʼ twiʼ jun txuchoj tuʼna nan?",
+      "example_spa": "¿A qué precio vendés una chompipa señora?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b31d2cdd-5428-4aa3-a1bc-7f999c0071f4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

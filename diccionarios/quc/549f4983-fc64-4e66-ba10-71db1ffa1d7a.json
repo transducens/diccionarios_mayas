@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼitiʼtachaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estreñimiento; disentería",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz Adj Tzʼitiʼt Raíz S Achaq Yabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li akʼal, sibʼalaj chwi qʼoxom xel kanoq, ma xa uriqom tzʼitiʼtachaq",
+      "example_spa": "El niño sintió mucho dolor al defecar, porque está estreñido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal sibʼalaj sin tzʼitiʼt, ma xa xuriq kaqapamaj",
+      "example_spa": "El niño está muy desnutrido, porque le dio disentería",
+      "dialect": null
+    }
+  ],
+  "uuid": "549f4983-fc64-4e66-ba10-71db1ffa1d7a"
+}

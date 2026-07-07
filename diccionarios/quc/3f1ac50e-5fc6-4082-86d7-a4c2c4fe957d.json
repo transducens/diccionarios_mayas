@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rijaʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Semilla de; raza",
+  "definitionDialect": "es",
+  "additional_text": "ssp Raíz S Ijaʼ",
+  "examples": [
+    {
+      "example_maya": "Li rijaʼal li saqwach, sibʼalaj utz",
+      "example_spa": "La semilla de la papa es muy buena",
+      "dialect": null
+    }
+  ],
+  "uuid": "3f1ac50e-5fc6-4082-86d7-a4c2c4fe957d"
+}

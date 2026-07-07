@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chapel",
+  "definition": "Que se puede agarrar Sustentable",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Ri qʼaqʼ man chapel ta ri yaʼ chapel",
+      "example_spa": "El fuego no se puede agarrar pero el agua sí",
+      "dialect": null
+    },
+    {
+      "example_maya": "La qʼoralëj achin laʼ man jun chïk chapel chi re",
+      "example_spa": "Ese hombre haragán ya no tiene con qué mantenerse",
+      "dialect": null
+    }
+  ],
+  "uuid": "d429ab67-d1e3-490b-8f64-c6fb483160d6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

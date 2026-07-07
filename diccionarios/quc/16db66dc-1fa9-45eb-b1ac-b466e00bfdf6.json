@@ -1,0 +1,19 @@
+{
+  "entryWord": "Poqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ampolla",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Yabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li poqʼ kakʼiy che li upa qʼabʼaj xuq li upaqanaj",
+      "example_spa": "Las ampollas crecen en las manos y en los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "16db66dc-1fa9-45eb-b1ac-b466e00bfdf6"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kaxlan ixin (Ixin)",
+  "definition": "Trigo Palabra no muy usual",
+  "additional_text": "cl Tikoʼn",
+  "examples": [
+    {
+      "example_maya": "Ri kaxlan ixin jun tikoʼn nïm rejqalen",
+      "example_spa": "El trigo es una siembra de valor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Re kaxlan ixin, xpe la pa jun ruwachʼulew Grecia nibʼiʼ",
+      "example_spa": "El trigo es originario de un país que se llama Grecia",
+      "dialect": null
+    }
+  ],
+  "uuid": "bef417e5-c839-4899-8e37-02bf0b1274a4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

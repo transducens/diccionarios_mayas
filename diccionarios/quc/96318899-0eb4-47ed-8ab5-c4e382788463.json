@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼatuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "chʼatixik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer tapexco para plantas; usar como cama una cosa",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinchʼatuuj (kinchʼatiij)",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kuchʼatuj li chʼimah",
+      "example_spa": "El hombre está haciéndole un tapexco al güisquilar",
+      "dialect": null
+    }
+  ],
+  "uuid": "96318899-0eb4-47ed-8ab5-c4e382788463"
+}

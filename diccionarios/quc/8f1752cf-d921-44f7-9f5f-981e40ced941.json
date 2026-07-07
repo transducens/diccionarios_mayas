@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼikmayixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rodar cosas, personas o animales",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinchʼikmayiij Raiz P Chʼik",
+  "examples": [
+    {
+      "example_maya": "Kinchʼikmayij bʼi li jun nima abʼaj pa li swan",
+      "example_spa": "Voy a rodar la piedra grande al barranco",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f1752cf-d921-44f7-9f5f-981e40ced941"
+}

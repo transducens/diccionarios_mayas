@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jukubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canoa para navegar; batea de piedra, algo cuadrada y ahuecada donde se ponen los alimentos de los cerdos; bebedero",
+  "definitionDialect": "",
+  "additional_text": "sInv Nujukuubʼ Var Kanoow/",
+  "examples": [
+    {
+      "example_maya": "Li jukubʼ xtzaq chwi li choh",
+      "example_spa": "La canoa se cayó al lago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jukubʼ kabʼix che jun abʼaj kikiwoʼqbʼej aq",
+      "example_spa": "Una piedra ahuecada donde comen los cerdos",
+      "dialect": null
+    }
+  ],
+  "uuid": "9fbeba77-dd5f-46d3-8cdc-4eea819633ca"
+}

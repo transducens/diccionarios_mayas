@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mayayem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamayayik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer eco; sentir dolor en el cuerpo por enfermedad",
+  "definitionDialect": "",
+  "additional_text": "VI Var Xojlineem Raíz VI May",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kamayay utzʼeʼnem li koj pa li swan",
+      "example_spa": "El rugido del león hace eco en el barranco",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6f028fa-c4e4-4918-9f7a-820b2034cff6"
+}

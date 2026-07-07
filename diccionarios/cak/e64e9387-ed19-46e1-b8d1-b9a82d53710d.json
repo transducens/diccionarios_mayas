@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼuxunïk",
+  "definition": "Desgastar, comer, roer",
+  "additional_text": "vt Kʼuxuxik, ninkʼux var Kʼupunik, tijinïk, kʼux",
+  "examples": [
+    {
+      "example_maya": "Ri wos (jos) xukʼux ronojel ruwiʼ ruteleʼn nukamixaʼ",
+      "example_spa": "La cortadora le desgastó todo el hombro a mi camisa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nukostal xukʼüx chʼoy",
+      "example_spa": "Mi saco se lo comió el ratón",
+      "dialect": null
+    }
+  ],
+  "uuid": "e64e9387-ed19-46e1-b8d1-b9a82d53710d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

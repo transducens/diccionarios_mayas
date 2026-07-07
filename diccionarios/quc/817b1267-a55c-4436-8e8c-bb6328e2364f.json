@@ -1,0 +1,24 @@
+{
+  "entryWord": "=Qʼabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Contribución; medida; división en partes iguales",
+  "definitionDialect": "es",
+  "additional_text": "ssP Raíz S Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Katzaq nuqʼabal",
+      "example_spa": "Agarró sin permiso; pegó o golpeó sin avisar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xukoj uqʼabʼal",
+      "example_spa": "Tocar o tomar sin permiso",
+      "dialect": null
+    }
+  ],
+  "uuid": "817b1267-a55c-4436-8e8c-bb6328e2364f"
+}

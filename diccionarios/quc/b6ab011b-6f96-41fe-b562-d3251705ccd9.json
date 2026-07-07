@@ -1,0 +1,29 @@
+{
+  "entryWord": "Jas",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Qué?",
+  "definitionDialect": "",
+  "additional_text": "Interr Interr PartD var Jaasa var Jaas var Jasa",
+  "examples": [
+    {
+      "example_maya": "Jas kuxik",
+      "example_spa": "¿Qué es?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jas ubʼiʼ",
+      "example_spa": "¿Cómo se llama?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jas na kʼut",
+      "example_spa": "Saber que es, quien sabe",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6ab011b-6f96-41fe-b562-d3251705ccd9"
+}

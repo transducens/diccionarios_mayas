@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuwet",
+  "entryWordDialect": null,
+  "altEntryWord": "kwet",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cubeta; balde",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "sInv Nukuweet (nukweet) DomS Chʼiichʼ Del Cast Cubeta",
+  "examples": [
+    {
+      "example_maya": "Li kuwet kachokon che erebʼal joron",
+      "example_spa": "La cubeta se usa para acarrear agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c14108b-4020-424b-864b-4f064f1fc666"
+}

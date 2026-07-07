@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼuqʼulajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vomitar",
+  "definitionDialect": "general",
+  "additional_text": "vi Kabʼuqʼulajik Raíz PT Bʼuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xumajij bʼuqʼulajem",
+      "example_spa": "El hombre empezó a vomitar",
+      "dialect": null
+    }
+  ],
+  "uuid": "e0030dee-e19f-4245-8dda-70e8547ce6fe"
+}

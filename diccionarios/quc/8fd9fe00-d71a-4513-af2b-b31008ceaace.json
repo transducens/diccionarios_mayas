@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taknajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kataknajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cojear levantando un poco el tacón",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tak",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kataknajik ma xa kʼax jun raqan",
+      "example_spa": "El hombre anda cojeando porque le duele uno de los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "8fd9fe00-d71a-4513-af2b-b31008ceaace"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pe ta",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Que venga",
+  "definitionDialect": "General",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Pe ta achih chwa woʼch kintzijon na rukʼ",
+      "example_spa": "Que venga el hombre a mi casa, quiero platicar con él",
+      "dialect": null
+    }
+  ],
+  "uuid": "41ba3ea4-cc07-4b5c-adfb-7f64e14447b2"
+}

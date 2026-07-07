@@ -1,0 +1,28 @@
+{
+  "entryWord": "Rubʼru",
+  "definition": "Marchitado, marchito, oscuro como el día, nublado",
+  "additional_text": "Adj Xrubʼeʼ, xrubʼruhil",
+  "examples": [
+    {
+      "example_maya": "Rubʼru li uutzʼuʼuj, xyaʼal traj",
+      "example_spa": "La flor está marchitada, necesita agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kutan ak rubʼru",
+      "example_spa": "El día ya está obscuro por tantas nubes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rubʼru li choql chalk re li habʼ",
+      "example_spa": "Está nublado ya va a llover",
+      "dialect": null
+    }
+  ],
+  "uuid": "00c4b229-3ae5-4183-8319-79767988967a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

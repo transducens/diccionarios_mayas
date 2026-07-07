@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tukʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse los huesos",
+  "definitionDialect": "Katuk'najik.",
+  "additional_text": "vi Raíz P Tukʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ are taq xekʼojiʼ ral xaq katukʼnaj chi li bʼaq chech",
+      "example_spa": "Cuando nació la cría, la perra se enflaqueció",
+      "dialect": null
+    }
+  ],
+  "uuid": "4690aa05-4948-4e46-973f-1f7bae65e87a"
+}

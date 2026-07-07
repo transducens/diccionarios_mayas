@@ -1,0 +1,18 @@
+{
+  "entryWord": "MAYAN TINK",
+  "definition": "zopilote de cabeza roja",
+  "additional_text": "scl sin mayan kʼoʼẍ, loẍ kʼutz ds chʼit",
+  "examples": [
+    {
+      "example_maya": "Pur labʼaj tchiʼ nimal mayan tink nbʼaj",
+      "example_spa": "El zopilote de cabeza roja sólo come culebras",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8f40a22f-186c-465f-9e6b-30bbaa76847d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

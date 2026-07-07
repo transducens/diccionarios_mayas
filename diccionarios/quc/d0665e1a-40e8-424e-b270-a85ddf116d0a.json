@@ -1,0 +1,24 @@
+{
+  "entryWord": "Saqbʼacheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbusto cuyo fruto se parece al frijol blanco; frijol blanco",
+  "definitionDialect": "",
+  "additional_text": "sc DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Kebʼ uwach chi saqbʼacheʼ, kʼo pa tewa juyubʼ xuq kʼo pa taqʼaj",
+      "example_spa": "Hay dos clases de este arbusto, uno de tierra fría y otro de tierra caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li saqbʼacheʼ kʼo uwach je kape saqatubʼin",
+      "example_spa": "Este arbusto tiene frutos parecidos al frijol blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0665e1a-40e8-424e-b270-a85ddf116d0a"
+}

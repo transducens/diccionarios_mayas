@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼawachʼatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ladrar (perro pequeño)",
+  "definitionDialect": "",
+  "additional_text": "vi Kachʼawachʼatik",
+  "examples": [
+    {
+      "example_maya": "Li sin laj tzʼiʼ xaq kachʼawachʼatik",
+      "example_spa": "El perrito ladra mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "41d18a7c-7c99-4d02-bbd2-0fa9927b48fa"
+}

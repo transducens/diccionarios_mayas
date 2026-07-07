@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼinikʼoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar lira o xilófono, marimba",
+  "definitionDialect": "Spanish",
+  "additional_text": "VT Kinkʼinikʼaʼ Raiz VI Kʼin",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan kukʼinikʼaʼ li kʼalawacheʼ",
+      "example_spa": "Juan hace sonar la marimba",
+      "dialect": null
+    }
+  ],
+  "uuid": "39b786c1-34a2-4a4e-8548-f1eaed863380"
+}

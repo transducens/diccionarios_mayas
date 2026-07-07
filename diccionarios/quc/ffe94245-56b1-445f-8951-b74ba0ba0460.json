@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quchuʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar con serrucho",
+  "definitionDialect": "",
+  "additional_text": "VI Kaquuchuʼpik Raíz VT Quuch",
+  "examples": [
+    {
+      "example_maya": "Li a Kux katajin kaquchuʼp chech li cheʼ",
+      "example_spa": "Marcos está cortando la madera con el serrucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "ffe94245-56b1-445f-8951-b74ba0ba0460"
+}

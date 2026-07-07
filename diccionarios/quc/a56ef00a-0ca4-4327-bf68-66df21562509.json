@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chiyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bajar cerezas con palo",
+  "definitionDialect": "General",
+  "additional_text": "VTR Kinchiyoh Sinón Bʼeejik Var Chiyilik",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuchiy li kʼoxkʼabʼel che li cheʼ",
+      "example_spa": "El niño bajó cerezas con el palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a56ef00a-0ca4-4327-bf68-66df21562509"
+}

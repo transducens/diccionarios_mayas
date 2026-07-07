@@ -1,0 +1,23 @@
+{
+  "entryWord": "=UʼJAL",
+  "definition": "documento de terreno o de identificación, escritura de terreno, fe de edad",
+  "additional_text": "sy tuʼjal, wuʼjala raíz uʼj s",
+  "examples": [
+    {
+      "example_maya": "¿Jtoja kubʼ tuʼjal ttxʼotxʼaya?",
+      "example_spa": "¿Cuándo hiciste la escritura de tu terreno?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Maʼ chi kyaj naj wuʼjala tuj tnam",
+      "example_spa": "Se quedaron perdidos mis documentos de identificación en el pueblo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "1bb47111-3eb4-4802-8c53-8897c5c16254",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

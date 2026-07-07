@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼotzik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼotzoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Meter hojas dobladas en una olla para cocerlas; ganar la pelea por algo",
+  "definitionDialect": "",
+  "additional_text": "vtr Raiz VT Qʼotz",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kuqʼotz li uxaq li repoʼy pa li tʼuʼy",
+      "example_spa": "La mujer está doblando las hojas para meterlas a la olla",
+      "dialect": null
+    }
+  ],
+  "uuid": "77f9dc0f-cfa8-45a8-ade5-9cc8d01a85fa"
+}

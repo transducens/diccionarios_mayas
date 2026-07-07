@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼaleem",
+  "definition": "Roza",
+  "additional_text": "SInv Inkʼaleem",
+  "examples": [
+    {
+      "example_maya": "Toj wan inkʼaleem",
+      "example_spa": "Todavía tengo roza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun kʼaam chik inkʼaleem wan",
+      "example_spa": "Todavía tengo una tarea de roza",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ea33e4d-7d06-47eb-a831-8e01e33e124c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

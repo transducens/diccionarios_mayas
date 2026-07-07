@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kopixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apurar caballos, puyándolos o pegándoles",
+  "definitionDialect": "",
+  "additional_text": "vTD Kinkopiij Raíz VT Kop",
+  "examples": [
+    {
+      "example_maya": "Kinkopij jun cheʼ chupam li kej",
+      "example_spa": "El caballo se apura, puyándolo con un palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "179eaf81-c20a-4653-800a-1a556a8dd532"
+}

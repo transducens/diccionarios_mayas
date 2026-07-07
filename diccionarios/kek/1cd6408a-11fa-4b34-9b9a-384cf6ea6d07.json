@@ -1,0 +1,28 @@
+{
+  "entryWord": "Patzʼok",
+  "definition": "Mentar, preguntar, pedir",
+  "additional_text": "VTR Xinpatzʼ",
+  "examples": [
+    {
+      "example_maya": "Chepatzʼaq usilal saʼ xbʼeenebʼ eeras eeriitzʼin",
+      "example_spa": "Piden favor para sus prójimos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Patzʼok chi ru li loqʼlaj tzuul li loqʼlaj taqʼa",
+      "example_spa": "Rogar o pedir permiso al cerro sagrado, al valle sagrado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Patzʼok toʼ",
+      "example_spa": "Pedir préstamo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1cd6408a-11fa-4b34-9b9a-384cf6ea6d07",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

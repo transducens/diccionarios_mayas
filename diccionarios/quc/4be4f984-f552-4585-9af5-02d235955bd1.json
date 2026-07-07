@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waliʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nawaliʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fruta que se vende en esquipulas, se echa en las manos para evitar las rajaduras, pinta de color morado o algo azul, tiene forma parecida al limón y no es comestible",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li winaq kepe chwa Skepul\" kakisipaj waʼ we waliʼ",
+      "example_spa": "La gente que viene de romería de Esquipulas, regala esta fruta",
+      "dialect": null
+    }
+  ],
+  "uuid": "4be4f984-f552-4585-9af5-02d235955bd1"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxkʼel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Culebra chocoyo; verde (color perico)",
+  "definitionDialect": "",
+  "additional_text": "SnP Raíz Adj Rax Raíz S Kʼel DomS Kumatz",
+  "examples": [
+    {
+      "example_maya": "Li raxkʼel are laʼ jun kumatz tyoʼnel xuq kakamsanik, rax li rij",
+      "example_spa": "El chocoyo es una culebra venenosa, de color verde",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc077f10-257b-40fe-bc5f-981ac34553f8"
+}

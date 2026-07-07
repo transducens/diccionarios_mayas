@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nokʼokʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnokʼokʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar despacio",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz VT Nokʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kunokʼokʼej li ubʼinem pa li abʼaj",
+      "example_spa": "El hombre camina despacio entre las piedras",
+      "dialect": null
+    }
+  ],
+  "uuid": "b01fbea1-d8a5-41cb-a9f2-877392466633"
+}

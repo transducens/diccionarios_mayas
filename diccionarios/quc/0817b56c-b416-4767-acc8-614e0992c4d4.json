@@ -1,0 +1,24 @@
+{
+  "entryWord": "Etzelaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despreciar; maldecir; aborrecer; rechazar; abandonar",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinwetzelaj Raiz S Iitz",
+  "examples": [
+    {
+      "example_maya": "Li tat junelik xretzelaj li ralkʼuʼal",
+      "example_spa": "El papá despreció a su hijo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwetzelaj kan li uliw, ma xa na utz taj",
+      "example_spa": "Este terreno no es bueno, por eso lo aborrezco",
+      "dialect": null
+    }
+  ],
+  "uuid": "0817b56c-b416-4767-acc8-614e0992c4d4"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mes",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mesa",
+  "definitionDialect": "",
+  "additional_text": "SInv Numees Sinón Wankeʼt DomS Chokonisaʼn Del Cast Mesa",
+  "examples": [
+    {
+      "example_maya": "Li ajanel tajin kukʼayij mes pa kʼayʼbʼal",
+      "example_spa": "El carpintero vende mesas en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "8efee54f-0110-4b44-91fb-bbb725e5b385"
+}

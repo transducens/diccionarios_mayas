@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mortom",
+  "definition": "Azulejo, mayordomo (de cofradías)",
+  "additional_text": "sInv Numortóm",
+  "examples": [
+    {
+      "example_maya": "Re mortom ronojel ri rij xar, nirilibʼej riʼ kikʼin ri chʼutaq üs",
+      "example_spa": "El azulejo es todo de color azul y se alimenta de mosquitos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ajpatan kʼo e wolajuj rumortom",
+      "example_spa": "El cofrade tiene quince mayordomos",
+      "dialect": null
+    }
+  ],
+  "uuid": "88521631-2d81-45f5-bbff-54e540e2f357",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

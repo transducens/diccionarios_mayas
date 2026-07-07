@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHIIP",
+  "definition": "chivo, cabro",
+  "additional_text": "s1 nchipa del español chivo ds alemaj",
+  "examples": [
+    {
+      "example_maya": "Baqa chʼiʼn chi tokan nimal chip",
+      "example_spa": "Pelean mucho los chivos",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Eex poyqʼaj yek tibʼ tchip tuj jun bʼocj",
+      "example_spa": "Se cayó diego encima de su cabro en una hondulada",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "4f4c55ab-aeb7-44e2-ad8a-582f3e01814a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

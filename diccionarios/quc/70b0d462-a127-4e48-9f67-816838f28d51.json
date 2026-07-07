@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼinoxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Remojar tortilla en comida o pan en café",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintʼinooj Raiz S Tʼinobʼal Porción pequeña de comida (chirmol) Raiz VT Tʼin",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kutʼinoj li rikil chech li lij",
+      "example_spa": "El niño remoja la tortilla en la comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintʼinoj li puchʼuʼm cheh nusubʼ",
+      "example_spa": "Remojo mi tamal en el chirmol",
+      "dialect": null
+    }
+  ],
+  "uuid": "70b0d462-a127-4e48-9f67-816838f28d51"
+}

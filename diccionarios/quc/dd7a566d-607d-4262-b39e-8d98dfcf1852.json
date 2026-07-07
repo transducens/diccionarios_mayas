@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xakʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brazada (medida)",
+  "definitionDialect": "",
+  "additional_text": "Med",
+  "examples": [
+    {
+      "example_maya": "Jun xakʼabʼ raqan li kolobʼ",
+      "example_spa": "El lazo tiene una brazada de largo",
+      "dialect": null
+    }
+  ],
+  "uuid": "dd7a566d-607d-4262-b39e-8d98dfcf1852"
+}

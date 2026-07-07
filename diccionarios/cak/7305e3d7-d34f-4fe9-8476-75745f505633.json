@@ -1,0 +1,23 @@
+{
+  "entryWord": "Posol",
+  "definition": "Pozol",
+  "additional_text": "sInv Nuposol sinón Puruj",
+  "examples": [
+    {
+      "example_maya": "Ri posol ja riʼ ri nikitïj taq alajiʼ äkʼ",
+      "example_spa": "El pozol es lo que comen los pollitos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri posol,chi re ri tzʼoʼ nel wi",
+      "example_spa": "El pozol se saca del nixtamal",
+      "dialect": null
+    }
+  ],
+  "uuid": "7305e3d7-d34f-4fe9-8476-75745f505633",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

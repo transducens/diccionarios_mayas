@@ -1,0 +1,28 @@
+{
+  "entryWord": "Mesebʼäl (mesenbʼäl)",
+  "definition": "Escoba",
+  "additional_text": "scv Numesebʼal Cheʼ, qʼayis",
+  "examples": [
+    {
+      "example_maya": "Ri ixoqiʼ jantapeʼ kʼo kimesebʼal pa kachoch",
+      "example_spa": "Las mujeres siempre tienen escoba en sus casas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan kʼatzinel chike konojel ri winäq ri mesenbʼäl",
+      "example_spa": "La escoba es muy útil para todas las personas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chanin (xrelej) xjar ri numesebʼal",
+      "example_spa": "Se gastó luego mi escoba",
+      "dialect": null
+    }
+  ],
+  "uuid": "67e9fade-a927-4940-8b6c-da4c39721521",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

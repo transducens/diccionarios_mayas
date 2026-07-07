@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pelar; despellejar; descascarar; limpiar tablones de trigo, milpa o verduras",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinchʼoloh Adj Chʼolochʼik Pelado, risueño (despectivo) VI Chʼololeem Pelarse fácilmente VT Chʼololexik Pelar bien; arremangar bien VT Chʼoliixik Pelar, despegar Raíz VT Chʼol",
+  "examples": [
+    {
+      "example_maya": "Li alanxax nabʼe kinchʼol li rij, te riʼ kintijoh",
+      "example_spa": "Voy a pelar la naranja, para comérmela",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih chʼoloj ribʼ li qʼeʼt xubʼanoh",
+      "example_spa": "El hombre limpió una parte del tablón muy rápido",
+      "dialect": null
+    }
+  ],
+  "uuid": "04aac0b0-894c-497f-877d-b7b631a85ef0"
+}

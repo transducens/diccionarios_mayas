@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resto de algo ya escogido",
+  "definitionDialect": "Spanish",
+  "additional_text": "s Raíz VT Chaʼ",
+  "examples": [
+    {
+      "example_maya": "Li ankineʼy xinloqʼo xa chaʼbʼal chik",
+      "example_spa": "Compré el resto de los guineos",
+      "dialect": null
+    }
+  ],
+  "uuid": "b81fb6e9-7d8d-46a9-9549-cba18a272928"
+}

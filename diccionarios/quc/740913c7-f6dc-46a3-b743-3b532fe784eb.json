@@ -1,0 +1,34 @@
+{
+  "entryWord": "Wikiqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mano derecha; derecha",
+  "definitionDialect": "",
+  "additional_text": "scv Nuwikiqʼaabʼ DomS Bʼaqilaj",
+  "examples": [
+    {
+      "example_maya": "Puwikiqʼabʼ uyaʼom wi rasaron li achih",
+      "example_spa": "El hombre tiene el azadón a la derecha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winaq are taq kakibʼan li kiqʼabʼ are li kiwikiqʼabʼ kakikojoh",
+      "example_spa": "Cuando la gente se persigna usa la mano derecha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chaya pa wikiqʼabʼ",
+      "example_spa": "Ponelo a la derecha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chaya li amolqʼabʼ pa wikiqʼabʼ",
+      "example_spa": "Ponete el anillo en la derecha",
+      "dialect": null
+    }
+  ],
+  "uuid": "740913c7-f6dc-46a3-b743-3b532fe784eb"
+}

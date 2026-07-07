@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kumuk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gradas; cúpula",
+  "definitionDialect": "",
+  "additional_text": "SnP",
+  "examples": [
+    {
+      "example_maya": "Li qʼaʼm jah rech tikal kumuk li uwach",
+      "example_spa": "Los templos de Tikal tienen muchas gradas",
+      "dialect": null
+    }
+  ],
+  "uuid": "5fa859db-4714-48f2-aba3-27f2dc5eaa89"
+}

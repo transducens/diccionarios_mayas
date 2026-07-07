@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yamayatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer persona sin dientes",
+  "definitionDialect": "",
+  "additional_text": "Kayamayatik Raíz VT Yam",
+  "examples": [
+    {
+      "example_maya": "Li nimaq taq winaq nimaril keyamayatik, ma xa maj chi sin kiwareh",
+      "example_spa": "Los ancianitos apenas comen porque ya no tienen dientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "db3ed269-db5f-4448-a55f-cdb936a15962"
+}

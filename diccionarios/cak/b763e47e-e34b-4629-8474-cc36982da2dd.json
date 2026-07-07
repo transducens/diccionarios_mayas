@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼukunik",
+  "definition": "Mentir, empezar un negocio o un trabajo, inventar",
+  "additional_text": "vt Tzʼukuxik, nintzʼük Tzʼük",
+  "examples": [
+    {
+      "example_maya": "Iwir xintzʼuk tzij chuwäch nata",
+      "example_spa": "Ayer mentí ante mi padre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xintzʼük qa ri wacho, konojel ri wachkʼujlay xinikitoʼ",
+      "example_spa": "Cuando empecé a construir mi casa, todos mis vecinos me ayudaron",
+      "dialect": null
+    }
+  ],
+  "uuid": "b763e47e-e34b-4629-8474-cc36982da2dd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

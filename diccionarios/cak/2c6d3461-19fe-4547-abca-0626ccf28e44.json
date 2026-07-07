@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pich",
+  "definition": "Casco, patas con casco",
+  "additional_text": "sInv Rupich Bʼaq",
+  "examples": [
+    {
+      "example_maya": "Ri kej, ri wakx, ri aq, ri masat, kʼo kipich",
+      "example_spa": "El caballo, el ganado, el marrano y el venado tienen cascos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ixöq xubʼän rutakamäl chi re ri rupich aq",
+      "example_spa": "La mujer hizo chuchitos con las patas del cerdo",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c6d3461-19fe-4547-abca-0626ccf28e44",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

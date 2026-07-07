@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chaj",
+  "definition": "Ocote, pino, pinabete",
+  "additional_text": "SInv Inchaj",
+  "examples": [
+    {
+      "example_maya": "Jwal nim li chaj",
+      "example_spa": "El pino es muy grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ xsibʼel li chaj",
+      "example_spa": "El ocote da mucho humo",
+      "dialect": null
+    }
+  ],
+  "uuid": "91922f7f-df09-4746-975e-e36037b7c361",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

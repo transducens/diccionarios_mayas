@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jun",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Junto",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li ajanelabʼ xaq jun kechakun wi, konojel",
+      "example_spa": "Los carpinteros están trabajando juntos",
+      "dialect": null
+    }
+  ],
+  "uuid": "68f2315c-1d09-43b0-b99d-6c89290ac744"
+}

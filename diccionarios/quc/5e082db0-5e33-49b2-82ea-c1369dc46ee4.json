@@ -1,0 +1,19 @@
+{
+  "entryWord": "Molqʼabʼ chʼichʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Numolqʼabʼ chʼichʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rosca para conectar tubos",
+  "definitionDialect": "",
+  "additional_text": "SCL DomS Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Li umolqʼabʼ chʼichʼ kachokon che tiqbʼal re taq li kany re joron",
+      "example_spa": "La cañería de agua necesita roscas para conectar los tubos",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e082db0-5e33-49b2-82ea-c1369dc46ee4"
+}

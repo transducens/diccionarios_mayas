@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pequeño",
+  "definitionDialect": "",
+  "additional_text": "Adj Coment Adjetivo predicativo VarAdj Laj VarAdj Alaj",
+  "examples": [
+    {
+      "example_maya": "Li kej kʼa laʼj, maja kuqʼi\" eqaʼn",
+      "example_spa": "El caballo pequeño todavía no puede cargar",
+      "dialect": null
+    }
+  ],
+  "uuid": "58e21613-7f61-43d8-a35c-10d69fb98ef0"
+}

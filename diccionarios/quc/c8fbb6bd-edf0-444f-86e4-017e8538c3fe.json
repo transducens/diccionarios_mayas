@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chakalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchakiʼk, xuchakabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parado en cuatro patas; estacionado; agachado",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Chak",
+  "examples": [
+    {
+      "example_maya": "Li kej chakal pa li bʼeh",
+      "example_spa": "El caballo está parado en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼinel chʼichʼ chakal pa li bʼeh",
+      "example_spa": "El carro está estacionado en la carretera",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8fbb6bd-edf0-444f-86e4-017e8538c3fe"
+}

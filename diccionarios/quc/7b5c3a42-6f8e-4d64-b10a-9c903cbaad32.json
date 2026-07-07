@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lutʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlutʼuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblar lata, metal o tabla delgada",
+  "definitionDialect": "Español",
+  "additional_text": "vtr Raíz VT Lutʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih, uqʼabʼ li jariy\" tajin kulutʼuh",
+      "example_spa": "La muchacha está doblando el agarrador de la jarrilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b5c3a42-6f8e-4d64-b10a-9c903cbaad32"
+}

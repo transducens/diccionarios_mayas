@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eeqomal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Servicio que presta uno a la comunidad; cargo",
+  "definitionDialect": "Español",
+  "additional_text": "SInv SAgen Ajeeqomaal Encargado Var Pataan Raíz S Ehq",
+  "examples": [
+    {
+      "example_maya": "Li achih ajeqomal pa li uwokaj",
+      "example_spa": "El hombre tiene un cargo en su cantón",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba337bd9-6b2b-40ef-89f5-3ad604604266"
+}

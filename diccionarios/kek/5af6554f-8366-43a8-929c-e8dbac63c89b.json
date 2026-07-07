@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pajl",
+  "definition": "Güis (tipo de planta con hojas y tallos con espinas)",
+  "additional_text": "sInv Inpajl",
+  "examples": [
+    {
+      "example_maya": "Saqi pajl",
+      "example_spa": "Variedad de güis que crece mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kaqi pajl",
+      "example_spa": "Variedad que crece muy pосо",
+      "dialect": null
+    }
+  ],
+  "uuid": "5af6554f-8366-43a8-929c-e8dbac63c89b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Janipe (Jampeʼ)",
+  "definition": "¿Cuántos? ¿A cómo? ¿Cuándo?",
+  "additional_text": "Int var Achiʼel var Jarupeʼ",
+  "examples": [
+    {
+      "example_maya": "¿Janipe nayaʼ wi la atzʼiʼ?",
+      "example_spa": "¿En cuánto me da su perro?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Janipetäq nayaʼ la asaqʼul?",
+      "example_spa": "¿A cómo da sus bananos?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Janipetäq? Janipe täq?",
+      "example_spa": "¿A cómo? (forma plural)",
+      "dialect": null
+    }
+  ],
+  "uuid": "05699172-67a2-4c19-99c0-979fc32c94f0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

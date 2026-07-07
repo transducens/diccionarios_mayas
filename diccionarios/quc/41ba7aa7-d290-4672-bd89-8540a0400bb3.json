@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qaraqatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqaraqatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cacarear antes de poner, las gallinas",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI QAr",
+  "examples": [
+    {
+      "example_maya": "Li akʼ kaqaraqatik ma kasikʼowik",
+      "example_spa": "La gallina está cacareando porque va a poner un huevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "41ba7aa7-d290-4672-bd89-8540a0400bb3"
+}

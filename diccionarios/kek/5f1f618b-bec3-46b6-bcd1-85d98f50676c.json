@@ -1,0 +1,23 @@
+{
+  "entryWord": "Joʼ Anchal",
+  "definition": "Parece",
+  "additional_text": "PartD",
+  "examples": [
+    {
+      "example_maya": "Joʼ nim anchal",
+      "example_spa": "Parece grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼ xkʼulun anchal li wikan",
+      "example_spa": "Parece que vino mi tío",
+      "dialect": null
+    }
+  ],
+  "uuid": "5f1f618b-bec3-46b6-bcd1-85d98f50676c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

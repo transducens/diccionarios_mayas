@@ -1,0 +1,38 @@
+{
+  "entryWord": "Toj",
+  "definition": "Aún, todavía, más",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Toj wan ma nokoohulak saʼ li tenemit",
+      "example_spa": "Nos hace falta mucho para llegar al pueblo",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Ma toj wan wa anaqwan?",
+      "example_spa": "¿Hay tortillas todavía?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Toj taqeʼq",
+      "example_spa": "Más arriba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Toj joqʼe",
+      "example_spa": "Aún cuando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Toj ruuch (toj ru)",
+      "example_spa": "Todavía hay",
+      "dialect": null
+    }
+  ],
+  "uuid": "756ab611-984d-4287-901c-578c08c14c0b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

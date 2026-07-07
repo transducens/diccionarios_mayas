@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jutʼis",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una costura; una ensartada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Tʼis",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xa jutʼis xuya chech li pisbʼal wah",
+      "example_spa": "La mujer le dio una costura a la servilleta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xuya jutʼis chʼichʼ chech li qʼoqʼ",
+      "example_spa": "El niño ensartó una vez el machete al chilacayote",
+      "dialect": null
+    }
+  ],
+  "uuid": "5fcc8399-1d89-460f-998e-c56053125a00"
+}

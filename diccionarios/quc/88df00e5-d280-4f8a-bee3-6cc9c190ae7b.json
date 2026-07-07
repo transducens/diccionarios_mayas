@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mochkoʼyixik ribʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Kumochkoʼyij ribʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ponerse colocho (curl (v))",
+  "definitionDialect": "",
+  "additional_text": "VRefl",
+  "examples": [
+    {
+      "example_maya": "Li uwiʼ li neʼ xumochkoʼyij ribʼ",
+      "example_spa": "El pelo de la nena se puso colocho",
+      "dialect": null
+    }
+  ],
+  "uuid": "88df00e5-d280-4f8a-bee3-6cc9c190ae7b"
+}

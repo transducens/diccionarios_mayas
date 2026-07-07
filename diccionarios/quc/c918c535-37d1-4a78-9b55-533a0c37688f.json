@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tarde",
+  "definitionDialect": "",
+  "additional_text": "Adv Ant Ataam",
+  "examples": [
+    {
+      "example_maya": "Matam xinul pa ri luns",
+      "example_spa": "El lunes llegué tarde",
+      "dialect": null
+    }
+  ],
+  "uuid": "c918c535-37d1-4a78-9b55-533a0c37688f"
+}

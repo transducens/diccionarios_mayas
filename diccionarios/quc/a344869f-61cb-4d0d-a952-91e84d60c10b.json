@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼuj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzʼuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gotera; Gota",
+  "definitionDialect": "",
+  "additional_text": "slav Var Turuwik Raíz S Tzʼuuj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xunojsaj li uqʼebʼal pa li tzʼuj",
+      "example_spa": "La mujer llenó su tinaja en la gotera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are taq kaqaj jabʼ, kaqaj tzʼuj",
+      "example_spa": "Cuando llueve, caen gotas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a344869f-61cb-4d0d-a952-91e84d60c10b"
+}

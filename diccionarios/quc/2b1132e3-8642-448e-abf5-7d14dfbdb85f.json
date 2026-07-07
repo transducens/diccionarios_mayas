@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajchak",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajchak",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trabajador",
+  "definitionDialect": "",
+  "additional_text": "sinv sPl Ajchakiibʼ Trabajadores (pl) Dom S Winaq",
+  "examples": [
+    {
+      "example_maya": "Li ukʼajol li nukʼuljah ajchak",
+      "example_spa": "El hijo del vecino es trabajador",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b1132e3-8642-448e-abf5-7d14dfbdb85f"
+}

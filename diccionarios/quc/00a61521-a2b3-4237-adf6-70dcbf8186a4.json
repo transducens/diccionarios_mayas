@@ -1,0 +1,19 @@
+{
+  "entryWord": "Peneʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manchado con algo espeso, como pintura",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Peʼj Raíz VT Pen",
+  "examples": [
+    {
+      "example_maya": "Li tzʼajanel peneʼn li ukamiʼx pa tzʼajbʼal",
+      "example_spa": "La camisa del pintor está manchada con pintura",
+      "dialect": null
+    }
+  ],
+  "uuid": "00a61521-a2b3-4237-adf6-70dcbf8186a4"
+}

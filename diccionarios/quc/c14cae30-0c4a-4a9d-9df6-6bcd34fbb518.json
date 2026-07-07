@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qoloʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqoloʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar pedazos de objeto duro",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Qol",
+  "examples": [
+    {
+      "example_maya": "Li siwil katajin kaqoloʼp chrij li bʼolaj",
+      "example_spa": "El leñador está quitando pedazos al trozo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c14cae30-0c4a-4a9d-9df6-6bcd34fbb518"
+}

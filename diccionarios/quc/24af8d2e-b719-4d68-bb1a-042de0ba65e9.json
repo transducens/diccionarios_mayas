@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼupnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse alguien al voltear la tierra",
+  "definitionDialect": "",
+  "additional_text": "vi Kinkʼupnajik Raiz VT Kʼup",
+  "examples": [
+    {
+      "example_maya": "Li achih, xumajij kʼupnajem",
+      "example_spa": "El hombre empezó a picar la tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "24af8d2e-b719-4d68-bb1a-042de0ba65e9"
+}

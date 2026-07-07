@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatatexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼatatej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar mucho",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Qʼat",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ utz uqʼatatexik li tirikoh xkibʼanoh",
+      "example_spa": "Los segadores cortaron bien el trigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b618c86f-039a-4f32-83eb-b277b120144b"
+}

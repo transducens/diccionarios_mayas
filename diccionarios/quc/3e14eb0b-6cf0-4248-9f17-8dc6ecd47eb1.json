@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼimachʼoh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Güisquil de ratón (planta cuya raíz se usa como jabón)",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuchʼimaachʼo",
+  "examples": [
+    {
+      "example_maya": "Li Teres kuchʼaj li atzʼayaq rukʼ chʼimachʼoh",
+      "example_spa": "Teresa lava la ropa con güisquil de ratón",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e14eb0b-6cf0-4248-9f17-8dc6ecd47eb1"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xkarawaʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garbanzo",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuxkarawaʼn DomS Kinaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li xkarawaʼn junam rukʼ li albʼerxex",
+      "example_spa": "El garbanzo es igual a la arveja",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b1b9723-f226-4929-80d6-3efa528f36af"
+}

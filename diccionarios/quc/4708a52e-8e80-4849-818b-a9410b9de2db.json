@@ -1,0 +1,19 @@
+{
+  "entryWord": "Merekʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Elotillo con granos tiernos",
+  "definitionDialect": "",
+  "additional_text": "scv Numereekʼ",
+  "examples": [
+    {
+      "example_maya": "Li aj kʼa merekʼ xchapataj ulotzik kumal chʼok",
+      "example_spa": "Los sanates empezaron a picar los elotillos tiernos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4708a52e-8e80-4849-818b-a9410b9de2db"
+}

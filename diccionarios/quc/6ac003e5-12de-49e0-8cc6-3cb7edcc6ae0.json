@@ -1,0 +1,24 @@
+{
+  "entryWord": "Woyoʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Micoleón",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li woyoʼ je kape kʼoy xa xe wih, are mas nichʼ",
+      "example_spa": "El micoleón se parece al mono, sólo que es mas pequeño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li woyoʼ we kuraq uchiʼ chij taq ja na utz taj",
+      "example_spa": "Si el micoleón grita cerca de las casas es de mal agüero",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ac003e5-12de-49e0-8cc6-3cb7edcc6ae0"
+}

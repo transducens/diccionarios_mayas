@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waqkʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ciento veinte",
+  "definitionDialect": "",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li nima winaq kʼo chi waqkʼal ujunabʼ",
+      "example_spa": "El anciano tiene ciento veinte años",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb45c0c3-3802-4e91-94ff-a215a816d57c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eetaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medir",
+  "definitionDialect": "Español",
+  "additional_text": "vtrD Kinweetaaj Raíz S Eht",
+  "examples": [
+    {
+      "example_maya": "Li ajtzʼaqibʼ tajin kaketaj li kakiwok wi li jah",
+      "example_spa": "Los albañiles comenzaron a medir donde van a construir la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "56843543-ebd2-40f2-b24b-e29977ac76f6"
+}

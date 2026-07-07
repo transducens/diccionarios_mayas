@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ritz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reseco frijol por el sol (no se puede cocer)",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li kinaqʼ xubʼan ritz chwach li qʼij",
+      "example_spa": "El frijol se puso muy seco bajo el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "d43d9511-1d88-4f2a-bc2a-f880ed492db5"
+}

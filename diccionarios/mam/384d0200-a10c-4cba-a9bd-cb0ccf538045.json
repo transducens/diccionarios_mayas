@@ -1,0 +1,18 @@
+{
+  "entryWord": "MIISAT",
+  "definition": "oír misa, ir a la misa",
+  "additional_text": "vt misal te, misan, ma chin misana, misbʼil del español misa",
+  "examples": [
+    {
+      "example_maya": "Ma txiʼ aj chʼinteʼ misal",
+      "example_spa": "Vos fuiste a oír un poco la misa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "384d0200-a10c-4cba-a9bd-cb0ccf538045",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Warʼʼd bʼosk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guarda bosque",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Eqeleʼn",
+  "examples": [
+    {
+      "example_maya": "Li warʼʼd bʼosk xuʼchap winaq kebʼe pa chupuj qʼaqʼ",
+      "example_spa": "El guarda bosque llamó gente para ir a apagar el incendio",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c2e07d9-8281-4087-bbbf-dbeefd6822f7"
+}

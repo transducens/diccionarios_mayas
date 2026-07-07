@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juxixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjuxij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Juchʼixik",
+  "altEntryWordDialect2": null,
+  "definition": "Encender fósforos",
+  "definitionDialect": "",
+  "additional_text": "VTD Var Raiz VT Jux",
+  "examples": [
+    {
+      "example_maya": "Li al Weʼl xujuxij li pospr",
+      "example_spa": "Manuela encendió el fósforo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c5ae5afb-f5ce-4119-8f05-8b6af62f6645"
+}

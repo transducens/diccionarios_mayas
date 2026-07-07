@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ooma - a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grito que hacen los bailadores o gracejos cuando corren",
+  "definitionDialect": "",
+  "additional_text": "AI Var Patzkaʼr Ajxojolobʼ",
+  "examples": [
+    {
+      "example_maya": "Ooma-a kecha li saqwiʼn are taq kakitij anim",
+      "example_spa": "Cuando los gracejos corren, gritan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa xinpetik",
+      "example_spa": "Vine corriendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9db6f9ba-555a-4064-8ae8-b4e6653435f8"
+}

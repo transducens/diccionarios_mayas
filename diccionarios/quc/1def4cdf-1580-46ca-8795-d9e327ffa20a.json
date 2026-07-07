@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tokon",
+  "entryWordDialect": null,
+  "altEntryWord": "Utokonal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xtokonarik",
+  "altEntryWordDialect2": null,
+  "definition": "Sordo",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Var Saas Var Meem Raiz P Tok DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li achih xtokonarik",
+      "example_spa": "El hombre se quedó sordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1def4cdf-1580-46ca-8795-d9e327ffa20a"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "IKYXAX",
+  "definition": "siempre, por costumbre, generalmente",
+  "additional_text": "pa raíz iky par",
+  "examples": [
+    {
+      "example_maya": "Qa xel tlaqʼoʼna mo miʼn ikyxax kajbʼlal wuʼna",
+      "example_spa": "Si lo vas a comprar o no, siempre lo voy a usar",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ikyxax tnabʼil ma ti qʼinan kyiʼj mebʼa",
+      "example_spa": "Generalmente así es el modo del rico con los pobres",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "1c682103-2444-4528-a44c-b8d087e8641c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

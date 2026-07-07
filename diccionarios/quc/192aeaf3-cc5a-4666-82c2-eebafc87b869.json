@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼokoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedalear (como ciclista); hacer sapillos",
+  "definitionDialect": "",
+  "additional_text": "VI Kachʼookoʼpik Raíz P Chʼok",
+  "examples": [
+    {
+      "example_maya": "Li akʼalabʼ kechʼokoʼp pa li bʼeh",
+      "example_spa": "Los niños están haciendo sapillos en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "192aeaf3-cc5a-4666-82c2-eebafc87b869"
+}

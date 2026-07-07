@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yuqʼ",
+  "definition": "Cicatriz, pastoreo",
+  "additional_text": "sInv Nuyuqʼ Chʼakulaj Samaj",
+  "examples": [
+    {
+      "example_maya": "Täq nasok awaqän nikanäj kan ruyuqʼ",
+      "example_spa": "Cuando uno se corta el pie, le queda una cicatriz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin kʼo kaʼiʼ yuqʼ chi rij nuchʼakul",
+      "example_spa": "Yo tengo dos cicatrices en el cuerpo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin woʼoʼ junaʼ xisamäj pa yuqʼ",
+      "example_spa": "Yo estuve cinco años trabajando en pastoreo",
+      "dialect": null
+    }
+  ],
+  "uuid": "95bf9b79-6e8d-47c6-b404-c24270982acb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

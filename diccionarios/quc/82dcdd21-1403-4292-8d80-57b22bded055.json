@@ -1,0 +1,24 @@
+{
+  "entryWord": "Juwokaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un grupo; un juego de cosas; una mudada de ropa",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz s Wok",
+  "examples": [
+    {
+      "example_maya": "Li achih, xuloqʼ juwokaj ratzʼyaq",
+      "example_spa": "El hombre compró una mudada de ropa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li juwokaj ajxojolobʼibʼ Kakimajij nukuj",
+      "example_spa": "El grupo de bailadores va a empezar a ensayar",
+      "dialect": null
+    }
+  ],
+  "uuid": "82dcdd21-1403-4292-8d80-57b22bded055"
+}

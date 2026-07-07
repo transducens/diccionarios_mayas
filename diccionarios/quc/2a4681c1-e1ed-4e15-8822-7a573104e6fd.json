@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼotixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacar cosas de un recipiente con la mano",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinkʼotiij Raíz VT Kʼot",
+  "examples": [
+    {
+      "example_maya": "Li ixoq akitamal kukʼotij pa li sobʼal",
+      "example_spa": "La mujer está sacando tamales con carne de la olla",
+      "dialect": null
+    }
+  ],
+  "uuid": "2a4681c1-e1ed-4e15-8822-7a573104e6fd"
+}

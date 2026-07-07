@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼayixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼayij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vender",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Kʼaay",
+  "examples": [
+    {
+      "example_maya": "Kinkʼayij na wixim pa kʼaybʼal chweʼq",
+      "example_spa": "Mañana voy a vender mi maiz en la plaza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li nimaqʼij kʼo kej, wakax kekʼayixik",
+      "example_spa": "En la feria se venden caballos y cabezas de ganado",
+      "dialect": null
+    }
+  ],
+  "uuid": "435b6fde-1ea7-4bce-b3b5-c4469978daec"
+}

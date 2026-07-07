@@ -1,0 +1,19 @@
+{
+  "entryWord": "Perepik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ancho, tejido, tabla o papel",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Per (pir)",
+  "examples": [
+    {
+      "example_maya": "Kinwok sin nuperepik",
+      "example_spa": "Voy a construir una casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "844a5429-5d59-45b4-9823-0f76e994bde3"
+}

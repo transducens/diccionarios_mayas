@@ -1,0 +1,23 @@
+{
+  "entryWord": "Loqʼobʼäl",
+  "definition": "Viruela",
+  "additional_text": "sInv Nuloqʼobʼäl Yabʼil",
+  "examples": [
+    {
+      "example_maya": "Ri loqʼobʼäl jun itzel yabʼil, yalan kʼa nojqan",
+      "example_spa": "La viruela es una enfermedad peligrosa y muy contagiosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq kʼa e kokoj ri täq akʼwalaʼ, yalan nkil ri loqʼobʼäl",
+      "example_spa": "Cuando los niños son pequeños, se contagian mucho de la viruela",
+      "dialect": null
+    }
+  ],
+  "uuid": "a02d671a-e1c7-47b5-b064-0a82d72a33df",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

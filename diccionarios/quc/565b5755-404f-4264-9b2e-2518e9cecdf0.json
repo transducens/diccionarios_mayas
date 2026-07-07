@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼirirexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer retumbar (resonar); echar mucha leña en el fuego; cortar con palo frutas verdes y maduras por molestar",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinbʼirireej Raíz PT Bʼir",
+  "examples": [
+    {
+      "example_maya": "Kinbʼirirej li chʼichʼ pa li xaqʼoʼl",
+      "example_spa": "Haré retumbar el carro en el lodo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li al Xwaʼn kubʼirirej li siʼ pa li qʼaqʼ",
+      "example_spa": "Juana echa mucha leña al fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "565b5755-404f-4264-9b2e-2518e9cecdf0"
+}

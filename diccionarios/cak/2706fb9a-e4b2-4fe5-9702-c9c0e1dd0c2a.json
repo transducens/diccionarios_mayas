@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzarajmäq",
+  "definition": "Poma: tipo de piedra",
+  "additional_text": "scv Nutzarajmaq Abʼäj",
+  "examples": [
+    {
+      "example_maya": "Ri tzarajmäq manäq kan ta al",
+      "example_spa": "La poma no es tan pesada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzarajmäq choj säq nitzuʼun, man alta",
+      "example_spa": "La poma es de color blanco y no pesa mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "2706fb9a-e4b2-4fe5-9702-c9c0e1dd0c2a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

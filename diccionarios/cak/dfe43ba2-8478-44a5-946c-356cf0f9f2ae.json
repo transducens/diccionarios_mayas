@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼäq",
+  "definition": "Ladino",
+  "additional_text": "snP Qʼeqaʼ Ladinos sinón Moʼs, xex, lochʼ winäq",
+  "examples": [
+    {
+      "example_maya": "Ri qʼäq xe pa kaxlan chʼabʼäl nichʼoʼn wi",
+      "example_spa": "El ladino sólo habla en castellano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qʼeqaʼ winäq man jun bʼëy yesamäj ta rikʼin asaron",
+      "example_spa": "Los ladinos nunca trabajan con azadón",
+      "dialect": null
+    }
+  ],
+  "uuid": "dfe43ba2-8478-44a5-946c-356cf0f9f2ae",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

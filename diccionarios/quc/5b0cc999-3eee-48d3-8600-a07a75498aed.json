@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oxij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entre tres días",
+  "definitionDialect": "",
+  "additional_text": "Adv Raíz N Ox",
+  "examples": [
+    {
+      "example_maya": "Oxij kʼo nimaqʼij kabʼan pa li tinamit",
+      "example_spa": "Entre tres días va a haber fiesta en el pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b0cc999-3eee-48d3-8600-a07a75498aed"
+}

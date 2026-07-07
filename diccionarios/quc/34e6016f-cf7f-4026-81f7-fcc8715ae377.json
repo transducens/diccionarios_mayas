@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jusetaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un pedazo redondo de terreno",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz P Set",
+  "examples": [
+    {
+      "example_maya": "Li achih xkanaj kan jusetaj li uchak",
+      "example_spa": "El hombre dejó un pedazo redondo por trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "34e6016f-cf7f-4026-81f7-fcc8715ae377"
+}

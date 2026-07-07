@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼin",
+  "entryWordDialect": null,
+  "altEntryWord": "Nichʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Niitzʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Delicado; pequeño; llorón",
+  "definitionDialect": "",
+  "additional_text": "Adj Uchʼinaal xchʼinarik Sinón Sinón Sinón Tzʼiit",
+  "examples": [
+    {
+      "example_maya": "Li alih sibʼalaj chʼin che li upoʼt",
+      "example_spa": "La muchacha es muy delicada con su güipil",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼin akʼal kʼa te xumajij bʼinem",
+      "example_spa": "El niño pequeño acaba de empezar a caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "33bd987c-5442-4172-9c9b-ae516ee512fe"
+}

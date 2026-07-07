@@ -1,0 +1,18 @@
+{
+  "entryWord": "KABAAL",
+  "definition": "1 exacto, completo, cabal 2 suficiente",
+  "additional_text": "pa sin akax del español cabal",
+  "examples": [
+    {
+      "example_maya": "Kabal pwaq ma tzaj tqʼoʼna wekyʼ",
+      "example_spa": "El dinero que me diste es suficiente",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "73bf721a-604e-42ca-a94d-14852e579ef9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

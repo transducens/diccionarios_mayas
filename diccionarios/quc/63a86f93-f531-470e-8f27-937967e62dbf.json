@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koral",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corral; cerca",
+  "definitionDialect": "",
+  "additional_text": "SInv Nukooraal Del Cast Corral",
+  "examples": [
+    {
+      "example_maya": "Kibʼanom koral li akʼalabʼ chirij li tikbʼal ichaj",
+      "example_spa": "Alrededor de la hortaliza, los niños han hecho un corral",
+      "dialect": null
+    }
+  ],
+  "uuid": "63a86f93-f531-470e-8f27-937967e62dbf"
+}

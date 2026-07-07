@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ox",
+  "definition": "Triplicado prefijo numeral",
+  "additional_text": "cLN",
+  "examples": [
+    {
+      "example_maya": "Oxmul xchʼoʼn xbʼixan ri oyöl jöbʼ",
+      "example_spa": "Cantó tres veces el cinzonte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Oxkʼal ri siʼ takʼwaʼj",
+      "example_spa": "Te llevas sesenta leños",
+      "dialect": null
+    }
+  ],
+  "uuid": "0edd3b14-2a41-4616-879b-c4b17a2dd78e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

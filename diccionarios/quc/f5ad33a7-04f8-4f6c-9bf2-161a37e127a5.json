@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mejik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmejoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblar; doblegar",
+  "definitionDialect": "",
+  "additional_text": "VTR Coment Papel, hierro, hoja, palo, tela Raíz VT Mej",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil tajin kumej li chʼichʼ",
+      "example_spa": "El albañil está doblando el hierro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tʼusubʼ na kʼax ta umejik kibʼanoh",
+      "example_spa": "No les costó doblar el bejuco",
+      "dialect": null
+    }
+  ],
+  "uuid": "f5ad33a7-04f8-4f6c-9bf2-161a37e127a5"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kʼamanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hallarse; acostumbrarse",
+  "definitionDialect": "K'am.",
+  "additional_text": "vt Kakʼamanik",
+  "examples": [
+    {
+      "example_maya": "We kabʼe pa jun chi tinamit, kakʼamanik",
+      "example_spa": "En otro pueblo puede uno hallarse (acostumbrarse)",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj xkʼamanik chi kinwaʼlij aqʼabʼ",
+      "example_spa": "Me acostumbré a levantarme temprano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maj kakʼamanik",
+      "example_spa": "No tiene sabor",
+      "dialect": null
+    }
+  ],
+  "uuid": "5a3186e2-faf4-46f2-9652-e7fe18b64327"
+}

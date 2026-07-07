@@ -1,0 +1,19 @@
+{
+  "entryWord": "Loqʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Compra",
+  "definitionDialect": "General",
+  "additional_text": "sv Raíz VT Loqʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Luʼ, kʼi uwach uloqʼoj xubʼanoh",
+      "example_spa": "Pedro hizo muchas compras",
+      "dialect": null
+    }
+  ],
+  "uuid": "f7641fd4-57f7-481d-8ee8-c1866c389135"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼiritzʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar el grillo",
+  "definitionDialect": "",
+  "additional_text": "vi Katzʼiritzʼotik Sinón Chʼirichʼoteem Raiz VI Tzʼir",
+  "examples": [
+    {
+      "example_maya": "Li xiʼl xumajij tzʼiritzʼotem",
+      "example_spa": "El grillo comenzó a cantar",
+      "dialect": null
+    }
+  ],
+  "uuid": "c93c99ba-16e2-4fd9-a3ae-47a5ac637925"
+}

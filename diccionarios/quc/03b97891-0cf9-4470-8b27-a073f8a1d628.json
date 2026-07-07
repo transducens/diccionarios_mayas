@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xuqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxuqʼuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llenar la boca de comida",
+  "definitionDialect": "Raíz vt. Xuq'.",
+  "additional_text": "vtr",
+  "examples": [
+    {
+      "example_maya": "Kinxuqʼ ankineʼy pa nuchiʼ",
+      "example_spa": "Voy a llenarme la boca de banano",
+      "dialect": null
+    }
+  ],
+  "uuid": "03b97891-0cf9-4470-8b27-a073f8a1d628"
+}

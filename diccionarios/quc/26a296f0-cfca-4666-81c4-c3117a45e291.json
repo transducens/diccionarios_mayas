@@ -1,0 +1,24 @@
+{
+  "entryWord": "Roʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Joʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "oʼ, oo",
+  "altEntryWordDialect2": null,
+  "definition": "Quinto Viernes, quinto",
+  "definitionDialect": "",
+  "additional_text": "NumOrd Fbas Sinón Chʼajoj uqʼuu qataat",
+  "examples": [
+    {
+      "example_maya": "Pa roʼ bʼyerns kachʼaj li atzʼyaq reh li kachokon pa li roʼch li ajaw cheh jun junabʼ",
+      "example_spa": "El Quinto Viernes se lavan los lienzos que se han usado durante el año en la urna de la imagen del Santo Entierro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa uroʼ bʼyer\"nes kʼo sutinem kabʼanik",
+      "example_spa": "El Quinto Viernes de Cuaresma sale la procesión",
+      "dialect": null
+    }
+  ],
+  "uuid": "26a296f0-cfca-4666-81c4-c3117a45e291"
+}

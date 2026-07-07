@@ -1,0 +1,19 @@
+{
+  "entryWord": "Michʼichʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamichʼichʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener escalofríos",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VT Michʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kamichʼichʼ tew chrij rumal li uqʼaqʼal",
+      "example_spa": "La mujer tuvo escalofrío, por la calentura",
+      "dialect": null
+    }
+  ],
+  "uuid": "b16cc419-9fa2-43d7-82be-988484a8df7a"
+}

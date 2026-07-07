@@ -1,0 +1,19 @@
+{
+  "entryWord": "Malmatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamalmatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar animalitos pequeños que no hacen ruido, como hormigas",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz VI Mal",
+  "examples": [
+    {
+      "example_maya": "Li sanik kamalmatik kabʼinik",
+      "example_spa": "La hormiga camina sin hacer ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "132fa00d-7e5a-431b-aa40-ac987d5bb944"
+}

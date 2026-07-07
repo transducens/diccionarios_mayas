@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maqabʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmaqabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirarse un pedo entre nosotros; dejamos en la obscuridad, polvo o humo",
+  "definitionDialect": "general",
+  "additional_text": "vt",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal xujumaqabʼa pa qʼequʼm, ma xuchup li qʼaqʼ",
+      "example_spa": "El niño nos dejó en la obscuridad, porque apagó la luz",
+      "dialect": null
+    }
+  ],
+  "uuid": "d9da2da1-32f8-4f7f-a5e0-d986f69ad586"
+}

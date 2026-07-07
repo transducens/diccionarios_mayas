@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼarnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼarnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido botellas en una carga",
+  "definitionDialect": "General",
+  "additional_text": "VI Raiz P Kʼar",
+  "examples": [
+    {
+      "example_maya": "Li lameʼt reqam li achih kakʼarnajik",
+      "example_spa": "Las botellas que el hombre lleva cargadas, suenan mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "5cb2ada4-ced4-4c06-8324-66849bbcd9c1"
+}

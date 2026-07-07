@@ -1,0 +1,24 @@
+{
+  "entryWord": "Etzʼanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jugar; juguetear; relaciones sexuales entre animales cuadrúpedos",
+  "definitionDialect": "General",
+  "additional_text": "vi Kinetzʼanik s Etzʼabʼaʼl Juguete, collar vtd",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xaq etzʼanem karaj ronojel qʼij",
+      "example_spa": "El niño quiere jugar todos los días",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alabʼom are kakaj kinetzʼan kukʼ",
+      "example_spa": "Los muchachos quieren que yo juegue con ellos",
+      "dialect": null
+    }
+  ],
+  "uuid": "39db97c8-a8b4-46ac-b946-46c7210b0b02"
+}

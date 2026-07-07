@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tanixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llenar mucho una cosa; echar mucho de una cosa dentro de otra",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintaniij Raiz PT Tan",
+  "examples": [
+    {
+      "example_maya": "Kintanij li qʼayes chwa li kej are chi kutijoh",
+      "example_spa": "Le voy a echar bastante zacate al caballo para que se lo coma",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintanij siʼ pa li qʼaqʼ",
+      "example_spa": "Meto bastante leña en el fuego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintanij li jastaq pa li chʼichʼ",
+      "example_spa": "Lleno el carro con las cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb9530db-e9f6-4f49-93a0-e899073a2369"
+}

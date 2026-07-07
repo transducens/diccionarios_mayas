@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jos",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoz",
+  "definitionDialect": "",
+  "additional_text": "sInv Nujoos Raíz VT Jos",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼat alobʼ tajin kuqʼat li trikoh che jos",
+      "example_spa": "El segador está cortando el trigo con la hoz",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8b626ad-cb3f-4dfc-a27b-80a9b5c71d5d"
+}

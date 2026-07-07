@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuxnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar triste o cabizbajo",
+  "definitionDialect": "Español",
+  "additional_text": "vi Kayuxnajik Raíz VI Yux",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq sin kayuxnaj kabʼinik, ma xa kabʼisonik",
+      "example_spa": "El hombre anda cabizbajo porque está triste",
+      "dialect": null
+    }
+  ],
+  "uuid": "03fe17d3-ab78-4585-8ebe-fdee198b997d"
+}

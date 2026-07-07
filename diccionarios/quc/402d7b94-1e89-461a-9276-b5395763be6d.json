@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tortilla",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuleej Raíz VT Lej DomS Wah",
+  "examples": [
+    {
+      "example_maya": "Li ixoq katajin kubʼan lij re paqʼij",
+      "example_spa": "La mujer está haciendo tortillas para el almuerzo",
+      "dialect": null
+    }
+  ],
+  "uuid": "402d7b94-1e89-461a-9276-b5395763be6d"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oʼlajuj",
+  "entryWordDialect": null,
+  "altEntryWord": "olajuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quince",
+  "definitionDialect": "General",
+  "additional_text": "NumCard Fbas //Joʼ (oʼ, oo)",
+  "examples": [
+    {
+      "example_maya": "Oʼlajuj ujunabʼ le qʼapoj alih",
+      "example_spa": "La señorita tiene quince años",
+      "dialect": null
+    }
+  ],
+  "uuid": "df6eeb25-fc00-4acf-b326-5cd712ae2d18"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzaloʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambalearse",
+  "definitionDialect": "",
+  "additional_text": "vi Katzaaloʼpik Raíz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Li a laj a Kux xaq katzaloʼpik kabʼinik",
+      "example_spa": "Marquitos tambalea al caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "81dbd9ce-6123-4cb2-96ae-a53f281c0d41"
+}

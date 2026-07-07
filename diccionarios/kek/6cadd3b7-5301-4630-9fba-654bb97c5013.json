@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mas",
+  "definition": "Muy, mucho",
+  "additional_text": "Adj Xmasoʼ, xmasil",
+  "examples": [
+    {
+      "example_maya": "Li chʼina ixqaʼal wan leʼ aʼan mas chʼina us chi ru li jun chik",
+      "example_spa": "Aquella niña es más bonita que la otra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼanaʼ aʼan mas josqʼ",
+      "example_spa": "La señora es muy brava",
+      "dialect": null
+    }
+  ],
+  "uuid": "6cadd3b7-5301-4630-9fba-654bb97c5013",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

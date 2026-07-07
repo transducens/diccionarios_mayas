@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pescado",
+  "definitionDialect": "General",
+  "additional_text": "sinv Nuchʼuuʼ Coment Dialecto costeño var Kar",
+  "examples": [
+    {
+      "example_maya": "Li nan xuloqʼ chʼuʼ",
+      "example_spa": "La señora compró pescado",
+      "dialect": null
+    }
+  ],
+  "uuid": "3282b39c-a20e-404b-9765-9154feeb72e2"
+}

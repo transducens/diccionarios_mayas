@@ -1,0 +1,19 @@
+{
+  "entryWord": "Likoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlikoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sacar líquido continuamente con guacal, palangana o jícara",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Lik",
+  "examples": [
+    {
+      "example_maya": "Li rixoqil li a Siʼs tajin kalikoʼp che joron pa li pilah",
+      "example_spa": "La esposa de Francisco saca continuamente agua de la pila",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ae055a4-9913-4a0b-bb64-4531dad0ea28"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yojik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyojoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Descomponer, derribar; destruir",
+  "definitionDialect": "General",
+  "additional_text": "VTR Raíz VT Yoj",
+  "examples": [
+    {
+      "example_maya": "Kinyoj li woʼch, kinbʼan chi jun kʼakʼ",
+      "example_spa": "Voy a derribar mi casa y voy a hacer otra nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3deeeea-c39b-4b0c-9c6a-d19e9cd7f1fc"
+}

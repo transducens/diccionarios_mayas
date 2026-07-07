@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzalatzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desnivelado; torcido para un lado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Li ubʼe jaʼ xubʼan li ajwanil xa tzalatzik xubʼanoh",
+      "example_spa": "El canal que hizo el albañil está desnivelado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li mes xa tzalatzik, ma xa na junam ta li raqan",
+      "example_spa": "La mesa tiene desniveladas las patas por eso está torcida",
+      "dialect": null
+    }
+  ],
+  "uuid": "76cd5354-a1e6-4e16-a30d-9108d5799031"
+}

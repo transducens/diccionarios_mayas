@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakalteʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Muchakalteʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llama del bosque (planta); cedrela",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li uxaq li chakalteʼna utz ta li ruxlabʼ",
+      "example_spa": "Las hojas de la llama del bosque tienen olor desagradable",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e2cda56-f39b-4d77-90fa-084017e461d6"
+}

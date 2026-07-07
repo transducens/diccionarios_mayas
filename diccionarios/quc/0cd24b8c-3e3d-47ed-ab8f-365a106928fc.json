@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waralik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "De aquí; local",
+  "definitionDialect": "",
+  "additional_text": "Adv s Ajwaralik De aquí",
+  "examples": [
+    {
+      "example_maya": "Li achih, tajin kukʼayij waralik ixim",
+      "example_spa": "El hombre está vendiendo maíz de aquí",
+      "dialect": null
+    }
+  ],
+  "uuid": "0cd24b8c-3e3d-47ed-ab8f-365a106928fc"
+}

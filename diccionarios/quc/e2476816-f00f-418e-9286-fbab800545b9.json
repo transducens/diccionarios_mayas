@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alboroto; poporopo; manchas blancas que tienen algunos perros en las cejas",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupool",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ kʼo retal chij taq uwach",
+      "example_spa": "El perro tiene manchas blancas en las cejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e2476816-f00f-418e-9286-fbab800545b9"
+}

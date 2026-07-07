@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tunik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintunuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juntar las manos (gesto de devoción); arrimerar, perchar",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz PT Tun",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kutun li uqʼabʼ pa tyox",
+      "example_spa": "La mujer está juntando las manos en la iglesia para darle gracias a Dios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintun na li tzʼalam pa li ukʼol\"bʼal",
+      "example_spa": "Voy a perchar las tablas en su lugar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xutun li lij pa li chakach",
+      "example_spa": "La mujer arrimeró las tortillas en la canasta",
+      "dialect": null
+    }
+  ],
+  "uuid": "160cd437-6e70-4629-8ab5-4ceea6d1e112"
+}

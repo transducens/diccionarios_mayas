@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wechʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al picar o machetear",
+  "definitionDialect": "general",
+  "additional_text": "vi Kawechʼnajik Raíz VT Wechʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, tajin kawechʼnaj pa li uliw",
+      "example_spa": "El hombre está picando el terreno",
+      "dialect": null
+    }
+  ],
+  "uuid": "0bac82cc-a3ad-4a4f-8154-a1cba6330c4d"
+}

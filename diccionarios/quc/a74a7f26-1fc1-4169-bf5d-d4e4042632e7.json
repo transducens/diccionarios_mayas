@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saron",
+  "entryWordDialect": null,
+  "altEntryWord": "Usaronal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xsaroonayirik",
+  "altEntryWordDialect2": null,
+  "definition": "Sucio polvo; empolvado",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Chojchoj",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj saron upalaj li akʼal pa li puqlaj",
+      "example_spa": "El niño tiene la cara sucia por el polvo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a74a7f26-1fc1-4169-bf5d-d4e4042632e7"
+}

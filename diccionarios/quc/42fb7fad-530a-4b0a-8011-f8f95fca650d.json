@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laloh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tepezcuintle",
+  "definitionDialect": "",
+  "additional_text": "scv Nulaaloo Fbas //Lahloh// DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li laloh pa kʼacheʼlaj kʼo wih",
+      "example_spa": "El tepezcuintle vive en la montaña",
+      "dialect": null
+    }
+  ],
+  "uuid": "42fb7fad-530a-4b0a-8011-f8f95fca650d"
+}

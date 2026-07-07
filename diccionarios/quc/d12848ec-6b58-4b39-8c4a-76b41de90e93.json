@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuqulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xyuqiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuyuqubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Estar amarrado un animal",
+  "definitionDialect": "",
+  "additional_text": "p Sinón Tzuyulik Raiz P Yuq",
+  "examples": [
+    {
+      "example_maya": "Li kej yuqulik kawaʼik",
+      "example_spa": "El caballo está amarrado",
+      "dialect": null
+    }
+  ],
+  "uuid": "d12848ec-6b58-4b39-8c4a-76b41de90e93"
+}

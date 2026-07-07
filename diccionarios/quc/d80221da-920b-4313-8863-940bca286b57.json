@@ -1,0 +1,19 @@
+{
+  "entryWord": "Orosyon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Seis de la tarde",
+  "definitionDialect": "",
+  "additional_text": "Adv Del Cast Oración",
+  "examples": [
+    {
+      "example_maya": "Li achih pa taq orosyon xul pa chak",
+      "example_spa": "El hombre regresó a las seis de la tarde del trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d80221da-920b-4313-8863-940bca286b57"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼajcheʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼajcheʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ramas de pino puestas como adorno donde se hace costumbre",
+  "definitionDialect": "General",
+  "additional_text": "scv Coment Signo de que el lugar se ha reservado para un grupo de bailadores Raiz VT Qʼaj Raiz s Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li krus are laʼ kiqʼajcheʼbʼal li ajxojolobʼ kakiya kan chwa tyox",
+      "example_spa": "La cruz, es el signo que dejan los bailadores enfrente de la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "212f398f-d32d-46d8-b4e8-ed1ac4ec0c95"
+}

@@ -1,0 +1,33 @@
+{
+  "entryWord": "Natʼok",
+  "definition": "Apretar, prensar, atrancar, tapar, destripar",
+  "additional_text": "VTR Xinnatʼ",
+  "examples": [
+    {
+      "example_maya": "Xinnatʼ chi us li kabʼ",
+      "example_spa": "Atranqué bien la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Natʼno xmusiqʼ",
+      "example_spa": "Asmático, ronco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Natʼno xsaʼ inkux",
+      "example_spa": "Estoy ronco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Natʼno saʼ wuʼuj",
+      "example_spa": "Tengo tapada la nariz",
+      "dialect": null
+    }
+  ],
+  "uuid": "81d41f81-04d2-401d-a384-ec14829ab154",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

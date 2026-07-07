@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqa wiʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canas",
+  "definitionDialect": "",
+  "additional_text": "scl Nusaqawiʼaaj Raíz Adj Saq Raíz S Wiʼ",
+  "examples": [
+    {
+      "example_maya": "Li nimaq taq winaq kʼo chi saqa wiʼaj pa li kiwiʼ",
+      "example_spa": "Los ancianos tienen canas en el cabello",
+      "dialect": null
+    }
+  ],
+  "uuid": "de603141-4c3d-455c-93fc-ee272d1040eb"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Aj",
+  "definition": "Indica procedencia, oficio; se usa antes de sustantivo",
+  "additional_text": "Part Procedencia, oficio",
+  "examples": [
+    {
+      "example_maya": "Aj kobʼan len inyuwaʼilq",
+      "example_spa": "Dicen que mi finado papá era Cobanero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼaʼ xwan qatzolbʼal xbʼaan naq maani ajtzolonel",
+      "example_spa": "No hubo clases porque no vino el maestro",
+      "dialect": null
+    }
+  ],
+  "uuid": "06856a8d-55be-424f-a733-074beb216f9c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

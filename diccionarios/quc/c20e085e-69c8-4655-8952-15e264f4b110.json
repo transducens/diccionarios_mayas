@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wechechexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desmoronar mucho una cosa",
+  "definitionDialect": "general",
+  "additional_text": "vtp Kinwechecheej Raíz VT Wech",
+  "examples": [
+    {
+      "example_maya": "Li chʼoh, xuwechechej li kaxlanwah, pa li kaxon",
+      "example_spa": "La rata desmoronó el pan en el cajón",
+      "dialect": null
+    }
+  ],
+  "uuid": "c20e085e-69c8-4655-8952-15e264f4b110"
+}

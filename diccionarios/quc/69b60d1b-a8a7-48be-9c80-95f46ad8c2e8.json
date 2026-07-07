@@ -1,0 +1,19 @@
+{
+  "entryWord": "Makʼamatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamakʼamatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lloviznar",
+  "definitionDialect": "general",
+  "additional_text": "v I sinón Musmuteem Raíz VI Makʼ",
+  "examples": [
+    {
+      "example_maya": "Pa we nimaqʼab xmakʼamat li jabʼ",
+      "example_spa": "Esta mañana estaba lloviznando",
+      "dialect": null
+    }
+  ],
+  "uuid": "69b60d1b-a8a7-48be-9c80-95f46ad8c2e8"
+}

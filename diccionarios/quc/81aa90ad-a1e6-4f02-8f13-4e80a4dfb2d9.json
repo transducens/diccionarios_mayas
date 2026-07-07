@@ -1,0 +1,19 @@
+{
+  "entryWord": "Worbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lezna; punzón; trépano; cincel",
+  "definitionDialect": "",
+  "additional_text": "scv Nuworbʼaal DomS Chokonsaʼn",
+  "examples": [
+    {
+      "example_maya": "Li achih, kʼo jun uworbʼal",
+      "example_spa": "El hombre tiene un trépano",
+      "dialect": null
+    }
+  ],
+  "uuid": "81aa90ad-a1e6-4f02-8f13-4e80a4dfb2d9"
+}

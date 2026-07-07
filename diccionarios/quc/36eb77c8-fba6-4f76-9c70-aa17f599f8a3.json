@@ -1,0 +1,28 @@
+{
+  "entryWord": "Uxuʼm qʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Uxuʼm nuqʼaqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": [
+    {
+      "text": "Chispa de fuego",
+      "dialect": "general"
+    },
+    {
+      "text": "Brasas que pide una persona para hacer otro fuego o para incensario",
+      "dialect": "general"
+    }
+  ],
+  "definitionDialect": "general",
+  "additional_text": "sds sds",
+  "examples": [
+    {
+      "example_maya": "Li kʼisis sibʼalaj kʼo uxuʼm chwach li ronojel siʼ",
+      "example_spa": "El ciprés despide más chispas que otra leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "36eb77c8-fba6-4f76-9c70-aa17f599f8a3"
+}

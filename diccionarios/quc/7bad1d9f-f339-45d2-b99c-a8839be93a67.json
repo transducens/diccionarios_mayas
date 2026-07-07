@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Oʼch",
+  "entryWordDialect": null,
+  "altEntryWord": "Woʼch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casa",
+  "definitionDialect": "General",
+  "additional_text": "ssp Coment Forma poseída que corresponde a jah Var Jaa",
+  "examples": [
+    {
+      "example_maya": "Li akʼalabʼ oʼch kecha cheh li jah",
+      "example_spa": "Los niños dicen oʼch (en lugar de jaa) a la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bad1d9f-f339-45d2-b99c-a8839be93a67"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzukʼlinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brillar luna, luceros o luz; reflejar espejo",
+  "definitionDialect": "",
+  "additional_text": "vi Katzukʼlinik Raíz PT Tzukʼ",
+  "examples": [
+    {
+      "example_maya": "Li qʼij sibʼalaj katzʼukʼlin pwi taq li chʼichʼa taq ja",
+      "example_spa": "El sol brilla mucho sobre las casas de lámina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ulus li altomow\" sibʼalaj katzukʼlinik",
+      "example_spa": "La luz del carro brilla mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed0aacdc-2687-4114-bc5c-d6bc9eb0a863"
+}

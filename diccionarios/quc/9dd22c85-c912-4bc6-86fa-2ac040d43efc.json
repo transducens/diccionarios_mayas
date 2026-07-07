@@ -1,0 +1,24 @@
+{
+  "entryWord": "Joqʼopixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jalar de las orejas; arrancar elotes sin cuidado; descomponer un mojón",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinjoqʼopiij Raíz VT Joqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xujoqʼopij li aj chiʼ li bʼeh",
+      "example_spa": "La mujer arrancó elotes en la orilla del camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xujoqʼopij li kʼulbʼaʼt rech li tinamit",
+      "example_spa": "El hombre descompuso el mojón del pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9dd22c85-c912-4bc6-86fa-2ac040d43efc"
+}

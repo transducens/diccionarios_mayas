@@ -1,0 +1,28 @@
+{
+  "entryWord": "Ma jun (man jun)",
+  "definition": "Nada ningún, ninguno, nadie",
+  "additional_text": "AdvN",
+  "examples": [
+    {
+      "example_maya": "Ma jun chik kʼo ri pa kʼayij wakami",
+      "example_spa": "Ya no hay nada en la tienda ahora",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin ma jun numérya",
+      "example_spa": "Yo no tengo nada de dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Man jun winäq kʼo pa bʼey",
+      "example_spa": "No hay nadie en la calle",
+      "dialect": null
+    }
+  ],
+  "uuid": "03677fb9-8943-4892-b4fb-e9040369b52f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Winaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwinaqil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paisano",
+  "definitionDialect": "",
+  "additional_text": "SAS DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Xqariq qibʼ kukʼ li e nuwinaqil pa Ar\"mit",
+      "example_spa": "Nos encontramos con mis paisanos en Guatemala",
+      "dialect": null
+    }
+  ],
+  "uuid": "2de884e7-fc21-4586-92d3-740bea6cd106"
+}

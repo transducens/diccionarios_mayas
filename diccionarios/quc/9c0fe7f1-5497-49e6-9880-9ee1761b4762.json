@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luʼnem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaluʼnik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarbar",
+  "definitionDialect": "Español",
+  "additional_text": "vi Var Kʼotonik Raíz VT Luʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼ tajin kaluʼnik",
+      "example_spa": "La gallina está escarbando",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c0fe7f1-5497-49e6-9880-9ee1761b4762"
+}

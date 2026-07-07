@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yowabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Uyowabʼil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xyowabʼirik",
+  "altEntryWordDialect2": null,
+  "definition": "Enfermo",
+  "definitionDialect": "General",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li achih ojer sibʼalaj koh, kamik xyowabʼirik",
+      "example_spa": "El hombre antes era muy fuerte, ahora está muy enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "2652564d-ad3a-496e-9ef3-f99552173b19"
+}

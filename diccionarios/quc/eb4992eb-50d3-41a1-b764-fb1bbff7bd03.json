@@ -1,0 +1,19 @@
+{
+  "entryWord": "Matzexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmatzej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abrazar",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Matz",
+  "examples": [
+    {
+      "example_maya": "Li yowabʼ xmatzex rumal li unan",
+      "example_spa": "El enfermo es abrazado por su madre",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb4992eb-50d3-41a1-b764-fb1bbff7bd03"
+}

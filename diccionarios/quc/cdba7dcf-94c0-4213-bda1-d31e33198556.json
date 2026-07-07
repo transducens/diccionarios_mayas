@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ribʼilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Panzudo: el estómago",
+  "definitionDialect": "General",
+  "additional_text": "P Xribʼiʼk, xuribʼibʼaʼ Raíz P Ribʼ",
+  "examples": [
+    {
+      "example_maya": "Li karneʼl xaq ribʼil chik ma xa sibʼalaj xwaʼik",
+      "example_spa": "La oveja es panzuda porque ha comido mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "cdba7dcf-94c0-4213-bda1-d31e33198556"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pisbʼal wah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Servilleta",
+  "definitionDialect": "",
+  "additional_text": "sds Nupisbʼal waa Raíz VT Pis Raíz s Wah DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li ajmokobʼem chak xukʼam bʼi li uwa pa pisbʼal wah",
+      "example_spa": "El mozo se llevó las tortillas en una servilleta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li pisbʼal wah kaya wi li lij",
+      "example_spa": "Las tortillas se ponen en la servilleta",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c23c73b-59b4-4e9b-bbb5-bde18941de33"
+}

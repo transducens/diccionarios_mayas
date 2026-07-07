@@ -1,0 +1,24 @@
+{
+  "entryWord": "Suʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Descubierta la cabeza (sin sombrero); pelón; desorejado: trasto de cocina; impedido: animal o persona sin una; parte del cuerpo o que la tiene incompleta",
+  "definitionDialect": "",
+  "additional_text": "Adj Suʼra qʼeebʼal Tinaja desorejada",
+  "examples": [
+    {
+      "example_maya": "Li sin laj tzʼiʼ xkʼojiʼk, xa sin suʼr",
+      "example_spa": "El pobre perrito que nació, no tiene patas",
+      "dialect": null
+    },
+    {
+      "example_maya": "We xa suʼr li qʼebʼal na utz taj kikraxik",
+      "example_spa": "Las tinajas desorejadas no son buenas para llevarlas en la cabeza",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb74fa76-5a6c-41db-b4e1-0d10a71f44cf"
+}

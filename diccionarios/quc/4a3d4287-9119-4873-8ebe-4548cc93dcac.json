@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jumuqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un puño",
+  "definitionDialect": "General",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li alih jumuqʼ ixim xuya chke li rakʼ",
+      "example_spa": "La muchacha les dio un puño de maíz a las gallinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a3d4287-9119-4873-8ebe-4548cc93dcac"
+}

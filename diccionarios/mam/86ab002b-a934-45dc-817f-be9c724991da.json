@@ -1,0 +1,18 @@
+{
+  "entryWord": "MEES",
+  "definition": "altar de brujo",
+  "additional_text": "s1 nmesa altar de brujo derivaciones: ajmes brujo del español mesa",
+  "examples": [
+    {
+      "example_maya": "Nach tok qmakoʼn tiʼj tmes ajmes",
+      "example_spa": "Es malo tocar el altar del brujo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "86ab002b-a934-45dc-817f-be9c724991da",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

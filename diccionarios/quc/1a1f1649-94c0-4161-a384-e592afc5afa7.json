@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ixim tukur",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tecolotillo",
+  "definitionDialect": "",
+  "additional_text": "scl Var Tuukur DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li ixim tukur xkamik",
+      "example_spa": "El tecolotillo se murió",
+      "dialect": null
+    }
+  ],
+  "uuid": "1a1f1649-94c0-4161-a384-e592afc5afa7"
+}

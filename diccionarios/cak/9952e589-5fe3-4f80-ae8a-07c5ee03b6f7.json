@@ -1,0 +1,28 @@
+{
+  "entryWord": "Masat",
+  "definition": "Venado",
+  "additional_text": "sInv Numasat Var Xnan, Ixnäy, Ixnan sinón Kej, chikop, mazatl, nahuatl",
+  "examples": [
+    {
+      "example_maya": "Ri masat raxroj rij, ri achij kʼo ruqʼaʼ ri rukʼaʼ",
+      "example_spa": "El venado es de color pardo, el macho tiene cuernos ramosos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun masat xa jubʼaʼ ma achiʼël ri kʼisikʼ",
+      "example_spa": "Un venado es casi igual al cabro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri masat jebʼël titij ri rutiʼ",
+      "example_spa": "La carne de venado es muy sabrosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9952e589-5fe3-4f80-ae8a-07c5ee03b6f7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

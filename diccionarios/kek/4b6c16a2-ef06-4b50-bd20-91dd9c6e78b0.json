@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jilonk",
+  "definition": "Arrimarse, acercarse, separarse, retirarse, despegarse, alejarse, despegarse",
+  "additional_text": "vi Xinjilon",
+  "examples": [
+    {
+      "example_maya": "Xinjilon chi xkʼatq li ranabʼ laʼ Kuʼ",
+      "example_spa": "Me acerqué al lado de la hermana de Domingo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinjilon xkʼatq li xam chi qʼixink",
+      "example_spa": "Me acerqué al fuego para calentarme",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b6c16a2-ef06-4b50-bd20-91dd9c6e78b0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

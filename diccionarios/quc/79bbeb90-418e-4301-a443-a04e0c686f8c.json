@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sajkabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusajkabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tizate",
+  "definitionDialect": "",
+  "additional_text": "SInv Var Saqkaabʼ Raíz Adj Saj Raíz S Kaabʼ",
+  "examples": [
+    {
+      "example_maya": "Li sajkabʼ kakikoj li ixoqibʼ are taq kebʼatzʼinik",
+      "example_spa": "El tizate lo usan las mujeres al hilar",
+      "dialect": null
+    }
+  ],
+  "uuid": "79bbeb90-418e-4301-a443-a04e0c686f8c"
+}

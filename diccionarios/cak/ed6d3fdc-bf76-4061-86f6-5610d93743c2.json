@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sachbʼäl mak",
+  "definition": "Perdón",
+  "additional_text": "scl Sinón Kuybʼal, mak",
+  "examples": [
+    {
+      "example_maya": "Ma konojel ta ri winäq xtibʼekilaʼ ri sachbʼël mak",
+      "example_spa": "No todas las personas alcanzan el perdón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tasacha takuyuʼ",
+      "example_spa": "Perdóname, perdóname",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed6d3fdc-bf76-4061-86f6-5610d93743c2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sannajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasannajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar persona o coche gordo, forma de andar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI San",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kasannaj pa taq kʼaybʼal",
+      "example_spa": "El hombre gordo anda por la plaza",
+      "dialect": null
+    }
+  ],
+  "uuid": "e62d05d8-75c2-439b-9600-32b26b7ed2bd"
+}

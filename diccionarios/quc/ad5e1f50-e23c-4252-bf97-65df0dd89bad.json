@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wekʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwekʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar un sombrero grande con la hoja levantada",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Wekʼ",
+  "examples": [
+    {
+      "example_maya": "Kinwekʼej na li nima powiʼ, are chi utz na kinkʼat ta chwa li qʼij",
+      "example_spa": "Tengo que llevar el sombrero grande de hoja levantada, para que no me queme el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad5e1f50-e23c-4252-bf97-65df0dd89bad"
+}

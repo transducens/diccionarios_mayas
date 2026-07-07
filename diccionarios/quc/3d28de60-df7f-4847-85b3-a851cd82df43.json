@@ -1,0 +1,29 @@
+{
+  "entryWord": "Paqʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpaqʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rajar leña; dar palmadas; quebrar pepitas; reventar vejiga",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raíz VT Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kupaqʼij li ubʼaqʼ mop",
+      "example_spa": "El niño está quebrando la pepita de coyol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpaqʼij na li jun cheʼ",
+      "example_spa": "Voy a rajar el palo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpaqʼij na li jun pupuh",
+      "example_spa": "Voy a reventar la vejiga",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d28de60-df7f-4847-85b3-a851cd82df43"
+}

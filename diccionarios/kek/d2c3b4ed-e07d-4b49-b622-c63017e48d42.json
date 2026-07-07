@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzirok",
+  "definition": "Manchar a alguien con un chorito de líquido, encender fósforo",
+  "additional_text": "VTR Xintzir",
+  "examples": [
+    {
+      "example_maya": "Xinxtzir chi haʼ chi ru li mankeer",
+      "example_spa": "Me tiró agua con la manguera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpitzok naq xtzir ribʼ li poospr",
+      "example_spa": "Al encenderse el fósforo echó chispas",
+      "dialect": null
+    }
+  ],
+  "uuid": "d2c3b4ed-e07d-4b49-b622-c63017e48d42",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

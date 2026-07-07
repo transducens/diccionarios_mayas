@@ -1,0 +1,18 @@
+{
+  "entryWord": "KOLADOOR",
+  "definition": "colador",
+  "additional_text": "s1 nkoladora del español colador ds makbʼil",
+  "examples": [
+    {
+      "example_maya": "lilx tiʼj jun kolador tuʼn tel kʼat txakape",
+      "example_spa": "Es preciso usar un colador para poder colar el bagazo del café",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b8a4d445-49bc-4919-878c-81d523aabd27",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

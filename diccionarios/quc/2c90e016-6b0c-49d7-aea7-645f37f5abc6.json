@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qupixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar tela, papel, madera y carne; aserrar; quitar pedazo de carne; morder",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinqupiij Raíz VT Qup",
+  "examples": [
+    {
+      "example_maya": "Li ajanel qupixik kubʼan cheh li tem re jah",
+      "example_spa": "El carpintero va a cortar la viga de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c90e016-6b0c-49d7-aea7-645f37f5abc6"
+}

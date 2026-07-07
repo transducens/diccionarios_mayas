@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pink",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Finca",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupiink Del Cast Finca",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ xebʼe pa chak pa pink",
+      "example_spa": "Los hombres se fueron a trabajar a la finca",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d9b357a-2b9a-4416-a74e-3cea1254c5bf"
+}

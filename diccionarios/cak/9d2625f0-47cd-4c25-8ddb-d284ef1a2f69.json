@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kuk",
+  "definition": "Ardilla",
+  "additional_text": "sInv Nukuk var Oyol tew Chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri kuk jun chiköp ruyon chi ruqʼaʼ cheʼ nibʼiyaj wi",
+      "example_spa": "La ardilla es un animal que anda sólo en las ramas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kuk nutïj äj, traʼs, oj, räx chʼikuʼy",
+      "example_spa": "La ardilla come elotes, duraznos, aguacates y chicharras verdes",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d2625f0-47cd-4c25-8ddb-d284ef1a2f69",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chet",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Troje; granero",
+  "definitionDialect": "Spanish",
+  "additional_text": "SInv Nucheet Fbas //Cheht// VTD Cheetuxik Llenar",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj jal kʼolom pa li chet",
+      "example_spa": "En el troje, han guardado muchas mazorcas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uchet li achih nojnaq che jal",
+      "example_spa": "El troje del hombre está lleno de mazorcas",
+      "dialect": null
+    }
+  ],
+  "uuid": "170744f5-c9e8-4de3-b318-f409a70028c9"
+}

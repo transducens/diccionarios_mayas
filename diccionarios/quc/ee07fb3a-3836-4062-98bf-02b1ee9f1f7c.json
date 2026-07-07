@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rukukexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrukukej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limpiar bien; remover bien",
+  "definitionDialect": "VTD.",
+  "additional_text": "Raíz VT Ruk",
+  "examples": [
+    {
+      "example_maya": "Kinrukukej na li kabʼ pa li xaʼr are chi kajaʼrik",
+      "example_spa": "Voy a mover bien el café para que se deshaga la panela",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee07fb3a-3836-4062-98bf-02b1ee9f1f7c"
+}

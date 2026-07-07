@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chaʼal",
+  "definition": "Partes del terpo, familiar, parientes",
+  "additional_text": "SInv Inchaʼal",
+  "examples": [
+    {
+      "example_maya": "Bʼar a chaʼal ra",
+      "example_spa": "¿En qué parte del cuerpo senʼs dolor?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Moko qachaʼalebʼ ta",
+      "example_spa": "Ellos no son nuestros parientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "93d6fcd0-7347-4b84-9044-b75249c1fc1d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

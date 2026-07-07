@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oombʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sí hombre",
+  "definitionDialect": "Español",
+  "additional_text": "Exp Coment Partícula que indica admiración",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj xinriq kʼax ombʼr are taq xintzaqik",
+      "example_spa": "Sí hombre, sufrí mucho cuando me caí",
+      "dialect": null
+    }
+  ],
+  "uuid": "a193ccef-877a-4ea4-88ed-aa4c5d1a7a4d"
+}

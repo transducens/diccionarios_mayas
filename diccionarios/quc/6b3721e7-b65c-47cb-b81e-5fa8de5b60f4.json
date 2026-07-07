@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wikʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawikʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con pelo alborotado; llevar chiriviscos",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VT Wikʼ",
+  "examples": [
+    {
+      "example_maya": "Li sin ixoq uriqom yabʼil xaq kawikʼnaj pa taq bʼeh",
+      "example_spa": "La pobre mujer loca, anda despeinada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, kawikʼnaj chuxe li ucheʼl albʼerxex",
+      "example_spa": "El hombre lleva chiriviscos largos para sostén de las arbejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6b3721e7-b65c-47cb-b81e-5fa8de5b60f4"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jabʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar con cosa suave (pañuelo o rama con hojas)",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinjabʼoh Raiz VT Jabʼ",
+  "examples": [
+    {
+      "example_maya": "Li tat xujabʼ li ralkʼuʼal che jun atzʼyaq",
+      "example_spa": "El papá le pegó a su hijo con una",
+      "dialect": null
+    }
+  ],
+  "uuid": "48111ce9-1cd6-4298-ac24-80ab7e7f81c6"
+}

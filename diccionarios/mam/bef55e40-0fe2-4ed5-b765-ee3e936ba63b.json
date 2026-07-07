@@ -1,0 +1,18 @@
+{
+  "entryWord": "PAAN",
+  "definition": "pan",
+  "additional_text": "s1 npana del español pan",
+  "examples": [
+    {
+      "example_maya": "¿Jteʼ tajlal pan ma tzaj tuʼn?",
+      "example_spa": "¿Cuánto de pan trajiste?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "bef55e40-0fe2-4ed5-b765-ee3e936ba63b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

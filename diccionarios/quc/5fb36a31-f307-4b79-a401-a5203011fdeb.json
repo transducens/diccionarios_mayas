@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pulinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salirse el agua de la olla al hervir; rebalsarse agua",
+  "definitionDialect": "",
+  "additional_text": "vi Kapulinik Raíz VT Pol (pul)",
+  "examples": [
+    {
+      "example_maya": "Li tʼuʼy kapulin chwa li qʼaqʼ",
+      "example_spa": "Se salió el agua de la olla al hervir sobre el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "5fb36a31-f307-4b79-a401-a5203011fdeb"
+}

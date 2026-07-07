@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mulexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmulij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar muchas cosas en las manos",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raiz VT Mol (mul)",
+  "examples": [
+    {
+      "example_maya": "Li mansaʼn xa kinmulij, maj nuchakach",
+      "example_spa": "Voy a llevarme las manzanas en la mano porque no tengo canasta",
+      "dialect": null
+    }
+  ],
+  "uuid": "571785e9-a084-4ec5-a472-4c02fdb1a1d2"
+}

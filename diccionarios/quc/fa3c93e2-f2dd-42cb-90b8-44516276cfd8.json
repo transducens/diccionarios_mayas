@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xururem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxururik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar pito; tocar pito",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VI Xur",
+  "examples": [
+    {
+      "example_maya": "Li pulusiʼy xuxururej li xul chech uqʼatexik li chʼichʼ",
+      "example_spa": "El policía tocó el gorgorito para detener al carro",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa3c93e2-f2dd-42cb-90b8-44516276cfd8"
+}

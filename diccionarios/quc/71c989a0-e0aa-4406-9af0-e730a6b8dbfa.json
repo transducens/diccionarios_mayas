@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pichʼoʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resto de mazorca que se queda en la milpa después de la tapisca; árbol cuyas ramas se usan para reglas de casa",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupichʼoʼl Raíz S Pichʼoʼl",
+  "examples": [
+    {
+      "example_maya": "Li akʼal tajin kutzukuj pichʼoʼl pa li patzʼan",
+      "example_spa": "El niño está buscando restos de mazorca entre las cañas de milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "71c989a0-e0aa-4406-9af0-e730a6b8dbfa"
+}

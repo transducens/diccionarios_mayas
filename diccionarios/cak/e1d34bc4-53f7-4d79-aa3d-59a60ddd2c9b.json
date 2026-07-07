@@ -1,0 +1,28 @@
+{
+  "entryWord": "Jalonïk",
+  "definition": "Cambiar una cosa por otra, prestar",
+  "additional_text": "VT Jaloxik (jalik, ninjäl) Jalajaʼ Cambiar varias veces var Jalwachinïk Jäl",
+  "examples": [
+    {
+      "example_maya": "Taq ntzʼilöbʼ ri nutzyaq, ninjäl",
+      "example_spa": "Cuando se ensucia mi ropa, me la cambio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ninjäl ri numachät chi ruwäch jun ikäj (ikej)",
+      "example_spa": "Voy a cambiar mi machete por un hacha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xinbʼän ri nuloqʼoj xa xinjäl jubʼaʼ numérya (nupwaq)",
+      "example_spa": "Cuando hice mi compra me fue necesario prestar un poco de dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "e1d34bc4-53f7-4d79-aa3d-59a60ddd2c9b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

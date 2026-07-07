@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yipyoj",
+  "entryWordDialect": null,
+  "altEntryWord": "Uyipyojil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xyipyojirik",
+  "altEntryWordDialect2": null,
+  "definition": "Mugroso con grasa",
+  "definitionDialect": "",
+  "additional_text": "Adj Coment Usado En personas es despectivo Raíz Adj Yip",
+  "examples": [
+    {
+      "example_maya": "Li ukuchiʼl li ajkarnaseʼr sibʼalaj yipyoj",
+      "example_spa": "El cuchillo del carnicero está muy mugroso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sinixoq sibʼalaj yipyoj li ratzʼyaq",
+      "example_spa": "El vestido de la mujer esta mugroso",
+      "dialect": null
+    }
+  ],
+  "uuid": "68be10df-3493-4b3b-a8a9-138dc956e912"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kamïk",
+  "definition": "Morirse",
+  "additional_text": "VI Kamik, yikän, yikäm Käm",
+  "examples": [
+    {
+      "example_maya": "Taq kʼo jun nikʼän, nimuq",
+      "example_spa": "Cuando muere alguien, lo entierran",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xkäm ri nuwakx, xmalamoʼ",
+      "example_spa": "Cuando se murió mi ganado, dejó un vacío",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f2baa53-34f7-4fbb-ba97-49f3ea43bef5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

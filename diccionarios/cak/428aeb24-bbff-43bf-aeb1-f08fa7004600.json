@@ -1,0 +1,23 @@
+{
+  "entryWord": "Salikʼa",
+  "definition": "Barba de viejo, bejuco que se usa para amarrar cercos; sus hojas y sus flores son medicinales)",
+  "additional_text": "sc Nusalikʼan Qʼayis, kʼan",
+  "examples": [
+    {
+      "example_maya": "Rikʼin ri salikʼan nijitzʼ ri koʼk",
+      "example_spa": "Con la barba de viejo se amarraron los cercos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Re salikʼan yalan kow, xa xe man kan ta xa bʼa kʼuchiʼ awil",
+      "example_spa": "Este tipo de bejuco es muy fuerte, sólo que no se encuentra en cualquier lugar",
+      "dialect": null
+    }
+  ],
+  "uuid": "428aeb24-bbff-43bf-aeb1-f08fa7004600",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

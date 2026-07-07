@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼipik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrar palito, varita de dulce, aguja, cosa rolliza y delgada; interrumpir a alguien al hablar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinqʼipoh Sinón Qʼeʼpuxik Raíz VT Qʼip",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kuqʼip li tzʼibʼabʼal",
+      "example_spa": "El niño quiebra el lápiz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih maj umurru kuramibʼej reh li usiʼ, xa je riʼ xumajij uqʼipik li usiʼ",
+      "example_spa": "El hombre no tenía machete para cortar leña, entonces comenzó a quebrarla",
+      "dialect": null
+    }
+  ],
+  "uuid": "00a7633a-ff2f-4e43-9ec2-518ceb2769c7"
+}

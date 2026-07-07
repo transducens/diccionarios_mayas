@@ -1,0 +1,23 @@
+{
+  "entryWord": "JEEʼKYALA",
+  "definition": "saber, quien sabe, no sé",
+  "additional_text": "pad",
+  "examples": [
+    {
+      "example_maya": "Jeʼkyala qʼany qa at moda wiʼja chin xela tukʼala",
+      "example_spa": "Saber vos, si tengo tiempo voy donde vos",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Jeʼkyala qʼany baqa a qina tajwil",
+      "example_spa": "Quién sabe vos, acaso soy el dueño",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "73833c3e-5908-4d7d-84a3-de63d2486f2e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

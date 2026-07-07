@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼaʼn",
+  "definition": "Escalera, puente",
+  "additional_text": "sInv Nuqʼaʼn Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri qʼaʼn xqʼaj qa pa ruwiʼ ri raqän yaʼ",
+      "example_spa": "El puente de madera se quebró sobre el río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xinchunaj (xinchumij) ri wachoch, xkʼatzin ri qʼaʼn chwe",
+      "example_spa": "Cuando encalé mi casa, me sirvió la escalera",
+      "dialect": null
+    }
+  ],
+  "uuid": "39b2336d-b66d-4f4c-8375-acf213bf3eb6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

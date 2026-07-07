@@ -1,0 +1,23 @@
+{
+  "entryWord": "ITZAAJ",
+  "definition": "hierba, verdura",
+  "additional_text": "s1b witzaja frases: saq itzaj  raíz itzaj s",
+  "examples": [
+    {
+      "example_maya": "¿Bʼaʼn chon txʼyan itzaj? bʼaʼna",
+      "example_spa": "¿Sabe el perro comer verdura? -sí",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Elaʼ txakaj itzaj bʼaʼn tchonjtz",
+      "example_spa": "Hay muchas clases de hierbas que son comestibles",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "26f5ecc9-84cc-4e0d-b4a8-a81d8f255cc8",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xojowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bailar Ya no voy a bailar, porque ya me cansé El hombre baila muy bien",
+  "definitionDialect": "",
+  "additional_text": "vi Kinxojowik Raíz VI Xoj",
+  "examples": [
+    {
+      "example_maya": "Na kinxojow ta chik, ma xa xinkosik",
+      "example_spa": "Ya no voy a bailar, porque ya me cansé",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, sibʼalaj utz kaxojowik",
+      "example_spa": "El hombre baila muy bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac7fc1d6-ec29-4191-be0d-fee92e597d54"
+}

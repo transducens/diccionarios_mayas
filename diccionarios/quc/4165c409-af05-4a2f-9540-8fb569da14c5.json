@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wonenexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correr con mucho empeño",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinwononeej F Raíz VT Won",
+  "examples": [
+    {
+      "example_maya": "Li alah, xuwononej ribʼ cheh anim are karaj kuchʼak li kachʼakik",
+      "example_spa": "El muchacho corrió con valentía, quería ganar el premio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kawononex nupam",
+      "example_spa": "Me duele el estómago por los retorcijones",
+      "dialect": null
+    }
+  ],
+  "uuid": "4165c409-af05-4a2f-9540-8fb569da14c5"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼamiʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchʼamiʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garrote; bastón",
+  "definitionDialect": "General",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li chʼamiʼy kachokon che toqʼabʼal",
+      "example_spa": "El garrote le sirve para sostenerse",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nima winaq kachʼamiʼyanik kabʼinik",
+      "example_spa": "El ancianito camina con bastón",
+      "dialect": null
+    }
+  ],
+  "uuid": "c74058d9-66b6-4479-8fda-e49f81a6629d"
+}

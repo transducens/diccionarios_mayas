@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzoktzotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzoktzotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flotar cosas en el agua; sentirse sin peso o débil después de una enfermedad",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzok",
+  "examples": [
+    {
+      "example_maya": "Li upowiʼ li achih xutzaq pa li bʼinel jaʼ, tzoktzotem xbʼek",
+      "example_spa": "El hombre botó el sombrero al río y se fue flotando",
+      "dialect": null
+    }
+  ],
+  "uuid": "beb09194-e6b2-46c8-beb6-c511a7c8255f"
+}

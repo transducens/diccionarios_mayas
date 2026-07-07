@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼayinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼayinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirarse pedos",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Kʼah",
+  "examples": [
+    {
+      "example_maya": "Li aq sibʼalaj kakʼayinik ma xaq rubʼil kutijoh",
+      "example_spa": "El coche se tira muchos pedos porque come de todo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a2de6f96-ce7c-4762-b6a9-1c0f71b9c461"
+}

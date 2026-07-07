@@ -1,0 +1,24 @@
+{
+  "entryWord": "Muqʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmuqʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empuñar en la mano; llevar puño; llevar agua en la boca; agarrar o cubrir los órganos sexuales con la mano",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raiz VT Muqʼ",
+  "examples": [
+    {
+      "example_maya": "Kinmuqʼej li ixim pa nuqʼabʼ",
+      "example_spa": "Llevo un puño de maíz en la mano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal umuqʼem li pwaq puqʼabʼ ma are karaj na kutzaq taj",
+      "example_spa": "El niño empuña en la mano el dinero porque no quiere perderlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "09c7b3d1-c0c2-4e4a-af04-db6d41b9a30b"
+}

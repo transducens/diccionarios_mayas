@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choʼwem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachoʼwik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Haber suciedad o xinga en un líquido",
+  "definitionDialect": "General",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li ukape li alih na qas ta poqʼownaq, xa je riʼ xa kachoʼwik",
+      "example_spa": "El café de la muchacha no está bien hervido, por eso tiene xinga encima",
+      "dialect": null
+    }
+  ],
+  "uuid": "20ab66c7-9d54-4ce8-b365-1a12612f4952"
+}

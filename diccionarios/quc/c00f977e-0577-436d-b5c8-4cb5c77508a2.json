@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nojimal",
+  "entryWordDialect": null,
+  "altEntryWord": "noʼjimal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "nojimaal",
+  "altEntryWordDialect2": null,
+  "definition": "Despacio",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Li achih nojimal kabʼinik ma al li reqaʼn",
+      "example_spa": "El hombre camina despacio porque su carga pesa mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "c00f977e-0577-436d-b5c8-4cb5c77508a2"
+}

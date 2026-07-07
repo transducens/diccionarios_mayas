@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muʼs",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ladino; mestizo",
+  "definitionDialect": "",
+  "additional_text": "snp spl Musayiibʼ Ladinos (pl) vi Muʼsayʼʼreem Convertirse en ladino DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li muʼs amaqʼel pa kaxlan tzij kachʼawik",
+      "example_spa": "El ladino siempre habla en castellano",
+      "dialect": null
+    }
+  ],
+  "uuid": "5d815cfe-6320-4410-97d6-7070982f0e06"
+}

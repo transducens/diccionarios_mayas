@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pataʼx",
+  "definition": "Cuache: fruta o verdura, guapil: fruta o verdura",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Ri echaʼ pataʼx ma kan ta yeʼatzʼët",
+      "example_spa": "Las frutas cuaches no se ven mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo bʼey ri traʼs e pataʼx",
+      "example_spa": "A veces los duraznos son guapiles",
+      "dialect": null
+    }
+  ],
+  "uuid": "65ddba86-d759-4e62-ab74-97676af89eb4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

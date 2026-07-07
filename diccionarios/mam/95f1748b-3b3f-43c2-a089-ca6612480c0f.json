@@ -1,0 +1,18 @@
+{
+  "entryWord": "LIITRA",
+  "definition": "litro",
+  "additional_text": "s1 nlitraya del español litro",
+  "examples": [
+    {
+      "example_maya": "Mas nim tuj litra twitz botey",
+      "example_spa": "El litro contiene más que una botella",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "95f1748b-3b3f-43c2-a089-ca6612480c0f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

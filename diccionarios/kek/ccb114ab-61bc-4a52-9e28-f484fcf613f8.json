@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼiila atq",
+  "definition": "Mucho, bastante Afijo que se encuentra entre la flexión y la raíz de verbos, que dan el sentido de hacer mucho la acción del mismo",
+  "additional_text": "PA",
+  "examples": [
+    {
+      "example_maya": "Kʼiila tzʼoq",
+      "example_spa": "Muchos sanates",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼiila cheʼatq",
+      "example_spa": "Bastantes palos",
+      "dialect": null
+    }
+  ],
+  "uuid": "ccb114ab-61bc-4a52-9e28-f484fcf613f8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

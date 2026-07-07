@@ -1,0 +1,23 @@
+{
+  "entryWord": "Näj",
+  "definition": "Lejos",
+  "additional_text": "AdvL Ant Naqaj",
+  "examples": [
+    {
+      "example_maya": "Taq näj yabʼesämäj wi, yalan yakos pe",
+      "example_spa": "Cuando uno sale a trabajar muy lejos, se cansa mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun wachʼalal yalan näj kʼo wi racho",
+      "example_spa": "Tengo un familiar que vive muy lejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "e965f23d-cbfb-4631-9f9d-1db324f38737",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

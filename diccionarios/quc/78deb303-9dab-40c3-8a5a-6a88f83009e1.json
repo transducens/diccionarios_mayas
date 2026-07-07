@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pinol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pinol",
+  "definitionDialect": "General",
+  "additional_text": "sinv Nupinool Sinón Kʼaj Var Peenuul Del Nahuatl Pinolli",
+  "examples": [
+    {
+      "example_maya": "Li winaq kakibʼan pinol che li kʼaj re ixim",
+      "example_spa": "La gente hace pinol de la harina de maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "78deb303-9dab-40c3-8a5a-6a88f83009e1"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "MANDAAR",
+  "definition": "mandado",
+  "additional_text": "s1 nmandara del español mandar",
+  "examples": [
+    {
+      "example_maya": "At jun nmandara il tiʼj tuj tnam tukʼ nkompala",
+      "example_spa": "Tengo un mandado urgente en el pueblo, con mi compadre",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "938d22ab-91b4-4ac7-8361-5d334203d677",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "XJABʼ",
+  "definition": "caite, guaracha",
+  "additional_text": "s1b nxajbʼaya raíz xajabʼ s ds bʼetbʼil",
+  "examples": [
+    {
+      "example_maya": "¿Tzʼuʼm twitz t-xajbʼa tkuʼx?",
+      "example_spa": "¿La correa de tus caites es de cuero?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Iilx tiʼj kabʼ xjabʼ tuʼn tok qgan",
+      "example_spa": "Es necesario usar dos caites para los pies",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5742d1b2-fbd3-48d3-a46b-3918fc2e3aa5",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

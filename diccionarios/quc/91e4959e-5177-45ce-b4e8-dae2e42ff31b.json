@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Máscara",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Xajbʼal Fbas //Kʼohj//",
+  "examples": [
+    {
+      "example_maya": "Kʼi uwach chi kʼoj kʼolik",
+      "example_spa": "Hay varias clases de máscaras",
+      "dialect": null
+    }
+  ],
+  "uuid": "91e4959e-5177-45ce-b4e8-dae2e42ff31b"
+}

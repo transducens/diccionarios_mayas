@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxkabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuraxkabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Miel",
+  "definitionDialect": "general",
+  "additional_text": "sc Raíz Adj Rax Raíz S Kaabʼ DomS Kaabʼ",
+  "examples": [
+    {
+      "example_maya": "Li raxkabʼ utz katijowik xuq utz cheh kunabʼal",
+      "example_spa": "La miel es muy buena para comer y también sirve para medicina",
+      "dialect": null
+    }
+  ],
+  "uuid": "86f48bbb-b859-41bd-ab2d-c5d701801356"
+}

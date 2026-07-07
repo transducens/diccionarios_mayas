@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼunukʼutem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼunukʼutik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar marimba",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz VT Kʼun",
+  "examples": [
+    {
+      "example_maya": "Li achih, ronojel taq rokibʼal aqʼabʼ kakʼunukʼutik",
+      "example_spa": "El hombre siempre toca la marimba al anochecer",
+      "dialect": null
+    }
+  ],
+  "uuid": "8086e07c-926c-4bc3-9ffc-8241067b7d7a"
+}

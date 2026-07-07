@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHINABʼ",
+  "definition": "marimba",
+  "additional_text": "s1b nchinbʼa sin marimp; raíz chinabʼ s ds makbʼil",
+  "examples": [
+    {
+      "example_maya": "Maʼ kubʼ chinabʼ te ninqʼij",
+      "example_spa": "Ya pusieron marimba para la fiesta",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Qʼajit nxiʼ twiʼ chinabʼ tuj ttxʼotxʼ Watemal",
+      "example_spa": "Suena mucho la marimba en las tierras de Guatemala",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "82020c7a-a2e5-4c9e-81c7-71d901065462",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

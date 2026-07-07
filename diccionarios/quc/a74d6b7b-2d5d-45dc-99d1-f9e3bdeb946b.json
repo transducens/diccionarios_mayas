@@ -1,0 +1,29 @@
+{
+  "entryWord": "Waʼkatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasear; viajar; vagar",
+  "definitionDialect": "",
+  "additional_text": "vi Kinwaʼkatik Raiz VI Waʼk",
+  "examples": [
+    {
+      "example_maya": "Li alabʼom xaq kewaʼkatik, ma xa maj kakichakuj",
+      "example_spa": "Los muchachos están vagando porque no tienen trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tijoxelabʼ chweʼq kebʼe pa waʼkatem",
+      "example_spa": "Los alumnos irán a pasear mañana",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achijabʼ kebʼe pa waʼkatem pa taq tinamit, chi retaʼmaxik ri noʼjibʼal",
+      "example_spa": "Los hombres van a viajar por los pueblos para conocer sus costumbres",
+      "dialect": null
+    }
+  ],
+  "uuid": "a74d6b7b-2d5d-45dc-99d1-f9e3bdeb946b"
+}

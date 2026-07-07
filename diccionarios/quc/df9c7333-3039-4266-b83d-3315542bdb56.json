@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼaqajaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Otro lado (país lejano)",
+  "definitionDialect": "General",
+  "additional_text": "sNP Var Chʼaqap",
+  "examples": [
+    {
+      "example_maya": "Li achih chʼaqajaʼ kape wih",
+      "example_spa": "El hombre viene del otro lado del mar",
+      "dialect": null
+    }
+  ],
+  "uuid": "df9c7333-3039-4266-b83d-3315542bdb56"
+}

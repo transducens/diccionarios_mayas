@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chikloxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salpicar, chapotear",
+  "definitionDialect": "General",
+  "additional_text": "VTD Kinchiklooj Raíz VT Chik",
+  "examples": [
+    {
+      "example_maya": "Kinchikloj le jaʼ chrij li meʼs",
+      "example_spa": "Al gato le salpicó agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "1337025b-a3c7-4175-a9d3-d17cc6c19ebc"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Amilah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chichicaste, ortiga",
+  "definitionDialect": "General",
+  "additional_text": "snP DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Kʼo juwiʼ amilah chpam le wuliw",
+      "example_spa": "En mi terreno hay una mata de chichicaste",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0daf074-b1c3-473b-9f6b-b0fddd2e29cf"
+}

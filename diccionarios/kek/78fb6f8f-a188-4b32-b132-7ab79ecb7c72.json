@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzentzerebʼak",
+  "definition": "Cantar, como el gallo",
+  "additional_text": "vi Natzentzerebʼak",
+  "examples": [
+    {
+      "example_maya": "Xineʼrajsi naq yookebʼ chi tzentzerebʼak laj tzoʼ kaxlan",
+      "example_spa": "Me despertaron los gallos cuando cantaron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yo chi tzolok tzentzerebʼak inchʼinatzoʼ",
+      "example_spa": "Mi gallito está aprendiendo a cantar",
+      "dialect": null
+    }
+  ],
+  "uuid": "78fb6f8f-a188-4b32-b132-7ab79ecb7c72",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

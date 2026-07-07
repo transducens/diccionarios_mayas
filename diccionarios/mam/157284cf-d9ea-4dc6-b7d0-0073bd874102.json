@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHIROOM",
+  "definition": "azulejo (pájaro que tiene cuatro huevos siempre en su nido, vive en huecos de árboles)",
+  "additional_text": "s1 nchiroma ds chʼit",
+  "examples": [
+    {
+      "example_maya": "Kyaqil tyemp at chirom",
+      "example_spa": "Todo el tiempo se ve el azulejo",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aj chirom chaʼx tibʼlal",
+      "example_spa": "El azulejo es de color azul",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "157284cf-d9ea-4dc6-b7d0-0073bd874102",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

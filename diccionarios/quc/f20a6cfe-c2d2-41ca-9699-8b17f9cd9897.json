@@ -1,0 +1,19 @@
+{
+  "entryWord": "Watzʼotzʼirem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tostarse el pan o tortillas",
+  "definitionDialect": "",
+  "additional_text": "vi Kawatzʼotzʼirik Var Wotzʼotzʼireem Raíz Vl Watzʼ",
+  "examples": [
+    {
+      "example_maya": "Li lij xwotzʼotzʼir pa li xot",
+      "example_spa": "La tortilla se tostó en el comal",
+      "dialect": null
+    }
+  ],
+  "uuid": "f20a6cfe-c2d2-41ca-9699-8b17f9cd9897"
+}

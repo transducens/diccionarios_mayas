@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajqʼabʼchim",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajqʼabʼ chim",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morral de pita; mi morral de pita",
+  "definitionDialect": "General",
+  "additional_text": "SCl Var Chiim DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼabʼ chim xnoj chech jal",
+      "example_spa": "El morral de pita se llenó de mazorcas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a71c3769-0490-4621-8d43-93555fd09f7b"
+}

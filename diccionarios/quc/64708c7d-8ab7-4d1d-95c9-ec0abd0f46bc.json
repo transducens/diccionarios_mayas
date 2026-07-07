@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rikil",
+  "entryWordDialect": null,
+  "altEntryWord": "Nurikil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comida cocida (que no sea de masa)",
+  "definitionDialect": "es",
+  "additional_text": "sInv Var Wah Var Waʼiim Raíz S Iik",
+  "examples": [
+    {
+      "example_maya": "Li rikil li kubʼan li nunan sibʼalaj kiʼ utujowik",
+      "example_spa": "La comida que prepara mi mamá, es rica",
+      "dialect": null
+    }
+  ],
+  "uuid": "64708c7d-8ab7-4d1d-95c9-ec0abd0f46bc"
+}

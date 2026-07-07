@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzijtzobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzijtzobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alumbrar de repente una luz en la oscuridad; encenderse de repente una luz",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzij",
+  "examples": [
+    {
+      "example_maya": "Li lus xaq kʼa teʼ xtzijtzobʼik",
+      "example_spa": "La luz alumbró de repente",
+      "dialect": null
+    }
+  ],
+  "uuid": "c5f9bfaa-e30c-44d3-9bb6-ffb1daa04800"
+}

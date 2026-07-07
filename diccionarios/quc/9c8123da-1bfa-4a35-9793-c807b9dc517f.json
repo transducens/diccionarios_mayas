@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kayixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkayij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regar granos; deshacer manojos de paja, espigas de trigo, tejidos; soltar el pelo en la espalda; sacar sangre de un puñetazo",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz P Kah",
+  "examples": [
+    {
+      "example_maya": "Xinkayij li nuwiʼ are chiʼ kachaqijik",
+      "example_spa": "Me solté el pelo para que se secara",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Xwan xukayij kikʼ pa nutzaʼm",
+      "example_spa": "Juan me sacó sangre de la nariz de un puñetazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c8123da-1bfa-4a35-9793-c807b9dc517f"
+}

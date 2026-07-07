@@ -1,0 +1,19 @@
+{
+  "entryWord": "Penabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupenabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arbol de tierra fría con hojas parecidas a las del palo de hule",
+  "definitionDialect": "General",
+  "additional_text": "sInv F //Pehnaabʼ// DomS Wiqobʼal DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li uxaq waʼ we penabʼ kachokon che wiqobʼal kukʼ aʼjsant",
+      "example_spa": "Las hojas de este árbol se usan para adorno en las cofradías",
+      "dialect": null
+    }
+  ],
+  "uuid": "b59d8a7c-1450-4dbf-ad8f-86481c353b13"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakaklabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachakaklabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gatear",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Chak",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kachakaklabʼik ma xa qʼabʼarel",
+      "example_spa": "El hombre gatea porque está bolo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1d41efa3-6ca9-42d6-a349-60d6e5a893c0"
+}

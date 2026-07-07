@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qitzʼiqoʼ",
+  "definition": "Hacer ruido una puerta o cosa de madera",
+  "additional_text": "vi Niqitzʼiqoʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼo ruchiʼ taq jay xe xkeʼajäq yeqitzʼiqoʼ pe",
+      "example_spa": "Hay puertas que sólo al abrirlas hacen ruido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chʼichʼ chʼat yalan nqitzʼiqöt taq yawär chuwäch",
+      "example_spa": "La cama de metal hace mucho ruido al dormirse en ella",
+      "dialect": null
+    }
+  ],
+  "uuid": "305aba68-c7d1-46a7-8516-1801eb92c8e4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

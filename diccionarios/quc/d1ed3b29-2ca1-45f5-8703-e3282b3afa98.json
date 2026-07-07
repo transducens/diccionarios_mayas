@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xyal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxyal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cotón",
+  "definitionDialect": "Dom.S. Atz'yaq.",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li ukojik li xyal sibʼalaj miqʼin",
+      "example_spa": "El cotón es muy caliente al usarlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xyal qʼeq kakaʼyik, achijabʼ kekojowik",
+      "example_spa": "El cotón es de color negro, sólo los hombres lo usan",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1ed3b29-2ca1-45f5-8703-e3282b3afa98"
+}

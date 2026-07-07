@@ -1,0 +1,24 @@
+{
+  "entryWord": "Torqʼoʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse cosa descompuesta, como silla o cabo de azadón",
+  "definitionDialect": "",
+  "additional_text": "vi Katorqʼoʼtik Raiz VT Tor",
+  "examples": [
+    {
+      "example_maya": "Xaq katorqʼoʼt li xilaʼ ma xa yojtajnaq",
+      "example_spa": "La silla se mueve porque está descompuesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xaq katorqʼoʼt li raqan asaron ma xa na ko ta bʼajim",
+      "example_spa": "El cabo del azadón se mueve porque no está bien clavado",
+      "dialect": null
+    }
+  ],
+  "uuid": "846175e0-29d4-456e-a491-979626407cef"
+}

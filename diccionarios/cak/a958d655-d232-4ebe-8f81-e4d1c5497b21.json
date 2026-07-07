@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼis",
+  "definition": "Terminarse, acabarse",
+  "additional_text": "VI Nikʼis",
+  "examples": [
+    {
+      "example_maya": "Ri wäj nikʼis qa koma ri kʼäl (kʼel)",
+      "example_spa": "Mi elote se está terminando por los chocoyos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xkʼis qa ri nujal",
+      "example_spa": "Se terminó mi mazorca",
+      "dialect": null
+    }
+  ],
+  "uuid": "a958d655-d232-4ebe-8f81-e4d1c5497b21",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

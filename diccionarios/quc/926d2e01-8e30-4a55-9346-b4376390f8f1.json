@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqaqan",
+  "entryWordDialect": null,
+  "altEntryWord": "saqaʼqan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de culebra venenosa",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li saqaqan are laʼ jun kumatz tyoʼnel xuq kakamsanik",
+      "example_spa": "Esta es una culebra venenosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "926d2e01-8e30-4a55-9346-b4376390f8f1"
+}

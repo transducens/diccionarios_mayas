@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saleʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaleʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zalea",
+  "definitionDialect": "general",
+  "additional_text": "sinv Del Cast Zalea",
+  "examples": [
+    {
+      "example_maya": "Li winaq ojer tziij saleʼy kakisokaj",
+      "example_spa": "Antes la gente usaba zaleas para colchón",
+      "dialect": null
+    }
+  ],
+  "uuid": "f18bcd59-fe93-4664-b371-7ee80e7a280a"
+}

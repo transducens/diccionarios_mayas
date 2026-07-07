@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xirowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxirowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar los grillos; hacer ruido la nariz al respirar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Xir",
+  "examples": [
+    {
+      "example_maya": "Li xiʼl pa taq taqʼaj sibʼalaj kexirowik",
+      "example_spa": "En la costa cantan los grillos",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f86ef49-4f64-4910-82ba-b24677e7a838"
+}

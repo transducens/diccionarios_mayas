@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kot",
+  "definition": "Águila, halcón",
+  "additional_text": "sInv Nukot",
+  "examples": [
+    {
+      "example_maya": "Kot nibʼïx chire ri jun chiköp xkʼojeʼ ojer, ri yerutïj winäq",
+      "example_spa": "Águila se le decía a un animal que existió antes y que se comía a la gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nibʼïx chi ojer xkʼojeʼ jun kot kaʼiʼ rujolon (ruwiʼ)",
+      "example_spa": "Dicen que antes hubo un águila de dos cabezas",
+      "dialect": null
+    }
+  ],
+  "uuid": "d86f33c1-44b3-45fb-b7c1-e08895b31d35",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

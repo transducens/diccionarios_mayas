@@ -1,0 +1,28 @@
+{
+  "entryWord": "Bʼaʼ (jubʼaʼ)",
+  "definition": "Poco Partícula que va ligada con clasificador numérico y suelto en otras combinaciones",
+  "additional_text": "Advc Bʼaʼ ok xel",
+  "examples": [
+    {
+      "example_maya": "Jubʼa ök xel",
+      "example_spa": "Poco salió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jubʼaʼ ma xinkikamisaj iwir",
+      "example_spa": "Ayer me iban a matar Por poco me mataban ayer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jubʼaʼ chik kʼa nqil jubʼaʼ chik kʼa manäq",
+      "example_spa": "Ya nosotros sólo saltemos (expresión ceremonial)",
+      "dialect": null
+    }
+  ],
+  "uuid": "958d7e36-0a60-4b7c-935f-28496e18c27d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abuelo",
+  "definitionDialect": "",
+  "additional_text": "sInv Numaam Raíz S Maam DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Li akʼal si loqʼ chwach li umam",
+      "example_spa": "El niño es muy estimado por su abuelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f557187d-1b02-4fee-8277-ee16e19e6ecf"
+}

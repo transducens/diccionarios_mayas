@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼ paqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ruido de chicote, fuego, cohetillos, disparo de rifle o pepitoria que se revienta al ser tostada",
+  "definitionDialect": "",
+  "additional_text": "AL var Paqʼlixik",
+  "examples": [
+    {
+      "example_maya": "Paqʼ paqʼ kubʼan uchʼabʼal li asyar kech ajyuqʼabʼ",
+      "example_spa": "Paaqʼ paaqʼ hace el ruido el chicote del pastor",
+      "dialect": null
+    }
+  ],
+  "uuid": "63faf24d-fb5c-4bfb-93f8-d0eb1c775d18"
+}

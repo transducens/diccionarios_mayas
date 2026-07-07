@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lebʼelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Torcida: la boca (vulgar)",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Lebʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin koqʼik, li uxe reh jun nima lebʼelik",
+      "example_spa": "La mujer está llorando con la boca torcida",
+      "dialect": null
+    }
+  ],
+  "uuid": "2dff85fc-16fb-42bc-8cb1-af2182385109"
+}

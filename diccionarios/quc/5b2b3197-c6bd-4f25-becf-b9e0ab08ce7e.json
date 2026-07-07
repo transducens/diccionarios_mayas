@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xukulʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxukulʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costumbre que hacen los sacerdotes mayas; petatillo que se usa para sentarse las mujeres",
+  "definitionDialect": "",
+  "additional_text": "sInv Sinón Sepelebʼal",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kʼakʼ li uxukulʼbʼal ukojom",
+      "example_spa": "La mujer se sentó sobre un petatillo nuevo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li yawabʼ xbʼan sin uxukulʼbʼal",
+      "example_spa": "Al enfermo le hicieron costumbre",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b2b3197-c6bd-4f25-becf-b9e0ab08ce7e"
+}

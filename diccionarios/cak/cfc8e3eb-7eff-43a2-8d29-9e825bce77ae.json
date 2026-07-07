@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tiʼïj",
+  "definition": "Carne",
+  "additional_text": "sps Nutiʼ Sinón Tiʼx, chʼakulaj",
+  "examples": [
+    {
+      "example_maya": "Kʼo winäq majun ketaman ta nikitäj tiʼïj",
+      "example_spa": "Hay personas que no saben comer carne",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rutiʼ ri aq yalan tew",
+      "example_spa": "La carne del marrano es muy fría",
+      "dialect": null
+    }
+  ],
+  "uuid": "cfc8e3eb-7eff-43a2-8d29-9e825bce77ae",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

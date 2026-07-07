@@ -1,0 +1,18 @@
+{
+  "entryWord": "PLAJ",
+  "definition": "1 lado 2 una red de algo",
+  "additional_text": "s1 nplaja raíz plaj s",
+  "examples": [
+    {
+      "example_maya": "¿Antz jun plaj nchʼexa jal?",
+      "example_spa": "¿Dame una red de mazorca prestada?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "42009e42-2354-456c-b4c3-25bd2cdbc40a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

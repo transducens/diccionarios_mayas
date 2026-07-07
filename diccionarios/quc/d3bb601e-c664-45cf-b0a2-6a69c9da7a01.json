@@ -1,0 +1,19 @@
+{
+  "entryWord": "Likʼikʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tender mucho; extender mucho",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinlikʼikʼeej Raíz VT Likʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xulikʼikʼej li uchʼajoʼn chwa li qʼij",
+      "example_spa": "La mujer tendió mucha ropa bajo el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "d3bb601e-c664-45cf-b0a2-6a69c9da7a01"
+}

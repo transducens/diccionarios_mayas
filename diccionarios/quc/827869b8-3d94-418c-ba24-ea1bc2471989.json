@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kulantoh re jaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba que da una semilla que se mezcla con el atol",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Waʼ we kulantoh re jaʼ kaya rukʼ ukʼyaʼ (qʼor)",
+      "example_spa": "Esta hierba se mezcla con bebida de atol",
+      "dialect": null
+    }
+  ],
+  "uuid": "827869b8-3d94-418c-ba24-ea1bc2471989"
+}

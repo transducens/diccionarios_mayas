@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tobʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katobʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar en camisa o pantalón grande",
+  "definitionDialect": "General",
+  "additional_text": "vt Sinón Chotnajeem Raíz vl Tobʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj katobʼnaj li ratzʼyaq",
+      "example_spa": "El niño anda con una camisa grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c93f478-7bdb-4626-b62e-bdf54da53edc"
+}

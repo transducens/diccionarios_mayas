@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nimatajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnimatajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empeorarse una enfermedad o cosas, como un incendio, guerra o destrucción de una casa, pleito",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Xnimataj uyabʼ li a Wel",
+      "example_spa": "La enfermedad de Manuel se empeoró",
+      "dialect": null
+    }
+  ],
+  "uuid": "fe27c369-e8a4-4c6b-aeb0-df642b1b73e8"
+}

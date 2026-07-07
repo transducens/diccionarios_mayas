@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xaqʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido los cerdos cuando comen",
+  "definitionDialect": "",
+  "additional_text": "vi Kaxaqʼnajik Raíz VT Xaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li aq kaxaqʼnaj kawaʼik",
+      "example_spa": "El cerdo hace ruido cuando come",
+      "dialect": null
+    }
+  ],
+  "uuid": "10233060-f6ff-4d4e-af59-de7743e0c7db"
+}

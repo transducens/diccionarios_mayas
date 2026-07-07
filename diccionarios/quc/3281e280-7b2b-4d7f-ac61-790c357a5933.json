@@ -1,0 +1,24 @@
+{
+  "entryWord": "Eeqaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cargar; echar culpa",
+  "definitionDialect": "Español",
+  "additional_text": "vtrD Kinweeqaaj FPos //Ehqa// s Eeqaʼn Carga sc Reqabʼalaʼ Charco; río que corre en los caminos al llover Raíz s //Ehq//",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ kakeqaj na li jujun kʼat jal",
+      "example_spa": "Los hombres van a cargar las redes de maíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xweqaj li pwaq xtzaqik",
+      "example_spa": "Me echaron la culpa por el dinero que se perdió",
+      "dialect": null
+    }
+  ],
+  "uuid": "3281e280-7b2b-4d7f-ac61-790c357a5933"
+}

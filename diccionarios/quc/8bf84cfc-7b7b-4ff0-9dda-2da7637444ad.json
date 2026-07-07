@@ -1,0 +1,19 @@
+{
+  "entryWord": "Manxoh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manso",
+  "definitionDialect": "",
+  "additional_text": "Adj Umaanxoyirik Ant Kʼaʼn Del Cast Manso",
+  "examples": [
+    {
+      "example_maya": "Li nukej sibʼalaj manxoh",
+      "example_spa": "Mi caballo es muy manso",
+      "dialect": null
+    }
+  ],
+  "uuid": "8bf84cfc-7b7b-4ff0-9dda-2da7637444ad"
+}

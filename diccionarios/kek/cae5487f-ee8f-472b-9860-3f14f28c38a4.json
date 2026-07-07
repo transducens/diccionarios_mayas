@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ramok bʼe",
+  "definition": "Impedir el paso",
+  "additional_text": "vi Xinramok bʼe",
+  "examples": [
+    {
+      "example_maya": "Ebʼ laj trabʼaaj yookebʼ chi ramok bʼe",
+      "example_spa": "Los trabajadores están impidiendo el paso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ramro li bʼe",
+      "example_spa": "No hay paso",
+      "dialect": null
+    }
+  ],
+  "uuid": "cae5487f-ee8f-472b-9860-3f14f28c38a4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

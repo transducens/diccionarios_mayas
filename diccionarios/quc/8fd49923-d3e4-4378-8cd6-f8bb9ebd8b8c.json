@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wuluwik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonado: restos de casa al caerse o derrumbe de piedras, palos y tierra",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Wul",
+  "examples": [
+    {
+      "example_maya": "Li ul xqaj pa li bʼeh, jun nima wuluwik abʼaj",
+      "example_spa": "El derrumbe que cayó en el camino es un montón de piedras",
+      "dialect": null
+    }
+  ],
+  "uuid": "8fd49923-d3e4-4378-8cd6-f8bb9ebd8b8c"
+}

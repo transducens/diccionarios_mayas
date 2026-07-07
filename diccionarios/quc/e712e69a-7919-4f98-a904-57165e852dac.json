@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jutzak",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cocida completa de comida para no hacerlo por pocos",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Tzak",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq jutzak xuya che li ichaj, xutijoh",
+      "example_spa": "La mujer sólo medio coció las verduras y se las comió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xaq jutzak xubʼan che li jun pajbʼal kinaqʼ",
+      "example_spa": "La mujer coció una medida de frijol al mismo tiempo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e712e69a-7919-4f98-a904-57165e852dac"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qanmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqanmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar como pato o persona muy gorda",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Qan",
+  "examples": [
+    {
+      "example_maya": "Li jun chom ixoq xaq kaqanmaʼy pa taq bʼeh",
+      "example_spa": "La mujer gorda está andando en las calles",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6bc7219-efbb-4632-9f05-0249ef238a0e"
+}

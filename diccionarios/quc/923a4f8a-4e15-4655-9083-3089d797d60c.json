@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tajin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verbo auxiliar que forma aspecto progresivo",
+  "definitionDialect": "",
+  "additional_text": "vi Coment Le sigue el verbo en infinitivo con flexión de persona y aspecto",
+  "examples": [
+    {
+      "example_maya": "Li ajanel tajin kubʼan jun alaʼs",
+      "example_spa": "El carpintero está haciendo un muñeco",
+      "dialect": null
+    }
+  ],
+  "uuid": "923a4f8a-4e15-4655-9083-3089d797d60c"
+}

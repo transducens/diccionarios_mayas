@@ -1,0 +1,33 @@
+{
+  "entryWord": "Chanin chaʼnin (chʼanin)",
+  "definition": "Rápido, luego",
+  "additional_text": "Adv M Ant Eqal Maril sin aninäq Sinón Chʼanin",
+  "examples": [
+    {
+      "example_maya": "Yïn chanin xinwetamaj xisäm",
+      "example_spa": "Yo aprendí rápido a trabajar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chanin xibʼe pa juyuʼ iwir",
+      "example_spa": "Rápido fui al campo ayer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jät chanin chi awacho",
+      "example_spa": "Vete rápido a tu casa Váyase rápido a su casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chaʼnin xinuʼqa el ruma aninäq xipe",
+      "example_spa": "Luego llegué porque me vine rápido",
+      "dialect": null
+    }
+  ],
+  "uuid": "37d5b9e6-3a05-4f27-a36c-802b76a7eafd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

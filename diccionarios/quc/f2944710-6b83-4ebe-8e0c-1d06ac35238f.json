@@ -1,0 +1,19 @@
+{
+  "entryWord": "Katzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer sin apetito; tragar comida sin masticarla",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinkatzoh Enu Jukaatz Una mordida Raiz VT Katz",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq kukatz li uwa ma xa yawabʼ",
+      "example_spa": "La mujer come sin apetito porque está enferma",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2944710-6b83-4ebe-8e0c-1d06ac35238f"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼoqoxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Castigar un Santo a una persona por falta de respeto",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinkʼoqoj Raíz S Kʼooq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xkʼoqox rumal li tyox, xuriq yabʼil",
+      "example_spa": "La mujer fue castigada por el Santo por eso se enfermó",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Kʼa te mukʼoqoj uqʼij",
+      "example_spa": "Después no se vaya a arrepentir",
+      "dialect": null
+    }
+  ],
+  "uuid": "a42ef328-9f17-4208-91a8-4773c70b46c8"
+}

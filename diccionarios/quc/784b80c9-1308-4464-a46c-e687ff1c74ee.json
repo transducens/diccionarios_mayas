@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xtalon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Camaleón",
+  "definitionDialect": "Dom.S. Chkop.",
+  "additional_text": "snP",
+  "examples": [
+    {
+      "example_maya": "Li xtalon nim li ujeʼ, kukʼex ribʼ kakaʼy li rij xuq kuʼtij amaloh",
+      "example_spa": "El camaleón tiene grande la cola, cambia de color y come moscas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xtalon nima xpaʼch kukʼex ribʼ upa li rij",
+      "example_spa": "El camaleón es una lagartija grande a la que le cambia de color el cuerpo",
+      "dialect": null
+    }
+  ],
+  "uuid": "784b80c9-1308-4464-a46c-e687ff1c74ee"
+}

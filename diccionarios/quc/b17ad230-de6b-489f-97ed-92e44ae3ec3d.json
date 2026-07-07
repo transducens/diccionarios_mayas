@@ -1,0 +1,29 @@
+{
+  "entryWord": "Petzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Upetzʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xpetzʼarik",
+  "altEntryWordDialect2": null,
+  "definition": "Cojo; renco",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz Adj Peetzʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah si petzʼ pa ralajil",
+      "example_spa": "El muchacho nació cojo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Petzʼ are riʼ we jun winaq na junam ta li raqan",
+      "example_spa": "Cojo quiere decir que una persona no tiene las dos piernas iguales",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xwachʼ rumal bʼinel chʼichʼ xpetzʼarik",
+      "example_spa": "El hombre fue atropellado por un carro y quedó cojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b17ad230-de6b-489f-97ed-92e44ae3ec3d"
+}

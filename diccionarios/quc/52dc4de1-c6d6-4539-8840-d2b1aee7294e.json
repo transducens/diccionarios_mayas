@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tapeʼx",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutapeʼx",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tapesco",
+  "definitionDialect": "general",
+  "additional_text": "SInv DomS Chokonisabʼal Del Cast Tapesco",
+  "examples": [
+    {
+      "example_maya": "Li tapeʼx kachokon cheh ukʼolʼbʼal laq chiʼl webʼal",
+      "example_spa": "El tapesco sirve para guardar escudillas y platos",
+      "dialect": null
+    }
+  ],
+  "uuid": "52dc4de1-c6d6-4539-8840-d2b1aee7294e"
+}

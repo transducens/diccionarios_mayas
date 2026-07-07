@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼotzʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xbʼotzʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xubʼotzʼobaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Envuelto",
+  "definitionDialect": "",
+  "additional_text": "p Raíz PT Bʼotzʼ",
+  "examples": [
+    {
+      "example_maya": "Li uneʼ li ixoq bʼotzʼol pa pas",
+      "example_spa": "El nene está envuelto con una faja",
+      "dialect": null
+    }
+  ],
+  "uuid": "525d89b6-767d-40ea-bca7-d1656c3f9676"
+}

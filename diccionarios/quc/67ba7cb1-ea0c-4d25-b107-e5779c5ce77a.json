@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mis",
+  "entryWordDialect": null,
+  "altEntryWord": "Numis",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Misa",
+  "definitionDialect": "",
+  "additional_text": "sInv Del Cast Misa",
+  "examples": [
+    {
+      "example_maya": "Li pareh tajin kubʼan mis",
+      "example_spa": "El sacerdote está celebrando misa",
+      "dialect": null
+    }
+  ],
+  "uuid": "67ba7cb1-ea0c-4d25-b107-e5779c5ce77a"
+}

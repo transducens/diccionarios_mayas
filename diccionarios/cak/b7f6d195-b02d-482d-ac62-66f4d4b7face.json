@@ -1,0 +1,23 @@
+{
+  "entryWord": "Samaj",
+  "definition": "Trabajo, oficio, profesión, don",
+  "additional_text": "sInv Nusamaj Kʼambʼäl, samaj Recibir el trabajo o posesión Samaj",
+  "examples": [
+    {
+      "example_maya": "Ronojel qʼij sibʼiläj samaj ninwelesaj, ruma riʼ wakami yin kosnäq",
+      "example_spa": "Todos los días sacó mucho trabajo, por eso ahora estoy cansado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo winäq kʼïy ruwäch samaj ketaman",
+      "example_spa": "Algunas personas saben varios oficios",
+      "dialect": null
+    }
+  ],
+  "uuid": "b7f6d195-b02d-482d-ac62-66f4d4b7face",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

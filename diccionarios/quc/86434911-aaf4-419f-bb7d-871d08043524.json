@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tziʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintziʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moler la masa por segunda vez, dejándola medio fina",
+  "definitionDialect": "",
+  "additional_text": "vtr Raíz VT Tziʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kutziʼ li qʼor",
+      "example_spa": "La mujer está moliendo por segunda vez la masa",
+      "dialect": null
+    }
+  ],
+  "uuid": "86434911-aaf4-419f-bb7d-871d08043524"
+}

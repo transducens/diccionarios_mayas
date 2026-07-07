@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sutzʼarem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nublarse el cielo",
+  "definitionDialect": "",
+  "additional_text": "vl Tzʼarik Fbas //Suhtzʼ//",
+  "examples": [
+    {
+      "example_maya": "Li kaj xsutzʼar li uwach ma xa kape jabʼ",
+      "example_spa": "El cielo se nubló porque va a llover",
+      "dialect": null
+    }
+  ],
+  "uuid": "b9b46674-402d-4712-b9a1-8c76dd54b415"
+}

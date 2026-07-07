@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yakanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Citar, avisar",
+  "definitionDialect": "",
+  "additional_text": "sv Raíz VT Yak",
+  "examples": [
+    {
+      "example_maya": "Li uriʼjil xbʼe pa yakanik chikeh winaq",
+      "example_spa": "El citador de cantón salió a citar gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "468a3376-563b-4117-8347-643dc35cced8"
+}

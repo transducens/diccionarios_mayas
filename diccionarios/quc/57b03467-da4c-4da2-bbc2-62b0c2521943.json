@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jukʼolaj",
+  "entryWordDialect": null,
+  "altEntryWord": "jokʼolaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trocito (de carne)",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xukʼaq jukʼolaj tiʼij chwa jun tzʼiʼ",
+      "example_spa": "La mujer le tiró un trocito de carne al perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "57b03467-da4c-4da2-bbc2-62b0c2521943"
+}

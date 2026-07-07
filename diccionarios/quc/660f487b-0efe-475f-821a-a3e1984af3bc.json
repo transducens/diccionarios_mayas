@@ -1,0 +1,34 @@
+{
+  "entryWord": "Telowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar bien",
+  "definitionDialect": "",
+  "additional_text": "vi Katelowik F Raíz PT Tel",
+  "examples": [
+    {
+      "example_maya": "Katelow kikʼulanem li jukʼulaj winaq",
+      "example_spa": "Anda bien el matrimonio de la pareja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katelow li weqaʼn",
+      "example_spa": "Ando bien con mi carga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katelow nubʼaqil",
+      "example_spa": "Tengo buena salud",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katelow nuwaʼim",
+      "example_spa": "Tengo buen apetito",
+      "dialect": null
+    }
+  ],
+  "uuid": "660f487b-0efe-475f-821a-a3e1984af3bc"
+}

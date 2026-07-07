@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuyaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regaño",
+  "definitionDialect": "Raíz vt. Yaaj.",
+  "additional_text": "sInv //Yahj//",
+  "examples": [
+    {
+      "example_maya": "Li ixoq na kataniʼ ta li uyaj",
+      "example_spa": "La mujer nunca termina de regañar",
+      "dialect": null
+    }
+  ],
+  "uuid": "7cc672ee-9647-4581-b47c-2350f6fd19e6"
+}

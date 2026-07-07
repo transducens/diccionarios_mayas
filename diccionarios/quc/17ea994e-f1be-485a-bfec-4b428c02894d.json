@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Neʼul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Infancia",
+  "definitionDialect": "General",
+  "additional_text": "ssp Raíz S Neeʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼa pa nuneʼul are taq xloqʼ laʼ li kej",
+      "example_spa": "Todavía era nene cuando compraron ese caballo",
+      "dialect": null
+    }
+  ],
+  "uuid": "17ea994e-f1be-485a-bfec-4b428c02894d"
+}

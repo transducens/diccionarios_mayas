@@ -1,0 +1,19 @@
+{
+  "entryWord": "Suʼbʼal wach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Toalla; pañuelo para secar las manos",
+  "definitionDialect": "General",
+  "additional_text": "SCL Raíz S Suʼ Raíz SRel Wach",
+  "examples": [
+    {
+      "example_maya": "Li alih xukem jun suʼbʼal wach rech li utat",
+      "example_spa": "La muchacha tejió un pañuelo para su padre",
+      "dialect": null
+    }
+  ],
+  "uuid": "63ae0a81-8cf1-4954-88b0-99a9129aa88b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jeʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sí",
+  "definitionDialect": "",
+  "additional_text": "Iterj Ant Jaʼiiʼ",
+  "examples": [
+    {
+      "example_maya": "La katbʼe pa siʼ? Jeʼ, kinbʼek",
+      "example_spa": "¿Irás a hacer leña? - Sí, voy a ir",
+      "dialect": null
+    }
+  ],
+  "uuid": "38cd8ad8-c59b-4f2c-9c34-1299e503ee66"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Suʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsuʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar chirimía",
+  "definitionDialect": "General",
+  "additional_text": "VT Raíz S Suuʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajsuʼ na karaj ta chik kasuʼanik ma xa xkosik",
+      "example_spa": "El tocador de chirimía se cansó y no toca más",
+      "dialect": null
+    }
+  ],
+  "uuid": "264cfeb1-912f-4af0-8de0-e45d77c92302"
+}

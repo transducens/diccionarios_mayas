@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jutʼebʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cosa gruesa, como machete, azadón, tortilla, tabla o ladrillo",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz PT Tʼebʼ",
+  "examples": [
+    {
+      "example_maya": "Li muruh, sibʼalaj jutʼebʼaj",
+      "example_spa": "El machete es muy grueso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwa li tzʼiʼ xyaʼik, sibʼalaj jutʼebʼaj",
+      "example_spa": "La tortilla que le dieron al perro, es muy gruesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "db425265-c77c-494b-a196-3cf976dcb5ab"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Puqlaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Polvo",
+  "definitionDialect": "",
+  "additional_text": "sas Nupuqlajiil Coment Poseído significa polvo de muerto Raíz s Puqlaaj DomS Uleew",
+  "examples": [
+    {
+      "example_maya": "Li altamowʼ kuyak kan puqlaj pa li bʼeh",
+      "example_spa": "El carro levanta mucho polvo en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj puqlaj uwi li wankeʼt ma tajin kubʼan kaqiqʼ",
+      "example_spa": "Hay mucho polvo sobre la mesa por el aire",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li upuqlajil kamnaq kamakamobʼ jun winaq rumal",
+      "example_spa": "Uno se desmaya por el polvo de muerto",
+      "dialect": null
+    }
+  ],
+  "uuid": "2514c36b-bc25-4064-a6a0-e67bce9429bb"
+}

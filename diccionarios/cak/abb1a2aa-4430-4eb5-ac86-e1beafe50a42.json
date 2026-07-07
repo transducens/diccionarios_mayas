@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xilixik",
+  "definition": "Roto, como ropa o papel con flecos",
+  "additional_text": "AdjD Var Retzerik, reqerik, tziyitzik",
+  "examples": [
+    {
+      "example_maya": "Täq yalan chik xilixik ri nutzyaq, man ninkusaj ta chik",
+      "example_spa": "Cuando ya está bien rota mi ropa, no me la pongo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri jun chʼiti nukoton kan chʼiti xilixïk chik ök, näq chik laq ninkusaj ta laʼ",
+      "example_spa": "Mi chaqueta pequeña y rota ya no me la pongo",
+      "dialect": null
+    }
+  ],
+  "uuid": "abb1a2aa-4430-4eb5-ac86-e1beafe50a42",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

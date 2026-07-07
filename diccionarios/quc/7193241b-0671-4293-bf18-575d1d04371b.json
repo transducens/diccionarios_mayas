@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼibʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escribir",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kintzʼiibʼaaj Raíz VT Tziibʼ",
+  "examples": [
+    {
+      "example_maya": "Li utzʼibʼaxik jun wuj, rajawaxik laps xuq wuj",
+      "example_spa": "Para escribir una carta, se necesita lápiz y papel",
+      "dialect": null
+    }
+  ],
+  "uuid": "7193241b-0671-4293-bf18-575d1d04371b"
+}

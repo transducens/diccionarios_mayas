@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xek",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cáscara de ayote o de chilacayote; insecto manchado de blanco y negro, se amarra en la cuna de los nenes para que se duerman",
+  "definitionDialect": "",
+  "additional_text": "scv Nuxeek DomS Chkop DomS Rij pruut",
+  "examples": [
+    {
+      "example_maya": "Waʼ we xek riʼ we kaya pa kikusul li e neʼabʼ kabʼixik chi karoksaj kiwaram",
+      "example_spa": "Este insecto al ponerlo en la cabecera de los nenes, dice que les da sueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa roʼch li achih, sibʼalaj xek mulanik, ma xa xkitij qʼoqʼ",
+      "example_spa": "En la casa del hombre hay muchas cáscaras porque comieron chilacayote",
+      "dialect": null
+    }
+  ],
+  "uuid": "82984f08-317d-423b-9d28-a5ae0f8f56d6"
+}

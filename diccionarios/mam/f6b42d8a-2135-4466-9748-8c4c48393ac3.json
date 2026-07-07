@@ -1,0 +1,18 @@
+{
+  "entryWord": "SIL",
+  "definition": "hierba comestible que sólo se da en tierra templada",
+  "additional_text": "s1 nsila raíz sil s ds itzaj",
+  "examples": [
+    {
+      "example_maya": "Kuya; qʼa bʼix tzaʼn tchonjtz sil",
+      "example_spa": "Quién sabe como es y como se come el “sil”",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f6b42d8a-2135-4466-9748-8c4c48393ac3",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

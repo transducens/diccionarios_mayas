@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼe",
+  "definition": "ir a prefijo de movimiento que va con los verbos",
+  "additional_text": "Mov",
+  "examples": [
+    {
+      "example_maya": "Yibʼewa pa kʼaybʼäl",
+      "example_spa": "Voy a comer en el mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtibʼentzʼeta chi rachoch",
+      "example_spa": "Iré a ver su casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "0aef244b-4274-4bd0-b34a-9325935d907f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

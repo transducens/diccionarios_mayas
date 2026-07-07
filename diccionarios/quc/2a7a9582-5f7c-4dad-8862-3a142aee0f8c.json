@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼaqʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al caminar en el monte",
+  "definitionDialect": "General",
+  "additional_text": "vi Kapaqʼaqʼik Raíz VI Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li bʼalam xuxiʼj ribʼ kapaqʼaqʼik xbʼek",
+      "example_spa": "El tigre se asustó y se fue haciendo ruido en el monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "2a7a9582-5f7c-4dad-8862-3a142aee0f8c"
+}

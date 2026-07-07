@@ -1,0 +1,19 @@
+{
+  "entryWord": "Luqʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caído: ala de sombrero u hojas de las plantas",
+  "definitionDialect": "es",
+  "additional_text": "Adj Raiz P Luqʼ",
+  "examples": [
+    {
+      "example_maya": "Li luqʼulik powiʼ qeʼl chik",
+      "example_spa": "El sombrero viejo tiene el ala caída",
+      "dialect": null
+    }
+  ],
+  "uuid": "d2d9e3a8-6b5e-47e3-abd4-4266c84b6bcb"
+}

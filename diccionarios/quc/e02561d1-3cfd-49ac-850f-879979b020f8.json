@@ -1,0 +1,34 @@
+{
+  "entryWord": "Mulixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juntar; reunir; agrupar; amontonar; formar grupo de cosas o gente",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinmuliij Coment Mol y mul son variantes de la misma raíz",
+  "examples": [
+    {
+      "example_maya": "Kinmulij li abʼaj chwa jah",
+      "example_spa": "Voy a juntar piedras enfrente de la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinmulij na nurajil kinloqʼbʼej nuxajabʼ",
+      "example_spa": "Voy a reunir dinero para comprar zapatos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajyuqʼ kuʼmulij ukarneʼl",
+      "example_spa": "El pastor está juntando sus ovejas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achijabʼ xkichap umulixik abʼaj re kopant",
+      "example_spa": "Los hombres comenzaron a amontonar piedra para hacer un puente",
+      "dialect": null
+    }
+  ],
+  "uuid": "e02561d1-3cfd-49ac-850f-879979b020f8"
+}

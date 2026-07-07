@@ -1,0 +1,18 @@
+{
+  "entryWord": "BOOL",
+  "definition": "dos marquetas de panela",
+  "additional_text": "sz Palabra que usan los de Concepción Tutuapa",
+  "examples": [
+    {
+      "example_maya": "Wajbʼela jun bol nkabʼa kʼas",
+      "example_spa": "Quiero dos marquetas de panela fiadas",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "611c9851-bb17-4153-af64-d214be887f37",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

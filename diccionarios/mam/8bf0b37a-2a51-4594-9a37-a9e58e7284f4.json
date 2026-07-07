@@ -1,0 +1,18 @@
+{
+  "entryWord": "TAJLAAL",
+  "definition": "total, suma, cuenta",
+  "additional_text": "sy raíz aj",
+  "examples": [
+    {
+      "example_maya": "¿Maʼ bʼant tajlal pwaq tuʼn ajlal?",
+      "example_spa": "¿Ya está exacta la suma del dinero por el contador?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8bf0b37a-2a51-4594-9a37-a9e58e7284f4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

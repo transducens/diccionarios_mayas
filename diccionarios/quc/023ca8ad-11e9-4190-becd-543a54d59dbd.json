@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼulqʼutixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vaciar de una vez líquidos; tomar de una vez líquidos",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinbʼulqʼutiij",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq jun tzij xubʼulqʼutij bʼi li tzam",
+      "example_spa": "El hombre se tomó de una vez el trago",
+      "dialect": null
+    }
+  ],
+  "uuid": "023ca8ad-11e9-4190-becd-543a54d59dbd"
+}

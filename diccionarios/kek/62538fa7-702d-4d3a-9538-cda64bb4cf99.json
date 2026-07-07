@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tebʼes",
+  "definition": "Grueso, chaparro, sapo",
+  "additional_text": "Adj Xtebʼesoʼ, xtebʼesil",
+  "examples": [
+    {
+      "example_maya": "Tebʼes aj al",
+      "example_spa": "Patojo gordo o tímido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tebʼes aj wa",
+      "example_spa": "Tortilla gruesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tebʼes aj winq",
+      "example_spa": "Hombre chaparro y gordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "62538fa7-702d-4d3a-9538-cda64bb4cf99",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

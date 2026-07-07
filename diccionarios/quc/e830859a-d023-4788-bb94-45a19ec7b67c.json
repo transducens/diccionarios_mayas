@@ -1,0 +1,19 @@
+{
+  "entryWord": "Charan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resbaloso por piedrín o tierra",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li bʼeh sibʼalaj charan rumal le ixim abaj",
+      "example_spa": "El camino está muy resbaloso por el piedrín",
+      "dialect": null
+    }
+  ],
+  "uuid": "e830859a-d023-4788-bb94-45a19ec7b67c"
+}

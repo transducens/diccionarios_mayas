@@ -1,0 +1,18 @@
+{
+  "entryWord": "MIIL",
+  "definition": "mil (1,000)",
+  "additional_text": "nc del español mil",
+  "examples": [
+    {
+      "example_maya": "Laj el syen njapanka mil",
+      "example_spa": "Diez veces cien suman mil",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ed959fea-eda9-4ce6-88c2-fd56279aac36",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼatoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corte del trigo, siega del trigo",
+  "definitionDialect": "",
+  "additional_text": "sv Var",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ chweʼq kebʼe pa qʼatoj",
+      "example_spa": "Los hombres se van mañana al corte del trigo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jampaʼ kamajij li aqʼatoj?",
+      "example_spa": "¿Cuándo vas a comenzar el corte de trigo?",
+      "dialect": null
+    }
+  ],
+  "uuid": "65838c82-f4b3-4f2e-9e9e-b32356195f9b"
+}

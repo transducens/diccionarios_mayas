@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzokʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un piquete en piedra",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Tzokʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil xa jutzokʼ xuya che li abʼaj xpaxik",
+      "example_spa": "El albañil le dio un cincelazo a la piedra y se quebró",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3caf247-fce4-4004-9a76-92edf1941b5a"
+}

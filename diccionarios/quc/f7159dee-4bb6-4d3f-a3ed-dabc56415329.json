@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sepiy\"",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusepiy\"",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cepillo",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chokonisaʼn Del Cast Cepillo",
+  "examples": [
+    {
+      "example_maya": "Li sepiy\" kachokon cheh josqʼibʼal wareʼaj",
+      "example_spa": "El cepillo sirve para limpiar los dientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "f7159dee-4bb6-4d3f-a3ed-dabc56415329"
+}

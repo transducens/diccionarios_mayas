@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHIBʼAJ",
+  "definition": "carne, comida (de frijol, hierba o verduras)",
+  "additional_text": "s3 nchiʼya raíz chiʼ s",
+  "examples": [
+    {
+      "example_maya": "Xel chʼinte tchiʼ xoʼj wukʼala",
+      "example_spa": "Querés comer un poco de carne de coyote conmigo",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ii tex xoʼt ti chibʼaj, maʼ tzuʼwaxjal",
+      "example_spa": "Hay que tirar la carne, porque ya está descompuesta",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "cd5c0956-4a6b-4f75-ac66-578c24195562",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

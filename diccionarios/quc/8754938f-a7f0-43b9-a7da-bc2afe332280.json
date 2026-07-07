@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajtuj",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajtuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mujer que acaba de dar a luz o que todavía no ha cumplido los veinte días después del parto",
+  "definitionDialect": "",
+  "additional_text": "SAgen Raíz S Tuuj DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li iyom e kʼo kajibʼ rajtuj",
+      "example_spa": "La comadrona tiene cuatro pacientes recién aliviadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "8754938f-a7f0-43b9-a7da-bc2afe332280"
+}

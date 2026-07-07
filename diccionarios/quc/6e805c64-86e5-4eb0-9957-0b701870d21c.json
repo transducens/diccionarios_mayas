@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choʼmanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachoʼmanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "//Choʼma//",
+  "altEntryWordDialect2": "Raíz S",
+  "definition": "Agarrar camarón",
+  "definitionDialect": "General",
+  "additional_text": "vi Fbas Var Choʼm",
+  "examples": [
+    {
+      "example_maya": "Li a Siʼs kachoʼman pa li jaʼ",
+      "example_spa": "Francisco está agarrando camarones",
+      "dialect": null
+    }
+  ],
+  "uuid": "6e805c64-86e5-4eb0-9957-0b701870d21c"
+}

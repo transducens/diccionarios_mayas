@@ -1,0 +1,24 @@
+{
+  "entryWord": "Puj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Infectado; chillón",
+  "definitionDialect": "",
+  "additional_text": "Adj Upujaal, xpujarik Raíz Adj Puj DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li sokotajik xpujarik",
+      "example_spa": "La herida se infectó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li puj saqsoj kakaʼyik",
+      "example_spa": "La materia es de color amarillenta (medio blanco)",
+      "dialect": null
+    }
+  ],
+  "uuid": "eced33f8-11cd-4d06-b2c0-c5e90469ef55"
+}

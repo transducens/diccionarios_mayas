@@ -1,0 +1,23 @@
+{
+  "entryWord": "Peqʼok",
+  "definition": "Regar cosas líquidas de una sola vez",
+  "additional_text": "VTR Xinpeqʼ",
+  "examples": [
+    {
+      "example_maya": "Peqʼ chaq li haʼ chi rix kabʼ",
+      "example_spa": "Vaya a regar el agua atrás de la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Peqʼok tzʼajil haʼ, chi rix kabʼl",
+      "example_spa": "Regar agua sucia afuera",
+      "dialect": null
+    }
+  ],
+  "uuid": "82f49153-aa24-47c5-ad69-503ed0560cd8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

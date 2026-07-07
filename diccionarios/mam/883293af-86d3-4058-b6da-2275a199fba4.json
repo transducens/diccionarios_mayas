@@ -1,0 +1,23 @@
+{
+  "entryWord": "JIQEET",
+  "definition": "arrancar plantas o las puntas de éstas",
+  "additional_text": "vt jiqoal te, jiqoʼn, ma bʼaj njiqoʼna raíz jiqʼ vt",
+  "examples": [
+    {
+      "example_maya": "¿Al uʼn xjatz jiqoʼn tuj twiʼ ajlaj?",
+      "example_spa": "¿Quién arrancó el centro de la punta del carrizo?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Al uʼn xjatz jiqoʼn tal kjoʼn luʼ?",
+      "example_spa": "¿Quién arrancó esta milpita?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "883293af-86d3-4058-b6da-2275a199fba4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

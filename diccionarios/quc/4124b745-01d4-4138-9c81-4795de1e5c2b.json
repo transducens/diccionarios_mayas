@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼasanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼasanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedir fiado; fiar",
+  "definitionDialect": "General",
+  "additional_text": "VI",
+  "examples": [
+    {
+      "example_maya": "Tajin kakʼasan li a Siʼs che li rixim pa tyentah",
+      "example_spa": "Francisco está pidiendo fiado el maíz en la tienda",
+      "dialect": null
+    }
+  ],
+  "uuid": "4124b745-01d4-4138-9c81-4795de1e5c2b"
+}

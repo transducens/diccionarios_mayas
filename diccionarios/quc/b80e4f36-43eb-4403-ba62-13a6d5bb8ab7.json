@@ -1,0 +1,24 @@
+{
+  "entryWord": "Uriʼjil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Citador del cantón",
+  "definitionDialect": "",
+  "additional_text": "ssp Raíz Adj Riʼj DomS Eqeleʼn",
+  "examples": [
+    {
+      "example_maya": "Li uriʼjil kuʼyak li winaq we kʼo chomal",
+      "example_spa": "El citador le avisa a la gente cuando hay reunión",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uriʼjil are kamolow li kuchubʼal pa taq kanton are taq kʼo jun chak",
+      "example_spa": "El citador del cantón es el que recauda las contribuciones, cuando hay alguna obra",
+      "dialect": null
+    }
+  ],
+  "uuid": "b80e4f36-43eb-4403-ba62-13a6d5bb8ab7"
+}

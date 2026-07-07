@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jiqʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ahogarse (en agua o al comer)",
+  "definitionDialect": "",
+  "additional_text": "vi Kinjiqʼik Raíz VT",
+  "examples": [
+    {
+      "example_maya": "Na kixqaj ta pa li jaʼ, mixjiqʼik",
+      "example_spa": "No se metan al agua porque se van a ahogar",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5147d06-19fd-4f48-a28a-279c857ac8a4"
+}

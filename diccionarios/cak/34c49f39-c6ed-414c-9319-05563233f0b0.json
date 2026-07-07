@@ -1,0 +1,23 @@
+{
+  "entryWord": "Raj",
+  "definition": "Un hachazo, una palmada",
+  "additional_text": "En Juraj",
+  "examples": [
+    {
+      "example_maya": "Kʼo cheʼ xa chi juraj ikäj (ikej) yechʼaratäj",
+      "example_spa": "Hay palos que de un solo hachazo se rajan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq niyaʼ juraj qʼaʼ chi apaläj, janíla niqʼaxon",
+      "example_spa": "Cuando a uno le dan una palmada en la cara, duele bastante",
+      "dialect": null
+    }
+  ],
+  "uuid": "34c49f39-c6ed-414c-9319-05563233f0b0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

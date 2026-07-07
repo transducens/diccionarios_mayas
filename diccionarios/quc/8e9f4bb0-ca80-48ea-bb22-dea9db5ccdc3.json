@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzakʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mostrando los colmillos: un perro",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Tzakʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ tzakʼal li uwareh chrij li ukʼulil",
+      "example_spa": "El perro está mostrando los colmillos a su enemigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e9f4bb0-ca80-48ea-bb22-dea9db5ccdc3"
+}

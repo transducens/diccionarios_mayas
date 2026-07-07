@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Rah",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Raaroj",
+  "altEntryWordDialect2": null,
+  "definition": "Desabrido",
+  "definitionDialect": "General",
+  "additional_text": "Adj Upaqʼiil, xpaqʼirik Var Var DomS Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kapeh xaq sin paqʼ",
+      "example_spa": "El café está desabrido",
+      "dialect": null
+    }
+  ],
+  "uuid": "fbbc2110-ed91-46cd-b084-e810eb699a0f"
+}

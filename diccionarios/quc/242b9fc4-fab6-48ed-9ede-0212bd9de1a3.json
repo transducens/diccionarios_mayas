@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼoxobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Achiote",
+  "definitionDialect": "",
+  "additional_text": "scv Nukʼoxoobʼ Raíz S Kʼoxobʼ DomS Rikiil",
+  "examples": [
+    {
+      "example_maya": "Li kʼoxobʼ kayuj rukʼ ik re jokʼoʼm",
+      "example_spa": "El achiote se mezcla con chile para hacer recados",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼoxobʼ are jun cheʼ na qas ta nim kelik",
+      "example_spa": "El árbol de achiote es de tamaño mediano",
+      "dialect": null
+    }
+  ],
+  "uuid": "242b9fc4-fab6-48ed-9ede-0212bd9de1a3"
+}

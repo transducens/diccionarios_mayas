@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yuchik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyuchuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Remendar; coser mal telas; componer, reparar, recoser, apañar, zurcir",
+  "definitionDialect": "",
+  "additional_text": "vtr Sinón Tʼiisik Raíz VT Yuch",
+  "examples": [
+    {
+      "example_maya": "Li ixoq yuchik kuʼon che li upoʼt",
+      "example_spa": "La mujer está remendando el güipil",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xaq apasa uyuchik li ruq xuʼonoh rukʼ uʼaninaqil",
+      "example_spa": "La muchacha cosió mal el corte por la prisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f13ff507-92f7-4156-b6fd-eb044cf70ad1"
+}

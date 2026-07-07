@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xbʼuqur",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correcaminos",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xbʼuqur we kel la pa wikiqʼabʼ kaqʼax pa mox utz kubʼij, we kel la pa mox kaqʼax pa wikiqʼabʼ na utz taj",
+      "example_spa": "Si el correcaminos sale por la derecha y pasa a la izquierda es buen agüero, y si sale por la izquierda y pasa a la derecha es mal agüero",
+      "dialect": null
+    }
+  ],
+  "uuid": "b96a4b2a-20da-4c5d-81b5-b827659844a4"
+}

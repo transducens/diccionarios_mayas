@@ -1,0 +1,34 @@
+{
+  "entryWord": "Kʼaqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar; aventar; arrojar; botar; poner",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinkʼaqoh Raíz VT Kʼaq",
+  "examples": [
+    {
+      "example_maya": "Li alah, kukʼaq jun abʼaj pa li swan",
+      "example_spa": "El muchacho va a tirar una piedra al barranco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, xbʼe chukʼaqik mes pa li swan",
+      "example_spa": "El hombre fue a botar basura al barranco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li lakandon kukʼaq petzkʼun",
+      "example_spa": "El lacandón está tirando flechas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kej xkʼaq reqaʼn",
+      "example_spa": "Al caballo le pusieron carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "67a21e00-f988-4887-b72b-dab135c9c236"
+}

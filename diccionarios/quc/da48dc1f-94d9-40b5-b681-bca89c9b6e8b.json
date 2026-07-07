@@ -1,0 +1,19 @@
+{
+  "entryWord": "Moʼch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Toro que no tiene cuernos; carnero que no tiene cuernos",
+  "definitionDialect": "",
+  "additional_text": "SInv Numoʼch Del Cast Mocho",
+  "examples": [
+    {
+      "example_maya": "Li ntat xuloqʼ jun wakax xa moʼch",
+      "example_spa": "Mi papá compró un toro sin cuernos",
+      "dialect": null
+    }
+  ],
+  "uuid": "da48dc1f-94d9-40b5-b681-bca89c9b6e8b"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kuut",
+  "definition": "Puntal de una casa, racimo",
+  "additional_text": "SInv Inkuut",
+  "examples": [
+    {
+      "example_maya": "Xinpay jun inkuut re li wochoch",
+      "example_spa": "Encargué una tranca para mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkʼam chaq jun kuut intul saʼ chʼiichʼ",
+      "example_spa": "Traje un racimo de bananos en el carrito",
+      "dialect": null
+    }
+  ],
+  "uuid": "0be8873f-fa6b-45d5-b3a6-777f522c7728",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqukʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaqukʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Piojo del cuerpo",
+  "definitionDialect": "General",
+  "additional_text": "scv Raíz Adj Saq Raíz S Ukʼ DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "We jun winaq na kuchʼaj ta ratzʼyaq, kakʼojiʼ usaqukʼ",
+      "example_spa": "Si uno no lava la ropa, le abundan los piojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4770b02b-a73a-4385-8582-a38045616deb"
+}

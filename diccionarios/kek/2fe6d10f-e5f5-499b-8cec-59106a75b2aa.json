@@ -1,0 +1,28 @@
+{
+  "entryWord": "Aatinobʼaal",
+  "definition": "Tono de voz, tonalidad, estudio de locución, plataforma, lengua, idioma, micrófono",
+  "additional_text": "SInv Waatinobʼaal",
+  "examples": [
+    {
+      "example_maya": "Ak re li waatinobʼaal chi joʼkan",
+      "example_spa": "De por sí este es mi tono de voz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jalan raatinobaalebʼ laj kʼicheʼ",
+      "example_spa": "Los quichelenses hablan otro idioma",
+      "dialect": null
+    },
+    {
+      "example_maya": "Intoʼnihaq li aatinobʼaal",
+      "example_spa": "Préstame el micrófono para hablar",
+      "dialect": null
+    }
+  ],
+  "uuid": "2fe6d10f-e5f5-499b-8cec-59106a75b2aa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nichʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Unichʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xniichʼarik",
+  "altEntryWordDialect2": null,
+  "definition": "Pequeño; chiquitillo",
+  "definitionDialect": "General",
+  "additional_text": "Adj Sinón Chʼiin Ant Nim",
+  "examples": [
+    {
+      "example_maya": "Li uxyal li alah xa nichʼ",
+      "example_spa": "El cotón del muchacho es muy chiquito",
+      "dialect": null
+    }
+  ],
+  "uuid": "f4dd4343-c973-484b-bc13-7df166d439d7"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xuluxik",
+  "definition": "Inclinado, pendiente",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Kʼo ruwi taq jay yalan xuluxäq",
+      "example_spa": "Hay algunos techos de casas que son muy inclinados",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo chʼitaq ulew chöj ök e xuluxäq",
+      "example_spa": "Hay terrenitos que son un poco pendientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "13ff4000-38df-41ac-91cb-574b550b9201",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

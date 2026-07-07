@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chipipexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchipipej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rociar cosas en polvo o agua; salpicar agua",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz P Chip",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuchipej jaʼ chnupalaj",
+      "example_spa": "El niño me salpicó la cara con agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "1e4a06b5-b89d-4804-9019-5ed88ff131d4"
+}

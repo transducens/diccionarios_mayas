@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulja",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼuljah",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vecino",
+  "definitionDialect": "",
+  "additional_text": "sc Coment Raiz VT Kʼul Raiz S Jaa",
+  "examples": [
+    {
+      "example_maya": "Kʼuljah, kuchax taq li jah kʼo chunaqaj jun, xuqe chkech li winaq",
+      "example_spa": "Coment Vecinos, se les llama a las personas que viven cerca de la casa de uno",
+      "dialect": null
+    }
+  ],
+  "uuid": "c9d8d745-9b60-4e43-8e44-644441fe2d76"
+}

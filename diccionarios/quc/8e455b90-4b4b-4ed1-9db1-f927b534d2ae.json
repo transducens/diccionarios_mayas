@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uxkin ja",
+  "entryWordDialect": null,
+  "altEntryWord": "Uxkin woʼch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lado de la casa",
+  "definitionDialect": "general",
+  "additional_text": "sds DomS Jaa",
+  "examples": [
+    {
+      "example_maya": "Li uxkin ja xa koʼlma na katzaqik",
+      "example_spa": "El lado de la casa ya está para caerse",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e455b90-4b4b-4ed1-9db1-f927b534d2ae"
+}

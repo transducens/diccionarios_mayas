@@ -1,0 +1,19 @@
+{
+  "entryWord": "Puluwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir saliva, o sangre de una herida",
+  "definitionDialect": "",
+  "additional_text": "vi Kapuluwik Raiz VT Pol (pul)",
+  "examples": [
+    {
+      "example_maya": "Li uwi taq raqan li akʼal li xupeqʼij sibʼalaj xpuluw pa kikʼ",
+      "example_spa": "Al niño le salió mucha sangre por los dedos del pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "b19e726e-2d21-43a2-b934-77de1d4e298d"
+}

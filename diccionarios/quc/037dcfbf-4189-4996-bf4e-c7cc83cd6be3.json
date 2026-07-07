@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tobʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtobʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutobʼobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Vestido sólo con camisa; salida camisa del pantalón",
+  "definitionDialect": "General",
+  "additional_text": "p Raíz P Tobʼ",
+  "examples": [
+    {
+      "example_maya": "Li a laj a Siʼs xtobiʼ pa li kamiʼx",
+      "example_spa": "Francisco se puso una camisa grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "037dcfbf-4189-4996-bf4e-c7cc83cd6be3"
+}

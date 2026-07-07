@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼarah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vara",
+  "definitionDialect": "",
+  "additional_text": "Med",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuloqʼ kebʼ bʼarah atzʼyaq",
+      "example_spa": "La mujer compró dos varas de tela",
+      "dialect": null
+    }
+  ],
+  "uuid": "6386126b-a1f3-4444-8b48-5fc9a9cc56fb"
+}

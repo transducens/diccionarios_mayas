@@ -1,0 +1,19 @@
+{
+  "entryWord": "wibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer fuerza",
+  "definitionDialect": "General",
+  "additional_text": "Raíz VT Chʼiq",
+  "examples": [
+    {
+      "example_maya": "Li erel eqaʼn xuchʼiqiqej ribʼ che uyakik li reqaʼn",
+      "example_spa": "El cargador hizo fuerza al levantar la carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "99cb55bd-0592-42e2-b81a-02ab10f9ffda"
+}

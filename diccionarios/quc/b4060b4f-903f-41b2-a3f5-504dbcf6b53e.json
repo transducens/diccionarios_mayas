@@ -1,0 +1,19 @@
+{
+  "entryWord": "Weh",
+  "entryWordDialect": null,
+  "altEntryWord": "Míio",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mío",
+  "definitionDialect": "",
+  "additional_text": "sRefl",
+  "examples": [
+    {
+      "example_maya": "We li powiʼ kʼo pa li xilaʼ",
+      "example_spa": "El sombrero que esta en la silla es mío",
+      "dialect": null
+    }
+  ],
+  "uuid": "b4060b4f-903f-41b2-a3f5-504dbcf6b53e"
+}

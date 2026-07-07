@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xtuxa tzʼikin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hembra del pájaro",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz S Xtux Raíz s Zʼikin DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xtuʼxa tzʼikin kuchajij li uwichʼ",
+      "example_spa": "La hembra de los pájaros cuida a los pichones",
+      "dialect": null
+    }
+  ],
+  "uuid": "7d08c802-eeca-4e9c-b97b-6acc286da984"
+}

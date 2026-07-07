@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼalam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tabla",
+  "definitionDialect": "",
+  "additional_text": "scv Nutzʼalaam Raíz S Tzʼalam",
+  "examples": [
+    {
+      "example_maya": "Li ajanel tajin kujos li tzʼalam",
+      "example_spa": "El carpintero está cepillando la tabla",
+      "dialect": null
+    }
+  ],
+  "uuid": "d834b654-fcb9-4d46-acf5-e5204357529d"
+}

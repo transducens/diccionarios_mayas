@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kutz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nudo de madera",
+  "definitionDialect": "",
+  "additional_text": "Adj Ukutzaal, xkutzarik DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li kʼisis are kʼo ukutzal chwach ronojel cheʼ",
+      "example_spa": "El ciprés tiene más nudos que los otros árboles",
+      "dialect": "Dom.S."
+    }
+  ],
+  "uuid": "c5923846-a257-4576-b9fe-ea9b16f16241"
+}

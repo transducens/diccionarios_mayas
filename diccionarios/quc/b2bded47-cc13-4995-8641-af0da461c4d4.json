@@ -1,0 +1,29 @@
+{
+  "entryWord": "Ojer",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hace tiempo; antiguamente; antes; antiguo",
+  "definitionDialect": "",
+  "additional_text": "Adv Var Najtiir",
+  "examples": [
+    {
+      "example_maya": "Ri ojer taq winaq",
+      "example_spa": "La gente de antes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ojera chuloq are taq xkamik",
+      "example_spa": "Hacía tiempo que había llegado cuando murió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ojer chik nuwokom li jah",
+      "example_spa": "Hace mucho tiempo que construí la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2bded47-cc13-4995-8641-af0da461c4d4"
+}

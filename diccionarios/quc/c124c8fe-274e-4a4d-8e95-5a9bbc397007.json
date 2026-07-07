@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqi qʼeq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jabón de olor",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz Adj Saq Raíz S Qʼeq",
+  "examples": [
+    {
+      "example_maya": "Li saqi qʼeq kakikoj li musabʼ cheh chʼajbʼal kibʼ",
+      "example_spa": "Los ladinos usan jabón de olor para bañarse",
+      "dialect": null
+    }
+  ],
+  "uuid": "c124c8fe-274e-4a4d-8e95-5a9bbc397007"
+}

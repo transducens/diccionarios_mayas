@@ -1,0 +1,23 @@
+{
+  "entryWord": "Parutzʼil",
+  "definition": "Mal desarrollo de plantas",
+  "additional_text": "SInv Xparutzʼil",
+  "examples": [
+    {
+      "example_maya": "Xiikil xparutzʼil ru li kenqʼ",
+      "example_spa": "El desarrollo de frijol es muy malo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ xparutzʼil li tul xinlow",
+      "example_spa": "El guineo que me comí está muy mal desarrollado",
+      "dialect": null
+    }
+  ],
+  "uuid": "745e14c9-f9a0-4c2f-be3c-2fe6906e447d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

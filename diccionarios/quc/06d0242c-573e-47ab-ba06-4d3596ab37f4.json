@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼipilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acuclillado",
+  "definitionDialect": "Spanish",
+  "additional_text": "P Xkʼipiʼk, xukʼipibʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Li alaj a Xwan kʼipil qaj chwachuliw",
+      "example_spa": "Juanito está acuclillado",
+      "dialect": null
+    }
+  ],
+  "uuid": "06d0242c-573e-47ab-ba06-4d3596ab37f4"
+}

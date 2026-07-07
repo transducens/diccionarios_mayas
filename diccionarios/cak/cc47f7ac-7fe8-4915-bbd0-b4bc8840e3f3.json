@@ -1,0 +1,23 @@
+{
+  "entryWord": "Charanïk",
+  "definition": "Arrastrar los talones al caminar Raspar monte",
+  "additional_text": "VT Charaxik, ninchär Charachot, nicharachot Andar mal Charachoʼ, nicharachoʼ Andar resbalándose Chär",
+  "examples": [
+    {
+      "example_maya": "Ninchär ri abʼäj chi xajabʼ",
+      "example_spa": "Arrastro las piedrecitas con los zapatos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Achʼäl (achiʼel) rucharik ri qʼayïs chi asaron xa xe näq kan ta ninaq ri ulew",
+      "example_spa": "Como cortar monte con azadón sin tocar tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc47f7ac-7fe8-4915-bbd0-b4bc8840e3f3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

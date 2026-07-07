@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ooqaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwoqaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llegar a la casa de alguien para vivir; dirigirse hacia alguien",
+  "definitionDialect": "Español",
+  "additional_text": "vtd Fbas //Ohq//",
+  "examples": [
+    {
+      "example_maya": "Xinkʼuliʼk, xa xinwoqaj li wixoqil",
+      "example_spa": "Me casé y llegué a la casa de mi esposa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih karoqaj li ukʼulil",
+      "example_spa": "El hombre va a dirigirse a su enemigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "517b7f26-215c-422e-a97c-b0e4f1a5bfe0"
+}

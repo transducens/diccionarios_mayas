@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mortoʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mayordomo",
+  "definitionDialect": "",
+  "additional_text": "SInv Numortoʼm F Nabʼe mortoʼm Primer mayordomo F Ukaabʼ mortoʼn Segundo mayordomo F Urox mortoʼm Tercer mayordomo F Ukaj mortoʼm Cuarto mayordomo F Uroʼ mortoʼm Quinto mayordomo F Uwaqaq mortoʼm Sexto mayordomo F Chʼiʼp mortoʼm Ultimo mayordomo DomS Eqeleʼn Del Cast Mayordomo",
+  "examples": [
+    {
+      "example_maya": "Li mortoʼm are kajosqʼin li tyox chiʼl uwiqik li uwa sant rukʼ ajsant",
+      "example_spa": "El mayordomo limpia la iglesia y adorna en la cofradía",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nabʼe mortoʼm kʼo sant rukʼ chwa jah",
+      "example_spa": "El primer mayordomo tiene imágenes en la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd8e4922-ae7b-43fb-bb92-d95a431700cc"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Totol",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutotol",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de árbol",
+  "definitionDialect": "",
+  "additional_text": "scv Fbas //Tohtol// Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li rij waʼ we totol are laʼ kajatʼibʼex rech koral, jacha li chʼyuʼt",
+      "example_spa": "La cáscara de este árbol sirve para amarrar corrales, como el cheche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li totol, jun cheʼ na qas ta nim, kakʼiy pa tewa juyubʼ xuq pa miqʼina juyubʼ Li rij kachokon che ximbʼal taq koral",
+      "example_spa": "Este es un árbol, no muy grande que crece en tierra fría y caliente, la cáscara se usa para amarrar cercas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li rij we totol kachokon cheh ximbʼal kʼixkʼabʼ xuq chiʼl li kʼim",
+      "example_spa": "La cáscara de este árbol sirve para amarrar barillas y también las pajas de una casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "06a7f3d9-7cb6-4043-9599-adf178fdac50"
+}

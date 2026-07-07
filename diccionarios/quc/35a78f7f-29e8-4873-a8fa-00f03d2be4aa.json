@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pajanel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mayordomo de cofradía o encargado de medir el guaro",
+  "definitionDialect": "",
+  "additional_text": "sinv Nupajaneel Raíz VT Paj",
+  "examples": [
+    {
+      "example_maya": "Li pajanel xutix li tzam",
+      "example_spa": "El mayordomo regó el aguardiente",
+      "dialect": null
+    }
+  ],
+  "uuid": "35a78f7f-29e8-4873-a8fa-00f03d2be4aa"
+}

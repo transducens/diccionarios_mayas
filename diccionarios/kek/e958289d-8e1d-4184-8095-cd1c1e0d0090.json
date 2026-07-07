@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chalk",
+  "definition": "Venir",
+  "additional_text": "VI Xinchal",
+  "examples": [
+    {
+      "example_maya": "Saʼ chʼiichʼ xinchal",
+      "example_spa": "Me vine en la camioneta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tchalq tana",
+      "example_spa": "Tal vez viene",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chalchal re",
+      "example_spa": "Ya mero viene",
+      "dialect": null
+    }
+  ],
+  "uuid": "e958289d-8e1d-4184-8095-cd1c1e0d0090",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

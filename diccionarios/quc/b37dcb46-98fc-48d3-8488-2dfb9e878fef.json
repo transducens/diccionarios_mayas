@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laqʼwachixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlaqʼwachij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poner dos hilos juntos",
+  "definitionDialect": "",
+  "additional_text": "vtd Raiz VT Laqʼ Raiz S Wach",
+  "examples": [
+    {
+      "example_maya": "Kinlaqʼwachij li chij are chi naj kuqʼiʼoh",
+      "example_spa": "Pongo dos hilos juntos para que duren más tiempo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b37dcb46-98fc-48d3-8488-2dfb9e878fef"
+}

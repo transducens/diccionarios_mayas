@@ -1,0 +1,23 @@
+{
+  "entryWord": "Poqolaj",
+  "definition": "Polvo Restos mortales convertidos en polvo (expresión ceremonial, véase ulew, polajaj)",
+  "additional_text": "sInv Nupoqolaj Ulew, poqolaj Ulew",
+  "examples": [
+    {
+      "example_maya": "Ri poqolaj yalan niyakatäj pa saqʼij",
+      "example_spa": "En verano se levanta mucho polvo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pa jöbʼ ma jun kan ta poqolaj roma ri jöbʼ",
+      "example_spa": "En invierno casi no hay polvo por la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f967586-70a6-4748-9dd7-08dd1f9ae60b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

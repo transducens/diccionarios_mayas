@@ -1,0 +1,19 @@
+{
+  "entryWord": "Melelim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ser flaco; estar flaco",
+  "definitionDialect": "General",
+  "additional_text": "vt Kamelelik Raíz VI Mel",
+  "examples": [
+    {
+      "example_maya": "Li snakʼal xaq kamelelik ma xa xyawajik",
+      "example_spa": "El niño está muy flaco porque se enfermó",
+      "dialect": null
+    }
+  ],
+  "uuid": "4bccf389-3a36-4b28-86ca-00ad3c89a067"
+}

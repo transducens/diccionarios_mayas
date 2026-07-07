@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mokʼokʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kumokʼokʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encoger",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz Adj Mokʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalam yoʼm chwa li qʼij xumokʼokʼej ribʼ",
+      "example_spa": "La tabla que habían puesto en el sol, se encogió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tew sibʼalaj kumokʼokʼej uwi taq nuqʼabʼ",
+      "example_spa": "El frío encoge mis dedos",
+      "dialect": null
+    }
+  ],
+  "uuid": "e40327f0-fb65-4c52-b31e-929d8ecd4a49"
+}

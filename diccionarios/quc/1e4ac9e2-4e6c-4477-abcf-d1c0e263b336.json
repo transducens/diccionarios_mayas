@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaqʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachaqʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar dentro del agua; chapotear",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VT Chaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kachaqʼnaj pa li joron",
+      "example_spa": "La mujer está chapoteando en el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "1e4ac9e2-4e6c-4477-abcf-d1c0e263b336"
+}

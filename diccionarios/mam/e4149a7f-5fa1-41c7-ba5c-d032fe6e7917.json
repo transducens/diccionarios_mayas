@@ -1,0 +1,23 @@
+{
+  "entryWord": "ẌIIL",
+  "definition": "silla",
+  "additional_text": "s1 nẍlila del español silla ds tutzʼbʼil",
+  "examples": [
+    {
+      "example_maya": "Mas kylw qamatil kʼuxbʼil ẍil",
+      "example_spa": "Son más duras las sillas de metal",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aa till ẍil te ojlabʼl qa sikyna qoʼ",
+      "example_spa": "La silla sirve para descansar si estamos cansados",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e4149a7f-5fa1-41c7-ba5c-d032fe6e7917",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

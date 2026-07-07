@@ -1,0 +1,23 @@
+{
+  "entryWord": "Siʼïl (siʼan)",
+  "definition": "Calmado, cesado",
+  "additional_text": "p Xsiʼeʼ, xusiʼbʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Kewa iwir najin janila kaqʼiqʼ, wakamin siʼïl jubʼaʼ",
+      "example_spa": "A esta hora ayer soplaba fuerte el aire, ahora está calmado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Miyär xutäj qa jun ti ruqʼom, wakamin siʼïl qa ruqʼaxom",
+      "example_spa": "Hace un momento se tomó una medicina, ahora el dolor ha cesado",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ee01c5b-7d23-497b-866d-969e0909e586",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

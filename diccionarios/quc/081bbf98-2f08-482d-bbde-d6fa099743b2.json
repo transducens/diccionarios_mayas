@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼinkuʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchinkuʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chicharra; piñón (arbusto de frutas comestibles)",
+  "definitionDialect": "General",
+  "additional_text": "sInv DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li uwach li chaj are li chʼinkʼuʼy",
+      "example_spa": "La fruta del pino, es la chicharra",
+      "dialect": null
+    }
+  ],
+  "uuid": "081bbf98-2f08-482d-bbde-d6fa099743b2"
+}

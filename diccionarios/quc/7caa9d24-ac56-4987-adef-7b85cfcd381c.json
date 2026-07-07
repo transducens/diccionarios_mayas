@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yobʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xyobʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuyobʼobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Flexible (que se puede aplastar fácilmente)",
+  "definitionDialect": "",
+  "additional_text": "P Raiz P Yobʼ",
+  "examples": [
+    {
+      "example_maya": "Li bʼot rech ojalat na koh taj xaq yobʼolik",
+      "example_spa": "Los botes de hojalata son flexibles",
+      "dialect": null
+    }
+  ],
+  "uuid": "7caa9d24-ac56-4987-adef-7b85cfcd381c"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Taql",
+  "definition": "Mandado, mensaje, mando",
+  "additional_text": "SInv Intaql",
+  "examples": [
+    {
+      "example_maya": "Xinkʼam chaq jun xtaql li alkaalt",
+      "example_spa": "Traje un mensaje del alcalde",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtaql inchʼool",
+      "example_spa": "Por mi propia voluntad",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b988ea4-4ebb-43bc-83ea-0eff3be4781c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chom",
+  "entryWordDialect": null,
+  "altEntryWord": "Uchomal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xchoomarik",
+  "altEntryWordDialect2": null,
+  "definition": "Gordo",
+  "definitionDialect": "",
+  "additional_text": "Adj Fbas //Chohm// vl Choomaʼqireem Engordarse",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj chom",
+      "example_spa": "La mujer está muy gorda",
+      "dialect": null
+    }
+  ],
+  "uuid": "7366f05f-92c0-48f1-85cc-2ae21ac676b9"
+}

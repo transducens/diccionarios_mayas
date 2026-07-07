@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rojojem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karojojik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido plantas o hierbas al pasar una persona",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz VT Roj",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom karojojik xokʼow pa li abʼix",
+      "example_spa": "El ladrón hizo ruido al pasar entre la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "40ce8d0b-5673-4b2d-9540-9ff7a6def341"
+}

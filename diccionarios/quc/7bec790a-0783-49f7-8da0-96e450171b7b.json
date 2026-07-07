@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Planta silvestre, comestible; sus hojas se usan para envolver tamales",
+  "definitionDialect": "General",
+  "additional_text": "sinv Nuchʼuʼm DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li chʼuʼm katijow li uxaq",
+      "example_spa": "De esta planta silvestre se comen las hojas",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bec790a-0783-49f7-8da0-96e450171b7b"
+}

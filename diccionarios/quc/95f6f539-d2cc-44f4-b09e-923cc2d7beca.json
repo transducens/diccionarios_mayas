@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wonoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar una persona sola o perdida",
+  "definitionDialect": "",
+  "additional_text": "vı Kawoonoʼpik",
+  "examples": [
+    {
+      "example_maya": "Li malkaʼna achih xaq kawonoʼp chwa roʼch",
+      "example_spa": "El viudo está solo en la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "95f6f539-d2cc-44f4-b09e-923cc2d7beca"
+}

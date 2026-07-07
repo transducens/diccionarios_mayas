@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajmes",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zajorín",
+  "definitionDialect": "",
+  "additional_text": "SAgen Del Cast Mesa",
+  "examples": [
+    {
+      "example_maya": "Li achih ajmes, kuchʼabʼej kamnaqibʼ",
+      "example_spa": "El zajorín habla con los muertos",
+      "dialect": null
+    }
+  ],
+  "uuid": "ebd704fe-695f-4f03-88a1-d6d373014e57"
+}

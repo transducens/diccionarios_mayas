@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tochʼom chaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutochʼom chaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ocote",
+  "definitionDialect": "Spanish",
+  "additional_text": "scl Sinón Chaj Raiz VT Tochʼ Raiz S Chaj",
+  "examples": [
+    {
+      "example_maya": "Li tochʼom chaj kachokon cheh nukʼbʼal qʼaqʼ",
+      "example_spa": "El ocote sirve para encender el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "a12f83ae-67d8-4475-ae62-2df15e1af18f"
+}

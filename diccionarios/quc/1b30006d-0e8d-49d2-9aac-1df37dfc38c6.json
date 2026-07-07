@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakeʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchakeʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saco",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Atzʼyaq Del Cast Chaqueta",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼo jun uchakeʼt si nimaʼq li ubʼorxe",
+      "example_spa": "El hombre tiene un saco de bolsas grandes",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b30006d-0e8d-49d2-9aac-1df37dfc38c6"
+}

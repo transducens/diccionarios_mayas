@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yabʼil",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuyabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enfermedad",
+  "definitionDialect": "Raíz S. Yab.",
+  "additional_text": "sPos",
+  "examples": [
+    {
+      "example_maya": "Li akʼ konojel xkiriq yabʼil, xekamik",
+      "example_spa": "A todas las gallinas les dio la enfermedad y se murieron",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed69c1ba-1f68-4910-8869-c946fb85a427"
+}

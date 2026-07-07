@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jisisixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjisij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rasgar papel; cortar con instrumento filudo (cuchillo o gillette)",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Jis",
+  "examples": [
+    {
+      "example_maya": "Kinjisij na li wuj chech kuchiʼl",
+      "example_spa": "Yo corto los papeles con cuchillo",
+      "dialect": null
+    }
+  ],
+  "uuid": "92753433-bc8c-4389-9d00-4a3e75d17dab"
+}

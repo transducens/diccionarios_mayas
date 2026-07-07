@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼixaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantar una canción",
+  "definitionDialect": "",
+  "additional_text": "vtn Kinbʼixaaj Raiz S Bʼiix",
+  "examples": [
+    {
+      "example_maya": "Kinbʼixaj na jun bʼix rech kiʼkotemal",
+      "example_spa": "Voy a cantar una canción alegre",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea8d0a2d-ce8b-4d5f-8b5d-dcdc1d1c1662"
+}

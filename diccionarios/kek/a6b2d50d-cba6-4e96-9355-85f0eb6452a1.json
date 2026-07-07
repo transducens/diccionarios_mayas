@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chaq",
+  "definition": "Partícula de tiempo y distancia",
+  "additional_text": "PartT",
+  "examples": [
+    {
+      "example_maya": "Junxil ninkʼul chaq inbʼan saʼ bʼanlebʼaal",
+      "example_spa": "Hace tiempo que fui a recibir medicina al centro de salud",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼam chaq arin",
+      "example_spa": "Traélo de allí para acá",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6b2d50d-cba6-4e96-9355-85f0eb6452a1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

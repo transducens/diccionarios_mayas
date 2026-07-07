@@ -1,0 +1,23 @@
+{
+  "entryWord": "Waʼil",
+  "definition": "Comensal (se lo dice la mujer a su esposo y a quienes alimenta)",
+  "additional_text": "sInv Nuwaʼil Var Achijinel winäq",
+  "examples": [
+    {
+      "example_maya": "Xa nipe yan ri nuwaʼil, nicha ri ixöq",
+      "example_spa": "Ya va a venir mi comensal, dice la mujer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wakamin näq ütz ta kuchi yibʼe wi, xa e kʼo nuwaʼil paqʼij",
+      "example_spa": "Ahora no puedo salir a ningún lugar, porque tengo que darle el almuerzo a alguien",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c53d4c9-8ede-4246-ab46-0e1c50b77511",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

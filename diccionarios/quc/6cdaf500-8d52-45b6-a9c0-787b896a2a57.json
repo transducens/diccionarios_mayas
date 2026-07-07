@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qososem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sisear (hacer el sonido de las personas o culebras al hacer ruido)",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqososik Raíz VI Qos",
+  "examples": [
+    {
+      "example_maya": "Li kumatz kaqososik",
+      "example_spa": "La culebra sisea",
+      "dialect": null
+    }
+  ],
+  "uuid": "6cdaf500-8d52-45b6-a9c0-787b896a2a57"
+}

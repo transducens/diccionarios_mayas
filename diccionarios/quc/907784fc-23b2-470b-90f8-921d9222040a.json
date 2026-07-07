@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wamul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zacate que comen las bestias y los conejos; lechuguilla",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li waʼ we qʼayes kiwa li imul",
+      "example_spa": "Este zacate es la comida de los conejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "907784fc-23b2-470b-90f8-921d9222040a"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tobʼanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ayudar; colaborar",
+  "definitionDialect": "",
+  "additional_text": "vi Kintoobʼanik",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin katobʼan pa li chak",
+      "example_spa": "El hombre está ayudando en el trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Konojel winaq xebʼe pa tobʼanik cheh wokoj ja",
+      "example_spa": "Toda la gente se fue a ayudar a construir la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb879d2f-d386-479e-811b-1dc0fe02ad9d"
+}

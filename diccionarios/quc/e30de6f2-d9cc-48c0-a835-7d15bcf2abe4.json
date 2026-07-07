@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xichʼikotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxichʼikotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar una persona con una carga de hojas o paja o perro peludo; andar con pelo alborotado",
+  "definitionDialect": "general",
+  "additional_text": "vI Raíz VT Xichʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, kaxichʼikot chuxeʼ jun eqaʼn kʼim",
+      "example_spa": "El hombre lleva una carga de paja",
+      "dialect": null
+    }
+  ],
+  "uuid": "e30de6f2-d9cc-48c0-a835-7d15bcf2abe4"
+}

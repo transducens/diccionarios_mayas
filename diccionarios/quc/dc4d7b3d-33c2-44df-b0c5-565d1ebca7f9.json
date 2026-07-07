@@ -1,0 +1,24 @@
+{
+  "entryWord": "Toj pen",
+  "entryWordDialect": null,
+  "altEntryWord": "Tij pen",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sufrimiento",
+  "definitionDialect": "",
+  "additional_text": "vts var",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ toj pen kʼolik",
+      "example_spa": "El enfermo está en pleno sufrimiento",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ajtoj ajpen",
+      "example_spa": "Persona que sufre",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc4d7b3d-33c2-44df-b0c5-565d1ebca7f9"
+}

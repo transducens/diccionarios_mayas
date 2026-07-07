@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jiqʼnaq qulaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tosferina",
+  "definitionDialect": "Spanish",
+  "additional_text": "scl Var Jiiqʼeem",
+  "examples": [
+    {
+      "example_maya": "Kekam akʼalabʼ rumal li jiqʼnaq qulaj",
+      "example_spa": "Muchos niños se mueren por la tosferina",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c7710bc-dc33-47d0-b5d7-e322adbe32ea"
+}

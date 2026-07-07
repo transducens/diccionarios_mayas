@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zopilote",
+  "definitionDialect": "",
+  "additional_text": "snp Raíz S Kʼuch DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li kʼuch kuʼtij kamnaq taq chkop",
+      "example_spa": "El zopilote come animales muertos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d19ee988-a74f-4bd4-833f-7c5afc062e7c"
+}

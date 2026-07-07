@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼosixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar a tablas con piedrecitas",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinkʼosiij Raíz VT Kʼos",
+  "examples": [
+    {
+      "example_maya": "Li al Mariʼy xukʼosij jun laj abʼaj chrij li tzʼalam",
+      "example_spa": "María le pegó con una piedrecita a la tabla",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ef71e52-fd0a-42cb-accf-57232e6cb682"
+}

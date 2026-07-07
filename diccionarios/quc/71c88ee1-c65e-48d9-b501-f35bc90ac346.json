@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzuruj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Toreo; comida de toros",
+  "definitionDialect": "",
+  "additional_text": "sv Raiz VT Tzur",
+  "examples": [
+    {
+      "example_maya": "Li tzuruj kabʼan pa taq nimaqʼij utz rilik",
+      "example_spa": "Las corridas de toros que se hacen durante las fiestas, es divertido verlas",
+      "dialect": null
+    }
+  ],
+  "uuid": "71c88ee1-c65e-48d9-b501-f35bc90ac346"
+}

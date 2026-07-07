@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kabʼij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasado mañana",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kabʼij katzʼaqat ujunabʼ li walkʼuʼal",
+      "example_spa": "Pasado mañana va a cumplir años mi hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b67a364-24eb-4696-923c-7da906c026cb"
+}

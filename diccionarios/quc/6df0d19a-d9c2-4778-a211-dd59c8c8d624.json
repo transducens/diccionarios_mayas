@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jakmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajakmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con las piernas abiertas",
+  "definitionDialect": "General",
+  "additional_text": "VI",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kajakmaʼy kabʼinik, ma xa kʼo jun chʼaʼk che li raʼ",
+      "example_spa": "Aquel hombre anda con las piernas abiertas, porque tiene granos",
+      "dialect": null
+    }
+  ],
+  "uuid": "6df0d19a-d9c2-4778-a211-dd59c8c8d624"
+}

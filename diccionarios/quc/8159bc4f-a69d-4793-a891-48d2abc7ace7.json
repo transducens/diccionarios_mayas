@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Canasta",
+  "definitionDialect": "",
+  "additional_text": "scv Nuchakaach",
+  "examples": [
+    {
+      "example_maya": "Li chakach kachokon che ukʼolbʼal taq jastaq",
+      "example_spa": "La canasta se usa para guardar cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "8159bc4f-a69d-4793-a891-48d2abc7ace7"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rakem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener mucha necesidad de algo; necesitar mucho de algo",
+  "definitionDialect": "",
+  "additional_text": "vi Kinraakik Raíz VT Raak",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kinrak cheh nurajil ma xa kʼo nurajawaxik",
+      "example_spa": "Necesito mucho dinero porque tengo necesidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc7b1b61-3e45-456f-89c8-7181b8a7f703"
+}

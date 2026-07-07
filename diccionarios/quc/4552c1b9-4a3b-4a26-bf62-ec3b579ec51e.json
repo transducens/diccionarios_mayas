@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ulaʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Wulaʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comida o bebida que se sirve en una fiesta",
+  "definitionDialect": "General",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li ulaʼbal rech alaxbʼal are li atikamal",
+      "example_spa": "La comida especial para los cumpleaños son los tamales",
+      "dialect": null
+    }
+  ],
+  "uuid": "4552c1b9-4a3b-4a26-bf62-ec3b579ec51e"
+}

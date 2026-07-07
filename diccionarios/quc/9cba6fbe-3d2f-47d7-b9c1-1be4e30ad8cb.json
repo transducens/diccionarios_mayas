@@ -1,0 +1,24 @@
+{
+  "entryWord": "Eechaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Rechaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasto de animales; zacate para pasto; comida de animales herbívoros",
+  "definitionDialect": "",
+  "additional_text": "sInv Fbas Reecheechaaʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kukʼayij rechaʼ chkop",
+      "example_spa": "El hombre vende zacate para animales",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wakax kʼo rechaʼ",
+      "example_spa": "El buey come zacate",
+      "dialect": null
+    }
+  ],
+  "uuid": "9cba6fbe-3d2f-47d7-b9c1-1be4e30ad8cb"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzanjay",
+  "definition": "Entrada al pueblo, salida del pueblo, alrededores del pueblo",
+  "additional_text": "sc Ulew",
+  "examples": [
+    {
+      "example_maya": "Ri tzanjay, chiri nbeʼtorix kan qʼayis",
+      "example_spa": "En las salidas del pueblo van a tirar la basura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzan taq jay ulew yalan yeʼawanüj",
+      "example_spa": "Los terrenos que están alrededor del pueblo son muy productivos",
+      "dialect": null
+    }
+  ],
+  "uuid": "c9c41471-ab7f-4209-a6fe-7d61db5ba585",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

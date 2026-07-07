@@ -1,0 +1,28 @@
+{
+  "entryWord": "Rikʼinïk",
+  "definition": "Extender, desplegar",
+  "additional_text": "vt Rikʼixik (rikʼik), ninrikʼ vt Rik",
+  "examples": [
+    {
+      "example_maya": "Achiʼël ri ixoqiʼ nikirïkʼ ri kichʼajoʼn chwa qʼij",
+      "example_spa": "Las mujeres extienden la ropa lavada en el sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Achʼiʼël jun tzyäq, jun wuj, qʼochon, nirikʼ",
+      "example_spa": "Una tela o un papel doblado, se despliegan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ronojel ri ruchʼajoʼn xurïkʼ chuwa sabana",
+      "example_spa": "Tendió todo su lavado en la grama",
+      "dialect": null
+    }
+  ],
+  "uuid": "e20c80f2-3269-4992-a53a-a73960308540",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

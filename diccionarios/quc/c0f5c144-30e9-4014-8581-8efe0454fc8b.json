@@ -1,0 +1,19 @@
+{
+  "entryWord": "Puqʼuputem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido el agua al moverse dentro de recipiente",
+  "definitionDialect": "",
+  "additional_text": "vi Kapuqʼuputik Raíz VT Puqʼ",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal reqam li achih kapuqʼuput li jaʼ chpam",
+      "example_spa": "El agua hace ruido dentro de la tinaja que lleva el hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0f5c144-30e9-4014-8581-8efe0454fc8b"
+}

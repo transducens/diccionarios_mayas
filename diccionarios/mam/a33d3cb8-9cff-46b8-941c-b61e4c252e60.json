@@ -1,0 +1,18 @@
+{
+  "entryWord": "YE",
+  "definition": "Ah, tal vez hay un mío con ustedes",
+  "additional_text": "pex ah",
+  "examples": [
+    {
+      "example_maya": "Ye, qap at jun wekyʼ kyukʼala",
+      "example_spa": "Ah, tal vez hay un mío con ustedes",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a33d3cb8-9cff-46b8-941c-b61e4c252e60",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

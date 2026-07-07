@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tren",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutren",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tren",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Chʼiichʼ Del Cast Tren",
+  "examples": [
+    {
+      "example_maya": "Li tren sibʼalaj nim raqan xuq e kʼih winaq kuqʼiʼoh",
+      "example_spa": "El tren es muy largo y transporta mucha gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ceab989-f5cf-4d95-be00-d535d7a1ff5d"
+}

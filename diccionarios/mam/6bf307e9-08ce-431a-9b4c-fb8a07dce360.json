@@ -1,0 +1,18 @@
+{
+  "entryWord": "TEEX",
+  "definition": "pedazo o resto de teja",
+  "additional_text": "s1 ntexa del español teja",
+  "examples": [
+    {
+      "example_maya": "Ntiʼ til ttxʼaqan tex qe, ila txiʼ xoʼtjal",
+      "example_spa": "Ya no nos sirven los pedazos de tejas, pues hay que tirarlos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "6bf307e9-08ce-431a-9b4c-fb8a07dce360",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

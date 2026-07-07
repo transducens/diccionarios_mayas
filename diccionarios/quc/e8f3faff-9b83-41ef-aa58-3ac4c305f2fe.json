@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wunuwutem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawunuwutik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar seguido el tambor",
+  "definitionDialect": "General",
+  "additional_text": "vi Raiz P Wun",
+  "examples": [
+    {
+      "example_maya": "Kawunuwut li sin tambor rech perekon, tajin kuʼsikʼij winaq pa chomal",
+      "example_spa": "El tambor del pregón está sonando para llamar a la gente a una sesión",
+      "dialect": null
+    }
+  ],
+  "uuid": "e8f3faff-9b83-41ef-aa58-3ac4c305f2fe"
+}

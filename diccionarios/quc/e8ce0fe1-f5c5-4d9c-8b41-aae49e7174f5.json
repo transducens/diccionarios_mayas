@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzeʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bulto de ropa, basura o zacate",
+  "definitionDialect": "",
+  "additional_text": "pnp Raíz P Patz",
+  "examples": [
+    {
+      "example_maya": "Kebʼ patzeʼn atzʼyaq xuchʼaj li ajʼikʼ",
+      "example_spa": "La sirvienta lavó dos bultos de ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "e8ce0fe1-f5c5-4d9c-8b41-aae49e7174f5"
+}

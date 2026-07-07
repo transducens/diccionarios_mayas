@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qasaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bajarlo",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinqaasaaj Fbas Qahj (qah)",
+  "examples": [
+    {
+      "example_maya": "Li achih na karaj taj kuqasaj li jastaq pa li kamyon",
+      "example_spa": "El hombre no quiere bajar las cosas del camión",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih qasaxik kubʼan cheh li uwach li oj",
+      "example_spa": "El hombre va a bajar las frutas del aguacatal",
+      "dialect": null
+    }
+  ],
+  "uuid": "746ac20e-63ee-4c4f-889c-10beb6ab8679"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quchʼuqutem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaquchʼuqutik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al roer el ratón",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Quchʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼoh kaquchʼuqut pa taq li jastaq tajin kutijoh",
+      "example_spa": "El ratón hace ruido entre las cosas que está comiendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1422cfff-35b8-47fc-b95e-344163150046"
+}

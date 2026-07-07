@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqi kar",
+  "entryWordDialect": null,
+  "altEntryWord": "saqa kar",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pescado blanco",
+  "definitionDialect": "",
+  "additional_text": "scl Nusaqi kaar Raíz Adj Saq Raíz S Kar DomS Kar",
+  "examples": [
+    {
+      "example_maya": "Li nusaqi kar na qas ta kʼo kibʼaqil chikiwach li juleʼ kar chik",
+      "example_spa": "El pescado blanco tiene menos espinas que otros pescados",
+      "dialect": null
+    }
+  ],
+  "uuid": "38048f8d-c45a-4fa7-ac62-0292ad79e9d1"
+}

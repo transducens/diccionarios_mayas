@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yojojexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Destruir todo; embarrancar un trozo, piedra grande o persona",
+  "definitionDialect": "Español",
+  "additional_text": "vTD Kinyojojeej Raíz VT Yoj",
+  "examples": [
+    {
+      "example_maya": "Li kebʼraqan xuyojojej kʼih jah",
+      "example_spa": "El temblor destruyó muchas casas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Xwan xuyojojej bʼi li jun nimabʼaj pa li Swan",
+      "example_spa": "Juan embarrancó la piedra grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "c6237681-2bc3-4766-a2df-c2a65649122c"
+}

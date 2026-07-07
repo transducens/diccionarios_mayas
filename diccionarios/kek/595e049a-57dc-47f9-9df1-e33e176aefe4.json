@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tiq",
+  "definition": "Fiebre, calentura, calor",
+  "additional_text": "SInv Intiq",
+  "examples": [
+    {
+      "example_maya": "Tiq tʼok re li kʼuulaʼal",
+      "example_spa": "El niño tiene fiebre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼaʼ naxkuy tiq li aaq",
+      "example_spa": "El coche no aguanta el calor",
+      "dialect": null
+    }
+  ],
+  "uuid": "595e049a-57dc-47f9-9df1-e33e176aefe4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

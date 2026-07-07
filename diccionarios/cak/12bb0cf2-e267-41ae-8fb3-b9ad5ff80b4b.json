@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzalatzik",
+  "definition": "Inclinado, de lado",
+  "additional_text": "AdjD var Raqʼarik, jaqʼajik, xotoxik",
+  "examples": [
+    {
+      "example_maya": "Ri kej man utz ta nibʼyin ruma xa tzalatzik rubʼanon ri rejqaʼn",
+      "example_spa": "El caballo no puede caminar bien porque su carga está de lado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan tzalatzik nel rï nucholaj",
+      "example_spa": "Muy torcido me sale el surco",
+      "dialect": null
+    }
+  ],
+  "uuid": "12bb0cf2-e267-41ae-8fb3-b9ad5ff80b4b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

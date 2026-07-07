@@ -1,0 +1,19 @@
+{
+  "entryWord": "Richʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sancochado",
+  "definitionDialect": "General",
+  "additional_text": "Adj Sinón Qichʼ Var Rax",
+  "examples": [
+    {
+      "example_maya": "Li ichaj richʼ kubʼanoh we na naj ta kapoqʼowik",
+      "example_spa": "Las verduras salen sancochadas si se cuecen poco tiempo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d83ed60a-b071-41b0-aa45-82b3dbeb9d76"
+}

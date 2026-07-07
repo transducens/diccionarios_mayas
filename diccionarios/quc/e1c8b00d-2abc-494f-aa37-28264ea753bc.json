@@ -1,0 +1,19 @@
+{
+  "entryWord": "Polinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapolinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ampollarse por quemada",
+  "definitionDialect": "",
+  "additional_text": "vi Var Pulineem Raíz VI Pol",
+  "examples": [
+    {
+      "example_maya": "Li uqʼabʼ li ixoq xukʼatoh, sibʼalaj xpolinik",
+      "example_spa": "La mujer se quemó la mano y se le ampollo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e1c8b00d-2abc-494f-aa37-28264ea753bc"
+}

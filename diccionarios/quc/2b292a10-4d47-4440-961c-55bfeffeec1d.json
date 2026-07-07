@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jolixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar las ramas de un árbol; quitar las hojas de la milpa; zafarse zapatos sin desatar las correas",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinjoliij Raíz VT Jol",
+  "examples": [
+    {
+      "example_maya": "Li achih xujolij uxaq abʼix rech rechaʼ kej",
+      "example_spa": "El hombre cortó hojas de milpa para caballos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b292a10-4d47-4440-961c-55bfeffeec1d"
+}

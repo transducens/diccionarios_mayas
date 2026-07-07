@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼiʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Colocho y canche",
+  "definitionDialect": "General",
+  "additional_text": "Adj Var Kochkoʼy Var Mochkoʼy",
+  "examples": [
+    {
+      "example_maya": "Li uwiʼ li alih kape chʼaqa jaʼ, chʼiʼl",
+      "example_spa": "El cabello de la muchacha extranjera, es colocho y canche",
+      "dialect": null
+    }
+  ],
+  "uuid": "7d0ef37c-b865-43d0-a4aa-3479db939a26"
+}

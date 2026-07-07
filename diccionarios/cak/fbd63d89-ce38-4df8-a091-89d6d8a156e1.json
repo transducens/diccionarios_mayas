@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼulan",
+  "definition": "Casado",
+  "additional_text": "p Xkʼuleʼ, xukʼulbʼaʼ, xukʼulubʼaʼ Kʼül",
+  "examples": [
+    {
+      "example_maya": "Ri nchaqʼ kʼulan chïk",
+      "example_spa": "Mi hermano menor ya es casado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nataʼ (nutataʼ) chanin xojrukʼulbʼaʼ",
+      "example_spa": "Mi papá nos casó luego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pa domingo xekʼuleʼ jukʼulaj winäq",
+      "example_spa": "El domingo se casó una pareja",
+      "dialect": null
+    }
+  ],
+  "uuid": "fbd63d89-ce38-4df8-a091-89d6d8a156e1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

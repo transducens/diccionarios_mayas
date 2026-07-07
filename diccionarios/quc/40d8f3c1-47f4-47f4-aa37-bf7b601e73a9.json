@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqa kʼoʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tortuguilla",
+  "definitionDialect": "General",
+  "additional_text": "scl DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kaqa kʼoʼx kubʼan kʼax chech li kinaqʼ",
+      "example_spa": "La tortuguilla daña el frijolar",
+      "dialect": null
+    }
+  ],
+  "uuid": "40d8f3c1-47f4-47f4-aa37-bf7b601e73a9"
+}

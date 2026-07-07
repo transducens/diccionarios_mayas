@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tochʼotoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintochʼotaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Golpear un palo seguidamente con machete; tallar algo con machete",
+  "definitionDialect": "Spanish",
+  "additional_text": "vt Raiz VT Tochʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan katajin kutochʼota li utrompoʼ",
+      "example_spa": "Juan está tallando el trompo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e97f365c-beef-4282-840c-d316a2a1d70b"
+}

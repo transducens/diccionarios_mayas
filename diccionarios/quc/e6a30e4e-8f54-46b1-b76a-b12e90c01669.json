@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jikaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Insultar a una persona con palabras",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinjikaaj Raíz VT Jik",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq kajikan pa tzij",
+      "example_spa": "La mujer insulta con palabras",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6a30e4e-8f54-46b1-b76a-b12e90c01669"
+}

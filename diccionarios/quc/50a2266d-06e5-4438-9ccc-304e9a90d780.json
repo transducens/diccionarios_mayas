@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eetwechixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwetwechij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calcular",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz S Eht Raíz S Wach",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ xaq xretwechij li uwa xutijoh",
+      "example_spa": "El enfermo calculó la comida que se comió",
+      "dialect": null
+    }
+  ],
+  "uuid": "50a2266d-06e5-4438-9ccc-304e9a90d780"
+}

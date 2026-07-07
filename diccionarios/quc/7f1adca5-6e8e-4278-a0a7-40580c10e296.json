@@ -1,0 +1,19 @@
+{
+  "entryWord": "Akʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wakʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gallina; mi pollo",
+  "definitionDialect": "Chikop.",
+  "additional_text": "SCV",
+  "examples": [
+    {
+      "example_maya": "Li akʼ xumajij sikʼowem",
+      "example_spa": "La gallina empezó a poner huevos",
+      "dialect": null
+    }
+  ],
+  "uuid": "7f1adca5-6e8e-4278-a0a7-40580c10e296"
+}

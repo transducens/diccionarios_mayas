@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wix",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gato",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuwix Sinón Meʼs Sinón Sya Sinón Tuun DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li wix kuchap chʼoh",
+      "example_spa": "El gato caza ratones",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa ta at wix, chi kawar pa qʼij",
+      "example_spa": "No sos gato para que durmás en el día",
+      "dialect": null
+    }
+  ],
+  "uuid": "9637d3d0-380e-4dc8-8c6f-940e8858261d"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ral yuk",
+  "definition": "Cabrito, ternero, chivo",
+  "additional_text": "scl Inral yuk",
+  "examples": [
+    {
+      "example_maya": "Jun ral yuk xinchap",
+      "example_spa": "Agarré un cabrito",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wan jun qaral yuk saʼ li koral",
+      "example_spa": "Tenemos un cabro en el corral",
+      "dialect": null
+    }
+  ],
+  "uuid": "99ba9aee-dad5-4300-af44-0aabc63f5b46",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

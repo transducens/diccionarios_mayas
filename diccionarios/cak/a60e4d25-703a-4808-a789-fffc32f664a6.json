@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mam",
+  "definition": "Nieto de hombre, nieta de hombre",
+  "additional_text": "sInv Numam Var Iy",
+  "examples": [
+    {
+      "example_maya": "Kʼo achiʼaʼ pa kawinäq kijunaʼ nikʼujeʼ kimam",
+      "example_spa": "Hay hombres de cuarenta años llegan a tener nietos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Roj waqiʼ ruman ri numamaʼ",
+      "example_spa": "Somos seis los nietos de mi abuelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a60e4d25-703a-4808-a789-fffc32f664a6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

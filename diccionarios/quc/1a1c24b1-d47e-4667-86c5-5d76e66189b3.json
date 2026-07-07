@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aanimax",
+  "entryWordDialect": null,
+  "altEntryWord": "animas",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ocho de la noche",
+  "definitionDialect": "General",
+  "additional_text": "Adv Del Cast Animas",
+  "examples": [
+    {
+      "example_maya": "Li ixoq pa taq animax xkamik",
+      "example_spa": "La mujer falleció a las ocho de la noche",
+      "dialect": null
+    }
+  ],
+  "uuid": "1a1c24b1-d47e-4667-86c5-5d76e66189b3"
+}

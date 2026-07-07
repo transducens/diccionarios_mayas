@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tatzʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katatzʼoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cojear con pie doblado",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Tatzʼ",
+  "examples": [
+    {
+      "example_maya": "Li nima achih xaq katatzʼoʼpik ma kʼo kumatz cheh li raqan",
+      "example_spa": "El anciano cojea porque tiene calambres en los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "253c8931-3f8c-4bf8-a8b2-1114bbb77831"
+}

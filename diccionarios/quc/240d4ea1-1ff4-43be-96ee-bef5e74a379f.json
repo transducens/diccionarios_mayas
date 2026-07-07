@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pekʼepik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblado; torcido",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz VT Pekʼ",
+  "examples": [
+    {
+      "example_maya": "Li asaron xa pekʼepik ma xa qʼeʼl chik",
+      "example_spa": "El azadón ya está torcido porque es viejo",
+      "dialect": null
+    }
+  ],
+  "uuid": "240d4ea1-1ff4-43be-96ee-bef5e74a379f"
+}

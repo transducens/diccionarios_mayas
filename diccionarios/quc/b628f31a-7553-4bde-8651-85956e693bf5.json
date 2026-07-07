@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼopokʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flaca: la cara por enfermedad",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Kʼop",
+  "examples": [
+    {
+      "example_maya": "Li akʼal naj xyawajik, xux sin kʼopokʼik li upalaj",
+      "example_spa": "El niño tiene la cara flaca porque estuvo enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b628f31a-7553-4bde-8651-85956e693bf5"
+}

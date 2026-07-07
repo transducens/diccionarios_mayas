@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼoknajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachʼoknajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cojear",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Chʼok",
+  "examples": [
+    {
+      "example_maya": "Li a Rapel xaq kachʼoknajik, ma xa xucheqʼij uwi raqan",
+      "example_spa": "Rafael está cojeando porque se golpeó un dedo del pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "09cbb565-30a9-4bee-a286-29d6e97d22e6"
+}

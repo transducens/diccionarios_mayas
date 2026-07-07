@@ -1,0 +1,24 @@
+{
+  "entryWord": "Liʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llano; llanura; lugar plano",
+  "definitionDialect": "General",
+  "additional_text": "snP Raíz P Liʼ",
+  "examples": [
+    {
+      "example_maya": "Li keʼtzʼaʼn wi li ajetzʼanelabʼ sibʼalaj liʼlik",
+      "example_spa": "El campo donde juegan los futbolistas, es plano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uliw kʼo chi li poloh sibʼalaj liʼlik",
+      "example_spa": "El terreno a la orilla del mar, es plano",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d69961e-fae4-4854-8491-9cabb4eacb45"
+}

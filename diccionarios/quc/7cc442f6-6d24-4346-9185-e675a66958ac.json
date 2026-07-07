@@ -1,0 +1,19 @@
+{
+  "entryWord": "Templ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Música autóctona antigua, son",
+  "definitionDialect": "",
+  "additional_text": "s M",
+  "examples": [
+    {
+      "example_maya": "Templʼ kuchax li kiqʼojom qanan qatat ojer tzij",
+      "example_spa": "Teempl\" se le llama a una clase de música de nuestros antepasados",
+      "dialect": null
+    }
+  ],
+  "uuid": "7cc442f6-6d24-4346-9185-e675a66958ac"
+}

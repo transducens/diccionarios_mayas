@@ -1,0 +1,23 @@
+{
+  "entryWord": "A",
+  "definition": "Prefijo pronominal y verbal de 2da Persona del singular, antes de consonante",
+  "additional_text": "Pre Tu o su var Aw",
+  "examples": [
+    {
+      "example_maya": "Takʼwaj el la awuj jubʼey",
+      "example_spa": "Llevate tu libro de una vez",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jumul takʼwaʼj el la awuj",
+      "example_spa": "Llévese su libro de una vez",
+      "dialect": null
+    }
+  ],
+  "uuid": "d78aa3aa-8b03-4d7a-bcba-1cd1af87ea4e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

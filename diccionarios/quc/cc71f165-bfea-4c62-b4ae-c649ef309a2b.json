@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chenik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar monte con machete; chapear",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTR Kinchenoh Raíz VT Chen",
+  "examples": [
+    {
+      "example_maya": "Li Wel tajin kuchen li qʼayes pa li abʼix",
+      "example_spa": "Manuel está cortando las hierbas de la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc71f165-bfea-4c62-b4ae-c649ef309a2b"
+}

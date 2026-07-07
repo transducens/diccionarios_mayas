@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Ukiʼil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "ukiʼaal",
+  "altEntryWordDialect2": null,
+  "definition": "Dulce; sabroso",
+  "definitionDialect": "",
+  "additional_text": "Adj xkiʼrik Ant Kʼah Ant Chʼam Raiz Adj Kiʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj utz ukiʼl li kapeh",
+      "example_spa": "El café es muy sabroso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li raxkabʼ sibʼalaj kiʼ",
+      "example_spa": "La miel es muy dulce",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f504dbf-bcb2-46d9-a049-34c7a494ddbe"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taqchiʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintaqchiʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Inducir; instigar, persuadir, incitar",
+  "definitionDialect": "general",
+  "additional_text": "vTD Raiz VT Taq Raiz S Chiiʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah xutaqchiʼj li rachiʼil chuchʼayik li jun chi alah",
+      "example_spa": "El muchacho indujo a su compañero a pegarle al otro muchacho",
+      "dialect": null
+    }
+  ],
+  "uuid": "b706b053-abaa-4375-8164-8a17510f6b3e"
+}

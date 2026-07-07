@@ -1,0 +1,29 @@
+{
+  "entryWord": "Rapaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Azotar, pegar con pañuelo, lazo, cincho",
+  "definitionDialect": "es",
+  "additional_text": "vtr Kinraapaaj Fbas //Rahpa// Raíz VT Rap",
+  "examples": [
+    {
+      "example_maya": "Li tat tajin kurapaj li ukʼajol cheh bʼakeʼt",
+      "example_spa": "El papá está azotando a su hijo con el cincho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih tajin kurapaj li ralkʼuʼal xa xrelaqʼaj rajil",
+      "example_spa": "El hombre está azotando a su hijo porque robó dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼay rukʼ patan, kolobʼ, are laʼ rapaxik",
+      "example_spa": "Azotar es pegar con mecapal o lazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "78232005-ce9c-47f4-b0cc-aaaeb62bf85a"
+}

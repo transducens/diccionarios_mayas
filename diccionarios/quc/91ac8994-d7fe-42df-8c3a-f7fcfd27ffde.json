@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lemlotem anima",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener náusea",
+  "definitionDialect": "",
+  "additional_text": "vis Kalemlot waanimaa Raíz VI Lem",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ kʼo qʼaqʼ chrij xuq kalemlot ranimah",
+      "example_spa": "El enfermo tiene calentura y náusea",
+      "dialect": null
+    }
+  ],
+  "uuid": "91ac8994-d7fe-42df-8c3a-f7fcfd27ffde"
+}

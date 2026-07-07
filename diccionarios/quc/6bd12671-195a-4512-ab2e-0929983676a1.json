@@ -1,0 +1,24 @@
+{
+  "entryWord": "Uxlabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wuxlabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aliento; olor; respiración",
+  "definitionDialect": "general",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li achih maj chi ruxlabʼ kujekʼoh",
+      "example_spa": "El hombre contuvo la respiración",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li par chuh li ruxlabʼ",
+      "example_spa": "El zorrillo es hediondo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6bd12671-195a-4512-ab2e-0929983676a1"
+}

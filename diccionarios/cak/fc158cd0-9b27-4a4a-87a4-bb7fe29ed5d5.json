@@ -1,0 +1,28 @@
+{
+  "entryWord": "Qatzanik",
+  "definition": "Mascar carne, morder sin quitar el pedazo",
+  "additional_text": "vt Qatzaxik (qatzik), ninqätz vt Qatzaqaʼ Mascar carne seguido Qätz vt Bʼanoj",
+  "examples": [
+    {
+      "example_maya": "Taq kʼïy tiʼïj naqätz, janïla janina nikos ri achiʼ",
+      "example_spa": "Cuando mascas bastante carne, se te cansa mucho la boca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun alaj tzʼiʼ xiruqätz chi eyaj",
+      "example_spa": "Un perro pequeñome mordió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼiʼ chöj nuqätz ri tiʼïj",
+      "example_spa": "El perro sólo muerde la carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc158cd0-9b27-4a4a-87a4-bb7fe29ed5d5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

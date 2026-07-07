@@ -1,0 +1,24 @@
+{
+  "entryWord": "Alom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Engendrador, madre; fortuna de objetos antiguos",
+  "definitionDialect": "",
+  "additional_text": "snP Coment Se cree que con tener estas cosas se tienen riquezas o bienes",
+  "examples": [
+    {
+      "example_maya": "Xa jun alom chkech le ewalkʼuʼal",
+      "example_spa": "Mis hijos tienen una sola madre",
+      "dialect": null
+    },
+    {
+      "example_maya": "We alom kuya qʼinomal chike winaq",
+      "example_spa": "Los objetos antiguos cuestan mucho dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d4c71c7-d95a-47ca-9336-c7381b23349f"
+}

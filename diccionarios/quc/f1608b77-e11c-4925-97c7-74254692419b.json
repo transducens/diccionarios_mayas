@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼutwachinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aparecer; imaginar",
+  "definitionDialect": "",
+  "additional_text": "vi Kakʼutwachinik Raíz S Wach",
+  "examples": [
+    {
+      "example_maya": "Xkʼutwachin jun xibʼinel pa nuwaram",
+      "example_spa": "En mi sueño apareció un espanto",
+      "dialect": null
+    },
+    {
+      "example_maya": "We ne xa itzel, kakʼutwachin chnuwach",
+      "example_spa": "Tal vez apareció el mal en la imaginación",
+      "dialect": null
+    }
+  ],
+  "uuid": "f1608b77-e11c-4925-97c7-74254692419b"
+}

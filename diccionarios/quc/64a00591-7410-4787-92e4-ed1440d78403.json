@@ -1,0 +1,19 @@
+{
+  "entryWord": "Penik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpenoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manchar con cosa espesa (goma, pintura, etc); embarrar; untar; pintarrajear",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raiz VT Pen",
+  "examples": [
+    {
+      "example_maya": "Kinpen li wankeʼt che tzʼajbʼal",
+      "example_spa": "Pintarrajeó la mesa con pintura",
+      "dialect": null
+    }
+  ],
+  "uuid": "64a00591-7410-4787-92e4-ed1440d78403"
+}

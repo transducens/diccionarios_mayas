@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaʼlbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Recostadero; respaldo",
+  "definitionDialect": "General",
+  "additional_text": "sInv Raiz P Qʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal uxe wiʼ kʼo qʼaʼlbʼal rukʼ bʼambʼal uxe wiʼ",
+      "example_spa": "Donde el barbero hay un respaldo para peluquería",
+      "dialect": null
+    }
+  ],
+  "uuid": "0294baa6-d4e9-4d5f-888b-58a2e7580d10"
+}

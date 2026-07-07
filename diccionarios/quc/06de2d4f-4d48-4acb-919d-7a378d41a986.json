@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nukʼwachixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnukʼwachij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espiar",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Nukʼ",
+  "examples": [
+    {
+      "example_maya": "Kinnukʼwachij na li jun winaq",
+      "example_spa": "Voy a espiar a esa persona",
+      "dialect": null
+    }
+  ],
+  "uuid": "06de2d4f-4d48-4acb-919d-7a378d41a986"
+}

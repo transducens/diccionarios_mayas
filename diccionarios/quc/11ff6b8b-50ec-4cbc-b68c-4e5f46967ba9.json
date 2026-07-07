@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tokʼopixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintokʼopij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apuntalar, atrancar, apoyar algo en un palo o bastón",
+  "definitionDialect": "Spanish",
+  "additional_text": "vtd Raiz VT Tokʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xutokʼopij kan li uchʼamiʼy chwach li reqaʼn",
+      "example_spa": "El hombre atrancó su carga con el bastón",
+      "dialect": null
+    }
+  ],
+  "uuid": "11ff6b8b-50ec-4cbc-b68c-4e5f46967ba9"
+}

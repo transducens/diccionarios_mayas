@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼururnïk",
+  "definition": "Hacer ruido el estómago",
+  "additional_text": "vi Bʼururnen, nibʼurur var Chʼulul, qʼurur, qʼulul Sinón Bʼululnïk, chʼululnïk, qʼururnïk, qʼululnïk",
+  "examples": [
+    {
+      "example_maya": "Täq sibʼiläj nibʼurur apan, ri xa tew chawẹ",
+      "example_spa": "Cuando te hace ruido el estómago, es porque padecés de frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq jun ninum nibʼurur rupan",
+      "example_spa": "Cuando uno tiene hambre le hace ruido el estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac434f7d-edbd-4db5-83c5-6cdb1cc48831",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

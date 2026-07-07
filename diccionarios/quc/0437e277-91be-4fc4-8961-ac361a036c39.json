@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taramoʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tramojo (palo que llevan al cuello los perros)",
+  "definitionDialect": "",
+  "additional_text": "snp Sinón Uxataʼt tzʼiʼ Del Cast Tramojo",
+  "examples": [
+    {
+      "example_maya": "Li taramoʼj kachokon chi kiqul tzʼiʼ",
+      "example_spa": "El tramojo se pone en el pescuezo de los perros",
+      "dialect": null
+    }
+  ],
+  "uuid": "0437e277-91be-4fc4-8961-ac361a036c39"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "LIITA",
+  "definition": "Margarita",
+  "additional_text": "nom del español Margarita ds bʼibʼaj",
+  "examples": [
+    {
+      "example_maya": "Tzin nxnaqʼtzan txin Lita",
+      "example_spa": "Margarita está estudiando",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "d7dac5e5-8463-4bba-bfee-92d5565ed760",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼiliʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cosa frita",
+  "definitionDialect": "Spanish",
+  "additional_text": "SnP Raiz VT Kʼil",
+  "examples": [
+    {
+      "example_maya": "Li kʼiliʼm saqwaxh kiʼ utijowik",
+      "example_spa": "La papa frita es muy sabrosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "889c9795-b461-48a9-a783-4da5fe8ffd89"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajiʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajiʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lombriz intestinal",
+  "definitionDialect": "Español",
+  "additional_text": "sInv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj chom li üpam ma e kʼo rajiʼt",
+      "example_spa": "El estómago del niño está grande porque tiene lombrices",
+      "dialect": null
+    }
+  ],
+  "uuid": "db984847-892e-44eb-b949-3db5b67046fc"
+}

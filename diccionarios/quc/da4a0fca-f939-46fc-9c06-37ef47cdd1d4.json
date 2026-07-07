@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pilipobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resbalarse",
+  "definitionDialect": "General",
+  "additional_text": "vi Kinpilipobʼik Raíz VT Pil",
+  "examples": [
+    {
+      "example_maya": "Xinpilipobʼ pa li bʼeh ma, xubʼan nima jabʼ",
+      "example_spa": "Me resbalé en el camino porque llovió mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "da4a0fca-f939-46fc-9c06-37ef47cdd1d4"
+}

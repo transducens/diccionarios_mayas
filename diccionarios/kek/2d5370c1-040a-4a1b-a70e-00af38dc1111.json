@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼat (mat)",
+  "definition": "No",
+  "additional_text": "PartNeg",
+  "examples": [
+    {
+      "example_maya": "bʼa txik bʼiʼ",
+      "example_spa": "No se vaya pues",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼatchal chik",
+      "example_spa": "Ya no venga otra vez",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d5370c1-040a-4a1b-a70e-00af38dc1111",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

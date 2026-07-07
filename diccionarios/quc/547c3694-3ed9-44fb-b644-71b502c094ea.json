@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Piedra de moler; muela",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukaaʼ DomS Chokonisaʼn DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Waʼ we kaʼ kachokon che keʼbʼal tzih",
+      "example_spa": "Esta piedra sirve para moler nixtamal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are li qakaʼ kakeʼn li qawa",
+      "example_spa": "Las muelas mastican los alimentos",
+      "dialect": null
+    }
+  ],
+  "uuid": "547c3694-3ed9-44fb-b644-71b502c094ea"
+}

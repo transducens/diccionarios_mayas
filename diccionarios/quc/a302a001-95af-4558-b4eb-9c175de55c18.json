@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yuchʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyuchʼuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrugar, burlarse",
+  "definitionDialect": "",
+  "additional_text": "vtr Sinón Yooqʼik Raíz VT Yuchʼ",
+  "examples": [
+    {
+      "example_maya": "Li kʼakʼa atzʼyaq tajin kuyuchʼ li akʼal cheh uqʼabʼ",
+      "example_spa": "El niño está arrugando la ropa nueva con las manos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼalabʼ xaq kakiyuchʼ li sin kachiʼil",
+      "example_spa": "Los niños se están burlando de su compañero",
+      "dialect": null
+    }
+  ],
+  "uuid": "a302a001-95af-4558-b4eb-9c175de55c18"
+}

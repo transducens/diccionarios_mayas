@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yukʼuʼpinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar personas o animales pescuezudos; espiar estirando el pescuezo",
+  "definitionDialect": "",
+  "additional_text": "vi Kayukʼuʼpinik Raíz P Yukʼ",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ nimaril kayukʼuʼpinik",
+      "example_spa": "El enfermo apenas camina porque está flaco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah kayukʼuʼpinik, ma xa are le alih karilawachij",
+      "example_spa": "El muchacho está espiando a la muchacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "82f59fbb-3842-4671-8c81-a09034e584d1"
+}

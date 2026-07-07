@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzawixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kutzawij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morder de repente",
+  "definitionDialect": "",
+  "additional_text": "vtr Raiz PT Tzaw",
+  "examples": [
+    {
+      "example_maya": "Li chʼuʼja tzʼiʼ xaq kʼa teʼ xutzawij li akʼal",
+      "example_spa": "El perro con rabia mordió al niño repentinamente",
+      "dialect": null
+    }
+  ],
+  "uuid": "5622cde4-95f5-4ca2-bab7-e2f6f4247c73"
+}

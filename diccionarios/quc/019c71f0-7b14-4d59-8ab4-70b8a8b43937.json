@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chokoʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tramo que se forma en un tejido por medio de hilo y un palo atravesado",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchookoʼy",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuloqʼ uchokoʼy",
+      "example_spa": "La mujer compró hilo para hacer los tramos del tejido",
+      "dialect": null
+    }
+  ],
+  "uuid": "019c71f0-7b14-4d59-8ab4-70b8a8b43937"
+}

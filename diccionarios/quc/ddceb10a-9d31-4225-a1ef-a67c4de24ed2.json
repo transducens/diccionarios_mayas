@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amarillo; maduro; mantecoso",
+  "definitionDialect": "",
+  "additional_text": "Adj Uqʼanaal, xqʼanarik Raiz Adj Qʼan",
+  "examples": [
+    {
+      "example_maya": "Li alanxax xqʼanarik",
+      "example_spa": "La naranja se puso amarilla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li abʼix na xjosqʼix taj, xqʼanarik",
+      "example_spa": "La milpa no fue calzada, por eso se puso amarilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "ddceb10a-9d31-4225-a1ef-a67c4de24ed2"
+}

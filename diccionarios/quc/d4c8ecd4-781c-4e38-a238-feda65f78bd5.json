@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tzʼoqoʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flojo: diente, clavo o estaca; mover cosa floja",
+  "definitionDialect": "",
+  "additional_text": "vi Katzʼoqoʼtik Raíz VT Tzʼoq",
+  "examples": [
+    {
+      "example_maya": "Xa mer\" kel jun nukaʼ ma katzʼoqoʼt chik",
+      "example_spa": "Mi muela ya se va a caer porque está floja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li raqan li asaron xaq katzʼoqoʼtik",
+      "example_spa": "El cabo del azadón está flojo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katzʼoqoʼt chi li nukaʼ, ma xa qʼaynaq chik",
+      "example_spa": "Ya se me mueve la muela, porque está podrida",
+      "dialect": null
+    }
+  ],
+  "uuid": "d4c8ecd4-781c-4e38-a238-feda65f78bd5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yitzʼitzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suave: tierra; floja: tierra; lodo",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Yitzʼ",
+  "examples": [
+    {
+      "example_maya": "Li xaqʼoʼl sibʼalaj yitzʼitzʼ, na utz taj kaʼan bʼinem",
+      "example_spa": "El lodo está muy suave no se puede caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8ebb846-6129-4a35-bd50-d2c157045047"
+}

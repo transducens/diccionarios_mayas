@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sarixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsarij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar cosa rolliza o persona al suelo; pegar con palo",
+  "definitionDialect": "",
+  "additional_text": "VTD Raiz VT Sar",
+  "examples": [
+    {
+      "example_maya": "Kinsarij li jun choma cheʼ puliw",
+      "example_spa": "Tiro el trozo grande en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7bfc8c0-813f-4c49-b1e5-7dda53e3a130"
+}

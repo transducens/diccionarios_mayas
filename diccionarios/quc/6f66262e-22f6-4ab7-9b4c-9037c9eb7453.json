@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yukʼukʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pescuezuda",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Yukʼ",
+  "examples": [
+    {
+      "example_maya": "Pa li yukʼukʼa xaʼr na kajorobʼ ta li kapeh chanim",
+      "example_spa": "En un jarrito pescuezudo no se enfría luego el café",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xtuʼxa akʼ sibʼalaj yukʼukʼ li uxul",
+      "example_spa": "La gallina es muy pescuezuda",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f66262e-22f6-4ab7-9b4c-9037c9eb7453"
+}

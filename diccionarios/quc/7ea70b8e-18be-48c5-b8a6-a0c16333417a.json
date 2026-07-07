@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqchaʼchoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caliente por mucha temperatura",
+  "definitionDialect": "General",
+  "additional_text": "pc",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ sibʼalaj kaqchaʼchoj pa qʼaqʼ",
+      "example_spa": "El enfermo está caliente porque tiene mucha temperatura",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ea70b8e-18be-48c5-b8a6-a0c16333417a"
+}

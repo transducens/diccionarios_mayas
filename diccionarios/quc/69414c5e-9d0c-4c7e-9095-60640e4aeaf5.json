@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼyajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viajar",
+  "definitionDialect": "",
+  "additional_text": "vI Kinbʼyajik Del Cast Viaje",
+  "examples": [
+    {
+      "example_maya": "Li achih rachiʼl li rixoqil kebʼe pa bʼyajem chweʼq",
+      "example_spa": "El hombre y su esposa van a viajar mañana",
+      "dialect": null
+    }
+  ],
+  "uuid": "69414c5e-9d0c-4c7e-9095-60640e4aeaf5"
+}

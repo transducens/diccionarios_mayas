@@ -1,0 +1,28 @@
+{
+  "entryWord": "Sirisïk",
+  "definition": "Esférico, redondo",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Nibʼïx, chi ri rachʼulew sirisïk",
+      "example_spa": "Dicen que la tierra es esférica",
+      "dialect": null
+    },
+    {
+      "example_maya": "Choj sirisik ri qajolon",
+      "example_spa": "Redonda, como bola, es nuestra cabeza",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri rnaʼj chöj sirisik",
+      "example_spa": "La naranja es redonda",
+      "dialect": null
+    }
+  ],
+  "uuid": "7a4f04ee-cb94-48d3-ade0-3b4b6407815d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

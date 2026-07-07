@@ -1,0 +1,18 @@
+{
+  "entryWord": "MIIS",
+  "definition": "misa",
+  "additional_text": "s1 nmisa derivaciones: aj mis católico del español misa",
+  "examples": [
+    {
+      "example_maya": "Ma tzʼok jun tmis kyimna tuʼn pal",
+      "example_spa": "El padre celebró una misa por la intención de un muerto",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "60fed061-bfb8-4b00-8d05-e34ff2aa4892",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Charakatel",
+  "entryWordDialect": null,
+  "altEntryWord": "Charocotel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "(tipo de espanto)",
+  "definitionDialect": "",
+  "additional_text": "SAgen DomS Xibʼineel",
+  "examples": [
+    {
+      "example_maya": "Li a Siʼs xxibʼix rumal li charakatel",
+      "example_spa": "Francisco fue asustado por un characotel",
+      "dialect": null
+    }
+  ],
+  "uuid": "4536a444-7c00-4f5b-9fd1-360bae4bc7f1"
+}

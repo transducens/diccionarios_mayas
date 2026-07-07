@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kantil",
+  "entryWordDialect": null,
+  "altEntryWord": "kandʼil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Candil",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukantiil Del Cast Candil",
+  "examples": [
+    {
+      "example_maya": "Li kandʼil na kakaʼy ta chik, ma maj chi gas chpam",
+      "example_spa": "El candil no alumbra porque ya no tiene gas",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc9abdac-b82f-49d7-8565-ee7199c86b44"
+}

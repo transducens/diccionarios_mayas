@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koch",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukoch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regalo; obsequio",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz S Kohch",
+  "examples": [
+    {
+      "example_maya": "Waʼ we numuruh xa nukoch",
+      "example_spa": "Este machete es un regalo",
+      "dialect": null
+    }
+  ],
+  "uuid": "eacd2a14-ad21-4a22-8704-e0bc1dd332e5"
+}

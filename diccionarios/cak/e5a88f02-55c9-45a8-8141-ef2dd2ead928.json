@@ -1,0 +1,38 @@
+{
+  "entryWord": "Aj",
+  "definition": "Partícula que indica procedencia Prefijo que indica lugar de origen, profesión u oficio, alguna característica propia de alguna persona Tercer día del calendario Cholqʼij",
+  "additional_text": "Par",
+  "examples": [
+    {
+      "example_maya": "Ri ma Luʼ aj Bʼokoʼ",
+      "example_spa": "Don Pedro es de Chimaltenango",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri a Xwan ajyuqʼ",
+      "example_spa": "Juan es pastor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aj Pasuʼn",
+      "example_spa": "Patzunero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ajkinäqʼ",
+      "example_spa": "Alguien que le gusta comer frijoles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aj ruwa jay chiköp",
+      "example_spa": "Animal de patio o doméstico",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5a88f02-55c9-45a8-8141-ef2dd2ead928",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba que tiene espinitas en el tallo; se pega en la ropa o en el pelo de animales",
+  "definitionDialect": "Spanish",
+  "additional_text": "snp Raíz S Tiin Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Kelesabʼex tzʼuʼum pa wachaj",
+      "example_spa": "Se usa para quitar una membrana que crece en el ojo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kanakʼiʼ chrij taq jastaq",
+      "example_spa": "Esta hierba se pega en las cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "eaa097e8-6358-4f0e-a84a-b02d84b5f933"
+}

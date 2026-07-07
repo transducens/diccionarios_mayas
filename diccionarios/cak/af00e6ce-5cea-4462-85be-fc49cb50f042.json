@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tür",
+  "definition": "Buba, mazorca enferma con algunos granos como tomates de color blanco al estar tiernos",
+  "additional_text": "sInv Nutür",
+  "examples": [
+    {
+      "example_maya": "Ri ruwäch re tür taq kʼa räx, chöj säq titzuʼun, ja kʼa taq nchaqiʼj, noqaʼ el jun poqolaj kʼaqoʼj chupan",
+      "example_spa": "Cuando los granos de esta mazorca están tiernos, son blancos y cuando se secan les sale un polvo de color café adentro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tur ja ri ruwäch ri jäl yenimär",
+      "example_spa": "En esta enfermedad de maíz, son los granos los",
+      "dialect": null
+    }
+  ],
+  "uuid": "af00e6ce-5cea-4462-85be-fc49cb50f042",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

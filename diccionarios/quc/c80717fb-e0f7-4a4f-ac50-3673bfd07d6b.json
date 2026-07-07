@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ikan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gallina ciega",
+  "definitionDialect": "General",
+  "additional_text": "sp sds Rikanil qʼumaʼr Gorgojo de palo DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li ikan kakibʼan kʼax che raʼ taq tikoʼn",
+      "example_spa": "La gallina ciega daña las raíces de las siembras",
+      "dialect": null
+    }
+  ],
+  "uuid": "c80717fb-e0f7-4a4f-ac50-3673bfd07d6b"
+}

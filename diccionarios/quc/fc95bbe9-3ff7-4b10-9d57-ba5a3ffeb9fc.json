@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saniyebʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaniyebʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Barro blanco",
+  "definitionDialect": "",
+  "additional_text": "sInv Raíz S Saniyeebʼ DomS Uleew",
+  "examples": [
+    {
+      "example_maya": "Li saniyebʼ kakibʼan kichak le akʼalabʼ chech",
+      "example_spa": "El barro blanco lo usan los niños para trabajos manuales",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc95bbe9-3ff7-4b10-9d57-ba5a3ffeb9fc"
+}

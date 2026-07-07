@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar pedazo de tela, carne, peña o límite de terreno",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinqaxoh Raíz VT Qax",
+  "examples": [
+    {
+      "example_maya": "Xinqax chech li nukʼulbʼaʼt",
+      "example_spa": "Me han cortado el límite del terreno",
+      "dialect": null
+    }
+  ],
+  "uuid": "1af504f9-8b92-4b2c-bd06-780fdff87454"
+}

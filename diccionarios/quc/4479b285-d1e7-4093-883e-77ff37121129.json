@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xkʼuliʼk, xukʼulubʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casado",
+  "definitionDialect": "General",
+  "additional_text": "P Raíz P Kʼul",
+  "examples": [
+    {
+      "example_maya": "Li achih, xukʼulubʼa li umiʼal ma riʼj chik",
+      "example_spa": "El hombre casó a su hija porque ya está grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "4479b285-d1e7-4093-883e-77ff37121129"
+}

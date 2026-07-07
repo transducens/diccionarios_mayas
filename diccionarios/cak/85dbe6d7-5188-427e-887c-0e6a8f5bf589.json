@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ruxaq",
+  "definition": "Hoja de: plantas o cosas plegadas",
+  "additional_text": "ssp Qʼayis",
+  "examples": [
+    {
+      "example_maya": "Ri subʼan niyaʼ pa ruxaq awän",
+      "example_spa": "Los tamalitos los envuelven en hojas de milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo ijqicheʼ yalan chawän ri kixaq",
+      "example_spa": "Hay encinos que tienen las hojas bien grandes",
+      "dialect": null
+    }
+  ],
+  "uuid": "85dbe6d7-5188-427e-887c-0e6a8f5bf589",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

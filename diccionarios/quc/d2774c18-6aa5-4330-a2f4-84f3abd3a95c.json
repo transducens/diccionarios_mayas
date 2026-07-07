@@ -1,0 +1,19 @@
+{
+  "entryWord": "Molqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Numolqʼabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Melqʼabʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Anillo",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li molqʼabʼ xukoj li alih pa kʼulanem sibʼalaj kʼakʼ",
+      "example_spa": "El anillo que usó la muchacha en la boda, es nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d2774c18-6aa5-4330-a2f4-84f3abd3a95c"
+}

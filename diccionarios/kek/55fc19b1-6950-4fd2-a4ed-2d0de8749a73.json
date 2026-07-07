@@ -1,0 +1,23 @@
+{
+  "entryWord": "Peer",
+  "definition": "Pera, orilla de un barranco",
+  "additional_text": "sInv Inpeer",
+  "examples": [
+    {
+      "example_maya": "Oxibʼ li oobʼ xkakʼaal xintaw wiʼ li peer",
+      "example_spa": "Conseguí las peras a tres por veinticinco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ xsahil li peer",
+      "example_spa": "Las peras están muy sabrosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "55fc19b1-6950-4fd2-a4ed-2d0de8749a73",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqtʼajlik",
+  "entryWordDialect": null,
+  "altEntryWord": "saqtʼajtʼoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Xsaqtʼajiʼk",
+  "altEntryWordDialect2": null,
+  "definition": "Posición de nieve o granizo",
+  "definitionDialect": "General",
+  "additional_text": "PC Raíz Adj Saq Raíz P Tʼaj",
+  "examples": [
+    {
+      "example_maya": "Li saqbʼach sibʼalaj saqtʼajtʼoj xubʼan chwa taq li juyubʼ",
+      "example_spa": "El granizo blanqueó los cerros",
+      "dialect": null
+    }
+  ],
+  "uuid": "e037ad7b-3289-4b67-8f43-c40da27a084d"
+}

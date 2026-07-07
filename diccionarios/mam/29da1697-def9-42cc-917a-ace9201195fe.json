@@ -1,0 +1,23 @@
+{
+  "entryWord": "AAQ",
+  "definition": "panal de ovejas pequeñas de color negro",
+  "additional_text": "s1 nʼaqa raíz aq s",
+  "examples": [
+    {
+      "example_maya": "Aax tok jun aq tiʼj tja",
+      "example_spa": "En la misma pared de su casa está un panal",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Junx tʼaq ma kanet te xjan semana santa",
+      "example_spa": "Sólo un panal encontró para la semana santa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "29da1697-def9-42cc-917a-ace9201195fe",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

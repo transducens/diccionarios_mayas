@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼitʼeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Roto: papel o tela",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz VT Bʼitʼ",
+  "examples": [
+    {
+      "example_maya": "Li atzʼyaq bʼitʼeʼl chi kumal li chʼoh",
+      "example_spa": "La ropa está rota por los ratones",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f7f8213-cf09-4fd7-9247-b3ec609b6eeb"
+}

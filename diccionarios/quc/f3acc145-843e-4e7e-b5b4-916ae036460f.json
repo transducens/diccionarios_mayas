@@ -1,0 +1,24 @@
+{
+  "entryWord": "Putzulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonado: hilo enredado; tirado, como bolo en la calle; cuajado de sueño",
+  "definitionDialect": "",
+  "additional_text": "P Xputziʼk, xuputzubʼaʼ Var Patzalik Raíz P Putz",
+  "examples": [
+    {
+      "example_maya": "Li akʼal putzul cheh waram",
+      "example_spa": "El niño está cuajado de sueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xaq putzul chi kan pa li bʼeh ma xa na kuqʼiʼ ta chik",
+      "example_spa": "El hombre se quedó tirado en el camino porque ya no aguanta caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "f3acc145-843e-4e7e-b5b4-916ae036460f"
+}

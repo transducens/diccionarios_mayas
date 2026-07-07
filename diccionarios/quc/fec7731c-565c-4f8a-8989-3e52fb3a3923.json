@@ -1,0 +1,24 @@
+{
+  "entryWord": "Waʼis tulul",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chico zapote",
+  "definitionDialect": "",
+  "additional_text": "sinv Nuwaʼis tulul Pruut",
+  "examples": [
+    {
+      "example_maya": "Li waʼis tulul rax kakaʼy li rij, are koʼl na chwach li tulul",
+      "example_spa": "El chico zapote tiene cáscara de color verde y es más pequeño que el zapote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li waʼis tulul pa taqʼaj kakʼiy wih",
+      "example_spa": "El chico zapote crece en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "fec7731c-565c-4f8a-8989-3e52fb3a3923"
+}

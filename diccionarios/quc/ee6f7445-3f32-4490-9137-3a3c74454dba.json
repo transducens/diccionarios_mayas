@@ -1,0 +1,19 @@
+{
+  "entryWord": "Riximal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puño de granos que indica la cantidad contada",
+  "definitionDialect": "",
+  "additional_text": "ssp Raíz S Ixiim",
+  "examples": [
+    {
+      "example_maya": "Li ajeqom kujik riximal li kuchup pa nimaqʼij",
+      "example_spa": "El autor del baile hace sus cuentas de los gastos con granos para la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "ee6f7445-3f32-4490-9137-3a3c74454dba"
+}

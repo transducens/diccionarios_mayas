@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼalibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cabello de ángel",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchʼaliibʼ DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼalibʼ utz che chʼamiʼy",
+      "example_spa": "El cabello de ángel es bueno para garrote",
+      "dialect": null
+    }
+  ],
+  "uuid": "86e1b6e1-80a0-427d-a463-789e8e2eec15"
+}

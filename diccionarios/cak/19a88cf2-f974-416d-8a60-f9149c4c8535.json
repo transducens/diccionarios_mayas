@@ -1,0 +1,28 @@
+{
+  "entryWord": "Qʼobʼ",
+  "definition": "Disminuir, secarse enflaquecerse, adelgazarse",
+  "additional_text": "vi Niqʼobʼ",
+  "examples": [
+    {
+      "example_maya": "Ri wis xqʼobʼ jataʼq chi re ri jujun kostal",
+      "example_spa": "Mi papá disminuyó un poco por cada saco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq yalan ruchuqʼaʼ ri qʼij, chanin nqʼobʼ ri siʼ",
+      "example_spa": "Cuando está muy fuerte el sol, se seca luego la leña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun alaʼ xqʼobʼ janíla, taq xbʼerumaʼ pe rixjayil",
+      "example_spa": "Un muchacho se adelgazó mucho, cuando tuvo mujer",
+      "dialect": null
+    }
+  ],
+  "uuid": "19a88cf2-f974-416d-8a60-f9149c4c8535",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

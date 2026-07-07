@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tanabʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintanabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suspender; terminar; cesar",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz PT Tan",
+  "examples": [
+    {
+      "example_maya": "Li qʼojom tanabʼan ma tajin kewaʼ li ajqʼojomabʼ",
+      "example_spa": "La música está suspendida porque están comiendo los marimbistas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li wokol ja xutanabʼa li uchak",
+      "example_spa": "El albañil terminó su trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "99c9b1f2-2c60-44a1-b542-b452209dde6e"
+}

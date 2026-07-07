@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼararexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼararej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar muchas botellas; mover muchas botellas",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raiz P Kʼar",
+  "examples": [
+    {
+      "example_maya": "Li lameʼt xkʼararex rumal li akʼal",
+      "example_spa": "Las botellas fueron sonadas por el niño",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf90df88-2caa-400b-b3cb-d19804512b98"
+}

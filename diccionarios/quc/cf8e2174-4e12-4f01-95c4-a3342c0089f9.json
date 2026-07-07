@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼatik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼatoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quemar",
+  "definitionDialect": "",
+  "additional_text": "vtr Var Pooroxik Raíz vtr Kʼat",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xukʼat li uqʼabʼ pa li qʼaqʼ",
+      "example_spa": "El niño se quemó la mano en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf8e2174-4e12-4f01-95c4-a3342c0089f9"
+}

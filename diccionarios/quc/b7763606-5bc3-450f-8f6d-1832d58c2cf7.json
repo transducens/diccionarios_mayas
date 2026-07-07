@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tukekakoh",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutukekako",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cacao",
+  "definitionDialect": "General",
+  "additional_text": "scv var Kakoh DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li tukekakoh are laʼ kabʼan chokolat chech",
+      "example_spa": "Del cacao se hace chocolate",
+      "dialect": null
+    }
+  ],
+  "uuid": "b7763606-5bc3-450f-8f6d-1832d58c2cf7"
+}

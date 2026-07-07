@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼululaʼnem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼululaʼnik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener envidia; oponerse",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz S Kʼul",
+  "examples": [
+    {
+      "example_maya": "Li a Chep, xaq kakʼululaʼn chwech",
+      "example_spa": "José me envidia",
+      "dialect": null
+    }
+  ],
+  "uuid": "e1ed015e-6b1f-440e-b92d-507a3ec96afa"
+}

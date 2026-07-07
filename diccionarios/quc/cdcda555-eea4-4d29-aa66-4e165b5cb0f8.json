@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xakʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar a zancadas",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinxakʼoh",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq kuxakʼ li bʼeh, ma naj raqan",
+      "example_spa": "El muchacho camina a zancadas porque es alto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinxakʼ li bʼeh",
+      "example_spa": "Camino con pasos largos",
+      "dialect": null
+    }
+  ],
+  "uuid": "cdcda555-eea4-4d29-aa66-4e165b5cb0f8"
+}

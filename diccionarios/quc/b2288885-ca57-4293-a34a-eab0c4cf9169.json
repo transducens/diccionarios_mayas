@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yowabʼixoq",
+  "entryWordDialect": null,
+  "altEntryWord": "Yawabʼixoq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mujer embarazada",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz S Yowaabʼ Raíz S Ixoq DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼixoq xbʼe pa pixpital",
+      "example_spa": "La mujer embarazada se fue al hospital",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2288885-ca57-4293-a34a-eab0c4cf9169"
+}

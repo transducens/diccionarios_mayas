@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼalapujem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desear comer",
+  "definitionDialect": "K'al.",
+  "additional_text": "vt Kakʼalapujik",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ kakʼalapuj ranima, karaj taj jas kutijoh",
+      "example_spa": "El enfermo desea comer algo de alimento",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Kakʼalapuj wanima",
+      "example_spa": "Desear comer algo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b7e40dd7-f405-408b-8ae3-05aacf3b48a9"
+}

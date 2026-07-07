@@ -1,0 +1,23 @@
+{
+  "entryWord": "IITZʼ",
+  "definition": "1 despierto 2 vivo",
+  "additional_text": "sz raíz itzʼ",
+  "examples": [
+    {
+      "example_maya": "Iitzʼ qina sok nimal chika aqʼbʼil",
+      "example_spa": "Yo estaba despierto cuando llegó la media noche",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Iitzʼ xjal aj ex oq tuj pink jnabʼa",
+      "example_spa": "Está viva la persona que se huyó para la finca el año pasado",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "6c4d886b-0a78-4155-b911-c107b6de35a2",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

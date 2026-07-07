@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yatenïk",
+  "definition": "Amarrar en medio algún manojo de palos u otra cosa, algo flojo",
+  "additional_text": "vt Yatexik (yatik), ninyät VT Yät",
+  "examples": [
+    {
+      "example_maya": "Chöj xinyät ri nukaslon iwir chi jun kʼan, ruma majun xinwil ta ri nupas",
+      "example_spa": "Apenas con una pita me amarré el pantalón ayer, por no encontrar mi faja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi jun chʼiwuʼ xinyät wi kan ruqejoj ri nukʼajol pa juyuʼ",
+      "example_spa": "Con una pita amarré un tercio de palos de mi hijo en el campo",
+      "dialect": null
+    }
+  ],
+  "uuid": "64af975e-e13d-43de-a1a6-e87579141f2f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

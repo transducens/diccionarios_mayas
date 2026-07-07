@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chelechik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "En fila",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Chel",
+  "examples": [
+    {
+      "example_maya": "Chelechik li rismal wachaj",
+      "example_spa": "Las pestañas están en fila",
+      "dialect": null
+    }
+  ],
+  "uuid": "c32f512c-9cdc-4fdd-bb1a-f448baacd221"
+}

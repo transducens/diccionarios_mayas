@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jubʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinjubʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Soplar la palma de la mano, dar el soplo sagrado",
+  "definitionDialect": "General",
+  "additional_text": "vtd Coment Se pone en el pecho por un susto, o directamente al pecho para regresar el espíritu de un niño cuando muere alguién; también al empezar una cosa, para que abunde o no se acabe",
+  "examples": [
+    {
+      "example_maya": "Kinjubʼaj na li nuqʼabʼ are taq kinmajij kʼayij",
+      "example_spa": "Soplo mis manos cuando empiezo a vender",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xujubʼaj li ralkʼuʼal ma kabʼe pa taqʼaj, are karaj na kabʼison taj",
+      "example_spa": "El hombre sopló a su hijo porque se va a la costa y no quiere que se ponga triste",
+      "dialect": null
+    }
+  ],
+  "uuid": "5adc81d7-8d98-4f83-91c8-b0102bb26791"
+}

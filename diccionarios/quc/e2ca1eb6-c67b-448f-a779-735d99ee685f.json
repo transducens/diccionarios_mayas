@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼisobʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cosa que causa tristeza; motivo de tristeza",
+  "definitionDialect": "",
+  "additional_text": "SnP",
+  "examples": [
+    {
+      "example_maya": "We xkam rachalal jun winaq sibʼalaj bʼisobʼal nah",
+      "example_spa": "La muerte de un familiar causa mucha tristeza",
+      "dialect": null
+    }
+  ],
+  "uuid": "e2ca1eb6-c67b-448f-a779-735d99ee685f"
+}

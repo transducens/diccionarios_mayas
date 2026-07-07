@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼaqʼan",
+  "definition": "Enojarse, arder",
+  "additional_text": "vi Niqʼaqʼan",
+  "examples": [
+    {
+      "example_maya": "Ri numamaʼ chöj chik niqʼaqʼan qʼiqʼij",
+      "example_spa": "Mi abuelito se mantiene ya sólo enojado diariamente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kʼatik yalan niqʼaqʼan",
+      "example_spa": "La quemadura arde mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b68167d-8035-47e6-86ae-3ba2976baa72",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

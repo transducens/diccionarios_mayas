@@ -1,0 +1,18 @@
+{
+  "entryWord": "PLAAS",
+  "definition": "mercado, plaza",
+  "additional_text": "s1 nplasa del español plaza",
+  "examples": [
+    {
+      "example_maya": "Ma chinx chʼina tuj plas Chnaʼjal",
+      "example_spa": "Voy a ir un rato al mercado de Huehuetenango",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c74f0aa1-979f-48b7-aa93-128dd2788b0c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

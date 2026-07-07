@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fiebre",
+  "definitionDialect": "",
+  "additional_text": "sas Nuqʼaaqʼaal",
+  "examples": [
+    {
+      "example_maya": "Li uneʼ li ixoq kʼo uqʼaqʼal",
+      "example_spa": "El nene de la mujer tiene fiebre",
+      "dialect": null
+    }
+  ],
+  "uuid": "3cfc40fb-e22d-4b7a-980f-83463b598273"
+}

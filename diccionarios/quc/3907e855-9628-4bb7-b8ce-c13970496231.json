@@ -1,0 +1,19 @@
+{
+  "entryWord": "=E",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Irse",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kineʼ na chwa jah",
+      "example_spa": "Mañana voy a irme para la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "3907e855-9628-4bb7-b8ce-c13970496231"
+}

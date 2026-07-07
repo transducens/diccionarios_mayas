@@ -1,0 +1,24 @@
+{
+  "entryWord": "Paqchixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empujar",
+  "definitionDialect": "General",
+  "additional_text": "VTD Kinpaqchiij Sinón Puyixik Raíz VT Paq",
+  "examples": [
+    {
+      "example_maya": "Kinpaqchij na li qʼabʼarel, are chi katzaqik",
+      "example_spa": "Voy a empujar al bolo para que se caiga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xupaqchij li qʼojom",
+      "example_spa": "El niño empujó la marimba",
+      "dialect": null
+    }
+  ],
+  "uuid": "bf25de43-44b0-4d3c-98a6-6c476881ea25"
+}

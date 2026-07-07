@@ -1,0 +1,23 @@
+{
+  "entryWord": "Hasbʼ",
+  "definition": "Secreto al hablar bajo, susurro",
+  "additional_text": "sInv Inhasbʼ",
+  "examples": [
+    {
+      "example_maya": "Saʼ hasbʼ yookebʼ chi aatinak laj tikʼtiʼ",
+      "example_spa": "Los mentirosos están hablando en secreto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ hasbʼ",
+      "example_spa": "Secretamente, en secreto",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ec7b5f8-e315-4664-b454-2b97c6bac30e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

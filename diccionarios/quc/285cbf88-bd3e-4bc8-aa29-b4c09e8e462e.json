@@ -1,0 +1,24 @@
+{
+  "entryWord": "Puyixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empujar",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinpuyiij Sinón Paqchixik var Cheeqʼik Raíz VT Puy",
+  "examples": [
+    {
+      "example_maya": "Xinpuyij li alah cheh li weqaʼn",
+      "example_spa": "Empujé al muchacho con mi carga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li komon winaq puyixik kakaʼn cheh li sin moy",
+      "example_spa": "El gentío está empujando al pobre ciego",
+      "dialect": null
+    }
+  ],
+  "uuid": "285cbf88-bd3e-4bc8-aa29-b4c09e8e462e"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼumir",
+  "definition": "Entiesarse, arrugarse las frutas, verduras, etc",
+  "additional_text": "viVers Xtzʼumïr Tzʼüm, tzʼun",
+  "examples": [
+    {
+      "example_maya": "Ri rij aq täq nichʼeqeʼ, nitzʼumir chaʼnin",
+      "example_spa": "El chicharrón cuando se moja, rápido se entiesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nukäqʼ, xtzʼumïr qa roma ri qʼij",
+      "example_spa": "Mi guayaba se arrugó por el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "dfe4e6fa-b20d-4ccd-bccc-278617b0b10a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Anin (Anim)",
+  "definition": "Prisa, carrera",
+  "additional_text": "sInv Wanin Pan anin (pananin) Al instante, terminar o hacer algo luego Ant Eqal, maril Binen var Chanin",
+  "examples": [
+    {
+      "example_maya": "Yin wanin xibʼe pa täq qʼayis chukanoxik jun chikop",
+      "example_spa": "Yo me fui de prisa a los montes, en busca de un pájaro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq yalan nachöp anin chʼanin yakos",
+      "example_spa": "Cuando uno hace una carrera se cansa rápido",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e8b01c3-c8b7-4eda-8602-08a961c6d01a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

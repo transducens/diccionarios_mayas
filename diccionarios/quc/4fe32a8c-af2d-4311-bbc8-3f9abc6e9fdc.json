@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nikʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio; mitad; centro",
+  "definitionDialect": "General",
+  "additional_text": "Adv Fbas //Nikʼaaj// En medio F Pa nikʼaaj En el centro F Nikʼaj chik Los demás",
+  "examples": [
+    {
+      "example_maya": "Chunikʼajal li choh xtzaq wi li awyon",
+      "example_spa": "El avión se cayó en el centro del lago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alanxax pa nikʼaj xpus wih",
+      "example_spa": "Partieron la naranja a la mitad",
+      "dialect": null
+    }
+  ],
+  "uuid": "4fe32a8c-af2d-4311-bbc8-3f9abc6e9fdc"
+}

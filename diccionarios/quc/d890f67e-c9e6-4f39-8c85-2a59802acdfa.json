@@ -1,0 +1,29 @@
+{
+  "entryWord": "Waqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cardar; moler ordinariamente; chapucear; comer muchas cosas verdes o tiernas, como elotes o duraznos",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinwaqoh Raíz VT Waq DomS Chaak",
+  "examples": [
+    {
+      "example_maya": "Li achih, tajin kuwaq li lanah",
+      "example_spa": "El hombre esta cardando la lana",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih, xaq apasa uwaqik li keʼem xubʼanoh",
+      "example_spa": "La muchacha dejó ordinaria la masa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah, xaq apasa uwaqik li uchak xubʼanoh xa rumal uʼaninaqil",
+      "example_spa": "El muchacho chapuceó el trabajo por la carrera",
+      "dialect": null
+    }
+  ],
+  "uuid": "d890f67e-c9e6-4f39-8c85-2a59802acdfa"
+}

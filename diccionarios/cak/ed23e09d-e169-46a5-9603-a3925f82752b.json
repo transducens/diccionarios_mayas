@@ -1,0 +1,33 @@
+{
+  "entryWord": "Bʼosinïk",
+  "definition": "Germinar la semilla, hongo Nacer cría (por medio de huevos) Rajar Nacer agua",
+  "additional_text": "vi Bʼosinen, nibʼos Pasivo irregular Sinón Alaxinik Ant Kamïk Bʼös",
+  "examples": [
+    {
+      "example_maya": "Pa woʼo qʼij nibʼos ri ixin",
+      "example_spa": "El maíz en cinco días germina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri alaj äkʼ kʼa pa juwinäq qʼij nibʼos",
+      "example_spa": "El pollito a los veinte días revienta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq xubʼän silonel xbʼos ruwachʼulew",
+      "example_spa": "Cuando hubo temblor se rajó (agrietó) la tierra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa jäbʼ xa bʼa kuchiʼ yebʼos yaʼ",
+      "example_spa": "En invierno por dondequiera nace agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "ed23e09d-e169-46a5-9603-a3925f82752b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼolonïk",
+  "definition": "Engañar",
+  "additional_text": "vt Qʼoloxik, ninqʼöl var Josonïk, raqʼunïk, subʼunïk Qʼöl",
+  "examples": [
+    {
+      "example_maya": "Jun achin chöj xiruqʼöl kan, man jun xbʼe ta chwij ri pa samaj",
+      "example_spa": "Un señor sólo me engañó, no se fue conmigo al trabajo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun alaʼ chöj xuqöl kan jun xtän",
+      "example_spa": "Un joven engañó a una muchacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "46c9edcf-8b40-48c8-9ae9-74b5cd36dc0a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

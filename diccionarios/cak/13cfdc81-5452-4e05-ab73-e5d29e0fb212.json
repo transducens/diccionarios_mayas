@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tzʼalän (tzʼaläm)",
+  "definition": "Tabla",
+  "additional_text": "scv Nutzʼalam",
+  "examples": [
+    {
+      "example_maya": "Ri tzaläm chre ri cheʼ nelesäx wi",
+      "example_spa": "La tabla se saca del árbol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼayew bʼa ruqupixik ri tzʼaläm",
+      "example_spa": "Cuesta un poco aserrar las tablas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼaläm janíla (janina) jun kuchi nokusäx wi",
+      "example_spa": "La tabla tiene varios usos",
+      "dialect": null
+    }
+  ],
+  "uuid": "13cfdc81-5452-4e05-ab73-e5d29e0fb212",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

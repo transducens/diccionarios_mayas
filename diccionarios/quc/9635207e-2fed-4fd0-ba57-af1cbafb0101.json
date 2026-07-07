@@ -1,0 +1,29 @@
+{
+  "entryWord": "Bʼanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer, construir, regañar",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinbʼanoh sv Bʼantajik Poder; acontecer, suceder SN Bʼaanik kʼax Dañar SAgenS Bʼanal kʼax Dañino SN Bʼanoj kooraal Cercar SN Bʼanoj qʼeʼt Surcar, arar SN Bʼanoj tziij Mentira Raiz VT Bʼan",
+  "examples": [
+    {
+      "example_maya": "Li ajanel jun kaxa tajin kubʼanoh",
+      "example_spa": "El carpintero está haciendo un cofre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Xwan tajin kubʼan jun xilaʼ",
+      "example_spa": "Juan está construyendo una silla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinbʼan na r a Luʼx we chulik",
+      "example_spa": "Cuando venga Alonso, lo regañaré",
+      "dialect": null
+    }
+  ],
+  "uuid": "9635207e-2fed-4fd0-ba57-af1cbafb0101"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "Purux",
+  "definition": "Maíz quebrantado, grumo de leche en polvo no deshecho en agua o de otra cosa",
+  "additional_text": "SInv Inpurux",
+  "examples": [
+    {
+      "example_maya": "Jwal purux xbʼeen li leech xwukʼ",
+      "example_spa": "La leche que tomé tenía mucho grumo",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ddd5bc9-db8e-4002-a233-80b0f1e023f9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

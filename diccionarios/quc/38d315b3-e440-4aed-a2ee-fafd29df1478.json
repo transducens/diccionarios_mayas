@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paxuchʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de paloma de monte, paloma mensajera",
+  "definitionDialect": "",
+  "additional_text": "sNp Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li paxuchʼ qʼeq rij, pa taq kʼacheʼlaj kʼo wih",
+      "example_spa": "La paloma mensajera, se encuentra en las montañas",
+      "dialect": null
+    }
+  ],
+  "uuid": "38d315b3-e440-4aed-a2ee-fafd29df1478"
+}

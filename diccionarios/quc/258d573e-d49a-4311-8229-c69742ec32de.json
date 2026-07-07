@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rujixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrujij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrar huevo",
+  "definitionDialect": "RVT.",
+  "additional_text": "Raíz VT Ruj",
+  "examples": [
+    {
+      "example_maya": "Li ajʼikʼ xurujij li saqmoʼl rech kupolij",
+      "example_spa": "La cocinera quebró los huevos para freírlos en el comal",
+      "dialect": null
+    }
+  ],
+  "uuid": "258d573e-d49a-4311-8229-c69742ec32de"
+}

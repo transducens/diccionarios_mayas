@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼakʼujem",
+  "entryWordDialect": null,
+  "altEntryWord": "Xbʼakʼujik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Secarse una planta, marchitarse",
+  "definitionDialect": "",
+  "additional_text": "vi Var Bʼayakʼujeem",
+  "examples": [
+    {
+      "example_maya": "Li juwinaqʼ xbʼakʼujik ma xa xtijow li raʼ rumal bʼah",
+      "example_spa": "La mata de frijol se marchitó porque la raíz se la comió la taltuza",
+      "dialect": null
+    }
+  ],
+  "uuid": "d4e302df-8108-4f08-9071-1e77d49e5261"
+}

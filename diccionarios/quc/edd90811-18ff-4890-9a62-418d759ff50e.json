@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tawalîk",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtawiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutawabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Entreabierto",
+  "definitionDialect": "general",
+  "additional_text": "p Raíz PT Taw",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xutawabʼa kan li uchi jah",
+      "example_spa": "El niño dejó entreabierta la puerta de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "edd90811-18ff-4890-9a62-418d759ff50e"
+}

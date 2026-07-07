@@ -1,0 +1,29 @@
+{
+  "entryWord": "Bʼuqulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puesta: ropa, gallina, carga o algodón; tirada: ropa, gallina, carga, bolo o algodón; amontonada: basura o ropa",
+  "definitionDialect": "",
+  "additional_text": "p Xbʼuqiʼk, xubʼuqubʼaʼ Adj Bʼuqubʼik Bajo de estatura vi Bʼuqnajeem Caminar persona o animal de baja estatura Enu Jubʼuqaaj Un montón de basura, ropa o trapos Raiz P Bʼuq",
+  "examples": [
+    {
+      "example_maya": "Li qʼabʼarel bʼuqul pa li bʼeh",
+      "example_spa": "El bolo estaba acostado en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinbʼuqubʼa kan li watzʼyaq chwi li abʼaj",
+      "example_spa": "Dejé mi ropa sobre la piedra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinbʼuqubʼa kan li mes chwa jah",
+      "example_spa": "La basura fue amontonada en el patio",
+      "dialect": null
+    }
+  ],
+  "uuid": "acf85828-c712-49ca-b4e2-0795717fd5db"
+}

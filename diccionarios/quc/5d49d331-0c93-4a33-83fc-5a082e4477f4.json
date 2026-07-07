@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatbʼal tzij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Municipalidad; alcaldía; autoridades",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz VT Qʼat Raíz S Tziij DomS Eqeleʼn",
+  "examples": [
+    {
+      "example_maya": "Li qʼatbʼal tzij sibʼalaj utz kechomanik",
+      "example_spa": "Las autoridades arreglan bien las cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "5d49d331-0c93-4a33-83fc-5a082e4477f4"
+}

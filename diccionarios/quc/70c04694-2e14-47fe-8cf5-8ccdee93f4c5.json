@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xul",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxul",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garganta; pito; gorgorito; pito de barro",
+  "definitionDialect": "Dom.S. B'aqilaaj. Dom.S. Eetz'aab'a'l.",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Pa li xul kaqʼax wi li jastaq kaqatijoh",
+      "example_spa": "Todas las cosas que comemos pasan por la garganta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pulusiʼy chʼichʼ li uxul",
+      "example_spa": "El gorgorito del policía es de metal",
+      "dialect": null
+    }
+  ],
+  "uuid": "70c04694-2e14-47fe-8cf5-8ccdee93f4c5"
+}

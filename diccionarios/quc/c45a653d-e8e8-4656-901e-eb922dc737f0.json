@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼajbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼajbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Refacción",
+  "definitionDialect": "General",
+  "additional_text": "scv Raiz VT Qʼaj",
+  "examples": [
+    {
+      "example_maya": "Li siwiil xaq uqʼajbʼal xutij bʼik, kʼa te xulwaʼoq",
+      "example_spa": "El leñador sólo comió una refacción, después vino a almorzar",
+      "dialect": null
+    }
+  ],
+  "uuid": "c45a653d-e8e8-4656-901e-eb922dc737f0"
+}

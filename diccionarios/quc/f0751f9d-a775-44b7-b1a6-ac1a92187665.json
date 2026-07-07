@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Múltiplo de veinte",
+  "definitionDialect": "",
+  "additional_text": "Coment No se usa suelto, sino en números compuestos, ej oxkʼa:l sesenta, oʼkʼa:l cien var Juwinaq",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan e kʼo oʼkʼa:l uʼchkop",
+      "example_spa": "Juan tiene cien ovejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0751f9d-a775-44b7-b1a6-ac1a92187665"
+}

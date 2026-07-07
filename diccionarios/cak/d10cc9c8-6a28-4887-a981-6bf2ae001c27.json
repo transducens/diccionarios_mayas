@@ -1,0 +1,23 @@
+{
+  "entryWord": "Usmachiʼ",
+  "definition": "Barba, bigote",
+  "additional_text": "sc Wusmachiʼ, wïsmachiʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼo achiʼaʼ kan yalan pim ri kusmachiʼ",
+      "example_spa": "Hay hombres que tienen la barba muy gruesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri achiʼaʼ kʼo kïsmachiʼ nïkisokaj",
+      "example_spa": "Los hombres que tienen barba se rasuran",
+      "dialect": null
+    }
+  ],
+  "uuid": "d10cc9c8-6a28-4887-a981-6bf2ae001c27",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

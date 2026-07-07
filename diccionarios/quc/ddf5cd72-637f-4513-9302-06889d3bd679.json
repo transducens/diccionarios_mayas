@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzatzoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio salado",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz Adj Tzah",
+  "examples": [
+    {
+      "example_maya": "Li rikil xubʼan li ixoq xaq tzatzoj",
+      "example_spa": "La comida que preparó la mujer esta medio salada",
+      "dialect": null
+    }
+  ],
+  "uuid": "ddf5cd72-637f-4513-9302-06889d3bd679"
+}

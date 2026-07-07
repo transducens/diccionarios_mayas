@@ -1,0 +1,28 @@
+{
+  "entryWord": "Etanïk",
+  "definition": "Medir, pesar",
+  "additional_text": "VTD Etaxik, ninwetaj Etaa Etan var Pajonïk",
+  "examples": [
+    {
+      "example_maya": "Woʼoʼ kʼan ulew xinwetaj iwir",
+      "example_spa": "Ayer medí cinco cuerdas de terreno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wakamïn xinpäj bʼa wixin",
+      "example_spa": "Voy a pesar un poco de maíz hoy",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chwaʼq ninwetaj janipeʼ kʼan awän xtik pa liʼan",
+      "example_spa": "Mañana voy a medir cuántas cuerdas de milpa hay sembradas en la planicie",
+      "dialect": null
+    }
+  ],
+  "uuid": "06703975-74f1-49b7-b804-6e2f14d7a23a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

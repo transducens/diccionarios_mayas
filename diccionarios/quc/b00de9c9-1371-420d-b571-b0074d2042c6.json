@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼotaj",
+  "entryWordDialect": null,
+  "altEntryWord": "jobʼotaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un rollo",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz PT Bʼot",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil xuloqʼ jubʼotaj kʼama chʼichʼ",
+      "example_spa": "El albañil compró un rollo de alambre de amarre",
+      "dialect": null
+    }
+  ],
+  "uuid": "b00de9c9-1371-420d-b571-b0074d2042c6"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Moren",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lorenzo Moreno (uno de los bailadores en el baile de la conquista)",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Ajxojolobʼ",
+  "examples": [
+    {
+      "example_maya": "Li moren are ajchoqʼeh li kanyon xkikamsabʼej keh ri qawinaqil",
+      "example_spa": "Lorenzo Moreno fue el dueño de los cañones que usaron para matar a los indígenas",
+      "dialect": null
+    }
+  ],
+  "uuid": "7751840b-736b-41b6-88dd-3c83839645f6"
+}

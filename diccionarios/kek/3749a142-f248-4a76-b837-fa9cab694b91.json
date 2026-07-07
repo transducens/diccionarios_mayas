@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼajok ix",
+  "definition": "Lavar la superficie, contorno o espalda",
+  "additional_text": "vtr Xinchʼaj rix",
+  "examples": [
+    {
+      "example_maya": "Xinchʼaj rix li xeʼchʼima",
+      "example_spa": "Lavé el ichintal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinchʼaj li wix",
+      "example_spa": "Me lavé la espalda",
+      "dialect": null
+    }
+  ],
+  "uuid": "3749a142-f248-4a76-b837-fa9cab694b91",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

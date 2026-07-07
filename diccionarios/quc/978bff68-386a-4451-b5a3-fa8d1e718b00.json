@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼoxowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doler; sentir deseos de ir al servicio sanitario",
+  "definitionDialect": "General",
+  "additional_text": "vi Kingʼoxowik Raíz vi Qʼox",
+  "examples": [
+    {
+      "example_maya": "Li nupam kaqʼoxowik, ma xa xintij tzʼila joron",
+      "example_spa": "Me duele el estómago porque tomé agua sucia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq sibʼalaj kaqʼoxow li ranima rumal li bʼis",
+      "example_spa": "Le duele el corazón a la mujer por la tristeza",
+      "dialect": null
+    }
+  ],
+  "uuid": "978bff68-386a-4451-b5a3-fa8d1e718b00"
+}

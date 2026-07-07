@@ -1,0 +1,29 @@
+{
+  "entryWord": "Webʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwebʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Plato",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Woʼqbʼal",
+  "examples": [
+    {
+      "example_maya": "Li webʼal kachokon cheh ukʼol\"bʼal lij",
+      "example_spa": "El plato se usa para poner tortillas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih, xuya li kaxlanwah pa li webʼal",
+      "example_spa": "La muchacha puso el pan en el plato",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li webʼal kachokon cheh ukol\"bʼal wah, xuq rikil",
+      "example_spa": "El plato sirve para poner tortillas y comidas",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad4a7df2-99db-4dd9-aa84-00efe8ea69ae"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzoptzotlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brincar aves al correr",
+  "definitionDialect": "",
+  "additional_text": "vi Kotzoptzotlabʼik Raíz VT Tzop",
+  "examples": [
+    {
+      "example_maya": "Li tzokʼoluwacheʼ katzoptzotlabʼ chwi li cheʼ",
+      "example_spa": "El pájaro carpintero brinca sobre las ramas del árbol",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2527f09-78e5-415a-a80f-908df4f5f320"
+}

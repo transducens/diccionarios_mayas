@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jukuʼ",
+  "definition": "Canoa, bebedero",
+  "additional_text": "sinv Nujukuʼ Kʼojlibʼäl",
+  "examples": [
+    {
+      "example_maya": "Kʼo choy ruyon pa jukuʼ yeqʼax wi ri winäq pa ruwiʼ",
+      "example_spa": "Hay lagunas en las que sólo en canoas pasa la gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri jukuʼ nkʼatzin nkukʼiyabʼej kapeʼn ri aq, chuqaʼ kiyaʼ ri äkʼ",
+      "example_spa": "La canoa sirve para que beban agua chiva los marranos y las gallinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "dd1ac566-cb76-4c55-a9aa-818a29fa644a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

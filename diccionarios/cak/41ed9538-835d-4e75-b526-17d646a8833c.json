@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼoloj",
+  "definition": "Surco, camellón",
+  "additional_text": "sInv Nubʼoloj",
+  "examples": [
+    {
+      "example_maya": "Kan kʼiy ri tikoʼn pa bʼoloj nibʼan wi",
+      "example_spa": "Muchas son las siembras que se hacen por surcos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Juwinäq waqiʼ bʼoloj kʼo chupan ri jun kʼan ulew, ri jun bʼara rikʼin nikʼaj rukojöl",
+      "example_spa": "Veintiséis surcos hay en una cuerda de terreno, separados por una vara y media",
+      "dialect": null
+    }
+  ],
+  "uuid": "41ed9538-835d-4e75-b526-17d646a8833c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

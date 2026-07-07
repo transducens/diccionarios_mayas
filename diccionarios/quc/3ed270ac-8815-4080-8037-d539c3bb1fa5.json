@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viejo: cosas; usado: cosas",
+  "definitionDialect": "",
+  "additional_text": "Adj Uqʼeʼlaal, xqʼeʼlabʼik (xqʼeʼlobʼik) Raíz Adj Qʼeʼl",
+  "examples": [
+    {
+      "example_maya": "Li reloj na utz ta chik, xqʼeʼlabʼik",
+      "example_spa": "El reloj ya no sirve, es viejo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li powiʼ qʼeʼl chik, na kachokon taj",
+      "example_spa": "El sombrero es viejo, ya no sirve",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ed270ac-8815-4080-8037-d539c3bb1fa5"
+}

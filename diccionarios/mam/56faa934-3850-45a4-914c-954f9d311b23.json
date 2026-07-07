@@ -1,0 +1,23 @@
+{
+  "entryWord": "MAA",
+  "definition": "por allá, hasta allá",
+  "additional_text": "pal raíz ma",
+  "examples": [
+    {
+      "example_maya": "Txiʼya bʼetal ma chiʼw",
+      "example_spa": "Andá a caminar por allá",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Qo ubʼal chʼit ma jlaj",
+      "example_spa": "Vamos a matar pájaros allá de aquel lado",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "56faa934-3850-45a4-914c-954f9d311b23",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

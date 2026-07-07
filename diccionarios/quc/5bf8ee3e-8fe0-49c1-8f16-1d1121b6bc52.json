@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rekad",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pan de recado",
+  "definitionDialect": "",
+  "additional_text": "SInv Nureekaad DomS Kaxlanwah Del Cast Recado",
+  "examples": [
+    {
+      "example_maya": "Li rekad kaya saqmoʼl xuq mantekaʼ rukʼ",
+      "example_spa": "Al pan de recado se le echa huevo y manteca",
+      "dialect": null
+    }
+  ],
+  "uuid": "5bf8ee3e-8fe0-49c1-8f16-1d1121b6bc52"
+}

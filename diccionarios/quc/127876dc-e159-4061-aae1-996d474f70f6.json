@@ -1,0 +1,24 @@
+{
+  "entryWord": "Solixik =bʼeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ir por otro camino; dar vuelta por otro lado; desviarse",
+  "definitionDialect": "",
+  "additional_text": "vts Kinsolij nubʼeh Raíz VT Sol",
+  "examples": [
+    {
+      "example_maya": "Kinsolij nubʼeh ma xa sibʼalaj e kʼih winaq e kʼo pa li bʼeh",
+      "example_spa": "Tengo que irme por otro camino porque hay mucha gente en éste",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xa xusolij li ubʼe chwa li ukʼulil",
+      "example_spa": "La mujer se pasó al otro lado por su enemiga",
+      "dialect": null
+    }
+  ],
+  "uuid": "127876dc-e159-4061-aae1-996d474f70f6"
+}

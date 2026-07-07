@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ver; mirar",
+  "definitionDialect": "general",
+  "additional_text": "vi vrb Kaʼyexik Mirar s Kaʼybʼal Mirador vi Kaʼylabʼeem Andar mirando; escoger esposa o novia Raíz VI Kaʼy",
+  "examples": [
+    {
+      "example_maya": "Li al Luisa kukaʼyej ribʼ pa li kaʼyebʼal",
+      "example_spa": "Luisa se mira en el espejo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winaq tajin kekaʼy chkij ajxojolobʼ",
+      "example_spa": "La gente está mirando a los bailadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "de32f3a1-6e75-4072-a2a5-1e4337cbf494"
+}

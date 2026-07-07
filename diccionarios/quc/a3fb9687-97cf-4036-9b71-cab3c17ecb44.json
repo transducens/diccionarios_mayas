@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ruqʼuqʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer bulla con agua o los intestinos al tener hambre; chapotear; nadar",
+  "definitionDialect": "",
+  "additional_text": "vi Karuqʼuqʼik Raíz VT Ruqʼ",
+  "examples": [
+    {
+      "example_maya": "Li patax xuchap ruqʼuqʼem pa li jaʼ",
+      "example_spa": "El pato empezó a nadar en el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3fb9687-97cf-4036-9b71-cab3c17ecb44"
+}

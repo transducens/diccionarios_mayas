@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chakanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchakanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gatear",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Chak",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xumajij chakanem",
+      "example_spa": "El niño empezó a gatear",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b79ab13-c7b6-49c6-9f44-bceed1c28da5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qinoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar como un gordo",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqiinoʼpik Raiz P Qin",
+  "examples": [
+    {
+      "example_maya": "Li choma achih xaq kaqinoʼp li kabʼinik",
+      "example_spa": "El hombre gordo camina despacio",
+      "dialect": null
+    }
+  ],
+  "uuid": "25df3957-f456-4c67-b5e3-db36e6646d71"
+}

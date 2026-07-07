@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lawetalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bajo llave; con llave",
+  "definitionDialect": "",
+  "additional_text": "p //Lahweh//",
+  "examples": [
+    {
+      "example_maya": "Lawetal li uchi jah",
+      "example_spa": "La puerta de la casa está con llave",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "ef2e4166-67ef-4f29-8519-b43bc7035572"
+}

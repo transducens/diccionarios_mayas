@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼoj siʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trabajo o acto de rajar leña",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz S Siiʼ paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih paqʼoj siʼ kubʼan rukʼ ikaj",
+      "example_spa": "El hombre está rajando leña con hacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "321938d3-5ced-4ec5-a313-b7572c1dec11"
+}

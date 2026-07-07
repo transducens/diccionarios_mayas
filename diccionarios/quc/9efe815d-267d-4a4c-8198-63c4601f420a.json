@@ -1,0 +1,29 @@
+{
+  "entryWord": "Won",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bola pequeña de cristal que usan para jugar los niños; cuarzo (cristal que se encuentra en la tierra); piedras de cristal de los collares",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuwoon",
+  "examples": [
+    {
+      "example_maya": "Li alih, xusikʼ jun won",
+      "example_spa": "La muchacha pepenó una bola de cristal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li retzʼabʼaʼl li alih, wona taq abʼaj",
+      "example_spa": "El collar de la muchacha es de piedras brillantes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wona taq abʼaj",
+      "example_spa": "Piedras brillantes",
+      "dialect": null
+    }
+  ],
+  "uuid": "9efe815d-267d-4a4c-8198-63c4601f420a"
+}

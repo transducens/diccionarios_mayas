@@ -1,0 +1,23 @@
+{
+  "entryWord": "Piloy",
+  "definition": "Piligua, piloy",
+  "additional_text": "sInv Nupiloy Kinäqʼ",
+  "examples": [
+    {
+      "example_maya": "Ri piloy yalan ütz chi nitïj yalan niqa chi nuwäch",
+      "example_spa": "El frijol piligua es muy bueno comerlo, a mí me gusta mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri piloʼy tew bʼaʼ, roma riʼ xa kʼïy xtatäj qa, npe apam (apan)",
+      "example_spa": "El piligua es un poco frío, por eso al comer bastante, te da dolor de estómago",
+      "dialect": null
+    }
+  ],
+  "uuid": "005a3998-5808-43fe-9a89-fda92e6ba4b8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

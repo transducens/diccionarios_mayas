@@ -1,0 +1,19 @@
+{
+  "entryWord": "Puqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonido del agua cuando se tira una piedra al fondo, o de tinaja medio llena",
+  "definitionDialect": "",
+  "additional_text": "al",
+  "examples": [
+    {
+      "example_maya": "Puqʼ puqʼ xuʼon li joron are taq xkʼaq jun abʼaj chpam",
+      "example_spa": "Puqʼ puqʼ hizo el agua cuando tiraron una piedra adentro",
+      "dialect": null
+    }
+  ],
+  "uuid": "655c823c-f8bc-4f37-ae6b-baed3ce30613"
+}

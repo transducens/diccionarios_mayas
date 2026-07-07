@@ -1,0 +1,24 @@
+{
+  "entryWord": "Papaʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Papaya; papayo",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nupapaʼy DomS Pruut Del Cast Papaya",
+  "examples": [
+    {
+      "example_maya": "Li papaʼy pa taq taqʼaj kakʼiy wih",
+      "example_spa": "El papayo crece en la costa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li papaʼy qʼan kakaʼyik",
+      "example_spa": "La papaya es de color amarillo",
+      "dialect": null
+    }
+  ],
+  "uuid": "eda2ec82-61ee-4011-ae6d-cd986dbe8dec"
+}

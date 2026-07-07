@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pompoʼs",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hinchado; remendado muy grueso y mal",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj pompoʼs li raqan che jun spoj",
+      "example_spa": "La pierna de la mujer está muy hinchada por el absceso",
+      "dialect": null
+    }
+  ],
+  "uuid": "e36a7653-4342-4d18-84c3-fcd33773f69e"
+}

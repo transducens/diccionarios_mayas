@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼayabʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alto y gordo (persona o animal)",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Bʼay",
+  "examples": [
+    {
+      "example_maya": "Li alah sibʼalaj jun bʼayabʼik ma si kutzuq ribʼ",
+      "example_spa": "El muchacho es muy alto y gordo porque se alimenta bien",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li meʼs xuchap jun bʼayabʼik chʼo",
+      "example_spa": "El gato agarró un ratón gordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d6a96a7-c2db-43b6-bcf5-a2de731d0394"
+}

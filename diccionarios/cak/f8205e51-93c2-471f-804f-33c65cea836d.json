@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼapäl",
+  "definition": "Quebrajoso Madera",
+  "additional_text": "ADJ Juqʼap, un pedazo o una mordida de una cosa larga vt Qʼäp var Qʼutül",
+  "examples": [
+    {
+      "example_maya": "Ri ruqʼaʼ cheʼ chaqiʼj, jebʼël qʼapäl",
+      "example_spa": "Las ramas secas son muy quebrajosas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Achiʼël ruqʼapik ri saqʼul, pa jun kaʼiʼ qʼap nikʼis qa",
+      "example_spa": "Al comer banano, en unas dos o tres mordidas se termina",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8205e51-93c2-471f-804f-33c65cea836d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mesebʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escoba",
+  "definitionDialect": "",
+  "additional_text": "scv Numesebʼaal Raíz S Mes Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Li mesebʼal kachokon che mesbʼal upa jah",
+      "example_spa": "La escoba se usa para barrer el interior de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "cd78414f-e8a2-4b2d-a535-0ffe71d7a091"
+}

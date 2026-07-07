@@ -1,0 +1,24 @@
+{
+  "entryWord": "Saqpor",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaqpor",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salpor, maíz blanco para hacer poporopo; mimbre",
+  "definitionDialect": "General",
+  "additional_text": "sInv Var Pool DomS Ixiim",
+  "examples": [
+    {
+      "example_maya": "Waʼ we juliʼ chi ixim xa tel li upam xuq kabʼan pol chech",
+      "example_spa": "Esta clase de maíz es hueco y también se hace poporopo de él",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li saqpor kabʼan chakach chech chiʼl nikʼaj chi jastaq",
+      "example_spa": "Del mimbre se hacen canastas y otras cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "cee474b0-4b6b-48d0-ae34-69cd08a35b93"
+}

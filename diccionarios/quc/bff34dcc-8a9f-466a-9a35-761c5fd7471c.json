@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patan",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupatan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costumbre; servicio como cofrade u oficial",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼij patan kubʼan chwi li juyubʼ",
+      "example_spa": "El sacerdote maya está haciendo costumbre sobre el cerro",
+      "dialect": null
+    }
+  ],
+  "uuid": "bff34dcc-8a9f-466a-9a35-761c5fd7471c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼaqaʼpixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchʼaqaʼpij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dejar sin terminar; faltar de terminar",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raiz P Chʼaqaʼp",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan xuchʼaqaʼpij li uchak na xukʼis taj",
+      "example_spa": "Juan dejó la mitad de su trabajo sin terminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6fb6c71-2a13-46e0-8211-1f806e3662c7"
+}

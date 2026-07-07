@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yoʼj naʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aconsejar",
+  "definitionDialect": "",
+  "additional_text": "vts Aconsejar",
+  "examples": [
+    {
+      "example_maya": "Li achih kuya unaʼoj li jun chi achih are chi kutik rabʼix",
+      "example_spa": "El hombre aconseja bien al otro hombre para que siembre milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun itzel alah rajawaxik kaya unaʼoj",
+      "example_spa": "Al muchacho malcriado hay que aconsejarle",
+      "dialect": null
+    }
+  ],
+  "uuid": "7278db9c-3a6f-4526-8b76-817468793fd0"
+}

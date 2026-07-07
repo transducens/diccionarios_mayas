@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sarexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsarej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosa rolliza o persona gorda",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Sar",
+  "examples": [
+    {
+      "example_maya": "Kinsarej na bʼi li jun cheʼ chwi nutelebʼ",
+      "example_spa": "Voy a llevar el palo sobre mi hombro",
+      "dialect": null
+    }
+  ],
+  "uuid": "f52f2f23-3919-4de6-9eba-2f9dc8f0088d"
+}

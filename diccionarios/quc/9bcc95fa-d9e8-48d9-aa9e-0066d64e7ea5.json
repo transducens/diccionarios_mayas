@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Negros (gente)",
+  "definitionDialect": "",
+  "additional_text": "snp",
+  "examples": [
+    {
+      "example_maya": "Li winaq e kʼo pa Africa e qʼeqabʼ",
+      "example_spa": "La gente de Africa es negra",
+      "dialect": null
+    }
+  ],
+  "uuid": "9bcc95fa-d9e8-48d9-aa9e-0066d64e7ea5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rij wachaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Párpado; frente de la cabeza",
+  "definitionDialect": "es",
+  "additional_text": "sds Rij nuwach DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li rij wachaj are kachʼuquw li ubʼaqʼ wachaj",
+      "example_spa": "El párpado resguarda los ojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5068ba2-493e-439e-9163-4c59b09a0e93"
+}

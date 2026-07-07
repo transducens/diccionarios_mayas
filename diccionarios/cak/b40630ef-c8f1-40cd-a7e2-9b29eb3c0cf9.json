@@ -1,0 +1,28 @@
+{
+  "entryWord": "Laʼ",
+  "definition": "Ese, aquel, aquella",
+  "additional_text": "Dem",
+  "examples": [
+    {
+      "example_maya": "La jun wuj laʼ wichin yin, ja la xinkusaj täq yin koʼöl",
+      "example_spa": "Ese libro es mío, lo usé cuando era pequeño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja laʼ ri nuchaqʼ yin",
+      "example_spa": "Aquel es mi hermano menor",
+      "dialect": null
+    },
+    {
+      "example_maya": "La jay laʼ ja la wachoch",
+      "example_spa": "Aquella casa es la mía",
+      "dialect": null
+    }
+  ],
+  "uuid": "b40630ef-c8f1-40cd-a7e2-9b29eb3c0cf9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

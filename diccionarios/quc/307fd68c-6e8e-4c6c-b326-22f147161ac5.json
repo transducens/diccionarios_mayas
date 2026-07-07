@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzʼalik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hojas para envolver tamales",
+  "definitionDialect": "General",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li tzʼalik kachokon cheh subʼabʼal subʼ",
+      "example_spa": "Las hojas se usan para envolver tamales",
+      "dialect": null
+    }
+  ],
+  "uuid": "307fd68c-6e8e-4c6c-b326-22f147161ac5"
+}

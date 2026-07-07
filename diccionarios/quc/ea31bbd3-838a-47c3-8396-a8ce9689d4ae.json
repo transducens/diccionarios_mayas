@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼonbʼoʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desnudo; pelada: panza de animal; enferma: oveja",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz PT Bʼon",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sin bʼonbʼoʼ maj sin ratzʼyaq",
+      "example_spa": "El niño está desnudito porque no tiene ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea31bbd3-838a-47c3-8396-a8ce9689d4ae"
+}

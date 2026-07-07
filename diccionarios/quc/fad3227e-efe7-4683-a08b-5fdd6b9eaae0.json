@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pejmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapejmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse la punta de cosa ancha al llevarla",
+  "definitionDialect": "General",
+  "additional_text": "vI Raíz P Pej",
+  "examples": [
+    {
+      "example_maya": "Li alah kapejmaʼy li jun nima tzʼalam chrij, ma xa xax",
+      "example_spa": "La tabla que el muchacho está cargando, se dobla porque es delgada",
+      "dialect": null
+    }
+  ],
+  "uuid": "fad3227e-efe7-4683-a08b-5fdd6b9eaae0"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kanajnïk",
+  "definition": "Quedarse Atraparse, ubicarse",
+  "additional_text": "vi Kanajen, yikanäj",
+  "examples": [
+    {
+      "example_maya": "Yalan nikʼasäs ri tinamït, taq yin xikanäj kan jun aqʼaʼ chi riʼ",
+      "example_spa": "Estaba muy alegre el pueblo, cuando me quedé una noche allí",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yikanäj kan jun aqʼaʼ pa juyuʼ",
+      "example_spa": "Me voy a quedar una noche en el monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "cee97a2e-246c-439c-be40-24493d6e94f5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

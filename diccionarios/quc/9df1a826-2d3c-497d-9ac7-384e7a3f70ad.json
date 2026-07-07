@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nutexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinnutej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosas jateadas",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Nut",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay lij kunutej li lij puqʼabʼ",
+      "example_spa": "La vendedora jatea muchas tortillas en la mano",
+      "dialect": null
+    }
+  ],
+  "uuid": "9df1a826-2d3c-497d-9ac7-384e7a3f70ad"
+}

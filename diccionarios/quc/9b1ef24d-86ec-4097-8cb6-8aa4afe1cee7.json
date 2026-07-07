@@ -1,0 +1,24 @@
+{
+  "entryWord": "Choqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fuerza; lucha",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchooqʼaabʼ F Maj uchooqʼaabʼ Débil",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj kʼo uchoqʼabʼ che eqaʼn",
+      "example_spa": "El hombre tiene mucha fuerza para cargar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kakitij kichoqʼabʼ",
+      "example_spa": "Están echando fuerzas",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b1ef24d-86ec-4097-8cb6-8aa4afe1cee7"
+}

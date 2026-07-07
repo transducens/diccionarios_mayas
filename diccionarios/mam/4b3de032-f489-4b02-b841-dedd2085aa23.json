@@ -1,0 +1,23 @@
+{
+  "entryWord": "PEXL",
+  "definition": "1 salida, como orilla de una grada o punta de una mesa 2 asomada: una nube en el horizonte",
+  "additional_text": "p ma tzʼex pexeʼ, ma tzʼex tpexbʼaʼn raíz pex p",
+  "examples": [
+    {
+      "example_maya": "Ma tzʼetz pexeʼ tuj nakʼubʼil",
+      "example_spa": "Quedó salido de su lugar",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Pexl muj twiʼ witz",
+      "example_spa": "Está asomada una nube en la cima del cerro",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "4b3de032-f489-4b02-b841-dedd2085aa23",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

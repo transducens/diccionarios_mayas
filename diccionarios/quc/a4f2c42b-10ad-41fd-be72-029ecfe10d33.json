@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼululim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido el estómago",
+  "definitionDialect": "General",
+  "additional_text": "vi Kachʼululik Raiz Vl Chʼul",
+  "examples": [
+    {
+      "example_maya": "Li nupam sibʼalaj kachʼululik, ma xa kinnum chik",
+      "example_spa": "Mi estómago hace ruido porque tengo hambre",
+      "dialect": null
+    }
+  ],
+  "uuid": "a4f2c42b-10ad-41fd-be72-029ecfe10d33"
+}

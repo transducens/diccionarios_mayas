@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sutinem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Procesión; fila; hilera; desfile; comitiva; séquito; acompañamiento",
+  "definitionDialect": "",
+  "additional_text": "sv Raíz VT Sut",
+  "examples": [
+    {
+      "example_maya": "Li tyox xbʼe pa sutinem kumal li winaq",
+      "example_spa": "La gente llevó al santo en procesión",
+      "dialect": null
+    }
+  ],
+  "uuid": "130333eb-ef80-4a8c-bc66-1f509f1ac77b"
+}

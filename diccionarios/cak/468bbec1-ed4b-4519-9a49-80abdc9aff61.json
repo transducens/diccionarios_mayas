@@ -1,0 +1,28 @@
+{
+  "entryWord": "Aqʼaʼl",
+  "definition": "Carbón",
+  "additional_text": "sInv Waqʼaʼl Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri patän yalan jebʼël nubʼän ri aqʼaʼl",
+      "example_spa": "El roble es muy bueno para el carbón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri aqʼaʼl näq nubʼän ta sübʼ (sïbʼ)",
+      "example_spa": "El carbón no hace humo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri cheʼ täq nikʼat nok aqʼaʼl",
+      "example_spa": "La madera cuando se quema, se hace carbón",
+      "dialect": null
+    }
+  ],
+  "uuid": "468bbec1-ed4b-4519-9a49-80abdc9aff61",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

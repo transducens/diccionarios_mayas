@@ -1,0 +1,28 @@
+{
+  "entryWord": "Mayäl",
+  "definition": "Marchito, rogado",
+  "additional_text": "Adj Rumayil, xmayïr var Yamäl",
+  "examples": [
+    {
+      "example_maya": "Täq nichʼup ri kotzʼiʼj, chʼanin nimayïr",
+      "example_spa": "Cuando se cortan las flores, luego se marchitan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xemayïr ri qʼayis (ruma) ri saqʼij",
+      "example_spa": "Los montes se marchitaron por el verano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Choj mayäl runaʼoj la xtän",
+      "example_spa": "Es muy rogada esa joven",
+      "dialect": null
+    }
+  ],
+  "uuid": "ecc4a402-18ec-43cf-9139-d9486fa9cf44",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

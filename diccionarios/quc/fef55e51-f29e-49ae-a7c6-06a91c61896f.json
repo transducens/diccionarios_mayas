@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lin",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulin",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lino",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Atzʼyaq Del Cast Lino",
+  "examples": [
+    {
+      "example_maya": "Li mantel kʼo pa tyox chʼuchʼuj, ma are lin",
+      "example_spa": "Los manteles de la iglesia son finos porque son de lino",
+      "dialect": null
+    }
+  ],
+  "uuid": "fef55e51-f29e-49ae-a7c6-06a91c61896f"
+}

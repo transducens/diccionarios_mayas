@@ -1,0 +1,19 @@
+{
+  "entryWord": "Elaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Relaqʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Robo",
+  "definitionDialect": "",
+  "additional_text": "SInv s Elaqʼoom Ladrón VTD Elaqʼaxik Robar",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xok pa cheʼ umak elaqʼ",
+      "example_spa": "La mujer se fue a la cárcel por el robo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5f84a5c3-f9df-4d83-a2fc-ba1a8346f2b4"
+}

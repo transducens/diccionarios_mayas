@@ -1,0 +1,24 @@
+{
+  "entryWord": "Maʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xmaʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xumaʼbʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Mojado; empapado",
+  "definitionDialect": "",
+  "additional_text": "P Var Chʼaqalik Raíz P Maʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, sibʼalaj maʼlik, ma xuriq nima jabʼ",
+      "example_spa": "El hombre está empapado por el aguacero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼajoʼn si kʼa maʼlik, ma maj qʼij",
+      "example_spa": "La ropa todavía está mojada porque no hay sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "2f10270d-2af8-4b84-b33e-54d859ac2bf9"
+}

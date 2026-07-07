@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqix",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaqix",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guacamaya; papagallo; una clase de pescado",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li kaqix nim li ujeʼ, qʼan, rax, kaq kakaʼyik",
+      "example_spa": "La guacamaya tiene plumaje de muchos colores",
+      "dialect": null
+    }
+  ],
+  "uuid": "6cf9adc4-e52e-47aa-90bb-e3567b480571"
+}

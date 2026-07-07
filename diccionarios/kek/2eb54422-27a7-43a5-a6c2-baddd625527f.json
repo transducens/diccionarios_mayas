@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jo nimal",
+  "definition": "Cuánto, a cuánto, de qué tamaño",
+  "additional_text": "PartInterr",
+  "examples": [
+    {
+      "example_maya": "¿Joʼ nimal xzʼaq?",
+      "example_spa": "¿Cuánto cuesta?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Joʼ nimal xteram?",
+      "example_spa": "¿De qué altura?",
+      "dialect": null
+    }
+  ],
+  "uuid": "2eb54422-27a7-43a5-a6c2-baddd625527f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

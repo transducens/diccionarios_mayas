@@ -1,0 +1,23 @@
+{
+  "entryWord": "Teexil",
+  "definition": "Tejas para, tejas de",
+  "additional_text": "SInv Xteexil",
+  "examples": [
+    {
+      "example_maya": "Ak wan xteexil li wochoch",
+      "example_spa": "Ya tengo tejas para la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wan wiʼ li teexil kabʼl tinkanaaq",
+      "example_spa": "Me quedo donde está la casa de tejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "16221135-9938-4644-9455-9f19f16bf29b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

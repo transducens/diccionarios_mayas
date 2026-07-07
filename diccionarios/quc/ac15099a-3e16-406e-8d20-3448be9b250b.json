@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajpelot",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajpelot",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Futbolista",
+  "definitionDialect": "General",
+  "additional_text": "SAgen DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li akʼal are karaj kok ajpelot",
+      "example_spa": "El niño quiere ser futbolista",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac15099a-3e16-406e-8d20-3448be9b250b"
+}

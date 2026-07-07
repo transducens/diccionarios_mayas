@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tzʼapël",
+  "definition": "Cerrado; encerrado; preso",
+  "additional_text": "p Xtzʼapeʼ, xutzʼapebʼaʼ Ant Jaqäl var Kuchul kʼojlen",
+  "examples": [
+    {
+      "example_maya": "Chaqaʼ konojel ruchiʼ täq jay e tzʼapël",
+      "example_spa": "En las noches todas las puertas están cerradas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chwaʼq jun qʼij nitzʼapeʼ ruchi ri kʼaʼybʼäl",
+      "example_spa": "Mañana todo el día, se matendrá cerrada la puerta del mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nchaqʼ (nuchaqʼ) tzʼapäl roma ri rixjayil",
+      "example_spa": "Mi hermano menor está encarcelado por su mujer",
+      "dialect": null
+    }
+  ],
+  "uuid": "b4af9b82-e491-48fa-b490-6530f803b2ea",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

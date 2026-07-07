@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kumpaʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukumpaʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Compadre",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Winaq Del Cast Compadre",
+  "examples": [
+    {
+      "example_maya": "Kumpaʼl are li achih li kukʼaʼn li akʼal pa qasanaʼ",
+      "example_spa": "Compadre es el hombre que lleva al niño al bautizo",
+      "dialect": null
+    }
+  ],
+  "uuid": "43e246ce-615e-4992-b01e-95f9d4b129a0"
+}

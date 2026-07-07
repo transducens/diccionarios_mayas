@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tijik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer; beber; tomar",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kintijoh",
+  "examples": [
+    {
+      "example_maya": "Kintij na kaxlanwah chweʼq",
+      "example_spa": "Mañana voy a comer pan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih na kakowin ta chik kutij tiʼij ma maj chi uwareh",
+      "example_spa": "El hombre no puede comer carne porque ya no tiene",
+      "dialect": null
+    }
+  ],
+  "uuid": "90aa6ba7-5df0-45cc-8136-268d1ad42033"
+}

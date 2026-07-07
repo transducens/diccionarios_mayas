@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xar",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grajo; xara",
+  "definitionDialect": "Spanish",
+  "additional_text": "snp DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xar raxtzanatzoj li rij xuq bʼanal kʼax cheh tikoʼn",
+      "example_spa": "El grajo es de color azul y le hace daño a la siembra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xar we xuraq uchiʼ na utz taj",
+      "example_spa": "Cuando el grajo grita es de mal agüero",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ad53100-8df2-4164-bd32-c43629222a6f"
+}

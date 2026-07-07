@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulik uwach",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼul uwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Contestar",
+  "definitionDialect": "General",
+  "additional_text": "vrs Raíz VT Kʼul Raíz S Kʼul",
+  "examples": [
+    {
+      "example_maya": "Li achih, karaj kubʼan ukʼulik tzʼibʼatal pa li wuj",
+      "example_spa": "quiere contestar lo que está en la carta",
+      "dialect": null
+    }
+  ],
+  "uuid": "d32e97e2-3b88-4a08-866e-6654740d4fff"
+}

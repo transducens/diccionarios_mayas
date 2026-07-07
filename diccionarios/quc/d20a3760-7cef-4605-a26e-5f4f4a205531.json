@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mansaniʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Numansaniʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manzanilla",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS Kunabʼal Del Cast Manzanilla",
+  "examples": [
+    {
+      "example_maya": "Li mansaniʼl kachokon che qʼoxom qulaj",
+      "example_spa": "La manzanilla se usa para calmar la tos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d20a3760-7cef-4605-a26e-5f4f4a205531"
+}

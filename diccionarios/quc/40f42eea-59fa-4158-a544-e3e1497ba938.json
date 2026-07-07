@@ -1,0 +1,19 @@
+{
+  "entryWord": "Peroleʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Personas que no tienen un hogar fijo",
+  "definitionDialect": "",
+  "additional_text": "s",
+  "examples": [
+    {
+      "example_maya": "Peroleʼr are riʼ winaq ri xaq kewaʼkat ojer",
+      "example_spa": "Esta era una raza de gente que antes se mantenía viajando",
+      "dialect": null
+    }
+  ],
+  "uuid": "40f42eea-59fa-4158-a544-e3e1497ba938"
+}

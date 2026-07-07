@@ -1,0 +1,23 @@
+{
+  "entryWord": "Parok",
+  "definition": "Raspar con las uñas, aruñar",
+  "additional_text": "VTR Xinpar",
+  "examples": [
+    {
+      "example_maya": "Xinxpar li mes",
+      "example_spa": "El gato me aruñó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li paaps yal xinpar li rix rikʼin wixiʼij",
+      "example_spa": "Pele las papas con las uñas",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5d32441-f36b-4c1a-bfe0-c6d7b4fd29f6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

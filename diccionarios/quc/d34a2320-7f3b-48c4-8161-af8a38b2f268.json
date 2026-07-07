@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lachʼachʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegajoso",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz P Lachʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj lachachʼ li raxkabʼ pa li laq",
+      "example_spa": "El plato está muy pegajoso por la miel",
+      "dialect": null
+    }
+  ],
+  "uuid": "d34a2320-7f3b-48c4-8161-af8a38b2f268"
+}

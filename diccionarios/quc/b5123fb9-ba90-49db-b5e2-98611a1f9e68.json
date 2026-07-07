@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼatexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar el paso; estorbar, impedir, proteger; defender",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinqʼaateej Raiz VT Qʼat",
+  "examples": [
+    {
+      "example_maya": "Li bʼeh qʼatem, na utz taj kaqʼatan li bʼinel chʼichʼ",
+      "example_spa": "Han cortado el paso en el camino, no pueden pasar los carros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nima abʼaj kuqʼatej upa li bʼeh",
+      "example_spa": "La piedra grande estorba el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih raj xchʼayik, utz uqʼatexik ribʼ xubʼanoh",
+      "example_spa": "Le iban a pegar al hombre, pero pudo defenderse",
+      "dialect": null
+    }
+  ],
+  "uuid": "b5123fb9-ba90-49db-b5e2-98611a1f9e68"
+}

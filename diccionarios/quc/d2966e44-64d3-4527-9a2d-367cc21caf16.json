@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tipit",
+  "entryWordDialect": null,
+  "altEntryWord": "Utipital",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sabor de banano medio maduro",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li ankineʼy we na riʼj taj kabʼolik, xa tipit",
+      "example_spa": "Si el banano no está sazón cuando se asa, su sabor es tipit",
+      "dialect": null
+    }
+  ],
+  "uuid": "d2966e44-64d3-4527-9a2d-367cc21caf16"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xkaman",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chacha; chachalaca",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuxkaman DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xkaman yuquyik li kuxul xuq katijowik, pa taqʼaj kʼo wih",
+      "example_spa": "La chacha tiene un pescuezo largo, se puede comer, y vive en tierra tropical",
+      "dialect": null
+    }
+  ],
+  "uuid": "e045ab79-3b49-4b01-a49f-3946c7589434"
+}

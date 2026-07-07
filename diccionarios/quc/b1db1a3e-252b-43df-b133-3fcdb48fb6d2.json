@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xchobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wixchobʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Nuxchoobʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Pichacha; colador",
+  "definitionDialect": "",
+  "additional_text": "sInv Var Nuxchoobʼ DomS Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Li xchobʼ kachokon cheh chʼajbʼal tzih",
+      "example_spa": "La pichacha sirve para lavar el nixtamal",
+      "dialect": null
+    }
+  ],
+  "uuid": "b1db1a3e-252b-43df-b133-3fcdb48fb6d2"
+}

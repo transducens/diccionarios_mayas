@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chelechïk",
+  "definition": "Dentado",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Achʼäl acheʼl rey ri qupbʼäl cheʼ",
+      "example_spa": "Como el filo de la sierra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri iwan chelechïk ri rij",
+      "example_spa": "La espalda de la iguana es dentada",
+      "dialect": null
+    }
+  ],
+  "uuid": "2a8446b6-88e6-412d-ab9d-4abb146d996d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qebʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar como pato",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqebʼnajik Raíz P Qebʼ",
+  "examples": [
+    {
+      "example_maya": "Li patax xa kaqebʼnajik kabʼinik",
+      "example_spa": "El pato camina moviéndose de un lado a otro",
+      "dialect": null
+    }
+  ],
+  "uuid": "469e9228-7251-401a-8821-dd8cc485b2f1"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "ATLA",
+  "definition": "1 alguien 2 tal vez hay",
+  "additional_text": "pro raíz a",
+  "examples": [
+    {
+      "example_maya": "Atla sul aj jaqol kosin qaʼlayin",
+      "example_spa": "Alguien vendría a abrir la cocina en el atardecer",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b830db6b-ea53-4eb9-b31e-e3fc73c1172a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

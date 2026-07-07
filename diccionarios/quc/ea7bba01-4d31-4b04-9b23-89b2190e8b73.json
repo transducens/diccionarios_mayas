@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pilikotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reírse por cualquier cosita; portarse como payaso",
+  "definitionDialect": "General",
+  "additional_text": "vi Kapilikotik Raíz VT Pil",
+  "examples": [
+    {
+      "example_maya": "Li al Mariʼy xaq kapilikotik",
+      "example_spa": "María se mantiene riéndose",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea7bba01-4d31-4b04-9b23-89b2190e8b73"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼaq",
+  "definition": "Mezcla, argamasa",
+  "additional_text": "SInv Nutzʼaq var Tapya",
+  "examples": [
+    {
+      "example_maya": "Rikʼin ri tzʼaq niqʼolibʼëx wi ri abʼäj",
+      "example_spa": "Con la mezcla se unen las piedras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼaq täq nichaqiʼj sibʼiläj kow nubʼan",
+      "example_spa": "Cuando se seca la mezcla se pone bien dura",
+      "dialect": null
+    }
+  ],
+  "uuid": "98eefbbc-e9f8-4053-9d2c-578a560ff43a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

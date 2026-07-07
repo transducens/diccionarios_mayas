@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jaʼrem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Disolverse; deshacerse; derretirse; gastarse; desgastarse",
+  "definitionDialect": "",
+  "additional_text": "vI Kajaʼrik vrc Jaʼrisaxik Deshacer, disolver, derretir, gastar, desgastar Raíz s Jaʼ",
+  "examples": [
+    {
+      "example_maya": "Tajin kajaʼr li kabʼ",
+      "example_spa": "La panela se está deshaciendo con el fuego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xjaʼr li kuchiʼl rumal sibʼalaj kojom",
+      "example_spa": "El cuchillo se desgastó mucho por el uso",
+      "dialect": null
+    }
+  ],
+  "uuid": "5ab7b781-0a2f-4afa-8c68-0e507324f638"
+}

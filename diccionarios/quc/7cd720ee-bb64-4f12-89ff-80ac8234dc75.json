@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzebʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una porción de cosa espesa",
+  "definitionDialect": "es",
+  "additional_text": "Enu Raiz PT Tzebʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, xusok ribʼ, jutzebʼaj, li ukikʼel xel kan pa li bʼeh",
+      "example_spa": "El hombre herido dejó una poza de sangre espesa, en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "7cd720ee-bb64-4f12-89ff-80ac8234dc75"
+}

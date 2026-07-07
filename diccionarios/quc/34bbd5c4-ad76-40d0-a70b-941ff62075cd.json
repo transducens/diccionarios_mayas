@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼatanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quemar",
+  "definitionDialect": "",
+  "additional_text": "vi Kakʼatanik",
+  "examples": [
+    {
+      "example_maya": "Li qʼij sibʼalaj kakʼatanik",
+      "example_spa": "El sol quema mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "34bbd5c4-ad76-40d0-a70b-941ff62075cd"
+}

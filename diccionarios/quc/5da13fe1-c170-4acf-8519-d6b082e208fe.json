@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chetik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchetoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Raspar; cortar con machete; lavar con paxte o con xilote",
+  "definitionDialect": "General",
+  "additional_text": "vtr vt Chetixik Cortar paja sInv Cheet Troje Raiz VT Chet",
+  "examples": [
+    {
+      "example_maya": "Li al Mariʼy kuchet li bʼoʼj rukʼ joʼq",
+      "example_spa": "María lava el apaste con xilote",
+      "dialect": null
+    }
+  ],
+  "uuid": "5da13fe1-c170-4acf-8519-d6b082e208fe"
+}

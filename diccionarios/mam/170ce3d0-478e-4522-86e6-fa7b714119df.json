@@ -1,0 +1,23 @@
+{
+  "entryWord": "MUUQAN",
+  "definition": "tortilla",
+  "additional_text": "s1 nmuqana frases: saq muqan tortilla para vender en el mercado raíz muqan s ds waʼj",
+  "examples": [
+    {
+      "example_maya": "Meltzʼuʼn jaw tmuqan txina",
+      "example_spa": "Volteá la tortilla de ella",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Maʼ tzʼeʼy muqan tuʼna",
+      "example_spa": "Quemaste la tortilla",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "170ce3d0-478e-4522-86e6-fa7b714119df",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuk",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqa kuk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Tzʼaʼya kuuk",
+  "altEntryWordDialect2": null,
+  "definition": "Ardilla",
+  "definitionDialect": "Dom.S. Chikop.",
+  "additional_text": "sInv Nukuuk Var Kaqa kuuk Var Tzʼaʼya kuuk DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kuk kutij aj, bʼanal kʼax chech abʼix",
+      "example_spa": "La ardilla come elotes y hace daño a la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "63988122-c0dc-4f0e-a245-f905ccb7f431"
+}

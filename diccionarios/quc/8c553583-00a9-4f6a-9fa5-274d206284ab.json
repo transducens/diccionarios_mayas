@@ -1,0 +1,29 @@
+{
+  "entryWord": "Chʼakik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ganar; vencer; tener éxito",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinchʼakoh Raiz vt Chʼak",
+  "examples": [
+    {
+      "example_maya": "Kinok na pa sak are chi kinchʼak jun nuchʼichʼ",
+      "example_spa": "Voy a jugar lotería para ganarme un machete",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajetzʼanelabʼ xechʼak kumal li nikʼaj chik",
+      "example_spa": "Los jugadores fueron vencidos por sus rivales",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achijabʼ xebʼe pa chʼakanik pa taqʼaj",
+      "example_spa": "Los hombres se fueron a ganar dinero a la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c553583-00a9-4f6a-9fa5-274d206284ab"
+}

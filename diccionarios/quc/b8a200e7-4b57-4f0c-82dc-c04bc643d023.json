@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yakʼakʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyakʼakʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amarrar algo con una pita por en medio, muy fuerte",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT",
+  "examples": [
+    {
+      "example_maya": "Li choris utz uyakʼakʼexik bʼanom",
+      "example_spa": "Los chorizos están bien amarrados",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8a200e7-4b57-4f0c-82dc-c04bc643d023"
+}

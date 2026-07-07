@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼe",
+  "definition": "Izquierda, zurdo",
+  "additional_text": "SInv Intzʼe",
+  "examples": [
+    {
+      "example_maya": "Xintoq intzʼe uqʼm",
+      "example_spa": "Me quebré la mano izquierda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ tzʼe",
+      "example_spa": "A la izquierda",
+      "dialect": null
+    }
+  ],
+  "uuid": "606f86c8-732d-4fb2-8b7a-0040c2d15486",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

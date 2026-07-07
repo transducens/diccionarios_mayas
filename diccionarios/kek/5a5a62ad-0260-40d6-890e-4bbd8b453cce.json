@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼar wiʼ",
+  "definition": "¿Dónde?",
+  "additional_text": "PartConj",
+  "examples": [
+    {
+      "example_maya": "¿Bʼar natʼaneʼ li soʼsol chʼiichʼ?",
+      "example_spa": "¿Dónde aterriza el avión?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Bʼar xinye aawe?",
+      "example_spa": "¿Dónde le dije?",
+      "dialect": null
+    }
+  ],
+  "uuid": "5a5a62ad-0260-40d6-890e-4bbd8b453cce",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

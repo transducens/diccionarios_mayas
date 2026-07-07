@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼaʼux",
+  "definition": "Imaginación, pensamiento, opinión, cuento",
+  "additional_text": "SInv Inkʼaʼux Var Kʼaʼuxl",
+  "examples": [
+    {
+      "example_maya": "Chʼinaʼus li kʼaʼux aʼan",
+      "example_spa": "Esa idea es valiosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maakʼaʼ inkʼaʼux",
+      "example_spa": "No tengo opinión",
+      "dialect": null
+    }
+  ],
+  "uuid": "19939ffe-2c25-4c0e-a8b0-08f44d38af84",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

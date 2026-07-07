@@ -1,0 +1,23 @@
+{
+  "entryWord": "Maakʼaʼ xsaʼ",
+  "definition": "Vacío, desocupado",
+  "additional_text": "Adj Xmaakʼaʼoʼ xsaʼ, xmaakʼaʼhil xsaʼ",
+  "examples": [
+    {
+      "example_maya": "Maakʼaʼ xsaʼ li kabʼ",
+      "example_spa": "La casa está desocupada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tonel maakʼaʼ xsaʼ",
+      "example_spa": "El tonel está vacío",
+      "dialect": null
+    }
+  ],
+  "uuid": "53c05a83-db19-400c-9263-f7bccf6c9373",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

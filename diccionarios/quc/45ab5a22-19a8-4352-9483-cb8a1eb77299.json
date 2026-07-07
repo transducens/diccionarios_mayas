@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jalamaloʼxik ibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakijalamala kibʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cruzarse gente o animales en un camino",
+  "definitionDialect": "General",
+  "additional_text": "VT Raíz VT Jal",
+  "examples": [
+    {
+      "example_maya": "Li winaq sibʼalaj kakijalama la kibʼ pa li bʼeh",
+      "example_spa": "La gente se está cruzando por el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "45ab5a22-19a8-4352-9483-cb8a1eb77299"
+}

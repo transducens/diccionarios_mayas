@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jopixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rociar polvos o granos; ahumar a una imagen; echar con fuerza cosas en polvo o granos",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinjopiij Raíz VT Jop",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kinjopij trikoh",
+      "example_spa": "Mañana voy a rociar el trigo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinjopij xinmakʼij",
+      "example_spa": "Esto les obsequié (ceremonial)",
+      "dialect": null
+    }
+  ],
+  "uuid": "6fb23185-fe0d-43a2-9100-4f168981e173"
+}

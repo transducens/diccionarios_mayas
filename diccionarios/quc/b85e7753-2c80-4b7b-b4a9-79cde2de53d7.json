@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalakʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deshojado, como árbol",
+  "definitionDialect": "K'al.",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li cheʼ xaq kʼalakʼik chik, ma xa xchaqijik",
+      "example_spa": "El árbol está deshojado porque se secó",
+      "dialect": null
+    }
+  ],
+  "uuid": "b85e7753-2c80-4b7b-b4a9-79cde2de53d7"
+}

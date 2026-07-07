@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chuqʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchuqʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar cosas en el agua",
+  "definitionDialect": "",
+  "additional_text": "VTD Sinón Puqʼixik Raíz VT Chuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah xuchuqʼij li tzʼiʼ pa li jaʼ",
+      "example_spa": "El muchacho tiró al perro en el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "c86a3ce3-76c4-4960-8efb-51f4d0547612"
+}

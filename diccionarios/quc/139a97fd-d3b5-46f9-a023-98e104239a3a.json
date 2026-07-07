@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pitznajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar sólito; andar persona o animal flaco",
+  "definitionDialect": "",
+  "additional_text": "vi Kapitznajik Raíz P Pitz",
+  "examples": [
+    {
+      "example_maya": "Li achih kabʼin pa li bʼe kapitznajik",
+      "example_spa": "El hombre que anda en el camino está muy flaco",
+      "dialect": null
+    }
+  ],
+  "uuid": "139a97fd-d3b5-46f9-a023-98e104239a3a"
+}

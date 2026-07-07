@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wechok",
+  "definition": "Quitar un pedazo, mellar",
+  "additional_text": "VTR Xinwech",
+  "examples": [
+    {
+      "example_maya": "Xinwech xxik li ukʼal",
+      "example_spa": "Le quité la oreja a la olla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinwech rix li cheʼ",
+      "example_spa": "Quité la corteza del árbol",
+      "dialect": null
+    }
+  ],
+  "uuid": "81ab8171-992e-474e-a9d2-d239a14c0435",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Surmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar sin sombrero o sin llevar nada",
+  "definitionDialect": "general",
+  "additional_text": "vi Kasurmaʼyik Raiz VI Sur",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kasurmaʼy chi li poloh",
+      "example_spa": "El hombre anda sin sombrero por la playa",
+      "dialect": null
+    }
+  ],
+  "uuid": "aa4b9a76-de6f-411f-94fa-9eb57172fc4f"
+}

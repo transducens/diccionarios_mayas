@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼanil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Insecto de color amarillo plateado que vuela y pica",
+  "definitionDialect": "",
+  "additional_text": "snp Chkop",
+  "examples": [
+    {
+      "example_maya": "Li chkop kibʼiʼ qʼanil, ketyoʼnik",
+      "example_spa": "Los insectos llamados qʼaniil pican",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa758524-ed1e-4eff-b882-f31eb31de4b3"
+}

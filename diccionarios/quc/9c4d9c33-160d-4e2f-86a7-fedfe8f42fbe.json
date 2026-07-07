@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yoʼj tzʼum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amamantar, dar de mamar",
+  "definitionDialect": "",
+  "additional_text": "vts F Yoʼj utz wachiil Saludar",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kuya utzʼum li ral",
+      "example_spa": "La mujer amamanta a su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c4d9c33-160d-4e2f-86a7-fedfe8f42fbe"
+}

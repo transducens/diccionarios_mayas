@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ala (Alaʼ)",
+  "definition": "Joven Expresión directa de un anciano a un joven o entre la misma edad",
+  "additional_text": "voc var Ale",
+  "examples": [
+    {
+      "example_maya": "Ki ri kʼa ala",
+      "example_spa": "Adiós pues, joven",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ütz awäch ala",
+      "example_spa": "¿Cómo está joven?",
+      "dialect": null
+    }
+  ],
+  "uuid": "cbbfdb1a-94f5-4387-b59a-dc7aba351862",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

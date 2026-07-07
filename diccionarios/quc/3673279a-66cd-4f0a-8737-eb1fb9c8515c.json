@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼ uchiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener derecho (de mandar)",
+  "definitionDialect": "General",
+  "additional_text": "scl Raiz S Qʼaaqʼ Raiz S Chiiʼ",
+  "examples": [
+    {
+      "example_maya": "Li tat qʼaqʼ uchiʼ kutaq li ukʼajol",
+      "example_spa": "El padre tiene derecho de mandar a su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3673279a-66cd-4f0a-8737-eb1fb9c8515c"
+}

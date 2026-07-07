@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼuqwiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garrapatero; judío; pijuy",
+  "definitionDialect": "",
+  "additional_text": "snp Sinón Pitzʼjuy DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Waʼ we tzʼuqwiʼ pa miqʼina juyubʼ kʼo wih",
+      "example_spa": "Este garrapatero vive en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "a0e4d22e-e003-4ae4-9401-6db872d12634"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rasyon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ración de alimentos",
+  "definitionDialect": "",
+  "additional_text": "sInv Nurasyoon",
+  "examples": [
+    {
+      "example_maya": "Li winaq xebʼe pa pink xya kirasyon",
+      "example_spa": "A la gente que se fue a la finca, le dieron ración",
+      "dialect": null
+    }
+  ],
+  "uuid": "b841c663-3b9d-4024-b601-c492f7f78b3e"
+}

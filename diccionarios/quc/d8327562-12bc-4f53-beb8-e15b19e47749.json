@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kotzʼkotnaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acostado: el Señor Sepultado",
+  "definitionDialect": "",
+  "additional_text": "Adj Coment Palabra con respeto",
+  "examples": [
+    {
+      "example_maya": "Kotzʼkotnaq, li uwachibʼal li qajawal pa li ukaxa",
+      "example_spa": "El Señor Sepultado está acostado en la urna",
+      "dialect": null
+    }
+  ],
+  "uuid": "d8327562-12bc-4f53-beb8-e15b19e47749"
+}

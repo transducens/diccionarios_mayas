@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tára",
+  "definition": "Bambú",
+  "additional_text": "sInv Nutára Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri tára yalan nïm rupalen, chuqaʼ nel xa xe pa taq taqʼaj",
+      "example_spa": "El bambú sale muy alto y se da sólo en las costas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tára nukusäx wi richin atzʼam chuqaʼ richin ruxkïn taq kaʼ",
+      "example_spa": "El bambú se usaba de salero y también para las orillas de la piedra de moler",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5b3148a-9079-4eda-8872-5427f6c60fb8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

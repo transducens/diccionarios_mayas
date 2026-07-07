@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yitzʼonik (yitzʼinïk)",
+  "definition": "Ordeñar; retorcer ropa mojada; exprimir",
+  "additional_text": "vt Yitzʼoxik, ninyitzʼ Yitzʼ",
+  "examples": [
+    {
+      "example_maya": "Ri bʼaka ronojel nimaqʼaʼ yeyitzʼ",
+      "example_spa": "Todas las mañanas ordeñan las vacas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo achiʼaʼ yalan jukumaj yekiyitzʼ ri kiwakx, kʼo kaʼ ri manäq",
+      "example_spa": "Algunos hombres ordeñan su vaca bien temprano, y algunos no",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun tzyäq ronojel bʼey taq nichʼaj, kow niyitzʼ chanin niretzetäj",
+      "example_spa": "Una ropa que cada vez que la lavan, se exprime fuerte, se rompe luego",
+      "dialect": null
+    }
+  ],
+  "uuid": "33e25c81-ec7f-4dc2-8c06-bb1e044835ec",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

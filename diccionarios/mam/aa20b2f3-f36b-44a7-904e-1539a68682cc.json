@@ -1,0 +1,23 @@
+{
+  "entryWord": "TQʼOOTAL QAMBʼAJ",
+  "definition": "pantorrilla",
+  "additional_text": "scl tqʼotal nqana raíz qʼot raíz qan s ds xumlalbʼaj",
+  "examples": [
+    {
+      "example_maya": "Maʼ tzʼokx kyan tqʼotal nqana tuʼn sikytleʼn",
+      "example_spa": "Me entró calambre en la pantorrilla por el cansancio",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma tzʼel ẍjakʼan tqʼotal tqan tuʼn txʼuʼj",
+      "example_spa": "El perro con rabia le mordió la pantorrilla",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "aa20b2f3-f36b-44a7-904e-1539a68682cc",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

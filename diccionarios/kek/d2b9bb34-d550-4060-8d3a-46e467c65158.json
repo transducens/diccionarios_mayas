@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tijonel",
+  "definition": "Rezador, orador, consejero matrimonial",
+  "additional_text": "SInv Intijonel var Aj tijonel",
+  "examples": [
+    {
+      "example_maya": "Aj tijonel a winq aʼan",
+      "example_spa": "Ese hombre es rezador",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun aj tijonel tchalq najt xtenamit",
+      "example_spa": "Vendrá un orador extranjero",
+      "dialect": null
+    }
+  ],
+  "uuid": "d2b9bb34-d550-4060-8d3a-46e467c65158",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

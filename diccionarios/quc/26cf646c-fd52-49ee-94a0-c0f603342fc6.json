@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taqaqlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintaqaqlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brincar parte del cuerpo involuntariamente; salir un poco los ojos",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz VT Taq",
+  "examples": [
+    {
+      "example_maya": "Li achih xchʼapiʼ li uwa puqul, xaq kataqaqlabʼ chi li ubʼaqʼwach",
+      "example_spa": "Al hombre se le trabó la comida en la garganta y como se le salían los ojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "26cf646c-fd52-49ee-94a0-c0f603342fc6"
+}

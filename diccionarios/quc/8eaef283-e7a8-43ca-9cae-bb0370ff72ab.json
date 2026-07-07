@@ -1,0 +1,19 @@
+{
+  "entryWord": "Stak",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estaca",
+  "definitionDialect": "",
+  "additional_text": "sinv Nustaak Sinón Aqan DomS Cheeʼ Del Cast Estaca",
+  "examples": [
+    {
+      "example_maya": "Li stak kachokon chech kojbʼal taq retal etanik, kachokon chech uyuqulibʼal kej",
+      "example_spa": "La estaca se usa para señalar medidas de cuerdas y para amarrar caballos",
+      "dialect": null
+    }
+  ],
+  "uuid": "8eaef283-e7a8-43ca-9cae-bb0370ff72ab"
+}

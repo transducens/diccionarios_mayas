@@ -1,0 +1,18 @@
+{
+  "entryWord": "JUN EL",
+  "definition": "una vez, aquella vez",
+  "additional_text": "nc raíz jun nc raíz el md",
+  "examples": [
+    {
+      "example_maya": "¿Kyaj naj tpasa jun el?",
+      "example_spa": "¿Se perdió tu sombrero aquella vez?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "53a99502-5fc6-4fb3-852d-d01c740a8f2d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼatumcheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tapexco; camilla",
+  "definitionDialect": "General",
+  "additional_text": "SCL Chʼaatumcheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ xa chwa chʼatum cheʼ xkʼam bʼik",
+      "example_spa": "El enfermo fue llevado en camilla",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7f20e1f-d238-4a36-bf36-29e18e2d42f1"
+}

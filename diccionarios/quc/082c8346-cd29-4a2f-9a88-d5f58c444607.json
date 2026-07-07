@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzeqʼetzobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzeqʼetzobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al dar un golpe con el puño",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzeqʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj xtzeqʼetzobʼ li jun qʼabʼ chupalaj li alah",
+      "example_spa": "El puñetazo que recibió el muchacho en la cara hizo mucho ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "082c8346-cd29-4a2f-9a88-d5f58c444607"
+}

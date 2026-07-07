@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jasjatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hablar en voz baja; susurrar",
+  "definitionDialect": "",
+  "additional_text": "vi Kajasjatik",
+  "examples": [
+    {
+      "example_maya": "Li nan chiʼl li ral xaq kejasjatik",
+      "example_spa": "La señora y su hija hablan en voz baja",
+      "dialect": null
+    }
+  ],
+  "uuid": "4fd209ad-b330-40a3-9cc7-0faf899811bc"
+}

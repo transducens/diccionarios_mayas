@@ -1,0 +1,19 @@
+{
+  "entryWord": "Teqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agujereado; perforado; abierto; roto",
+  "definitionDialect": "Raiz P. Teq'.",
+  "additional_text": "Adj Uteqʼaal, (uteqʼiil)",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun teqʼ cheh li powiʼ",
+      "example_spa": "En el sombrero hay un hoyo",
+      "dialect": null
+    }
+  ],
+  "uuid": "597d3b45-f2cb-430e-a2cb-f8d9d749d76a"
+}

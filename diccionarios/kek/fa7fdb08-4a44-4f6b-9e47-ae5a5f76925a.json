@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼalebʼaal",
+  "definition": "Aldea, milperío",
+  "additional_text": "SInv Inkʼalebʼaal",
+  "examples": [
+    {
+      "example_maya": "Saʼ inkʼalebʼaal kʼajoʼ li turans",
+      "example_spa": "En mi aldea se da mucho el durazno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nahulak raj chi wu wank chi junelik kutan saʼ kʼalebʼaal",
+      "example_spa": "Me gustaría estar todo el tiempo en la aldea",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa7fdb08-4a44-4f6b-9e47-ae5a5f76925a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

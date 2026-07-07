@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wux",
+  "definition": "Piedra de afilar",
+  "additional_text": "sInv Nuwux Abʼäj",
+  "examples": [
+    {
+      "example_maya": "Ri wux nikʼatzin richin nubʼän rey ri machät",
+      "example_spa": "La piedra de afilar sirve para hacer filo al machete",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wux manaq kan ta e kʼo chik wakami",
+      "example_spa": "Ya no hay muchas piedras de afilar ahora",
+      "dialect": null
+    }
+  ],
+  "uuid": "1faaa421-3c62-4047-ac94-6e13f7e08e40",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

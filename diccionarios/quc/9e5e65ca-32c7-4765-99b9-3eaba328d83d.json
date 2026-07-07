@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼuchkuʼrem",
+  "entryWordDialect": null,
+  "altEntryWord": "bʼuchkaʼrem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar amontonados; hormiguear",
+  "definitionDialect": "",
+  "additional_text": "vi Kebʼuchkuʼrik (kebʼuchkaʼrik) Sinón Tzamkaʼreem = chamkaʼreem",
+  "examples": [
+    {
+      "example_maya": "Li sanik sibʼalaj kebʼuchkaʼrik koʼk pa li kijul",
+      "example_spa": "Las hormigas entran amontonadas al hormiguero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kebʼuchkuʼr li winaq pa li nimaqʼij",
+      "example_spa": "La gente camina amontonada atrás de la procesión",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e5e65ca-32c7-4765-99b9-3eaba328d83d"
+}

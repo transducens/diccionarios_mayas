@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼipipem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqʼipipik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quedarse la comida en la garganta, no bajar; tragar con dificultad",
+  "definitionDialect": "",
+  "additional_text": "vi Sinón Qʼaʼpireem",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kaqʼipip li uwa xbʼek",
+      "example_spa": "A la mujer le costó mucho tragar la comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "557fda11-b305-4128-9fbd-3bcd8bb13370"
+}

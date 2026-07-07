@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yaʼän",
+  "definition": "Aguadarse, derretirse",
+  "additional_text": "vi ruyaʼal, niyaʼär",
+  "examples": [
+    {
+      "example_maya": "Ri atzʼan taq niqa bʼa yaʼ rikʼin, nayaʼär qa",
+      "example_spa": "La sal cuando le cae un poco de agua, se deshace",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qʼol niyaʼär qa taq yalan ruchuqʼaʼ ri qʼij",
+      "example_spa": "La trementina se derrite cuando el sol está bien fuerte",
+      "dialect": null
+    }
+  ],
+  "uuid": "71e080f0-e007-40f8-a586-c0a1d05200ad",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

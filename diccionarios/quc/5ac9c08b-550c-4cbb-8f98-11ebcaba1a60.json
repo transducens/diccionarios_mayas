@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tolonik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vacío; desocupado",
+  "definitionDialect": "",
+  "additional_text": "p Xtoliʼk, xutolobʼaʼ Sinón Jamalik Raíz P Tol",
+  "examples": [
+    {
+      "example_maya": "Li winaq xkitolobʼa kan li upa jah",
+      "example_spa": "La gente desocupó la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun jah tolonik",
+      "example_spa": "La casa está vacía",
+      "dialect": null
+    }
+  ],
+  "uuid": "5ac9c08b-550c-4cbb-8f98-11ebcaba1a60"
+}

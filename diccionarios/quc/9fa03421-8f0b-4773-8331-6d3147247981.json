@@ -1,0 +1,19 @@
+{
+  "entryWord": "Seyowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaseyowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flotar",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz PT Sey",
+  "examples": [
+    {
+      "example_maya": "Li jukubʼ pwiʼ li choh si kaseyowik we kʼo kaqiqʼ",
+      "example_spa": "Si hay buen aire, las canoas flotan muy bien sobre el lago",
+      "dialect": null
+    }
+  ],
+  "uuid": "9fa03421-8f0b-4773-8331-6d3147247981"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pa cheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "En la cárcel",
+  "definitionDialect": "",
+  "additional_text": "snp",
+  "examples": [
+    {
+      "example_maya": "We xok jun winaq pa cheʼ sibʼalaj kʼax nah",
+      "example_spa": "Es muy triste cuando meten a una persona inocente a la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "46605d02-d139-4eb3-b905-11b13be0e5c4"
+}

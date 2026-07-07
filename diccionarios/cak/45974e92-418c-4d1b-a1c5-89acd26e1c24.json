@@ -1,0 +1,28 @@
+{
+  "entryWord": "Pochʼinïk",
+  "definition": "Quitar la cáscara de ciertas frutas; desvainar el frijol; rasparse",
+  "additional_text": "vt Pochʼixik, ninpöchʼ",
+  "examples": [
+    {
+      "example_maya": "Xinpöchʼ ri tulul taq xinwïl chi abʼäj",
+      "example_spa": "Raspé la cáscara del zapote al pegarle con la piedra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tapochʼoʼ bʼa qakinaqʼ richin niqatäj (niqatij) ri tqaqʼij",
+      "example_spa": "Desvainá un poco de frijol para comérnoslo en la tarde",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin yalan kʼayew ninnaʼ chi re ri pochʼoj kinäqʼ",
+      "example_spa": "A mí me cuesta desvainar el frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "45974e92-418c-4d1b-a1c5-89acd26e1c24",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

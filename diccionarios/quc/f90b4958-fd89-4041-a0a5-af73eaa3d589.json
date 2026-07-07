@@ -1,0 +1,19 @@
+{
+  "entryWord": "Putzalanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Al lado",
+  "definitionDialect": "",
+  "additional_text": "Adv Raíz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Li achih, putzalanem uyoʼm wi li uchim",
+      "example_spa": "El hombre lleva el morral a un lado",
+      "dialect": null
+    }
+  ],
+  "uuid": "f90b4958-fd89-4041-a0a5-af73eaa3d589"
+}

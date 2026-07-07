@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pato",
+  "definitionDialect": "",
+  "additional_text": "scv Nupaataax DomS Tzʼikin Del Cast Patos",
+  "examples": [
+    {
+      "example_maya": "Li patax kebʼin pwi taq li jaʼ",
+      "example_spa": "Los patos caminan sobre el agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "092e80cc-33df-49c4-98b2-c388cf8eeecf"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Uxlanik",
+  "definition": "Descansar",
+  "additional_text": "vt Uxlanen, yinuxlan",
+  "examples": [
+    {
+      "example_maya": "Jebʼël ninnaʼ yinuxlan täq yin kosnäq",
+      "example_spa": "Me gusta mucho descansar cuando estoy cansado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wak amin janíla xikos chi samaj, chwaʼq yinuxlan jun qʼij",
+      "example_spa": "Hoy me cansé mucho en trabajar, mañana descansaré todo el día",
+      "dialect": null
+    }
+  ],
+  "uuid": "ddaf9367-9232-47fa-9eac-5439068950a4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

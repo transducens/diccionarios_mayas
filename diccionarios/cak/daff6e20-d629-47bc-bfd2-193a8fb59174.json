@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yupul",
+  "definition": "Cerrados: los ojos (puede ser por gusto, sueño o enfermedades)",
+  "additional_text": "p Xyupeʼ, xuyupubʼaʼ Yup Kʼojlen",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun achin pokʼöl pa bʼëy, yupül ri runaqʼ ruwäch, ma la kʼäs manäq",
+      "example_spa": "Hay un hombre tirado en la calle, está con ojos cerrados, a saber si está vivo o no",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq yekän ri winäq, niyupeʼ el ri runaqʼ kiwa",
+      "example_spa": "Cuando se muere la gente, se va con los ojos cerrados",
+      "dialect": null
+    }
+  ],
+  "uuid": "daff6e20-d629-47bc-bfd2-193a8fb59174",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

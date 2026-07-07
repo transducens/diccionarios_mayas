@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tikilik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtikʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutikibʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Sembrado (como árbol poste); fijo (como poste o clavo)",
+  "definitionDialect": "General",
+  "additional_text": "p Var Chʼikilik Raíz P Tik",
+  "examples": [
+    {
+      "example_maya": "Li achih xutikibʼa kan jun cheʼ cheh kʼulbʼaʼt",
+      "example_spa": "El hombre dejó sembrado un palo para mojón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tikil uwiʼ puliw",
+      "example_spa": "Puesto de cabeza",
+      "dialect": null
+    }
+  ],
+  "uuid": "690c2829-d840-4ad5-94e5-94b3cbbb702d"
+}

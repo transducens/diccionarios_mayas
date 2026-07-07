@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼanchʼaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desnudo",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raiz P Chʼan",
+  "examples": [
+    {
+      "example_maya": "Li ixoq chʼanchʼaʼ kʼo chiʼ li bʼinel jaʼ kachʼojoʼmanik",
+      "example_spa": "La mujer que lava en la orilla del río, está desnuda",
+      "dialect": null
+    }
+  ],
+  "uuid": "23e5dc2f-af30-4d67-a9e4-fcbd437fed9e"
+}

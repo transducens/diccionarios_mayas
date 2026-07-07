@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nim",
+  "entryWordDialect": null,
+  "altEntryWord": "Unimal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xnimarik",
+  "altEntryWordDialect2": null,
+  "definition": "Grande",
+  "definitionDialect": "General",
+  "additional_text": "Adj Ant Chʼutiʼn Ant Chʼiin Ant Koʼlik Raíz VI Nim",
+  "examples": [
+    {
+      "example_maya": "Li jah sibʼalaj nim",
+      "example_spa": "La casa es muy grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun oj xnimarik, xa jubiqʼ ma na kawachinik",
+      "example_spa": "El aguacatal se ha puesto grande, ya va a dar frutos",
+      "dialect": null
+    }
+  ],
+  "uuid": "f87069e5-42ae-4f8f-802c-6ed01fb7a7f4"
+}

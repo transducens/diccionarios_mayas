@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lachʼachʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kalachʼachʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar pegajoso",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz vi Lachʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kalachʼachʼ uwi li wankeʼt",
+      "example_spa": "La mesa está muy pegajosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "9b2d2c4e-691e-4d0a-ae86-dcac65c3185f"
+}

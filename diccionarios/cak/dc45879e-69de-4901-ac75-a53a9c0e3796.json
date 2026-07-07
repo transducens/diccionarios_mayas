@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yuqenïk",
+  "definition": "Llevar a alguien de la mano",
+  "additional_text": "vtd Yuqexik, ninyuqej Yuqe",
+  "examples": [
+    {
+      "example_maya": "Jun akʼwal taq xa kʼa ri nutijoj riʼ nibʼiyin, kan na ri tayuqej, richin man nitzaq",
+      "example_spa": "Cuando un niño trata de caminar, necesariamente hay que llevarlo de la mano para que no se caiga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri aj Chiqʼaliʼ choj yekiyuqej ri kikej",
+      "example_spa": "Los comalapenses sólo llevan las bestias jalando del lazo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri akʼwalaʼ yeyuqex chi kiqʼaʼ chi ma yetzaq",
+      "example_spa": "A los niños los llevan de la mano para que no se caigan",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc45879e-69de-4901-ac75-a53a9c0e3796",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

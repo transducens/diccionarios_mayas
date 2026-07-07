@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ladri\"y",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ladrillo",
+  "definitionDialect": "",
+  "additional_text": "sinv Nulaadrii\" Del Cast Ladrillo",
+  "examples": [
+    {
+      "example_maya": "Li ornoh, ladri\"y oknaq chupam",
+      "example_spa": "El horno tiene muchos ladrillos adentro",
+      "dialect": null
+    }
+  ],
+  "uuid": "7df70537-cb97-4a68-9d45-7a2f5826fbdf"
+}

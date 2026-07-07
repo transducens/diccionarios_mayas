@@ -1,0 +1,28 @@
+{
+  "entryWord": "Son",
+  "definition": "Música, mazorca pequeña y gruesa, pieza musical",
+  "additional_text": "SInv Inson",
+  "examples": [
+    {
+      "example_maya": "Nahulak chiwu xchʼebʼal li son",
+      "example_spa": "Me gusta ejecutar la música",
+      "dialect": null
+    },
+    {
+      "example_maya": "Joʼ aj wiʼ nahulak chi wu rabʼinkil li son",
+      "example_spa": "Así también escuchar la música",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qaketaq junaq qason",
+      "example_spa": "Bailemos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a92e9080-df59-4e57-ab1b-a892ed33d423",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

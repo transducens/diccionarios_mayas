@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼuytʼuʼmanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentarse a cada rato",
+  "definitionDialect": "",
+  "additional_text": "vi Kintʼuytʼuʼmanik",
+  "examples": [
+    {
+      "example_maya": "Li nima winaq katʼuy tʼuʼman uqʼij ralaxik paqal chwa li juyubʼ",
+      "example_spa": "Cuando el anciano ascendia la cuesta se sentaba a cada rato",
+      "dialect": null
+    }
+  ],
+  "uuid": "5bcb55a2-9b57-4f93-9652-27bee71772b6"
+}

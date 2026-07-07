@@ -1,0 +1,23 @@
+{
+  "entryWord": "Raxkʼurin",
+  "definition": "Claro, limpio, azulado, verdoso, agua",
+  "additional_text": "Adj Xraxkʼurinoʼ, xraxkʼurinal",
+  "examples": [
+    {
+      "example_maya": "Raxkʼurin ru li choxa",
+      "example_spa": "El cielo está bien claro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Raxkʼurin ru li haʼ",
+      "example_spa": "El agua está bien limpia",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f4e04f0-4122-4fec-9c6b-2c8664d8797e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

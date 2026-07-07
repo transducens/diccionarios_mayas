@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nimaʼqan",
+  "entryWordDialect": null,
+  "altEntryWord": "nimaqan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Nunimaʼqaan",
+  "altEntryWordDialect2": null,
+  "definition": "Dedo grande del pie",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz Adj Nim Raíz S Aqan",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xusok li unimaqan",
+      "example_spa": "El niño se lastimó el dedo pulgar del pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e03b488-c6eb-4fb9-bef0-8120214c63fd"
+}

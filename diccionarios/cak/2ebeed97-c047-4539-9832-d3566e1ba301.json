@@ -1,0 +1,28 @@
+{
+  "entryWord": "Qʼax",
+  "definition": "Entender, pasar",
+  "additional_text": "vt Niqʼax Qʼax",
+  "examples": [
+    {
+      "example_maya": "Kʼa runaj xqʼax chi nuwäch ri xatzijoj chwe",
+      "example_spa": "Me costó entender lo que me contó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin man kan niqʼax chi nuwäch ri ruchʼabʼäl ri Ajaw",
+      "example_spa": "No muy entiendo la palabra de Dios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Niqʼax jeʼ ri qʼij man jun niqanaʼ",
+      "example_spa": "Pasan los días y no sentimos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ebeed97-c047-4539-9832-d3566e1ba301",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nejeʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy aguado, como lodo que contiene mucha agua",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Nej",
+  "examples": [
+    {
+      "example_maya": "Li qʼor xukeʼj li alaj alih, sibʼalaj nejeʼj xubʼan chech",
+      "example_spa": "La masa que molió la muchacha, la hizo muy aguada",
+      "dialect": null
+    }
+  ],
+  "uuid": "2dd246ed-2cea-48e0-8481-a6510128cc63"
+}

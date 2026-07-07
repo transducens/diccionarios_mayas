@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kaʼta",
+  "definition": "Doble",
+  "additional_text": "Adj Xkaʼtahoʼ, xkaʼtahil Sinón Laqʼ ru",
+  "examples": [
+    {
+      "example_maya": "Kaʼta ru li peraaj",
+      "example_spa": "El perraje es doble",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winq aʼan kaʼta raqʼ naroksi naq yo ke",
+      "example_spa": "Ese hombre usa doble camisa cuando hay frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "879c9f42-055b-47de-82af-6fb52044d7f5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

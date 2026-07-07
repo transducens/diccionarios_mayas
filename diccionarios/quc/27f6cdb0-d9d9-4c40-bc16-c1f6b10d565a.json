@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kachoqchoʼmanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juguetear; ser juguetón",
+  "definitionDialect": "General",
+  "additional_text": "Var Choqchoʼy",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj kachoqchoʼmanik",
+      "example_spa": "El niño es muy juguetón",
+      "dialect": null
+    }
+  ],
+  "uuid": "27f6cdb0-d9d9-4c40-bc16-c1f6b10d565a"
+}

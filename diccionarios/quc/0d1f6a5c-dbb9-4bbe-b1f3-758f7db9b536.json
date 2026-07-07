@@ -1,0 +1,19 @@
+{
+  "entryWord": "Moloj",
+  "entryWordDialect": null,
+  "altEntryWord": "Numoloj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reunirse; juntarse, como los bailadores que uno por uno se van agrupando",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz VT Mol",
+  "examples": [
+    {
+      "example_maya": "Xkichap moloj li ajxojolobʼ ma xpe nimaqʼij",
+      "example_spa": "Los bailadores empezaron a reunirse porque se aproxima la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d1f6a5c-dbb9-4bbe-b1f3-758f7db9b536"
+}

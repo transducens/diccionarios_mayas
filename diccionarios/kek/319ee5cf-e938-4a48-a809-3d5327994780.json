@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kutan",
+  "definition": "Tiempo, día, jornada",
+  "additional_text": "SInv Inkutan",
+  "examples": [
+    {
+      "example_maya": "Anaqwan chaabʼil li kutan yo xkʼeebʼal",
+      "example_spa": "Ahora está haciendo buen tiempo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkol kiibʼ inkutan saʼ lin kʼanjel",
+      "example_spa": "Perdí dos días de trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "319ee5cf-e938-4a48-a809-3d5327994780",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

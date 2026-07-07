@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juntas",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un retazo; una capa",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz PT Tas",
+  "examples": [
+    {
+      "example_maya": "Juntas, kuchax jubʼaʼ atzʼyaq ri karamix che jun atzʼyaq",
+      "example_spa": "Retazo se le llama a un pedazo que se corta a una tela",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ecbb263-2485-4a96-a07b-e3fea742be62"
+}

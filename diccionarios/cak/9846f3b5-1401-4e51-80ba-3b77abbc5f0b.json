@@ -1,0 +1,28 @@
+{
+  "entryWord": "Ejqaʼn (eqaʼn)",
+  "definition": "Carga Cargar",
+  "additional_text": "sInv Wejqaʼn Ejqanüj (eqanüj)",
+  "examples": [
+    {
+      "example_maya": "Ri kej ruyon ejqaʼn nukʼwaj",
+      "example_spa": "El caballo sólo carga lleva",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ejqaʼn yalan yaruqʼitajsaj",
+      "example_spa": "La carga agota mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri weqaʼn majun yirujüy ta",
+      "example_spa": "La carga no me molesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "9846f3b5-1401-4e51-80ba-3b77abbc5f0b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

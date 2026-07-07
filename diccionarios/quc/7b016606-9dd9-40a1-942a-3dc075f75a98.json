@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ponik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ejecutar tambor sin sacar música; hablar mal el castellano",
+  "definitionDialect": "general",
+  "additional_text": "vtr Kinponoh Raíz VT Pon",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq loqʼ kupon li tambʼor",
+      "example_spa": "El hombre ejecuta el tambor por gusto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah kupon staʼq li kaxlan tzij",
+      "example_spa": "El muchacho habla un poco el castellano",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b016606-9dd9-40a1-942a-3dc075f75a98"
+}

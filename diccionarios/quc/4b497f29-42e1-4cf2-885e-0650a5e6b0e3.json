@@ -1,0 +1,19 @@
+{
+  "entryWord": "Noqʼeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿De veras?",
+  "definitionDialect": "",
+  "additional_text": "Exp",
+  "examples": [
+    {
+      "example_maya": "¿Noqʼeh xqʼabʼar riʼ?",
+      "example_spa": "¿De veras se emboló?",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b497f29-42e1-4cf2-885e-0650a5e6b0e3"
+}

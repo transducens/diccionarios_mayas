@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼuminïk",
+  "definition": "Aventar cualquier cosa, botar, cortar",
+  "additional_text": "vtd Kʼumixik, ninkʼumij Kʼumi, kʼum",
+  "examples": [
+    {
+      "example_maya": "Taq xinkʼumij el rupayiʼaj (rupawiʼ) ri nuchaqʼ pa qʼayïs, xpe royowal",
+      "example_spa": "Cuando aventé el sombrero de mi hermano menor, se enojó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkʼumij chi machät ri juwiʼ traʼs",
+      "example_spa": "Corté con machete la mata de durazno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkʼumij ri rukutamil ruqʼa cheʼ chi machät (machet)",
+      "example_spa": "Corté el tronco de un árbol con machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "40ce9bc3-cf0c-4190-ae82-8aadd730fea1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

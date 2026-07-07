@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xibʼiribʼ juyubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zarza",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz S Siibʼ Raíz S Juyubʼ",
+  "examples": [
+    {
+      "example_maya": "Li xibʼiribʼ juyubʼ pa taqʼaj kakʼiy wih",
+      "example_spa": "La zarza crece en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "60e501ad-3558-473b-965e-4a62463fe4e0"
+}

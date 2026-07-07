@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tukʼutik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salido: hueso, como los de la espalda o los codos",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Tukʼ",
+  "examples": [
+    {
+      "example_maya": "Li rij li kej nima tukʼutik bʼaq ubʼanom",
+      "example_spa": "El dorso del caballo se ve salido",
+      "dialect": null
+    }
+  ],
+  "uuid": "8fc85439-64ee-410e-805b-a9084e27563f"
+}

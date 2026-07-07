@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nimaqʼij",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunimaqʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fiesta",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz Adj Nim Raíz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Pa li nimaqʼij kʼo qʼojom, ajxojolobʼ xuq sutinem",
+      "example_spa": "En la fiesta hay marimba, bailadores y procesión",
+      "dialect": null
+    }
+  ],
+  "uuid": "f6895b6f-d52c-42f7-8f28-b8d87e855544"
+}

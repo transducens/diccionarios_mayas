@@ -1,0 +1,19 @@
+{
+  "entryWord": "Texikixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Somatar cosa gruesa (tabla o apaste); pegar con tabla o ladrillo",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kintexij Raiz P Tex",
+  "examples": [
+    {
+      "example_maya": "Kintexij li xot chij li tzʼiʼ",
+      "example_spa": "Le voy a pegar con la teja al perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "0195c522-189a-49d5-93e1-bcd7b638c2d2"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taqʼajaʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutaqʼajaʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costeños",
+  "definitionDialect": "general",
+  "additional_text": "SInv Raiz s Taqʼaaj",
+  "examples": [
+    {
+      "example_maya": "Taqʼajaʼl, kuchax jun, we pa taqʼaj kel wih",
+      "example_spa": "Costeño, se le llama a alguien si vive en la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "ef633219-d29c-4ad8-8594-2f2339f0f0e6"
+}

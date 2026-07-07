@@ -1,0 +1,19 @@
+{
+  "entryWord": "Salbʼawah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusalbʼawa",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja que se tira después de haber envuelto tamales",
+  "definitionDialect": "general",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li salbʼawah, kʼo uxaq qʼanaqʼ, uxaq abʼix chiʼl joʼq chech",
+      "example_spa": "Las hojas para envolver tamales son de canaque, de milpa y tusa",
+      "dialect": null
+    }
+  ],
+  "uuid": "31a23e56-252c-4ba6-806e-669455dd5df9"
+}

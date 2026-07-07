@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼumanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼumanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer ayote",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz S Kʼuum",
+  "examples": [
+    {
+      "example_maya": "Li winaq pa taqʼaj sibʼalaj kekʼumanik",
+      "example_spa": "La gente de la costa come mucho ayote",
+      "dialect": null
+    }
+  ],
+  "uuid": "eff70f9b-fa67-4e1a-8a88-4c6b03cd2b36"
+}

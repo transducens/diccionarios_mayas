@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raparik",
+  "entryWordDialect": null,
+  "altEntryWord": "Ripilik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Extendido y grande, como ropa o tela",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Ripilik Raíz PT Rap",
+  "examples": [
+    {
+      "example_maya": "Li uxikʼ li xik are nima raparik chwach uxikʼ li akʼ",
+      "example_spa": "Las alas del gavilán son más grandes que las de la gallina",
+      "dialect": null
+    }
+  ],
+  "uuid": "1a979b14-8b41-4202-8270-ee7cf70b0c4f"
+}

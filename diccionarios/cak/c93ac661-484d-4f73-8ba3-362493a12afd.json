@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chaʼ",
+  "definition": "Decir, dice, se dice",
+  "additional_text": "vi Nchaʼ (nichaʼ)",
+  "examples": [
+    {
+      "example_maya": "Ki ri nchaʼ ri iwir",
+      "example_spa": "Así dijo ayer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ja ri nichaʼ rijaʼ, ma qitzij la",
+      "example_spa": "Así dice él, quién sabe si es cierto",
+      "dialect": null
+    }
+  ],
+  "uuid": "c93ac661-484d-4f73-8ba3-362493a12afd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

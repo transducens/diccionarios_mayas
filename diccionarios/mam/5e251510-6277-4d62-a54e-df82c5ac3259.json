@@ -1,0 +1,18 @@
+{
+  "entryWord": "MAJ",
+  "definition": "vez Esta palabra es difícil usarla sola, es necesario anteponerle el número en la oración",
+  "additional_text": "md sin el",
+  "examples": [
+    {
+      "example_maya": "¿Jteʼ maj ma tzul aja sqʼnal tukʼal?",
+      "example_spa": "¿Cuántas veces veniste a trabajar con él?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5e251510-6277-4d62-a54e-df82c5ac3259",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

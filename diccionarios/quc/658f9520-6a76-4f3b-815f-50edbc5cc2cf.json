@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Helecho; planta parecida al helecho silvestre, pero de hojas redondeadas, que crece en las milpas o guatales; culebra pequeña de color amarillo",
+  "definitionDialect": "",
+  "additional_text": "snP vI Chibʼareemik Cubrirse de helecho un campo sds Uchibʼal abʼiix Helecho que crece en la milpa scl Ajkʼacheʼlajil chiibʼ Helecho de monte silvestre DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kʼo chibʼ pa li abʼix",
+      "example_spa": "En la milpa hay mucho helecho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chibʼ je ri kʼo bʼaq li raqan pejpaʼq li uxaq",
+      "example_spa": "El helecho tiene tallo como aguja, y son palmeadas sus hojas",
+      "dialect": null
+    }
+  ],
+  "uuid": "658f9520-6a76-4f3b-815f-50edbc5cc2cf"
+}

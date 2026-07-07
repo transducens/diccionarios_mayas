@@ -1,0 +1,23 @@
+{
+  "entryWord": "Machʼachʼal (mochʼochʼil)",
+  "definition": "Sombra de persona o animal, reflejo",
+  "additional_text": "sInv Numachʼachʼal, numochʼochʼil var Mochʼochʼil var Muj",
+  "examples": [
+    {
+      "example_maya": "Ri paqʼij manaq amachʼachʼal, ruma ri xa pa qajolon niqa wi pe ri qʼij",
+      "example_spa": "Al medio día no tenemos sombra porque en nuestra cabeza cae el sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq ri qʼij kʼo chawäch, chawij kʼo amachʼachʼal",
+      "example_spa": "Cuando el sol está adelante, detrás se ve la sombra de uno",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a06f4a1-9ccb-4820-bcf0-0b8974e3164e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

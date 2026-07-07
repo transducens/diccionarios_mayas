@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzalan",
+  "definition": "Estar de lado",
+  "additional_text": "p Xtzaleʼ, xutzalabʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Yin ruyon yitzaleʼ yiwär",
+      "example_spa": "Yo siempre duermo de lado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo jun qʼabʼarel tzalan xe xan",
+      "example_spa": "Hay un bolo que está de lado bajo una pared",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac7b56bb-2b8b-4801-8b41-94c9910bad42",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

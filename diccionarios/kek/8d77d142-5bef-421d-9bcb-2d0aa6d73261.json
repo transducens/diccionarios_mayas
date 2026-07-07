@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼabʼaʼej",
+  "definition": "Nombre",
+  "additional_text": "sos Inkʼabʼaʼ Var Kʼabʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Wan kʼabʼaʼej sa naxye",
+      "example_spa": "Hay nombres bonitos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qaawaʼ Kolax inkʼabʼaʼ",
+      "example_spa": "Mi nombre es Nicolás",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d77d142-5bef-421d-9bcb-2d0aa6d73261",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

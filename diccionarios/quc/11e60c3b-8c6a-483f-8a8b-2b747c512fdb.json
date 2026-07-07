@@ -1,0 +1,19 @@
+{
+  "entryWord": "Polowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpolowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fatigarse; sofocarse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Pol",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj kapolow ranima",
+      "example_spa": "A la mujer se le sofoca mucho el corazón",
+      "dialect": null
+    }
+  ],
+  "uuid": "11e60c3b-8c6a-483f-8a8b-2b747c512fdb"
+}

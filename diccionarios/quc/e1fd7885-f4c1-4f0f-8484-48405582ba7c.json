@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaxon swan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Barranco de peña",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz S Kaxon Raíz S Swaan",
+  "examples": [
+    {
+      "example_maya": "Li kukʼulaj wi ribʼ li bʼinel jaʼ Nawalaʼ rukʼ li Tzojomaʼ, sibʼalaj kaxon swan",
+      "example_spa": "Hay un barranco de peña donde se juntan los ríos Nahualate y Tzojomá",
+      "dialect": null
+    }
+  ],
+  "uuid": "e1fd7885-f4c1-4f0f-8484-48405582ba7c"
+}

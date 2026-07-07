@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eerah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Era para trillar",
+  "definitionDialect": "Español",
+  "additional_text": "SInv Del Cast Era",
+  "examples": [
+    {
+      "example_maya": "Li erah kachokon chech yaqʼoj",
+      "example_spa": "La era se usa para trillar",
+      "dialect": null
+    }
+  ],
+  "uuid": "5ac72cb0-fc26-4b92-b3c8-579d8ea22c4c"
+}

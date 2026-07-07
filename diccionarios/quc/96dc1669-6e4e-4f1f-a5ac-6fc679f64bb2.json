@@ -1,0 +1,39 @@
+{
+  "entryWord": "Wuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Libro; papel",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuwuuj",
+  "examples": [
+    {
+      "example_maya": "Pa li tyentah, sibʼalaj wuj kakʼayixik",
+      "example_spa": "En la tienda se venden muchos libros",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jastaq kapis pa taq wuj",
+      "example_spa": "Las cosas se envuelven en papel",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼih uwach chi wuj kakʼayix pa taq tyentah",
+      "example_spa": "Hay muchas clases de papel que se vende en las tiendas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li kʼay\"bʼal wuj, kakʼayix wi sibʼalaj utza taq wuj",
+      "example_spa": "En la librería se venden muchos libros buenos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, tajin katzʼibʼan chwa li wuj",
+      "example_spa": "El hombre está escribiendo en el papel",
+      "dialect": null
+    }
+  ],
+  "uuid": "96dc1669-6e4e-4f1f-a5ac-6fc679f64bb2"
+}

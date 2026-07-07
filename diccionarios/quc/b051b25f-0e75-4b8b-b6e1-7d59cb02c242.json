@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaranik abʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedregal (lugar pedregoso)",
+  "definitionDialect": "General",
+  "additional_text": "SCL Raiz P Kʼar Raiz S Abʼaj",
+  "examples": [
+    {
+      "example_maya": "Li bʼeh sibʼalaj kʼaranik abʼaj",
+      "example_spa": "El camino es muy pedregoso",
+      "dialect": null
+    }
+  ],
+  "uuid": "b051b25f-0e75-4b8b-b6e1-7d59cb02c242"
+}

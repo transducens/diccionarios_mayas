@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzollebʼaal",
+  "definition": "Escuela, colegio",
+  "additional_text": "SLoc Intzollebʼaal Sinón",
+  "examples": [
+    {
+      "example_maya": "Toj eqʼela naxik inyum saʼ tzollebʼaal",
+      "example_spa": "Mi hijo se va temprano a la escuela",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qayiibʼ jun tzollebʼaal arin",
+      "example_spa": "Construiremos una escuela aquí",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c1535e4-825c-4bb3-9273-f4caa24cef6f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

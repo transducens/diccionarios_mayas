@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chak",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trabajo Trabajar Trabajador",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchaak vT Chakuxik sAgen Ajchaak DomS Chaak",
+  "examples": [
+    {
+      "example_maya": "Li ajanel sibʼalaj utz li uchak",
+      "example_spa": "El trabajo del carpintero es muy bueno",
+      "dialect": null
+    }
+  ],
+  "uuid": "db7afd43-0c30-4e9e-b28b-6165d357c20f"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuluchʼuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Oxidado; sucio",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raiz Vl Chʼul",
+  "examples": [
+    {
+      "example_maya": "Li bʼas sibʼalaj chʼuluchʼuj",
+      "example_spa": "El vaso está muy sucio",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b31746a-5c4b-40cc-8cc2-5f658e5c4e39"
+}

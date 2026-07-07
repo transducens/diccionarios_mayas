@@ -1,0 +1,18 @@
+{
+  "entryWord": "KEES",
+  "definition": "queso",
+  "additional_text": "s1 nkesa del español queso ds chibʼaj",
+  "examples": [
+    {
+      "example_maya": "Jun mij kes ma bʼaj tchoʼn wiẍ",
+      "example_spa": "El gato se comió una segunda parte del queso",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "cb4a1720-6f70-4f92-b572-85867aef0316",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

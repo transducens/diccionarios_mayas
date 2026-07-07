@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taratik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abierta como camisa; atarantado",
+  "definitionDialect": "",
+  "additional_text": "adj",
+  "examples": [
+    {
+      "example_maya": "Li kamiʼx taratik li uwach ukʼuʼx",
+      "example_spa": "La camisa está abierta",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ebfd111-8084-4bd7-a212-dbcc1e60fbf1"
+}

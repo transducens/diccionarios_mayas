@@ -1,0 +1,19 @@
+{
+  "entryWord": "Utzaʼm siʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Coyote",
+  "definitionDialect": "",
+  "additional_text": "ssp Común Usado en cantel",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼanteʼlabʼ utzaʼm siʼ kecha chech li koyoʼt",
+      "example_spa": "Los canteleños llaman utzaʼm siiʼ al coyote",
+      "dialect": null
+    }
+  ],
+  "uuid": "5506dd64-872b-4cfe-8d87-55f06282cadf"
+}

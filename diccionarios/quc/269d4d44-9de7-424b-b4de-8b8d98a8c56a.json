@@ -1,0 +1,19 @@
+{
+  "entryWord": "Melmeʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flaco; desnutrido",
+  "definitionDialect": "General",
+  "additional_text": "Adj Umelmeʼxiil, xmelmeʼxirik",
+  "examples": [
+    {
+      "example_maya": "Li akʼal sibʼalaj melmeʼx ma xa na karaj ta uwa",
+      "example_spa": "El niño está muy desnutrido por falta de apetito",
+      "dialect": null
+    }
+  ],
+  "uuid": "269d4d44-9de7-424b-b4de-8b8d98a8c56a"
+}

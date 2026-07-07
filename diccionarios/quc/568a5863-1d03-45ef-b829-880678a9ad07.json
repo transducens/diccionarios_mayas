@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtzokiʼk, xutzokobʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flotante: cosa sin peso sobre el agua; espumoso",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Tzok",
+  "examples": [
+    {
+      "example_maya": "Li qʼumara cheʼ kʼo pwiʼ li nima pos, xaq tzokolik",
+      "example_spa": "El palo podrido está flotando sobre la poza",
+      "dialect": null
+    }
+  ],
+  "uuid": "568a5863-1d03-45ef-b829-880678a9ad07"
+}

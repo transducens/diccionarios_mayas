@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kiʼch",
+  "definition": "Persona con un dedo de más, en la mano o pie",
+  "additional_text": "sInv Nukiʼch Winäq",
+  "examples": [
+    {
+      "example_maya": "La jun ixöq laʼ kiʼch",
+      "example_spa": "Esa mujer tiene un dedo de más",
+      "dialect": null
+    },
+    {
+      "example_maya": "Winäq ri waqiʼ ruwiʼ raqän",
+      "example_spa": "Persona que tiene seis dedos en un pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "94a60ef3-9ef3-4b3f-b203-6aa0e9fece39",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yumumexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyumumej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cerrar con fuerza la boca, apretarla",
+  "definitionDialect": "general",
+  "additional_text": "VTD Raíz VT Yum",
+  "examples": [
+    {
+      "example_maya": "Li akʼal yumumexik kuʼon che li uchiʼ are karaj na kutij ta li kunabʼal",
+      "example_spa": "El niño está cerrando la boca con fuerza porque no quiere tomarse la medicina",
+      "dialect": null
+    }
+  ],
+  "uuid": "630f4e2e-516a-4f58-a576-cba9dff4b92c"
+}

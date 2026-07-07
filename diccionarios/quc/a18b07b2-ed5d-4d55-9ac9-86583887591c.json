@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jakalajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kajakalajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caerse a cada rato con las piernas abiertas",
+  "definitionDialect": "General",
+  "additional_text": "VI",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq katajinik xjakalaj pa li xaqʼoʼl",
+      "example_spa": "El muchacho se cae a cada rato en el lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a18b07b2-ed5d-4d55-9ac9-86583887591c"
+}

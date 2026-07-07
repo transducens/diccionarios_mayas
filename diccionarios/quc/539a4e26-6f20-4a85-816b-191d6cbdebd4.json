@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼenen",
+  "entryWordDialect": null,
+  "altEntryWord": "Nubʼenen",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Veneno; mi veneno",
+  "definitionDialect": "General",
+  "additional_text": "sInv Del Cast Veneno",
+  "examples": [
+    {
+      "example_maya": "Li bʼenen kukamsaj winaq xuq ronojel kiwach chi chikop",
+      "example_spa": "El veneno mata a personas y también animales",
+      "dialect": null
+    }
+  ],
+  "uuid": "539a4e26-6f20-4a85-816b-191d6cbdebd4"
+}

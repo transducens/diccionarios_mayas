@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jamajobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desocuparse",
+  "definitionDialect": "",
+  "additional_text": "vi Kajamajobʼik",
+  "examples": [
+    {
+      "example_maya": "Li achih xjamajobʼ uwach, chech uchak",
+      "example_spa": "El hombre ya se desocupó de su trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "8048bd18-f930-4d7a-8275-cb18c7752d5c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partícula para formar el plural",
+  "definitionDialect": "general",
+  "additional_text": "Part Var Aree taq Raiz Part Taq",
+  "examples": [
+    {
+      "example_maya": "Konojel taq li krunspalibʼ xebʼe pa chomal",
+      "example_spa": "Todos los principales se fueron a la reunión",
+      "dialect": null
+    }
+  ],
+  "uuid": "c2d38f81-86fb-43ea-9775-db324f30e800"
+}

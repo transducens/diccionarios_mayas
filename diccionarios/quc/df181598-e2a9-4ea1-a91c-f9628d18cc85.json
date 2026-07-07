@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yoqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyoqʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Burlarse de; preparando la masa de las tortillas",
+  "definitionDialect": "General",
+  "additional_text": "VTR Sinón Kichonik Raíz VT Yoqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq yoqʼik kuʼon cheh li ukʼul jah",
+      "example_spa": "La señora está burlandose de su vecina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq katajin kuyoqʼ li qʼor chwa li kaʼ",
+      "example_spa": "La mujer está preparando la masa en la piedra de moler",
+      "dialect": null
+    }
+  ],
+  "uuid": "df181598-e2a9-4ea1-a91c-f9628d18cc85"
+}

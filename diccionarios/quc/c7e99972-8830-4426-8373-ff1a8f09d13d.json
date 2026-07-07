@@ -1,0 +1,24 @@
+{
+  "entryWord": "Latzanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xlatziʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estado del tejido cuando corre bien el hilo; despegable: tortilla que fácilmente se despega del comal",
+  "definitionDialect": "",
+  "additional_text": "p Raiz P Latz",
+  "examples": [
+    {
+      "example_maya": "Li ukem li alih, latzanik, ma utz ujeqik xubʼanoh",
+      "example_spa": "El hilo corre bien porque la muchacha arregló el tejido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li lij sibʼalaj latzan pa li xot ma kʼakʼ",
+      "example_spa": "Las tortillas se despegan bien porque el comal es nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7e99972-8830-4426-8373-ff1a8f09d13d"
+}

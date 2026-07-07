@@ -1,0 +1,28 @@
+{
+  "entryWord": "Litzʼlitzʼ",
+  "definition": "Gavilancillo",
+  "additional_text": "sInv Nulitzʼlitzʼ Litzʼitzʼ, nilitzʼitzʼ, forma de cantar del gavilancillo Tzʼikin, ajxikʼ, chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri litzʼlitzʼ rachʼalal ri xik",
+      "example_spa": "El gavilancillo es de la familia del gavilán",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri litzʼlitzʼ yerutïj alajiʼ täq tzʼikin",
+      "example_spa": "El gavilancillo se come a las aves más pequeñas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri litzʼlitzʼ tzʼiltzʼöj rij, nirilibʼej riʼ rikʼin ri chʼitaq (chʼutaq) üs",
+      "example_spa": "El clisís es de color gris, se alimenta de los mosquitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d3e5cfb2-8c79-4440-811b-f7280c0e62ae",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

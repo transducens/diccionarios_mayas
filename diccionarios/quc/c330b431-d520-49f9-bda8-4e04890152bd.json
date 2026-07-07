@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼixibʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Avergonzarse; agradecer",
+  "definitionDialect": "General",
+  "additional_text": "vrb Kinkʼixibʼeej Raíz S Kʼix",
+  "examples": [
+    {
+      "example_maya": "Li alkalteh, na xukʼixibʼej ta li sipanik xbʼan cheh",
+      "example_spa": "El alcalde no agradece el regalo (o mordida) que le dieron",
+      "dialect": null
+    }
+  ],
+  "uuid": "c330b431-d520-49f9-bda8-4e04890152bd"
+}

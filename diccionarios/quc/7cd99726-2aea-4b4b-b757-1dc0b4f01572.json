@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una asada rápida; un grupo",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz VT Bʼol",
+  "examples": [
+    {
+      "example_maya": "Li ajʼikʼ xaq jubʼol xuya che li tiʼij",
+      "example_spa": "La sirvienta sólo le dio una asadita a la carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "7cd99726-2aea-4b4b-b757-1dc0b4f01572"
+}

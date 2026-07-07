@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzujunem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quejarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kintzujunik Raíz PT Tzuj",
+  "examples": [
+    {
+      "example_maya": "In kintzujunik ma xinachʼayoh",
+      "example_spa": "Yo me quejo porque me pegaste",
+      "dialect": null
+    }
+  ],
+  "uuid": "0dd0b004-d130-4251-b74e-9607fde99110"
+}

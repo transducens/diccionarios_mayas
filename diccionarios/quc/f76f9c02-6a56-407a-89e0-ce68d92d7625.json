@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzalmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzalmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambalearse",
+  "definitionDialect": "",
+  "additional_text": "vt Raiz P Tzal",
+  "examples": [
+    {
+      "example_maya": "Li siwil xaq katzalmaʼy xe li reqaʼn",
+      "example_spa": "El leñador tambalea porque la carga pesa mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "f76f9c02-6a56-407a-89e0-ce68d92d7625"
+}

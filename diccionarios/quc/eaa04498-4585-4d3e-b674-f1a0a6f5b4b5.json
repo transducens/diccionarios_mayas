@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eetabʼal kʼaʼam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuerda para medir",
+  "definitionDialect": "Español",
+  "additional_text": "scl Weetabʼal kʼaʼaam Raíz S Eht Raíz S Kʼaʼaam",
+  "examples": [
+    {
+      "example_maya": "Li etabʼal kʼaʼam kachokon che etabʼal uliw",
+      "example_spa": "Para medir terreno se usa una cuerda especial",
+      "dialect": null
+    }
+  ],
+  "uuid": "eaa04498-4585-4d3e-b674-f1a0a6f5b4b5"
+}

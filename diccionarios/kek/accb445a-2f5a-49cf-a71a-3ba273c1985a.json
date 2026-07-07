@@ -1,0 +1,28 @@
+{
+  "entryWord": "Pakʼok",
+  "definition": "Fabricar cosas de barro, fingir, aparentar",
+  "additional_text": "VTR Xinpakʼ",
+  "examples": [
+    {
+      "example_maya": "Yo chi xpakʼbʼal xkamik",
+      "example_spa": "Hacerse el muerto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aʼan naxpakʼ xyajel",
+      "example_spa": "El finge su enfermedad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Laj Manuʼ yo chi pakʼok sebʼ re teex",
+      "example_spa": "Manuel está fabricando tejas de barro",
+      "dialect": null
+    }
+  ],
+  "uuid": "accb445a-2f5a-49cf-a71a-3ba273c1985a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

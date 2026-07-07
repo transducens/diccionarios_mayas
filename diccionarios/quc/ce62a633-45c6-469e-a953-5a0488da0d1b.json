@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katakʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar persona alta y recta",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Takʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih katakʼnajik xok pa jah",
+      "example_spa": "La muchacha alta entró en la casa, bien recta",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce62a633-45c6-469e-a953-5a0488da0d1b"
+}

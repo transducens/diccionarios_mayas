@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chelcheʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "En fila, como los dientes de un peine; dentado, como serrucho, cresta, peine, etc",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raiz Adj Chel",
+  "examples": [
+    {
+      "example_maya": "Li rismal qawach chelcheʼx ubʼanom chi qawach",
+      "example_spa": "Nuestras pestañas están en fila, en la orilla de nuestros ojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac3e2c37-4696-4d62-96ac-1ce761473086"
+}

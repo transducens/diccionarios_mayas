@@ -1,0 +1,19 @@
+{
+  "entryWord": "Charakatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kacharakatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrastrarse cola de animal que camina ligero",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li yak kacharakat ujeʼ xqʼatan pa li bʼeh",
+      "example_spa": "El gato de monte pasó arrastrando la cola",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e38aaa1-7a6c-4b1e-bd88-be4dc7a34839"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼabʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer haciendo ruido con la boca",
+  "definitionDialect": "General",
+  "additional_text": "VI Kachʼabʼnajik Raíz VI Chʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kachʼabʼnajik are taq kawaʼik",
+      "example_spa": "El niño hace ruido con la boca al comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "085c6529-e84a-41e9-84b6-6c2ba4c1a586"
+}

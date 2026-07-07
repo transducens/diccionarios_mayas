@@ -1,0 +1,23 @@
+{
+  "entryWord": "APEET",
+  "definition": "aguantar, sufrir, soportar",
+  "additional_text": "vt apal te, apaʼn, ma wapakyʼ, ma bʼaj wapaʼna, apabʼil raíz apa",
+  "examples": [
+    {
+      "example_maya": "Apaʼn yaj tuʼn jun xjal",
+      "example_spa": "Está aguantando una persona la pobreza",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma tapa xjal taʼw tʼinyeksyon xkuʼx",
+      "example_spa": "Aguantó la persona el dolor de la inyección que se le puso",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "20564791-ca4d-4cf5-8dd3-5696831bea0c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

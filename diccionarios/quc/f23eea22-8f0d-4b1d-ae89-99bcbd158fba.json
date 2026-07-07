@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqa pamaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Disentería de color blanco",
+  "definitionDialect": "Raíz Adj. Saq. Raíz S. Paam. Dom.S. Yaab'iil.",
+  "additional_text": "SCL",
+  "examples": [
+    {
+      "example_maya": "Li alih kʼo saqa pamaj cheh",
+      "example_spa": "La muchacha tiene disentería de color blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "f23eea22-8f0d-4b1d-ae89-99bcbd158fba"
+}

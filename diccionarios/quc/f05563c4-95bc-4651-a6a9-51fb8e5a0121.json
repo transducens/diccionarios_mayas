@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼin chʼabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rezo; estudios religiosos",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xbʼe pa bʼinchʼabʼal pa tyox",
+      "example_spa": "La mujer se fue al rezo a la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "f05563c4-95bc-4651-a6a9-51fb8e5a0121"
+}

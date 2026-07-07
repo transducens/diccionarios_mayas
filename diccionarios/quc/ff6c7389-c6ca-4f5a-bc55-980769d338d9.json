@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yakbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuyakbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Capital para negocio",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz VT Yak",
+  "examples": [
+    {
+      "example_maya": "Li achih, nim li uyakbʼal cheh li ukʼay",
+      "example_spa": "El hombre tiene mucho capital para su negocio",
+      "dialect": null
+    }
+  ],
+  "uuid": "ff6c7389-c6ca-4f5a-bc55-980769d338d9"
+}

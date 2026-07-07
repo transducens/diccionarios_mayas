@@ -1,0 +1,19 @@
+{
+  "entryWord": "Penul powiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sombrero blanco con listón negro alrededor",
+  "definitionDialect": "General",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj jeʼl li jun penul powiʼ ukojom",
+      "example_spa": "El hombre tiene puesto un sombrero muy bonito",
+      "dialect": null
+    }
+  ],
+  "uuid": "63ef0fe0-c26e-451d-bd62-f19c665cd590"
+}

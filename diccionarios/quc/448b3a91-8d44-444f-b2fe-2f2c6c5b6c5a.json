@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lawux",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Clavo",
+  "definitionDialect": "",
+  "additional_text": "scv Nulaawuux //Lahwux// DomS Chakubʼal Del Cast Clavos",
+  "examples": [
+    {
+      "example_maya": "Li ajanel lawux kukoj che li chapbʼal re li wankeʼt",
+      "example_spa": "El carpintero usa clavos para asegurar la mesa",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "448b3a91-8d44-444f-b2fe-2f2c6c5b6c5a"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ilixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwilij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sostener, mantener a la familia o persona con alimentación; servir comida",
+  "definitionDialect": "General",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kenwilij li walkʼuʼal",
+      "example_spa": "Mantengo bien a mis hijos",
+      "dialect": null
+    }
+  ],
+  "uuid": "5f632d0c-9339-47fa-bf8f-e110d0059f1b"
+}

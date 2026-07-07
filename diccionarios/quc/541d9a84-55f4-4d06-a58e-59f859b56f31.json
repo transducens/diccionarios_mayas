@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼirirexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido una sierra eléctrica o máquina de rasurar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintzʼireej Raiz VT Tzʼir",
+  "examples": [
+    {
+      "example_maya": "Li ramibʼal rech kaxlan qʼaqʼ sibʼalaj katzʼiririk",
+      "example_spa": "La sierra eléctrica hace mucho ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "541d9a84-55f4-4d06-a58e-59f859b56f31"
+}

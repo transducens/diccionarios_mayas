@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tinamit",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutinamit",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pueblo",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz S Tinamit Del Nahuatl Tenametl",
+  "examples": [
+    {
+      "example_maya": "Pa li tinamit kachoman wi jun alkalteh",
+      "example_spa": "En el pueblo gobierna un alcalde",
+      "dialect": null
+    }
+  ],
+  "uuid": "062989fa-2e03-4194-9f4a-159d0f4bb789"
+}

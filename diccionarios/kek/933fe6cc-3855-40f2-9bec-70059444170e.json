@@ -1,0 +1,23 @@
+{
+  "entryWord": "Puchʼunik",
+  "definition": "Menstruación",
+  "additional_text": "ST Inpuchʼunik",
+  "examples": [
+    {
+      "example_maya": "Yo inpuchʼunik",
+      "example_spa": "Tengo menstruación",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xnumeʼ xqʼiil inpuchʼunik",
+      "example_spa": "Pasó el tiempo en que viene mi menstruación",
+      "dialect": null
+    }
+  ],
+  "uuid": "933fe6cc-3855-40f2-9bec-70059444170e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jobʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xjobʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xujobʼobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Echada: gallina con las alas extendidas",
+  "definitionDialect": "",
+  "additional_text": "P VI",
+  "examples": [
+    {
+      "example_maya": "Li akʼ xaq jobʼolik, ma xa yawabʼ",
+      "example_spa": "La gallina tiene las alas extendidas porque está enferma",
+      "dialect": null
+    }
+  ],
+  "uuid": "706e1b91-39a3-44b8-a74c-bede124ce65a"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼusqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encorvada: la espalda",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Qʼus",
+  "examples": [
+    {
+      "example_maya": "Li nimi ixoq qʼusqʼik li sin rij ma xriʼjobʼik",
+      "example_spa": "La mujer tiene la espalda muy encorvada porque ya se envejeció",
+      "dialect": null
+    }
+  ],
+  "uuid": "8257e2ae-6bd6-4aed-b038-7a2ba825edbd"
+}

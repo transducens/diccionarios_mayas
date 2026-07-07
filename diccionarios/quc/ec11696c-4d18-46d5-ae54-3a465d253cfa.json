@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kabʼlajuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doce",
+  "definitionDialect": "",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li a Siʼs xtzʼaqat kablajuj ujunabʼ",
+      "example_spa": "Francisco cumplió doce años",
+      "dialect": null
+    }
+  ],
+  "uuid": "ec11696c-4d18-46d5-ae54-3a465d253cfa"
+}

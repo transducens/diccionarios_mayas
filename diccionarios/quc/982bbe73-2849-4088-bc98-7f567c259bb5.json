@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzerik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Romper tela o papel",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintzeeroh Raíz VT Tzer",
+  "examples": [
+    {
+      "example_maya": "Li akʼal tzerik kubʼan cheh li wuj are taq xilitaj rumal li utat",
+      "example_spa": "El niño iba a romper el libro cuando lo vio su papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "982bbe73-2849-4088-bc98-7f567c259bb5"
+}

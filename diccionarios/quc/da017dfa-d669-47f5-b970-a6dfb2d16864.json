@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chararexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrastrar",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTD Kincharareej Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuchararej li kareʼt",
+      "example_spa": "El niño arrastró la carreta",
+      "dialect": null
+    }
+  ],
+  "uuid": "da017dfa-d669-47f5-b970-a6dfb2d16864"
+}

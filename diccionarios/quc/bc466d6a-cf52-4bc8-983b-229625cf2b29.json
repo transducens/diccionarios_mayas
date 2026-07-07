@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼiyarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼiyarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abundar; aumentar (en número); multiplicarse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Kʼih",
+  "examples": [
+    {
+      "example_maya": "Li bʼolaj we kapaqʼik, kakʼiyar li siʼ",
+      "example_spa": "Al rajar los trozos, se multiplica la leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "bc466d6a-cf52-4bc8-983b-229625cf2b29"
+}

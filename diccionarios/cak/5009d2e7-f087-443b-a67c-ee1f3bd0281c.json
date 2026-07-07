@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼor",
+  "definition": "Perezoso, holgazán, haragán, este adjetivo es irregular porque no sale la tercera forma",
+  "additional_text": "Adj Quqʼoral",
+  "examples": [
+    {
+      "example_maya": "Jun winäq qʼor näq nirajoʼ ta nisamäj",
+      "example_spa": "Una persona perezosa no quiere trabajar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri winäq yalan e qʼor man yeʼatin ta",
+      "example_spa": "La gente muy haragana no se baña",
+      "dialect": null
+    }
+  ],
+  "uuid": "5009d2e7-f087-443b-a67c-ee1f3bd0281c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

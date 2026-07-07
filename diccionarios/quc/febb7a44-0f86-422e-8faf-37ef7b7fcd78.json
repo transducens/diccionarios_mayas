@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzojotzotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzojotzotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Toser con tos seca; sonar chinchín",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzoj",
+  "examples": [
+    {
+      "example_maya": "Li tzuh utz katzojotzotik ma chaqiʼj",
+      "example_spa": "El chinchín suena bien porque está seco",
+      "dialect": null
+    }
+  ],
+  "uuid": "febb7a44-0f86-422e-8faf-37ef7b7fcd78"
+}

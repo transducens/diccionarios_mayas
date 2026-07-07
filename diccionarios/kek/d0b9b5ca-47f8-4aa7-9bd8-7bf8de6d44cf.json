@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xamaan",
+  "definition": "Semana",
+  "additional_text": "SInv Inxamaan",
+  "examples": [
+    {
+      "example_maya": "Jun chik inxamaan majiʼ naxtoj li patron",
+      "example_spa": "El patrón todavía no me ha pagado una semana",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wankin saʼ inxamaan",
+      "example_spa": "Estoy haciendo mi turno semanal",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0b9b5ca-47f8-4aa7-9bd8-7bf8de6d44cf",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

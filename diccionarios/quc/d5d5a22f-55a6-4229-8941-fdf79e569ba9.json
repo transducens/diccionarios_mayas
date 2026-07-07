@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzapaʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzapaʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zapato",
+  "definitionDialect": "",
+  "additional_text": "sInv Xajabʼ",
+  "examples": [
+    {
+      "example_maya": "Li amuʼs ukojom kʼakʼa tzapaʼt",
+      "example_spa": "El ladino lleva zapatos nuevos",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5d5a22f-55a6-4229-8941-fdf79e569ba9"
+}

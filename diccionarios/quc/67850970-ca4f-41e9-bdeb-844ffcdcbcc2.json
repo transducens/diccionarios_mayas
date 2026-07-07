@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ixim pix",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuʼixim pix (wixim pix)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomatillo",
+  "definitionDialect": "",
+  "additional_text": "scl Var Pix",
+  "examples": [
+    {
+      "example_maya": "Li ixim pix are koʼkoj chwach li nimaq pix",
+      "example_spa": "El tomatillo es más pequeño que el tomate grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "67850970-ca4f-41e9-bdeb-844ffcdcbcc2"
+}

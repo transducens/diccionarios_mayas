@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Garrotear; enlodar, manchar cosas en el lodo",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinjiloh Raíz VT Jil",
+  "examples": [
+    {
+      "example_maya": "Xinjil che jun cheʼ iwir rumal jun achih",
+      "example_spa": "Un hombre me garroteó ayer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li Altoʼn xujil li suʼt pa li xaqʼoʼl",
+      "example_spa": "Antonia manchó el sute de lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e9516717-0401-4342-96b4-8f9df14ecd73"
+}

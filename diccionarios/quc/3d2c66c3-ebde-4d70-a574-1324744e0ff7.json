@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jeʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Así",
+  "definitionDialect": "general",
+  "additional_text": "Part Coment Partícula de comparación",
+  "examples": [
+    {
+      "example_maya": "Na qas ta jeʼ",
+      "example_spa": "Realmente",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d2c66c3-ebde-4d70-a574-1324744e0ff7"
+}

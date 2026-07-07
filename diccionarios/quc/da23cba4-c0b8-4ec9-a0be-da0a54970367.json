@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzutzubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzutzubʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espada pequeña que se usa para pasar el hilo al terminar el tejido",
+  "definitionDialect": "General",
+  "additional_text": "scv Raíz S Tzutz",
+  "examples": [
+    {
+      "example_maya": "Waʼ we tzutzubʼ kachokon cheh elesabʼal kem",
+      "example_spa": "Este palito sirve para terminar el tejido",
+      "dialect": null
+    }
+  ],
+  "uuid": "da23cba4-c0b8-4ec9-a0be-da0a54970367"
+}

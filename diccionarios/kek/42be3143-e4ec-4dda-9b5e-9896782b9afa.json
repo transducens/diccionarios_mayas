@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼuluk",
+  "definition": "Resultar, recibir, atacar, acontecer, pasar",
+  "additional_text": "VTR Xinkʼul",
+  "examples": [
+    {
+      "example_maya": "Saʼ li jalbʼe xkohin Kobʼan ut xinkʼul li nimbʼe",
+      "example_spa": "Me fui por los extarvios cuando iba a Cobán pero resulté por la carretera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xkamik li winq xkʼulman saʼ li kutan ewer",
+      "example_spa": "La muerte del hombre aconteció el día de ayer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼuluk maatan",
+      "example_spa": "Recibir herencia o regalo",
+      "dialect": null
+    }
+  ],
+  "uuid": "42be3143-e4ec-4dda-9b5e-9896782b9afa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

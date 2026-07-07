@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼonaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un toque como de tambor",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz PT Bʼon",
+  "examples": [
+    {
+      "example_maya": "Li ajtambʼor xa jubʼonaj xuya che li tambor",
+      "example_spa": "El tamborero sólo le dio un toque al tambor",
+      "dialect": null
+    }
+  ],
+  "uuid": "cd776cde-a5cd-4f0a-91a0-e8b4bdb1def7"
+}

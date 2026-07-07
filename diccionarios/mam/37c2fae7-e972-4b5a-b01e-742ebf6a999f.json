@@ -1,0 +1,23 @@
+{
+  "entryWord": "BʼANT",
+  "definition": "1 sanar 2 estudiar, aprender",
+  "additional_text": "vi ma chin bʼanta raíz bʼaʼn adj",
+  "examples": [
+    {
+      "example_maya": "Jak bʼant xjal tuʼn romeýa kʼul",
+      "example_spa": "Puede sanar la persona por una planta medicinal",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma chin bʼanta tuj skweʼlan",
+      "example_spa": "Aprendí algo en la escuela",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "37c2fae7-e972-4b5a-b01e-742ebf6a999f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

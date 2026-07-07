@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pek",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupek",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cueva",
+  "definitionDialect": "General",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Pa li swan kʼo jun upek koj",
+      "example_spa": "En el barranco hay una cueva de león",
+      "dialect": null
+    }
+  ],
+  "uuid": "b247e271-0d7b-405e-93e4-51fa3af875aa"
+}

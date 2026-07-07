@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ramux",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ramo de Semana Santa",
+  "definitionDialect": "es",
+  "additional_text": "scv Nuraamuux Coment Se usan las hojas tiernas del coyol Wiqobʼal Del Cast Ramos",
+  "examples": [
+    {
+      "example_maya": "Li ramux kachokon cheh wiqobʼal pa taq awas qʼij chiʼl pa taq kwaresm",
+      "example_spa": "Los ramos se usan para adorno en Semana Santa y en Cuaresma",
+      "dialect": "Dom.S."
+    }
+  ],
+  "uuid": "bce013b8-e690-456f-8f91-c99fe74231ac"
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "PASYAALAL",
+  "definition": "visitar, pasear",
+  "additional_text": "vt pasyalal te, pasyaʼlan, ma bʼaj npasyaʼlana del español pasear",
+  "examples": [
+    {
+      "example_maya": "Ma chinx pasyalal tukʼ wala",
+      "example_spa": "Voy a ir a visitar a mi hija",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ec8352e4-e75a-44df-8d03-565611c68406",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

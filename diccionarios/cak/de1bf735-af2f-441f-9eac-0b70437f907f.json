@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xiʼl",
+  "definition": "Grillo",
+  "additional_text": "sInv Nuxil Chikop",
+  "examples": [
+    {
+      "example_maya": "Ri xiʼl yebʼixan chaqʼaʼ",
+      "example_spa": "Los grillos cantan de noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xiʼl choj yetzopin (yetzokʼin) täq yebʼyin",
+      "example_spa": "Los grillos saltan para caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "de1bf735-af2f-441f-9eac-0b70437f907f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

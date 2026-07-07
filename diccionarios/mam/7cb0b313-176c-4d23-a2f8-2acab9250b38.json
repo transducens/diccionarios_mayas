@@ -1,0 +1,23 @@
+{
+  "entryWord": "ELAʼ MAJ",
+  "definition": "muchas veces, varias veces",
+  "additional_text": "pa sin elaʼ el raíz elaʼ par raíz maj",
+  "examples": [
+    {
+      "example_maya": "Elaʼ maj nqoyolan tuj jun qʼij",
+      "example_spa": "Platicamos muchas veces al día",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Elaʼ maj inkubʼ wabʼana tuʼn kuʼxan",
+      "example_spa": "Muchas veces me entretuvo el joven",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7cb0b313-176c-4d23-a2f8-2acab9250b38",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

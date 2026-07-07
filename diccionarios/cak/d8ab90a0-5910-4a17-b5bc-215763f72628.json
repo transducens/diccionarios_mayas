@@ -1,0 +1,28 @@
+{
+  "entryWord": "Qʼajanïk (qʼajonïk)",
+  "definition": "Quebrar cosas, desobedecer un mandato, quebrantar un mandato",
+  "additional_text": "vt Qʼajaxik, (qʼajik), ninqʼäj) Qʼäj",
+  "examples": [
+    {
+      "example_maya": "Taq xinqʼäj ri jun cheʼ, xusök nuqʼaʼ",
+      "example_spa": "Cuando quebré aquel palo, me herí la mano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nibʼïx taq jun winäq nuqʼäj rutzij rutataʼ, ntzaq pa rukʼaslem",
+      "example_spa": "Dicen que la persona que quebranta el mandato de su padre, fracasa en su vida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun winäq, taq ruqʼajon raqän man nitikïr ta nibʼiyin",
+      "example_spa": "Una persona, cuando se quiebra una pierna, no puede caminar",
+      "dialect": null
+    }
+  ],
+  "uuid": "d8ab90a0-5910-4a17-b5bc-215763f72628",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

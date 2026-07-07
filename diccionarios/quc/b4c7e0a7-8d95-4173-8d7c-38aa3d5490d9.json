@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pirkʼatixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Voltear para un lado; volcar",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinpirkʼatiij Raíz VI Per (pir)",
+  "examples": [
+    {
+      "example_maya": "Li altamow\" xpirkʼatij bʼi chiʼ li swan",
+      "example_spa": "El carro volcó en la orilla del barranco",
+      "dialect": null
+    }
+  ],
+  "uuid": "b4c7e0a7-8d95-4173-8d7c-38aa3d5490d9"
+}

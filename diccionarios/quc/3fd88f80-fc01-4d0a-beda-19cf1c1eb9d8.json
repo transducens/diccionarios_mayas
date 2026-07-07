@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rij chokom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cáscara de oreja de burro",
+  "definitionDialect": "es",
+  "additional_text": "sds Rij nuchokoom",
+  "examples": [
+    {
+      "example_maya": "Li rij chokom kachokon cheh tzʼajbʼal xyal",
+      "example_spa": "La cáscara de oreja de burro se usa para teñir cotones",
+      "dialect": null
+    }
+  ],
+  "uuid": "3fd88f80-fc01-4d0a-beda-19cf1c1eb9d8"
+}

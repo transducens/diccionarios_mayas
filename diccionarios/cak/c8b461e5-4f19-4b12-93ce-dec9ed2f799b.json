@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tinin",
+  "definition": "Tronar, volcán, incendio",
+  "additional_text": "vi Nitinïn Var Jinin, tin",
+  "examples": [
+    {
+      "example_maya": "Täq xkʼat ri mamaʼ juyuʼ, (Ixkanul), yalan xtinin",
+      "example_spa": "Cuando hizo erupción el volcán, tronó mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq nkʼat el jun juyuʼ nitinin nibʼe riqʼaqʼ",
+      "example_spa": "Al incendiarse un bosque truena mucho el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "c8b461e5-4f19-4b12-93ce-dec9ed2f799b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

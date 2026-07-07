@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ikaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Wikaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacha",
+  "definitionDialect": "General",
+  "additional_text": "scv DomS Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Li ikaj kachokon che paqʼbʼal siʼ",
+      "example_spa": "El hacha sirve para rajar leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "1081f8bc-a9b2-403d-b1c5-759eb15500a8"
+}

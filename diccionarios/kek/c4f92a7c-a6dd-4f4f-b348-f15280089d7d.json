@@ -1,0 +1,23 @@
+{
+  "entryWord": "Marimpik",
+  "definition": "Tocar marimba",
+  "additional_text": "vı Xinmarimpik",
+  "examples": [
+    {
+      "example_maya": "¿Manakanaw marimpik?",
+      "example_spa": "¿Sabés tocar marimba?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Ani teʼ marimpiq saʼ xketbʼal inchihabʼ?",
+      "example_spa": "¿Quiénes van a tocar marimba para mi cumpleaños?",
+      "dialect": null
+    }
+  ],
+  "uuid": "c4f92a7c-a6dd-4f4f-b348-f15280089d7d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuqʼkuʼrem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir mucho humo",
+  "definitionDialect": "general",
+  "additional_text": "vi Katuqʼkuʼrik Raíz VI Tuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li poroʼn sibʼalaj katuqʼkuʼr li usibʼel",
+      "example_spa": "El incendio está echando mucho humo",
+      "dialect": null
+    }
+  ],
+  "uuid": "92c1bc48-b282-4458-979a-6c5b2b8c2360"
+}

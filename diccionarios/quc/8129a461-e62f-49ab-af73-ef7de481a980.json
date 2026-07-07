@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaxlan tzij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Castellano; español",
+  "definitionDialect": "",
+  "additional_text": "scl Chʼaabʼal",
+  "examples": [
+    {
+      "example_maya": "Li muʼsabʼ pa Armit pa kaxlan tzij ketzijonik",
+      "example_spa": "Los ladinos en la capital de Guatemala hablan en castellano",
+      "dialect": null
+    }
+  ],
+  "uuid": "8129a461-e62f-49ab-af73-ef7de481a980"
+}

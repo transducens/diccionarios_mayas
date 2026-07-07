@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼajbʼäl",
+  "definition": "Martillo, mazo, almágana",
+  "additional_text": "SCV Nubʼajbʼal Chʼichʼ, cheʼ, abʼäj, samajbʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri bʼajbʼäl nikʼatzin chi nabʼajij ri lawx pa cheʼ",
+      "example_spa": "El martillo sirve para clavar en los palos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun cheʼ xok bʼajbʼäl nuxajabʼ",
+      "example_spa": "Con un mazo fue con lo que clavé mis zapatos",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ba27a6d-8b35-462a-b8cd-9fc64be598da",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

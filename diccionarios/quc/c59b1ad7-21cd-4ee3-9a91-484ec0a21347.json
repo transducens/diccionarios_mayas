@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pescadito",
+  "definitionDialect": "",
+  "additional_text": "sinv Numuʼy Sinón Saʼy DomS Kar",
+  "examples": [
+    {
+      "example_maya": "Li alaj taq muʼy e kʼo pa li bʼinel jaʼ",
+      "example_spa": "Los pescaditos viven en el río",
+      "dialect": null
+    }
+  ],
+  "uuid": "c59b1ad7-21cd-4ee3-9a91-484ec0a21347"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼipchʼïp",
+  "definition": "Canario muy pequeño",
+  "additional_text": "sInv Nuchʼipchʼïp var Sajukʼ Ajxikʼ xikʼanel, tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Re chʼipchʼïp ja re ri jun chʼiti chiköp yalan koʼol ok, qʼän rikʼin saq rij",
+      "example_spa": "Este canario es un pajarito muy pequeño de color amarillo y blanco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chʼipchʼïp yalan ti koʼol ok, ruyon us yerutij",
+      "example_spa": "El canario es muy pequeño, se alimenta de mosquitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b01ec20-8c78-48ce-adad-2d7f18eeca94",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

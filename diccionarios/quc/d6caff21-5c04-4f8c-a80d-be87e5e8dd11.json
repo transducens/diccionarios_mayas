@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ayin",
+  "entryWordDialect": null,
+  "altEntryWord": "Wayin",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lagarto, caimán; mi lagarto",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li ayin utz katijowik",
+      "example_spa": "Es bueno comer lagarto",
+      "dialect": null
+    }
+  ],
+  "uuid": "d6caff21-5c04-4f8c-a80d-be87e5e8dd11"
+}

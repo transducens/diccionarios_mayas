@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nikowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kanikowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arder; llamear; flamear (elev)",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz VI Nik",
+  "examples": [
+    {
+      "example_maya": "Xuchap nikowem li qʼaqʼ xe li xot",
+      "example_spa": "El fuego empezó a arder debajo del comal",
+      "dialect": null
+    }
+  ],
+  "uuid": "7dd762b6-5dff-48fb-a9b7-3cbb06d273c3"
+}

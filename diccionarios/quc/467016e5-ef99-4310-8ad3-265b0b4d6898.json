@@ -1,0 +1,24 @@
+{
+  "entryWord": "Takʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtakʼiʼk xutakʼabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parado (persona, pene o cosa alta y recta); parado, que no camina, como reloj descompuesto",
+  "definitionDialect": "",
+  "additional_text": "p F Xtaakiʼ royowaal Se enojó Var Tikʼilik Raíz P Takʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih takʼalik xwaʼik, ma xa maj utem",
+      "example_spa": "El hombre comió parado, porque no tenía banco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xutakʼabʼa kan li rachiʼil pa li bʼeh",
+      "example_spa": "El hombre dejó a su compañero parado en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "467016e5-ef99-4310-8ad3-265b0b4d6898"
+}

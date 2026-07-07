@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼujixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Somatarse, golpearse; brujear",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinbʼujij",
+  "examples": [
+    {
+      "example_maya": "Li achih xubʼujij ranima chwa jun abʼaj",
+      "example_spa": "El hombre se somató el corazón en una piedra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xbʼujix li achih rumal li ajʼitz",
+      "example_spa": "Al hombre lo hechizó el brujo",
+      "dialect": null
+    }
+  ],
+  "uuid": "24f4ace8-e104-469c-af8d-93427bdbe31b"
+}

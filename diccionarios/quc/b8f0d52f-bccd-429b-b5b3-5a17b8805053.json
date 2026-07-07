@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼaqalajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caer o salir cosa espesa poco a poco",
+  "definitionDialect": "",
+  "additional_text": "vi Katʼaqalajik Raiz P Tʼaq",
+  "examples": [
+    {
+      "example_maya": "Li tanatik xuchap la tʼaqalajem",
+      "example_spa": "El peñazco se está cayendo poco a poco",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8f0d52f-bccd-429b-b5b3-5a17b8805053"
+}

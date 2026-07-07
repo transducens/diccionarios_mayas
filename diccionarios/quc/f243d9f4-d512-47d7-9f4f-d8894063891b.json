@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tanel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mensajero",
+  "definitionDialect": "",
+  "additional_text": "sP",
+  "examples": [
+    {
+      "example_maya": "Li kʼamal bʼeh xutaq bʼi jun tanel",
+      "example_spa": "El pedidor mandó a un mensajero",
+      "dialect": null
+    }
+  ],
+  "uuid": "f243d9f4-d512-47d7-9f4f-d8894063891b"
+}

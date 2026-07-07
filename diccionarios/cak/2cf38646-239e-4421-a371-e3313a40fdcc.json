@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chinchïy",
+  "definition": "Maraca, sonaja, chinchín",
+  "additional_text": "sInv Nuchinchïy Etzʼabʼäl",
+  "examples": [
+    {
+      "example_maya": "Ri chinchïy, tzimay okinäq, wi manäq abʼäj, ixin yoʼon (yaʼön) chupan",
+      "example_spa": "La maraca es hecha de jícara, adentro tiene piedrecitas o maíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chinchïy nokusäx rikʼin rij ruwäch ri tzuy",
+      "example_spa": "Los chinchines se hacen de la fruta del tecomate",
+      "dialect": null
+    }
+  ],
+  "uuid": "2cf38646-239e-4421-a371-e3313a40fdcc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

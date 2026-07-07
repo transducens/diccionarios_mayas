@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sak",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusak",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juego de dados; lotería",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz S Sak",
+  "examples": [
+    {
+      "example_maya": "Li achih xok pa sak xuchʼak jun oʼkʼal ketzal",
+      "example_spa": "El hombre jugó a la lotería y ganó cien quetzales",
+      "dialect": null
+    }
+  ],
+  "uuid": "64c38d46-2255-4c42-93d6-202ae2916de0"
+}

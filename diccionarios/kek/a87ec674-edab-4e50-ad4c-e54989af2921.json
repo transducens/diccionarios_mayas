@@ -1,0 +1,23 @@
+{
+  "entryWord": "Komaayr (naʼchinbʼej)",
+  "definition": "Comadre",
+  "additional_text": "SJav Inkomaadr var Kumpaal",
+  "examples": [
+    {
+      "example_maya": "Xtʼaneʼ chaq inkomaayr saʼ xbʼeen li pek",
+      "example_spa": "Mi comadre se había caído sobre la piedra",
+      "dialect": null
+    },
+    {
+      "example_maya": "Hulaj chaq inkomaayr saʼ li wochoch",
+      "example_spa": "Mañana vendrá mi comadre a la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a87ec674-edab-4e50-ad4c-e54989af2921",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

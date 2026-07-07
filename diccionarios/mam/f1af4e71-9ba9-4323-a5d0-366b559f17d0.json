@@ -1,0 +1,18 @@
+{
+  "entryWord": "EEX",
+  "definition": "salir afuera",
+  "additional_text": "vi ma chin exa frases: telex qʼij poniente raíz el vi raíz xiʼ vi",
+  "examples": [
+    {
+      "example_maya": "Ma chin exa kil txan peʼn",
+      "example_spa": "Salí a ver afuera",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f1af4e71-9ba9-4323-a5d0-366b559f17d0",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

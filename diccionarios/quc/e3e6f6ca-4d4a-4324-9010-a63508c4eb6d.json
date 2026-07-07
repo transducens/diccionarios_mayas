@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzoqotzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonadas: siembras, xinga de café, algún polvo o granos",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz PT Tzoq",
+  "examples": [
+    {
+      "example_maya": "Tzoqotzik ubʼanom li rachaqa kapeh pa li xaʼr",
+      "example_spa": "Se amontonó la xinga en el fondo de la taza",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3e6f6ca-4d4a-4324-9010-a63508c4eb6d"
+}

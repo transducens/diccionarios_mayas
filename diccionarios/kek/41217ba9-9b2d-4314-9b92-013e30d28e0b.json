@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tiklaak",
+  "definition": "Empezar, principiar, comenzar",
+  "additional_text": "VI Xtikla",
+  "examples": [
+    {
+      "example_maya": "Tiklaak re li nimqʼe",
+      "example_spa": "Ya va a empezar la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xtikla li aqʼink",
+      "example_spa": "Principió la limpia",
+      "dialect": null
+    }
+  ],
+  "uuid": "41217ba9-9b2d-4314-9b92-013e30d28e0b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

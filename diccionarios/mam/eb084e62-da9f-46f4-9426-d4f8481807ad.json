@@ -1,0 +1,23 @@
+{
+  "entryWord": "T-XMAAKAL",
+  "definition": "flor de las plantas",
+  "additional_text": "sy kyxmakal derivaciones: xmakalin facultad de dar flores raíz xmaʼk s ds bʼech",
+  "examples": [
+    {
+      "example_maya": "Noq ma tzaj tilj t-xmakal tal lanch tuʼn koresma",
+      "example_spa": "No más se cayó la flor del naranjal por el verano",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "At t-xmakal awal bʼaʼn tok te qʼanbʼil",
+      "example_spa": "Hay flores de algunas plantas que se usan para medicina",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "eb084e62-da9f-46f4-9426-d4f8481807ad",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

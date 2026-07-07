@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oqʼej",
+  "entryWordDialect": null,
+  "altEntryWord": "Woqʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lloró; llanto",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li neʼ xaq oqʼej karaj Li akʼal oqʼej kubʼanoh, ma xa xchʼay rumal li unan",
+      "example_spa": "El nene siempre quiere llorar El niño está llorando porque le pegó su madre",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7e1df6e-72f9-4a5a-ab70-f7271e38b709"
+}

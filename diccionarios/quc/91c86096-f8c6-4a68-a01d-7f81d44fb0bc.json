@@ -1,0 +1,19 @@
+{
+  "entryWord": "Us",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mosquito",
+  "definitionDialect": "",
+  "additional_text": "SaP Raíz S Us DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Kʼo kebʼ kiwach li us, kʼo kaqa us, kʼo qʼeqa us",
+      "example_spa": "Hay dos clases de mosquitos: rojos y negros",
+      "dialect": null
+    }
+  ],
+  "uuid": "91c86096-f8c6-4a68-a01d-7f81d44fb0bc"
+}

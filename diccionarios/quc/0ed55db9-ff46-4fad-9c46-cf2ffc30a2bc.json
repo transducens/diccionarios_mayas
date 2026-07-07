@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tebʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintebʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Qebʼixik",
+  "altEntryWordDialect2": null,
+  "definition": "Tirar o dejar caer cosa pesada; sentar a otro a la fuerza; empujar una cosa pesada",
+  "definitionDialect": "general",
+  "additional_text": "vtd Sinón Raíz PT Tebʼ",
+  "examples": [
+    {
+      "example_maya": "Kintebʼij qaj wibʼ puliw",
+      "example_spa": "Me tiro al suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ed55db9-ff46-4fad-9c46-cf2ffc30a2bc"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kowinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kowinem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poder",
+  "definitionDialect": "",
+  "additional_text": "vI kinkoowinik (kinkowinik)",
+  "examples": [
+    {
+      "example_maya": "We maj ul pa li ubʼe chʼichʼ, kabʼan kowinem chuqʼatanisaxik li bʼinel chʼichʼ",
+      "example_spa": "Si no hay derrumbe en la carretera, los carros pueden pasar",
+      "dialect": null
+    }
+  ],
+  "uuid": "bb67a336-bd80-4503-b0fb-b4735fb185b9"
+}

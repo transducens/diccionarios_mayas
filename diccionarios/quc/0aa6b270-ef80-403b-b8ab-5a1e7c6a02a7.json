@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paxeʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Paʼx",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Pax",
+  "altEntryWordDialect2": null,
+  "definition": "Quebrado; rajado",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Paʼx Pax",
+  "examples": [
+    {
+      "example_maya": "Li tʼuʼy xa paxeʼl",
+      "example_spa": "La olla está rajada",
+      "dialect": null
+    }
+  ],
+  "uuid": "0aa6b270-ef80-403b-b8ab-5a1e7c6a02a7"
+}

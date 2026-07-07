@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alkapus",
+  "entryWordDialect": null,
+  "altEntryWord": "Walkapus",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cohete de vara",
+  "definitionDialect": "Dom.S. Q'aaq'. Del Cast. Arcabuz.",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li alkapus kachok ojer tzij pa taq nimaqʼij",
+      "example_spa": "Los cohetes de vara se usan durante las fiestas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2051ac4b-b2a2-4655-b7a4-03392bf1deea"
+}

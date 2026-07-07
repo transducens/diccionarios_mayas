@@ -1,0 +1,19 @@
+{
+  "entryWord": "Prut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fruta",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupruut Del Cast Fruta",
+  "examples": [
+    {
+      "example_maya": "Kʼih uwach chi prut kakʼayix pa kʼayʼbʼal",
+      "example_spa": "En el mercado se venden muchas clases de frutas",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc3a00e2-aca8-4989-b9ef-d1e7fab15c59"
+}

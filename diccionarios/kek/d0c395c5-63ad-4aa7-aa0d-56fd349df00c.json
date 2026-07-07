@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pejelal",
+  "definition": "Rotura",
+  "additional_text": "SSP Xpejelal",
+  "examples": [
+    {
+      "example_maya": "Jwal nim xpejelal inwex",
+      "example_spa": "La rotura de mi pantalón es muy grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nim xpejelal li waqʼ",
+      "example_spa": "La rotura de mi camisa es grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0c395c5-63ad-4aa7-aa0d-56fd349df00c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

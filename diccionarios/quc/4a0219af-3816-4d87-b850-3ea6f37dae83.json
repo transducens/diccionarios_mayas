@@ -1,0 +1,24 @@
+{
+  "entryWord": "Michʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmichʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrancar hierbas, bigotes o pelos; desplumar ave",
+  "definitionDialect": "",
+  "additional_text": "vTR Raíz VT Michʼ",
+  "examples": [
+    {
+      "example_maya": "Kinmichʼ na wismaʼch",
+      "example_spa": "Tengo que arrancarme los bigotes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼ xmichʼitajik li katijow pa qʼij",
+      "example_spa": "La gallina que se va a preparar para el almuerzo, ya fue desplumada",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a0219af-3816-4d87-b850-3ea6f37dae83"
+}

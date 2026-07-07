@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pichel",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupichel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Pichel",
+  "altEntryWordDialect2": null,
+  "definition": "Pichel",
+  "definitionDialect": "",
+  "additional_text": "sInv Del Cast Pichel",
+  "examples": [
+    {
+      "example_maya": "Li ixoq pa pichel uyoʼm wi li kapeh",
+      "example_spa": "La mujer tiene el café en el pichel",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1a1bf5d-8ef8-4bdb-b9f4-7b04481f0506"
+}

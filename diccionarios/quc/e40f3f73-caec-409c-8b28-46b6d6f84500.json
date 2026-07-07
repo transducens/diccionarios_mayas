@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Xamalil",
+  "entryWordDialect": null,
+  "altEntryWord": "Uxamalil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ruinas; señales de; cosas antiguas; restos; huellas; vestigios",
+  "definitionDialect": "",
+  "additional_text": "ssP",
+  "examples": [
+    {
+      "example_maya": "Kʼa kʼo kan retal uxamalil ri qʼaʼm taq jah kech ri qatat qanan pa Tikal",
+      "example_spa": "En Tikal todavía existen vestigios de las pirámides mayas",
+      "dialect": null
+    }
+  ],
+  "uuid": "e40f3f73-caec-409c-8b28-46b6d6f84500"
+}

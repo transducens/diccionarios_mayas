@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muʼjanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmuʼjan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sombrearse",
+  "definitionDialect": "General",
+  "additional_text": "VI Raiz VT Muʼj",
+  "examples": [
+    {
+      "example_maya": "Kinmuʼjan na chuxeʼ li cheʼ",
+      "example_spa": "Voy a sombrearme bajo el árbol",
+      "dialect": null
+    }
+  ],
+  "uuid": "56f22255-c507-48b0-ab9f-6a52d0385ab5"
+}

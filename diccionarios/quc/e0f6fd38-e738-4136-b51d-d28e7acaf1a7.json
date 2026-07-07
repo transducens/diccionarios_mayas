@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mulul",
+  "entryWordDialect": null,
+  "altEntryWord": "mulul",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Numuluul (numuuluul)",
+  "altEntryWordDialect2": null,
+  "definition": "Jícara; calabacín",
+  "definitionDialect": "",
+  "additional_text": "SCV DomS Chokonisaʼn",
+  "examples": [
+    {
+      "example_maya": "Li mulul kachokon che tijbʼal qʼor chiʼl uwaʼl jaʼ kukʼ ajsant",
+      "example_spa": "En las cofradías se toma el atol en jícaras",
+      "dialect": null
+    }
+  ],
+  "uuid": "e0f6fd38-e738-4136-b51d-d28e7acaf1a7"
+}

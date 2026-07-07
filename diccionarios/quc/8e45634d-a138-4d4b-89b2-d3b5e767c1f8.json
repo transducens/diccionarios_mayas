@@ -1,0 +1,19 @@
+{
+  "entryWord": "Je riʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Así; de esa manera; por acá",
+  "definitionDialect": "",
+  "additional_text": "AdvMan",
+  "examples": [
+    {
+      "example_maya": "Mariʼy, je riʼ kabʼan cheh uʼchʼajik li atzʼyaq",
+      "example_spa": "María, así se lava la ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "8e45634d-a138-4d4b-89b2-d3b5e767c1f8"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kuuk",
+  "definition": "Pared de una casa hecha de palos rollizos, cerco de un rancho",
+  "additional_text": "SInv Inkuuk",
+  "examples": [
+    {
+      "example_maya": "Junes kuuk ru inchʼina ochoch",
+      "example_spa": "Mi casita está hecha de palos rollizos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Warqin seʼ kuuk",
+      "example_spa": "Voy a dormir junto a la pared",
+      "dialect": null
+    }
+  ],
+  "uuid": "89fec030-5733-4288-85e8-d784247f37fe",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

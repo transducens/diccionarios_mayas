@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzaliʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Limpieza que se hace después de la roza antes de sembrar",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutzaaliʼn Raíz VT Tzaal",
+  "examples": [
+    {
+      "example_maya": "Tzaliʼn, ukamul chak kabʼan chech jun uliw ri maj tikoʼn chwach",
+      "example_spa": "Segunda limpia de terreno sin siembra",
+      "dialect": null
+    }
+  ],
+  "uuid": "3270a727-96fa-43fb-aff0-495074f64f35"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wawot",
+  "definition": "Ladrar el perro",
+  "additional_text": "vI Niwawot var Tiʼonik",
+  "examples": [
+    {
+      "example_maya": "Täq kʼo nikitzʼët ri tzʼiʼ yalan yewawot",
+      "example_spa": "Cuando ven algo los perros ladran mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Janíla xewawöt ri tzʼeʼ chaqʼaʼ wakamin",
+      "example_spa": "A noche ladraron mucho los perros",
+      "dialect": null
+    }
+  ],
+  "uuid": "cdc56586-c7a3-49f8-b7ae-fda3ba3f1f57",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

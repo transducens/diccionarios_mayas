@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼat",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cama",
+  "definitionDialect": "General",
+  "additional_text": "SInv Nuchʼaat",
+  "examples": [
+    {
+      "example_maya": "Li chʼat kachokon che warabʼal",
+      "example_spa": "La cama se usa para dormir Chʼaht",
+      "dialect": null
+    }
+  ],
+  "uuid": "c40faf72-e7ed-4854-b772-7ca5482230b8"
+}

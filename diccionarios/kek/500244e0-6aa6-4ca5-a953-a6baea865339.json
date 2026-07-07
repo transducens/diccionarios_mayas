@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzolbʼal",
+  "definition": "Lección, clase, estudio",
+  "additional_text": "SInv Intzolbʼal",
+  "examples": [
+    {
+      "example_maya": "Laaʼin maakʼaʼ intzolbʼal anaqwan",
+      "example_spa": "Yo no tengo clases hoy",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wilaq wan intzolbʼal",
+      "example_spa": "Voy a leer mi lección",
+      "dialect": null
+    }
+  ],
+  "uuid": "500244e0-6aa6-4ca5-a953-a6baea865339",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qajik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alquilar, prestar",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinqajoh Raíz VT Qaj",
+  "examples": [
+    {
+      "example_maya": "Li uliw kinqajoh, kintik wabʼix chwach",
+      "example_spa": "En el terreno que alquilo, voy a sembrar milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih qajik kubʼan cheh urajil kuloqʼbʼej rixim",
+      "example_spa": "El hombre está prestando dinero para comprar su maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a6bb94e-dd3d-40c4-a690-c63295008e14"
+}

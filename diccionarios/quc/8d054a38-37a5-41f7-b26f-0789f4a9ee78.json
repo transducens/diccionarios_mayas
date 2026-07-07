@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pichechem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapichichik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir agua con presión",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Pich",
+  "examples": [
+    {
+      "example_maya": "Kapichich li jaʼ kel la pa li jul",
+      "example_spa": "El agua sale con presión del nacimiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d054a38-37a5-41f7-b26f-0789f4a9ee78"
+}

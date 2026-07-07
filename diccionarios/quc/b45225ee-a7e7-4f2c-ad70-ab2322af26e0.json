@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kuruwem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakuruwik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener mocos; estar mocoso; salirse los mocos",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VI Kur",
+  "examples": [
+    {
+      "example_maya": "Kakuruw li uputzaʼm li akʼal pa li tew",
+      "example_spa": "Al niño se le salen los mocos por el frío",
+      "dialect": null
+    }
+  ],
+  "uuid": "b45225ee-a7e7-4f2c-ad70-ab2322af26e0"
+}

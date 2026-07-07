@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tojoʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verde, como grama, plantas tiernas o frutas",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Raiz VT Toj",
+  "examples": [
+    {
+      "example_maya": "Li uwa saq sibʼalaj tojoʼj",
+      "example_spa": "La llanura está muy verde",
+      "dialect": null
+    }
+  ],
+  "uuid": "8fce6d49-f43a-4ab9-944e-cc1281940ea9"
+}

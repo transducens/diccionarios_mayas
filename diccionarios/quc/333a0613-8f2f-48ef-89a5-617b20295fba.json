@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼij",
+  "entryWordDialect": null,
+  "altEntryWord": "Xbʼe qʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Día; sol",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuqʼiij SCL Nimaqʼiij Fiesta SCL Raqan qʼiij Día del calendario Quiché SCL Chwa qʼiij Bajo el sol SCL Tikʼil qʼiij Medio día SCL Xee qʼiij Buenas tardes SCL Qʼaʼl qʼiij De las nueve hasta las once y media de la mañana SCL Uwa qʼiij Calor del sol SCL Reh pa qʼiij Almuerzo SCL Bʼeenaq qʼiij La tarde SCL Uwach uqʼiij Var Xbʼe qʼiij Raíz S Qʼiij",
+  "examples": [
+    {
+      "example_maya": "Koʼl upa li qʼij pa taq li ikʼ oktuwr\", nowyembr\"",
+      "example_spa": "Los días de octubre y noviembre son cortos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼij chirelebʼal qʼij kel wuloq",
+      "example_spa": "El sol sale por el oriente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq ajraqan qʼij",
+      "example_spa": "La mujer sabe los días del calendario Quiché",
+      "dialect": null
+    }
+  ],
+  "uuid": "333a0613-8f2f-48ef-89a5-617b20295fba"
+}

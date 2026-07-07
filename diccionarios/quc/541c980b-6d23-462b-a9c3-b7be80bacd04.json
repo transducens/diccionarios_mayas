@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muluwem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamuluwik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener asco o náusea",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VT Mul",
+  "examples": [
+    {
+      "example_maya": "Kamuluw nukʼuʼx che li ukis tzʼiʼ",
+      "example_spa": "Le tengo asco al excremento de perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "541c980b-6d23-462b-a9c3-b7be80bacd04"
+}

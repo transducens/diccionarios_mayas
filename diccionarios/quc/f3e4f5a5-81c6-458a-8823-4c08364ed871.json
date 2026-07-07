@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼawnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ladrar (perro pequeño)",
+  "definitionDialect": "",
+  "additional_text": "vi Kachʼawnajik",
+  "examples": [
+    {
+      "example_maya": "Li alaj tzʼiʼ xaq kachʼawnaj katyoʼnik",
+      "example_spa": "El perrito apenas sabe ladrar",
+      "dialect": null
+    }
+  ],
+  "uuid": "f3e4f5a5-81c6-458a-8823-4c08364ed871"
+}

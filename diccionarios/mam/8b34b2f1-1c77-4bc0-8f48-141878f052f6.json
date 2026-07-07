@@ -1,0 +1,23 @@
+{
+  "entryWord": "XTXUʼN",
+  "definition": "1 súcheles 2 atol de súcheles",
+  "additional_text": "s1a nxtxuʼna ds kʼabʼaj",
+  "examples": [
+    {
+      "example_maya": "Qusqaj ma tzʼok xtxuʼn",
+      "example_spa": "Se ahumó el atol de súcheles",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Pur xtxuʼn kykʼaʼ nimal kompalbʼaj",
+      "example_spa": "La bebida de los compadres siempre es atol de súcheles",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8b34b2f1-1c77-4bc0-8f48-141878f052f6",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

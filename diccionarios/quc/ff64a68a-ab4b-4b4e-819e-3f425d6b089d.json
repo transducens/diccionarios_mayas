@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuqaribʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costoso de hacer; pesado de hacer; cansado",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz PT Tuq",
+  "examples": [
+    {
+      "example_maya": "Li chak sibʼalaj tuqaribʼal",
+      "example_spa": "El trabajo es muy cansado",
+      "dialect": null
+    }
+  ],
+  "uuid": "ff64a68a-ab4b-4b4e-819e-3f425d6b089d"
+}

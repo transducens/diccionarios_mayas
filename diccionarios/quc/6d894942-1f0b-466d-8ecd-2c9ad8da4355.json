@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xchuy",
+  "entryWordDialect": null,
+  "altEntryWord": "Wixchuy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ave parecida al chompipe, no tiene cola; pavo de monte",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xchuy utz katijow li utiʼjal",
+      "example_spa": "El pavo de monte es comestible",
+      "dialect": null
+    }
+  ],
+  "uuid": "6d894942-1f0b-466d-8ecd-2c9ad8da4355"
+}

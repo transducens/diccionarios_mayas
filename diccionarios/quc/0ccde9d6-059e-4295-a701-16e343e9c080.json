@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaqit",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de encino",
+  "definitionDialect": "es",
+  "additional_text": "SInv Nubʼaqit Var Tukʼar, raxcheeʼ DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li bʼaqit sibʼalaj kowilaj che chwach ronojel cheʼ",
+      "example_spa": "Este tipo de encino es más duro que otra clase de árbol",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ccde9d6-059e-4295-a701-16e343e9c080"
+}

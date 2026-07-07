@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chij",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hilo de colores",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchiij Var Saqa bʼatzʼ DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Kʼi uwach chi chij kachokon che qʼoʼoj",
+      "example_spa": "Hay varias clases de hilo que se usan para bordar",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c6f870a-f904-4eed-8627-0e889577eb5d"
+}

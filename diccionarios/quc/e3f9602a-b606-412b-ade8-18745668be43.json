@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼoloh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guardar; encoger",
+  "definitionDialect": "",
+  "additional_text": "vTR Raíz VT Kʼol",
+  "examples": [
+    {
+      "example_maya": "Li achih, kʼolik kubʼan che li ujal pa li chet",
+      "example_spa": "El hombre guarda las mazorcas en el troje",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li utat li akʼal xukʼol li etzʼabʼaʼl",
+      "example_spa": "El papá del niño guardó el juguete",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3f9602a-b606-412b-ade8-18745668be43"
+}

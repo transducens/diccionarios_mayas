@@ -1,0 +1,29 @@
+{
+  "entryWord": "Naʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentir; percibir; darse cuenta",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinnaʼoh Var Noʼjixik Var Choomaxik Var Tayik Raíz VT Naʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼax ubʼanik li chak kinnaʼoh, xa je riʼ na xinbʼe ta chik",
+      "example_spa": "Sentí que costaba mucho el trabajo, por eso ya no fui",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj in qʼabʼarel chema xinnaʼoh are taq xinachʼabʼej",
+      "example_spa": "Estaba bien bolo, pero sentí cuando me hablaste",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qaqʼ kunaʼ li ubʼantajik taq li jastaq kaqatijoh",
+      "example_spa": "La lengua percibe los sabores",
+      "dialect": null
+    }
+  ],
+  "uuid": "6294a93d-1c84-4c86-89ad-a49e5dbfda77"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sotolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Echado, como perro, culebra, buey, menos las aves",
+  "definitionDialect": "",
+  "additional_text": "p Xsotiʼk, xusotobʼaʼ Raíz PT Sot",
+  "examples": [
+    {
+      "example_maya": "Li kej sotol pa li bʼeh, kuxiʼj ribʼ li akʼal chech",
+      "example_spa": "El caballo está echado en el camino y el niño le tiene miedo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li meʼs chakach xusotolibʼej are taq xwarik",
+      "example_spa": "El gato se quedó echado en una canasta cuando se durmió",
+      "dialect": null
+    }
+  ],
+  "uuid": "8128d809-256f-44df-8098-a4dad6ad05af"
+}

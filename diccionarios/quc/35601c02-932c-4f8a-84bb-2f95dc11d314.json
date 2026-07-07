@@ -1,0 +1,19 @@
+{
+  "entryWord": "Awex",
+  "entryWordDialect": null,
+  "altEntryWord": "Wawex",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Siembra de milpa; mi siembra",
+  "definitionDialect": "",
+  "additional_text": "sInv Raiz VT Aw DomS Chaak",
+  "examples": [
+    {
+      "example_maya": "Rajawaxik jabʼ chech li awex",
+      "example_spa": "La siembra de milpa necesita lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "35601c02-932c-4f8a-84bb-2f95dc11d314"
+}

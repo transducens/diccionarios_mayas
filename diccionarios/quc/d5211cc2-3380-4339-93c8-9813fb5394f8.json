@@ -1,0 +1,29 @@
+{
+  "entryWord": "=Iij",
+  "entryWordDialect": null,
+  "altEntryWord": "Wij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espalda; cáscara; concha; corteza; exterior",
+  "definitionDialect": "",
+  "additional_text": "sRel Coment =Iij se usa con adjetivos que indican color, cuando se trata del color exterior de algún objeto scl Kaq riij Es rojo (su exterior, o su vestido) sds Rij tʼootʼ Concha de caracol sRel Chriij Alrededor, detrás; afuera de, sobre sds Rij wiʼ Nuca sds Ucheʼl riij Espalda",
+  "examples": [
+    {
+      "example_maya": "Li wij sibʼalaj kaqʼoxowik, kʼo kumatz cheh",
+      "example_spa": "Me duele mucho la espalda por el calambre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li rij li kok sibʼalaj koh",
+      "example_spa": "La cáscara del coco es muy dura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ronojel uwach chi cheʼ kʼo rij",
+      "example_spa": "Todos los árboles tienen corteza",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5211cc2-3380-4339-93c8-9813fb5394f8"
+}

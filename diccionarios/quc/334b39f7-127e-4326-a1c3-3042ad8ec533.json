@@ -1,0 +1,19 @@
+{
+  "entryWord": "Machamatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kamachamatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mordisquear como conejo",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VT Mach",
+  "examples": [
+    {
+      "example_maya": "Li imul tajin kamachamat pa li trikoh",
+      "example_spa": "El conejo está mordisqueando los trigales",
+      "dialect": null
+    }
+  ],
+  "uuid": "334b39f7-127e-4326-a1c3-3042ad8ec533"
+}

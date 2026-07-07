@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajsaqwachom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Conocedor, experto",
+  "definitionDialect": "",
+  "additional_text": "SAgen",
+  "examples": [
+    {
+      "example_maya": "Li achih are taq xubʼan li roʼch xutzukuj jun ajsaqwachom chech",
+      "example_spa": "El hombre buscó a un experto para hacer su casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "13d372d6-d7cb-4c9f-b95d-73bf37710707"
+}

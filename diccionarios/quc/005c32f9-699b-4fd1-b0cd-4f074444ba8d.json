@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼusuʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar encorvada",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqʼuusuʼpik Raíz P Qʼus",
+  "examples": [
+    {
+      "example_maya": "Li alah kaqʼusuʼp rij pa taq bʼeh",
+      "example_spa": "El muchacho está caminando con la espalda encorvada por las calles",
+      "dialect": null
+    }
+  ],
+  "uuid": "005c32f9-699b-4fd1-b0cd-4f074444ba8d"
+}

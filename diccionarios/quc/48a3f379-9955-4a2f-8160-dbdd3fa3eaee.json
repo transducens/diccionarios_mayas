@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lukik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlukuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblar en forma de arco; arquear",
+  "definitionDialect": "Español",
+  "additional_text": "vtr Raíz P Luk",
+  "examples": [
+    {
+      "example_maya": "Li akʼal tajin kuluk li xyabʼ",
+      "example_spa": "El niño está doblando el peine",
+      "dialect": null
+    }
+  ],
+  "uuid": "48a3f379-9955-4a2f-8160-dbdd3fa3eaee"
+}

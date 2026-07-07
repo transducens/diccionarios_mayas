@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rininlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karininlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido carros en varias partes",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li pa Armit sibʼalaj kerinlabʼ taq chʼich",
+      "example_spa": "En Guatemala hacen mucho ruido los carros",
+      "dialect": null
+    }
+  ],
+  "uuid": "f89fdedf-17fc-47ad-8454-e51023599106"
+}

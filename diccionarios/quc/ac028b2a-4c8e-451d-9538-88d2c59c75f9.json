@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chapear; ordenar; quitar monte de un lugar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinpakoh Raiz VT Pak",
+  "examples": [
+    {
+      "example_maya": "Kinpak na li qʼayes che li numuru are chi utz kinqʼaxik",
+      "example_spa": "Voy a quitar el zacate con mi machete para poder pasar",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac028b2a-4c8e-451d-9538-88d2c59c75f9"
+}

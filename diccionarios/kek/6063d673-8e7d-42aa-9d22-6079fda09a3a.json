@@ -1,0 +1,18 @@
+{
+  "entryWord": "Taqlaak",
+  "definition": "Ser mandado",
+  "additional_text": "VP Xintaqlaak Se usa cuando se recibe orden de alguien",
+  "examples": [
+    {
+      "example_maya": "Xintaqlaak chi mesubʼk saʼ nimla kabʼl",
+      "example_spa": "Me mandaron a barrer a la casa grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "6063d673-8e7d-42aa-9d22-6079fda09a3a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

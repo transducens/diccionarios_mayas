@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tujaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintujaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calentar usando ramas para bajar vapor en el temascal",
+  "definitionDialect": "General",
+  "additional_text": "vtd Raíz S Tuuj",
+  "examples": [
+    {
+      "example_maya": "Kintujaj li yawabʼ pa tuj",
+      "example_spa": "Voy a bajarle el vapor al enfermo con las ramas medicinales",
+      "dialect": null
+    }
+  ],
+  "uuid": "6237acc8-a284-4975-a82f-442ffd969711"
+}

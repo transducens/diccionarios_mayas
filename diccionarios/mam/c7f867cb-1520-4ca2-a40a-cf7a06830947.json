@@ -1,0 +1,23 @@
+{
+  "entryWord": "WACHʼ WACHʼ",
+  "definition": "ruido de una unión o articulación",
+  "additional_text": "af raíz wachʼ af",
+  "examples": [
+    {
+      "example_maya": "Wachʼ nnipan tqʼabʼ xjal toqnaj",
+      "example_spa": "\"Wachʼ \", está rechinando la mano quebrada de la persona",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Wachʼ wachʼ, nnipan t-xuʼk nnok qmakoʼn",
+      "example_spa": "\"Wachʼ wachʼ \", le hacen sus costillas cuando lo estamos tocando",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c7f867cb-1520-4ca2-a40a-cf7a06830947",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

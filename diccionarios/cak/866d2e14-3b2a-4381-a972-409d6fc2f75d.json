@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sokotajik",
+  "definition": "Cortada, herida",
+  "additional_text": "SCV Nusokotajik",
+  "examples": [
+    {
+      "example_maya": "Ri nusokotajik yalan niqʼaxon",
+      "example_spa": "Me duele mucho mi herida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq nok ruyaʼal jun sokotajik, kʼa runaj nikʼachoj",
+      "example_spa": "Cuando le entra agua a una herida, cuesta que sane",
+      "dialect": null
+    }
+  ],
+  "uuid": "866d2e14-3b2a-4381-a972-409d6fc2f75d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

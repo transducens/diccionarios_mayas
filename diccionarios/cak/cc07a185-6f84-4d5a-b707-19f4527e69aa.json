@@ -1,0 +1,23 @@
+{
+  "entryWord": "Likʼilik",
+  "definition": "Boca ancha, tinaja, canasta",
+  "additional_text": "AdjD",
+  "examples": [
+    {
+      "example_maya": "Ri wanaʼ kʼo jun rukukuʼ likʼilik ruchiʼ",
+      "example_spa": "Mi hermana tiene una tinaja de boca ancha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nuteʼ xubʼan jun ruchakach likʼilik ruchiʼ",
+      "example_spa": "Mi mamá elaboró una canasta de boca ancha",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc07a185-6f84-4d5a-b707-19f4527e69aa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

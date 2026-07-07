@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rismal rij wachaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Rismal rij nuwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ceja",
+  "definitionDialect": "",
+  "additional_text": "sr",
+  "examples": [
+    {
+      "example_maya": "Li rismal rij wachaj pwi li bʼaqʼwach kʼo wih",
+      "example_spa": "Las cejas están arriba de los ojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea896d8d-2919-43ef-85df-44e31de7caa3"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Puk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chapeo",
+  "definitionDialect": "",
+  "additional_text": "SInv Nupuuk Fbas //Puhk//",
+  "examples": [
+    {
+      "example_maya": "Li achih tajin kubʼan upuk pa li abʼix, ma nimaʼq chi li qʼayes",
+      "example_spa": "El hombre está chapeando en la milpa porque ya está grande la hierba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Puk are riʼ ujosqʼixik abʼix che muruh",
+      "example_spa": "Chapeo: es la limpia de la milpa con machete",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "04d7b0be-ddb3-4e7d-9cb3-090596fb4b10"
+}

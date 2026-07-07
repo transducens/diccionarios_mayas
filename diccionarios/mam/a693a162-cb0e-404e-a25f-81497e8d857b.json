@@ -1,0 +1,18 @@
+{
+  "entryWord": "JA",
+  "definition": "¿dónde?",
+  "additional_text": "pi raíz ja par",
+  "examples": [
+    {
+      "example_maya": "¿Ja taʼ nxbʼalana tuʼna nan?",
+      "example_spa": "¿Dónde tenés mi ropa mamá?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a693a162-cb0e-404e-a25f-81497e8d857b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

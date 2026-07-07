@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kimam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tipo de maguey, poco durable",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukimaan",
+  "examples": [
+    {
+      "example_maya": "Li kimam nima junam rukʼ li kih, chema na ko taj",
+      "example_spa": "Este maguey se revienta rápido",
+      "dialect": null
+    }
+  ],
+  "uuid": "908fb3aa-e9c8-468e-aa37-0dc94b437b63"
+}

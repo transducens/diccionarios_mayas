@@ -1,0 +1,19 @@
+{
+  "entryWord": "Met",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Algodón en mata, o en semilla todavía",
+  "definitionDialect": "",
+  "additional_text": "SInv Numeet //Meht// Var Bʼoot",
+  "examples": [
+    {
+      "example_maya": "Li met are laʼ kabʼan bʼatz chech",
+      "example_spa": "Del algodón se hace el hilo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5573f6d-98e0-49e2-99c3-61f0eb093ba7"
+}

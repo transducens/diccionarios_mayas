@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pisik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Envolver en tela, papel o en hojas",
+  "definitionDialect": "",
+  "additional_text": "vtR Kinpisoh Raíz VT Pis",
+  "examples": [
+    {
+      "example_maya": "Kinpis na li lij pa li pisbʼal wah",
+      "example_spa": "Tengo que envolver las tortillas en la servilleta",
+      "dialect": null
+    }
+  ],
+  "uuid": "f1652a08-71d9-4412-b44e-f1dbba861377"
+}

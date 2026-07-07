@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼilixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tostar granos o habas; freír",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTD Kinkʼiliij Raiz VT Kʼil",
+  "examples": [
+    {
+      "example_maya": "Li ixoq, kapeh tajin kukʼilij pa li xot",
+      "example_spa": "La mujer está tostando café en el comal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tiʼj aq we kaqakʼilij, qʼan kubʼanoh, xuq kiʼ",
+      "example_spa": "Al freír la carne de marrano, sale dorada y sabrosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a576de81-b917-468e-b125-5fcf2b29d8ed"
+}

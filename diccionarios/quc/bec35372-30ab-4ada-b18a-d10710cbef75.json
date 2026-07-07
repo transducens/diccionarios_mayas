@@ -1,0 +1,19 @@
+{
+  "entryWord": "Upaqanaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Upa waqan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Planta del pie",
+  "definitionDialect": "",
+  "additional_text": "sds Raíz s Aqan",
+  "examples": [
+    {
+      "example_maya": "Xsokotaj upa waqan rumal sibʼalaj binem",
+      "example_spa": "Me lastimé la planta del pie por caminar mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "bec35372-30ab-4ada-b18a-d10710cbef75"
+}

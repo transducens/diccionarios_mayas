@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xakʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxakʼoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse las manos de nenes; zancadas",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VT Xakʼ",
+  "examples": [
+    {
+      "example_maya": "Li neʼ kaxakʼoʼp pa li ukusul",
+      "example_spa": "El nene está moviendo las manos en su cuna",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Kuʼ kaxakʼoʼpik xokʼow pwi taq li abʼaj pa li jaʼ",
+      "example_spa": "Domingo pasó dando zancadas sobre las piedras en el río",
+      "dialect": null
+    }
+  ],
+  "uuid": "7706314c-1f2a-4044-83cb-26e73c1b92d8"
+}

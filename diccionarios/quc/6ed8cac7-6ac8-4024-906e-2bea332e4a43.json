@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chenekotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar hierbas",
+  "definitionDialect": "",
+  "additional_text": "vI Kachenekotik Raíz VT Chen",
+  "examples": [
+    {
+      "example_maya": "Li Luʼ kachenekot chrij li ja",
+      "example_spa": "Pedro está cortando las hierbas atrás de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ed8cac7-6ac8-4024-906e-2bea332e4a43"
+}

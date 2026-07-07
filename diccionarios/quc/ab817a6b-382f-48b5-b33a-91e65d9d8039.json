@@ -1,0 +1,24 @@
+{
+  "entryWord": "Toqʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar del brazo; sostener personas o cosas",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintooqʼaaj",
+  "examples": [
+    {
+      "example_maya": "Kintoqʼaj bʼi li achih, ma xa yawabʼ",
+      "example_spa": "Voy a sostener al hombre porque está enfermo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintoqʼaj na li ja chech jun xataʼt are chi na kaqaj taj",
+      "example_spa": "Voy a sostener la casa con un horcón para que no se caiga",
+      "dialect": null
+    }
+  ],
+  "uuid": "ab817a6b-382f-48b5-b33a-91e65d9d8039"
+}

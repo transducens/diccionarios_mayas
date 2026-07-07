@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kamlibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Usado; de segunda mano",
+  "definitionDialect": "",
+  "additional_text": "scv Nukaamtibʼal Raiz N Kaa",
+  "examples": [
+    {
+      "example_maya": "Pa kʼayʼʼbʼal ko kamlibʼal taq atzʼyaq kakʼayixik",
+      "example_spa": "En el mercado venden ropa usada",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce4abb65-0666-45ba-acee-ae68cbb05aa5"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tzʼajik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzʼajoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pintar; teñir; lustrar",
+  "definitionDialect": "General",
+  "additional_text": "VTR Raíz VT Tzʼaj",
+  "examples": [
+    {
+      "example_maya": "Kintzʼaj na li chakatebʼ",
+      "example_spa": "Voy a pintar la mesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼanal sant kutzʼaj li sant",
+      "example_spa": "El escultor pinta la imagen",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah, kutzʼaj na li uxyal",
+      "example_spa": "El muchacho va a teñir su cotón",
+      "dialect": null
+    }
+  ],
+  "uuid": "61b9d550-95de-4062-becb-3434b209d1a0"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Awabʼej",
+  "definition": "Presidente, gobernante, rey Jefe de una nación o institución",
+  "additional_text": "sInv Inʼawabʼej",
+  "examples": [
+    {
+      "example_maya": "Maakʼaʼ kʼaʼuxlak awabʼej li walal",
+      "example_spa": "No hay pena mi hijo es el presidente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maakʼaʼ xyaalal naq naqaxaqabʼ qaʼawabʼej yal nakeʼrisi aj wiʼ",
+      "example_spa": "A los presidentes les dan golpe de Estado",
+      "dialect": null
+    }
+  ],
+  "uuid": "a47bed96-b8b7-4125-8572-830b132e40a4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

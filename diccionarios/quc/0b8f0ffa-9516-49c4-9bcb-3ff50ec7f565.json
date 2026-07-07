@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yilixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deshacer montones de tierra, arena, maíz y otros granos",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinyiliij Raíz VT Yil",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuyilij li saqkowin mulim",
+      "example_spa": "El niño deshizo el montón de arena",
+      "dialect": null
+    }
+  ],
+  "uuid": "0b8f0ffa-9516-49c4-9bcb-3ff50ec7f565"
+}

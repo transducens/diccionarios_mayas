@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mesmotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pasar rozando; llenarse recipiente; llenar al ras",
+  "definitionDialect": "",
+  "additional_text": "vi Komesmotik Raíz VT Mes",
+  "examples": [
+    {
+      "example_maya": "Li altamow\" si xmesmot chwa li tanatik",
+      "example_spa": "El carro pasó rozando la peña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chakach xaq xmesmot che ixim",
+      "example_spa": "La canasta se llenó de maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "78ffc714-6620-467c-832f-f8cfb41687c5"
+}

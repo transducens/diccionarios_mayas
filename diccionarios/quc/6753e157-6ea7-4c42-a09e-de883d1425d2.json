@@ -1,0 +1,24 @@
+{
+  "entryWord": "Toʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "toʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ayudar; defender",
+  "definitionDialect": "General",
+  "additional_text": "vTR Kintoʼoh Raíz VT Toʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xbʼe cheh utoʼik li utat",
+      "example_spa": "El niño se fue a ayudar a su padre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintoʼ na li achih cheh uwokik li roʼch",
+      "example_spa": "Tengo que ayudar al hombre a construir la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "6753e157-6ea7-4c42-a09e-de883d1425d2"
+}

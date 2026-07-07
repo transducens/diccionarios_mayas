@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pajajink",
+  "definition": "Regar granos con frecuencia",
+  "additional_text": "VTD Xinpajaji",
+  "examples": [
+    {
+      "example_maya": "Lix tiin xkoʼo chi pajajink ixim rehebʼ li kaxlan",
+      "example_spa": "Albertina se fue a regar maíz para las gallinas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kamyon yo chi pajajink pek saʼ bʼe",
+      "example_spa": "El camión está regando piedras en el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac96ad0e-7457-479d-9c83-b06d73c6b991",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

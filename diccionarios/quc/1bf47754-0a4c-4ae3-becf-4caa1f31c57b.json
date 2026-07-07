@@ -1,0 +1,24 @@
+{
+  "entryWord": "Oqʼotaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwoqʼotaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener esperanza; esperar (tener esperanza); anhelar",
+  "definitionDialect": "",
+  "additional_text": "vtD Raíz VT Oqʼot",
+  "examples": [
+    {
+      "example_maya": "Mawoqʼotaj, kinpe chwaʼ",
+      "example_spa": "No tengás esperanza porque no volveré",
+      "dialect": null
+    },
+    {
+      "example_maya": "We xatzaq ri asuʼt, chawoqʼotaj kinloqʼ chi jun aninaq",
+      "example_spa": "Si perdiste tu sute, no vayás a esperar que te compre otro",
+      "dialect": null
+    }
+  ],
+  "uuid": "1bf47754-0a4c-4ae3-becf-4caa1f31c57b"
+}

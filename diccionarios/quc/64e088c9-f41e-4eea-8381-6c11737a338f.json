@@ -1,0 +1,19 @@
+{
+  "entryWord": "Karos",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaros",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Corozo",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS Wiqobʼal Del Cast Corozo",
+  "examples": [
+    {
+      "example_maya": "Li karos kachokon che wiqobʼal pa taq koresm",
+      "example_spa": "El corozo se usa como adorno en cuaresma",
+      "dialect": null
+    }
+  ],
+  "uuid": "64e088c9-f41e-4eea-8381-6c11737a338f"
+}

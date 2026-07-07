@@ -1,0 +1,49 @@
+{
+  "entryWord": "Wuqʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xwuqʼiʼk, xuwuqʼubʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acurrucado; pollo, gato o persona; encogido: pollo, gato o persona; escondido: gato o persona; echada: gallina; esperando",
+  "definitionDialect": "General",
+  "additional_text": "P Raiz P Wuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, xaq wuqʼulik, ma sibʼalaj tew kunaʼoh",
+      "example_spa": "El hombre está acurrucado porque siente mucho frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li meʼs xaq wuqʼulik, ma xa riyeʼm li chʼoh",
+      "example_spa": "El gato está acurrucado, porque está esperando al ratón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼ wuqʼulik, ma xa tajin kasikʼowik",
+      "example_spa": "La gallina está echada porque está poniendo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajchak xaq wuqʼul pa li unayʼl, na utz taj kachakunik, ma xa katajin jabʼ",
+      "example_spa": "El trabajador está acurrucado en el nailon, porque no puede trabajar por la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼ xaq wuqʼul chwa li jabʼ",
+      "example_spa": "La gallina está encogida bajo la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li elaqʼom wuqʼul pa taq li qʼayes",
+      "example_spa": "El ladrón está escondido en el monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Luʼ naj xwuqʼiʼ chawiyeʼxik",
+      "example_spa": "Pedro estuvo esperándote mucho tiempo",
+      "dialect": null
+    }
+  ],
+  "uuid": "39faf72b-2baa-422d-9fe8-b9e92411aea2"
+}

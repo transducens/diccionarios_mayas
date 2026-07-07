@@ -1,0 +1,24 @@
+{
+  "entryWord": "=Xaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoja de plantas o de papel; llama de fuego",
+  "definitionDialect": "Spanish",
+  "additional_text": "ssp Uxaq",
+  "examples": [
+    {
+      "example_maya": "Li uxaq taq li cheʼ xuq li tikoʼn sibʼalaj rax",
+      "example_spa": "Las hojas de los árboles y de las siembras son muy verdes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uxaq li wuj sibʼalaj saq",
+      "example_spa": "Las hojas del libro son muy blancas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6dc953e4-9cde-4c34-b9c1-ef95462c63ce"
+}

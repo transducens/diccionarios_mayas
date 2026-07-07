@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼichichexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desgranar con fuerza",
+  "definitionDialect": "general",
+  "additional_text": "VTD Kinbʼichichej Sinón Bʼiqiqexik Raíz VT Bʼich",
+  "examples": [
+    {
+      "example_maya": "Li sibʼalaj xubʼichichej li jal",
+      "example_spa": "El muchacho desgranó la mazorca con mucha fuerza",
+      "dialect": null
+    }
+  ],
+  "uuid": "06dc0477-4bc6-49cb-9964-09828db1c62e"
+}

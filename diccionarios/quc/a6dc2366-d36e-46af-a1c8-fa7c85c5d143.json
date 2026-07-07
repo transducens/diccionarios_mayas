@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uul\"",
+  "entryWordDialect": "SIov",
+  "altEntryWord": "Nuʼul\"",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Honda; hule",
+  "definitionDialect": "General",
+  "additional_text": "DomS Kʼaqabʼal",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kʼo uʼul\" kukʼaqabʼej tzʼikin",
+      "example_spa": "El niño tiene honda para tirarle a los pájaros",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6dc2366-d36e-46af-a1c8-fa7c85c5d143"
+}

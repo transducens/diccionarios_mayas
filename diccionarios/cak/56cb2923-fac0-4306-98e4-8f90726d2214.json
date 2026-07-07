@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ajil (ajäl)",
+  "definition": "Precio, salario, sueldo, recompensa",
+  "additional_text": "sInv Wajil (wajäl) Var Ejqalen, tojbʼäl",
+  "examples": [
+    {
+      "example_maya": "Wakamin nibʼix chi nijoteʼ ri ajäl",
+      "example_spa": "Ahora dicen que subirá el salario",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wakx xinloqʼ yalan jotöl rajil",
+      "example_spa": "Mi ganado que compré es muy caro",
+      "dialect": null
+    }
+  ],
+  "uuid": "56cb2923-fac0-4306-98e4-8f90726d2214",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

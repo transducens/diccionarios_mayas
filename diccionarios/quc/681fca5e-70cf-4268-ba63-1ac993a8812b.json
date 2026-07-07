@@ -1,0 +1,29 @@
+{
+  "entryWord": "Chupik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchupuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apagar; borrar; gastar dinero Encender y apagar luces Apagar Brillar Luciérnaga Primera ceremonia de casamiento",
+  "definitionDialect": "",
+  "additional_text": "vtr vt Chuplixik vt Chupisaxik vi Chupchuteem sc Chupiqʼaaqʼ scl Chupbʼal qʼaaqʼ Raiz VT Chup",
+  "examples": [
+    {
+      "example_maya": "Kinchup li qʼaqʼ",
+      "example_spa": "Apago el fuego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinchup na li xutzʼibʼaj li achih chwa li tzʼalam tzʼibʼabʼal",
+      "example_spa": "Tengo que borrar lo que escribió el hombre en el pizarrón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xukʼis uchupik li urajil",
+      "example_spa": "El hombre terminó de gastarse el dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "681fca5e-70cf-4268-ba63-1ac993a8812b"
+}

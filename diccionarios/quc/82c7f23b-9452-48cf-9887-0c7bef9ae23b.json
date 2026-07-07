@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼakʼokel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona entrante o nueva en un cargo o empleo",
+  "definitionDialect": "",
+  "additional_text": "sc Ant Eleel",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun winaq kʼakʼokel chech qʼatal tzij",
+      "example_spa": "Tenemos una nueva persona como Juez",
+      "dialect": null
+    }
+  ],
+  "uuid": "82c7f23b-9452-48cf-9887-0c7bef9ae23b"
+}

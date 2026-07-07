@@ -1,0 +1,23 @@
+{
+  "entryWord": "Je",
+  "definition": "No afirmativa, es para decir que uno está presto para escuchar, al que le está hablando, es un sí relativo",
+  "additional_text": "Par Si",
+  "examples": [
+    {
+      "example_maya": "Je yeʼ, je yaʼ",
+      "example_spa": "Si hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Je na kʼa",
+      "example_spa": "Probemos pues",
+      "dialect": null
+    }
+  ],
+  "uuid": "13480aa0-60d0-4341-a94a-f9570089014b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

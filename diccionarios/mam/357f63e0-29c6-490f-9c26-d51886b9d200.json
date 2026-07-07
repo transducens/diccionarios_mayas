@@ -1,0 +1,18 @@
+{
+  "entryWord": "TLOOM",
+  "definition": "lado del machete, cara del machete",
+  "additional_text": "sy kylom del español lomo",
+  "examples": [
+    {
+      "example_maya": "Junx tlom machit xtiqa",
+      "example_spa": "Sólo un golpe con el lado del machete recibió",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "357f63e0-29c6-490f-9c26-d51886b9d200",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

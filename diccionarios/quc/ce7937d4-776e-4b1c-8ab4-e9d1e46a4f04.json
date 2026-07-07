@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sepelik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xsepiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xusepebʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Sentado sobre las espinillas, con piernas dobladas; hinchado como piquete de zancudo",
+  "definitionDialect": "",
+  "additional_text": "p Raíz S Sep",
+  "examples": [
+    {
+      "example_maya": "Konojel ixoqibʼ e qawinaqil puliw kesepiʼ wih",
+      "example_spa": "Todas las mujeres indígenas se sientan en el suelo sobre las espinillas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xsepiʼ utyoʼbʼal li staʼl, kaqʼoxowik",
+      "example_spa": "Se me hinchó el piquete de la avispa y me duele mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce7937d4-776e-4b1c-8ab4-e9d1e46a4f04"
+}

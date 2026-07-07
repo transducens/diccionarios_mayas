@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xurukʼukʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tortolita",
+  "definitionDialect": "",
+  "additional_text": "SoP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li xurukʼukʼ xaq e junam kukʼ li pum, chema are e koʼkoj",
+      "example_spa": "Las tortolitas tienen el mismo color que las mariquitas, pero son pequeñas",
+      "dialect": null
+    }
+  ],
+  "uuid": "710d8dc5-a384-4d4f-9e31-503df4f96609"
+}

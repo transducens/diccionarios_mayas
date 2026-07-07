@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tobʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ayuda",
+  "definitionDialect": "",
+  "additional_text": "sv",
+  "examples": [
+    {
+      "example_maya": "Konojel winaq xebʼe pa tobʼik rukʼ li achih cheh uwokik li roʼch",
+      "example_spa": "Toda la gente fue a darle una ayuda al hombre para construir su casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "7c87766e-244e-445a-a4af-cdd2e21620cc"
+}

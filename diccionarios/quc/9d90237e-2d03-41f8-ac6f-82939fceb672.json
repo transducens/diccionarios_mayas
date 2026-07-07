@@ -1,0 +1,19 @@
+{
+  "entryWord": "Toqolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flojo al jalar, o bien ropa que se lleva puesta",
+  "definitionDialect": "General",
+  "additional_text": "p Xtoqiʼk, xutoqobʼaʼ Raíz PT Toq",
+  "examples": [
+    {
+      "example_maya": "Li ratzʼyaq li alaj a Miʼn toqolik ma xa xjekʼ kumal li rachiʼil",
+      "example_spa": "La camisa de Minguito le queda floja porque fue jalada por sus compañeros",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d90237e-2d03-41f8-ac6f-82939fceb672"
+}

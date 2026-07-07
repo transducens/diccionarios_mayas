@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼichʼ",
+  "definition": "Metal, hierro Cualquier cosa hecha de metal",
+  "additional_text": "sInv Nuchʼichʼ",
+  "examples": [
+    {
+      "example_maya": "Ri nusamajibʼal (ruyon) e chʼichʼ",
+      "example_spa": "Mis herramientas son de hierro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chʼichʼ nikʼatzin chi nibʼan samajbʼäl chi re",
+      "example_spa": "El hierro sirve para hacer herramientas",
+      "dialect": null
+    }
+  ],
+  "uuid": "20c1a55d-399b-4251-acd2-c6682d4fae59",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

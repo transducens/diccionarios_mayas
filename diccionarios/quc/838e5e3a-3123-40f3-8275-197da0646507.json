@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qebʼelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentado en el suelo o en silla, sin hablar",
+  "definitionDialect": "",
+  "additional_text": "p Xqebʼiʼk, xuqebʼebʼaʼ Raíz P Qebʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq qebʼelik, na katzijon taj",
+      "example_spa": "El hombre está sentado solo no platica",
+      "dialect": null
+    },
+    {
+      "example_maya": "Konojel li winaq xeqebʼiʼ chwi taq li pankuʼ",
+      "example_spa": "Toda la gente se sentó en los bancos",
+      "dialect": null
+    }
+  ],
+  "uuid": "838e5e3a-3123-40f3-8275-197da0646507"
+}

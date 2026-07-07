@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzoqopitajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dejar libre a alguien; salir de un trabajo a la hora exacta",
+  "definitionDialect": "",
+  "additional_text": "VI Kintzoqopitajik Raiz PT Tzoq",
+  "examples": [
+    {
+      "example_maya": "Iwir xinok pa cheʼ cher ma xintzoqopitajik ma maj numak",
+      "example_spa": "Ayer me metieron en la cárcel, pero ya me dieron libertad porque no tengo delito",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xetzoqopitaj li ajchakibʼ rumal li ajwanil",
+      "example_spa": "El albañil retiró a los trabajadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0f4e1b8-9bc1-41c4-aed9-985db5d9aaa0"
+}

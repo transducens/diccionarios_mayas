@@ -1,0 +1,18 @@
+{
+  "entryWord": "JAQL",
+  "definition": "1 partido en dos 2 abierto",
+  "additional_text": "p ma kyaj jaqeʼ, ma kyaj tjaqbʼaʼn",
+  "examples": [
+    {
+      "example_maya": "Jaql ja tpon tajwil qaʼla ew",
+      "example_spa": "Estaba abierta la casa, cuando llegó su",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "362bebab-30eb-4fde-aa8c-08b29177ab8d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

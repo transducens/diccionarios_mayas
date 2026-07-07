@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aanim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "A la carrera (rápido)",
+  "definitionDialect": "General",
+  "additional_text": "sv Waaniim Raíz VI Ahn",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal anim xbʼe chukʼulaxik li utat",
+      "example_spa": "El muchachito se fue a la carrera a encontrar a su papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "20679bba-096c-40c6-a412-8bafb6b577fa"
+}

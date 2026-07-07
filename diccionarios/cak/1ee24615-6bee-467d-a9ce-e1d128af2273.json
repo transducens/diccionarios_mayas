@@ -1,0 +1,33 @@
+{
+  "entryWord": "Utz (ütz)",
+  "definition": "Bueno, buen, bondadoso Bonito, precioso",
+  "additional_text": "Adj Rutzil, xutzir, xutzïr Ant Itzel",
+  "examples": [
+    {
+      "example_maya": "E kʼo winäq ri yalan kutzil chre ronojel",
+      "example_spa": "Hay personas que son muy bondadosas en todo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wawän ütz chik nibʼolojix",
+      "example_spa": "Mi milpa ya está buena para que la surqueen",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wixjayil chanin xutzïr ri runaʼoj",
+      "example_spa": "Mi mujer luego se puso de buen carácter",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ütz ök",
+      "example_spa": "Bonito, precioso",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ee24615-6bee-467d-a9ce-e1d128af2273",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

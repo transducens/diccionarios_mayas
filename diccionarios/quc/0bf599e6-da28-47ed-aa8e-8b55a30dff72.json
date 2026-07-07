@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qaweʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quemado",
+  "definitionDialect": "General",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li sin lij sibʼalaj qaweʼl",
+      "example_spa": "La tortilla está muy quemada",
+      "dialect": null
+    }
+  ],
+  "uuid": "0bf599e6-da28-47ed-aa8e-8b55a30dff72"
+}

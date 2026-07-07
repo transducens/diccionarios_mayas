@@ -1,0 +1,49 @@
+{
+  "entryWord": "Koh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fuerte; duro; listo; vivo (como inteligente); valiente; macizo; verde; recio (al hablar); crecido; maduro",
+  "definitionDialect": "",
+  "additional_text": "Adj Ukuwiil, xkowirik Fbas //Kow// SSP Ukowiil (sin Bʼaqʼ) Organo sexual del hombre; madurez del hombre SDS Kowilaj winaq Persona valiente o fuerte SDS Ukowil aanimah Valor del espíritu SDS Ukowil kʼuʼx Valor del espíritu Raíz Adj Kow",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ kojom chech li raqan lus sibʼalaj koh",
+      "example_spa": "El hierro del poste de luz es muy fuerte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kʼisis are koh chwach nikʼaj chi cheʼ",
+      "example_spa": "El ciprés es más duro que otros árboles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sin laj akʼal sibʼalaj koh",
+      "example_spa": "El niño pequeño es muy listo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼinom kʼa, rax",
+      "example_spa": "Los jocotes todavía están verdes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah, sibʼalaj kowilaj winaq",
+      "example_spa": "El muchacho es muy valiente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tijoxel koh kubʼij li utzij",
+      "example_spa": "El alumno recita recio su poema",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li neʼ xkowirik rumal riʼ kabʼin chik",
+      "example_spa": "El nene ha crecido mucho y ya camina",
+      "dialect": null
+    }
+  ],
+  "uuid": "3f03bbd1-c40f-4349-af87-a26b9ca90f1e"
+}

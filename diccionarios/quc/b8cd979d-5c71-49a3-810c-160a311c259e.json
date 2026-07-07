@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pixabʼanel",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupixabʼanel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Citador; consejero",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li pixabʼanel nimalaj krunspal chik",
+      "example_spa": "El consejero es un anciano principal",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8cd979d-5c71-49a3-810c-160a311c259e"
+}

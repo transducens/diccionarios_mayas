@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzukʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtzukʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xutzukʼubʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Encendido; caliente por mucha temperatura en una persona",
+  "definitionDialect": "",
+  "additional_text": "p Raíz PT Tzukʼ",
+  "examples": [
+    {
+      "example_maya": "Li kotzʼiʼj kʼa tzukʼulik",
+      "example_spa": "La candela todavía está encendida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal sibʼalaj tzukʼul pa qʼaqʼ",
+      "example_spa": "El niño tiene muy alta la temperatura",
+      "dialect": null
+    }
+  ],
+  "uuid": "1e80e7e1-72f7-4649-becd-b47b627ca34f"
+}

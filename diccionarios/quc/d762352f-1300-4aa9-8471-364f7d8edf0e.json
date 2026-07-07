@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kwentayixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkwentayij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mantener con alimentación y dinero a un mozo",
+  "definitionDialect": "",
+  "additional_text": "VTD Del Cast Cuenta",
+  "examples": [
+    {
+      "example_maya": "Li achih xukwentayij li umokom",
+      "example_spa": "El hombre le dio alimentación al mozo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d762352f-1300-4aa9-8471-364f7d8edf0e"
+}

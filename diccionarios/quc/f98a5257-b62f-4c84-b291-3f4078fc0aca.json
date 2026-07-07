@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xqʼatiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuqʼatabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Pendiente; suspendido; interrumpido",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Qʼat",
+  "examples": [
+    {
+      "example_maya": "Li chak qʼatalik ma xa kʼo nimaqʼij tajin kabʼanik",
+      "example_spa": "El trabajo está pendiente, porque están celebrando una fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "f98a5257-b62f-4c84-b291-3f4078fc0aca"
+}

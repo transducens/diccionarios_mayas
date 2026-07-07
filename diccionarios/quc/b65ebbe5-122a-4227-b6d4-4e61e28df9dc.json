@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yuqyuʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estirado: lazo por el uso",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz P Yuq",
+  "examples": [
+    {
+      "example_maya": "Li kolobʼ sibʼalaj yuqyuʼx chik, ma qʼeʼl chik",
+      "example_spa": "El lazo ya está muy estirado, porque está viejo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b65ebbe5-122a-4227-b6d4-4e61e28df9dc"
+}

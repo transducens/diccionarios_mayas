@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar manojo bajo el brazo",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinkʼaaleej Raíz VT Kʼal",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xa xukʼalej bʼi li siʼ ma xa maj ukolobʼ",
+      "example_spa": "El niño se llevó el manojo de leña bajo el brazo, porque no tenía lazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "19cda9b1-86eb-4627-87fd-830e6bd7cd70"
+}

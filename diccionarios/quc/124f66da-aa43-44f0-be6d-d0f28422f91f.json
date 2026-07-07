@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sant",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Santo; imagen",
+  "definitionDialect": "",
+  "additional_text": "sInv Nusaant Del Cast Santo",
+  "examples": [
+    {
+      "example_maya": "Li winaq chwa li sant kexukiʼ wih",
+      "example_spa": "La gente se arrodilla ante los Santos",
+      "dialect": null
+    }
+  ],
+  "uuid": "124f66da-aa43-44f0-be6d-d0f28422f91f"
+}

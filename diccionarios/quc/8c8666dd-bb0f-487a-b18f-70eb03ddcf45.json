@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tartaʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desbaratado; hecho lata; atarantado; arruinado; descompuesto",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz P Tar",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ sibʼalaj sin tartaʼx chik",
+      "example_spa": "El carro ya está desbaratado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah xa tartaʼx",
+      "example_spa": "El muchacho es atarantado",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c8666dd-bb0f-487a-b18f-70eb03ddcf45"
+}

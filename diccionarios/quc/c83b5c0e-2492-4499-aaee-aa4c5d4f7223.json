@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yitzʼilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suave: tierra; floja: tierra; lodo",
+  "definitionDialect": "",
+  "additional_text": "P Xyitzʼiʼk Raiz P Yitzʼ",
+  "examples": [
+    {
+      "example_maya": "Pa taq li qʼalaj sibʼalaj yitzʼil li uliw",
+      "example_spa": "Durante el invierno hay mucho lodo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c83b5c0e-2492-4499-aaee-aa4c5d4f7223"
+}

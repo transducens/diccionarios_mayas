@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nukʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunukʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casa de entrenamiento",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Pa nukbʼal kakimulij wi kibʼ li ajxojolobʼ",
+      "example_spa": "En la casa de entrenamiento se reunen los bailadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1c76821-1562-4af4-8192-4dc1721bfbae"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "TZIIQʼAT",
+  "definition": "1 varejonear, chicotear 2 aporrear maíz",
+  "additional_text": "vt tziqʼal te, tziqʼan, ma bʼaj ntziqʼana raíz tziqʼ adj",
+  "examples": [
+    {
+      "example_maya": "Tuʼnx tech xbʼaj tziqʼan ni tal nuʼẍ tuʼn ttxuʼ",
+      "example_spa": "Fue completamente chicoteado el nene por su mamá",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Kelal tziqʼat jal tuj xyubʼ nan?",
+      "example_spa": "¿Se va a aporrear la mazorca que está en la red mamá?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "fdf0f053-2b53-4396-a4bb-ff1f0b04db4a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

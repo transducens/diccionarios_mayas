@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tebʼetik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cosa gruesa",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz PT Tebʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih reqam jun tebʼetik tzʼalam",
+      "example_spa": "El hombre lleva cargada una tabla gruesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c3953b1b-22db-45a6-9447-0020fdd4a89e"
+}

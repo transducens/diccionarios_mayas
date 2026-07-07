@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koropixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aflojar una cosa que está bien amarrada",
+  "definitionDialect": "",
+  "additional_text": "vTD Kinkoropiij vI Koropijeem Aflojarse Raíz P Kor",
+  "examples": [
+    {
+      "example_maya": "Li achih xukoropij li ubʼakeʼt mel xa kʼoh ujatʼim",
+      "example_spa": "El hombre se aflojó el cincho, porque lo tenía bien asegurado",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb19683e-b134-4cb9-84f1-69544db2387d"
+}

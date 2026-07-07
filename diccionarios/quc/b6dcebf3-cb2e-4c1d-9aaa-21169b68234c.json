@@ -1,0 +1,24 @@
+{
+  "entryWord": "Lukulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblado como arco; arqueado",
+  "definitionDialect": "es",
+  "additional_text": "Adj Raiz P Luk",
+  "examples": [
+    {
+      "example_maya": "Li sin nim raqan sibʼalaj lukulik",
+      "example_spa": "El bambú se dobla por ser largo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alambr\" lukulik, na kachokon ta chik",
+      "example_spa": "El alambre ya no sirve porque está doblado",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6dcebf3-cb2e-4c1d-9aaa-21169b68234c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Walixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwalij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pintar las manos con \"waliiʼ",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz vt Wal",
+  "examples": [
+    {
+      "example_maya": "Chaqʼabʼ kamik kinwalij li nuqʼabʼ pa waliʼ",
+      "example_spa": "Esta noche voy a pintarme las manos con waliiʼ",
+      "dialect": null
+    }
+  ],
+  "uuid": "85cc8eb7-827b-4be6-9450-80e695d21681"
+}

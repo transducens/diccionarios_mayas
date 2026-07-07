@@ -1,0 +1,19 @@
+{
+  "entryWord": "Runum uliw",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lombriz de tierra",
+  "definitionDialect": "sds.",
+  "additional_text": "Raíz S Unum Raíz S Uleew DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li runum uliw kakichʼuchʼujirsaj li uliw",
+      "example_spa": "Las lombrices de tierra, la aflojan",
+      "dialect": null
+    }
+  ],
+  "uuid": "4da8028a-c259-4918-9835-64b49547b978"
+}

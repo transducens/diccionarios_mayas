@@ -1,0 +1,19 @@
+{
+  "entryWord": "Peror",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuperor",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Farol",
+  "definitionDialect": "General",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li peror pa taq awas qʼij kachokonik",
+      "example_spa": "El farol se usa para Semana Santa",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e6cf369-56fb-47ad-a8ef-0708e44c2ca5"
+}

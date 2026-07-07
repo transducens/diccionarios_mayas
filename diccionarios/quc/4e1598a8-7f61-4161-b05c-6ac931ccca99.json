@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼarabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Miedo; mi miedo Miedo de entrar a una casa o tomar un cargo",
+  "definitionDialect": "",
+  "additional_text": "sInv Nubʼarabʼ ss Uxiibʼ ubʼarabʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼo nubʼarabʼ chwach li qʼatal tzij",
+      "example_spa": "Tengo miedo de hablarle al juez",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e1598a8-7f61-4161-b05c-6ac931ccca99"
+}

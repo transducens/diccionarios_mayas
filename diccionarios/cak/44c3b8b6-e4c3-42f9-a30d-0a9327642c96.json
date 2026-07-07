@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼobʼonïk",
+  "definition": "Consultar, pensar, meditar, averiguar",
+  "additional_text": "vt Chʼobʼoxik, ninchʼöbʼ var Kʼutunik",
+  "examples": [
+    {
+      "example_maya": "Xinchʼöbʼ ri achike ruma xkän ri nuchaqʼ",
+      "example_spa": "Yo le consulté a él porqué murió mi hermano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun winäq, jun chiköp taq nisach kʼo chi nichʼobʼ",
+      "example_spa": "Si se pierde una persona o un animal es necesario preguntar por ellos",
+      "dialect": null
+    }
+  ],
+  "uuid": "44c3b8b6-e4c3-42f9-a30d-0a9327642c96",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

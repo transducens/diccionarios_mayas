@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzurik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzuruh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Molestar; torear; atacar a personas o animales",
+  "definitionDialect": "General",
+  "additional_text": "VTR Raíz VT Tzur",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kutzur li rachajil",
+      "example_spa": "La mujer está molestando a su esposo",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf356522-3993-4fb8-9d8e-591859096af8"
+}

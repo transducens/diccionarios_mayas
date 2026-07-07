@@ -1,0 +1,23 @@
+{
+  "entryWord": "Puchʼum",
+  "definition": "Lavado: ropa sucia que hay que lavar",
+  "additional_text": "SInv Inpuchʼum",
+  "examples": [
+    {
+      "example_maya": "Xikwe chi xkambʼal inpuchʼum, re li xamaan chalk re",
+      "example_spa": "Voy a traer mi ropa sucia para lavarla la semana que viene",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ inpuchʼum wan",
+      "example_spa": "Tengo mucha ropa sucia para lavar",
+      "dialect": null
+    }
+  ],
+  "uuid": "b800ff03-3f04-4f7a-8f59-5e582e884b0f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Xutʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxutʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Soplar; hinchar; inflar",
+  "definitionDialect": "Raíz vt. Xut'.",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Kinxutʼij na li qʼaqʼ are chi kumajoh",
+      "example_spa": "Voy a soplar el fuego para que arda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼaqʼ na karaj ta xutʼixik, ma xa rax li siʼ",
+      "example_spa": "El fuego no se puede soplar porque la leña está verde",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinxutʼij li qʼaqʼ cheh nuchiʼ",
+      "example_spa": "Voy a soplar el fuego con la boca",
+      "dialect": null
+    }
+  ],
+  "uuid": "d74b05e4-6067-4d1d-8399-e7b26bfd92ec"
+}

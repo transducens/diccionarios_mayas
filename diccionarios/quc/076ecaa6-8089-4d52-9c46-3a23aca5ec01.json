@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatqʼaʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Qʼetqʼeʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Segmentado (de partes unidas, como el cuerpo de algunos animales)",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Raíz VT Qʼat",
+  "examples": [
+    {
+      "example_maya": "Li kibʼaqil li ikan reh qʼumaʼr, qʼatqʼaʼy li kij",
+      "example_spa": "El cuerpo de los gorgojos de palo podrido, es segmentado",
+      "dialect": null
+    }
+  ],
+  "uuid": "076ecaa6-8089-4d52-9c46-3a23aca5ec01"
+}

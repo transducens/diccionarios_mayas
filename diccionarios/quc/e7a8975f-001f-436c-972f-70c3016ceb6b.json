@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzalijem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzalijik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Recaída de enfermedad",
+  "definitionDialect": "",
+  "additional_text": "vt Raiz Vt Tzal",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xtzalij chi la jutij li uyabʼ",
+      "example_spa": "Volvió otra vez la enfermedad al niño",
+      "dialect": null
+    }
+  ],
+  "uuid": "e7a8975f-001f-436c-972f-70c3016ceb6b"
+}

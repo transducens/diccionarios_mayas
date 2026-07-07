@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agua; aguardiente",
+  "definitionDialect": "",
+  "additional_text": "scv Nujaaʼ vi Jaʼreem Disolverse, derretirse VT Jaʼxik Regar ssp Uwaʼaal Jugo, leche, líquido que sale de algo ssp Ujaaʼ Huevo estéril sds Uwa jaʼ Creciente Sinón Joron Sinón Tzaam",
+  "examples": [
+    {
+      "example_maya": "Li ixoqibʼ xeʼkikʼama kijaʼ pa li kʼwaʼ",
+      "example_spa": "Las mujeres se fueron a traer agua al pozo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achijabʼ katajin kakitij jaʼ",
+      "example_spa": "Los hombres están tomando aguardiente",
+      "dialect": null
+    }
+  ],
+  "uuid": "544633a7-7955-4f6d-82f5-254b50600d1d"
+}

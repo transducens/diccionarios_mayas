@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqa kʼaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nigua",
+  "definitionDialect": "",
+  "additional_text": "scL DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kaqa kʼaq koʼk chech li aqanaj",
+      "example_spa": "Las niguas se meten en los dedos de los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9fc1207-ff92-4430-8670-a5ab2e95bced"
+}

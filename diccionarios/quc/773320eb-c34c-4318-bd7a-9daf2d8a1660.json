@@ -1,0 +1,34 @@
+{
+  "entryWord": "Waluxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chapucear; regañar; bañarse en el temascal, jalando el vapor; chicotear; inhalar vapor en el temascal",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinwaaluj Raíz VT Wal",
+  "examples": [
+    {
+      "example_maya": "Li alah, xaq apasa uwaluxik li chak xubʼanoh, xa jun qʼor",
+      "example_spa": "El muchacho chapuceó el trabajo porque es un perezoso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinwaluj na li yawabʼ pa tuj ma xa kʼax upam",
+      "example_spa": "Voy a bañar al enfermo en el temascal porque le duele el estómago",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xwalux li achih, ma xa na xbʼe ta pa chomal",
+      "example_spa": "Regañaron al hombre porque no fue a la reunión",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xwalux li akʼal rumal li utat ma xa xrelaqʼaj pwaq",
+      "example_spa": "El niño fue chicoteado por su papá porque robó dinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "773320eb-c34c-4318-bd7a-9daf2d8a1660"
+}

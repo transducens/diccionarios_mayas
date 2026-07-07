@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tapaʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutapaʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nance",
+  "definitionDialect": "general",
+  "additional_text": "SInv Raiz S Tapaʼl DomS Pruut DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li tapaʼl rajawaxik nal kachʼajik are taq katijowik",
+      "example_spa": "Es necesario lavar bien el nace para comerlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tapaʼl pa taqʼaj kakʼiy wih",
+      "example_spa": "El nance se da en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d0cc898-6a3d-4683-92d6-7736292417f1"
+}

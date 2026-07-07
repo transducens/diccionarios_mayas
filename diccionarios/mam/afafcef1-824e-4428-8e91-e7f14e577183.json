@@ -1,0 +1,23 @@
+{
+  "entryWord": "KOREESMA",
+  "definition": "verano",
+  "additional_text": "s2 ant jbʼalal del español cuaresma",
+  "examples": [
+    {
+      "example_maya": "Kye taʼw kyaq tuj koresma",
+      "example_spa": "Hay mucho calor en el verano",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Jomajx tzqij kʼul tuj koresma bʼix ikyx txʼotxʼjo",
+      "example_spa": "El monte es muy seco en el verano y lo mismo la tierra",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "afafcef1-824e-4428-8e91-e7f14e577183",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

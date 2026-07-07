@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqchʼixchʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bien asada: carne",
+  "definitionDialect": "General",
+  "additional_text": "pc Raíz P Chʼix",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal wah kaqchʼixchʼoj li utiʼ chwa qʼaqʼ",
+      "example_spa": "La cocinera tiene carne bien asada",
+      "dialect": null
+    }
+  ],
+  "uuid": "d02da450-67c6-4121-a387-46af895eb8de"
+}

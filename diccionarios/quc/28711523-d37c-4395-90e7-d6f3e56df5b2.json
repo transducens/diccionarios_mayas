@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qanaqatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqanaqatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quejarse en voz baja",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li alih xa kaqanaqatik are taq kaya utaqkil",
+      "example_spa": "La muchacha se queja cuando le ordenan trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "28711523-d37c-4395-90e7-d6f3e56df5b2"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Patet",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupatet",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Malacate; hilvanadora",
+  "definitionDialect": "",
+  "additional_text": "ssp DomS Chokonisabʼal Del Cast Pateet",
+  "examples": [
+    {
+      "example_maya": "Li patet rech lanah kʼo jun cheʼ ketekik cheh",
+      "example_spa": "El malacate para lana tiene una rueda de madera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li patet re met ixoq kakojowik",
+      "example_spa": "La mujer usa el malacate para algodón",
+      "dialect": null
+    }
+  ],
+  "uuid": "c3aebbc1-9cd1-4061-bf7a-34faef15ef69"
+}

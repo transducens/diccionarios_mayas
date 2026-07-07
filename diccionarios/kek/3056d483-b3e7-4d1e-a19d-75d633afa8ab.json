@@ -1,0 +1,23 @@
+{
+  "entryWord": "Maʼlaq",
+  "definition": "Desde hoy, hace rato",
+  "additional_text": "PartT Sinón Mixk",
+  "examples": [
+    {
+      "example_maya": "Maʼlaq ninkʼulun",
+      "example_spa": "Hace rato que vine",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maʼlaq ninye aawe",
+      "example_spa": "Hace rato que te dije",
+      "dialect": null
+    }
+  ],
+  "uuid": "3056d483-b3e7-4d1e-a19d-75d633afa8ab",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

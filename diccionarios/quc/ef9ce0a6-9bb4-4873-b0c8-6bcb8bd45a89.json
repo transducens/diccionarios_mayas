@@ -1,0 +1,29 @@
+{
+  "entryWord": "Weqelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebradiza: cosa de barro",
+  "definitionDialect": "",
+  "additional_text": "p Xweqiʼk Sinón Weslik Raiz P Weq",
+  "examples": [
+    {
+      "example_maya": "Li xot rech ja weqel chwa li jabʼ",
+      "example_spa": "Las tejas están quebradizas por la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼoja qʼebʼal xweqiʼk, ma xa ronojel qʼij kʼo joron chpam",
+      "example_spa": "La tinaja de barro se puso quebradiza porque todos los dias tiene agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xan kaweqiʼ chwa li jabʼ",
+      "example_spa": "El adobe se pone quebradizo bajo la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "ef9ce0a6-9bb4-4873-b0c8-6bcb8bd45a89"
+}

@@ -1,0 +1,33 @@
+{
+  "entryWord": "Re",
+  "definition": "De él, para él, por él, a él, lo de él, le (A él), suyo (de él)",
+  "additional_text": "SR Var E",
+  "examples": [
+    {
+      "example_maya": "Twaj jun sekʼ inkape",
+      "example_spa": "Quiero una taza de café",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkʼamchaq jun liiwr li tibʼ re waʼlebʼ",
+      "example_spa": "Traje una libra de carne para el almuerzo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wuqubʼ oor re qʼojyin",
+      "example_spa": "Las siete de la noche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ochoch aʼin re li was",
+      "example_spa": "Esta casa es de mi hermano",
+      "dialect": null
+    }
+  ],
+  "uuid": "521ed3ea-104f-4bb8-8846-95156b5dedfa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

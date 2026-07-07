@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tasbʼal qʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "tasbʼal nuqabʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guante",
+  "definitionDialect": "",
+  "additional_text": "ss Nutasbʼal qʼabʼ (tasbʼal nuqabʼ) Raíz PT Tas Raíz S Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼayal chʼichʼ kʼo utasbʼal qʼabʼ kukojoh, are taq kachakunik",
+      "example_spa": "El herrero usa guantes cuando trabaja",
+      "dialect": null
+    }
+  ],
+  "uuid": "ff0bf0eb-e8f3-4dd5-a3f5-f0dc95d291fc"
+}

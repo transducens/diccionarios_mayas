@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tukur",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tecolote",
+  "definitionDialect": "",
+  "additional_text": "snp Fbas //Tuhkur// DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li tukur we kopan chij taq ja, yabʼil kubʼij",
+      "example_spa": "Si llega el tecolote atrás de las casas, es mal agüero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tukur kitaqoʼn kamnaqibʼ",
+      "example_spa": "El tecolote es mensajero de muertos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4aad5bec-5aeb-44cd-9c16-94687733280b"
+}

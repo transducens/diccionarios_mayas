@@ -1,0 +1,19 @@
+{
+  "entryWord": "Repuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quemar; pasar fuego de una cosa a otra",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kinrepuuj Raiz VI Rep",
+  "examples": [
+    {
+      "example_maya": "Li jah xkʼatik, xurepuj chi apan li jun",
+      "example_spa": "La casa se quemó y el fuego pasó a la otra casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc0e96f1-5731-4f67-ad57-dbb30475e928"
+}

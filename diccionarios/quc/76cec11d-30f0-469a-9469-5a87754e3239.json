@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Cheʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tallo",
+  "definitionDialect": "",
+  "additional_text": "ssp Ucheʼaal",
+  "examples": [
+    {
+      "example_maya": "Li ucheʼal taq cheʼ kachokon chech siʼ",
+      "example_spa": "El tallo de los árboles se usa para leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "76cec11d-30f0-469a-9469-5a87754e3239"
+}

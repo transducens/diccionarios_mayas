@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzintzikʼoʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzintzikʼoʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bailar con emoción; rebotar pelota",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzin",
+  "examples": [
+    {
+      "example_maya": "Li alih, katzintzikʼoʼy tzaʼm qʼojom",
+      "example_spa": "La muchacha baila emocionadamente al compás de la marimba",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li pelot sibʼalaj katzintzikʼoʼyik ma xa kikʼ oknaq chech",
+      "example_spa": "La pelota rebota mucho porque es de hule",
+      "dialect": null
+    }
+  ],
+  "uuid": "46cc3b01-0ef7-4b2b-9c92-4f0b4cea1165"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzayixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzayij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Echar sal",
+  "definitionDialect": "",
+  "additional_text": "vtr Raiz VT Tzay",
+  "examples": [
+    {
+      "example_maya": "Kintzayij na li rikil li kʼo pa li tʼuʼy",
+      "example_spa": "Voy a echarle sal a la comida que está en la olla",
+      "dialect": null
+    }
+  ],
+  "uuid": "a531845f-6414-4ee8-957c-b2c9d6caf3cd"
+}

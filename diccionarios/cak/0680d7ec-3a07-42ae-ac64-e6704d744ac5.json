@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ajanïk",
+  "definition": "Labrar, tallar madera o piedra",
+  "additional_text": "VTD Ajaxik, niwajaj ninwajaj Var Juqunïk Ajan",
+  "examples": [
+    {
+      "example_maya": "Täq rubʼanon kan ri winäq nikajaj ri abʼäj",
+      "example_spa": "Anteriormente la gente tallaba piedras",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin jebʼël wetaʼan ninwajaj cheʼ",
+      "example_spa": "Yo puedo labrar bien la madera",
+      "dialect": null
+    }
+  ],
+  "uuid": "0680d7ec-3a07-42ae-ac64-e6704d744ac5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

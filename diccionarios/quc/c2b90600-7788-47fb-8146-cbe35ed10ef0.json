@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼojoʼmanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachʼojoʼmanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lavar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Chʼaj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kachʼojoʼman chuchi li jaʼ",
+      "example_spa": "La mujer está lavando en la orilla del río",
+      "dialect": null
+    }
+  ],
+  "uuid": "c2b90600-7788-47fb-8146-cbe35ed10ef0"
+}

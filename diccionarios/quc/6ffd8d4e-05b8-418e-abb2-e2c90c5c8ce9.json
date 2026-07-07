@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼynajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzʼynajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ladrar el perro al estar amarrado",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzʼuy",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xaq katzʼynajik, ma xa ximom",
+      "example_spa": "El perro ladra porque lo tienen amarrado",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ffd8d4e-05b8-418e-abb2-e2c90c5c8ce9"
+}

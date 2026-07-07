@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kosïk",
+  "definition": "Cansancio",
+  "additional_text": "scv Nukosik",
+  "examples": [
+    {
+      "example_maya": "Taq xinuxlan bʼaʼ, xel el ri nukosik",
+      "example_spa": "Cuando descansé un poco, se me quitó el cansancio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kosïk nuyaʼ awaran",
+      "example_spa": "El cansancio da sueño",
+      "dialect": null
+    }
+  ],
+  "uuid": "789f94a8-f7d1-42af-8011-42329fdd3503",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "POX POX",
+  "definition": "canto del pájaro \"pox\"",
+  "additional_text": "af",
+  "examples": [
+    {
+      "example_maya": "Pox pox, nqʼajt naq pox tjaqʼ tzaj",
+      "example_spa": "\"Pox pox\", canta el \"pox\" abajo de la pinada",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "605c57e0-6c0b-4fc0-b8dd-29aef8de4e88",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

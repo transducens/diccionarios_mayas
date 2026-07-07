@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nima kaqiqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Huracán; viento fuerte con lluvia",
+  "definitionDialect": "General",
+  "additional_text": "scl var Saqʼijal kaqiiqʼ",
+  "examples": [
+    {
+      "example_maya": "Nima kaqiqʼ jabʼ kubʼan pa qʼalaj, kuqasaj cheʼ",
+      "example_spa": "Viento fuerte con lluvia viene en invierno y bota árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c67803a-fa07-478a-a3c0-61f0db21b8c7"
+}

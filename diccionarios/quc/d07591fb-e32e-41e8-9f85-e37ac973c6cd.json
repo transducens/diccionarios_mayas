@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼokoj",
+  "entryWordDialect": "scv",
+  "altEntryWord": "Nuchʼokoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Micoleón",
+  "definitionDialect": "",
+  "additional_text": "scv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li chʼokoj xaqʼan chwi li cheʼ",
+      "example_spa": "El micoleón se subió al árbol",
+      "dialect": null
+    }
+  ],
+  "uuid": "d07591fb-e32e-41e8-9f85-e37ac973c6cd"
+}

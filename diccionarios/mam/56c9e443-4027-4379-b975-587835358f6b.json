@@ -1,0 +1,23 @@
+{
+  "entryWord": "NAAN",
+  "definition": "1 doña, señora 2 mamá",
+  "additional_text": "sz Generalmente se usa como palabra vocativa para llamar a una mujer con respeto, pero también se puede usar como sustantivo no poseído, si está bastante claro a quien se refiere; por ejemplo, entre hermanos pueden hablar de su mamá con “nan”, pero si no está claro, entonces tienen que usar “txubʼaj” raíz nan s",
+  "examples": [
+    {
+      "example_maya": "¿Tzaʼn ma jaʼwal tqʼija nan xalẍ?",
+      "example_spa": "¿Cómo amaneciste señora sales?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma chinx aja siʼwal tukʼ nan",
+      "example_spa": "Me fuí a buscar leña con mi mamá",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "56c9e443-4027-4379-b975-587835358f6b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

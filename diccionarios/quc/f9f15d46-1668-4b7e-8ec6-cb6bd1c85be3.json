@@ -1,0 +1,19 @@
+{
+  "entryWord": "Post",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Posta (se dice en vez de cárcel para animales)",
+  "definitionDialect": "",
+  "additional_text": "SnP",
+  "examples": [
+    {
+      "example_maya": "Li wakax xok pa post ma xa xutij abʼix",
+      "example_spa": "Metí al ganado en la posta porque se comió la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9f15d46-1668-4b7e-8ec6-cb6bd1c85be3"
+}

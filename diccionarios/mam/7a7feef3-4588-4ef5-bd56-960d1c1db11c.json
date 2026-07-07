@@ -1,0 +1,23 @@
+{
+  "entryWord": "IITAT",
+  "definition": "acarrear",
+  "additional_text": "vt ital te, itan, ma bʼaj witana, itbʼil raíz it",
+  "examples": [
+    {
+      "example_maya": "Ma tzʼok titan siʼ tuʼn tlaj jbʼal",
+      "example_spa": "Acarreó la leña por la lluvia",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Iitan maj xkʼoʼn xqok noja tiʼj",
+      "example_spa": "Ya había sido acarreada la teja, cuando la encontramos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "7a7feef3-4588-4ef5-bd56-960d1c1db11c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

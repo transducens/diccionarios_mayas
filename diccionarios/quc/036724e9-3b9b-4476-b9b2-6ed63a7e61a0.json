@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzbʼal siʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lugar donde se puede arreglar carga de leña",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Pa li patzbʼal siʼ xintzaq wi numuruh",
+      "example_spa": "En el lugar donde arreglé la leña, perdí el machete",
+      "dialect": null
+    }
+  ],
+  "uuid": "036724e9-3b9b-4476-b9b2-6ed63a7e61a0"
+}

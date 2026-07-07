@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼiqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desgranar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinbʼiqoh Enu Jubʼiiq (jubʼiqaaj) Una desgranada, desgranar una vez sAgen Ajbʼiiq Desgranador, alguien que desgrana mazorcas Var Bʼiichik Raiz VT Bʼiq",
+  "examples": [
+    {
+      "example_maya": "Konojel li aʼjupa jah tajin kakibʼiq jal",
+      "example_spa": "Toda la familia está desgranando mazorcas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih jal kubʼiqoh, are chi kukʼayij li ixim pa kʼaybʼal",
+      "example_spa": "La muchacha está desgranando mazorcas para vender en la Plaza",
+      "dialect": null
+    }
+  ],
+  "uuid": "89a54632-a8c5-44e5-88fa-f213c9eedb75"
+}

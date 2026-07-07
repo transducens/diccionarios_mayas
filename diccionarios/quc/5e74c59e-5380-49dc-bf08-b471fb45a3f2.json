@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nima taqʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costa grande",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Pa li nima taqʼaj kamul abʼixik kakibʼan li winaq pa jun junabʼ",
+      "example_spa": "En la costa grande la gente siembra dos veces al año",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e74c59e-5380-49dc-bf08-b471fb45a3f2"
+}

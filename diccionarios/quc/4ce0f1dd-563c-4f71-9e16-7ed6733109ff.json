@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kem",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tejido",
+  "definitionDialect": "",
+  "additional_text": "sInv SDS Usuʼal keem Palo que separa la trama en un tejido DomS Keem",
+  "examples": [
+    {
+      "example_maya": "Li ukem li ixoq jeʼl uqʼoʼik ubʼanom",
+      "example_spa": "El tejido de la mujer está bien bordado",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ce0f1dd-563c-4f71-9e16-7ed6733109ff"
+}

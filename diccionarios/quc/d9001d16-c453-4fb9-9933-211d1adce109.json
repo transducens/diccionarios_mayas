@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼolokʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Esférico (elev); redondo como pelota o naranja",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Tʼorotʼik Raíz P Kʼol",
+  "examples": [
+    {
+      "example_maya": "Li uwachuliw xa kʼolokʼik jacha jun alanlax",
+      "example_spa": "El mundo es esférico como una naranja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li etzʼabʼaʼl kʼolokʼik kakaʼyik",
+      "example_spa": "El juguete es de forma redonda",
+      "dialect": null
+    }
+  ],
+  "uuid": "d9001d16-c453-4fb9-9933-211d1adce109"
+}

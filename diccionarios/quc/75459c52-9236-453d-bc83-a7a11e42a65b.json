@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tanalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Utanalik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deuda",
+  "definitionDialect": "",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼo utanalik rukʼ li ajkʼay tzam",
+      "example_spa": "El hombre tiene deuda con el cantinero",
+      "dialect": null
+    }
+  ],
+  "uuid": "75459c52-9236-453d-bc83-a7a11e42a65b"
+}

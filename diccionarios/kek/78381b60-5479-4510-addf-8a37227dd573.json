@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ajl",
+  "definition": "Cuenta, número",
+  "additional_text": "SInv Wajl var ajlil",
+  "examples": [
+    {
+      "example_maya": "Xineʼxkʼe saʼ ajl",
+      "example_spa": "Me tomaron en cuenta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ xjar li ajl xattzʼaq?",
+      "example_spa": "¿Qué número le tocó?",
+      "dialect": null
+    }
+  ],
+  "uuid": "78381b60-5479-4510-addf-8a37227dd573",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kichʼilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fruncida: la cara por mucha luz o sol; seria o enojada",
+  "definitionDialect": "",
+  "additional_text": "p Xkichʼiʼk, xukichʼibʼaʼ vtd Kichʼichʼexik Mostrar enojo o disgusto con la cara vi Kichʼichʼeem Mostrar dolor con la cara vi Kichʼnajeem Andar una persona con la cara fruncida Raiz P Kichʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xel chwa li qʼij xukichʼibʼa li upalaj",
+      "example_spa": "El niño tiene la cara fruncida por el sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xaq kichʼilik ma xa sin puchʼuʼm xya cheh",
+      "example_spa": "El hombre tiene cara enojada porque le dieron chile",
+      "dialect": null
+    }
+  ],
+  "uuid": "623d75c8-66e2-4336-b9a2-a4e0413cdc71"
+}

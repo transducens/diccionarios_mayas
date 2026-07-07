@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tornah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Torno",
+  "definitionDialect": "",
+  "additional_text": "scl Nutornaa DomS Chakubʼal Del Cast Torno",
+  "examples": [
+    {
+      "example_maya": "Li bʼatzʼil lanah chrij tornah kachakun wih",
+      "example_spa": "El hilador de lana trabaja con torno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tornah kachokon cheh bʼatzʼibʼal lanah",
+      "example_spa": "El torno sirve para hilar lana",
+      "dialect": null
+    }
+  ],
+  "uuid": "1d92e1e7-d3ca-476c-9e3e-d42850bec43e"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wupuxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinwupuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Soplar, insuflar, espirar, bufar",
+  "definitionDialect": "General",
+  "additional_text": "vtd Xutʼinik",
+  "examples": [
+    {
+      "example_maya": "Li alih, kuwupuj uwi li wankeʼt, are chi kel li tzʼil",
+      "example_spa": "La muchacha sopla sobre la mesa para quitarle el polvo",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d1d1479-ff3e-4a76-a354-5af579791b0c"
+}

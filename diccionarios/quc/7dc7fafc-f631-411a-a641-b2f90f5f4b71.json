@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lokolobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlokolobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desmayarse; aguadarse el cuerpo",
+  "definitionDialect": "",
+  "additional_text": "vı Raíz Vl Lok",
+  "examples": [
+    {
+      "example_maya": "We maj uwa jun kutijoh, kalokolobʼik",
+      "example_spa": "Si una persona no come, se desmaya",
+      "dialect": null
+    }
+  ],
+  "uuid": "7dc7fafc-f631-411a-a641-b2f90f5f4b71"
+}

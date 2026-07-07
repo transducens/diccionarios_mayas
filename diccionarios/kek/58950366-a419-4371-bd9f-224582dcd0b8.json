@@ -1,0 +1,23 @@
+{
+  "entryWord": "Rumuk",
+  "definition": "Tirar bruscamente de larga distancia",
+  "additional_text": "VTR Xinrum",
+  "examples": [
+    {
+      "example_maya": "Yookin chi rumuk siʼ toj saʼ li taqʼa",
+      "example_spa": "Estoy tirando bruscamente la leña hasta el plan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinrum li pek toj leʼ",
+      "example_spa": "Tiré bruscamente la piedra hasta allá",
+      "dialect": null
+    }
+  ],
+  "uuid": "58950366-a419-4371-bd9f-224582dcd0b8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

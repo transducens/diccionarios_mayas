@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzʼanaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gordo: un animal",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Tzʼanatzʼik Raíz Adj Tzʼan",
+  "examples": [
+    {
+      "example_maya": "Li koyoʼt sibʼalaj jutzʼanaj",
+      "example_spa": "El coyote es muy gordo",
+      "dialect": null
+    }
+  ],
+  "uuid": "da17520b-0d76-43e0-b268-0c53707bda20"
+}

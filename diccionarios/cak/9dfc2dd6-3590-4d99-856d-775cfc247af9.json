@@ -1,0 +1,23 @@
+{
+  "entryWord": "Malkaʼn",
+  "definition": "Viudo, viuda, divorciada o divorciado",
+  "additional_text": "sInv Numalkaʼn Malkaniʼ, malkaniʼaʼ Viudas Winäq",
+  "examples": [
+    {
+      "example_maya": "Jun malkaʼn yalan kʼayew rukʼaslen",
+      "example_spa": "Es triste la vida de un viudo o viuda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Malkaʼn nibʼix chre ri winäq kamnäq rachjil (rixjayil,) achʼiʼël chqa ri chöj kijachon kiʼ",
+      "example_spa": "Viudo o viuda se le dice a la persona que se le ha muerto su esposa o esposo, se usa también para los que están divorciados",
+      "dialect": null
+    }
+  ],
+  "uuid": "9dfc2dd6-3590-4d99-856d-775cfc247af9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

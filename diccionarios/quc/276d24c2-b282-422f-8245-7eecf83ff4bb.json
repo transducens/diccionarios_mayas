@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzokʼoluwacheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Korechech",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Tuktuk",
+  "altEntryWordDialect2": null,
+  "definition": "Pájaro carpintero (en general)",
+  "definitionDialect": "",
+  "additional_text": "sc Var Var Tzokʼ Cheeʼ Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li tzokʼoluwacheʼ kuwor li cheʼ cheh li utzaʼm",
+      "example_spa": "El pájaro carpintero perfora los troncos de los árboles con el pico",
+      "dialect": null
+    }
+  ],
+  "uuid": "276d24c2-b282-422f-8245-7eecf83ff4bb"
+}

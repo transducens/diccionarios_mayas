@@ -1,0 +1,23 @@
+{
+  "entryWord": "Musiqʼ",
+  "definition": "Resuello, respiración, espíritu",
+  "additional_text": "SInv Inmusiqʼ",
+  "examples": [
+    {
+      "example_maya": "Raasa naq naʼel xmusíqʼ",
+      "example_spa": "Respira con dificultad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ra len tkʼul li qamusiqʼ naq tookamq",
+      "example_spa": "Dicen que sufrirá nuestro espíritu cuando muramos",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c8ccd4d-7051-4442-beb9-332bb99d71fe",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

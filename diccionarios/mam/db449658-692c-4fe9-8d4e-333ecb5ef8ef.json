@@ -1,0 +1,23 @@
+{
+  "entryWord": "BʼAANQʼAJ",
+  "definition": "derecha, mano derecha",
+  "additional_text": "s1 nbʼanqʼaja raíz bʼaʼn adj ds xumlalbʼaj",
+  "examples": [
+    {
+      "example_maya": "At mas wipana tuj nbʼanqʼaja",
+      "example_spa": "Tengo más fuerzas en mi derecha",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tuʼn tbʼanqʼaj ntzaj tjakʼuʼn tasdon",
+      "example_spa": "Con su mano derecha jala su azadón",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "db449658-692c-4fe9-8d4e-333ecb5ef8ef",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

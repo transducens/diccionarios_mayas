@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tannajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar a tientas, como ciego",
+  "definitionDialect": "",
+  "additional_text": "vi Katannajik Raiz PT Tan",
+  "examples": [
+    {
+      "example_maya": "Are taq xinwaʼlij nimaqʼabʼ kamik xaq kintannajik",
+      "example_spa": "Cuando me levanté hoy por la mañana, andaba a ciegas",
+      "dialect": null
+    }
+  ],
+  "uuid": "315d2ff3-e39d-4496-9c0e-5d081a5f3b73"
+}

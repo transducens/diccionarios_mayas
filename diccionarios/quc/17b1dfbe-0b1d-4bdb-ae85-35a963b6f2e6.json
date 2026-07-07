@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼirirem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abultarse comida en la garganta al tragar",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqʼiririk Raíz VT Qʼir",
+  "examples": [
+    {
+      "example_maya": "Li karneʼl kaqʼirir li rechaʼ xokʼow puqul",
+      "example_spa": "La comida del carnero pasó abultada por la garganta",
+      "dialect": null
+    }
+  ],
+  "uuid": "17b1dfbe-0b1d-4bdb-ae85-35a963b6f2e6"
+}

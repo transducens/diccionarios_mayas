@@ -1,0 +1,24 @@
+{
+  "entryWord": "Juwiqaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un juego de cosas (como de ollas); una mudada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz VT Wiq",
+  "examples": [
+    {
+      "example_maya": "Li achih, xuloqʼ juwiqaj jastaq rech woʼqbʼal",
+      "example_spa": "El hombre compró un juego de cubiertos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xukem juwiqaj jastaq rech li ral",
+      "example_spa": "La mujer tejió una mudada para su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "38ddf9d5-4c33-4943-aa50-c1ebd706b0ba"
+}

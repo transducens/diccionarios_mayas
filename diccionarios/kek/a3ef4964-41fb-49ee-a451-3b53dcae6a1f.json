@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yajajnak",
+  "definition": "Estar enfermo generalmente, andar enfermo generalmente",
+  "additional_text": "v Nayajajnak",
+  "examples": [
+    {
+      "example_maya": "Laj Luʼ yal nayajaj-nak ut inkʼaʼ nakam",
+      "example_spa": "Pedro sólo enfermizo se mantiene y no se muere",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun li walal yal nayajnak",
+      "example_spa": "Tengo un hijo que sólo se mantiene enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3ef4964-41fb-49ee-a451-3b53dcae6a1f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

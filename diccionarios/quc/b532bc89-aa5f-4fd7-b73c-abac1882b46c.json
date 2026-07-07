@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Delgado, como papel, tabla, libro, etc",
+  "definitionDialect": "Spanish",
+  "additional_text": "Adj Utaxiil -- uxaxuul, xxaxobʼirik var Xxaxirik",
+  "examples": [
+    {
+      "example_maya": "Li wuj li kachokon cheh tzʼibʼ are xax chwach li karton",
+      "example_spa": "El papel que se usa para escritura es más delgado que el cartón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼalam retal uxaxil are utz cheh machimbr\"",
+      "example_spa": "Las tablas más delgadas son mejores para machimbre",
+      "dialect": null
+    }
+  ],
+  "uuid": "b532bc89-aa5f-4fd7-b73c-abac1882b46c"
+}

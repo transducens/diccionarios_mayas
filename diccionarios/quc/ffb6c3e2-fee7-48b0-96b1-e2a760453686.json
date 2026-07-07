@@ -1,0 +1,29 @@
+{
+  "entryWord": "Josik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Raspar; cepillar madera; pelar palo con machete; hacer punta a un lápiz o estaca; tallar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinjosoh vtd Jososexik Cepillar madera vi Josojoteem Limpiar o raspar con machete la madera o con azadón un terreno, rascarse sInv Joos Hoz vi Josoʼpeem Cepillar madera sn Josol saant Escultor de imágenes Var Rokoroteem Raíz VT Jos",
+  "examples": [
+    {
+      "example_maya": "Xtzaq li akʼal, xujos li upalaj",
+      "example_spa": "El niño se cayó y se raspó la cara",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah xujosla jun utrompoʼ rech karetzʼabʼej",
+      "example_spa": "El muchacho talló un trompo para jugar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajanel tajin kujos jun cheʼ",
+      "example_spa": "El carpintero está cepillando un palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ffb6c3e2-fee7-48b0-96b1-e2a760453686"
+}

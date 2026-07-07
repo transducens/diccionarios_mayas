@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Kʼexwachibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "En lugar de",
+  "definitionDialect": "General",
+  "additional_text": "ssp Nukʼexwachibʼal Var Pukʼexwachbʼal",
+  "examples": [
+    {
+      "example_maya": "Are li a Xwan xkanaj kan pa ukʼexwachibʼal li a Reʼn",
+      "example_spa": "Juan se quedó en lugar de Lorenzo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1250b614-9d8e-4d7b-b010-048c06253aab"
+}

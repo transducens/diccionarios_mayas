@@ -1,0 +1,19 @@
+{
+  "entryWord": "Salkʼum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Remolino",
+  "definitionDialect": "general",
+  "additional_text": "sap var Sepkʼun var Setkʼum",
+  "examples": [
+    {
+      "example_maya": "Li salkʼum pa taq saqʼij kubʼanoh are taq kʼo puqlaj",
+      "example_spa": "En verano hay remolinos de polvo",
+      "dialect": null
+    }
+  ],
+  "uuid": "71973e28-5525-4092-9e4a-5c7b491d896a"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ayu",
+  "definition": "Váyase, vete, andate",
+  "additional_text": "Imp",
+  "examples": [
+    {
+      "example_maya": "Ayu saʼ pim",
+      "example_spa": "Váyase al monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ayu chi jun waakaj",
+      "example_spa": "Váyase de una vez",
+      "dialect": null
+    }
+  ],
+  "uuid": "b41930dc-74f6-4788-9254-88e8f5619a40",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

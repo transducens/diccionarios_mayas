@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼulel",
+  "definition": "Esposo o esposa",
+  "additional_text": "sInv Nukʼulel Var Waʼil, wachbʼil, winäq",
+  "examples": [
+    {
+      "example_maya": "Ri nukʼulel xbʼe pa taqʼaj",
+      "example_spa": "Mi esposo se fue a la costa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rukʼulel riʼ",
+      "example_spa": "Cosa que se relaciona con la otra",
+      "dialect": null
+    }
+  ],
+  "uuid": "35c888a8-c779-4faf-abce-b691cf65fcab",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

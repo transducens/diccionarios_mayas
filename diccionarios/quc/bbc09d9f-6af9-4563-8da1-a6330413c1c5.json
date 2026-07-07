@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzabʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa vieja o zacate",
+  "definitionDialect": "",
+  "additional_text": "vi Katzaabʼoʼpik Raíz P Tzabʼ",
+  "examples": [
+    {
+      "example_maya": "Li a laj a Chep sibʼalaj katzabʼoʼp pa li ratzʼyaq",
+      "example_spa": "Chepito anda con la ropa vieja",
+      "dialect": null
+    }
+  ],
+  "uuid": "bbc09d9f-6af9-4563-8da1-a6330413c1c5"
+}

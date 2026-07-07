@@ -1,0 +1,19 @@
+{
+  "entryWord": "Achixem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinachixik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tener celos",
+  "definitionDialect": "General",
+  "additional_text": "vI Raíz S Achiix",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kachix chrij li rachajil",
+      "example_spa": "La mujer tiene celos de su marido",
+      "dialect": null
+    }
+  ],
+  "uuid": "f0f7a93a-ff37-43f8-9bc1-5d33ffbeeab0"
+}

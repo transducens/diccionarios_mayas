@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wukwutem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kawukwutik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Inflamarse (un golpe, grano o herida); inflarse (como una tortilla en el fuego)",
+  "definitionDialect": "",
+  "additional_text": "vi Raiz P Wuk",
+  "examples": [
+    {
+      "example_maya": "Li lij xuchap wukwutem pa le xot",
+      "example_spa": "Las tortillas empezaron a inflarse en el comal",
+      "dialect": null
+    }
+  ],
+  "uuid": "8bdcba79-e9e1-48c3-8125-25e840e6e72f"
+}

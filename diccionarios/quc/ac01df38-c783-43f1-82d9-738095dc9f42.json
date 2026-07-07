@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajʼitz",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajʼitz",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brujo, zajorín, hechicero",
+  "definitionDialect": "",
+  "additional_text": "SAgen Var Ajqʼiij",
+  "examples": [
+    {
+      "example_maya": "Li ajʼitz xubʼan jun kʼax chwech iwir",
+      "example_spa": "El brujo me hizo un daño ayer",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac01df38-c783-43f1-82d9-738095dc9f42"
+}

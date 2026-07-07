@@ -1,0 +1,34 @@
+{
+  "entryWord": "Mas",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Más; muy; mucho",
+  "definitionDialect": "",
+  "additional_text": "Adv Del Cast Más",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan are mas kʼaʼn chwach li a Luʼ",
+      "example_spa": "Juan es más enojado que Pedro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj e kʼi winaq xoʼpan pa chomal",
+      "example_spa": "Llegaron muchas personas a la reunión",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Na mas taj",
+      "example_spa": "Ya no; no es muy",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Mas e kʼih",
+      "example_spa": "Son muchos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9f8c3d6-fcf6-44c2-baae-66d1b3a0c280"
+}

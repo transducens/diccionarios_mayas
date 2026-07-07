@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tint",
+  "definition": "Tinta",
+  "additional_text": "SInv Intint",
+  "examples": [
+    {
+      "example_maya": "Tint re tzʼiibʼak",
+      "example_spa": "Tinta para escribir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xmeetul intint",
+      "example_spa": "Frasco para mi tinta",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a93e655-c8cf-4fbc-b083-b3be8d06eab8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

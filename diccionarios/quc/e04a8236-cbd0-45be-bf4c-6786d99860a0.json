@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeqa kinaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frijol negro",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz Adj Qʼeq Raiz S Kinaqʼ DomS Kinaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li qʼeqa kinaqʼ rajawaxik ronojel qʼij",
+      "example_spa": "El frijol negro es un alimento básico",
+      "dialect": null
+    }
+  ],
+  "uuid": "e04a8236-cbd0-45be-bf4c-6786d99860a0"
+}

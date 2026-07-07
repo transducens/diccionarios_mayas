@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajkʼay ajaqʼor",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vendedora de atol de elote",
+  "definitionDialect": "Español",
+  "additional_text": "sAgen Raíz VT Kʼay Raíz S Qʼoor DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq, ajkʼay qʼor pa kʼay\"bʼal",
+      "example_spa": "La mujer es vendedora de atol en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9af33a4-9372-426f-8647-2b25aa640ea2"
+}

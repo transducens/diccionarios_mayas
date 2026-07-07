@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lukuʼk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy doblado en forma de arco",
+  "definitionDialect": "es",
+  "additional_text": "Adj Raiz P Luk",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ na utz ta chik, sibʼalaj lukuʼk",
+      "example_spa": "El hierro ya no sirve, porque está muy doblado",
+      "dialect": null
+    }
+  ],
+  "uuid": "bfcf9aff-080d-4ae0-97b4-c2c5f7048c30"
+}

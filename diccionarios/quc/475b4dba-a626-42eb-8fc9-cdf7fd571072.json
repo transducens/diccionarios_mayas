@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qaxixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqaxij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar pedazo de tela, carne, panela o peña",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz vt Qax",
+  "examples": [
+    {
+      "example_maya": "Li jun tzʼiʼ kuqaxij li kabʼ cheh li uwareh",
+      "example_spa": "El perro está cortando la panela con los dientes",
+      "dialect": null
+    }
+  ],
+  "uuid": "475b4dba-a626-42eb-8fc9-cdf7fd571072"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wakunïk",
+  "definition": "Mover la superficie del agua para sacar agua limpia; apartar (vainas) basura de los granos después de aporrear sacudir el monte al hacer una limpia",
+  "additional_text": "vtd Wakuxik, ninwakuj",
+  "examples": [
+    {
+      "example_maya": "Ri ixoqiʼ nikiwakuj ruwiʼ ri yaʼ, richin chʼajchʼöj ri nikikʼäm pe",
+      "example_spa": "Las mujeres mueven la superficie del agua, para sacar lo limpio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xchʼayatäj yan ri nukinaqʼ, wakamin ninwakuj el ri rij",
+      "example_spa": "Ya aporreé mi frijol, ahora voy apartar las cáscaras de los granos",
+      "dialect": null
+    }
+  ],
+  "uuid": "03bb1848-48fe-449b-b4dd-065b4570786e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

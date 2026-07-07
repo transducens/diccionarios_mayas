@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼutbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enseñanza, instrucción",
+  "definitionDialect": "",
+  "additional_text": "SnP Raiz VT Kʼut",
+  "examples": [
+    {
+      "example_maya": "Pa li tijobʼal sibʼalaj utza taq kʼutbʼal kayaʼik",
+      "example_spa": "En la escuela dan muy buena enseñanza",
+      "dialect": null
+    }
+  ],
+  "uuid": "e1379170-698d-4ca8-af06-7a5fab3bdaa9"
+}

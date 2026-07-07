@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lugar donde hacen rito para pedir algo, altar maya; oídos, sentido del oído",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Pa taq li tabʼal kaporox wi pom",
+      "example_spa": "En los altares mayas se quema el copal",
+      "dialect": null
+    }
+  ],
+  "uuid": "b51e123b-4fbb-4251-89ca-b3e9f7e11798"
+}

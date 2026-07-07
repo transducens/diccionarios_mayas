@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzinbʼak",
+  "definition": "Hacer ruido cosas de metal al caer o jalarlas, repicar campana",
+  "additional_text": "vi Natzinbʼak",
+  "examples": [
+    {
+      "example_maya": "Natzinbʼak naq xtʼaneʼ insentaa chi ru tzʼak",
+      "example_spa": "El centavo sonó al caerse al piso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Natzinbʼak saʼ inxik, ani tana napatzʼok chaq we",
+      "example_spa": "Oigo un ruido, alguien está mencionando mi nombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd43fa23-18f2-47c8-a464-b321ba154b32",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

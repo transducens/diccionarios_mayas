@@ -1,0 +1,23 @@
+{
+  "entryWord": "JIIP",
+  "definition": "1 duro: frijol difícil de cocerse sin ẍip 2 apretado: pantalón o camisa",
+  "additional_text": "adj tjipal, ma jipax raíz jip adj",
+  "examples": [
+    {
+      "example_maya": "Tkyʼiʼ ti jip chenqʼ tzqʼaj",
+      "example_spa": "El frijol duro no quiere cocerse",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma jipax twex tuʼn tbʼonkabʼil",
+      "example_spa": "Se puso apretado su pantalón por su gordura",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f2c4dbf8-2d36-4885-b95a-d89aff7905d9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

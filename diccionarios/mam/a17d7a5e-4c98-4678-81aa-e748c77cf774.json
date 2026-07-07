@@ -1,0 +1,23 @@
+{
+  "entryWord": "NAAJ",
+  "definition": "1 morirse 2 extraviarse, perderse 3 olvidar 4 desaparecerse 5 fregarse",
+  "additional_text": "vi najna, ma chin naja raíz naj vi",
+  "examples": [
+    {
+      "example_maya": "Maʼ naj ti xinaq tuʼn meqʼmaj kyaq",
+      "example_spa": "Ya se murió el señor por la temperatura",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Maʼ chin naja tuʼn nimal jbʼal",
+      "example_spa": "Ya me fregué con la lluvia",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a17d7a5e-4c98-4678-81aa-e748c77cf774",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

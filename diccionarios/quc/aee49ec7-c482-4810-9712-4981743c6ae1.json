@@ -1,0 +1,24 @@
+{
+  "entryWord": "Serah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cera; alacrán",
+  "definitionDialect": "",
+  "additional_text": "scv Nuseeraa SCL Useerayil kaabʼ Cera de abeja DomS Chokonisabʼal DomS Chikop Del Cast Cera",
+  "examples": [
+    {
+      "example_maya": "Li serah pa taq qʼumaʼr, kakʼojiʼ wih",
+      "example_spa": "El alacrán vive en palos podridos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Le userayil kabʼ kabʼan kotzʼiʼj cheh",
+      "example_spa": "De la cera de abeja se fabrican candelas",
+      "dialect": null
+    }
+  ],
+  "uuid": "aee49ec7-c482-4810-9712-4981743c6ae1"
+}

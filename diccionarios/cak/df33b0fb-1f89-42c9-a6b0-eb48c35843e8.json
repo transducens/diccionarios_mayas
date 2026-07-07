@@ -1,0 +1,23 @@
+{
+  "entryWord": "Jachʼobʼäl (jachʼbʼäl)",
+  "definition": "Tapiscador",
+  "additional_text": "scv Nujachʼobʼal Samajibʼäl",
+  "examples": [
+    {
+      "example_maya": "Rikʼin jachʼobʼäl nipochʼ wi ri joʼq richin nelesäx el ri jäl",
+      "example_spa": "Con el tapiscador se abre el doblador para sacar la mazorca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Konojel ri jachʼoliʼ bʼaq kijachʼobʼal",
+      "example_spa": "Todos los tapiscadores tienen tapiscadores de hueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "df33b0fb-1f89-42c9-a6b0-eb48c35843e8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

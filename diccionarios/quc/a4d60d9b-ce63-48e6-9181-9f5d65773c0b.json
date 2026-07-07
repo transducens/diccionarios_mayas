@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulbʼaʼt",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼulbʼaʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Límite de terreno; mojón de terreno",
+  "definitionDialect": "General",
+  "additional_text": "sInv Var Kʼotoom Raíz S Kʼul",
+  "examples": [
+    {
+      "example_maya": "Li kʼulbʼaʼt re li uliw, abʼaj oknaq cheh",
+      "example_spa": "El mojón del terreno es de piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "a4d60d9b-ce63-48e6-9181-9f5d65773c0b"
+}

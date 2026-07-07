@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cenzonte",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li chʼik kusikʼij li jabʼ rukʼ le ubʼix",
+      "example_spa": "El cenzonte llama a la lluvia con su canto",
+      "dialect": null
+    }
+  ],
+  "uuid": "63ad1172-f83c-4eda-aef9-06cd642a4cc9"
+}

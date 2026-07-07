@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juritʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cosa rompediza",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz VT Ritʼ",
+  "examples": [
+    {
+      "example_maya": "Li ukamiʼx li a Xwan xaq juritʼ",
+      "example_spa": "La camisa de Juan es rompediza",
+      "dialect": null
+    }
+  ],
+  "uuid": "2dd48ffa-dfbf-4238-8a78-11eb29a5fa5c"
+}

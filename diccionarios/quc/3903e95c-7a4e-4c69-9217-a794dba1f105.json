@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juputz",
+  "entryWordDialect": null,
+  "altEntryWord": "juputzaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cantidad de lana, pelo",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz P Putz",
+  "examples": [
+    {
+      "example_maya": "Li lanah juputzaj kʼo pa kʼayʼbʼal",
+      "example_spa": "Hay una gran cantidad de lana en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "3903e95c-7a4e-4c69-9217-a794dba1f105"
+}

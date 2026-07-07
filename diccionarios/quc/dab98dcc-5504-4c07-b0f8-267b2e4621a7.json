@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wererem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hablar fuerte y rápido",
+  "definitionDialect": "",
+  "additional_text": "vi Kawererik Sinón Wetʼeteem Raiz VT Wer",
+  "examples": [
+    {
+      "example_maya": "Li ajkʼay qʼeqʼ kawerer chutzujuxik li ukʼay",
+      "example_spa": "El vendedor de jabón habla fuerte y rápido para ofrecer su venta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li loʼr xaq kawererik",
+      "example_spa": "El loro habla muy rápido",
+      "dialect": null
+    }
+  ],
+  "uuid": "dab98dcc-5504-4c07-b0f8-267b2e4621a7"
+}

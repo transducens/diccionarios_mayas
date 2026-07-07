@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jubʼakʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una enrollada",
+  "definitionDialect": "General",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li alih xaq jubʼakʼ xuya che li bʼatzʼ xaq si xkʼoqopijik",
+      "example_spa": "La muchacha enrolló sólo una vez el hilo y se reventó",
+      "dialect": null
+    }
+  ],
+  "uuid": "260198fb-91ea-408f-a0ba-80519bcaee28"
+}

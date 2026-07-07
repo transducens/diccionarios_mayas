@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼapobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reventarse vejiga o botella",
+  "definitionDialect": "General",
+  "additional_text": "vi Kapaqʼapobʼik Raíz VI Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li lameʼt xpaqʼapobʼ chwa li qʼaqʼ",
+      "example_spa": "La botella se reventó en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "4439ee69-cc0f-43ec-9684-7d950f88d886"
+}

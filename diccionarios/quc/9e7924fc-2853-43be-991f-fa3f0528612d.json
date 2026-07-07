@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tixixlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katixixlabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chorrear para varios lados",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz VT Tix",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj katixixlabʼ li jaʼ chwa taq li swan",
+      "example_spa": "El agua está chorreando por varios lados del barranco",
+      "dialect": null
+    }
+  ],
+  "uuid": "9e7924fc-2853-43be-991f-fa3f0528612d"
+}

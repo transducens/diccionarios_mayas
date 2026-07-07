@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼakataj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Almohada Usar como almohada",
+  "definitionDialect": "",
+  "additional_text": "sqs Nuchʼakat vtd Chʼakatixik",
+  "examples": [
+    {
+      "example_maya": "Li achih xuchʼakatij li uxyal xwarik",
+      "example_spa": "El hombre usó su cotón como almohada",
+      "dialect": null
+    }
+  ],
+  "uuid": "d881d864-b0a1-4e41-a9d2-8aef9cdc3a1c"
+}

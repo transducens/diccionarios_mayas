@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼabʼitzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Frijol negro oscuro",
+  "definitionDialect": "",
+  "additional_text": "snp",
+  "examples": [
+    {
+      "example_maya": "Li uwach ulew kinaqʼ sibʼalaj qʼabʼitzʼ",
+      "example_spa": "El frijol de suelo tiene color negro oscuro",
+      "dialect": null
+    }
+  ],
+  "uuid": "aab86a2b-f879-4c18-a2f9-08afdb8a782e"
+}

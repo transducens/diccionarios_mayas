@@ -1,0 +1,19 @@
+{
+  "entryWord": "Samyel",
+  "entryWordDialect": null,
+  "altEntryWord": "Xamkel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "San Miguel",
+  "definitionDialect": "",
+  "additional_text": "SnP Var Xamkeel DomS Nimaqʼiij",
+  "examples": [
+    {
+      "example_maya": "Li nimaqʼij rech Samyel sibʼalaj kiʼkotemal",
+      "example_spa": "La fiesta de San Miguel es muy alegre",
+      "dialect": null
+    }
+  ],
+  "uuid": "665593d9-8305-4cd9-afb8-a7e47f70025a"
+}

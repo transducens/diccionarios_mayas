@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼachalajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kabʼachalajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Oír pasos lentos, uno tras otro, andar con cautela",
+  "definitionDialect": "General",
+  "additional_text": "vi Raiz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Xinta jun xibʼinel xbʼachalaj pa ja chaqʼabʼ",
+      "example_spa": "Anoche oí pasos lentos de un espanto en la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "d07339c8-a328-4eb8-873b-124c789f4cff"
+}

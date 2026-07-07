@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lujujexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlujujej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar con traje largo, arrastrándolo",
+  "definitionDialect": "",
+  "additional_text": "vtd",
+  "examples": [
+    {
+      "example_maya": "Li alih sibʼalaj kulujujej li ruq puliw",
+      "example_spa": "Cuando la muchacha camina, arrastra el corte",
+      "dialect": null
+    }
+  ],
+  "uuid": "494c9f12-ae9f-4724-87d9-40c33ae606a7"
+}

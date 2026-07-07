@@ -1,0 +1,24 @@
+{
+  "entryWord": "Labʼanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xlabʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xulabʼabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Suave; aguado",
+  "definitionDialect": "general",
+  "additional_text": "P Sinón Lubʼanik Raíz P Labʼ",
+  "examples": [
+    {
+      "example_maya": "Li lij sibʼalaj labʼanik xuq kʼatan",
+      "example_spa": "Las tortillas están suaves y calientes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kaxlanwah, xaq labʼan chik, ma xmuʼ pa kapeh",
+      "example_spa": "El pan está aguado porque lo mojaron en café",
+      "dialect": null
+    }
+  ],
+  "uuid": "fec73763-3340-4114-bdb6-42fd9109a7e6"
+}

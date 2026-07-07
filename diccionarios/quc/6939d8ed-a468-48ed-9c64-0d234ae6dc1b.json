@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse en los extremos una cosa al llevarla, como una caña de bambú o una rama",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinyanoh Raíz P Yan",
+  "examples": [
+    {
+      "example_maya": "Li akʼal jun tzʼulubʼ nim raqan kuyanoh",
+      "example_spa": "El niño está jugando con un bambú y se mueven las dos puntas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6939d8ed-a468-48ed-9c64-0d234ae6dc1b"
+}

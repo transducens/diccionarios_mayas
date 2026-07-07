@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzakom tzʼuʼum",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzakom tzʼuʼum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuero curtido",
+  "definitionDialect": "",
+  "additional_text": "scl Raíz S Tzʼuʼuum Raíz VI Tzak DomS Tzʼuʼuum",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kʼih tzakom tzʼuʼum kʼo rukʼ li bʼanal xajabʼ",
+      "example_spa": "El zapatero tiene muchos cueros curtidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "00a9fce5-3571-441c-83b7-1e7aa6baf425"
+}

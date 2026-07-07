@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mokʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Numokʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Camarón de río",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS",
+  "examples": [
+    {
+      "example_maya": "Li al Sikaʼ xuloqʼ mokʼ pa kʼayʼbʼal",
+      "example_spa": "Francisca compró camarones del río en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf315d7f-6eed-4f01-bf07-81ecb29f2b2f"
+}

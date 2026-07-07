@@ -1,0 +1,28 @@
+{
+  "entryWord": "Oqej",
+  "definition": "Pie, pata, huella, rastro",
+  "additional_text": "sos Woq",
+  "examples": [
+    {
+      "example_maya": "Arin chi oqej toj kobʼan hoobʼ oor xbʼeeninkil",
+      "example_spa": "De aquí a Cobán, a pie son cinco horas de camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jwal ra li woq xinbʼachʼ",
+      "example_spa": "Me duele el pie que me torci",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi oqej",
+      "example_spa": "A pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "b2804979-1206-4bb5-b40b-77d07e0f5ee2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

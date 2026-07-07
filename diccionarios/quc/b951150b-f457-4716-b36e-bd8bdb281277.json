@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼyajeʼr",
+  "entryWordDialect": null,
+  "altEntryWord": "byajer/",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Viajero; hormiga arriera",
+  "definitionDialect": "",
+  "additional_text": "sAgen Del Cast Viajero DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj kʼo urajil ma bʼyajer\" che kʼayij",
+      "example_spa": "El viajero tiene mucho dinero porque hace negocios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sanik bʼyajer kebʼ kiwach, kʼo ketyoʼn chikech, xuq kʼo na ketyoʼn ta chikeh",
+      "example_spa": "Hay hormigas arrieras que pican y otras no",
+      "dialect": null
+    }
+  ],
+  "uuid": "b951150b-f457-4716-b36e-bd8bdb281277"
+}

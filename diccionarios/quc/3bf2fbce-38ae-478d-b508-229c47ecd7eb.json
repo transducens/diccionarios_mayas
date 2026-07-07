@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juwiq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una añadidura",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz vt Wiq",
+  "examples": [
+    {
+      "example_maya": "Li manyer\" xinloqʼoh, yoʼm juwiq chech, ma xa na kutzaq taj",
+      "example_spa": "A la manguera que compré, le han hecho una añadidura porque no alcanza",
+      "dialect": null
+    }
+  ],
+  "uuid": "3bf2fbce-38ae-478d-b508-229c47ecd7eb"
+}

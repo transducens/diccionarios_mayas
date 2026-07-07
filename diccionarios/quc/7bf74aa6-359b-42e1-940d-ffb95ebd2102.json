@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jiote",
+  "definitionDialect": "",
+  "additional_text": "sInv Nusaal Raíz S Saal DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj sal li ubʼaqil",
+      "example_spa": "El hombre tiene mucho jiote en el cuerpo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih kʼo sal chrij",
+      "example_spa": "El hombre tiene jiote",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bf74aa6-359b-42e1-940d-ffb95ebd2102"
+}

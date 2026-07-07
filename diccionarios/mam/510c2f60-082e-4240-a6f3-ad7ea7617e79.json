@@ -1,0 +1,18 @@
+{
+  "entryWord": "BASTOON",
+  "definition": "bastón",
+  "additional_text": "s1 nbastona del español bastón",
+  "examples": [
+    {
+      "example_maya": "Aa baston jukʼbʼil chʼok kyuʼn wakẍ",
+      "example_spa": "El bastón es el medio por el cual los bueyes jalan el arado",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "510c2f60-082e-4240-a6f3-ad7ea7617e79",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

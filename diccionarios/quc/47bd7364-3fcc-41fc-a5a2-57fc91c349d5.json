@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kaʼy/bʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaʼybʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mirador; paisaje; luz; color; espejo; fotografía, foto; anteojos; máscara; largavista; piedra transparente de sacerdotes mayas",
+  "definitionDialect": "",
+  "additional_text": "sinv",
+  "examples": [
+    {
+      "example_maya": "Li choh jun jeʼlalaj ukaʼyibʼal li tzolʼlaʼ",
+      "example_spa": "El lago de Sololá es un bello paisaje",
+      "dialect": null
+    },
+    {
+      "example_maya": "Utz kabʼan bʼinem pa qʼequʼm we kʼo kaʼyʼbʼal",
+      "example_spa": "Si hay luz, se puede",
+      "dialect": null
+    }
+  ],
+  "uuid": "47bd7364-3fcc-41fc-a5a2-57fc91c349d5"
+}

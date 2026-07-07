@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ruido al pegar palmadas o al quebrar cosas delgadas",
+  "definitionDialect": "",
+  "additional_text": "AL",
+  "examples": [
+    {
+      "example_maya": "Waqʼ xubʼan li qʼabʼ chupalaj li alih, rumal li unan",
+      "example_spa": "Sonó la palmada de la mamá en la cara de la muchacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c8363f1-bd03-473d-aee4-0d72fd244282"
+}

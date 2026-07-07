@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼima ja",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "con techo de paja",
+  "definitionDialect": "Spanish",
+  "additional_text": "SCL Nukʼima jaa Raiz S Kʼim DomS Jaa",
+  "examples": [
+    {
+      "example_maya": "Li uwi tijobʼal xa kʼim",
+      "example_spa": "El techo de la escuela es de paja",
+      "dialect": null
+    }
+  ],
+  "uuid": "7c8ef13b-929f-43c3-b027-d9e65fc05273"
+}

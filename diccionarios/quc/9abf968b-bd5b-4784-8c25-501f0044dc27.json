@@ -1,0 +1,24 @@
+{
+  "entryWord": "Uwaʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jugo de frutas; caldo de frijol, hierbas o verduras; agua de tamales y de algunas verduras como güisquiles al cocerlos",
+  "definitionDialect": "General",
+  "additional_text": "ssp DomS Jaʼ",
+  "examples": [
+    {
+      "example_maya": "Li uwaʼal taq li prut sibʼalaj kʼo bʼitamin chech",
+      "example_spa": "El jugo de las frutas tiene muchas vitaminas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sobʼal xtzaj li uwaʼal",
+      "example_spa": "El agua que tenía la olla se secó",
+      "dialect": null
+    }
+  ],
+  "uuid": "9abf968b-bd5b-4784-8c25-501f0044dc27"
+}

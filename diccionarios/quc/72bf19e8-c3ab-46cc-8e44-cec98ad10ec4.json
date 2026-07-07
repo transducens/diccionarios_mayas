@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nitzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pequeño",
+  "definitionDialect": "General",
+  "additional_text": "Adj Sinón Niichʼ Sinón Chʼiin",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ kʼa jun nitzʼ",
+      "example_spa": "El perro todavía es pequeño",
+      "dialect": null
+    }
+  ],
+  "uuid": "72bf19e8-c3ab-46cc-8e44-cec98ad10ec4"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼoreʼk",
+  "entryWordDialect": null,
+  "altEntryWord": "Nubʼoreʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Boreego; mi borrego",
+  "definitionDialect": "",
+  "additional_text": "sInv Del Cast Borrego",
+  "examples": [
+    {
+      "example_maya": "Li bʼoreʼk, are e chomaʼq chkiwach li konojel",
+      "example_spa": "Los borregos están más gordos que los demás carneros",
+      "dialect": null
+    }
+  ],
+  "uuid": "15673930-3be3-4193-99f8-6a1e288e1459"
+}

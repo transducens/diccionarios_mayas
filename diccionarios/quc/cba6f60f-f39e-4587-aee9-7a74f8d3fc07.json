@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tep",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tepe (en el baile de la conquista)",
+  "definitionDialect": "Dom.S.",
+  "additional_text": "snP Ajxojolobʼ",
+  "examples": [
+    {
+      "example_maya": "Li tep are chajinel chuchiʼ uqʼatbʼal tzij li kʼicheʼ",
+      "example_spa": "El Tepe es el centinela en la puerta del palacio del rey quiché",
+      "dialect": null
+    }
+  ],
+  "uuid": "cba6f60f-f39e-4587-aee9-7a74f8d3fc07"
+}

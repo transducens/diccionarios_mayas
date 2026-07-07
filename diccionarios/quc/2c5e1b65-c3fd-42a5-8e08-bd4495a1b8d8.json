@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oqoq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pato sambuidor",
+  "definitionDialect": "Español",
+  "additional_text": "snp DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li oqoq qʼeq li kij, pwi taq choh e kʼo wih",
+      "example_spa": "Los patos sambuidores son de color negro y viven en los lagos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c5e1b65-c3fd-42a5-8e08-bd4495a1b8d8"
+}

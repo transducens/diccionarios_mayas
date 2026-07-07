@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juruqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una lavada",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz VT",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq juruqʼ xuya che li laq, xa je riʼ na xel ta li tzʼil",
+      "example_spa": "La mujer le dio una sola lavada al traste, por eso no le salió la suciedad",
+      "dialect": null
+    }
+  ],
+  "uuid": "14587f80-a412-47cb-9f4e-343578881dd7"
+}

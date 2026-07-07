@@ -1,0 +1,19 @@
+{
+  "entryWord": "Joʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vamonos, vayámonos",
+  "definitionDialect": "General",
+  "additional_text": "vi Coment Optativo del verbo ir para la primera persona del plural",
+  "examples": [
+    {
+      "example_maya": "Jo pa chak chanim, xrokikaj waʼ",
+      "example_spa": "Vayámonos al trabajo porque ya es hora",
+      "dialect": null
+    }
+  ],
+  "uuid": "1aab58d3-fa39-4349-aabd-1284135f6c5b"
+}

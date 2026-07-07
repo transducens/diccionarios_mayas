@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqwach",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusaqwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Papa",
+  "definitionDialect": "General",
+  "additional_text": "scv Raíz Adj Saq Raíz S Wach DomS Tiikoʼn DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Pa li wuliw tikom saqwach",
+      "example_spa": "En mi terreno hay papa sembrada",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9f9198e-df97-4de8-ba5c-5225e13e5849"
+}

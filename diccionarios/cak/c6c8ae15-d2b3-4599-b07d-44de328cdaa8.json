@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kej",
+  "definition": "Bruto, estúpido, caballo",
+  "additional_text": "Adj Rukejul, xkejür, (xkejär)",
+  "examples": [
+    {
+      "example_maya": "Kan at kej majun nawakʼaxaj ta",
+      "example_spa": "Eres un caballo, no entiendes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rukejul nibʼanun chi re la alaʼ man nuni maj ta tzij",
+      "example_spa": "Por estupidez del muchacho que no obedece los consejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "c6c8ae15-d2b3-4599-b07d-44de328cdaa8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼatanal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sudor",
+  "definitionDialect": "",
+  "additional_text": "sinv Nukʼatanaal",
+  "examples": [
+    {
+      "example_maya": "We xutij anim jun winaq, kel ukʼatanal",
+      "example_spa": "Si una persona corre mucho, le sale sudor",
+      "dialect": null
+    }
+  ],
+  "uuid": "702aa64a-c820-4758-a221-17adbd8a0732"
+}

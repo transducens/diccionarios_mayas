@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taslik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apartado; aparte; separable, que fácilmente se separa",
+  "definitionDialect": "",
+  "additional_text": "p Xtasiʼk Raíz PT Tas",
+  "examples": [
+    {
+      "example_maya": "Li alah tas wi li roʼch chech li roʼch li utat",
+      "example_spa": "El muchacho tiene otra casa aparte de la de su papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "09b3c104-c1ae-4580-9192-019bc9cdf629"
+}

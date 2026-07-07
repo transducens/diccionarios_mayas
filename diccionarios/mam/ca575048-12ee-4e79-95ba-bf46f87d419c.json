@@ -1,0 +1,23 @@
+{
+  "entryWord": "BʼEEYBʼIL",
+  "definition": "1 lástima 2 pobreza",
+  "additional_text": "(bʼeybʼjiʼbʼil) sz raíz bʼey",
+  "examples": [
+    {
+      "example_maya": "Bʼeybʼil ni xjal xiʼqʼiʼn ew",
+      "example_spa": "Lástima la persona que se llevaron ayer",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tuj bʼeybʼjiʼbʼil nʼanqʼan xjal",
+      "example_spa": "La persona está viviendo en la pobreza",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ca575048-12ee-4e79-95ba-bf46f87d419c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "MIQL",
+  "definition": "está con la cara quieta o tranquila",
+  "additional_text": "(smiql) p ma miqeʼ, ma kubʼ tmiqbʼaʼn raíz miq p",
+  "examples": [
+    {
+      "example_maya": "Miql tuj chembʼil",
+      "example_spa": "Está con la cara quieta en la reunión",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "6e48c031-9fd0-4a53-9e6a-d591e2913c7c",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Ön (än)",
+  "definition": "Araña",
+  "additional_text": "sInv Wön Var Än, äm, chiköp, äm",
+  "examples": [
+    {
+      "example_maya": "Ri ön (än) yalan nubʼän ruken ri pa taq kajtzʼuk",
+      "example_spa": "La araña hace mucho tejido en los rincones",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ön yalan itzel chiköp",
+      "example_spa": "La araña es un animal muy malo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1c82310-4cfe-49c2-8674-62e63674c52a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

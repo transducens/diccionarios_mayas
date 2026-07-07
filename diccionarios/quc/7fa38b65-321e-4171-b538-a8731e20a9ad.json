@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzobʼobem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzobʼobʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Crecer tupido o muy junto",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz P Tzobʼ",
+  "examples": [
+    {
+      "example_maya": "Li ichaj katzobʼobʼik xkʼiyik",
+      "example_spa": "Las verduras crecieron tupidas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katzobʼobʼik xkʼiyik",
+      "example_spa": "Creció muy tupido",
+      "dialect": null
+    }
+  ],
+  "uuid": "7fa38b65-321e-4171-b538-a8731e20a9ad"
+}

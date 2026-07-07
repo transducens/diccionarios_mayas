@@ -1,0 +1,29 @@
+{
+  "entryWord": "Qʼebʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tinaja",
+  "definitionDialect": "General",
+  "additional_text": "scv Nuqʼeebʼaal Fbas //Qʼehbʼal// DomS Bʼoʼj",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal kachokon cheh erebʼal joron",
+      "example_spa": "La tinaja sirve para acarrear agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri winaq ojer xaq kʼis bʼoʼja qʼebʼal kakikojoh",
+      "example_spa": "Antes la gente sólo usaba tinajas de barro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼebʼal kakʼayix pa armit, kotzʼiʼj li qʼoʼbʼal rech bʼanom",
+      "example_spa": "Las tinajas que se venden en Guatemala, están adornadas con flores dibujadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "1e3edeb4-2c8a-44ba-b890-e6dfa681dded"
+}

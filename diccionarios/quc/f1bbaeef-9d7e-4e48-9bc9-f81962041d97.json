@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼaleʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manojo de leña, pacaya, elotes o mazorcas",
+  "definitionDialect": "",
+  "additional_text": "Med Raíz P Kʼal",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kebʼ kʼaleʼn li siʼ xuya pa li qʼaqʼ",
+      "example_spa": "La mujer puso dos manojos de leña en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "f1bbaeef-9d7e-4e48-9bc9-f81962041d97"
+}

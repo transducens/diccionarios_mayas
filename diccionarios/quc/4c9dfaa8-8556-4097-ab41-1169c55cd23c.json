@@ -1,0 +1,19 @@
+{
+  "entryWord": "Seʼq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sabor a cal",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz PT Keq",
+  "examples": [
+    {
+      "example_maya": "Li lij sibʼalaj seʼq pa chun",
+      "example_spa": "Las tortillas tienen sabor a cal",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c9dfaa8-8556-4097-ab41-1169c55cd23c"
+}

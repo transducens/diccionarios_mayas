@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼitik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Empeorar (enfermedad o herida); agravar (enfermedad o herida)",
+  "definitionDialect": "",
+  "additional_text": "VT Kinchʼitoh Raiz VT Chʼit",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ xchʼitik ma xa xel chwa li jabʼ",
+      "example_spa": "El enfermo se empeoró porque salió bajo la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "dfff3aae-f94a-42e4-afd8-4fd0b64ec770"
+}

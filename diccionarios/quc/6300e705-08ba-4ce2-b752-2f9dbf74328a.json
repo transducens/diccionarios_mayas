@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kamem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkamik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Morir",
+  "definitionDialect": "",
+  "additional_text": "vi viD Kinkamibʼeej Sentir mucha tristeza por alguien",
+  "examples": [
+    {
+      "example_maya": "Kinkamik we chintzaq la pwi li cheʼ",
+      "example_spa": "Si me caigo de la punta del árbol, me muero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih sibʼalaj koqʼik ma xa xkam li unan",
+      "example_spa": "La muchacha llora mucho porque su mamá se murió",
+      "dialect": null
+    }
+  ],
+  "uuid": "6300e705-08ba-4ce2-b752-2f9dbf74328a"
+}

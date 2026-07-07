@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xakʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxakʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar lentamente a zancadas",
+  "definitionDialect": "",
+  "additional_text": "vI Raíz VT Xakʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kaxakʼnajik xbʼe chwa roʼch",
+      "example_spa": "El hombre se fue a su casa con pasos largos y lentos",
+      "dialect": null
+    }
+  ],
+  "uuid": "1336b506-8ad6-4177-961b-1c77e4ad1af2"
+}

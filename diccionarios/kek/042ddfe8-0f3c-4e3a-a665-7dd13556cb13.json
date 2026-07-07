@@ -1,0 +1,18 @@
+{
+  "entryWord": "Kartuuch",
+  "definition": "Cartucho: flor o tiro de arma de fuego",
+  "additional_text": "SInv Inkartuuch",
+  "examples": [
+    {
+      "example_maya": "Saʼ li xaar re li artal junes kartuuch wan chi saʼ",
+      "example_spa": "En el florero del altar de la Santa Iglesia sólo cartuchos hay",
+      "dialect": null
+    }
+  ],
+  "uuid": "042ddfe8-0f3c-4e3a-a665-7dd13556cb13",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

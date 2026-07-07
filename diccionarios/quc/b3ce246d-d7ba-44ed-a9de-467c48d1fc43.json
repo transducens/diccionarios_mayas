@@ -1,0 +1,19 @@
+{
+  "entryWord": "Post",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Poste",
+  "definitionDialect": "",
+  "additional_text": "sInv Nupoost Var",
+  "examples": [
+    {
+      "example_maya": "Li post kachokon che raqan telegram",
+      "example_spa": "El poste sirve para sostener los alambres del telégrafo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3ce246d-d7ba-44ed-a9de-467c48d1fc43"
+}

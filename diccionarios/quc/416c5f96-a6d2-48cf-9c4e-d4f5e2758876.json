@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rininem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karininik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido carro, motocicleta, avión, zancudo o mosca",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Pa taq a las seys kikichap rininem li sakitan pa taq qʼalaj",
+      "example_spa": "A las seis de la tarde empieza el ruido de los ronrones en el invierno",
+      "dialect": null
+    }
+  ],
+  "uuid": "416c5f96-a6d2-48cf-9c4e-d4f5e2758876"
+}

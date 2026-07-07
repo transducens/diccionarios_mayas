@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼirirem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar un reloj despertador o timbre",
+  "definitionDialect": "General",
+  "additional_text": "vi Kachʼiririk Raíz At Chʼir",
+  "examples": [
+    {
+      "example_maya": "Li reloj xumajij chʼirirem",
+      "example_spa": "El reloj empezó a sonar",
+      "dialect": null
+    }
+  ],
+  "uuid": "b4a9f000-83f0-4cd4-8dd3-c9a9ae91188c"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kojir",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hace cuatro días",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Kojir kamnaq li rixoqil li kʼuljah",
+      "example_spa": "Hace cuatro días que se murió la esposa del vecino",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d17da76-ad51-4c16-a36c-ea52abb3bc0f"
+}

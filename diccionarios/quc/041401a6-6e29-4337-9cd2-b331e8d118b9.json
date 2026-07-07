@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼutik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enseñar; mostrar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinkʼutuh Raíz VT Kʼut",
+  "examples": [
+    {
+      "example_maya": "Kinkʼut na li tzʼibʼ chikiwach li akʼalabʼ",
+      "example_spa": "Tengo que enseñarles la escritura a los niños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal kʼutik kubʼan che li ikʼ",
+      "example_spa": "El niño muestra la luna",
+      "dialect": null
+    }
+  ],
+  "uuid": "041401a6-6e29-4337-9cd2-b331e8d118b9"
+}

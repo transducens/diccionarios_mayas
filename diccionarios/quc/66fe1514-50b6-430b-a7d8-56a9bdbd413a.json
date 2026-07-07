@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Irse por un camino; agarrar un camino; tomar un camino",
+  "definitionDialect": "general",
+  "additional_text": "RVT Kinbʼeʼaaj Raíz S Bʼeh",
+  "examples": [
+    {
+      "example_maya": "Are kinbʼeʼaj li nima bʼeh, ma are utz chwach li solibʼal bʼeh",
+      "example_spa": "Me voy a ir por la carretera porque es mejor que el extravío",
+      "dialect": null
+    }
+  ],
+  "uuid": "66fe1514-50b6-430b-a7d8-56a9bdbd413a"
+}

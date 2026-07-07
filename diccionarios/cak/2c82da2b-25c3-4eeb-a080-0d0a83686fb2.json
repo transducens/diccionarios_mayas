@@ -1,0 +1,23 @@
+{
+  "entryWord": "Remenïk",
+  "definition": "Llevar líquido",
+  "additional_text": "vtd Remexik, ninremej Reme, rem vi Bʼanoj var Riminïk",
+  "examples": [
+    {
+      "example_maya": "Taq xibʼe pa juyuʼ iwir xinremej el bʼa nuchilmol ri chin paqʼij",
+      "example_spa": "Cuando fui al monte ayer, me llevé un poco de chilmol para el almuerzo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir majun nutzuy ta xinkʼwaʼj, xa chupan pa nuwiʼ xinremej wi el bʼa nuyaʼ",
+      "example_spa": "Ayer no me llevé mi tecomate, sólo me llevé un poco de agua en mi sombrero",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c82da2b-25c3-4eeb-a080-0d0a83686fb2",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

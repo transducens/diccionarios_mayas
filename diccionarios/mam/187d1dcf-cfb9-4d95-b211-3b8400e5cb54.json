@@ -1,0 +1,18 @@
+{
+  "entryWord": "QACH",
+  "definition": "mordida Necesita ponerle número antes",
+  "additional_text": "md raíz qach af",
+  "examples": [
+    {
+      "example_maya": "Kabʼ qach loʼj xbʼaj tuʼn",
+      "example_spa": "Se acabó dos mordidas de fruta",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "187d1dcf-cfb9-4d95-b211-3b8400e5cb54",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

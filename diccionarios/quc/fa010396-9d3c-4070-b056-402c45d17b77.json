@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼipchʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Delicado, que se enoja luego",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Chʼip",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj chʼipchʼik che li ujastaq",
+      "example_spa": "El hombre es muy delicado con sus cosas",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa010396-9d3c-4070-b056-402c45d17b77"
+}

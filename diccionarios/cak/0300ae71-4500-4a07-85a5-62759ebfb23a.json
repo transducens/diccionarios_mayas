@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kanonel (kanunel)",
+  "definition": "Cazador Cazadores",
+  "additional_text": "sInv Nukanonel Kanonelaʼ, kanunelaʼ Winäq",
+  "examples": [
+    {
+      "example_maya": "Ri achiʼaʼ e kanonelaʼ jantapeʼ kikʼwaʼn qʼaqʼ",
+      "example_spa": "Los hombres cazadores siempre llevan rifle",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nutzʼiʼ jebʼël kanunel",
+      "example_spa": "Mi perro es buen cazador",
+      "dialect": null
+    }
+  ],
+  "uuid": "0300ae71-4500-4a07-85a5-62759ebfb23a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

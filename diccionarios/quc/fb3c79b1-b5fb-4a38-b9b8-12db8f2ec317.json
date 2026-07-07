@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laqʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse como morral vacío o carga liviana",
+  "definitionDialect": "",
+  "additional_text": "vi Kalaaqʼoʼpik Raíz VI Laqʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Kux xaq kalaqʼopik uchiim chrij",
+      "example_spa": "Marcos lleva el morral vacío",
+      "dialect": null
+    }
+  ],
+  "uuid": "fb3c79b1-b5fb-4a38-b9b8-12db8f2ec317"
+}

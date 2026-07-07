@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yupuyubʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kayupuyubʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parpadear; apagar",
+  "definitionDialect": "general",
+  "additional_text": "VI Raíz VI Yup",
+  "examples": [
+    {
+      "example_maya": "Li ubʼaqʼwach li akʼal kayupuyubʼik are taq kakunaxik",
+      "example_spa": "Los ojos del niño parpadean cuando lo curan",
+      "dialect": null
+    }
+  ],
+  "uuid": "f07e64b3-2910-44b6-9a9b-6b632275c4b4"
+}

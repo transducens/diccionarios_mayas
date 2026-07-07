@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHOOS",
+  "definition": "1 desinflado 2 bofo",
+  "additional_text": "adj tchosal, ma chosax raíz chos p",
+  "examples": [
+    {
+      "example_maya": "Maʼ chosax tuj qpelot, melay bʼant qschan tuʼn",
+      "example_spa": "Ya se desinfló nuestra pelota y no podemos jugar bien con ella",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Chos tuj tkʼuʼj jal luʼ",
+      "example_spa": "Esta mazorca está bofa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c7721849-0542-4765-87d4-a06e2df6471b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

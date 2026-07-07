@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼatatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido las llamas del fuego",
+  "definitionDialect": "",
+  "additional_text": "vi Kabʼatatik Raíz VT Bʼat",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj xbʼatat li uxaq qʼaqʼ are taq xporox li kʼacheʼlaj",
+      "example_spa": "Cuando quemaron la montaña las llamas de fuego hicieron mucho ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ab22536-6dee-473f-928a-7d2dc9cb0f99"
+}

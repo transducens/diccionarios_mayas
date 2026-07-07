@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kichik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enredar; mezclar; desarreglar; insultar; maltratar; burlarse de",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinkichoh vtd Kichichexik Revolver, mezclar, enredar, maltratar, insultar; burlarse de Sinón Yujunik Sinón Patzkuʼyanik Raiz VT Kich",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xukich li kinaqʼ rukʼ li ixim",
+      "example_spa": "El niño mezcló frijol con maíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kinkich kumal li winaq",
+      "example_spa": "La gente se burla mucho de mí",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li juchetaj bʼatzʼ xukich ribʼ",
+      "example_spa": "La madeja de hilo se enredó",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7ecbf0e-2c42-4093-bbf6-6faf15353309"
+}

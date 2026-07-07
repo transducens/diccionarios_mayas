@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chaʼlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abundante: cosa que se vende en el mercado",
+  "definitionDialect": "Spanish",
+  "additional_text": "P Xchaʼiʼk Raíz P Chaʼ",
+  "examples": [
+    {
+      "example_maya": "Chaʼl uwach li qʼinom",
+      "example_spa": "El jocotal tiene muchas frutas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li taraʼs sibʼalaj chaʼl pa li kʼayʼbʼal",
+      "example_spa": "Los duraznos abundan en la plaza",
+      "dialect": null
+    }
+  ],
+  "uuid": "49515fbe-9982-4566-9a7f-7e1676d9e346"
+}

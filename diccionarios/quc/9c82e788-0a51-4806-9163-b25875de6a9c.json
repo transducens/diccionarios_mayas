@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chïʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchiʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Confesar un delito; prometer",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz S Chiiʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah are taq xchʼayik te kʼu riʼ xchiʼnik",
+      "example_spa": "El muchacho confesó cuando le pegaban",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c82e788-0a51-4806-9163-b25875de6a9c"
+}

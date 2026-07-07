@@ -1,0 +1,18 @@
+{
+  "entryWord": "PIIL",
+  "definition": "pila",
+  "additional_text": "s1 npila del español pila frases: tzipil orilla de la pila",
+  "examples": [
+    {
+      "example_maya": "Maʼ txiʼ nkyʼajala tuj pil",
+      "example_spa": "Ya se fue mi hijo en la pila",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "99174547-1de1-4fd0-a375-0485a60ad88d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

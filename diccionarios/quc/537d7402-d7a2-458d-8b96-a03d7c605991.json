@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nimaqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mañana (parte del día); temprano",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Nimaqʼabʼ kel la li qʼij",
+      "example_spa": "Por la mañana sale el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "537d7402-d7a2-458d-8b96-a03d7c605991"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mujin",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mojinete",
+  "definitionDialect": "",
+  "additional_text": "snP DomS Jaa Del Cast Mojina",
+  "examples": [
+    {
+      "example_maya": "Li e wokol ja tajin kakibʼan mujin reh li jah",
+      "example_spa": "Los constructores están haciendo el mojinete de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "38bc9510-2e9a-46a3-987c-06009b37f0fc"
+}

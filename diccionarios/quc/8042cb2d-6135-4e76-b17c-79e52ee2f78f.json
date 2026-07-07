@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼoronik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xbʼoriʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xubʼorobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Puesta: cosa envuelta o enrollada",
+  "definitionDialect": "",
+  "additional_text": "p Var Bʼolonik Raíz PT Bʼor",
+  "examples": [
+    {
+      "example_maya": "Li mortoʼm xubʼorobʼa li ramux chwi li mes",
+      "example_spa": "El mayordomo dejó puesto sobre la mesa el manojo de palmas enrolladas",
+      "dialect": null
+    }
+  ],
+  "uuid": "8042cb2d-6135-4e76-b17c-79e52ee2f78f"
+}

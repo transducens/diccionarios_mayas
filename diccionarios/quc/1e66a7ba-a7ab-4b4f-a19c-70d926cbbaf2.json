@@ -1,0 +1,24 @@
+{
+  "entryWord": "Nakʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegado con goma o chinche; aplastado y pegado",
+  "definitionDialect": "",
+  "additional_text": "p Xnakʼiʼk, xunakʼabʼaʼ Raíz P Nakʼ",
+  "examples": [
+    {
+      "example_maya": "Li wachibʼal nakʼal chwa li tzʼalam",
+      "example_spa": "La foto está pegada en la tabla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼikin nakʼal chwa li tzʼalamabʼaj",
+      "example_spa": "El pájaro está pegado en la superficie de la peña",
+      "dialect": null
+    }
+  ],
+  "uuid": "1e66a7ba-a7ab-4b4f-a19c-70d926cbbaf2"
+}

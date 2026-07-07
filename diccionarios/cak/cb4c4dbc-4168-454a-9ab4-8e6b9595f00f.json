@@ -1,0 +1,23 @@
+{
+  "entryWord": "Stapeʼ",
+  "definition": "Aunque",
+  "additional_text": "ADV",
+  "examples": [
+    {
+      "example_maya": "Stape nibʼe, nitzoloj na",
+      "example_spa": "Aunque se vaya, regresará",
+      "dialect": null
+    },
+    {
+      "example_maya": "Stapeʼ ma utz ta, niqokisaj",
+      "example_spa": "Aunque no esté bueno, lo vamos a utilizar",
+      "dialect": null
+    }
+  ],
+  "uuid": "cb4c4dbc-4168-454a-9ab4-8e6b9595f00f",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waram",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwaram",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sueño",
+  "definitionDialect": "",
+  "additional_text": "SInv",
+  "examples": [
+    {
+      "example_maya": "Li akʼal karaj chi uwaram",
+      "example_spa": "El niño ya tiene sueño",
+      "dialect": null
+    }
+  ],
+  "uuid": "efe94866-39c4-4dbc-8ed5-abb5d0805dab"
+}

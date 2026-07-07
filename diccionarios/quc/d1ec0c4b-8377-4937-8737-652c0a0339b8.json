@@ -1,0 +1,24 @@
+{
+  "entryWord": "Koronik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flojo; algo alrededor de una cosa",
+  "definitionDialect": "",
+  "additional_text": "p Xkoriʼk, xukorobʼaʼ vtd Korokobʼeem Aflojarse vtd Koropixik Aflojar Sinón Kolonil Raíz P Kol",
+  "examples": [
+    {
+      "example_maya": "Li kolobʼ xkoriʼ chij reqaʼn li kej",
+      "example_spa": "El lazo de la carga del caballo está flojo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li reqaʼn li kej xa koronik, na ko taj ximilik",
+      "example_spa": "La carga del caballo está floja",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1ec0c4b-8377-4937-8737-652c0a0339b8"
+}

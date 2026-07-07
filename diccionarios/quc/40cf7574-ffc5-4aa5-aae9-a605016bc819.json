@@ -1,0 +1,19 @@
+{
+  "entryWord": "Supulajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al andar entre lodo",
+  "definitionDialect": "general",
+  "additional_text": "vi Kasupulajik Raiz VI Sup",
+  "examples": [
+    {
+      "example_maya": "Li achih kasupulaj li raqan are taq kabʼin pa li xaqʼoʼl, jer kape kibʼix xpeq",
+      "example_spa": "El ruido que el hombre hace al andar dentro el lodo, es como el cántico de los sapos",
+      "dialect": null
+    }
+  ],
+  "uuid": "40cf7574-ffc5-4aa5-aae9-a605016bc819"
+}

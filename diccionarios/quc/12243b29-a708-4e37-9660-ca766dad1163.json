@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wikʼilik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alborotado: pelo; Parado: pelo",
+  "definitionDialect": "",
+  "additional_text": "Sinón Wikiwik Sinón Wikʼwiʼy Raíz P Wikʼ",
+  "examples": [
+    {
+      "example_maya": "Li uwiʼ li achih, xa wikʼilik ma xa na kuxiy taj",
+      "example_spa": "El cabello del hombre está parado porque no se lo peina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li meʼs xuwikʼibʼa li rismal are taq xechʼoʼjin rukʼ li tzʼiʼ",
+      "example_spa": "Al gato se le puso el pelo parado cuando se peleó con el perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "12243b29-a708-4e37-9660-ca766dad1163"
+}

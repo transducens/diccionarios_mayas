@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yanayik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande y gordo: perro o coyote",
+  "definitionDialect": "",
+  "additional_text": "p Xyaniʼk, xuyanabʼaʼ",
+  "examples": [
+    {
+      "example_maya": "Xkamsax li jun yanayik tzʼiʼ, ma xa chʼuʼj",
+      "example_spa": "Mataron al perro grande porque tenía rabia",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c2aab90-2630-4ce5-9bff-a2a73c2c22bb"
+}

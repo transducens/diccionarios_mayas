@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼayalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xbʼayiʼkʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xubʼayabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Tirado (animal gordo)",
+  "definitionDialect": "General",
+  "additional_text": "p Raíz P Bʼay",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xutij bʼenen, xaq bʼayal chik",
+      "example_spa": "El perro gordo comió veneno y se quedó tirado",
+      "dialect": null
+    }
+  ],
+  "uuid": "1f14f583-6d3c-4280-98c5-c2856be01ff2"
+}

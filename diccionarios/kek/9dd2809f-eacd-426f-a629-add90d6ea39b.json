@@ -1,0 +1,23 @@
+{
+  "entryWord": "Roqruqʼ",
+  "definition": "Miembros, autoridad",
+  "additional_text": "SSP",
+  "examples": [
+    {
+      "example_maya": "Roqruqʼeb aj puubʼ",
+      "example_spa": "Miembro del ejército",
+      "dialect": null
+    },
+    {
+      "example_maya": "Roqruq chaqʼrabʼ",
+      "example_spa": "Miembro de la autoridad",
+      "dialect": null
+    }
+  ],
+  "uuid": "9dd2809f-eacd-426f-a629-add90d6ea39b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

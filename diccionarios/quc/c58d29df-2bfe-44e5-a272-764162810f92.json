@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ibʼoy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Armado; armadillo",
+  "definitionDialect": "General",
+  "additional_text": "sInv Wibʼooy DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li nunan utz kunaʼ utijowik li tiʼj ibʼoy",
+      "example_spa": "A mi mamá le gusta la carne de armado",
+      "dialect": null
+    }
+  ],
+  "uuid": "c58d29df-2bfe-44e5-a272-764162810f92"
+}

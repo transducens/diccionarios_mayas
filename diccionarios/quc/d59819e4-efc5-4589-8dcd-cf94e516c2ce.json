@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kalanik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xkaliʼk,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xukalabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Alto y delgado, suelto: pelo arreglado o peinado; delgado y alto, flojo: cosa metida en algo, como un anillo",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li alih kalan li uwiʼ chrij",
+      "example_spa": "La muchacha tiene el pelo suelto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xaq kalanik, na chom taj",
+      "example_spa": "El hombre alto tiene el cuerpo delgado",
+      "dialect": null
+    }
+  ],
+  "uuid": "d59819e4-efc5-4589-8dcd-cf94e516c2ce"
+}

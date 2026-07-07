@@ -1,0 +1,19 @@
+{
+  "entryWord": "Karneʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukarneʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Oveja",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS Chikop Del Cast Carnero",
+  "examples": [
+    {
+      "example_maya": "Li karneʼl kakiya lanah, xuq utz li kachaq che abʼix",
+      "example_spa": "Las ovejas dan lana, y su estiércol es abono para la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1744844-85a4-406a-b9ca-24eed5703fda"
+}

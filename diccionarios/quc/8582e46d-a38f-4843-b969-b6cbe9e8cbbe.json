@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nabʼeʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunabʼeʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hijo mayor; hija mayor; persona mayor de edad",
+  "definitionDialect": "",
+  "additional_text": "sInv //Nahbʼeh// Raíz S Aal DomS Alaxik DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li Aayeʼr are nabʼeʼal chinuwach",
+      "example_spa": "Guillermo es mayor que yo",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "8582e46d-a38f-4843-b969-b6cbe9e8cbbe"
+}

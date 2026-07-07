@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kemonel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tejedor",
+  "definitionDialect": "",
+  "additional_text": "sAgen Sinón Ajkeem",
+  "examples": [
+    {
+      "example_maya": "Li kemonel sibʼalaj utz kachapanik",
+      "example_spa": "El tejedor hace muy bien su trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5d8df394-a266-4962-bbc3-2e4ea0efda41"
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Liʼanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Plano; emparejado; nivelado; acostado; persona; limpio",
+  "definitionDialect": "General",
+  "additional_text": "p Xliʼiʼk, xuliibʼaʼ Raíz P Liʼ",
+  "examples": [
+    {
+      "example_maya": "Li uliw kʼowi li tinamit sibʼalaj liʼanik",
+      "example_spa": "El terreno donde está el pueblo, es muy plano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah liʼan pa li uchʼat",
+      "example_spa": "El muchacho está acostado en la cama",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chak are taq xporoxik sibʼalaj xliʼiʼk",
+      "example_spa": "Después de quemar el monte, el terreno quedó limpio",
+      "dialect": null
+    }
+  ],
+  "uuid": "4f75ecbe-a2f9-41a1-8bf3-c42288ca38fc"
+}

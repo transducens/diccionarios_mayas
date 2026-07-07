@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼupixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar fruta con la mano",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinchʼupiij Raíz VT Chʼup",
+  "examples": [
+    {
+      "example_maya": "Li achih kuchʼupij na li alanxax",
+      "example_spa": "El hombre cortará las naranjas",
+      "dialect": null
+    }
+  ],
+  "uuid": "77c407ac-4323-40e7-a447-ce78c4b62000"
+}

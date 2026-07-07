@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼarixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchʼarij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar o cosa de metal (que hace sonido fuerte)",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raiz VT Chʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuchʼarij juperaj leper chʼichʼ chwachulew",
+      "example_spa": "La mujer tiró al suelo un pedazo de lata",
+      "dialect": null
+    }
+  ],
+  "uuid": "5499de6a-cd9d-493b-8127-5b3bbe4180e7"
+}

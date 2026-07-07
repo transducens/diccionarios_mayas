@@ -1,0 +1,19 @@
+{
+  "entryWord": "Surusik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Redondo, casi esférico, como nudo de árbol; tinaja sin orejas",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raiz P Sur",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal xa surusik",
+      "example_spa": "La tinaja no tiene orejas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2bd4f6af-3042-4dcd-a217-49aabf118ac1"
+}

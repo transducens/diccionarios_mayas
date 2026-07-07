@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼiichʼ",
+  "definition": "Fierro, hierro, metal: cosa de metal, peltre, machete; carro, vehículo",
+  "additional_text": "sInv Inchʼiichʼ",
+  "examples": [
+    {
+      "example_maya": "Tojeʼ xinloqʼ jun inchʼiichʼ",
+      "example_spa": "Hace poco que compré un carro",
+      "dialect": null
+    },
+    {
+      "example_maya": "ukʼal chiʼiichʼ",
+      "example_spa": "Olla de metal",
+      "dialect": null
+    }
+  ],
+  "uuid": "021741b9-c7b5-4c4e-addc-a0809ee5ca45",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

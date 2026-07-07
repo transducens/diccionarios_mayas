@@ -1,0 +1,19 @@
+{
+  "entryWord": "Okibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Wokibʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Entrada; tiket",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz VI Ok",
+  "examples": [
+    {
+      "example_maya": "Li okibʼal reh li jah sibʼalaj jeʼlik",
+      "example_spa": "La entrada de la casa es muy bonita",
+      "dialect": null
+    }
+  ],
+  "uuid": "a9e3b4d9-9c95-471d-a956-68b82b26bf10"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Konkret",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukankreet",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Concreto",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Chokonisabʼal Del Cast Concreto",
+  "examples": [
+    {
+      "example_maya": "Konkret are laʼ li sement rachiʼlam li saqkowin xuq kawokbʼex taq jah",
+      "example_spa": "El concreto se usa para construir casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "32a96d82-1a12-411a-8c6d-0d7f1631a245"
+}

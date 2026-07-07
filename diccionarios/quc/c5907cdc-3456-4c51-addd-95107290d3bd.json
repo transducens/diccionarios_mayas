@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼisoʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costura",
+  "definitionDialect": "",
+  "additional_text": "SInv Nutʼisoʼm Coment Cosa ya cosida o trabajo de coser Raíz VT Tʼis",
+  "examples": [
+    {
+      "example_maya": "Na kʼax ta retaʼmaxik li tʼisoʼm",
+      "example_spa": "Es fácil aprender la costura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li altomabʼ pa li tijobʼal konojel kakibʼan tʼisoʼm",
+      "example_spa": "Todas las muchachas hacen costuras en la escuela",
+      "dialect": null
+    }
+  ],
+  "uuid": "c5907cdc-3456-4c51-addd-95107290d3bd"
+}

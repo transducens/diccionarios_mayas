@@ -1,0 +1,33 @@
+{
+  "entryWord": "Taqenkubʼen",
+  "definition": "Altibajo, ocupado, muy ocupado, difícil, dificultoso",
+  "additional_text": "Adj Xtaqenkubʼenoʼ, xtaqenkubʼenil",
+  "examples": [
+    {
+      "example_maya": "Taqenkubʼen inkʼaʼux xbʼaan li rahilal",
+      "example_spa": "Estoy preocupado por la dificultad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taqenkubʼen xkʼaʼux",
+      "example_spa": "Preocupado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taqenkubʼen xnaʼlebʼ",
+      "example_spa": "Malcriado, mal carácter",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taqenkubʼen naxye",
+      "example_spa": "Hablar alternativamente de una cosa y después de otra",
+      "dialect": null
+    }
+  ],
+  "uuid": "442f71c8-93ee-4080-9034-af8f0e4da87c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Animajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinanimajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Huirse; me huyo",
+  "definitionDialect": "General",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom animajem kubʼanoh are taq xchapik",
+      "example_spa": "El ladrón iba a huir cuando lo agarraron",
+      "dialect": null
+    }
+  ],
+  "uuid": "e4312607-ca99-45f5-a71b-c3cf90656cb1"
+}

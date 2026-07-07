@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼoy",
+  "definition": "Mono, mico",
+  "additional_text": "sInv Nukʼoy var Bʼatzʼ, chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri kʼoy xa xe pa kʼechelaj kʼo wi",
+      "example_spa": "El mono es un animal que vive en la montaña",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kʼoy pa täq kʼechelaj e kʼo wi",
+      "example_spa": "En las selvas se encuentra el mico",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c474519-8fd8-4c68-959f-2574cfe2b15a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

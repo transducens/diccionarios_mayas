@@ -1,0 +1,19 @@
+{
+  "entryWord": "Achjiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wachjiʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Concuño",
+  "definitionDialect": "General",
+  "additional_text": "sInv DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Iwir xojchakun rukʼ ri wachjiʼ",
+      "example_spa": "Ayer trabajamos con mi concuño",
+      "dialect": null
+    }
+  ],
+  "uuid": "64b40192-5fe0-4eec-959d-ebff9556a854"
+}

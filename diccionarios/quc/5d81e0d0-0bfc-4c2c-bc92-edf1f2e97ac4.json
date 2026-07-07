@@ -1,0 +1,19 @@
+{
+  "entryWord": "Alabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "(tzuʼtal tzʼalamal)",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Walabʼal Matriz; mi matriz",
+  "definitionDialect": "Dom.S. B'aqilaaj",
+  "additional_text": "SInv Raiz S Aal",
+  "examples": [
+    {
+      "example_maya": "Li nunan kʼo jun yabʼil pa li ralabʼal",
+      "example_spa": "Mi madre tiene una enfermedad en la matriz",
+      "dialect": null
+    }
+  ],
+  "uuid": "5d81e0d0-0bfc-4c2c-bc92-edf1f2e97ac4"
+}

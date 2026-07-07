@@ -1,0 +1,19 @@
+{
+  "entryWord": "Quchnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido el serrucho al cortar madera",
+  "definitionDialect": "",
+  "additional_text": "vi Kaquchnajik Raíz VT Quch",
+  "examples": [
+    {
+      "example_maya": "Li cheʼ kaquchnaj rumal li ramibʼal ma kʼo uwareh",
+      "example_spa": "La madera hace ruido porque el serrucho tiene filo",
+      "dialect": null
+    }
+  ],
+  "uuid": "460c4096-8d88-49ce-ab3b-d12d849d5bf4"
+}

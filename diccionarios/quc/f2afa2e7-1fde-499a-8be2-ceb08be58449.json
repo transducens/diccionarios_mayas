@@ -1,0 +1,24 @@
+{
+  "entryWord": "Parkih",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tendón; izote",
+  "definitionDialect": "",
+  "additional_text": "scv Nupaarkii //Pahr kih// Var Parkih Var Kih DomS Cheeʼ DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li parkih are ukowil taq li bʼaq rukʼ li tiʼjal",
+      "example_spa": "Los tendones son los que sostienen a los huesos y a la carne",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li parkih kakʼojiʼ usiʼj saq",
+      "example_spa": "El izote da una flor blanca",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2afa2e7-1fde-499a-8be2-ceb08be58449"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼelenik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xbʼeliʼk,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xubʼelebʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Floja: tierra; suave: tierra; desmoronosa: tierra",
+  "definitionDialect": "General",
+  "additional_text": "rp",
+  "examples": [
+    {
+      "example_maya": "Li uliw xaq bʼelenik",
+      "example_spa": "La tierra es muy suave",
+      "dialect": null
+    }
+  ],
+  "uuid": "9d1ee6f8-6451-4006-a579-2569e1a99069"
+}

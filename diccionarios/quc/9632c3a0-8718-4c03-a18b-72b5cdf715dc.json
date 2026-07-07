@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼorokʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tocar la puerta",
+  "definitionDialect": "",
+  "additional_text": "vi Kinkʼorokʼotik Raíz VI Kʼor",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kakʼorokʼot chrij li uchi jah",
+      "example_spa": "El niño está tocando la puerta",
+      "dialect": null
+    }
+  ],
+  "uuid": "9632c3a0-8718-4c03-a18b-72b5cdf715dc"
+}

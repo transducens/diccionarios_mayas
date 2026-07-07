@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jul",
+  "entryWordDialect": null,
+  "altEntryWord": "Nujul",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hoyo; cueva; tumba; sepulcro",
+  "definitionDialect": "",
+  "additional_text": "scv scl Kijul akʼ Gallinero",
+  "examples": [
+    {
+      "example_maya": "Kʼi jul kʼo pa taq li bʼeh",
+      "example_spa": "Hay muchos hoyos en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xkʼototaj li ujul li kamnaq",
+      "example_spa": "La tumba del muerto ya fue escarbada",
+      "dialect": null
+    }
+  ],
+  "uuid": "1a72c04b-a647-4aff-b02a-7d9db03a9954"
+}

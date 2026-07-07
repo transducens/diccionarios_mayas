@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ruqʼuqʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar en el agua",
+  "definitionDialect": "",
+  "additional_text": "vi Karuqʼuqʼlabʼik Raíz VT Ruqʼ",
+  "examples": [
+    {
+      "example_maya": "Are taq xokʼow li tzʼiʼ pa li joron si karuqʼuqʼlabʼik",
+      "example_spa": "Cuando pasó el perro en el agua, hizo ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "64b5ba52-e3fa-4b86-82c3-6a63e90f7880"
+}

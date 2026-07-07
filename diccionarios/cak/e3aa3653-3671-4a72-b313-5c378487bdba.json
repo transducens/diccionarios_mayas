@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼisis",
+  "definition": "Ciprés",
+  "additional_text": "sInv Nukʼisis Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼisis ukunäq (okinäq) ri nuchʼakat",
+      "example_spa": "Mi silla está hecha de ciprés",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kʼisis jun cheʼ, yalan utz tzʼalän nel chre",
+      "example_spa": "El ciprés es un árbol del que se saca buena tabla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kʼisis sibʼiläj nikʼiy",
+      "example_spa": "El ciprés crece mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3aa3653-3671-4a72-b313-5c378487bdba",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,33 @@
+{
+  "entryWord": "Kʼan",
+  "definition": "Pita, hamaca, cordel, mecate Novia Trampa hecha de cola de caballo",
+  "additional_text": "SInv Nukʼan Mecate Kʼan",
+  "examples": [
+    {
+      "example_maya": "Ri kʼan yalan kʼatzinel",
+      "example_spa": "La pita es muy útil",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri taq akʼwalaʼ jebʼël nkinaʼ yewär pa kʼan",
+      "example_spa": "A los niños les gusta dormir en la hamaca",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nukʼan, nabʼëy janíla janina xirajoʼ, wakamin xa xujäl runaʼoj",
+      "example_spa": "Mi novia antes me quería mucho, pero ahora cambió de carácter",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq rubʼanun kan yalan nokusäx ri kʼan richin kichapik ri chiköpïʼ, wakami ruyon bʼaʼ rujey kej nukusäx",
+      "example_spa": "Anteriormente se usaba mucho la pita para agarrar animales, ahora se usa la cola de caballo",
+      "dialect": null
+    }
+  ],
+  "uuid": "73fc55da-315d-4e39-8729-c8e3b9f9a9a1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

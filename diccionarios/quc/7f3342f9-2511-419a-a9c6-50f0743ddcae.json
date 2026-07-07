@@ -1,0 +1,19 @@
+{
+  "entryWord": "Charchatexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrastrar",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTD Kincharchateej Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li ajchʼamiʼy xuchararej bʼi li alah pa cheʼ",
+      "example_spa": "El alguacil arrastró al muchacho a la cárcel",
+      "dialect": null
+    }
+  ],
+  "uuid": "7f3342f9-2511-419a-a9c6-50f0743ddcae"
+}

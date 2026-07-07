@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼoʼjixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pelear usando leyes",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinchʼoʼjiij var Chʼaʼoʼj",
+  "examples": [
+    {
+      "example_maya": "Kinchʼoʼjij na wabʼix ma xa xtijow rumal wakax",
+      "example_spa": "Voy a pelear la milpa que fue comida por el buey",
+      "dialect": null
+    }
+  ],
+  "uuid": "cc8b4667-9562-4cc6-970b-35f8b47a2e5b"
+}

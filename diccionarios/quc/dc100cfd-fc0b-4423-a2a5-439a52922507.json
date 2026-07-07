@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼoqixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrancar dientes o estacas; desclavar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintzʼoqiij Sinón Kintzʼoqoh Raíz VT Tzʼoq",
+  "examples": [
+    {
+      "example_maya": "Kintzʼoqij na li lawux chech li martil",
+      "example_spa": "Voy a desclavar los clavos con el martillo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwareh li ixoq qʼaʼy chik, xa je riʼ kutzʼoq li elesal wareʼaj",
+      "example_spa": "El diente de la mujer está podrido, por eso el dentista se lo va a arrancar",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc100cfd-fc0b-4423-a2a5-439a52922507"
+}

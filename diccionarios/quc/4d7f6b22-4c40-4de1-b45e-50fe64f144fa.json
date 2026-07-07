@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chapal tap",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cazador de cangrejos",
+  "definitionDialect": "",
+  "additional_text": "SAgen",
+  "examples": [
+    {
+      "example_maya": "Li achih chapal taq tap",
+      "example_spa": "El hombre es cazador de cangrejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "4d7f6b22-4c40-4de1-b45e-50fe64f144fa"
+}

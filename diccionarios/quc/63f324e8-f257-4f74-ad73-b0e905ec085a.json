@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rokʼokʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karokʼokʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al rasguñar",
+  "definitionDialect": "general",
+  "additional_text": "vi F Kakirokʼ kibʼaqʼwach Hacer gestos malos con los ojos Raiz PT Rokʼ",
+  "examples": [
+    {
+      "example_maya": "Li meʼs karokʼokʼik xpaqiʼ chwa li tzʼalam",
+      "example_spa": "El gato hizo ruido al subirse en la pared de tabla",
+      "dialect": null
+    }
+  ],
+  "uuid": "63f324e8-f257-4f74-ad73-b0e905ec085a"
+}

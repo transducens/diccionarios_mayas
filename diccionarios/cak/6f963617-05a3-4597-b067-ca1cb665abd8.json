@@ -1,0 +1,28 @@
+{
+  "entryWord": "Raqʼarik",
+  "definition": "Inclinado: un lugar, pendiente, recostado, inclinado pendiente: camino o cerro, caídas: orejas de animales",
+  "additional_text": "AdjD Var Jaqʼajik, papïk, chirichik",
+  "examples": [
+    {
+      "example_maya": "Ri chʼiti wulew chöj bʼa raqʼarik",
+      "example_spa": "Mi terrenito es un poco inclinado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wulew ruyon raqʼarik",
+      "example_spa": "Mi terreno es sólo ladera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri wakx pa täq taqʼaj yalan raqʼaräq (tuqutäq) ri kixkin",
+      "example_spa": "El ganado de la costa tiene las orejas muy caídas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f963617-05a3-4597-b067-ca1cb665abd8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼiroʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse espina dentro de la piel",
+  "definitionDialect": "General",
+  "additional_text": "vi Kakʼiiroʼpik Raíz VI Kʼir",
+  "examples": [
+    {
+      "example_maya": "Kakʼiroʼp li kʼix pa waqan",
+      "example_spa": "La espina se mueve en la planta de mi pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "ba2dc40a-8c93-43cc-bf44-f3e3a3dbb3f7"
+}

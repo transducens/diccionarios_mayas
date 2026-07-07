@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wechechlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desmoronarse",
+  "definitionDialect": "general",
+  "additional_text": "vi Kawechechlabik Raíz VI Wech",
+  "examples": [
+    {
+      "example_maya": "Xuchap wechechlabʼem li qʼor ma xa na kokʼ taj",
+      "example_spa": "La masa se empezó a desmoronar porque no está bien molida",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b6664cd-fa98-468f-9f62-7d507bde6e4e"
+}

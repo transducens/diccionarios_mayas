@@ -1,0 +1,24 @@
+{
+  "entryWord": "Choyik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chapear; machetear hierbas o ramas con machete de poco filo",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinchoyoh Enu Juchooy (juchoyaaj) Un machetazo oído desde lejos, cuando cortan árboles vl Choynajeem vl Choyoʼpeem Hacer ruido al cortar árboles y que se oye desde lejos PC Kaqchoyochoj Duro al cortar Raíz VT Choy",
+  "examples": [
+    {
+      "example_maya": "Li alah kachoynaj pa taq li qʼayes",
+      "example_spa": "El muchacho está cortando ramas en el monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xuya juchoy chʼichʼ che li jun cheʼ",
+      "example_spa": "El hombre le dio un machetazo al palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "51ca8a78-2da2-487b-be29-9f2050436e55"
+}

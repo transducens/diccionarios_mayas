@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxabʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Piedra de color verde azul; jade",
+  "definitionDialect": "",
+  "additional_text": "sc Raíz Adj Rax Raíz S Abʼaj DomS Abʼaj",
+  "examples": [
+    {
+      "example_maya": "Waʼ we raxabʼaj we kaya pa qʼaqʼ kapaqʼinik",
+      "example_spa": "Si esta piedra se pone en el fuego, se raja",
+      "dialect": null
+    }
+  ],
+  "uuid": "d910f78b-ea5a-4424-8a19-98c447b8def4"
+}

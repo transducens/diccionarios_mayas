@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chanachatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachanachatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rascarse un cerdo, restregándose; bailar rápido; tocar música rápidamente",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz PT Chan",
+  "examples": [
+    {
+      "example_maya": "Li aq kachanachatik are taq kukʼaqatij ribʼ che jun abʼaj",
+      "example_spa": "El cerdo se rasca, restregándose en una piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "51d3836b-062d-4c73-8a21-475449bc2d11"
+}

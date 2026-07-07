@@ -1,0 +1,23 @@
+{
+  "entryWord": "SIBʼ",
+  "definition": "humo",
+  "additional_text": "s1a nsibʼa raíz sibʼ s",
+  "examples": [
+    {
+      "example_maya": "Mitiʼ tajbʼlanan sibʼ te jun xjal",
+      "example_spa": "El humo no tiene ningún uso para la gente",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kye taʼw sibʼ ma tzʼokx tuj nwitza",
+      "example_spa": "Me duelen los ojos por el humo que me entró",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c6ab6086-9d86-4aed-8976-2950c5ad9997",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

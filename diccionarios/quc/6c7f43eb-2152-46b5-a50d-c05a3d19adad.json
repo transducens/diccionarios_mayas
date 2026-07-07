@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaqijchiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchaqijchiʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sed",
+  "definitionDialect": "",
+  "additional_text": "sc",
+  "examples": [
+    {
+      "example_maya": "We kʼo uchoqʼabʼ uwa li qʼij kuya chaqijchiʼ",
+      "example_spa": "Cuando el sol está fuerte, da mucha sed",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c7f43eb-2152-46b5-a50d-c05a3d19adad"
+}

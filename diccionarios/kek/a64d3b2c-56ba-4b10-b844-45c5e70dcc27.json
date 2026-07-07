@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pomink",
+  "definition": "Echar incienso o copal, asar varias cosas",
+  "additional_text": "VTD Xinpomi",
+  "examples": [
+    {
+      "example_maya": "Xinpomi li hal re xbʼantyoxinkil",
+      "example_spa": "Quemé incienso para agradecer por la cosecha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinpomi hebʼ li kʼux",
+      "example_spa": "Asé varios elotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "a64d3b2c-56ba-4b10-b844-45c5e70dcc27",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

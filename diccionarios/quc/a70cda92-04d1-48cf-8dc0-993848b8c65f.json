@@ -1,0 +1,19 @@
+{
+  "entryWord": "Peʼjane:m",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpeʼjanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Presumir; contar inventos",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz Vt Peʼj",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq kapeʼjanik",
+      "example_spa": "Al muchacho le gusta contar inventos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a70cda92-04d1-48cf-8dc0-993848b8c65f"
+}

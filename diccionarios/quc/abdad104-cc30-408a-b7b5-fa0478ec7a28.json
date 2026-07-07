@@ -1,0 +1,29 @@
+{
+  "entryWord": "Rubʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Remojado; empapado; mojado",
+  "definitionDialect": "",
+  "additional_text": "p Xrubʼiʼk, xurubʼubʼaʼ Sinón Lubʼanik Var Chʼaqalik Raíz PT Rubʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼajoʼn sibʼalaj kʼa rubʼulik",
+      "example_spa": "La ropa lavada está muy mojada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih sibʼalaj xrubʼiʼ li ujastaq ma xa xtzaq pa li bʼinel jaʼ",
+      "example_spa": "El hombre está mojado porque se cayó al río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li watzʼyaq xrubʼiʼk, ma xinbʼin chwa li jabʼ",
+      "example_spa": "Mi ropa se empapó porque caminé bajo la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "abdad104-cc30-408a-b7b5-fa0478ec7a28"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Chʼumilal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Destino",
+  "definitionDialect": "",
+  "additional_text": "SSP Coment Sólo se usa junto a la palabra =ikʼila:l",
+  "examples": [
+    {
+      "example_maya": "Utz kikʼilal kichʼumilal li winaq kʼo kimebʼaʼil",
+      "example_spa": "El destino de los que tienen riquezas, es bueno",
+      "dialect": null
+    }
+  ],
+  "uuid": "d4d7f119-68e1-4a01-8c42-02435011f8da"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Usmal wismal (rismal) rïsmal",
+  "definition": "Pluma, vello, lana",
+  "additional_text": "sp Rusmal, var Is, ïs, wïʼaj Usumal, ismal",
+  "examples": [
+    {
+      "example_maya": "Kʼo winäq yalan rusumal ruwa kikʼuʼx",
+      "example_spa": "Hay personas que tienen muchos vellos en el pecho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri waq janíla pin (pim) ri rusumal",
+      "example_spa": "El pelo de mi marrano es bien grueso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri waq xukʼüq kan kʼïy rusumal ri jun wäkʼ",
+      "example_spa": "Mi marrano le arrancó varias plumas a una de mis gallinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ef320ca-2aa3-4477-8f1d-416301e844bc",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

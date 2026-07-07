@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼojanem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼojanik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encostrarse; parecerse el niño a uno de sus padres",
+  "definitionDialect": "",
+  "additional_text": "vt Fbas //Kʼohj// Raíz VI Kʼooj",
+  "examples": [
+    {
+      "example_maya": "Li uqʼabʼ li Tomás xusokoh, xkʼojanik",
+      "example_spa": "El brazo que se raspó Tomás, se le encostró",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li a Triʼx, xkʼojan chij li utat",
+      "example_spa": "Andrés se parece a su papá",
+      "dialect": null
+    }
+  ],
+  "uuid": "59251f2a-af02-480a-bdbe-a2a4dc51c4c9"
+}

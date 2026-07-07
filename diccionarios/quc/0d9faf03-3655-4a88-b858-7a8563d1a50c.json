@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Chiʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Uchiʼbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cicatriz que deja un instrumento o los dientes de un animal; resto",
+  "definitionDialect": "General",
+  "additional_text": "SSP SDS Uchiʼbʼal chʼoh Restos de algo roído por ratones",
+  "examples": [
+    {
+      "example_maya": "Li kaxlanwah xa uchiʼbʼal chʼoh",
+      "example_spa": "El pan es sólo un resto roído por los ratones",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d9faf03-3655-4a88-b858-7a8563d1a50c"
+}

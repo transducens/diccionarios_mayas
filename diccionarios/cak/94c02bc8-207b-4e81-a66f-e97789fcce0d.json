@@ -1,0 +1,28 @@
+{
+  "entryWord": "Majäj",
+  "definition": "Aglomerarse sobre una venta, ser avaro, mamar con ganas",
+  "additional_text": "vi Nimajäj",
+  "examples": [
+    {
+      "example_maya": "Taq xinkʼayij ri (nabʼëy) taq äj, kan xemajäj ri winäq chi rij",
+      "example_spa": "Cuando vendí los primeros elotes, se aglomeró la gente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq jun akʼwal ninüm chik, kan nimajäj chi rij ri rutzʼun",
+      "example_spa": "Cuando un nene tiene mucha hambre, con qué ganas mama",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri jün wachkʼulujay kan nimajäj chi rij rulew",
+      "example_spa": "Un mi vecino es avaro con sus terrenos",
+      "dialect": null
+    }
+  ],
+  "uuid": "94c02bc8-207b-4e81-a66f-e97789fcce0d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

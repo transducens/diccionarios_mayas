@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nimaril",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apenas",
+  "definitionDialect": "",
+  "additional_text": "Adv F Xaq nimariil Apenas var Kaqrayiil",
+  "examples": [
+    {
+      "example_maya": "Nimaril xinqʼiʼoh xinqʼax pa le jaʼ",
+      "example_spa": "Apenas aguanté a cruzar el río",
+      "dialect": null
+    }
+  ],
+  "uuid": "ff0f1376-929f-46c7-9d17-1abbe4c4bedd"
+}

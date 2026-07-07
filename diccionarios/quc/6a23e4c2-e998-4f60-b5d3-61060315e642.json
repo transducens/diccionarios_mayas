@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzalixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintzalij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Devolver, contestar",
+  "definitionDialect": "",
+  "additional_text": "vtd Ant Yaʼik Raiz VT Tzal",
+  "examples": [
+    {
+      "example_maya": "Kintzalij li reloj chech li achih, ma xa na utz taj",
+      "example_spa": "Devuelvo el reloj al hombre, porque no es bueno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintzalij uwach li utzij li achih",
+      "example_spa": "Contestó las palabras del hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a23e4c2-e998-4f60-b5d3-61060315e642"
+}

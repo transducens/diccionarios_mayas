@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sakimox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saquimox, en el baile de la conquista",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Ajxojolobʼ",
+  "examples": [
+    {
+      "example_maya": "Li sakimox nim reqeleʼn, chomanel pa ramaqʼ kʼicheʼ",
+      "example_spa": "Sakimox fue un principal y consejero del reino Quiché",
+      "dialect": null
+    }
+  ],
+  "uuid": "90d0e6ae-d69c-4e33-aca4-dcf2d35db045"
+}

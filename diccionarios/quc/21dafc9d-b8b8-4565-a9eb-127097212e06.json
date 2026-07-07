@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yojojem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido la lluvia, río o aire",
+  "definitionDialect": "Español",
+  "additional_text": "vı Kayojojik Raíz VT Yoj",
+  "examples": [
+    {
+      "example_maya": "Li jabʼ sibʼalaj kayojojik xpetik, ma saqbʼach",
+      "example_spa": "Cuando comenzó la lluvia hizo mucho ruido porque traía granizo",
+      "dialect": null
+    }
+  ],
+  "uuid": "21dafc9d-b8b8-4565-a9eb-127097212e06"
+}

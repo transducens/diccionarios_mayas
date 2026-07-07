@@ -1,0 +1,23 @@
+{
+  "entryWord": "Relaʼ",
+  "definition": "Resto, sobrante",
+  "additional_text": "ssp",
+  "examples": [
+    {
+      "example_maya": "Weʼ relaʼ li tzʼekeemj",
+      "example_spa": "Aquí está el sobrante de la comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinwulak chi xchoybʼal relaʼ li waqʼiim",
+      "example_spa": "Llegué a terminar el resto de la limpia",
+      "dialect": null
+    }
+  ],
+  "uuid": "13d60bc4-e67e-4404-be91-6982eeff3ff8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

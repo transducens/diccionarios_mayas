@@ -1,0 +1,19 @@
+{
+  "entryWord": "Putzik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Enredar hilo",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinputzuh Raíz VT Putz",
+  "examples": [
+    {
+      "example_maya": "Li chij xputz rumal li akʼal",
+      "example_spa": "El hilo fue enredado por el niño",
+      "dialect": null
+    }
+  ],
+  "uuid": "a68b8a47-055d-48a4-b90b-7a815a225440"
+}

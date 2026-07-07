@@ -1,0 +1,23 @@
+{
+  "entryWord": "Joqʼbʼak",
+  "definition": "Roncar una sola vez",
+  "additional_text": "vi Ninjoqʼbʼak",
+  "examples": [
+    {
+      "example_maya": "Najoqʼbʼak chi wark",
+      "example_spa": "Está roncando en el sueño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Najooqʼan saʼ ruʼuj chi wark",
+      "example_spa": "Está durmiendo y roncando",
+      "dialect": null
+    }
+  ],
+  "uuid": "47c3ff7b-b4e8-4548-ac04-60200487bd59",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

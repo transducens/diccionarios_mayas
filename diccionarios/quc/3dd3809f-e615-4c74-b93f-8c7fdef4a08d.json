@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rewesyon",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Devoción",
+  "definitionDialect": "General",
+  "additional_text": "SInv Nurewesyoon Del Cast Devoción",
+  "examples": [
+    {
+      "example_maya": "Li winaq xuʼlik xa ajrewesyon, tajin kikiporoj qʼaqʼ chwa tyox",
+      "example_spa": "La gente que llegó por devoción, está quemando bombas voladoras en el atrio de la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "3dd3809f-e615-4c74-b93f-8c7fdef4a08d"
+}

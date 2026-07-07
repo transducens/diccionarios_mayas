@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mul\"",
+  "entryWordDialect": null,
+  "altEntryWord": "Numul\"",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mula",
+  "definitionDialect": "General",
+  "additional_text": "SInv DomS Chikop Del Cast Mula",
+  "examples": [
+    {
+      "example_maya": "Li mul\" sibʼalaj kʼo uchoqʼabʼ chikiwach konojel kej",
+      "example_spa": "La mula tiene más fuerza que cualquier caballo",
+      "dialect": null
+    }
+  ],
+  "uuid": "34253380-b641-4347-b490-5198e428d3f0"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "KYʼIJAAJ",
+  "definition": "pita",
+  "additional_text": "s1 nkyʼijaja",
+  "examples": [
+    {
+      "example_maya": "Pur kyʼijaj nnajon bʼinchbʼal xyubʼ",
+      "example_spa": "Sólo pita se usa para hacer redes",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Pur chnaʼqa bʼinchal kyʼijaj",
+      "example_spa": "Puros tutuapenses son los que hacen la pita",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "25d2c160-f25d-4f9a-9808-dc3647a3929b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

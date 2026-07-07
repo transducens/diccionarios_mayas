@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jolkoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resbalarse al subir a un árbol",
+  "definitionDialect": "",
+  "additional_text": "VI Kajolkoʼpik Raíz VT Jol",
+  "examples": [
+    {
+      "example_maya": "Li achih xaq kajolkoʼp chrij li cheʼ",
+      "example_spa": "El hombre se resbala al tratar de subir al palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "27afc03b-3c86-426b-a782-7f46586ba2e1"
+}

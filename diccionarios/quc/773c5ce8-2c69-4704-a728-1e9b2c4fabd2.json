@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeq uliw",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tierra negra",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz Adj Qʼeq Raiz S Uleew DomS Uleew",
+  "examples": [
+    {
+      "example_maya": "Pa li qʼeq uliw sibalaj utz kel tikoʼn",
+      "example_spa": "En la tierra negra se da buena siembra",
+      "dialect": null
+    }
+  ],
+  "uuid": "773c5ce8-2c69-4704-a728-1e9b2c4fabd2"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼequʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Oscuro",
+  "definitionDialect": "General",
+  "additional_text": "Adj Uqʼeequʼmaal, xqʼeequʼmarik Fbas //Qʼehquʼm// Raíz S Qʼeeq",
+  "examples": [
+    {
+      "example_maya": "Chanim xqʼequʼmarik are taq xqaj bʼi li ikʼ",
+      "example_spa": "Cuando se ocultó la luna, se puso obscuro",
+      "dialect": null
+    },
+    {
+      "example_maya": "We maj uqʼaqʼ jun winaq kabʼin pa qʼequʼm xaq si katzaq wih",
+      "example_spa": "Si una persona camina en lo oscuro, siempre se cae",
+      "dialect": null
+    }
+  ],
+  "uuid": "d68239e3-e328-45a0-8624-01f9dd251743"
+}

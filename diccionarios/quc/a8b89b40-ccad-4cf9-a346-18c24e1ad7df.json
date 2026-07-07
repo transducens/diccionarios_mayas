@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼoqobʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caerse un árbol solo o una piedra",
+  "definitionDialect": "",
+  "additional_text": "vi Kabʼoqobʼobʼik Raíz VT Bʼoq",
+  "examples": [
+    {
+      "example_maya": "Xbʼoqobʼobʼ li cheʼ rumal li nima kaqiq",
+      "example_spa": "El árbol se cayó por el viento",
+      "dialect": null
+    }
+  ],
+  "uuid": "a8b89b40-ccad-4cf9-a346-18c24e1ad7df"
+}

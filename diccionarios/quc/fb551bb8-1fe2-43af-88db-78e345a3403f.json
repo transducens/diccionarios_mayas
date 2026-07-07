@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pochʼopik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abierta; herida",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz VT Pochʼ",
+  "examples": [
+    {
+      "example_maya": "Li raqan li achih usokom sibʼalaj nima pochʼopik",
+      "example_spa": "La pierna del hombre tiene una herida grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "fb551bb8-1fe2-43af-88db-78e345a3403f"
+}

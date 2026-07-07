@@ -1,0 +1,19 @@
+{
+  "entryWord": "Surulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Descubierto, sin sombrero",
+  "definitionDialect": "general",
+  "additional_text": "p Xsuriʼk, xusurubʼaʼ Raiz P Ur",
+  "examples": [
+    {
+      "example_maya": "Li alah xutzaq li upowiʼ xa je riʼ xsuriʼk",
+      "example_spa": "El muchacho perdió su sombrero, por eso se quedó descubierto",
+      "dialect": null
+    }
+  ],
+  "uuid": "f6506ba3-e147-4e16-9af7-e0d40466ceb2"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jumum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juguete que consiste en una tabla delgada, amarrada a una pita",
+  "definitionDialect": "General",
+  "additional_text": "SInv Nujumum",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xubʼan jun ujumum karetzʼabʼej",
+      "example_spa": "El niño hizo un juguete zumbador",
+      "dialect": null
+    }
+  ],
+  "uuid": "e48918ed-ed09-483f-9620-b0da3ce5b363"
+}

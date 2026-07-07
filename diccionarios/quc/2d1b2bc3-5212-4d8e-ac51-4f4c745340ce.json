@@ -1,0 +1,29 @@
+{
+  "entryWord": "Chomaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchomaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pensar; escoger; arreglar; discutir",
+  "definitionDialect": "General",
+  "additional_text": "VTD Fbas //Chohma// SInv Choomaal Sesión, reunión SAgen Choomaaneel Persona que arregla algo s Choomabʼal Pensamiento; entendimiento; idea; lugar donde se arreglan asuntos Var Chayunik Var Kʼoxomanik",
+  "examples": [
+    {
+      "example_maya": "Kinchomaj nah we kinbʼe chweʼq chwa woʼch",
+      "example_spa": "Tengo que pensar si me voy mañana a mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq chomaxik kubʼan che li qʼeqa kinaqʼ chuxoʼl li saq",
+      "example_spa": "La mujer va a escoger los frijoles negros entre los blancos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alkalteh tajin kuchomaj li winaq e kʼo pa qʼatbʼal tzij",
+      "example_spa": "El alcalde está arreglando a la gente que está en la municipalidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "2d1b2bc3-5212-4d8e-ac51-4f4c745340ce"
+}

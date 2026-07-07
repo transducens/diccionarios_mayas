@@ -1,0 +1,23 @@
+{
+  "entryWord": "Maläl",
+  "definition": "Andar de insectos que no se les mira el movimiento de las patas, sentir el caminar de insecto en el cuerpo",
+  "additional_text": "vi Nimaläl",
+  "examples": [
+    {
+      "example_maya": "Yemaläl ri kʼäq chi rij nutzʼiʼ",
+      "example_spa": "Las pulgas andan en mi perro",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nimaläl jun jut chi rij nuqʼaʼ",
+      "example_spa": "Siento caminar un gusano sobre mi brazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "550d13cd-3db3-4d7e-97ea-383f5bacf9fb",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chokolat",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchokolat",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chocolate",
+  "definitionDialect": "General",
+  "additional_text": "SInv Var Kakoh Var Tukeekakoh Del Cast Chocolate",
+  "examples": [
+    {
+      "example_maya": "Li chokolat katijowik jacha kapeh",
+      "example_spa": "El chocolate se toma como café",
+      "dialect": null
+    }
+  ],
+  "uuid": "7c2f41da-0313-4c77-950e-c4c5f063f514"
+}

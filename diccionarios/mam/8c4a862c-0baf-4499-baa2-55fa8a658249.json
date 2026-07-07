@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHEEʼT",
+  "definition": "moler maíz o nixtamal",
+  "additional_text": "vt cheʼl te, cheʼn, ma bʼaj ncheʼna, chebʼil raíz cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ma tzul aj cheʼl tukʼ tlibʼ",
+      "example_spa": "Vino a moler donde su suegra",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma txiʼ nan cheʼlte te twa yabʼ xuʼj",
+      "example_spa": "Se va a ir mamá a moler la comida de la mujer embarazada",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8c4a862c-0baf-4499-baa2-55fa8a658249",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼachik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinbʼachoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Restregar",
+  "definitionDialect": "",
+  "additional_text": "VTR Raiz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kubʼach li atzʼyaq pa qʼeq",
+      "example_spa": "La mujer está restregando la ropa con jabón",
+      "dialect": null
+    }
+  ],
+  "uuid": "80f6fa82-ac05-407e-be7f-31f10ef268f3"
+}

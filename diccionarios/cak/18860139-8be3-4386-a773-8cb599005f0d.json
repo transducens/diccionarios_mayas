@@ -1,0 +1,28 @@
+{
+  "entryWord": "Anima",
+  "definition": "Corazón, espíritu de muerto, cadáver",
+  "additional_text": "sInv Wánima Sinón Tijul (tijol) kʼuʼx var Kʼuʼx Chʼakulaj Anima (español)",
+  "examples": [
+    {
+      "example_maya": "Ri wánima nuxibʼij riʼ taq yixibʼix",
+      "example_spa": "Mi corazón se asusta cuando me espantan",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri animaʼiʼ nibʼix chi yexibʼin",
+      "example_spa": "Dicen que espantan los espíritus de muertos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun ánima jun bʼäy (mul), kan kʼa pa rox qʼij xmuq",
+      "example_spa": "Cierta vez, un cadáver fue enterrado hasta el tercer día",
+      "dialect": null
+    }
+  ],
+  "uuid": "18860139-8be3-4386-a773-8cb599005f0d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

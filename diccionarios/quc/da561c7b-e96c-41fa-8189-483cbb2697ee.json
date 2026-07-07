@@ -1,0 +1,19 @@
+{
+  "entryWord": "Junalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Junelik",
+  "altEntryWordDialect": "Amaqʼel",
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Siempre; todo el tiempo",
+  "definitionDialect": "",
+  "additional_text": "Adv Var Junelik Var Amaqʼel",
+  "examples": [
+    {
+      "example_maya": "Ri Qajawxel xaq junalik kʼolik, maj ukʼisik",
+      "example_spa": "Dios siempre existe, no tiene fin",
+      "dialect": null
+    }
+  ],
+  "uuid": "da561c7b-e96c-41fa-8189-483cbb2697ee"
+}

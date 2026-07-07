@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqreproj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manchada: de rojo la piel",
+  "definitionDialect": "",
+  "additional_text": "pc Raíz Adj Kaq Raíz Vl Rep",
+  "examples": [
+    {
+      "example_maya": "Kaqreproj ubʼanom li utelebʼ li ixoq",
+      "example_spa": "La mujer tiene manchado el brazo de rojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "070e1f4d-ac02-48a1-ac0e-f8184d21760d"
+}

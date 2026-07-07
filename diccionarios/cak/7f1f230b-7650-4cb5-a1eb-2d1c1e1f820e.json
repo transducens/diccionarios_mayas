@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼaqëy",
+  "definition": "Especie de culebra de agua",
+  "additional_text": "sInv Nubʼaqëy Chiköp, kumätz",
+  "examples": [
+    {
+      "example_maya": "Re bʼaqëy aj pa yaʼ",
+      "example_spa": "Esta culebra es de agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri bʼaqëy yalan retzelal ri raqʼon",
+      "example_spa": "Esta culebra es muy venenosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "7f1f230b-7650-4cb5-a1eb-2d1c1e1f820e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

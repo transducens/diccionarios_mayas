@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutzʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una pintada; una mano de pintura",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Tzʼaj",
+  "examples": [
+    {
+      "example_maya": "Li tzʼajanel xaq jutzʼaj xuya che li xilaʼ",
+      "example_spa": "El pintor le dio una sola pintada a la silla",
+      "dialect": null
+    }
+  ],
+  "uuid": "9fa93555-a48b-4109-9915-f7b15a693d68"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ranarik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gordo; panzudo, con la cintura muy alta: persona, botellas, jarros o cargas",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Ran",
+  "examples": [
+    {
+      "example_maya": "Li alih na utz ta ximonnaq, xa jun ranarik ubʼanom cheh li uxibʼal",
+      "example_spa": "La muchacha no amarró bien el corte, tiene la cintura muy alta",
+      "dialect": null
+    }
+  ],
+  "uuid": "1fc82cd2-e28d-4dce-bebd-0a4baee213af"
+}

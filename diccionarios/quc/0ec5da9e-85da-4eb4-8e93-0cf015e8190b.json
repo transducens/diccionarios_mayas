@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pakapobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Madrugada; amanecer el día; aurora",
+  "definitionDialect": "General",
+  "additional_text": "VI Kapakapobʼik Raíz VI Pak",
+  "examples": [
+    {
+      "example_maya": "Xpakapobʼ li uxe kaj are taq xinpetik",
+      "example_spa": "Estaba por amanecer cuando me vine",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ec5da9e-85da-4eb4-8e93-0cf015e8190b"
+}

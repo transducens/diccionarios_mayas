@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xukulim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fiesta hecha un mes antes del primer viernes de cuaresma",
+  "definitionDialect": "",
+  "additional_text": "sv DomS Nimaqʼiij",
+  "examples": [
+    {
+      "example_maya": "Pa xukulim kamajtaj uqʼijil koresm kumal ajresaʼtayibʼ",
+      "example_spa": "Con esta fiesta empieza el tiempo de cuaresma por la hermandad del santo entierro",
+      "dialect": null
+    }
+  ],
+  "uuid": "86806aa5-0b3d-49ff-bc5a-63027baf307a"
+}

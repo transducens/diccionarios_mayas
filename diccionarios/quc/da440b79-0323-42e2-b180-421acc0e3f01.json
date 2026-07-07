@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kej",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bestia; caballo; sandalias (modismo); zapatos (modismo)",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li kej sibʼalaj utz che eqaʼn",
+      "example_spa": "El caballo es bueno para cargar",
+      "dialect": null
+    }
+  ],
+  "uuid": "da440b79-0323-42e2-b180-421acc0e3f01"
+}

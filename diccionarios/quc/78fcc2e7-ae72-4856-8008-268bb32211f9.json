@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wiqabʼaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwiqabʼaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Santa apolonia, hierba",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Kunabʼal DomS Qʼayes",
+  "examples": [
+    {
+      "example_maya": "Li wiqabʼaq utz cheh qʼajik",
+      "example_spa": "La santa apolonia es buena para golpes",
+      "dialect": null
+    }
+  ],
+  "uuid": "78fcc2e7-ae72-4856-8008-268bb32211f9"
+}

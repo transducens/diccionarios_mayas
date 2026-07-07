@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzabʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tupidos: granos que nacen juntos o pelos; tirada: ropa vieja",
+  "definitionDialect": "",
+  "additional_text": "p Xtzabʼiʼk, xutzabʼabʼaʼ Raíz PT Tzabʼ",
+  "examples": [
+    {
+      "example_maya": "Li trikoh sibʼalaj tzabʼal chwi li qʼeʼt",
+      "example_spa": "Los tablones están tupidos de trigo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tzabʼal jun qʼeʼl atzʼyaq pwi li chʼat",
+      "example_spa": "La ropa vieja está tirada sobre la cama",
+      "dialect": null
+    }
+  ],
+  "uuid": "624346c9-3d99-4701-a88a-8f0220a132ff"
+}

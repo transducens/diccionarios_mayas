@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼuykuʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": "chʼuykaʼtem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse estaca floja, piedra o diente",
+  "definitionDialect": "General",
+  "additional_text": "vi Kachʼuykuʼtik (kachʼuykaʼtik) Raiz P Chʼuy",
+  "examples": [
+    {
+      "example_maya": "Li xkʼubʼ xaq kachʼuykaʼtik ma xa na koh taj chʼikom puliw",
+      "example_spa": "El tenamaste se mueve porque no está bien seguro en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "685ab2e5-d37e-489e-9487-fb7d43e25079"
+}

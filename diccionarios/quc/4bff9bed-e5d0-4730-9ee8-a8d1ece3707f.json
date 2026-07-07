@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼok",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Semilla germinada",
+  "definitionDialect": "",
+  "additional_text": "SnP",
+  "examples": [
+    {
+      "example_maya": "Li ixim chʼok chi, chuxeʼ li uliw",
+      "example_spa": "El maíz está germinando debajo de la tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "4bff9bed-e5d0-4730-9ee8-a8d1ece3707f"
+}

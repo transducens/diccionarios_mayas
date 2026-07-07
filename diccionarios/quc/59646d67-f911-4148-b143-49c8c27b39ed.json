@@ -1,0 +1,24 @@
+{
+  "entryWord": "Teqʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer hoyo; perforar, haradar, abrir hoyos grandes como para puerta o ventana; agujerear tela o papel; barrenar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinteqʼuuj Var Woorik Raiz VT Teqʼ",
+  "examples": [
+    {
+      "example_maya": "Li straktor kakowin cheh uteqʼuxik taq li juyubʼ",
+      "example_spa": "El tractor puede perforar las montañas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinteqʼuj na li tzʼalam cheh jun worbʼal",
+      "example_spa": "Voy a hacerle un hoyo a la tabla con un barreno",
+      "dialect": null
+    }
+  ],
+  "uuid": "59646d67-f911-4148-b143-49c8c27b39ed"
+}

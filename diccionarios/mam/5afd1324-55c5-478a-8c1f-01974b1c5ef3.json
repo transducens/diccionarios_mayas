@@ -1,0 +1,18 @@
+{
+  "entryWord": "OK",
+  "definition": "sí Indica seguridad",
+  "additional_text": "pf raíz ok par",
+  "examples": [
+    {
+      "example_maya": "¿Saqa kxela tukʼal? ok chin xela",
+      "example_spa": "¿Scaso vas a ir con él? sí voy a ir",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "5afd1324-55c5-478a-8c1f-01974b1c5ef3",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

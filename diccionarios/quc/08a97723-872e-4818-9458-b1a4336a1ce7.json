@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzakik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cocer",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintzakoh Raíz VT Tzak",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tzakik raj kubʼan cheh li saqmoʼl are taq xupaxij",
+      "example_spa": "La mujer iba a cocer el huevo cuando lo quebró",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xutzakabʼa kan li subʼ pa li sobʼal",
+      "example_spa": "La mujer dejó puestos los tamales en la olla para cocerlos",
+      "dialect": null
+    }
+  ],
+  "uuid": "08a97723-872e-4818-9458-b1a4336a1ce7"
+}

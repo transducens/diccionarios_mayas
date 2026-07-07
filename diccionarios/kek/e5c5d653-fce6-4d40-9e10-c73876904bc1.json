@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mochmo",
+  "definition": "Encogido, doblado, arrugado: tela, papel, etc, amontonado",
+  "additional_text": "P Mochobʼank, xinmochobʼ, mochlaak",
+  "examples": [
+    {
+      "example_maya": "Xinmochobʼ li waaq naq xinkamsi",
+      "example_spa": "Encogí a mi marrano cuando lo maté",
+      "dialect": null
+    },
+    {
+      "example_maya": "Junajwa naq xinixmochobʼ li mochkej",
+      "example_spa": "De una vez me encogió el calambre",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5c5d653-fce6-4d40-9e10-c73876904bc1",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

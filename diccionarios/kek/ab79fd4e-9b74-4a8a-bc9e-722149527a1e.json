@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sachso",
+  "definition": "Gastado, perdido, extraviado, grave",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ sachso chi junajwa, inkʼaʼ chik nahulak saʼ li ochoch",
+      "example_spa": "El perro está perdido ya no volvió a la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li yaj sachso chi junajwa",
+      "example_spa": "El enfermo está grave",
+      "dialect": null
+    }
+  ],
+  "uuid": "ab79fd4e-9b74-4a8a-bc9e-722149527a1e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

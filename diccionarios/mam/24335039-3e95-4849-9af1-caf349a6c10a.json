@@ -1,0 +1,23 @@
+{
+  "entryWord": "AL EE",
+  "definition": "¿de quién es?",
+  "additional_text": "pi raíz al par raíz e sr",
+  "examples": [
+    {
+      "example_maya": "¿Al e uʼj luʼ?",
+      "example_spa": "¿De quién es este cuaderno?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Al e aj xtribuk luʼ?",
+      "example_spa": "¿De quién es esta pistola?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "24335039-3e95-4849-9af1-caf349a6c10a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

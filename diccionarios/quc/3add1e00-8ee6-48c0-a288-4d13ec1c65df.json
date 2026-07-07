@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juyanaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Grande y gordo: perro o coyote; gordo y grande: perro o coyote; robusta: persona",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li alah, juyanaj ma maj yabʼil uriqom",
+      "example_spa": "El muchacho es robusto porque no se ha enfermado",
+      "dialect": null
+    }
+  ],
+  "uuid": "3add1e00-8ee6-48c0-a288-4d13ec1c65df"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Tzʼibʼanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escribir",
+  "definitionDialect": "General",
+  "additional_text": "vi Katzʼibʼanik Raíz VT Tzʼibʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajtzʼibʼ xuchap tzʼibʼanem",
+      "example_spa": "El secretario empezó a escribir",
+      "dialect": null
+    }
+  ],
+  "uuid": "30d73749-0c9a-40f6-a4d6-69a117da5b7f"
+}

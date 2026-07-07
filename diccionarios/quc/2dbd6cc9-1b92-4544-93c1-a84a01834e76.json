@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yak",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gato de monte Se cree que es de mal agüero",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuyaak Raíz S Yaak",
+  "examples": [
+    {
+      "example_maya": "Li yak kuʼchapakʼ chunaqaj taq jah xuq kuʼtijoh",
+      "example_spa": "El gato de monte caza gallinas cerca de las casas y se las come",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li yak we xuraq uchiʼ chunaqaj jun jah, kamik kubʼij",
+      "example_spa": "Si el gato de monte grita cerca de alguna casa, anuncia muerte fatal",
+      "dialect": null
+    }
+  ],
+  "uuid": "2dbd6cc9-1b92-4544-93c1-a84a01834e76"
+}

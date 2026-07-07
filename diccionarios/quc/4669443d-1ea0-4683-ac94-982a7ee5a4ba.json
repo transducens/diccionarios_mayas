@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pulixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llenar con líquido, granos o polvo hasta que no quepa más o hasta el borde",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpuliij Raíz VT Pol (pul)",
+  "examples": [
+    {
+      "example_maya": "Kinpulij na li nuqʼebʼal cheh joron",
+      "example_spa": "Voy a llenar mi tinaja de agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "4669443d-1ea0-4683-ac94-982a7ee5a4ba"
+}

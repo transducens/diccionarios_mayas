@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalkʼaʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Costilla; esposa (sentido figurado)",
+  "definitionDialect": "B'aqilaaj.",
+  "additional_text": "sInv Nukʼalkʼaʼx",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xubʼan kʼax chech li ukʼalkʼaʼx are taq xtzaqik",
+      "example_spa": "El niño se golpeó las costillas al caer",
+      "dialect": null
+    }
+  ],
+  "uuid": "57d2fbb1-a414-41eb-9aa5-1df8dbbc558a"
+}

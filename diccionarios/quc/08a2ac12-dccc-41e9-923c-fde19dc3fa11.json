@@ -1,0 +1,19 @@
+{
+  "entryWord": "Solixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kʼakʼalixik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Visitar",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinsoliij Sinón Kʼakʼalixik Raíz VT Sol",
+  "examples": [
+    {
+      "example_maya": "Keʼnsolij na li wajchakibʼ la tajin kechakunik",
+      "example_spa": "Voy a visitar a mis mozos para ver si están trabajando",
+      "dialect": null
+    }
+  ],
+  "uuid": "08a2ac12-dccc-41e9-923c-fde19dc3fa11"
+}

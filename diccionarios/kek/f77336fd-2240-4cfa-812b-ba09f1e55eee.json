@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pukank",
+  "definition": "Repartir",
+  "additional_text": "VTD Xinpuka",
+  "examples": [
+    {
+      "example_maya": "Li payr xʼok chi pukank kokʼ kabʼ saʼ xyanqebʼ li kokʼal",
+      "example_spa": "El padre comenzó a repartir confites entre los niños",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinpuka li maniiy saʼ xyanqebʼ li wiitzʼin",
+      "example_spa": "Repartí las manías entre mis hermanitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "f77336fd-2240-4cfa-812b-ba09f1e55eee",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

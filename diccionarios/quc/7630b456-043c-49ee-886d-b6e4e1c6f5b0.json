@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Derramar líquidos; tirar agua con fuerza",
+  "definitionDialect": "",
+  "additional_text": "vtr Kïntixoh Utixanem jaʼ Catarata Raíz VT Tix",
+  "examples": [
+    {
+      "example_maya": "Kintix li joron kʼo pa li qʼebʼal",
+      "example_spa": "Voy a derramar el agua que está en la tinaja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xutix bʼi li uwaʼl ik",
+      "example_spa": "La muchacha tiró el caldo",
+      "dialect": null
+    }
+  ],
+  "uuid": "7630b456-043c-49ee-886d-b6e4e1c6f5b0"
+}

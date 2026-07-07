@@ -1,0 +1,19 @@
+{
+  "entryWord": "Loqʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comprar",
+  "definitionDialect": "General",
+  "additional_text": "vtr Kinloqʼoh Raíz VT Loqʼ",
+  "examples": [
+    {
+      "example_maya": "Li al Roʼs kuloqʼ na li utiʼ",
+      "example_spa": "Rosa va a comprar carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "4d8a4014-0787-4f0f-9628-010d8f366e5d"
+}

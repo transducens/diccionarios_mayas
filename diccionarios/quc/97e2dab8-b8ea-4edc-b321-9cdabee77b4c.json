@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sajkoʼr",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusajkoʼr",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Codorniz",
+  "definitionDialect": "",
+  "additional_text": "SInv Var Saqkoʼr Raíz Adj Saq Raíz S Koʼr DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li sajkoʼr xukʼot li awex",
+      "example_spa": "La codorniz escarbó la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "97e2dab8-b8ea-4edc-b321-9cdabee77b4c"
+}

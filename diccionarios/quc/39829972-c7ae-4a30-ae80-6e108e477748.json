@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼarixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar cosas planas, como tabla, piedra, etc",
+  "definitionDialect": "General",
+  "additional_text": "vtd Kintzʼariij Raíz PT Tzʼar",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xutzʼarij kan li uwuj chwi li mes",
+      "example_spa": "El niño dejó tirado su cuaderno encima de la mesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "39829972-c7ae-4a30-ae80-6e108e477748"
+}

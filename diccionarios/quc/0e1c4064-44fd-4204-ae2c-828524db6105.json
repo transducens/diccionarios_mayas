@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tasik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintasoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apartar; separar",
+  "definitionDialect": "",
+  "additional_text": "vTR Raíz PT Tas",
+  "examples": [
+    {
+      "example_maya": "Li ixoq karaj kutas li qʼeqa kinaqʼ rachiʼlam li saqatubʼin",
+      "example_spa": "La mujer quiere apartar frijol negro y también frijol blanco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintas wibʼ pa jah",
+      "example_spa": "Me separo de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "0e1c4064-44fd-4204-ae2c-828524db6105"
+}

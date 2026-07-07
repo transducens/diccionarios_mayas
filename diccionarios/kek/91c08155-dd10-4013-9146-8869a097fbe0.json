@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chʼochʼel",
+  "definition": "Patria, tierra natal",
+  "additional_text": "SIDV Inchʼochʼel",
+  "examples": [
+    {
+      "example_maya": "Maajoqʼe tintzʼeqtaana linchʼochʼel",
+      "example_spa": "Nunca voy a olvidarme de mi patria",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼochʼel kenqʼ",
+      "example_spa": "Frijol de suelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi chʼochʼel",
+      "example_spa": "Por tierra, en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "91c08155-dd10-4013-9146-8869a097fbe0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

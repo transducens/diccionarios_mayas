@@ -1,0 +1,19 @@
+{
+  "entryWord": "Salotenem",
+  "entryWordDialect": null,
+  "altEntryWord": "Solotanem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pelarse cáscara de árbol o piel",
+  "definitionDialect": "",
+  "additional_text": "vi Kasalootanik Var Solotaneem",
+  "examples": [
+    {
+      "example_maya": "Xuchap salotenem li raqan li akʼal",
+      "example_spa": "El pie del niño empezó a pelarse",
+      "dialect": null
+    }
+  ],
+  "uuid": "828de869-859d-4c85-a3cb-1c5259fd2385"
+}

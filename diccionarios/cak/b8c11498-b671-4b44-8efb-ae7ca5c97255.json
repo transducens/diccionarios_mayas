@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kikotem (kikoten)",
+  "definition": "Alegría, contento",
+  "additional_text": "SInv Nukikotem, nukikoten Kʼo Var Kikoten Ant Bʼis",
+  "examples": [
+    {
+      "example_maya": "Pa jun nimaqʼij kʼo yalan kikoten",
+      "example_spa": "En una fiesta hay mucha alegría",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo kikotem chi rachoch ri nuchaqʼ",
+      "example_spa": "Hay alegría en la casa de mi hermano",
+      "dialect": null
+    }
+  ],
+  "uuid": "b8c11498-b671-4b44-8efb-ae7ca5c97255",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

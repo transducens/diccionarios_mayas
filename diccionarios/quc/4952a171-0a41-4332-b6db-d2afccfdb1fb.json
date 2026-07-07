@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tyoʼnel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Que muerde (como culebra que muerde)",
+  "definitionDialect": "general",
+  "additional_text": "sAgen Raíz Vl Tiʼ",
+  "examples": [
+    {
+      "example_maya": "Li raxkʼel are laʼ jun kumatz tyoʼnel xuq kakamsanik",
+      "example_spa": "El chocoyo es una culebra que muerde y mata",
+      "dialect": null
+    }
+  ],
+  "uuid": "4952a171-0a41-4332-b6db-d2afccfdb1fb"
+}

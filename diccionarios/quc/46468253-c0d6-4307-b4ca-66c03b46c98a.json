@@ -1,0 +1,24 @@
+{
+  "entryWord": "Polim",
+  "entryWordDialect": null,
+  "altEntryWord": "Pulim",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llenarse al tomar mucho líquido; fatigarse; cometer pecado en beber aguardiente en exceso (sentido religioso)",
+  "definitionDialect": "",
+  "additional_text": "vi Kinpoolik Var Raíz VI Pol (pul)",
+  "examples": [
+    {
+      "example_maya": "We kintij kʼih serwes kinpol rumal",
+      "example_spa": "Si tomara muchas cervezas, me llenarían demasiado",
+      "dialect": null
+    },
+    {
+      "example_maya": "In xinmakutaj che polim qʼabʼarem",
+      "example_spa": "Yo cometí el pecado de beber con exceso",
+      "dialect": null
+    }
+  ],
+  "uuid": "46468253-c0d6-4307-b4ca-66c03b46c98a"
+}

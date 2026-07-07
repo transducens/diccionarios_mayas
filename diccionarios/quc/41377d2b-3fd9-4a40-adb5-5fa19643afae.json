@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼipikʼotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parpadear con ojos llenos de cheles",
+  "definitionDialect": "Spanish",
+  "additional_text": "vI Kakʼipikʼotik Raiz VT Kʼip",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kʼax uwach xaq kakʼipikʼotik",
+      "example_spa": "El niño tiene malos los ojos, le parpadean mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "41377d2b-3fd9-4a40-adb5-5fa19643afae"
+}

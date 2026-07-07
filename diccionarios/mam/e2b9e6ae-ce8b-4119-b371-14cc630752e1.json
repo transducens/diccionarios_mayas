@@ -1,0 +1,23 @@
+{
+  "entryWord": "TAL XAQ",
+  "definition": "cacto de piedra (género opuntia) Sólo crece encima de las piedras, machucado y untado en la espalda y el estómago alivia el estreñimiento, también tomándolo hervido",
+  "additional_text": "scl sin tbʼaqʼ tor; raíz tal adj raíz xaq s ds qʼanbʼil",
+  "examples": [
+    {
+      "example_maya": "Maʼ jaqet nkʼuʼja tuʼn tal xaq",
+      "example_spa": "Ya se destapó mi estómago por el cacto",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Mitiʼ nchikyim tal xaq tuj koresma",
+      "example_spa": "Los cactos no se mueren en el verano",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e2b9e6ae-ce8b-4119-b371-14cc630752e1",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

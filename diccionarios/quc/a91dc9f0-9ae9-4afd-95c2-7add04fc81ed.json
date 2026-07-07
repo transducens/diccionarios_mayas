@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulutajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼulutajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "encontrado persona, animal",
+  "definitionDialect": "General",
+  "additional_text": "vI",
+  "examples": [
+    {
+      "example_maya": "Li achih xanimajik, anim kubʼan pa bʼeh",
+      "example_spa": "El hombre que se fugó, va corriendo por el camino",
+      "dialect": null
+    }
+  ],
+  "uuid": "a91dc9f0-9ae9-4afd-95c2-7add04fc81ed"
+}

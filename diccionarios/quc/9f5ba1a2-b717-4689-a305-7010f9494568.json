@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tijoʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alumno; discípulo, estudiante, colegial, escolar",
+  "definitionDialect": "general",
+  "additional_text": "SInv Nutiijoʼn Sinón Tijoxeel",
+  "examples": [
+    {
+      "example_maya": "Li tijoʼn sibʼalaj sakʼaj li ujolom",
+      "example_spa": "El alumno es astuto",
+      "dialect": null
+    }
+  ],
+  "uuid": "9f5ba1a2-b717-4689-a305-7010f9494568"
+}

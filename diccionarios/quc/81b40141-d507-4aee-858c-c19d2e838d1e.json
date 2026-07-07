@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mun",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Goloso; chucho",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raiz S Muun",
+  "examples": [
+    {
+      "example_maya": "Li alah xa jun mun xaq apasa kutijoh",
+      "example_spa": "El muchacho es un goloso, porque come de todo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun tzʼiʼ xa mun kuʼtij akʼ",
+      "example_spa": "El perro es goloso, come gallinas",
+      "dialect": null
+    }
+  ],
+  "uuid": "81b40141-d507-4aee-858c-c19d2e838d1e"
+}

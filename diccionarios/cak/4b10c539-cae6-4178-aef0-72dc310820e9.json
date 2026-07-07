@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼayij (kʼayij)",
+  "definition": "Negocio, venta",
+  "additional_text": "sInv Nukʼayij",
+  "examples": [
+    {
+      "example_maya": "Chanin xkʼis ri nukʼayij",
+      "example_spa": "Mi venta la terminé luego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ronojel ri nukʼayij kʼa ja ri tiqaqʼij xkʼis",
+      "example_spa": "Hasta en la tarde se terminó toda mi venta",
+      "dialect": null
+    }
+  ],
+  "uuid": "4b10c539-cae6-4178-aef0-72dc310820e9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

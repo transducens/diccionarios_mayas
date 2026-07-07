@@ -1,0 +1,34 @@
+{
+  "entryWord": "Si",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muy; siempre",
+  "definitionDialect": "Spanish",
+  "additional_text": "Part Var Junelik Var Amaqʼel Var Siibʼalaj",
+  "examples": [
+    {
+      "example_maya": "Si kachakun wih",
+      "example_spa": "Siempre trabaja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Si kʼatan wih",
+      "example_spa": "Siempre está caliente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Na si ta kachakunik",
+      "example_spa": "No siempre trabaja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Si na kachakun ta wih",
+      "example_spa": "Nunca trabaja",
+      "dialect": null
+    }
+  ],
+  "uuid": "2248a004-486f-48c3-922e-0dbb1ad7a919"
+}

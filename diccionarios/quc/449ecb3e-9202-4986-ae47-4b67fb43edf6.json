@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wolexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirar una bola; llevar una bola",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinwooleej Raíz P Wol",
+  "examples": [
+    {
+      "example_maya": "Kinwolej na bʼiʼi li pelot",
+      "example_spa": "Voy a llevarme la pelota",
+      "dialect": null
+    }
+  ],
+  "uuid": "449ecb3e-9202-4986-ae47-4b67fb43edf6"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaxel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Visitante, uno que viene de paso",
+  "definitionDialect": "es",
+  "additional_text": "saP Fbas //Qʼahx//",
+  "examples": [
+    {
+      "example_maya": "Li pareh xaq qʼaxel pa li tinamit",
+      "example_spa": "El sacerdote es visitante en el pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "15af807b-64a1-489c-a208-fc0f71f21b87"
+}

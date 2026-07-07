@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼelnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachʼelnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con carga pesada; tener la ropa abajo o algo caída",
+  "definitionDialect": "K'iche'",
+  "additional_text": "vi Raiz PT Chʼel",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan kachʼelnaj xe jun kʼat jal",
+      "example_spa": "Juan lleva una red de mazorcas",
+      "dialect": null
+    }
+  ],
+  "uuid": "37b0813e-9f88-4517-8f14-7dd3d25f0355"
+}

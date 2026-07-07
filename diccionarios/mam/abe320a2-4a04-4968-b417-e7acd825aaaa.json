@@ -1,0 +1,23 @@
+{
+  "entryWord": "ẌIBʼ",
+  "definition": "acción de dar un pellizco o de quitar un pedazo pequeño con las uñas a frutas, verduras o pan",
+  "additional_text": "af raíz ẍibʼ vt",
+  "examples": [
+    {
+      "example_maya": "Ẍibʼ ma tzʼel jun piẍ npana tuʼn",
+      "example_spa": "“Ẍibʼ”, me quito un pedazo de pan",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ẍibʼ sok tiʼj tqʼabʼ wuʼna, bʼix ntiʼ sul tnabʼl",
+      "example_spa": "“Ẍibʼ”, le di un pellizco en su brazo y no se despertó",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "abe320a2-4a04-4968-b417-e7acd825aaaa",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

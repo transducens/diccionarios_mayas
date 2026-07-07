@@ -1,0 +1,19 @@
+{
+  "entryWord": "Torit",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Baile del torito",
+  "definitionDialect": "",
+  "additional_text": "sAP DomS Ajxojolobʼ Del Cast Torito",
+  "examples": [
+    {
+      "example_maya": "Li torit keqʼosix pa taq unimaqʼij taq tinamit",
+      "example_spa": "El baile de torito lo organizan en las fiestas titulares de los pueblos",
+      "dialect": null
+    }
+  ],
+  "uuid": "173fd0cc-001f-4b4e-867f-538da10cbc0c"
+}

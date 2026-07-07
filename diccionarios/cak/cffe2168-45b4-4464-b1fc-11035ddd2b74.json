@@ -1,0 +1,23 @@
+{
+  "entryWord": "Watzawik",
+  "definition": "Aspero rústico",
+  "additional_text": "Adj Var Wachawik",
+  "examples": [
+    {
+      "example_maya": "Achʼäl achiʼel jun tzarajmäq yalan watzawik ruwäch",
+      "example_spa": "Una poma es muy áspera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri ajtzʼaq chöj xuwatzabʼaʼ kan ri nuxan",
+      "example_spa": "El albañil dejó muy rústica mi pared",
+      "dialect": null
+    }
+  ],
+  "uuid": "cffe2168-45b4-4464-b1fc-11035ddd2b74",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

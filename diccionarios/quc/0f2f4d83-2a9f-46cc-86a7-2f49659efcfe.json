@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laweh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llave",
+  "definitionDialect": "",
+  "additional_text": "scv Nulaawee //Lahweh// SSP =Laaweyiil Llave especial para abrir cierta cosa DomS Chʼiichʼ Del Cast Llave",
+  "examples": [
+    {
+      "example_maya": "Li ulawe li ixoq, punul chwa jah",
+      "example_spa": "La llave de la mujer, está tirada en el patio",
+      "dialect": "Fbas."
+    }
+  ],
+  "uuid": "0f2f4d83-2a9f-46cc-86a7-2f49659efcfe"
+}

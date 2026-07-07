@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qachalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fácil de cortar",
+  "definitionDialect": "General",
+  "additional_text": "p Xqachiʼk Raíz P Qach",
+  "examples": [
+    {
+      "example_maya": "Li tiʼij utukel tiʼoj, qachalik",
+      "example_spa": "La carne sin hueso es fácil de cortar",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ded94ef-76c3-4718-a0a9-6b8b55a0633e"
+}

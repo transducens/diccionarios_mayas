@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wikʼikʼlabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar de un lado a otro con la cabeza alborotada; andar con chiriviscos de un lado a otro",
+  "definitionDialect": "",
+  "additional_text": "vi Kawikʼikʼlabʼik",
+  "examples": [
+    {
+      "example_maya": "Li winaq kewikʼikʼlabʼ chukʼayixik, taq xkʼaʼy li kʼo qʼux chrij, pa taq alaxibʼal",
+      "example_spa": "La gente anda vendiendo chiriviscos con musgo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c374e892-f1c4-41ec-b2e0-25c1cdd5bafe"
+}

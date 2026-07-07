@@ -1,0 +1,19 @@
+{
+  "entryWord": "Leʼjanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Contar chistes, fábulas, etc",
+  "definitionDialect": "",
+  "additional_text": "vI Kinleʼjanik Raíz SnP Leʼj",
+  "examples": [
+    {
+      "example_maya": "Li achih, xaq kaleʼjanik",
+      "example_spa": "El hombre solamente quiere contar chistes",
+      "dialect": null
+    }
+  ],
+  "uuid": "7f90f08f-339f-4d23-9bec-694a1c4b38f1"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutziyaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una porción de nixtamal",
+  "definitionDialect": "es",
+  "additional_text": "Enu Raiz P Tziy",
+  "examples": [
+    {
+      "example_maya": "Xaq jutziyaj chik ubʼanom li ixim",
+      "example_spa": "El maíz sólo alcanza para una porción",
+      "dialect": null
+    }
+  ],
+  "uuid": "c36905db-6215-40fe-820c-98f92dd79251"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼerkʼer",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼerkʼer",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Matraca",
+  "definitionDialect": "",
+  "additional_text": "scv Var Kʼarkar",
+  "examples": [
+    {
+      "example_maya": "Li kʼerkʼer pa taq awasqʼij kachokon pa sutinem",
+      "example_spa": "En Semana Santa se usan las matracas",
+      "dialect": null
+    }
+  ],
+  "uuid": "ff43c8dd-f23a-4c95-b5e7-ac68e9277b41"
+}

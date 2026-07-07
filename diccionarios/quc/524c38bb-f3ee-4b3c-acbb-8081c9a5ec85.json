@@ -1,0 +1,19 @@
+{
+  "entryWord": "Koloʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukoloʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correa de calzoncillo o bolsa",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz P Kol",
+  "examples": [
+    {
+      "example_maya": "Li sakaʼw kʼo ukoloʼl",
+      "example_spa": "El calzoncillo tiene correa",
+      "dialect": null
+    }
+  ],
+  "uuid": "524c38bb-f3ee-4b3c-acbb-8081c9a5ec85"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tolokʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sobaco; seno; axila",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutolokʼ Raíz P Tol DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li tolokʼ sin kʼoʼx ubʼanom chuxe li telebʼ",
+      "example_spa": "El sobaco es la parte hundida debajo del hombro",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5639555-a34c-4b9e-9374-8277097435ef"
+}

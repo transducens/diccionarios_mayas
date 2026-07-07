@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tochʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xtochʼiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rajable",
+  "definitionDialect": "Spanish",
+  "additional_text": "p Raiz PT Tochʼ",
+  "examples": [
+    {
+      "example_maya": "Li sukʼuma taq bʼolaj tochʼolik",
+      "example_spa": "Los trozos rectos son rajables",
+      "dialect": null
+    }
+  ],
+  "uuid": "26717659-08a7-4a5f-88db-af41ee45500f"
+}

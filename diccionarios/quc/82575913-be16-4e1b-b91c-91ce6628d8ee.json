@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼatzatzem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido hojas secas o papeles al doblarse",
+  "definitionDialect": "",
+  "additional_text": "vI Kaqʼatzatzik Raíz VT Qʼatz",
+  "examples": [
+    {
+      "example_maya": "Li a Chep sibʼalaj kaqʼatzatz li pwaq puqʼabʼ",
+      "example_spa": "Los billetes que lleva José, hacen ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "82575913-be16-4e1b-b91c-91ce6628d8ee"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jom",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Marimba",
+  "definitionDialect": "",
+  "additional_text": "sInv Nujoom Coment Sólo la usan los niños",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xloqʼ jun laj ujom",
+      "example_spa": "Al niño le compraron una marimbita",
+      "dialect": null
+    }
+  ],
+  "uuid": "29ea29bd-fb51-426e-b73f-cb4eb6a6d428"
+}

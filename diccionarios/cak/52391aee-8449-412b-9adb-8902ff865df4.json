@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pom (pon)",
+  "definition": "Incienso, copal",
+  "additional_text": "sInv Nupom, nupon",
+  "examples": [
+    {
+      "example_maya": "Ri pon jebʼel rujubʼulik taq niyaʼöx pa qʼaqʼ",
+      "example_spa": "El incienso es muy oloroso cuando se echa en el fuego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri pon taq niporöx, jebʼël jubʼül ruxlaʼ",
+      "example_spa": "El incienso cuando lo queman, echa un buen olor",
+      "dialect": null
+    }
+  ],
+  "uuid": "52391aee-8449-412b-9adb-8902ff865df4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

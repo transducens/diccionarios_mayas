@@ -1,0 +1,19 @@
+{
+  "entryWord": "Miʼal chwa Dyos",
+  "entryWordDialect": null,
+  "altEntryWord": "Numiʼal chwa Dyos",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ahijada",
+  "definitionDialect": "",
+  "additional_text": "SCL Raíz S Miʼaal Raíz S Wa Raíz S Dyoos",
+  "examples": [
+    {
+      "example_maya": "Li José xusipaj jun suʼt che li umiʼal chwa Dyos",
+      "example_spa": "José regaló un pañuelo a su ahijada",
+      "dialect": null
+    }
+  ],
+  "uuid": "d772d49e-4392-4593-a4f5-b8a647ae7c35"
+}

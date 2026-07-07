@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yabʼil",
+  "definition": "Enfermedad",
+  "additional_text": "sinv Nuyabʼil Yabʼil, yawabʼil",
+  "examples": [
+    {
+      "example_maya": "Kʼa runaj xikʼo ri jun yabʼil chweʼ junabʼir kan",
+      "example_spa": "Costó que me pasara la enfermedad el año pasado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Täq jun kʼo jun yabʼil chre man nitikir ta nisamäj",
+      "example_spa": "Cuando uno tiene una enfermedad no puede trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "886192ce-6234-4f78-bef8-49c02784d5c9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

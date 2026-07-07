@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kap",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Capa",
+  "definitionDialect": "",
+  "additional_text": "SInv Nukaap Del Cast Capa",
+  "examples": [
+    {
+      "example_maya": "Li kikap li ajxojolobʼ re konkist qʼoʼtalik",
+      "example_spa": "Las capas del baile de la conquista están adornadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "3224af2c-650c-4e41-a52e-92753e658c84"
+}

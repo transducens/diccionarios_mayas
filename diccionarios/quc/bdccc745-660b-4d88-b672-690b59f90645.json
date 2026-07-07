@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sincha xajabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caite",
+  "definitionDialect": "",
+  "additional_text": "scl DomS Xajabʼ Cincho",
+  "examples": [
+    {
+      "example_maya": "Li sincha xajabʼ kakikoj taq li qawinaqil pa taq li chak",
+      "example_spa": "Los campesinos usan caites para trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "bdccc745-660b-4d88-b672-690b59f90645"
+}

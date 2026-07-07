@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kowolik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vacío; hueco",
+  "definitionDialect": "",
+  "additional_text": "P Xkowiʼk, xukowobʼaʼ Coment Zapatos, caja de cartón, concha, tronco Adj Kowokik Vacío y grande VI Kowokoteem Sonar cosa hueca",
+  "examples": [
+    {
+      "example_maya": "Li upa raʼ li cheʼ kowolik",
+      "example_spa": "El tallo del árbol es hueco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kaxon maj chi kaxlanwah chpam, xaq kowolik",
+      "example_spa": "Ya no hay pan en el cajón, porque está vacío",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8c2b766-7f6b-4bcd-90d9-8904da968a60"
+}

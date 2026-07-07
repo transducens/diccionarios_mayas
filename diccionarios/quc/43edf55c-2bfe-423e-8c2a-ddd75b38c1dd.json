@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xibʼinel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espanto; fantasma",
+  "definitionDialect": "",
+  "additional_text": "sAgen Raíz S Xibʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, are taq xril jun xibʼinel xxabʼik",
+      "example_spa": "Cuando el hombre vio al espanto, vomitó",
+      "dialect": null
+    }
+  ],
+  "uuid": "43edf55c-2bfe-423e-8c2a-ddd75b38c1dd"
+}

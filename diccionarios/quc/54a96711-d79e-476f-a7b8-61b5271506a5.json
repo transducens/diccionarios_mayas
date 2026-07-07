@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kwet",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukwet",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cohete; cohetillo; cubeta",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS",
+  "examples": [
+    {
+      "example_maya": "Li kwet kaporox pa taq nimaqʼij",
+      "example_spa": "En las fiestas se queman cohetes",
+      "dialect": null
+    }
+  ],
+  "uuid": "54a96711-d79e-476f-a7b8-61b5271506a5"
+}

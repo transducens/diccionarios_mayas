@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ribʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinribʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosa panzuda",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz P Ribʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuribʼej bʼi li ubʼuʼch wakax",
+      "example_spa": "La mujer se llevó el buche de buey",
+      "dialect": null
+    }
+  ],
+  "uuid": "bbc963f9-1165-4af8-9d1f-4b6b7645352b"
+}

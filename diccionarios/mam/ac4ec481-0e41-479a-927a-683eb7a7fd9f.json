@@ -1,0 +1,18 @@
+{
+  "entryWord": "TAANMA",
+  "definition": "mi pueblo, mi estancia",
+  "additional_text": "sy ntanmaya mi pueblo, mi estancia del nahuatl tenamitl",
+  "examples": [
+    {
+      "example_maya": "Maʼ kyaj nkoʼlan ntanmaya tuʼn tlaj aqʼuntl",
+      "example_spa": "Ya dejé mi estancia por cuestiones de trabajo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ac4ec481-0e41-479a-927a-683eb7a7fd9f",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Etzʼabʼaʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juguete; collar; culebra que usan los bailadores mejicanos en las fiestas regionales",
+  "definitionDialect": "General",
+  "additional_text": "SInv Wetzʼabʼaʼl ssp Retzʼabʼaʼliil Adorno DomS Etzʼabʼaʼl",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kʼi uwach li retzʼabʼaʼl",
+      "example_spa": "El niño tiene varias clases de juguetes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih kʼo li retzʼabʼaʼl ukojom chuqul",
+      "example_spa": "La muchacha tiene puesto el collar de perlas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Etzʼabʼaʼl kabʼix xuq chech li kumatz kakikoj li ajxojolobʼ mejikan",
+      "example_spa": "Juguete le llaman a la culebra que usan los bailadores mejicanos",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ecb8027-1a73-4a1c-bf61-04eac1b70671"
+}

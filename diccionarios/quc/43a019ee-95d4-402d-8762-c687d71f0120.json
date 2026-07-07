@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chamalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchamiʼk, xuchamabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Silencio",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Cham",
+  "examples": [
+    {
+      "example_maya": "Are taq xokʼow li nimaqʼij, xchamiʼ li tikbʼal kotzʼij",
+      "example_spa": "Cuando pasó la fiesta, se quedó silencio el parque",
+      "dialect": null
+    }
+  ],
+  "uuid": "43a019ee-95d4-402d-8762-c687d71f0120"
+}

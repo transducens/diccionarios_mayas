@@ -1,0 +1,19 @@
+{
+  "entryWord": "Otzoy",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuʼotzoy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chiquirín; langosta",
+  "definitionDialect": "",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Li otzoy sibʼalaj jeʼlik kayuj rukʼ kinaqʼ saqatubʼin pa jokʼoʼm",
+      "example_spa": "El chiquirín es muy sabroso cuando se come con frijol blanco",
+      "dialect": null
+    }
+  ],
+  "uuid": "7966e7d0-6468-49a9-bb70-cd372abe1271"
+}

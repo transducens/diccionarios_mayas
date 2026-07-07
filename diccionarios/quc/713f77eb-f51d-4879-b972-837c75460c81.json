@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaq uwach",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona que hace fallar a otro o que da mala suerte",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kaq uwach",
+      "example_spa": "Esa mujer es de mal agüero",
+      "dialect": null
+    }
+  ],
+  "uuid": "713f77eb-f51d-4879-b972-837c75460c81"
+}

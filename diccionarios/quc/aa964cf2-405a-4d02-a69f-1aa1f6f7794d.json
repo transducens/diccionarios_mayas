@@ -1,0 +1,19 @@
+{
+  "entryWord": "Antor/ch",
+  "entryWordDialect": null,
+  "altEntryWord": "Wantor/ch",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Antorcha",
+  "definitionDialect": "General",
+  "additional_text": "sInv DomS Qʼaaqʼ Del Cast Antorcha",
+  "examples": [
+    {
+      "example_maya": "Li akʼalabʼ kakibʼan antorch pa taq oʼlajuj rajlabʼalil li ikʼ septiembre",
+      "example_spa": "Los niños hacen antorchas cada 15 de septiembre",
+      "dialect": null
+    }
+  ],
+  "uuid": "aa964cf2-405a-4d02-a69f-1aa1f6f7794d"
+}

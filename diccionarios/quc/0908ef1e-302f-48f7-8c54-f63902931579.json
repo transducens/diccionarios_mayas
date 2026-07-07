@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sikirem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasikirik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dormirse parte del cuerpo; entumecerse (elev)",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz vi Sik",
+  "examples": [
+    {
+      "example_maya": "Li achih naj xtʼuyiʼk, rumal riʼ xsikir li raqan",
+      "example_spa": "El hombre estuvo sentado mucho tiempo, por eso se le durmió el pie",
+      "dialect": null
+    }
+  ],
+  "uuid": "0908ef1e-302f-48f7-8c54-f63902931579"
+}

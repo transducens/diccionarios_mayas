@@ -1,0 +1,24 @@
+{
+  "entryWord": "Siranik",
+  "entryWordDialect": null,
+  "altEntryWord": "sirilik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirado como tronco o cosa rolliza; sola: persona; viudo (despectivo) Se quedó viudo, abandonado, divorciado (despectivo)",
+  "definitionDialect": "",
+  "additional_text": "p Xsiriʼk, xusiribʼaʼ F Xsiriʼ kaanoq Raíz P Sir",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun nima bʼolaj siran pa li bʼeh",
+      "example_spa": "En el camino hay un trozo grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xaq sirilik ma xa xkam rachajil",
+      "example_spa": "La mujer se quedó sola porque se murió su esposo",
+      "dialect": null
+    }
+  ],
+  "uuid": "71f7ecfd-d245-4c9e-becd-fd4ae49b4291"
+}

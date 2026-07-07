@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wuqlajuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Diecisiete",
+  "definitionDialect": "General",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li achih, xuloqʼ wuqlajuj kʼaʼm ruliw",
+      "example_spa": "El hombre compró diecisiete cuerdas de terreno",
+      "dialect": null
+    }
+  ],
+  "uuid": "99c1b3a8-43ae-47e3-80e1-bc1d764b8ec8"
+}

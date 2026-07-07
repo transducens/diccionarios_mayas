@@ -1,0 +1,23 @@
+{
+  "entryWord": "Maajun",
+  "definition": "Nadie, ninguno, no hay nadie, ni uno Se usa para contestar que en tal lugar no hay ninguna persona",
+  "additional_text": "Pron",
+  "examples": [
+    {
+      "example_maya": "Maajun xkʼulun chi tenqʼank we",
+      "example_spa": "Ninguno vino a ayudarme",
+      "dialect": null
+    },
+    {
+      "example_maya": "Maajun xyehok we",
+      "example_spa": "Nadie me lo dijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "d0390719-cb06-4af7-98b4-c43dfc965b96",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

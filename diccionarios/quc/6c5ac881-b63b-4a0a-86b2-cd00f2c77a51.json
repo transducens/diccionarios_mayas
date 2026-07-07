@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kompesant",
+  "entryWordDialect": null,
+  "altEntryWord": "camposanto",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cementerio; camposanto",
+  "definitionDialect": "",
+  "additional_text": "SnP Del Cast Camposanto",
+  "examples": [
+    {
+      "example_maya": "Li kompesant naj kakanaj wi chech li tinamit",
+      "example_spa": "El cementerio queda lejos del pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c5ac881-b63b-4a0a-86b2-cd00f2c77a51"
+}

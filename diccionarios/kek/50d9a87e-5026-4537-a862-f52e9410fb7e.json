@@ -1,0 +1,23 @@
+{
+  "entryWord": "Paq",
+  "definition": "Guapinol",
+  "additional_text": "SInv Inpaq var Paqy",
+  "examples": [
+    {
+      "example_maya": "Li paq kaʼj wiʼ re preesk us wiʼ",
+      "example_spa": "El guapinol es bueno sólo para fresco",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tooni paq",
+      "example_spa": "Nombre de un lugar",
+      "dialect": null
+    }
+  ],
+  "uuid": "50d9a87e-5026-4537-a862-f52e9410fb7e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

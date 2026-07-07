@@ -1,0 +1,28 @@
+{
+  "entryWord": "Achike (achke, chike chke)",
+  "definition": "¿Quién?, ¿Qué?",
+  "additional_text": "Int var Tux",
+  "examples": [
+    {
+      "example_maya": "¿Achike rajaw re ulew reʼ?",
+      "example_spa": "¿Quién es el dueño de este terreno?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Chke nawajoʼ?",
+      "example_spa": "¿Qué quiere?",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Achike nubʼij pe chawe?",
+      "example_spa": "¿Qué te está diciendo?",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3ce9d78-72e0-4cc3-8a80-2cc256460135",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

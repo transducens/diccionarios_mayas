@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzʼiteʼ",
+  "definition": "Palo pito",
+  "additional_text": "sInv Nutzʼiteʼ Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri tzʼiteʼ ma kow ta täq nachoy",
+      "example_spa": "El palo pito es suave al cortarlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼiteʼ setesäq ruxaq chi yalan kʼa xax, ja kʼa ri rusiʼj käq titzuʼun",
+      "example_spa": "El palo de pito es de hoja redonda y delgada, su flor es de color rojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "b233c92d-a3ae-4154-afa3-324b1ce27bb4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

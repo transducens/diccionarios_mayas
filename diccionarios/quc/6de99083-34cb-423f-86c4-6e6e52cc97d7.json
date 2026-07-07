@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uwaʼl wachaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lágrima",
+  "definitionDialect": "",
+  "additional_text": "SDS Uwaʼl nuwach",
+  "examples": [
+    {
+      "example_maya": "We jun winaq koqʼik kel uwaʼl uwach",
+      "example_spa": "Si una persona llora, le salen lágrimas",
+      "dialect": null
+    }
+  ],
+  "uuid": "6de99083-34cb-423f-86c4-6e6e52cc97d7"
+}

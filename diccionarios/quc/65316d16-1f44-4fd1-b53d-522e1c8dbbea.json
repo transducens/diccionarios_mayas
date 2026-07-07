@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmuʼuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "remojar",
+  "definitionDialect": "General",
+  "additional_text": "VTR Raiz VT Muʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Tun xumuʼu lij pa puchʼuʼm",
+      "example_spa": "Antonio remojó la tortilla en el chile molido",
+      "dialect": null
+    }
+  ],
+  "uuid": "65316d16-1f44-4fd1-b53d-522e1c8dbbea"
+}

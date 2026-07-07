@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sirirachaq",
+  "entryWordDialect": null,
+  "altEntryWord": "siriraʼchaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escarabajo",
+  "definitionDialect": "",
+  "additional_text": "SnP Var Sirir Raíz PT Sir Raíz S Achaq DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li sirirachaq kasirir chi taq umoy",
+      "example_spa": "El escarabajo vuela al anochecer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sirir tajin kubʼalkatij li achaq chwa taq uliw",
+      "example_spa": "El escarabajo está volteando excremento en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3716ffb3-1e1a-475e-9d8d-2c064196587f"
+}

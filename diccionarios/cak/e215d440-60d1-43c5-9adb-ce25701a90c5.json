@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sipanel",
+  "definition": "Obsequiador, regalador",
+  "additional_text": "sAg Nusipanel Sinón Sipäy",
+  "examples": [
+    {
+      "example_maya": "Nkibʼij chi kʼo winäq ri e sipanel chuqa e kʼo ri e xuʼy",
+      "example_spa": "Dicen que hay personas que regalan y otras que son tacañas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Iwir xikʼo jun sipanel etzʼabʼal",
+      "example_spa": "Ayer pasó una persona que regala juguetes",
+      "dialect": null
+    }
+  ],
+  "uuid": "e215d440-60d1-43c5-9adb-ce25701a90c5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jomojik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ahondado; hundido; hondo",
+  "definitionDialect": "",
+  "additional_text": "Adj Ant Bʼujbʼik Var Jul Raíz Adj Jom",
+  "examples": [
+    {
+      "example_maya": "Li altamow xubʼan jomojik che li bʼeh",
+      "example_spa": "El automóvil ahondó el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li upa ja xa jomojik ubʼanom",
+      "example_spa": "El piso de la casa está hundido",
+      "dialect": null
+    }
+  ],
+  "uuid": "290e9f12-b26f-45b9-93c1-c29182a32080"
+}

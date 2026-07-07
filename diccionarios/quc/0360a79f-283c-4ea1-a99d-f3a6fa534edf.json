@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼa juyubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tierra caliente",
+  "definitionDialect": "General",
+  "additional_text": "SCL",
+  "examples": [
+    {
+      "example_maya": "Li tinamit Kʼaqoʼl qʼaqʼa juyubʼ",
+      "example_spa": "La ciudad de Mazatenango es tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "0360a79f-283c-4ea1-a99d-f3a6fa534edf"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼajachʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Roya hongo de milpa (enfermedad de la milpa)",
+  "definitionDialect": "General",
+  "additional_text": "SnP",
+  "examples": [
+    {
+      "example_maya": "Are sibʼalaj kʼi chʼajachʼ che li jala chwach li rutzil",
+      "example_spa": "Hay muchas mazorcas con roya",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ec66dfd-660e-49d0-a8de-e5a15d0002ea"
+}

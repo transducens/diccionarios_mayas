@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sachem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perderse; fallar; hundirse; equivocarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kinsaachik Raíz VT Sach",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼojomabʼ xesachik",
+      "example_spa": "Los marimbistas fallaron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nima jukubʼ xsach chuxe li poloh, xekam li winaq",
+      "example_spa": "El barco se hundió en el mar y se murió la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "62d92d5d-3eee-4107-a342-b340e5622502"
+}

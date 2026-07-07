@@ -1,0 +1,19 @@
+{
+  "entryWord": "Potzʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapotzʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al cortar con machete o hacha",
+  "definitionDialect": "",
+  "additional_text": "vı Raíz VT Potzʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kapotzʼnaj li umurun chutʼenik li jun cheʼ, ma xa sibʼalaj chaqiʼj",
+      "example_spa": "El machete del hombre hace ruido al cortar el palo, porque está muy seco",
+      "dialect": null
+    }
+  ],
+  "uuid": "6fd16bc4-5d05-4190-83e9-9ea86a2c0e01"
+}

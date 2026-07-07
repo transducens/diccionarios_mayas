@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patzatzexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinpatzatz",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arreglar mucha carga; amontonar hierbas, pajón, basura, etc",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz P Patz",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj xupatzatzej reqaʼn",
+      "example_spa": "El hombre arregló mucha carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "e25c8640-29f8-45f6-b51e-ff5c055f664b"
+}

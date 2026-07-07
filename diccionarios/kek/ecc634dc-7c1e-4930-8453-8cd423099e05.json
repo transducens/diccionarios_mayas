@@ -1,0 +1,23 @@
+{
+  "entryWord": "Saʼ jun chik",
+  "definition": "Próximo, en el otro",
+  "additional_text": "AdvT",
+  "examples": [
+    {
+      "example_maya": "Saʼ po jun chik chaabʼilaq tana li kutan",
+      "example_spa": "El próximo mes tal vez haga buen tiempo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ jun chik kutan chi qilaq qibʼ",
+      "example_spa": "Nos veremos en otra ocasión",
+      "dialect": null
+    }
+  ],
+  "uuid": "ecc634dc-7c1e-4930-8453-8cd423099e05",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

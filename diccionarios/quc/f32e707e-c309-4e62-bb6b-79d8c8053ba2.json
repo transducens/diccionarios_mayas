@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taqexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintaqej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comenzar; empezar; principiar; iniciar",
+  "definitionDialect": "",
+  "additional_text": "vTD Raíz VT Taq",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kintaqej li nuchak",
+      "example_spa": "Mañana comenzaré mi trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f32e707e-c309-4e62-bb6b-79d8c8053ba2"
+}

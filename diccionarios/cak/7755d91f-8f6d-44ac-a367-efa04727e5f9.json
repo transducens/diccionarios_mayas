@@ -1,0 +1,23 @@
+{
+  "entryWord": "Lamaʼ",
+  "definition": "Ilamo, aliso",
+  "additional_text": "sInv Nulamaʼ Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Ri lamaʼ jun cheʼ yalan chanin nikʼïy, xax ök ri ruxaq yalan chuqa chʼaräl",
+      "example_spa": "El ilamo es un árbol que crece luego, es de hoja delgada, también es muy rajable",
+      "dialect": null
+    },
+    {
+      "example_maya": "Lamaʼ nibʼix chire jun cheʼ yalan jilan ri rij, täq nichoy ri rujometal nikeqar",
+      "example_spa": "Ilamo se le dice al árbol que tiene la corteza muy lisa, cuando se corta ésta se pone roja",
+      "dialect": null
+    }
+  ],
+  "uuid": "7755d91f-8f6d-44ac-a367-efa04727e5f9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

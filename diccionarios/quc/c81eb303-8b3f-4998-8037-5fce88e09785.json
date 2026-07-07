@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼululexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar todas las hojas o ramas",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintʼululeej Raíz VT Tʼul",
+  "examples": [
+    {
+      "example_maya": "Li a Kuʼl xutʼululej li uxaq li abʼix",
+      "example_spa": "Pascual cortó todas las hojas de la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c81eb303-8b3f-4998-8037-5fce88e09785"
+}

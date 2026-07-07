@@ -1,0 +1,24 @@
+{
+  "entryWord": "Uwa chʼekaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Uwa nuchʼek",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Espinilla",
+  "definitionDialect": "General",
+  "additional_text": "sds",
+  "examples": [
+    {
+      "example_maya": "Xinsok uwa nuchʼek chech jun cheʼ",
+      "example_spa": "Me lastimé la espinilla con un palo",
+      "dialect": null
+    },
+    {
+      "example_maya": "We xya jun aqan chech li uwa chʼekaj sibʼalaj kʼax",
+      "example_spa": "Golpearse la espinilla; duele mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "b1f268c4-011f-4722-a5bf-28a3bb0ab4ed"
+}

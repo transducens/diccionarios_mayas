@@ -1,0 +1,28 @@
+{
+  "entryWord": "Xukül",
+  "definition": "Hincado, inclinado, como el cabo del azadón corredizo: un nudo",
+  "additional_text": "p Xukeʼ, xuxukubʼaʼ Kʼojlem",
+  "examples": [
+    {
+      "example_maya": "Kʼo chʼaqa winäq qʼijqʼij e xukül pa racho ri ajaw",
+      "example_spa": "Hay algunas personas que todos los días están hincadas en la casa de Dios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq xtaxïm kan ri qakej, chöj naxukubʼaʼ kan, richin chiqibʼaʼ nikiritäj",
+      "example_spa": "Cuando amarres nuestra bestia, deja el nudo corredizo para que se desate con facilidad",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri winäq yebʼe pa rachoch ajaw yebʼexukeʼ",
+      "example_spa": "Las personas que van a la iglesia se hincan",
+      "dialect": null
+    }
+  ],
+  "uuid": "204ec5db-95e0-4e80-ad62-220e14a6f59e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

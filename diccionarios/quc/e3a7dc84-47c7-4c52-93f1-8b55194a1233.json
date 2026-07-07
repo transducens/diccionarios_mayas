@@ -1,0 +1,24 @@
+{
+  "entryWord": "Joʼq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nujoʼq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doblador; tusa; cigarro",
+  "definitionDialect": "General",
+  "additional_text": "SInv Coment Palabra ceremonial SSP Ujoʼqaal Doblador de la mazorca Raíz S Jal",
+  "examples": [
+    {
+      "example_maya": "Li kʼamal bʼeh xya sin ujoʼq kumal li winaq",
+      "example_spa": "La gente le dio un cigarro al pedidor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li joʼq kachokon che pisbʼal wah",
+      "example_spa": "El doblador se usa para envolver tamales",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3a7dc84-47c7-4c52-93f1-8b55194a1233"
+}

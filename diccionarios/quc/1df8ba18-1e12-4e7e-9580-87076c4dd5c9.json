@@ -1,0 +1,19 @@
+{
+  "entryWord": "Salot",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tamo; paja de trigo",
+  "definitionDialect": "",
+  "additional_text": "sas Usalotaal",
+  "examples": [
+    {
+      "example_maya": "Kabʼixik chi we kaxal qʼatix li salotal ixim xa je riʼ kape sal chij li tzʼuʼmal",
+      "example_spa": "Dicen que si uno pasa sobre el polvo de maíz, le sale jiote en la piel",
+      "dialect": null
+    }
+  ],
+  "uuid": "1df8ba18-1e12-4e7e-9580-87076c4dd5c9"
+}

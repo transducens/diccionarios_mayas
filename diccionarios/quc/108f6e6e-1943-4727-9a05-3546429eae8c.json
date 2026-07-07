@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Primer piso (de casa de más de un piso); etapa",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz PT Tan",
+  "examples": [
+    {
+      "example_maya": "Li kaxah kʼa pa li katan ja kʼo wih",
+      "example_spa": "El cofre está en el segundo piso de la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "108f6e6e-1943-4727-9a05-3546429eae8c"
+}

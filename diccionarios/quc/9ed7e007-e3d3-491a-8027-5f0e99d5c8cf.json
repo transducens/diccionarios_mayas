@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼorxeh",
+  "entryWordDialect": null,
+  "altEntryWord": "Nubʼorxe",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bolsa, bolsillo de ropa",
+  "definitionDialect": "",
+  "additional_text": "scv Del Cast Bolsa",
+  "examples": [
+    {
+      "example_maya": "Li kamiʼx kʼo ubʼorxe chwa taq ukʼuʼx",
+      "example_spa": "La camisa tiene bolsas en el pecho",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ed7e007-e3d3-491a-8027-5f0e99d5c8cf"
+}

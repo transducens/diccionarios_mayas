@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaxowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer cosas sancochadas; estar sancochada o medio cruda una comida",
+  "definitionDialect": "General",
+  "additional_text": "vi Kaqʼaxowik Raiz VT Qʼax",
+  "examples": [
+    {
+      "example_maya": "Li chʼimah na xchaqʼaj taj, rumal riʼ kaqʼaxowik",
+      "example_spa": "Los güisquiles no se cocieron",
+      "dialect": null
+    }
+  ],
+  "uuid": "86d9cacb-ff56-4332-98a0-95156c0b47d9"
+}

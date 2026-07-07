@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wosok",
+  "definition": "Apagar con agua, enfriar con agua",
+  "additional_text": "VTR Xinwos",
+  "examples": [
+    {
+      "example_maya": "Naq Xinchal xinwos li ruʼuj siʼ",
+      "example_spa": "Cuando me vine apagué el tizón con agua",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun kintal li chun xinwos",
+      "example_spa": "Enfrié el quintal de cal",
+      "dialect": null
+    }
+  ],
+  "uuid": "00394842-e585-4153-807f-7765daefa766",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

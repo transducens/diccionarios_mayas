@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kutan",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mora",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukutaan DomS Pruut",
+  "examples": [
+    {
+      "example_maya": "Li kutan kabʼan presk chech",
+      "example_spa": "De la mora se puede hacer fresco",
+      "dialect": null
+    }
+  ],
+  "uuid": "57eefa92-f97d-47f7-95b2-d09dab19adfe"
+}

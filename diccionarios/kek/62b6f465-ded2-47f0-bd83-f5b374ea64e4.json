@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tuulan",
+  "definition": "Manso, educado",
+  "additional_text": "Adj Xtuulanoʼ, xtuulanil",
+  "examples": [
+    {
+      "example_maya": "Tuulan li kawaay",
+      "example_spa": "El caballo es manso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tuulan intzʼiʼ, inkʼaʼ natiwok",
+      "example_spa": "Mi perro es manso, no muerde",
+      "dialect": null
+    }
+  ],
+  "uuid": "62b6f465-ded2-47f0-bd83-f5b374ea64e4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jukulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nublado; humeante, humoso",
+  "definitionDialect": "",
+  "additional_text": "P Xjukiʼk, xujukubʼaʼ Coment Posición de neblina o humo F Sinón Muqulik Raíz P Juk",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj jukul sutzʼ chwa taq uliw xsaqirik",
+      "example_spa": "Amaneció nublado hasta el suelo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jukulik sutzʼ",
+      "example_spa": "Neblina",
+      "dialect": null
+    }
+  ],
+  "uuid": "fb0af573-f78e-4f6c-9c26-b5eca552095e"
+}

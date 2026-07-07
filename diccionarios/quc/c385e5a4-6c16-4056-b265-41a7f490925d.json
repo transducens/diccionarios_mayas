@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ituʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wituʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba de pollo",
+  "definitionDialect": "General",
+  "additional_text": "sInv Var Tuʼ DomS Ichaaj",
+  "examples": [
+    {
+      "example_maya": "Li ituʼ kʼakʼiy pa taq li abʼix",
+      "example_spa": "La hierba de pollo crece en la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "c385e5a4-6c16-4056-b265-41a7f490925d"
+}

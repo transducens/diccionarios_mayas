@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzoqotzotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzoqotzotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido cosas espesas cuando hierven o trastos que se les termina el agua en el fuego",
+  "definitionDialect": "",
+  "additional_text": "VI Katzoqotzotik Var Raiz PT Tzoq",
+  "examples": [
+    {
+      "example_maya": "Li tzih kʼo chwi li qʼaqʼ xaq katzoqotzotik ma xa maj chi uwaʼal",
+      "example_spa": "El nixtamal que está hirviendo sobre el fuego no tiene agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "b4729bc0-f714-4839-9acc-55e67d48d3d8"
+}

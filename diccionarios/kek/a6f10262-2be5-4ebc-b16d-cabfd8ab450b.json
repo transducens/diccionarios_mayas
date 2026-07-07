@@ -1,0 +1,28 @@
+{
+  "entryWord": "Ewer",
+  "definition": "Ayer",
+  "additional_text": "AdvT",
+  "examples": [
+    {
+      "example_maya": "Ewer chi qʼeq keʼxkʼam li yaj",
+      "example_spa": "Anoche se llevaron al enfermo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ewer raj xkohin saʼ wochoch",
+      "example_spa": "Ayer hubiera regresado a mi casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ewer chi qʼeq",
+      "example_spa": "Ayer en anoche",
+      "dialect": null
+    }
+  ],
+  "uuid": "a6f10262-2be5-4ebc-b16d-cabfd8ab450b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼuʼy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Olla",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutʼuʼy Raíz S Tʼuʼy",
+  "examples": [
+    {
+      "example_maya": "Pa li tʼuʼy katzak wi li tiʼij",
+      "example_spa": "En la olla se cuece la carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "cbc05f34-0b3f-4683-ae8d-64887ed539e7"
+}

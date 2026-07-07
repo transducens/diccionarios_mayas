@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼey",
+  "definition": "Camino Compromiso, viaje",
+  "additional_text": "sInv Nubʼey",
+  "examples": [
+    {
+      "example_maya": "Ronojel ri bʼey xbʼan rutzil",
+      "example_spa": "Todo el camino fue reconstruido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nujinan xbʼe pa jun rubʼey richin kaʼiʼ qʼij",
+      "example_spa": "Mi suegro fue a un viaje por dos días",
+      "dialect": null
+    }
+  ],
+  "uuid": "dfd16929-5b9e-4c3b-9907-694ed305c6f6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

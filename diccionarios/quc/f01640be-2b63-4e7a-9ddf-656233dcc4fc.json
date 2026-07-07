@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼitʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Romper papel o tela",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinbʼitʼoh p Bʼitʼilik Fácil de romper Sinón Riichʼik Raiz VT Bʼitʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal ronojel li wuj xubʼitʼoh",
+      "example_spa": "El niño rompió todos los papeles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼeʼl atzʼyaq bʼitil urichʼik",
+      "example_spa": "La ropa vieja es fácil romperla",
+      "dialect": null
+    }
+  ],
+  "uuid": "f01640be-2b63-4e7a-9ddf-656233dcc4fc"
+}

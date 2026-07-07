@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pakʼal",
+  "definition": "Lado",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Jun pakʼal nimaʼ",
+      "example_spa": "A un lado del río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li poʼot naru roksinkil saʼ kaʼ pakʼal",
+      "example_spa": "El güipil se puede usar de los dos lados",
+      "dialect": null
+    }
+  ],
+  "uuid": "c9e304d4-c2e3-466f-973e-969992359b26",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

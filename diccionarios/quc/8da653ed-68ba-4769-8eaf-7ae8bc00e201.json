@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼalkʼatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar animal reflaco",
+  "definitionDialect": "K'al.",
+  "additional_text": "vt Kakʼalkʼatik",
+  "examples": [
+    {
+      "example_maya": "Li kej xaq kakʼalkʼatik ma na kawaʼ taj",
+      "example_spa": "El caballo está reflaco, porque no come",
+      "dialect": null
+    }
+  ],
+  "uuid": "8da653ed-68ba-4769-8eaf-7ae8bc00e201"
+}

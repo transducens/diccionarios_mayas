@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼininem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachʼininik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar campanilla; zumbido de los zancudos",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz VT Chʼin",
+  "examples": [
+    {
+      "example_maya": "Are taq xbʼan li kampaniʼl, kachʼininik xbʼek",
+      "example_spa": "La campanilla vibró mucho cuando la tocaron",
+      "dialect": null
+    }
+  ],
+  "uuid": "a08714fd-f955-4cc2-a601-126ad8866e88"
+}

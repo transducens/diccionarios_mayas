@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼeʼel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verdad",
+  "definitionDialect": "general",
+  "additional_text": "SSP Ubʼeʼeel Raíz S Bʼeh",
+  "examples": [
+    {
+      "example_maya": "Li achih xubʼij li ubʼeʼel",
+      "example_spa": "El hombre dijo la verdad",
+      "dialect": null
+    }
+  ],
+  "uuid": "f65049e4-3715-45f0-adf6-b99d142d284b"
+}

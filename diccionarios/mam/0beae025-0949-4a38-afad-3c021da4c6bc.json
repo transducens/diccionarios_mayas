@@ -1,0 +1,23 @@
+{
+  "entryWord": "KʼAT",
+  "definition": "momento de terminarse algo",
+  "additional_text": "af raíz kʼat af",
+  "examples": [
+    {
+      "example_maya": "Kʼat ma jaw waʼj kyuʼn majan",
+      "example_spa": "Los mozos se acabaron las tortillas",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Kʼat ma tzikyʼ jbʼal",
+      "example_spa": "“Kʼat”, dejó de llover",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "0beae025-0949-4a38-afad-3c021da4c6bc",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

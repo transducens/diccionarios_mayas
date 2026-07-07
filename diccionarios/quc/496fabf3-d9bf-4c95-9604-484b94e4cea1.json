@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pres",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Preso",
+  "definitionDialect": "",
+  "additional_text": "saP DomS Winaq Del Cast Preso",
+  "examples": [
+    {
+      "example_maya": "Kʼih li pres e kʼo pa cheʼ",
+      "example_spa": "En la cárcel hay muchos presos",
+      "dialect": null
+    }
+  ],
+  "uuid": "496fabf3-d9bf-4c95-9604-484b94e4cea1"
+}

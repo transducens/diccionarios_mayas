@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Decir",
+  "definitionDialect": "Spanish",
+  "additional_text": "VI Kinchaʼ Coment A este verbo no se le agrega =ik al final de la oración Coment Verbo que se usa para citar o narrar las palabras de alguien PP Choʼqnaq Dicho, ha dicho Var Bʼiixik",
+  "examples": [
+    {
+      "example_maya": "Jo pa chak, xcha li achih",
+      "example_spa": "\"Vamos al trabajo\": dijo el hombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jat katchoʼqa cheh",
+      "example_spa": "Dígale que se vaya: contestó ella",
+      "dialect": null
+    }
+  ],
+  "uuid": "3a29774b-d5b6-447e-8cfb-4c315c667a88"
+}

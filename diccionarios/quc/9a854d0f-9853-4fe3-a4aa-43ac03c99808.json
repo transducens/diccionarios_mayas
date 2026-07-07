@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nukuj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nunukuj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ensayo; entrenamiento; práctica",
+  "definitionDialect": "",
+  "additional_text": "sInv Raíz s Nuk",
+  "examples": [
+    {
+      "example_maya": "Li ajxojolobʼ xkimajij kinukuj ma xpe nimaqʼij",
+      "example_spa": "Los bailadores empezaron sus ensayos porque se está aproximando la fiesta",
+      "dialect": null
+    }
+  ],
+  "uuid": "9a854d0f-9853-4fe3-a4aa-43ac03c99808"
+}

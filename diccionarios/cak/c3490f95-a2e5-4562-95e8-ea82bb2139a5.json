@@ -1,0 +1,23 @@
+{
+  "entryWord": "Karson",
+  "definition": "Pantalón",
+  "additional_text": "sInv Nukarson Tzyäq, bʼätzʼ, tziyaqbʼäl",
+  "examples": [
+    {
+      "example_maya": "Konojel ri achiʼaʼ kʼo kikarson",
+      "example_spa": "Todos los hombres tienen pantalón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin xkʼojeʼ jun kemon nukarson, jebʼel xyaloj",
+      "example_spa": "Yo tuve un pantalón, tejido a mano, que me duró bastante",
+      "dialect": null
+    }
+  ],
+  "uuid": "c3490f95-a2e5-4562-95e8-ea82bb2139a5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,18 @@
+{
+  "entryWord": "BAAS",
+  "definition": "vaso",
+  "additional_text": "s1 nbasa del español vaso",
+  "examples": [
+    {
+      "example_maya": "Ma tzʼelbʼaj tkʼaʼ bas tuʼn ẍlaqʼ",
+      "example_spa": "Ya está despintado el vaso por el patojo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e2ec7dd5-2698-4609-b6b5-35f02499a60e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

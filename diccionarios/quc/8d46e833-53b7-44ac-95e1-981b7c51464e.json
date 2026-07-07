@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qupuj ribʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saludo al estar cortando trigo o madera; saludo deseando éxito",
+  "definitionDialect": "",
+  "additional_text": "VTS",
+  "examples": [
+    {
+      "example_maya": "Qupuj ribʼ chabʼanaʼ",
+      "example_spa": "Que tengás éxito en tu trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "8d46e833-53b7-44ac-95e1-981b7c51464e"
+}

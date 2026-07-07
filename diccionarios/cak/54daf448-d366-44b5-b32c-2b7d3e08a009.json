@@ -1,0 +1,23 @@
+{
+  "entryWord": "Iwan",
+  "definition": "Iguana",
+  "additional_text": "sInv Nuʼiwan Chiköp, qʼutumal",
+  "examples": [
+    {
+      "example_maya": "Ri iwan jun chiköp räx rij, chelechïk ri ruwa rachäq",
+      "example_spa": "La iguana es un animal de color verde, en forma de sierra la espalda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri iwan ruyon pa taq taqʼaj e kʼo wi, ütz yetij",
+      "example_spa": "La iguana sólo vive en las costas y es buena para comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "54daf448-d366-44b5-b32c-2b7d3e08a009",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

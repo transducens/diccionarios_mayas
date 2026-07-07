@@ -1,0 +1,29 @@
+{
+  "entryWord": "Chʼuchʼuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suave; blando; liso; fino",
+  "definitionDialect": "General",
+  "additional_text": "Adj Uchʼuuchʼujiil, xchʼuuchʼujirik Raiz P Chʼuʼ",
+  "examples": [
+    {
+      "example_maya": "Li met sibʼalaj chʼuchʼuj uchapik che qʼabʼaj",
+      "example_spa": "El algodón es muy suave al tocarlo con la mano",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwach li ladriy\" pa taq li jah sibʼalaj chʼuchʼuj",
+      "example_spa": "El piso de ladrillo es muy liso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kaxlanwah kakʼayix pa taq kʼaybʼal sibʼalaj chʼuchʼuj",
+      "example_spa": "El pan que venden en el mercado, es muy suave",
+      "dialect": null
+    }
+  ],
+  "uuid": "50b3c0f9-4f9a-43f8-b924-5aea47376a53"
+}

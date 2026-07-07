@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aantax",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Anda",
+  "definitionDialect": "",
+  "additional_text": "SnP Del Cast Anda",
+  "examples": [
+    {
+      "example_maya": "Li antax kachokon che telebʼal sant",
+      "example_spa": "El anda sirve para cargar imágenes",
+      "dialect": null
+    }
+  ],
+  "uuid": "6ed6995b-4f50-44f3-af17-54c72c86a114"
+}

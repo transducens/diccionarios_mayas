@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ornoh",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuʼorno",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Horno",
+  "definitionDialect": "",
+  "additional_text": "scv Del Cast Horno",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal kaxlanwah pa li ornoh kuchaʼajsaj wi li kaxlanwah",
+      "example_spa": "El panadero cuece el pan en el horno",
+      "dialect": null
+    }
+  ],
+  "uuid": "050e55c4-e2e1-444b-be95-c93c10706817"
+}

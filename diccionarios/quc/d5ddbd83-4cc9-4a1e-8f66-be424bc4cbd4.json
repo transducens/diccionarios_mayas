@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ruchulik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xruchiʼk, xuruchubʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puesta: cosa de boca o abertura pequeña, como tinaja, jarro o taza",
+  "definitionDialect": "p.",
+  "additional_text": "Raíz PT Ruch",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuruchubʼa kan li xaʼr chwa li qʼaqʼ",
+      "example_spa": "La mujer dejó el jarro de boca pequeña en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5ddbd83-4cc9-4a1e-8f66-be424bc4cbd4"
+}

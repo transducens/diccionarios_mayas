@@ -1,0 +1,19 @@
+{
+  "entryWord": "Naqʼatajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acostumbrarse; hallarse",
+  "definitionDialect": "",
+  "additional_text": "vI Kinnaqʼatajik Fbas //Naqʼat//",
+  "examples": [
+    {
+      "example_maya": "We jun kusikʼaj sikʼ, kanaqʼatajik",
+      "example_spa": "Uno se acostumbra a fumar tabaco",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c3ed265-0e2f-4130-a16c-7461c0d500b4"
+}

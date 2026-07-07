@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Usted",
+  "definitionDialect": "general",
+  "additional_text": "Pron",
+  "examples": [
+    {
+      "example_maya": "¿La utz wach lah?",
+      "example_spa": "¿Cómo está usted?",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5d3696f-cea0-48b5-b5d9-9b6f2dfba52f"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "El",
+  "definition": "Hacia arriba, además tiene otros sentidos",
+  "additional_text": "Dire",
+  "examples": [
+    {
+      "example_maya": "Xbʼe el ri a Xwan",
+      "example_spa": "Juan se fue hacia arriba",
+      "dialect": null
+    },
+    {
+      "example_maya": "La Xwaʼ el ri akʼwal?",
+      "example_spa": "Comió el niño?",
+      "dialect": null
+    }
+  ],
+  "uuid": "07a9c2be-2f67-42b4-9db8-263aad78ae55",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

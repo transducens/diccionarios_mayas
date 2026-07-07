@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xaʼn",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zancudo",
+  "definitionDialect": "",
+  "additional_text": "sp Raíz S Xaʼn DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li xaʼn nimaʼq li kaqan xuq kakitij ukikʼel jun winaq",
+      "example_spa": "Los zancudos tienen las patas grandes y chupan la sangre de la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "a0e57e62-62d1-4452-91f7-c79f230f6bf0"
+}

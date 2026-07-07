@@ -1,0 +1,24 @@
+{
+  "entryWord": "Turuwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gotear; mojarse bajo la lluvia",
+  "definitionDialect": "Español",
+  "additional_text": "vi Kinturuwik Sinón Tzʼujuweem Sinón Chʼetoweem Raíz P Tur",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal xaq katuruwik ma xa qʼeʼl chik",
+      "example_spa": "La tinaja está goteando porque ya es vieja",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinturuw chi rumal li jabʼ ma xa maj nuqʼuʼ",
+      "example_spa": "Me mojé por la lluvia porque no tengo capa",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b4ad3d5-70d6-4cdd-88d4-1441f332185f"
+}

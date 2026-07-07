@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tawixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintawij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Golpear la mandíbula de un puñetazo",
+  "definitionDialect": "general",
+  "additional_text": "vt Raíz P Taw",
+  "examples": [
+    {
+      "example_maya": "Xintawij jun qʼabʼ xe re li alah",
+      "example_spa": "Le di un puñetazo en la mandíbula al muchacho",
+      "dialect": null
+    }
+  ],
+  "uuid": "059d64e9-b83f-4546-b7cd-fe85fd90e0fc"
+}

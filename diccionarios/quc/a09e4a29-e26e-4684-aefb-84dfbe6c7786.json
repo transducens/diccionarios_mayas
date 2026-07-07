@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tontoyirsaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aturdir, dejar aturdido",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintontoyirsaaj",
+  "examples": [
+    {
+      "example_maya": "Li nimaqʼij xbʼanik, xutontoyirsaj nujolom, ma si xbʼan wululim",
+      "example_spa": "La fiesta me dejó aturdida porque había mucha bulla",
+      "dialect": null
+    }
+  ],
+  "uuid": "a09e4a29-e26e-4684-aefb-84dfbe6c7786"
+}

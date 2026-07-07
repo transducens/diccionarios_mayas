@@ -1,0 +1,23 @@
+{
+  "entryWord": "AA",
+  "definition": "Demostrativo que puede anteponerse a cualquier pronombre",
+  "additional_text": "pd es frases: ajun acompañado por otro",
+  "examples": [
+    {
+      "example_maya": "Aatxin xiʼ nkiʼna makyʼ",
+      "example_spa": "Ella es a quien vi desdihoy",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Aaqʼa sok Machiʼw makyʼ",
+      "example_spa": "Es él quien pasó al Oriente desdihoy",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3111ab31-d7f9-47a0-a246-d701ca876314",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaqʼlixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchaqʼlij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salpicar; tirar agua; chapotear",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Chaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuchaqʼlij kan joron are taq xqʼaxik",
+      "example_spa": "La mujer chapoteó el agua cuando pasó",
+      "dialect": null
+    }
+  ],
+  "uuid": "b7e38b2e-cbb4-4f89-a431-9747322fc7cd"
+}

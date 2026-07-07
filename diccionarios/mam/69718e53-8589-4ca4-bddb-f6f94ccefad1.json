@@ -1,0 +1,18 @@
+{
+  "entryWord": "MOJ",
+  "definition": "par, mudada de dos piezas Esta palabra no se usa sola sino es necesario anteponerle el número",
+  "additional_text": "md frases: jun moj un par raíz moj p",
+  "examples": [
+    {
+      "example_maya": "¿Jteʼ moj t-xbʼalana at tat?",
+      "example_spa": "¿Cuántas mudadas de ropa tenés papá?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "69718e53-8589-4ca4-bddb-f6f94ccefad1",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

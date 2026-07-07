@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tan (pe)",
+  "definition": "Vení, corre, apúrese",
+  "additional_text": "Imp var Katan pe, kattan pe",
+  "examples": [
+    {
+      "example_maya": "Tan pe ke reʼ rat ala",
+      "example_spa": "Venga aquí",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tan apo awaqän, petenäq jöbʼ",
+      "example_spa": "Corra para allá porque ya viene la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tan ri aqʼaʼ chi re ri qasamaj",
+      "example_spa": "Apúrese con el trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "1bc021d4-933d-4592-9175-a93fbcc233c8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

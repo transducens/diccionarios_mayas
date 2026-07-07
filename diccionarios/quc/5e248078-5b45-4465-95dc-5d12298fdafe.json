@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lachʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlachʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despegar cosa pegajosa (como quitar la venda de una herida)",
+  "definitionDialect": "general",
+  "additional_text": "vtd Raíz vt Lachʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajkun xulachʼij uwach li atzʼyaq chwach li sokotajik",
+      "example_spa": "La enfermera despegó la venda",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e248078-5b45-4465-95dc-5d12298fdafe"
+}

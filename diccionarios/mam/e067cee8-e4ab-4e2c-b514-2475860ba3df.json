@@ -1,0 +1,23 @@
+{
+  "entryWord": "XTXʼAʼYIL",
+  "definition": "golondrina",
+  "additional_text": "s1b nxtxʼaʼyila ds chʼit",
+  "examples": [
+    {
+      "example_maya": "Pur us nxiʼ kychoʼn qa xtxʼaʼyil",
+      "example_spa": "Puras moscas comen las golondrinas",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Noq nchi ilipan xtxʼaʼyil nnex qʼij",
+      "example_spa": "Sólo volando se mantienen las golondrinas en el día",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "e067cee8-e4ab-4e2c-b514-2475860ba3df",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

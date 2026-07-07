@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kaqcheʼchoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tieso; desobediente, modismo que no se usa mucho",
+  "definitionDialect": "General",
+  "additional_text": "pc Raíz Adj Kaq Raíz Adj Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼuʼum we na tzajkom, taj sibʼalaj kaqcheʼchoj",
+      "example_spa": "Si no está curtido el cuero, es muy tieso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun alah sibʼalaj jun kaqcheʼchoj ma na karaj taj kachakunik",
+      "example_spa": "El muchacho es muy desobediente, y no quiere trabajar",
+      "dialect": null
+    }
+  ],
+  "uuid": "db2d3172-2ab3-4dd6-bcaf-5f11daa1ef0b"
+}

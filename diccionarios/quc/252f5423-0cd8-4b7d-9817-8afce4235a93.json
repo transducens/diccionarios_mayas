@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nima kʼacheʼlaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Selva",
+  "definitionDialect": "General",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Pa li nima kʼacheʼlaj e kʼo tijonelabʼ taq chikop",
+      "example_spa": "En la selva hay animales feroces",
+      "dialect": null
+    }
+  ],
+  "uuid": "252f5423-0cd8-4b7d-9817-8afce4235a93"
+}

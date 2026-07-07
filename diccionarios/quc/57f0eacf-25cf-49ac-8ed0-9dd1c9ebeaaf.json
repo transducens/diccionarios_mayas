@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xilnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxilnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con vestido bien roto",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Xil",
+  "examples": [
+    {
+      "example_maya": "Li ukamiʼx li snakʼal sibʼalaj kaxilnajik",
+      "example_spa": "La camisa del pobre niño está deshilachada",
+      "dialect": null
+    }
+  ],
+  "uuid": "57f0eacf-25cf-49ac-8ed0-9dd1c9ebeaaf"
+}

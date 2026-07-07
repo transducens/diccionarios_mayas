@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yutik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyutuh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amarrar boca de costal; lavar a la ligera la ropa; mover la cadera por deseos de orinar; coser ropa",
+  "definitionDialect": "",
+  "additional_text": "vtr Var Yaabʼik Raíz VT Yut",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kuyut li poʼt",
+      "example_spa": "La mujer está lavando a la lijera el güipil",
+      "dialect": null
+    },
+    {
+      "example_maya": "Uwi li koxtar kinyutuh, ma xa katix li ixim",
+      "example_spa": "Estoy amarrando la boca del costal para que no se riegue el maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "2915d106-742a-4913-ac2a-fc198b35b977"
+}

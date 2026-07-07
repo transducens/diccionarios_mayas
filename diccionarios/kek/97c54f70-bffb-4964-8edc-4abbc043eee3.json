@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼajoʼok",
+  "definition": "Tanto, mucho, tan, bastante",
+  "additional_text": "Adj Xkʼajoʼoʼ, xkʼajoʼal Sinón Naabʼal",
+  "examples": [
+    {
+      "example_maya": "Kʼajoʼ naq xrahoʼ intiqʼilal",
+      "example_spa": "Me dolió mucho la herida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ saqʼe saʼ li kʼalebʼaal",
+      "example_spa": "En la aldea hay mucho sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "97c54f70-bffb-4964-8edc-4abbc043eee3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

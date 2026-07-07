@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼiribʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Retumbar",
+  "definitionDialect": "",
+  "additional_text": "VI Kabʼiribʼobʼik Raíz PT Bʼir",
+  "examples": [
+    {
+      "example_maya": "Li alah xbʼiribʼobʼik, are taq xukʼaq la ribʼ chwi li cheʼ",
+      "example_spa": "El muchacho retumbó cuando se tiró del árbol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li qʼaqʼ jeʼl xbʼiribʼobik",
+      "example_spa": "La bomba retumbó mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "f151a4c0-a7b0-47f7-993b-632c85348f2b"
+}

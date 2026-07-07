@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼuxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Masticar habas, manías o cosas tostadas; roer",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinkʼuxuh Raíz VT Kʼux",
+  "examples": [
+    {
+      "example_maya": "Kinkʼux na bʼolom kaxlaʼn",
+      "example_spa": "Voy a masticar habas tostadas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chʼoh kakikʼux atzʼyaq",
+      "example_spa": "Los ratones roen la ropa",
+      "dialect": null
+    }
+  ],
+  "uuid": "62bcf4ea-0c97-4ea7-afc7-e188b8e5f470"
+}

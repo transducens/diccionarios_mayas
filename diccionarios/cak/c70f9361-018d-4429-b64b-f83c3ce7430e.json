@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tunay",
+  "definition": "Dalia, caña de Santa Catarina",
+  "additional_text": "sInv Nutunay",
+  "examples": [
+    {
+      "example_maya": "Ri tunay jebʼel rusiʼj nuyaʼ",
+      "example_spa": "La dalia da una flor bonita",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tunay jun cheʼ yalan kʼo ri chuchiʼ täq bʼey",
+      "example_spa": "La caña de Santa Catarina se ve mucho en las orillas de los caminos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ruyaʼal ri tunay yalan ütz richin sachïk, chuqa richin chʼaʼk pa runaqʼ wäch",
+      "example_spa": "El jugo de la caña de santa Catarina es muy bueno para el mal de ojo y para granos en el ojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "c70f9361-018d-4429-b64b-f83c3ce7430e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

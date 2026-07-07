@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tojaʼ (tojeʼ)",
+  "definition": "Hace un momento o rato",
+  "additional_text": "Part var Tojeʼ",
+  "examples": [
+    {
+      "example_maya": "Tojaʼ tnumeʼq",
+      "example_spa": "Hace un momento que pasó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tojaʼ tinxik",
+      "example_spa": "Hace un rato me fui",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d5c52c6-ab22-4f4f-9bc5-9b540f52172a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

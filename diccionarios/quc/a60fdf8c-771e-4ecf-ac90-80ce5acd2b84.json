@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuktuk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pájaro carpintero de color café",
+  "definitionDialect": "General",
+  "additional_text": "snp Raíz S Tuktuk DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li tuktuk kakowinik kuwor li cheʼ cheh li utzaʼm",
+      "example_spa": "El pájaro carpintero puede perforar árboles con el pico",
+      "dialect": null
+    }
+  ],
+  "uuid": "a60fdf8c-771e-4ecf-ac90-80ce5acd2b84"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Temaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Usar como silla; poner vigas",
+  "definitionDialect": "",
+  "additional_text": "vTD Kintemaaj",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutemaj li wankeʼt",
+      "example_spa": "El hombre usó como silla la banqueta",
+      "dialect": null
+    }
+  ],
+  "uuid": "267a3f4d-49af-4f02-937b-cf9bed1716c2"
+}

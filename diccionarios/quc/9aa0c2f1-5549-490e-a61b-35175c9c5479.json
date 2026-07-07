@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sakʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Langosta",
+  "definitionDialect": "",
+  "additional_text": "saP Raíz S Saakʼ DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li sakʼ kakibʼan kʼax cheh li abʼix, pa taq taqʼaj e kʼo wih",
+      "example_spa": "Las langostas hacen daño la milpa, viven en tierra caliente",
+      "dialect": null
+    }
+  ],
+  "uuid": "9aa0c2f1-5549-490e-a61b-35175c9c5479"
+}

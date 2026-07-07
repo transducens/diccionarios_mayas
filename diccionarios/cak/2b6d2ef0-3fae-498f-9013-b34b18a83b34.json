@@ -1,0 +1,28 @@
+{
+  "entryWord": "Qul",
+  "definition": "Bejuco",
+  "additional_text": "sInv Nuqul Qʼayis, kʼan",
+  "examples": [
+    {
+      "example_maya": "Ri qul xa xeʼ pa taq pimiläj kʼechelaj nilitäjwi",
+      "example_spa": "El bejuco sólo se encuentra en los cerros espesos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Re qul re janíla chʼuchʼüj, chuqa yalan kow",
+      "example_spa": "Este tipo de bejuco es muy suave y muy fuerte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Re qul re koʼöl bʼa rupam chuwäch ri qäs kuʼn",
+      "example_spa": "Este tipo de bejuco es un poco más delgado que el mero bejuco",
+      "dialect": null
+    }
+  ],
+  "uuid": "2b6d2ef0-3fae-498f-9013-b34b18a83b34",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

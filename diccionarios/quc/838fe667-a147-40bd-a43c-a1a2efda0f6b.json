@@ -1,0 +1,24 @@
+{
+  "entryWord": "Muchuʼch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedacito; astilla; migaja",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Uxeer Sinón Ukʼaaj",
+  "examples": [
+    {
+      "example_maya": "Li chʼeken xkibʼan muchuʼch che li kaxlanwah",
+      "example_spa": "Los zompopos hicieron migajas los panes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinmuch na kebʼ tarey\" siʼ",
+      "example_spa": "Voy a rajar dos tareas de leña",
+      "dialect": null
+    }
+  ],
+  "uuid": "838fe667-a147-40bd-a43c-a1a2efda0f6b"
+}

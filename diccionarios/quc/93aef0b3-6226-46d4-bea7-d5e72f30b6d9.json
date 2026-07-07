@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tijobʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escuela (lugar para enseñanza); material de aprendizaje",
+  "definitionDialect": "",
+  "additional_text": "snp Raíz VT Tiij",
+  "examples": [
+    {
+      "example_maya": "Li tijobʼal kʼa te uwokik rumal li qʼatbʼaltzij",
+      "example_spa": "La escuela acaba de ser construida por la municipalidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "93aef0b3-6226-46d4-bea7-d5e72f30b6d9"
+}

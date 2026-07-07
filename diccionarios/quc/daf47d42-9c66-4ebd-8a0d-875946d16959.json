@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqranaroj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hinchado y rojo, hinchado y duro",
+  "definitionDialect": "",
+  "additional_text": "pc Raíz Adj Kaq Raíz P Ran",
+  "examples": [
+    {
+      "example_maya": "Li raqan li achih sibʼalaj kaqranaroj rumal jun spoj",
+      "example_spa": "La pierna del hombre está muy hinchada por un absceso",
+      "dialect": null
+    }
+  ],
+  "uuid": "daf47d42-9c66-4ebd-8a0d-875946d16959"
+}

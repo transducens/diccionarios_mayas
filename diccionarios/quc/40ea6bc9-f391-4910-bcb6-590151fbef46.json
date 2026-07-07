@@ -1,0 +1,29 @@
+{
+  "entryWord": "Jox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pino al que se le ha sacado el ocote y que tiene un hueco; derrumbado; herido; raspado por golpe",
+  "definitionDialect": "",
+  "additional_text": "s Fbas //Johx// scl Jooxa cheeʼ Palo donde han sacado ocote Raíz S Jox",
+  "examples": [
+    {
+      "example_maya": "Jox kabʼix che li chaj jawi kelesax wi li tochʼom chaj",
+      "example_spa": "Joox se le llama al pino de donde sacan ocote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj jox li uwach li swan",
+      "example_spa": "El cerro está derrumbado porque hubo mucha lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih jox li upalaj",
+      "example_spa": "El hombre tiene la cara raspada",
+      "dialect": null
+    }
+  ],
+  "uuid": "40ea6bc9-f391-4910-bcb6-590151fbef46"
+}

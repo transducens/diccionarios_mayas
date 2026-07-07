@@ -1,0 +1,19 @@
+{
+  "entryWord": "Moʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guacalito que traen los romeristas de Esquipulas",
+  "definitionDialect": "",
+  "additional_text": "SInv Numoʼr",
+  "examples": [
+    {
+      "example_maya": "Li siqonelabʼ kʼi moʼr xkikʼam la chwa skepul\"",
+      "example_spa": "Los romeristas trajeron muchos guacalitos de Esquipulas",
+      "dialect": null
+    }
+  ],
+  "uuid": "7b1c8b80-6948-456a-823e-a43a40694e60"
+}

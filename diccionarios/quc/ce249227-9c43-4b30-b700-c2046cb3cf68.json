@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortina negra que se usa cuando hay muerto",
+  "definitionDialect": "Español",
+  "additional_text": "snP DomS Wiqobʼal Del Cast Luto",
+  "examples": [
+    {
+      "example_maya": "Pa tyox oknaq lut ma bʼyerns sant",
+      "example_spa": "La iglesia tiene cortinas negras porque es Viernes Santo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce249227-9c43-4b30-b700-c2046cb3cf68"
+}

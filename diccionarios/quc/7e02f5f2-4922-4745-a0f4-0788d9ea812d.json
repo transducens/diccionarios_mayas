@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sakʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsakʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar pedazo como escama (de vaso, palangana, etc); quebrar somatando",
+  "definitionDialect": "general",
+  "additional_text": "vtd var Tzakʼixik Raíz VT Sakʼ",
+  "examples": [
+    {
+      "example_maya": "Li lameʼt xinsakʼij ma xa xinpaqchij",
+      "example_spa": "Empujé las botellas y se quebraron",
+      "dialect": null
+    }
+  ],
+  "uuid": "7e02f5f2-4922-4745-a0f4-0788d9ea812d"
+}

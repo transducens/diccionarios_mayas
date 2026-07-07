@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jutʼubʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un montón de leña, tierra, granos, arena, etc",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz PT Tʼubʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼo jutʼubaj atzʼama uliw pa li chak kabʼanik",
+      "example_spa": "En la construcción hay un montón de arena de río",
+      "dialect": null
+    }
+  ],
+  "uuid": "596cce2b-09cf-41a6-8606-8e2318925597"
+}

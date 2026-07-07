@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼichiʼch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fácil de desgranar",
+  "definitionDialect": "general",
+  "additional_text": "Adj Raíz VT Bʼich",
+  "examples": [
+    {
+      "example_maya": "Li ujolom trikoh sibʼalaj chaqiʼj, bʼichiʼch",
+      "example_spa": "La espiga de trigo está seca y se desgrana fácilmente",
+      "dialect": null
+    }
+  ],
+  "uuid": "cd5614df-addb-400d-b5c9-0323ae05eef2"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ketelik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xketiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuketebʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Puesta: cosa redonda; puesta: cosa circular; llena: luna; terreno cuadrado; circular",
+  "definitionDialect": "general",
+  "additional_text": "P Adj Ketekik Redondo, circular VTD Keetexik Agarrar cosa redonda o circular VI Ketetexik Rodarse VTD =Keteteej Dar vueltas a ruedas, rodar cosas circulares Adj Ketkeʼy Circular, redondo y plano VI Ketekobʼem Caerse una ficha de veinticinco o la parte de abajo de una jarrilla u olla Enu Juketaaj Una penca de guineos VI Ketetlabʼem Rodar mucho objeto circular o redondo y plano F Xketiʼ lee iikʼ Luna llena Sinón Setelik Raíz P Ket",
+  "examples": [
+    {
+      "example_maya": "Li ikʼ are taq ketelik, kok aqʼabʼ kel aqʼanoq, kasaqirik kaqajik",
+      "example_spa": "La luna llena sale al anochecer y se pone al amanecer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uliw, tzʼaqat retabʼalil, ma ketelik",
+      "example_spa": "El terreno tiene medida completa porque es cuadrado",
+      "dialect": null
+    }
+  ],
+  "uuid": "9f1a0552-43a1-4713-bbde-96e937c9dd0a"
+}

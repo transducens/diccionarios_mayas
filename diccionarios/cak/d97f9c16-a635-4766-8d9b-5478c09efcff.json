@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xokomil",
+  "definition": "Viento del sur o tempestuoso",
+  "additional_text": "SNP var Surkuʼn, kaqʼiqʼ, kaqʼiqʼ",
+  "examples": [
+    {
+      "example_maya": "Ri xokomil yalan rutew ul täq nipe",
+      "example_spa": "El viento del sur es muy helado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xokomil yalan ruchuqʼaʼ, ruma riʼ chiqibʼaʼ xuroqij ri qawän",
+      "example_spa": "El aire que viene del poniente es muy fuerte, por eso botó fácilmente nuestra milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "d97f9c16-a635-4766-8d9b-5478c09efcff",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

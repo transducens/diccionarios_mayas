@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sanmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasanmaʼyik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar persona o coche gordo",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI San",
+  "examples": [
+    {
+      "example_maya": "Li chaqʼa wakax kasanmaʼy pa li abʼix",
+      "example_spa": "La vaca gorda anda entre las milpas",
+      "dialect": null
+    }
+  ],
+  "uuid": "13d269df-5ff5-49fa-b7a1-5ee8a4250984"
+}

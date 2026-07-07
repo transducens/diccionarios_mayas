@@ -1,0 +1,18 @@
+{
+  "entryWord": "Mes",
+  "definition": "Gato",
+  "additional_text": "sInv Inmes var Mis",
+  "examples": [
+    {
+      "example_maya": "¿Xwan ral xmes qanaʼ Cheep?",
+      "example_spa": "¿Tuvo cría su gata doña Josefa?",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb47271a-05cf-4b5c-97be-f471ce915842",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

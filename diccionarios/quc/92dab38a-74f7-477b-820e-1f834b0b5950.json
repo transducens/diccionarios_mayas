@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pukʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quebrar olla o tinaja; chapear",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpukʼiij Raíz VT Pukʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq pukʼixik kuʼon che li qʼebʼal are taq xʼilitajik",
+      "example_spa": "La mujer iba a quebrar la tinaja cuando fue vista",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpukʼij na li bʼoʼj li kapaxixik",
+      "example_spa": "Voy a quebrar la piñata",
+      "dialect": null
+    }
+  ],
+  "uuid": "92dab38a-74f7-477b-820e-1f834b0b5950"
+}

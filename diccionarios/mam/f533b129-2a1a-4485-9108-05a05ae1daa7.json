@@ -1,0 +1,23 @@
+{
+  "entryWord": "KUBʼ",
+  "definition": "1 bajarse 2 dominar",
+  "additional_text": "vi kubʼna, ma chin kubʼa frases: tkubʼal qʼij sur raíz kubʼ vi",
+  "examples": [
+    {
+      "example_maya": "Ma chin kubʼa ttxlaj tja prim makyʼ",
+      "example_spa": "Bajé al lado de su casa hoy en la mañana",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma chin kubʼa tiʼj npwaqa tuʼn eleqʼ",
+      "example_spa": "Por mi dinero fui dominado por el ladrón",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f533b129-2a1a-4485-9108-05a05ae1daa7",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

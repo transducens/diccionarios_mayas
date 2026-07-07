@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rectal aqʼabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estrellas que dan la hora en la noche",
+  "definitionDialect": "",
+  "additional_text": "ss",
+  "examples": [
+    {
+      "example_maya": "Li santyag retal aqʼabʼ pa taq saqʼij",
+      "example_spa": "El nixtamalero da la hora en las madrugadas del verano",
+      "dialect": null
+    }
+  ],
+  "uuid": "a1acf870-5652-4021-8ff6-190d5bfa44df"
+}

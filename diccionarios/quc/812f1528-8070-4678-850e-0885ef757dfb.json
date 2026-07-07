@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼaqʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apurarse una persona para hacer algo",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz S Qʼaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Kinqʼaqʼaj na li qʼaqʼ chuxe li subʼ ma rajawaxik",
+      "example_spa": "Voy a apurar el fuego de los tamales porque es necesario",
+      "dialect": null
+    }
+  ],
+  "uuid": "812f1528-8070-4678-850e-0885ef757dfb"
+}

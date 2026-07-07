@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yutum",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maneado: animal para que no haga daño en las siembras o que no camine lejos; cosido en forma sencilla",
+  "definitionDialect": "",
+  "additional_text": "sv Var Ximoon Raíz P Yut",
+  "examples": [
+    {
+      "example_maya": "Li bʼak yutum li uqʼabʼ chiʼl li raqan ma xa katajin kayitzʼ ulich",
+      "example_spa": "A la vaca la tienen maneada de las patas porque la están ordeñando",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d63ccf7-26ee-4fac-921a-ba1954a5723d"
+}

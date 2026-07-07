@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chichah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chicha (bebida alcohólica)",
+  "definitionDialect": "",
+  "additional_text": "scv Nuchiichaa Var Tzaam Var Achiichah DomS Kunabʼal Del Cast Chicha",
+  "examples": [
+    {
+      "example_maya": "Li a Luʼ xutij chichah",
+      "example_spa": "Pedro tomó mucha chicha",
+      "dialect": null
+    }
+  ],
+  "uuid": "70b04040-9e90-44de-ab3c-dd1d1a91f8a1"
+}

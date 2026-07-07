@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sibʼowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasibʼowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Doler punzando",
+  "definitionDialect": "General",
+  "additional_text": "vi Sinón Ranoweem Sinón Sanoweem Raíz VI Sibʼ",
+  "examples": [
+    {
+      "example_maya": "Kabʼijir sibʼalaj xsibʼow ujolom li ixoq",
+      "example_spa": "Anteayer le dolió mucho la cabeza a la mujer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kasibʼow li spoj chupalaj li ixoq",
+      "example_spa": "A la mujer le duele mucho el absceso que tiene en la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "01667236-0fd6-42e1-85b2-f842615cce83"
+}

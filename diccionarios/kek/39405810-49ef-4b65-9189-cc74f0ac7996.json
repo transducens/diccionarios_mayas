@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tiikal",
+  "definition": "Dirección, lo recto",
+  "additional_text": "SInv Intiikal Sinón Jayal",
+  "examples": [
+    {
+      "example_maya": "Kʼe aawibʼ saʼ intiikal",
+      "example_spa": "Ponete en mi dirección",
+      "dialect": null
+    },
+    {
+      "example_maya": "Aʼan aʼin xtiikal li wochoch",
+      "example_spa": "Esta es la dirección de mi casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "39405810-49ef-4b65-9189-cc74f0ac7996",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "TII TQAL",
+  "definition": "¿qué es? ¿que cosa?",
+  "additional_text": "pi raíz ti par raíz tqal par",
+  "examples": [
+    {
+      "example_maya": "¿Ti tqal taj txʼyan teya?",
+      "example_spa": "¿Qué quiere el perro con vos?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Ti tqal jluʼ saj qʼoʼn qe?",
+      "example_spa": "¿Qué es esto que nos dieron?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3d6a7be3-1bdf-4218-8cb7-1158a1f57478",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

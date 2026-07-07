@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼantiʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantil",
+  "definitionDialect": "",
+  "additional_text": "snP DomS Kumatz",
+  "examples": [
+    {
+      "example_maya": "Pa taq li qʼayes sibʼalaj e kʼo kʼantiʼ",
+      "example_spa": "En el monte hay muchos cantiles",
+      "dialect": null
+    }
+  ],
+  "uuid": "8964f9c2-93d7-4497-9e91-5d0e6a5a874d"
+}

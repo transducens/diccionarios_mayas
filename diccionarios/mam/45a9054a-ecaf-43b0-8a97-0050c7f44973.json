@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHʼAAR",
+  "definition": "1 llorón, chillón 2 desafinado: instrumento musical",
+  "additional_text": "(schʼar) adj tchʼaral, ma chʼarax raíz chʼar s/a",
+  "examples": [
+    {
+      "example_maya": "Maʼ chʼarax wala nan",
+      "example_spa": "Señora, mi hijo ya se volvió llorón",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Maʼ tzaj nqʼoja tiʼj naq chʼar kʼwal",
+      "example_spa": "Ya me dio cólera por este patojo llorón",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "45a9054a-ecaf-43b0-8a97-0050c7f44973",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

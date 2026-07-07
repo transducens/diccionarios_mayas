@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ubʼen",
+  "entryWordDialect": null,
+  "altEntryWord": "Wubʼen",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tamal de frijol; pupusa; tayuyo Sucio del pescuezo",
+  "definitionDialect": "",
+  "additional_text": "slov Raíz S Ubʼeen",
+  "examples": [
+    {
+      "example_maya": "Li ubʼen sibʼalaj utz utijowik",
+      "example_spa": "El tayuyo es muy sabroso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ubʼen upuqul",
+      "example_spa": "Sucio del pescuezo",
+      "dialect": null
+    }
+  ],
+  "uuid": "364827b6-373b-4171-9d06-0fbef1c77436"
+}

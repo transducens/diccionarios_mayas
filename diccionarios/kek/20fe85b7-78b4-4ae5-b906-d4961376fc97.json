@@ -1,0 +1,28 @@
+{
+  "entryWord": "Pukʼxaar",
+  "definition": "Jarra panzuda de boca pequeña, cántaro panzudo de boca pequeña",
+  "additional_text": "SInv Inpukʼxaar",
+  "examples": [
+    {
+      "example_maya": "Xpukʼeʼ li pukʼxaar saʼ li xam",
+      "example_spa": "La jarra panzuda estalló en el fuego",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkʼe li pukʼxaar saʼ li xam, wan kaʼchʼin li bʼoj chi saʼ",
+      "example_spa": "Puse el cántaro en el fuego con un poco de chicha",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinloqʼ jun li pukʼxaar saʼ li kʼayiil",
+      "example_spa": "Compré un cántaro en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "20fe85b7-78b4-4ae5-b906-d4961376fc97",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

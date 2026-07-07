@@ -1,0 +1,23 @@
+{
+  "entryWord": "Liibʼr",
+  "definition": "Libro, libra",
+  "additional_text": "sInv Inliibʼr Sinón Hu",
+  "examples": [
+    {
+      "example_maya": "Saʼ kʼayiil xinloqʼ jun liirbʼ li maniiy",
+      "example_spa": "Compré una libra de mani en el mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Saʼ tzolebʼaal xeʼxpatzʼ jun li liibʼr we",
+      "example_spa": "Me pidieron un libro en la escuela",
+      "dialect": null
+    }
+  ],
+  "uuid": "bbf009f7-8b1c-4b13-87cc-c4b656125093",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sokik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinsokoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Herir; lastimar; dañar siembras",
+  "definitionDialect": "",
+  "additional_text": "VTR F Raíz VT Sok",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xusok ribʼ cheh li chʼichʼ",
+      "example_spa": "El niño se lastimó con el machete",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xusok wabʼix li ukarneʼl li a Luʼ",
+      "example_spa": "Las ovejas de Pedro dañaron mi milpa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Masok awibʼ",
+      "example_spa": "Cuidate, no te vayas a lastimar",
+      "dialect": null
+    }
+  ],
+  "uuid": "aba44ca7-39c8-4ceb-9038-10d6c112801f"
+}

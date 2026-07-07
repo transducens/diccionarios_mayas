@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzopowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Punzar un tumor o herida",
+  "definitionDialect": "",
+  "additional_text": "vi Katzopowik Raíz VI Tzop",
+  "examples": [
+    {
+      "example_maya": "Li a Kux sibʼalaj katzopow li raqan xusokoh",
+      "example_spa": "A Marcos le punza el pie que se lastimó",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d7aa0e3-2e3a-4062-849b-8ee95d9ecfc5"
+}

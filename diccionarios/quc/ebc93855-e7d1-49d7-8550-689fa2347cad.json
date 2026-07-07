@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juranaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una cosa muy llena",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz P Ran",
+  "examples": [
+    {
+      "example_maya": "Kʼo juranaj jaʼ pa li lameʼt pa jah",
+      "example_spa": "En la casa hay una botella de agua",
+      "dialect": null
+    }
+  ],
+  "uuid": "ebc93855-e7d1-49d7-8550-689fa2347cad"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tiʼij",
+  "definition": "Carne para comer",
+  "additional_text": "sps Nutiʼ Qʼutuʼn",
+  "examples": [
+    {
+      "example_maya": "Ri rutiʼ wakx jebʼël utz pa ruyaʼal",
+      "example_spa": "La carne de res es muy buena en caldo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri tzʼiʼ yalan jebʼël nunaʼ ri tiʼij",
+      "example_spa": "Al perro le gusta comer carne",
+      "dialect": null
+    }
+  ],
+  "uuid": "d8d0bc4b-bfba-40b9-a9f9-8f212a277a75",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

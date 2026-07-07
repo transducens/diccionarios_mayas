@@ -1,0 +1,24 @@
+{
+  "entryWord": "Mochkoʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Umochkoʼyil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xmochkoʼyirik",
+  "altEntryWordDialect2": null,
+  "definition": "Colocho",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Kochkoʼy var Michkʼot var Patzkuʼy",
+  "examples": [
+    {
+      "example_maya": "E kʼo winaq mochkoʼy kiwiʼ",
+      "example_spa": "Hay personas que son colochas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li lechug mochkoʼy li uxaq",
+      "example_spa": "La lechuga tiene hojas colochas",
+      "dialect": null
+    }
+  ],
+  "uuid": "4920be82-66be-4f6b-9158-585e04092448"
+}

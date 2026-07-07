@@ -1,0 +1,23 @@
+{
+  "entryWord": "Taqik",
+  "definition": "Vez",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Juntaqik",
+      "example_spa": "Primerà vez",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kaʼtaqik",
+      "example_spa": "Segunda vez",
+      "dialect": null
+    }
+  ],
+  "uuid": "36d008ed-49c7-40df-a7e5-badfde91ff27",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

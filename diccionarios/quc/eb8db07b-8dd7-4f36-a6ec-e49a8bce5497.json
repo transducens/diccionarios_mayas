@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼoyolim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acostarse",
+  "definitionDialect": "General",
+  "additional_text": "vi Kingʼoyiʼk Raíz P Qʼoy",
+  "examples": [
+    {
+      "example_maya": "Li achih qʼoyolem chi kubʼanoh, ma kʼo chi uwaram",
+      "example_spa": "El hombre ya se va a acostar porque tiene sueño",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb8db07b-8dd7-4f36-a6ec-e49a8bce5497"
+}

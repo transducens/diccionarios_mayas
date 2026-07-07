@@ -1,0 +1,18 @@
+{
+  "entryWord": "STAANK",
+  "definition": "1 cantina 2 cantinero 3 aguardiente de fábrica quezalteca",
+  "additional_text": "s1 nstanka",
+  "examples": [
+    {
+      "example_maya": "Nim xjal at tziʼ tja stank",
+      "example_spa": "Hay mucha gente en la cantina",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "c9f9613a-b76f-4275-9673-ba66e51c0d5b",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

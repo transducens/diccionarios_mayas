@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takmayixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintakmayij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abrir con fuerza puerta; despegar puertas tablas o paredes",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Tak",
+  "examples": [
+    {
+      "example_maya": "Li achih xutakmayij bʼi li uchi jah",
+      "example_spa": "El hombre abrió la puerta con fuerza",
+      "dialect": null
+    }
+  ],
+  "uuid": "9823bdc7-44ce-4b98-b96f-b4912d0be688"
+}

@@ -1,0 +1,28 @@
+{
+  "entryWord": "Yuqʼunik",
+  "definition": "Pastorear, cuidar nenes",
+  "additional_text": "vtd Yuqʼuxik, ninyuqʼuj",
+  "examples": [
+    {
+      "example_maya": "Ri chʼitaq akʼwalaʼ kan kiraybʼäl (kiway) yekiyuqʼuj ri chiʼj",
+      "example_spa": "A los patojitos les gusta mucho pastorear las ovejas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xtaq xtaniʼ yalan ütz nikinaʼ yekiyuqʼuj ri chʼitaq (chʼutaq) neʼy",
+      "example_spa": "A las muchachitas les gusta mucho cuidar a los nenes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri akʼwalaʼ yekiyuqʼuj ri wakx",
+      "example_spa": "Los niños pastorean los bueyes",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e44c047-52e8-49ea-af61-cbaa3ff47d92",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

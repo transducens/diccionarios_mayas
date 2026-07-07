@@ -1,0 +1,23 @@
+{
+  "entryWord": "Abʼäj",
+  "definition": "Piedra",
+  "additional_text": "sInv Wabʼäj Saqpor abʼäj Piedra resquebrajosa var Tzarajmäq",
+  "examples": [
+    {
+      "example_maya": "Janila abʼäj kʼo pa raqän yaʼ",
+      "example_spa": "Hay muchas piedras en el río",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri abʼäj jebʼël ütz chi yebʼan jay chi re",
+      "example_spa": "Las piedras son muy buenas para construir casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "2bd0cc94-8fd9-47f3-9629-5d915d3ee616",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

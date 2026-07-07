@@ -1,0 +1,19 @@
+{
+  "entryWord": "Son",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuson",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Son",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Qʼojoom Del Cast Son",
+  "examples": [
+    {
+      "example_maya": "Ri qatat qanan xaq staq son kikitijoh",
+      "example_spa": "Nuestros antepasados sólo bailaban sones",
+      "dialect": null
+    }
+  ],
+  "uuid": "01e471e5-45da-40e9-ad28-f02124ae17cf"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Torotajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salir libre una persona de prisión, de la escuela, o también agua de un chorro",
+  "definitionDialect": "",
+  "additional_text": "vi Kintorotajik Raiz VT Tor",
+  "examples": [
+    {
+      "example_maya": "Xtorotaj la li achih pa cheʼ xa xutoj kan torbʼal rech",
+      "example_spa": "Salió libre el hombre de la cárcel porque pagó su multa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Paqʼij ketorotaj li tijoxelabʼ pa tijoxik",
+      "example_spa": "A medio día salen los alumnos de clases",
+      "dialect": null
+    }
+  ],
+  "uuid": "11b166ef-681c-4b37-ab86-accf4591f536"
+}

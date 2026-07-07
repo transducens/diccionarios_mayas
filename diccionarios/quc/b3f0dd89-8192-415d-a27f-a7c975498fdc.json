@@ -1,0 +1,29 @@
+{
+  "entryWord": "Poqʼowem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hervir; calentarse la tierra por el sol",
+  "definitionDialect": "",
+  "additional_text": "vt Kapoqʼowik Raíz VT Poqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kape poqʼowem kubʼanoh",
+      "example_spa": "El café está hirviendo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xumajij poqʼow li kapeh",
+      "example_spa": "El café comenzó a hervir",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼalaj kapoqʼow li uliw rumal li qʼij",
+      "example_spa": "La tierra está muy caliente por el sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3f0dd89-8192-415d-a27f-a7c975498fdc"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Reproj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manchado (como cicatriz de quemadura); disparejo; siembra",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raiz VI Rep",
+  "examples": [
+    {
+      "example_maya": "Li uqʼabʼ li ixoq reproj, ma xa xuriq jun kʼatik",
+      "example_spa": "Las manos de la mujer tienen manchas porque sufrió una quemadura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chij reproj kakaʼyik utz kok cheh qʼoʼbʼal",
+      "example_spa": "Los hilos manchados son buenos al usarlos en bordados",
+      "dialect": null
+    }
+  ],
+  "uuid": "be6989bd-8b10-4ac2-a527-395cc02150eb"
+}

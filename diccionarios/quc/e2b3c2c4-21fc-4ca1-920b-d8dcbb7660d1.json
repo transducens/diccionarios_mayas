@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼabʼalil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona que se mantiene boquiabierta",
+  "definitionDialect": "",
+  "additional_text": "snp",
+  "examples": [
+    {
+      "example_maya": "Li alah maj utaqkil xaq kʼabʼalil",
+      "example_spa": "El muchacho está boquiabierto",
+      "dialect": null
+    }
+  ],
+  "uuid": "e2b3c2c4-21fc-4ca1-920b-d8dcbb7660d1"
+}

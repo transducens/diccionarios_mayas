@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pitzok",
+  "definition": "Brincar, saltar",
+  "additional_text": "vı Xinpitzok",
+  "examples": [
+    {
+      "example_maya": "Napitzok naq xʼel li imul saʼ li bʼe",
+      "example_spa": "El conejo saltó por el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yo chi pitzok li soʼsol rubʼel li o",
+      "example_spa": "El zopilote está brincando bajo el aguacatal",
+      "dialect": null
+    }
+  ],
+  "uuid": "21630fe2-6fec-440b-b11f-bc4707d3c84b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

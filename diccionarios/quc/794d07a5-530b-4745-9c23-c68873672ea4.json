@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzih",
+  "entryWordDialect": null,
+  "altEntryWord": "Utziyal, xtziyarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nixtamal",
+  "definitionDialect": "",
+  "additional_text": "Adj Raíz S Tzih",
+  "examples": [
+    {
+      "example_maya": "Li ixim kabʼan tzih cheh",
+      "example_spa": "Del maíz se hace el nixtamal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li utzi li ixoq, retal utziyal",
+      "example_spa": "El nixtamal de la mujer está bueno para molerlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "794d07a5-530b-4745-9c23-c68873672ea4"
+}

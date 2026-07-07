@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajkun",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajkun",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Curandero, enfermero",
+  "definitionDialect": "Español",
+  "additional_text": "sInv Raíz S Kuun",
+  "examples": [
+    {
+      "example_maya": "Li ajkun qʼayes kukunabʼej",
+      "example_spa": "El curandero usa hierbas para curar",
+      "dialect": null
+    }
+  ],
+  "uuid": "434b36df-02ed-493b-a98f-3fe358bc4607"
+}

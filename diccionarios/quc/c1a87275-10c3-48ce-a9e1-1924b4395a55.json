@@ -1,0 +1,19 @@
+{
+  "entryWord": "On",
+  "entryWordDialect": null,
+  "altEntryWord": "O",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "O",
+  "definitionDialect": "",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "La tzʼiʼ on winaq xulkʼamowa ri nukaxlanwa?",
+      "example_spa": "¿Sería perro o gente quien se llevó mi pan?",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1a87275-10c3-48ce-a9e1-1924b4395a55"
+}

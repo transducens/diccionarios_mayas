@@ -1,0 +1,28 @@
+{
+  "entryWord": "Raqän",
+  "definition": "Manga del pantalón, cabo, tallo de cualquier planta, pata, pie, huella, rastro Para diferenciarlo le sigue un sustantivo para especificar su característica",
+  "additional_text": "sds Raqän jöbʼ Gotas de lluvia, clase de hongo Raqän cheʼ Palo, tallo, tzyäq, cheʼ, ulew, Chʼakulaj",
+  "examples": [
+    {
+      "example_maya": "Chʼanin xretzetäj raqän nukarson",
+      "example_spa": "Luego se rompió la manga de mi pantalón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xqʼaj raqän ri wasaron",
+      "example_spa": "Se quebró el cabo de mi azadón",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xqʼaj jun raqän ri nutzʼiʼ",
+      "example_spa": "Se le quebró la pata a mi perro",
+      "dialect": null
+    }
+  ],
+  "uuid": "386ceacd-6ab6-4c2a-92fe-7309486e3009",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

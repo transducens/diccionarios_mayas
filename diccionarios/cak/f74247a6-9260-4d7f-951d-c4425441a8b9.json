@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼachojinïk",
+  "definition": "Curarse, sanar Terminar un trabajo",
+  "additional_text": "vi Kʼachojinen, yikʼachoj Kʼacho Kʼach",
+  "examples": [
+    {
+      "example_maya": "Kʼa runaj xikʼachoj roma ri itzel kʼatän",
+      "example_spa": "Me costó sanar por la fiebre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri sokotajïk kʼa runaj nikʼachoj",
+      "example_spa": "La herida tarda en sanar",
+      "dialect": null
+    }
+  ],
+  "uuid": "f74247a6-9260-4d7f-951d-c4425441a8b9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

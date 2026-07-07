@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼanatzʼoʼxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saludar golpeando suavemente la espalda",
+  "definitionDialect": "",
+  "additional_text": "vT Kintzʼanatzʼaʼ Raíz PT Tzʼan",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj xutzʼanatzʼa li rachiʼil are taq xril uwach",
+      "example_spa": "El hombre saludó a su compañero con golpes en la espalda",
+      "dialect": null
+    }
+  ],
+  "uuid": "8b70ac0c-7ca9-430e-8db2-37ec77e56791"
+}

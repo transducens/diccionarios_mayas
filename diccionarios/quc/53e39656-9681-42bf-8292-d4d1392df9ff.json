@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼiqik",
+  "entryWordDialect": null,
+  "altEntryWord": "Tiqik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encender fuego, arder, inflamar, incendiar, prender, pegar fuego; poner huella digital; enchufar; conectar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kintʼiqoh var Tiiqik Raiz PT Tʼiq",
+  "examples": [
+    {
+      "example_maya": "Kintʼiq na li mes cheh qʼaqʼ",
+      "example_spa": "Voy a encender el fuego a la basura",
+      "dialect": null
+    },
+    {
+      "example_maya": "We chitzʼibʼataj li nuwuj kintʼiq nuqʼab chpam",
+      "example_spa": "Al terminar de escribir mi carta voy a poner mi huella digital",
+      "dialect": null
+    }
+  ],
+  "uuid": "53e39656-9681-42bf-8292-d4d1392df9ff"
+}

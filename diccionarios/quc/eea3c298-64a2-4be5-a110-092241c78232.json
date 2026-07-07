@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jupir",
+  "entryWordDialect": null,
+  "altEntryWord": "jupiraj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un pedazo de pan o tamal",
+  "definitionDialect": "",
+  "additional_text": "Enu Var Juperaaj Raíz VT Per (pir)",
+  "examples": [
+    {
+      "example_maya": "Chasipaj jupir nukaxlanwa",
+      "example_spa": "Regálame un pedazo de pan",
+      "dialect": null
+    }
+  ],
+  "uuid": "eea3c298-64a2-4be5-a110-092241c78232"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Teqʼekotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con ropa rota",
+  "definitionDialect": "",
+  "additional_text": "vi Kateqʼekotik Raiz P Teqʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kateqʼekot li ratzʼyaq chrij",
+      "example_spa": "El niño anda con la ropa rota",
+      "dialect": null
+    }
+  ],
+  "uuid": "3b8bfdb5-dfa2-4a78-bd4d-93d5399ed319"
+}

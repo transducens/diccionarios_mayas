@@ -1,0 +1,24 @@
+{
+  "entryWord": "Raqʼalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parado, sin hacer nada",
+  "definitionDialect": "",
+  "additional_text": "p Xraqʼiʼk, xuraqʼabʼaʼ Raíz P Raqʼ",
+  "examples": [
+    {
+      "example_maya": "Li jun alah xaq raqʼalik ma xa qʼor",
+      "example_spa": "El muchacho se mantiene parado porque es perezoso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jun alih xaq raqʼal pa li bʼeh",
+      "example_spa": "La muchacha está parada en el camino sin hacer nada",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7474130-74fa-4e64-88c6-d157f22d3c5e"
+}

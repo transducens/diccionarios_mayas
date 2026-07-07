@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼukʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar el bajo de la marimba",
+  "definitionDialect": "",
+  "additional_text": "vi Kabʼukʼnajik Raiz VT Bʼukʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kabʼukʼnaj li qʼojom",
+      "example_spa": "El bajo de la marimba suena mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "8c43e125-4950-4044-b8a9-15a502fc7382"
+}

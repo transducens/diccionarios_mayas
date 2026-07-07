@@ -1,0 +1,19 @@
+{
+  "entryWord": "Komon chak",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Trabajo comunal",
+  "definitionDialect": "",
+  "additional_text": "scL Qʼuuch",
+  "examples": [
+    {
+      "example_maya": "Li achijabʼ komon chak kakibʼan pa li wokaj",
+      "example_spa": "Los vecinos hacen trabajo comunal en la aldea",
+      "dialect": null
+    }
+  ],
+  "uuid": "f20a77b1-f8e4-40b2-b514-b9e06ee682f5"
+}

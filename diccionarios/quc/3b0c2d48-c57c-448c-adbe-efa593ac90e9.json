@@ -1,0 +1,24 @@
+{
+  "entryWord": "Saranik",
+  "entryWordDialect": null,
+  "altEntryWord": "saralik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tirada: cosa rolliza; descubierto (sin camisa o chamarra); soltero; viudo",
+  "definitionDialect": "",
+  "additional_text": "p Xsariʼk, xusarabʼaʼ Raíz PT Sar",
+  "examples": [
+    {
+      "example_maya": "Li achih saran pa li chak na ukojom ta li ukamiʼx",
+      "example_spa": "El hombre trabaja sin camisa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih xaq saralik maj kabʼochiʼnik",
+      "example_spa": "La muchacha es soltera",
+      "dialect": null
+    }
+  ],
+  "uuid": "3b0c2d48-c57c-448c-adbe-efa593ac90e9"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rexex",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Baranda",
+  "definitionDialect": "General",
+  "additional_text": "SaP Raíz S Rexex",
+  "examples": [
+    {
+      "example_maya": "Li rexex are li kexukiʼ wi li winaq are taq kakikʼam li ubʼaqil Qajawal",
+      "example_spa": "La gente va a comulgar hasta las barandas",
+      "dialect": null
+    }
+  ],
+  "uuid": "99e1d7e5-e01e-4ce3-b8f0-9af5e5d911d7"
+}

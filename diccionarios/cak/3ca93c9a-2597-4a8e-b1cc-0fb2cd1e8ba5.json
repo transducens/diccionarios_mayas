@@ -1,0 +1,28 @@
+{
+  "entryWord": "Juyuʼ",
+  "definition": "Terreno, cerro, montaña, volcán",
+  "additional_text": "sInv Nujuyuʼ Juyuʼ var Taqʼaj, ulew",
+  "examples": [
+    {
+      "example_maya": "Yin manäq nujuyuʼ ta",
+      "example_spa": "Yo no tengo terreno",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chawän (chawon) taq juyuʼ ruyon cheʼ ruwäch",
+      "example_spa": "Los cerros grandes están bien cubiertos de árboles",
+      "dialect": null
+    },
+    {
+      "example_maya": "Konojel ri juyuʼ manäq chïk cheʼ pa kiwiʼ",
+      "example_spa": "Todos los cerros ya no tienen árboles",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ca93c9a-2597-4a8e-b1cc-0fb2cd1e8ba5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

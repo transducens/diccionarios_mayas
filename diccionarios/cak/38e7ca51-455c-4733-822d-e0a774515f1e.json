@@ -1,0 +1,28 @@
+{
+  "entryWord": "Xe",
+  "definition": "Sólo",
+  "additional_text": "Par Var Xa",
+  "examples": [
+    {
+      "example_maya": "Xe chik jun wäy nintäj, xnoj yan nupan",
+      "example_spa": "Sólo otra tortilla me como, y ya me llenaré",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xa xe rijaʼ kʼo iwir",
+      "example_spa": "Sólo él estaba ayer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xe ri wachʼalal xoqa",
+      "example_spa": "Mi hermano llegó solo",
+      "dialect": null
+    }
+  ],
+  "uuid": "38e7ca51-455c-4733-822d-e0a774515f1e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

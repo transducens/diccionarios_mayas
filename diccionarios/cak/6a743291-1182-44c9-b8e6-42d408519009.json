@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tebʼetik",
+  "definition": "Grueso, como una tela por remiendos, un tejido por bordados, un comal, etc",
+  "additional_text": "AdjD v Qepeqik",
+  "examples": [
+    {
+      "example_maya": "Ri nuken yalan tebʼetik xel",
+      "example_spa": "Mi tejido salió muy grueso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri xot yalan tebʼetik, kʼiy qʼaqʼ nrajoʼ chi nimeqʼeʼ",
+      "example_spa": "El comal muy grueso, quiere bastante fuego para calentarse",
+      "dialect": null
+    }
+  ],
+  "uuid": "6a743291-1182-44c9-b8e6-42d408519009",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

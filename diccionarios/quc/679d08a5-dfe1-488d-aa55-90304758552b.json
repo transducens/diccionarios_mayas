@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tewechʼtalik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bendito; sagrado; bendecido",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raiz S Tew Raiz S Chiiʼ",
+  "examples": [
+    {
+      "example_maya": "Ronojel tyox pa taq tinamit tewechiʼtalik",
+      "example_spa": "Todas las iglesias en los pueblos son sagradas",
+      "dialect": null
+    }
+  ],
+  "uuid": "679d08a5-dfe1-488d-aa55-90304758552b"
+}

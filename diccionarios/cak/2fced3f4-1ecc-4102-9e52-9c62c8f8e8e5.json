@@ -1,0 +1,33 @@
+{
+  "entryWord": "Qʼaläj (qʼalaj)",
+  "definition": "Visible",
+  "additional_text": "Adj Qʼalajnïk Aparecer: notarse",
+  "examples": [
+    {
+      "example_maya": "Yalan jebʼel qʼaläj la chʼumil kʼa wawe",
+      "example_spa": "Muy bien se ven las estrellas desde aquí",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼaläj taq nipe jöbʼ, nimuqeʼ qa",
+      "example_spa": "Cuando llueve se pone nublado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri chawan (chawon)taq juyuʼ qʼaläj chi näj",
+      "example_spa": "Los cerros grandes se ven de lejos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼaläj riʼ, tenan chik",
+      "example_spa": "Nos vemos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2fced3f4-1ecc-4102-9e52-9c62c8f8e8e5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

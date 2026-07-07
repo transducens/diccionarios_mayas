@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xojlinem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxojlinik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer eco",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Xoj",
+  "examples": [
+    {
+      "example_maya": "Pa li swan katataj li uxojlinem li uchʼabʼal li akʼal",
+      "example_spa": "En el barranco se oye el eco de la voz del niño",
+      "dialect": null
+    }
+  ],
+  "uuid": "880f8687-9021-4ca4-9045-4ffb41091cc5"
+}

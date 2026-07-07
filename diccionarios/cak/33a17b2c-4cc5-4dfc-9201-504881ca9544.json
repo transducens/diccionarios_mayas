@@ -1,0 +1,23 @@
+{
+  "entryWord": "Puxanïk",
+  "definition": "Cambiar o mudar hojas, plumas o piel los árboles o animales",
+  "additional_text": "vi Puxanen, nipuxan Var Tochʼanïk",
+  "examples": [
+    {
+      "example_maya": "Kʼo cheʼ ri yepuxan pa saqʼij",
+      "example_spa": "Hay árboles que mudan sus hojas en verano",
+      "dialect": null
+    },
+    {
+      "example_maya": "E räkʼ ri ya Teya xepuxan",
+      "example_spa": "Las gallinas de doña Matea mudaron sus plumas",
+      "dialect": null
+    }
+  ],
+  "uuid": "33a17b2c-4cc5-4dfc-9201-504881ca9544",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mariy\"",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Siete cabrillas, estrellas pequeñas agrupadas; mar (costeño)",
+  "definitionDialect": "general",
+  "additional_text": "SnP DomS Chʼumiil Del Cast María",
+  "examples": [
+    {
+      "example_maya": "Li mariy\" are retal aqʼabʼ pa li ikʼ nobʼyembʼr\"",
+      "example_spa": "Las siete cabrillas marcan la noche en el mes de noviembre",
+      "dialect": null
+    }
+  ],
+  "uuid": "86d4ec61-76ec-4e5b-9140-5bdcaae3b521"
+}

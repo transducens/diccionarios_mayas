@@ -1,0 +1,19 @@
+{
+  "entryWord": "Makʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmakʼij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar con instrumento de mucho filo",
+  "definitionDialect": "general",
+  "additional_text": "v TD Coment Rama tierna, pita, pelo, lazo Var Malakʼixik Raíz VT Makʼ",
+  "examples": [
+    {
+      "example_maya": "Li a Reʼn xumakʼij li kʼaʼam chech tuxerex",
+      "example_spa": "Lorenzo cortó la pita con la tijera",
+      "dialect": null
+    }
+  ],
+  "uuid": "e6b6a856-9f0a-469c-91ef-0aafc301b924"
+}

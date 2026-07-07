@@ -1,0 +1,19 @@
+{
+  "entryWord": "Roqrotexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar rápido pañuelo, lazo o cosa suave arrastrando",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinroqroteej Raíz PT Roq",
+  "examples": [
+    {
+      "example_maya": "Li xik xuroqrotej bʼi li kamnaq kumatz",
+      "example_spa": "El águila se llevó arrastrando a la culebra muerta",
+      "dialect": null
+    }
+  ],
+  "uuid": "5e74c8c6-49f1-46d2-9de3-aa2697b8208a"
+}

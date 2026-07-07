@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sirik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pegar con palo grueso",
+  "definitionDialect": "",
+  "additional_text": "vTR Kinsiroh Raiz PT Sir",
+  "examples": [
+    {
+      "example_maya": "Kinsir na li jun chkop cheh cheʼ",
+      "example_spa": "Voy a pegarle al animal con un palo grueso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xusir li elaqʼom chicheʼ",
+      "example_spa": "El hombre le pegó al ladrón con un palo grueso",
+      "dialect": null
+    }
+  ],
+  "uuid": "7287250a-e6f2-49b1-ba12-29a46f8752ee"
+}

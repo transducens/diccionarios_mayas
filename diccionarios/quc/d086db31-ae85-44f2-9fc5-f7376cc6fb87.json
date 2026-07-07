@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼop",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Piña",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchʼoop Pruut",
+  "examples": [
+    {
+      "example_maya": "Pa kʼaybʼal sibʼalaj kʼih chʼop kʼolik",
+      "example_spa": "En el mercado hay muchas piñas",
+      "dialect": null
+    }
+  ],
+  "uuid": "d086db31-ae85-44f2-9fc5-f7376cc6fb87"
+}

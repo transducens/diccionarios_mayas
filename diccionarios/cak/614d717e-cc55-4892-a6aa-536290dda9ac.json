@@ -1,0 +1,28 @@
+{
+  "entryWord": "Jomeʼt",
+  "definition": "Corteza",
+  "additional_text": "sInv Nujomeʼt Rujometal var Rij Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼiläj nujomeʼt xbʼenmoloʼ pe pa qʼayis",
+      "example_spa": "Junté mucha corteza en el monte",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼïy jomeʼt xinkʼäm pe pa juyuʼ",
+      "example_spa": "Me traje bastante cáscara del campo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chupan rujometal ri ijqicheʼ nimuʼeʼ ri tzʼum",
+      "example_spa": "Corteza de",
+      "dialect": null
+    }
+  ],
+  "uuid": "614d717e-cc55-4892-a6aa-536290dda9ac",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

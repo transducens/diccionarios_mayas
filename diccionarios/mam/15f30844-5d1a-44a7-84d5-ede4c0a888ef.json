@@ -1,0 +1,23 @@
+{
+  "entryWord": "XKʼOKʼ",
+  "definition": "hipo",
+  "additional_text": "sz raíz kʼokʼ s",
+  "examples": [
+    {
+      "example_maya": "Bʼiʼx tzaj chon qkʼuʼj tuʼn ma til xkʼokʼ",
+      "example_spa": "El hipo nos da dolor de estómago",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Xkʼokʼ tzi xjal tuʼnj xbʼaj txʼam chenaqʼ tuʼn",
+      "example_spa": "Tiene hipo la persona porque comió frijol acedo",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "15f30844-5d1a-44a7-84d5-ede4c0a888ef",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

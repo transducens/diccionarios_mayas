@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sochoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Víbora cascabel",
+  "definitionDialect": "",
+  "additional_text": "SaP Raíz s Sochoj DomS Kumatz",
+  "examples": [
+    {
+      "example_maya": "Li sochoj kayojoyot li utzaʼm li ujeʼ",
+      "example_spa": "A la víbora cascabel le suena la punta de la cola como cascabelitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "c25a4ab4-3fa9-4354-beb8-035de75f96d1"
+}

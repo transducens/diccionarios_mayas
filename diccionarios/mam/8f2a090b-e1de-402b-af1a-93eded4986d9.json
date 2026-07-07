@@ -1,0 +1,23 @@
+{
+  "entryWord": "AAX TOKLEEN",
+  "definition": "es cierto, seguro",
+  "additional_text": "pf sin tzqan dyos raíz ax par",
+  "examples": [
+    {
+      "example_maya": "Aax toklen tyol tat weʼj ntza tqʼamaʼn qe otchman",
+      "example_spa": "Es cierto el consejo que nos da el abuelo por ser sus nietos",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "¿Aax toklen ma yolana tukʼal?",
+      "example_spa": "¿Es cierto que hablaste con él?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8f2a090b-e1de-402b-af1a-93eded4986d9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "TZAKʼAT",
+  "definition": "1 comer cosas tostadas 2 hacer ruido con los dientes por el frío",
+  "additional_text": "vt tzakʼal te, tzakʼan, ma bʼaj ntzakʼana raíz tzakʼ p",
+  "examples": [
+    {
+      "example_maya": "Ma bʼaj ntzakʼana maniya makyʼ",
+      "example_spa": "Comí la manía desdihoy",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Ma tzakʼan tuʼn taʼw cheʼw ma tiʼwatz",
+      "example_spa": "Estuvo haciendo ruido con los dientes por el frío en la cumbre",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "af3ca55c-447b-460b-bab3-ff06c27ed42e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

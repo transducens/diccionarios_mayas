@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chachalbʼeh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Verbena",
+  "definitionDialect": "",
+  "additional_text": "sc Nuchaachalbʼee DomS Qʼayees DomS Kunabʼal",
+  "examples": [
+    {
+      "example_maya": "Li chachalbʼeh utz che kunabʼal",
+      "example_spa": "La verbena es buena para medicina",
+      "dialect": null
+    }
+  ],
+  "uuid": "3146385d-76a3-47d1-be5e-fcc89cfd3b76"
+}

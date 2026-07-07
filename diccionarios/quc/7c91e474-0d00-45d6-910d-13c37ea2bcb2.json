@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tochʼochʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintochʼochʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rajar demasiado ocote",
+  "definitionDialect": "Spanish",
+  "additional_text": "vtd Raiz VT Tochʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutochʼochej sibʼalaj tochʼom chaj",
+      "example_spa": "El hombre rajó mucho ocote",
+      "dialect": null
+    }
+  ],
+  "uuid": "7c91e474-0d00-45d6-910d-13c37ea2bcb2"
+}

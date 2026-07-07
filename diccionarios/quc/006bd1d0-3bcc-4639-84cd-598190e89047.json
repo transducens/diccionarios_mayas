@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jaʼjatem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Crecer bien una planta",
+  "definitionDialect": "",
+  "additional_text": "vi Kajaʼjatik",
+  "examples": [
+    {
+      "example_maya": "Li abʼix sibʼalaj kajaʼjat ukʼiyik",
+      "example_spa": "La milpa está creciendo bien por la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "006bd1d0-3bcc-4639-84cd-598190e89047"
+}

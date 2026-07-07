@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Wajabʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cepillo de carpintero",
+  "definitionDialect": "General",
+  "additional_text": "sInst",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj utz li jun wajabʼal xinloqʼoh",
+      "example_spa": "El cepillo de carpintero que compré es muy bueno",
+      "dialect": null
+    }
+  ],
+  "uuid": "5aef969f-8db3-4b46-a924-1575f3b5e70b"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼoh",
+  "entryWordDialect": "SnP",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ratón",
+  "definitionDialect": "",
+  "additional_text": "SnP DomS Chikop",
+  "examples": [
+    {
+      "example_maya": "Li chʼoh xutij li lij pa li chakach",
+      "example_spa": "El ratón se comió las tortillas del canasto",
+      "dialect": null
+    }
+  ],
+  "uuid": "b6d78bf1-88f0-4d70-8e9b-13054d197091"
+}

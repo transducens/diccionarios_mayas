@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼelelexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinbʼelelij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Regar cosas amontonadas, (granos o tierra); arrastrar tierra o arena el agua",
+  "definitionDialect": "General",
+  "additional_text": "vt Raíz P Bʼel",
+  "examples": [
+    {
+      "example_maya": "Li jabʼ xubʼelelej la li sajkowin chwa li juyubʼ",
+      "example_spa": "La lluvia arrastró la arena de la cuesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alah xubʼelelej li uliw che li raqan",
+      "example_spa": "El muchacho regó la tierra con sus pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "bfc6bb5a-6eee-4004-a243-0df70a29bd50"
+}

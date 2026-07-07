@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzanowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzanowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar campanas o marimba",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Tzan",
+  "examples": [
+    {
+      "example_maya": "Li qʼojom sibʼalaj katzanowik, ma kʼa kʼakʼ",
+      "example_spa": "La marimba suena bien porque está nueva",
+      "dialect": null
+    }
+  ],
+  "uuid": "c1c1dccc-d0c3-47e1-9743-91326c7e28b1"
+}

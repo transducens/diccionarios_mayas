@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xaq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxaq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Terrón; barro",
+  "definitionDialect": "",
+  "additional_text": "scv Sinón Kaqaxaq DomS Uleew",
+  "examples": [
+    {
+      "example_maya": "Li xaq are sibʼalaj utz kabʼan xan cheh",
+      "example_spa": "El barro es muy bueno para fabricar adobes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xkʼaq jun xaq chupalaj",
+      "example_spa": "Al hombre le tiraron un terrón en la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "63e63e2d-6b2e-48fc-9885-87dd5f8a1eb1"
+}

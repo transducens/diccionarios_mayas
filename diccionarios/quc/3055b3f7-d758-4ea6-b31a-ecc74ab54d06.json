@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pajik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pesar; medir guaro",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinpajoh Raiz VT Paj",
+  "examples": [
+    {
+      "example_maya": "Li ajkarnaseʼr kupaj na li tiʼij",
+      "example_spa": "El carnicero va a pesar la carne",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinpaj na li wixim chiʼl li kinaqʼ",
+      "example_spa": "Voy a pesar el maíz y también el frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "3055b3f7-d758-4ea6-b31a-ecc74ab54d06"
+}

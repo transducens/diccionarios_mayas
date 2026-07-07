@@ -1,0 +1,23 @@
+{
+  "entryWord": "Saʼy",
+  "definition": "Pescadito",
+  "additional_text": "sInv Nusaʼy Chiköp, aj pa yaʼ",
+  "examples": [
+    {
+      "example_maya": "Kʼo winäq ri yalan ütz nikinaʼ nikitäj ri saʼy",
+      "example_spa": "Hay personas que les gusta mucho comer pescaditos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri saʼy jebʼel chi yetij",
+      "example_spa": "Los pescaditos son buenos para comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c8698bf-dca0-436b-9b26-c4dae315bfcd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

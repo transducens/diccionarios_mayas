@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rikiklabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karikiklabʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Correr perro con mucha velocidad; volar",
+  "definitionDialect": "es",
+  "additional_text": "vI Raíz VI Rik",
+  "examples": [
+    {
+      "example_maya": "Li amaʼibʼ sibʼalaj kerikiklabʼik are taq kechʼoʼjinik",
+      "example_spa": "Cuando los gallos se pelean, vuelan mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "1ddc93ee-cef7-42e0-a6f3-3f3b0f66c81f"
+}

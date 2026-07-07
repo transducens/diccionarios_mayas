@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suyacal, capa de palma; palma",
+  "definitionDialect": "Español",
+  "additional_text": "scv Nutuut Raíz S Tut DomS Chokonisabʼal",
+  "examples": [
+    {
+      "example_maya": "Ojer tzij xa tut kachokon cheh qʼuʼbʼal chwa jabʼ",
+      "example_spa": "Antes solo se usaba el suyacal como capa para la lluvia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uxaq tut kabʼan qʼuʼbʼal chech rech jabʼ",
+      "example_spa": "De las hojas de palma se hacían suyacales",
+      "dialect": null
+    }
+  ],
+  "uuid": "877c682d-58e2-4f25-be29-6200d003e0f6"
+}

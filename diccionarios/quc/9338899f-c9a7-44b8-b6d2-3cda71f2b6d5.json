@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chomarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachomarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Engordar",
+  "definitionDialect": "General",
+  "additional_text": "VI VTC Chomarsaxik Engordar Raiz VI Chom",
+  "examples": [
+    {
+      "example_maya": "Li alaj akʼal chomarem ubʼanom",
+      "example_spa": "El niño se está engordando",
+      "dialect": null
+    }
+  ],
+  "uuid": "9338899f-c9a7-44b8-b6d2-3cda71f2b6d5"
+}

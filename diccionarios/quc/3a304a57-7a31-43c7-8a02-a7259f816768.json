@@ -1,0 +1,19 @@
+{
+  "entryWord": "Turubʼalaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Fuente; canal para agua",
+  "definitionDialect": "Español",
+  "additional_text": "scv Nuturubʼalaaʼ Raíz S Tur",
+  "examples": [
+    {
+      "example_maya": "Li ixoqibʼ pa li turubʼalaʼ kekikʼama wi li kijoron",
+      "example_spa": "Las mujeres están trayendo agua del chorro",
+      "dialect": null
+    }
+  ],
+  "uuid": "3a304a57-7a31-43c7-8a02-a7259f816768"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choʼkij",
+  "entryWordDialect": null,
+  "altEntryWord": "choʼkej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Reumatismo",
+  "definitionDialect": "General",
+  "additional_text": "SnP DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li choʼkij jun yabʼil sibʼalaj kʼax ukʼulik",
+      "example_spa": "El reumatismo es una enfermedad gravísima",
+      "dialect": null
+    }
+  ],
+  "uuid": "62dffa87-ad60-447f-a56d-3c5760a361bc"
+}

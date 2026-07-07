@@ -1,0 +1,18 @@
+{
+  "entryWord": "AL UJ",
+  "definition": "¿en qué?",
+  "additional_text": "pi raíz al par raíz uj sr",
+  "examples": [
+    {
+      "example_maya": "¿Al uj tkuʼx axiʼn saj tmaʼna wekyʼ?",
+      "example_spa": "¿En qué está puesto el maíz que me dijiste?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "23d9d902-7098-4de3-ba74-849f50472352",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

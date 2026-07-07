@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tapyah",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutapya",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tapia; pared",
+  "definitionDialect": "",
+  "additional_text": "sInv Del Cast Tapia",
+  "examples": [
+    {
+      "example_maya": "Li tapyah rech li roʼch li achih xa xan",
+      "example_spa": "La pared de la casa del hombre es de adobe",
+      "dialect": null
+    }
+  ],
+  "uuid": "03b6474b-bd48-4179-948a-3d38f10a8d44"
+}

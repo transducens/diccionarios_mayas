@@ -1,0 +1,38 @@
+{
+  "entryWord": "Wäch",
+  "definition": "Cara, frente, ojo",
+  "additional_text": "sInv Nuwäch var Paläj, Sinón Ruqanʼ, nuwäch, chʼakulaj",
+  "examples": [
+    {
+      "example_maya": "Ri nuwäch yin niqʼaxon",
+      "example_spa": "Me duele la cara",
+      "dialect": null
+    },
+    {
+      "example_maya": "Rutzʼikinal nuwäch, rukoxil nuwzäch",
+      "example_spa": "Frente",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ruchiʼ, nuwäch",
+      "example_spa": "Párpado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chwäch, apo",
+      "example_spa": "Más adelante",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chaʼon kichiʼ chʼaon kiwäch",
+      "example_spa": "Los escogidos (ceremonial)",
+      "dialect": null
+    }
+  ],
+  "uuid": "81ec6d1c-33d4-4e2f-8d43-4f132745768b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

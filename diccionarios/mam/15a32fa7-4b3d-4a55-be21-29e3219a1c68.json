@@ -1,0 +1,23 @@
+{
+  "entryWord": "TUUTZʼAT",
+  "definition": "hacer cosas pequeñas, volver pequeña las cosas, disminuir",
+  "additional_text": "vt tutzʼal te, tutzʼan, ma bʼaj ntutzʼana raíz tutzʼ",
+  "examples": [
+    {
+      "example_maya": "¿Titil nkubʼ ttutzʼan tiqatza qʼany?",
+      "example_spa": "¿Porqué estas haciendo tu carga muy pequeña vos?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Tzinyax nkubʼ ttutzʼa tletra tat",
+      "example_spa": "Como es que hacés tus letras pequeñas papá",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "15a32fa7-4b3d-4a55-be21-29e3219a1c68",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

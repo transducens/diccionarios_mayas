@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wachʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Machucar constantemente hierbas medicinales; moler nixtamal o elote",
+  "definitionDialect": "",
+  "additional_text": "vl Kawachʼnajik Raíz Vl Wachʼ",
+  "examples": [
+    {
+      "example_maya": "Li ixoq tajin kawachʼnaj chukeʼxik aj",
+      "example_spa": "La mujer está moliendo elotes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq tajin kawachʼnaj cheh rorah chwa li abʼaj",
+      "example_spa": "La mujer está machucando la ruda en la piedra",
+      "dialect": null
+    }
+  ],
+  "uuid": "5b42314e-491c-474c-a0c1-af1354df73df"
+}

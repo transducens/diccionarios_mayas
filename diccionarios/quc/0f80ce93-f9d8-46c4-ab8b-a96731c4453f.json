@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tebʼoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katebʼoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar como gordo (haciendo ruido con los pies)",
+  "definitionDialect": "general",
+  "additional_text": "vi Raíz PT Tebʼ",
+  "examples": [
+    {
+      "example_maya": "Li sin mem katebʼoʼpik xokʼowik",
+      "example_spa": "El mudo pasó haciendo ruido con los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "0f80ce93-f9d8-46c4-ab8b-a96731c4453f"
+}

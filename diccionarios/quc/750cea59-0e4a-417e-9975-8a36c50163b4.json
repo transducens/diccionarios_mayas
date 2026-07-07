@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mokobʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmokobʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Encargar trabajo a un mozo",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz VT Mok",
+  "examples": [
+    {
+      "example_maya": "Kinmokobʼej na kan li nuchak chke li e mokom",
+      "example_spa": "Voy a encargar mi trabajo a los mozos",
+      "dialect": null
+    }
+  ],
+  "uuid": "750cea59-0e4a-417e-9975-8a36c50163b4"
+}

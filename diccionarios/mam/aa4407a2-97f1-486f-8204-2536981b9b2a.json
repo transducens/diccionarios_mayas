@@ -1,0 +1,23 @@
+{
+  "entryWord": "LEEʼT",
+  "definition": "1 escarbar las gallinas 2 extender granos amontonados",
+  "additional_text": "vt leʼl te, leʼn, ma bʼaj nleʼna raíz leʼ",
+  "examples": [
+    {
+      "example_maya": "Ma txiʼ aj ekyʼ leʼl txeʼ xkoʼya",
+      "example_spa": "La gallina fue a escarbar en las raíces del tomate",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "li txiʼ leʼt axiʼn tuʼn ttzij",
+      "example_spa": "Hay que extender el maíz para que se seque",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "aa4407a2-97f1-486f-8204-2536981b9b2a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

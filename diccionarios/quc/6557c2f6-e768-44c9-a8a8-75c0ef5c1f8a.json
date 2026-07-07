@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jamamexik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Derramar líquidos o granos; regar líquidos o granos",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinjamameej",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xujamamej li joron puliw",
+      "example_spa": "El niño derramó el agua en el suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "6557c2f6-e768-44c9-a8a8-75c0ef5c1f8a"
+}

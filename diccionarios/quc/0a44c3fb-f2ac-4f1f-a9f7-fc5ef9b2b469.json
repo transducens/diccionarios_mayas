@@ -1,0 +1,19 @@
+{
+  "entryWord": "Julochʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un cucharón de comida aguada y espesa",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Lochʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih, xaq xew julochʼaj aros xutijoh",
+      "example_spa": "La muchacha se comió sólo un cucharón de arroz",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a44c3fb-f2ac-4f1f-a9f7-fc5ef9b2b469"
+}

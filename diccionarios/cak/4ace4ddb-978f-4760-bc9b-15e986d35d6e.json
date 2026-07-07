@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chaqij chiʼ (chaqiʼj chiʼ)",
+  "definition": "Sed, sequía",
+  "additional_text": "scl Nuchaqij chiʼ (chaqiʼj nuchiʼ)",
+  "examples": [
+    {
+      "example_maya": "Ri iwir xchaqiʼj nuchiʼ",
+      "example_spa": "Ayer me dio mucha sed",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chuwaʼq kabʼij, nipe jun chaqiʼj chiʼ",
+      "example_spa": "De mañana a pasado, nos amenaza una sequía",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq yalan nuchaqiʼj chiʼ, ja ri taq yalan qʼij",
+      "example_spa": "Cuando tengo mucha sed, es cuando hay mucho sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ace4ddb-978f-4760-bc9b-15e986d35d6e",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

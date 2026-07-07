@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yochik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arreglar en mala forma el corte (rizándolo, que no es la costumbre)",
+  "definitionDialect": "",
+  "additional_text": "vt Kinyochoh",
+  "examples": [
+    {
+      "example_maya": "Li alaj alih xaq xuyoch li ruq",
+      "example_spa": "La niña se dejo mal",
+      "dialect": null
+    }
+  ],
+  "uuid": "1bb34d0a-d4ac-479c-bbc9-e0e1507458d5"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tichok",
+  "definition": "Tropezar, puyar, bajar frutas con un palo picándolas",
+  "additional_text": "VTR Xintich",
+  "examples": [
+    {
+      "example_maya": "Xatintich chi woq",
+      "example_spa": "Te tropezaste con mi pie",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chi cheʼ xintich inchiin",
+      "example_spa": "Bajé la naranja con un palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "a36d828d-b0c9-4dad-9166-b4a5ea818840",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

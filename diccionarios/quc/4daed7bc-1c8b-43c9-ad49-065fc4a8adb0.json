@@ -1,0 +1,24 @@
+{
+  "entryWord": "Juqiraj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un raspón; una cardada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qir",
+  "examples": [
+    {
+      "example_maya": "Xa juqiraj xinya che li tʼuʼy are taq xinchʼajoh",
+      "example_spa": "Sólo un poco raspé la olla cuando la lavé",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinbʼan juqiraj nuxiyoj",
+      "example_spa": "Cardé un poco de lana",
+      "dialect": null
+    }
+  ],
+  "uuid": "4daed7bc-1c8b-43c9-ad49-065fc4a8adb0"
+}

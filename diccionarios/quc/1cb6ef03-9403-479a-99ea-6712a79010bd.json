@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xota jah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casa con techo de tejas",
+  "definitionDialect": "",
+  "additional_text": "SCL Nuxota jah",
+  "examples": [
+    {
+      "example_maya": "Xota jah li roʼch li achih xuwokoh",
+      "example_spa": "El hombre construyó una casa con techo de teja",
+      "dialect": null
+    }
+  ],
+  "uuid": "1cb6ef03-9403-479a-99ea-6712a79010bd"
+}

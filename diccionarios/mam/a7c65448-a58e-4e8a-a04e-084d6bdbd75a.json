@@ -1,0 +1,18 @@
+{
+  "entryWord": "SINIGAAL",
+  "definition": "Senegal (aldea del municipio de La Libertad, Huehuetenango)",
+  "additional_text": "tp del español Senegal",
+  "examples": [
+    {
+      "example_maya": "¿Ooraxpa maqtzʼaja Sinigal qʼany?",
+      "example_spa": "¿Tan pronto regresaste del Senegal vos?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a7c65448-a58e-4e8a-a04e-084d6bdbd75a",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

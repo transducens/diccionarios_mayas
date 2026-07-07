@@ -1,0 +1,29 @@
+{
+  "entryWord": "Slabʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mover; menear",
+  "definitionDialect": "",
+  "additional_text": "vt Kinslaabʼaaj Raíz vt Sil",
+  "examples": [
+    {
+      "example_maya": "Li kaqiqʼ kakowinik kuslabʼaj li nimaq taq cheʼ",
+      "example_spa": "El viento puede mover los árboles grandes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nimaq taq abʼaj maj jun kaslabʼanik",
+      "example_spa": "Las piedras grandes, ninguno las puede mover",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih kuslabʼaj li wankeʼt",
+      "example_spa": "El hombre menea la mesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "4e06327f-ed0e-425e-930c-2fcbe230ddfd"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Poj poj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonido de martillazos; sonido onomatopéyico",
+  "definitionDialect": "",
+  "additional_text": "AL",
+  "examples": [
+    {
+      "example_maya": "Poj, poj kuʼon li umartil li ajanel are taq kachakunik",
+      "example_spa": "Cuando el carpintero trabaja con el martillo, éste hace mucho ruido",
+      "dialect": null
+    }
+  ],
+  "uuid": "695653df-79c0-4f56-bca1-2caa00a9e7ba"
+}

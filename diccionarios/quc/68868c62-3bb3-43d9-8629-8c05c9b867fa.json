@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yulexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyulij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cosas sin agarrador ni pescuezo",
+  "definitionDialect": "general",
+  "additional_text": "VTD Sinón Surusik Raíz VT Yul",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xuyulej bʼi li qʼebʼal",
+      "example_spa": "La mujer se llevó la tinaja sin agarradores",
+      "dialect": null
+    }
+  ],
+  "uuid": "68868c62-3bb3-43d9-8629-8c05c9b867fa"
+}

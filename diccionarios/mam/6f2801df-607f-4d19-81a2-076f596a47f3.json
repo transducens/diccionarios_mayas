@@ -1,0 +1,23 @@
+{
+  "entryWord": "SCHABʼIL",
+  "definition": "1 juguete 2 campo de juego, cancha",
+  "additional_text": "s1 nschabʼila raíz saqach s",
+  "examples": [
+    {
+      "example_maya": "Laqʼoʼn etz jun tschabʼil tal tkʼwaʼla",
+      "example_spa": "Compra un juguete para tu hijo",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Nim xjal xpon tuj schabʼil prim makyʼ",
+      "example_spa": "Llegó mucha gente al campo de juego desdihoy en la mañana",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "6f2801df-607f-4d19-81a2-076f596a47f3",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

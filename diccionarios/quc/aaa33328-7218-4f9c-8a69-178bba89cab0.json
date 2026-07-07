@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qaxaqatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqaxaqatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estar cortando en pedazos, tela, carne, panela o peña",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Qax",
+  "examples": [
+    {
+      "example_maya": "Li tʼisoʼmanel kaqaxaqat chech li uramixik li atzʼyaq",
+      "example_spa": "Las tijeras del sastre hacen ruido al cortar la tela",
+      "dialect": null
+    }
+  ],
+  "uuid": "aaa33328-7218-4f9c-8a69-178bba89cab0"
+}

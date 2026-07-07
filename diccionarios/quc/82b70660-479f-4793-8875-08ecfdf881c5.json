@@ -1,0 +1,29 @@
+{
+  "entryWord": "Siqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Besar mano o imagen por respeto; oler",
+  "definitionDialect": "",
+  "additional_text": "vTR Kinsiqoh Raiz VT Siq",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kusiq li uqʼabʼ li utat chwa dyos",
+      "example_spa": "El niño besa la mano de su padrino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih tajin kuʼsiq li tyox",
+      "example_spa": "El hombre está besando a las imágenes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal tajin kusiq li kotzʼiʼj",
+      "example_spa": "El niño está oliendo la flor",
+      "dialect": null
+    }
+  ],
+  "uuid": "82b70660-479f-4793-8875-08ecfdf881c5"
+}

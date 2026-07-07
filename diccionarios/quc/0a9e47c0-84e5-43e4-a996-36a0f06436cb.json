@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼeʼtixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Jatear, amontonar en tareas",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinqʼeʼtaaj",
+  "examples": [
+    {
+      "example_maya": "Li usiʼ li achih sibʼalaj kʼih xuqʼeʼtaj chwa roʼch",
+      "example_spa": "El hombre tiene mucha leña jateada en el patio",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a9e47c0-84e5-43e4-a996-36a0f06436cb"
+}

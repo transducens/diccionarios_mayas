@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼajol chwa dyos",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ahijado de hombre",
+  "definitionDialect": "",
+  "additional_text": "scl",
+  "examples": [
+    {
+      "example_maya": "Li tat chwa dyos xusipaj jun powiʼ che li ukʼajol chwa dyos",
+      "example_spa": "El padrino le regaló un sombrero a su ahijado",
+      "dialect": null
+    }
+  ],
+  "uuid": "93641460-3eed-4c76-91fe-dc87e08ef5ac"
+}

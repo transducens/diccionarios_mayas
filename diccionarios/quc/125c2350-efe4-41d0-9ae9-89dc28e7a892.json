@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sesebʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusesebʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hígado",
+  "definitionDialect": "",
+  "additional_text": "sInv Sinón Qʼeeq DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li usessebʼ jun winaq we xubʼan kʼax kakamik",
+      "example_spa": "Si a uno se le daña el hígado, se muere",
+      "dialect": null
+    }
+  ],
+  "uuid": "125c2350-efe4-41d0-9ae9-89dc28e7a892"
+}

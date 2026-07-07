@@ -1,0 +1,23 @@
+{
+  "entryWord": "Muukabʼ",
+  "definition": "Corredor",
+  "additional_text": "SSP Xmuukabʼ",
+  "examples": [
+    {
+      "example_maya": "Wan saʼ xmuukabʼ",
+      "example_spa": "Está en el corredor",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkanabʼ saʼ xmuukabʼ",
+      "example_spa": "Lo dejé en el corredor",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5ff870e-f256-45c9-bc4b-488757180cc7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

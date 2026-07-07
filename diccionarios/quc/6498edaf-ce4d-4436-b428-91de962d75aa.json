@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chupchutem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachupchutik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brillar",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Chup",
+  "examples": [
+    {
+      "example_maya": "Li chʼumil sibʼalaj kachupchut chaqʼabʼ",
+      "example_spa": "El lucero brilla mucho por las noches",
+      "dialect": null
+    }
+  ],
+  "uuid": "6498edaf-ce4d-4436-b428-91de962d75aa"
+}

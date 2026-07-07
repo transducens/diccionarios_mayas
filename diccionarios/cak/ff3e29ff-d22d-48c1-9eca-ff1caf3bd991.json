@@ -1,0 +1,23 @@
+{
+  "entryWord": "Qʼoloj",
+  "definition": "Cuento, chistes, engaño, mentira",
+  "additional_text": "sInv Nuqʼoloj",
+  "examples": [
+    {
+      "example_maya": "Kʼïy qʼoloj xqatzʼibʼaj pa qachʼabʼäl",
+      "example_spa": "Escribimos muchos cuentos en nuestro idioma",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin ninbʼij chi ütz nel ri qʼoloj",
+      "example_spa": "A mi criterio sale bien el chiste",
+      "dialect": null
+    }
+  ],
+  "uuid": "ff3e29ff-d22d-48c1-9eca-ff1caf3bd991",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

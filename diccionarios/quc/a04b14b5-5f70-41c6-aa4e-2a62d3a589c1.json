@@ -1,0 +1,19 @@
+{
+  "entryWord": "Miʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Numiʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hija",
+  "definitionDialect": "",
+  "additional_text": "SInv Raíz S Miʼaal DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Li umiʼal li a Tun xkʼuliʼk",
+      "example_spa": "Se casó la hija de Antonio",
+      "dialect": null
+    }
+  ],
+  "uuid": "a04b14b5-5f70-41c6-aa4e-2a62d3a589c1"
+}

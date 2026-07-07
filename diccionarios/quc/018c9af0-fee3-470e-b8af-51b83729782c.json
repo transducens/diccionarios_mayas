@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qajawal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Transfiguración; cofradía de la transfiguración",
+  "definitionDialect": "",
+  "additional_text": "sP Raíz S Ajaaw DomS Nimaqʼiij DomS Eqeleʼn",
+  "examples": [
+    {
+      "example_maya": "Pa qajawal kejalataj li ajpatanibʼ reh qajawal",
+      "example_spa": "En la fiesta de transfiguración se cambian los cofrades de la misma",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajpatanibʼ rech qajawal are kʼo churox cheh li oʼchʼobʼ sant",
+      "example_spa": "La cofradía de la transfiguración está en el tercer grupo de las cinco cofradías",
+      "dialect": null
+    }
+  ],
+  "uuid": "018c9af0-fee3-470e-b8af-51b83729782c"
+}

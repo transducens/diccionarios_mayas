@@ -1,0 +1,19 @@
+{
+  "entryWord": "Laxton",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulaxton",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Listón",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Atzʼyaq Del Cast Listón",
+  "examples": [
+    {
+      "example_maya": "Li laxton xaq xew\" altomabʼ kekojowik",
+      "example_spa": "Sólo las muchachas usan listón",
+      "dialect": null
+    }
+  ],
+  "uuid": "7a9cf1bc-b135-4d87-beb0-b1ca290d1889"
+}

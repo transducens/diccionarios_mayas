@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqʼasik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gordo (despectivo)",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Sarasik Raíz VT Saqʼ",
+  "examples": [
+    {
+      "example_maya": "Li umiʼal li achih nima saqʼasik chik",
+      "example_spa": "Esta mujer gorda pasó por mi casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "d641c2d2-556e-4b55-b81f-00f14b95d770"
+}

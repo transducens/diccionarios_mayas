@@ -1,0 +1,19 @@
+{
+  "entryWord": "Achajilom",
+  "entryWordDialect": null,
+  "altEntryWord": "Wachajil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Marido, esposo",
+  "definitionDialect": "General",
+  "additional_text": "sQS DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Li achajilom sibʼalaj kuloqʼoj li rixoqil",
+      "example_spa": "El esposo ama mucho a su esposa",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c460042-52c2-458b-bd4e-0f15e30d8c3b"
+}

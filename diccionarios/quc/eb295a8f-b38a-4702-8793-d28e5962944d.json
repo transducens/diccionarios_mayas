@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼochnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Caminar medio agachado",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqʼochnajik Raíz P Qʼoch",
+  "examples": [
+    {
+      "example_maya": "Li sin achih xaq kaqʼochnaj kabʼinik ma riʼj chik",
+      "example_spa": "El pobre hombre camina medio agachado porque es anciano",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb295a8f-b38a-4702-8793-d28e5962944d"
+}

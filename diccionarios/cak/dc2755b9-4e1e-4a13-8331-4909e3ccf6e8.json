@@ -1,0 +1,33 @@
+{
+  "entryWord": "Kʼaqanïk (kʼaqonïk)",
+  "definition": "Cazar, disparar, tirar",
+  "additional_text": "vt Kʼaqaxik, (kʼaqik), ninkʼäq Sinón Kʼeqonïk, kʼäq",
+  "examples": [
+    {
+      "example_maya": "Chwaʼq yibʼe chi rukʼaqik jun umül",
+      "example_spa": "Mañana voy a ir a cazar un conejo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinkʼäq chi qʼaqʼ ri kʼël, ma jun xinwil ta",
+      "example_spa": "Le disparé con escopeta al chocoyo y no le pegué",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri taq koköj abʼäj yitikïr ninkʼäq näj",
+      "example_spa": "Las piedrecitas puedo tirarlas lejos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ninkʼäq ruwäch",
+      "example_spa": "Escoger a una persona",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc2755b9-4e1e-4a13-8331-4909e3ccf6e8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

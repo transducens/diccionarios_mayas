@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tziʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutziʼoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Segunda molida de la masa",
+  "definitionDialect": "",
+  "additional_text": "sInv Sinón Kookʼsaʼn Var Chaaqooj",
+  "examples": [
+    {
+      "example_maya": "Tziʼoj, kuchax li ukamul ukeʼxik li qʼor",
+      "example_spa": "Tziʼooj, se le dice a la segunda molida de la masa",
+      "dialect": null
+    }
+  ],
+  "uuid": "d023a86a-5fe1-4656-be04-747f3b2b14b8"
+}

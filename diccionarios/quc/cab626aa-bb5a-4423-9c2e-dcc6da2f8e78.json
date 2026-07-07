@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xikʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinxikʼaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Avisar a la carrera",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz S Xikʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih xuxikʼaj xtaj ubʼixik li chak",
+      "example_spa": "La muchacha fue a avisar a la carrera del trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "cab626aa-bb5a-4423-9c2e-dcc6da2f8e78"
+}

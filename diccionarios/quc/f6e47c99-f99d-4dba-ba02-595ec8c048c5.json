@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chaʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escoger",
+  "definitionDialect": "Spanish",
+  "additional_text": "VTR Kinchaʼoh Var Chayik Raíz VT Chaʼ",
+  "examples": [
+    {
+      "example_maya": "Li nan Xwaʼn kinaqʼ kuchoh",
+      "example_spa": "La señora Juana está escogiendo los frijoles",
+      "dialect": null
+    }
+  ],
+  "uuid": "f6e47c99-f99d-4dba-ba02-595ec8c048c5"
+}

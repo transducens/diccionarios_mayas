@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼajolarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼajolarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacerse joven",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz S Kʼajool",
+  "examples": [
+    {
+      "example_maya": "Li ukʼajol li Karlos xaq riʼ xkʼajolarik",
+      "example_spa": "El hijo de Carlos, rápido se hizo joven",
+      "dialect": null
+    }
+  ],
+  "uuid": "989d3424-2b48-4a26-8867-1fbfa2719b4d"
+}

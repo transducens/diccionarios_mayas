@@ -1,0 +1,23 @@
+{
+  "entryWord": "Atzʼam (atzʼan)",
+  "definition": "Sal",
+  "additional_text": "sInv Watzʼan, watzʼam Ant Kabʼ Qʼutumal",
+  "examples": [
+    {
+      "example_maya": "Ri qʼutuʼn kʼiy atzʼan xyaʼ qa chi rij, yalan tzäy xel",
+      "example_spa": "A la comida le echaron mucha sal Salió muy salada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼo atzʼan ri yalan chaqoj nikʼayix",
+      "example_spa": "Hay sal que la venden muy ordinaria",
+      "dialect": null
+    }
+  ],
+  "uuid": "959f2b76-ee96-4317-b981-66a2945a3c9c",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

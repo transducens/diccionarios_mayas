@@ -1,0 +1,19 @@
+{
+  "entryWord": "Taqʼajal ixim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maíz costeño",
+  "definitionDialect": "general",
+  "additional_text": "SCL Raiz S Taqʼaaj Raiz S Ixiim",
+  "examples": [
+    {
+      "example_maya": "Li taqʼajal ixim chanim kakʼiyik",
+      "example_spa": "El maíz costeño crece luego",
+      "dialect": null
+    }
+  ],
+  "uuid": "b9873efb-5211-4240-9792-63dd37dc9999"
+}

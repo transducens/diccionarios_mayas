@@ -1,0 +1,34 @@
+{
+  "entryWord": "Tuqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Paraulata (ave de color negro y pecho blanco); tipo de arbusto; grano maduro de café, cereza",
+  "definitionDialect": "general",
+  "additional_text": "snp Raíz S Tuqʼ DomS Tzʼikin DomS Qʼayees DomS Keem",
+  "examples": [
+    {
+      "example_maya": "Li tuqʼ qʼeq rij saq li uxe upam xuq jer kaxubʼan winaq",
+      "example_spa": "La paraulata es de color negro y pecho blanco; silva como persona",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waʼ we tuqʼ tel upam li ucheʼal kachokon cheh raqan kachiʼm",
+      "example_spa": "Este arbusto tiene hueco el tallo y se usa para cabo de pipa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waʼ we tuqʼ kachokon cheh chokoʼybʼal",
+      "example_spa": "Este arbusto sirve de material para tejer",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kapeh sibʼalaj tuqʼ chik, ma na qʼolom taj",
+      "example_spa": "El café está muy maduro porque no lo han cortado",
+      "dialect": null
+    }
+  ],
+  "uuid": "64d7eb3b-a7d3-4426-92d7-5b5060f3f2b3"
+}

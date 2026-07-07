@@ -1,0 +1,18 @@
+{
+  "entryWord": "Taql",
+  "definition": "Mandadero, mensajero, mandado",
+  "additional_text": "SInv Intaql",
+  "examples": [
+    {
+      "example_maya": "Inkoʼ tzʼaqal li tumin na-xqʼaxtasi re li taql",
+      "example_spa": "Mi hija le entregó cabal el dinero al mandadero",
+      "dialect": null
+    }
+  ],
+  "uuid": "3f91a789-1131-49e1-ac38-bd45b3218f76",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

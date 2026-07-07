@@ -1,0 +1,29 @@
+{
+  "entryWord": "Sukʼulik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parejo; recto; derecho; enderezado; cierto; seguro",
+  "definitionDialect": "general",
+  "additional_text": "p Xsukʼiʼk, xusukʼubʼaʼ Raiz VT Sukʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajanel xusukʼubʼa li uchi li tzʼalam",
+      "example_spa": "El carpintero enderezó la orilla de la tabla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nima bʼeh sukʼulik",
+      "example_spa": "La carretera es recta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sukʼul li awanima",
+      "example_spa": "Tenés sentimientos rectos",
+      "dialect": null
+    }
+  ],
+  "uuid": "94988d41-d817-41a3-930f-77675c87d274"
+}

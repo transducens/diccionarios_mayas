@@ -1,0 +1,19 @@
+{
+  "entryWord": "Altamow",
+  "entryWordDialect": null,
+  "altEntryWord": "Waltamow",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Carro, mi carro",
+  "definitionDialect": "",
+  "additional_text": "sInv Chʼiichʼ DomS Bʼiinibʼal Del Cast Automóvil",
+  "examples": [
+    {
+      "example_maya": "Li raltamow li qʼatal tzij kʼakʼ",
+      "example_spa": "El carro del presidente es nuevo",
+      "dialect": null
+    }
+  ],
+  "uuid": "741ea222-f8bc-4b87-85b3-dc77d202c5c7"
+}

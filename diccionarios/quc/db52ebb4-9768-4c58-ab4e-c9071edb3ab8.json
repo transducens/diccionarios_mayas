@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼunkutixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amarrar bien; enrollar con muchas vueltas",
+  "definitionDialect": "",
+  "additional_text": "vTD Kintzʼunkutiij Raíz VT Tzʼun",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil xutzʼunkutij li chʼichʼ palambr\"",
+      "example_spa": "El albañil le dio muchas vueltas de alambre al hierro, para amarrarlo bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "db52ebb4-9768-4c58-ab4e-c9071edb3ab8"
+}

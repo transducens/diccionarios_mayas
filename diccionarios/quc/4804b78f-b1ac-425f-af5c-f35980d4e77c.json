@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xuʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxuʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lunar",
+  "definitionDialect": "",
+  "additional_text": "sInv Sinón Etaal Sinón Chuʼy",
+  "examples": [
+    {
+      "example_maya": "Li alah, kʼo jun xuʼy chupalaj",
+      "example_spa": "El muchacho tiene un lunar en la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "4804b78f-b1ac-425f-af5c-f35980d4e77c"
+}

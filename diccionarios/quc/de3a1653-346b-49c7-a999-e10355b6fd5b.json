@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wabʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Invitar; acompañar a un niño para ir al sanitario",
+  "definitionDialect": "",
+  "additional_text": "vt Kinwaabʼaaʼ Raíz VT Waabʼ",
+  "examples": [
+    {
+      "example_maya": "Kinwabʼaʼ na li achih, are chi kabʼe wukʼ pa nimaqʼij",
+      "example_spa": "Voy a invitar al hombre para que vaya conmigo a la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq xuwabʼaʼ li ral pa xakareʼt",
+      "example_spa": "La mujer acompañó a su hijo para ir al sanitario",
+      "dialect": null
+    }
+  ],
+  "uuid": "de3a1653-346b-49c7-a999-e10355b6fd5b"
+}

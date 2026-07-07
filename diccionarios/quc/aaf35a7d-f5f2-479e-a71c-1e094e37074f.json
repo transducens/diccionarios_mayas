@@ -1,0 +1,19 @@
+{
+  "entryWord": "Solonel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Adivino",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz VT Sol DomS Winaq",
+  "examples": [
+    {
+      "example_maya": "Li achih xuta cheh li solonel la kʼo yabʼil kuriqoh kapaqiʼ aqʼanoq",
+      "example_spa": "El hombre le preguntó al adivino si iba a tener enfermedad en el futuro",
+      "dialect": null
+    }
+  ],
+  "uuid": "aaf35a7d-f5f2-479e-a71c-1e094e37074f"
+}

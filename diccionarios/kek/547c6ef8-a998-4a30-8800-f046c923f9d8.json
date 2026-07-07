@@ -1,0 +1,23 @@
+{
+  "entryWord": "Poch",
+  "definition": "Tamal de masa de maíz cocido en hojas, órgano sexual femenino",
+  "additional_text": "SInv Inpoch",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ xchaqʼak li poch saʼ li ukʼal",
+      "example_spa": "No se cocieron los tamalitos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Inkʼaʼ kʼi li poch xinyiibʼ",
+      "example_spa": "No hice bastantes tamalitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "547c6ef8-a998-4a30-8800-f046c923f9d8",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

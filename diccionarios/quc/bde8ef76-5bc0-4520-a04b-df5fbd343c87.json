@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintakʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar palo, bastón o vara",
+  "definitionDialect": "",
+  "additional_text": "vT Raíz VT Takʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah xutakʼej bʼi jun cheʼ nim raqan puqʼabʼ",
+      "example_spa": "El muchacho lleva un palo largo en la mano",
+      "dialect": null
+    }
+  ],
+  "uuid": "bde8ef76-5bc0-4520-a04b-df5fbd343c87"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Simäj",
+  "definition": "Estaca",
+  "additional_text": "scv Nusimäj Cheʼ",
+  "examples": [
+    {
+      "example_maya": "Chwa simäj yexim wi ri wakx",
+      "example_spa": "En la estaca se amarran los bueyes",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ninwajoʼ kaʼiʼ simäj richin ninnükʼ nusiʼ",
+      "example_spa": "Quiero dos estacas para perchar mi leña en ellas",
+      "dialect": null
+    }
+  ],
+  "uuid": "0a7eb411-3079-4b1c-a0fe-8abd3f29b941",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

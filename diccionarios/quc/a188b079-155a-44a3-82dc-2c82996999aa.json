@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ipum",
+  "entryWordDialect": null,
+  "altEntryWord": "pum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Wipuum",
+  "altEntryWordDialect2": null,
+  "definition": "Tórtola; mariquita (tipo de paloma)",
+  "definitionDialect": "General",
+  "additional_text": "sInv Sinón Tuluul DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li ipum, kabʼixan xe taq li abʼix",
+      "example_spa": "La mariquita, canta en la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a188b079-155a-44a3-82dc-2c82996999aa"
+}

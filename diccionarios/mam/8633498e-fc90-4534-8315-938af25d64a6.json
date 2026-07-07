@@ -1,0 +1,23 @@
+{
+  "entryWord": "WIʼXAN",
+  "definition": "jefe, presidente, rey, líder, alcalde, gobernador",
+  "additional_text": "s1b nwiʼxana",
+  "examples": [
+    {
+      "example_maya": "¿Alkye wiʼxan kyxola tzluʼ?",
+      "example_spa": "¿Quién es el jefe entre ustedes, aquí?",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Max kbʼantel tiʼj tukʼ wiʼxan",
+      "example_spa": "Hasta allá con el presidente se va a resolver",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8633498e-fc90-4534-8315-938af25d64a6",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

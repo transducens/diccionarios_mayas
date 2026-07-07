@@ -1,0 +1,18 @@
+{
+  "entryWord": "MITX",
+  "definition": "acción o movimiento al parpadear",
+  "additional_text": "af raíz mitx af",
+  "examples": [
+    {
+      "example_maya": "Mitx mitx, tzi twitz tuʼn watl",
+      "example_spa": "Está haciendo parpadeos con sus ojos por el sueño",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "b0f33f5d-8620-4ecb-bce2-5611f148d339",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

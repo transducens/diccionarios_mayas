@@ -1,0 +1,24 @@
+{
+  "entryWord": "Juqʼaj",
+  "entryWordDialect": null,
+  "altEntryWord": "juqʼajaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Un canto; una oración",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li alih xaq juqʼaj bʼix xubʼanoh, xbʼek",
+      "example_spa": "La muchacha sólo cantó una vez y se fue",
+      "dialect": null
+    },
+    {
+      "example_maya": "Karaj ne kaqabʼij juqʼajaj, kaqʼajaj qachʼabʼal",
+      "example_spa": "Tal vez cantemos uno o dos cantos religiosos",
+      "dialect": null
+    }
+  ],
+  "uuid": "c620182c-e223-44f3-b54e-ecafc585b426"
+}

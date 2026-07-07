@@ -1,0 +1,28 @@
+{
+  "entryWord": "Chʼayonïk",
+  "definition": "Pelear, pegar, aporrear",
+  "additional_text": "vt Chʼayoxik, ninchʼäy (ninchʼëy)",
+  "examples": [
+    {
+      "example_maya": "Ri tataʼaj xuchʼäy ri ralkʼwal ruma man xbʼe ta pa tijobʼäl",
+      "example_spa": "El padre le pegó a su hijo porque no fue a la escuela",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chwaʼq ninchʼey na jubʼa nukinaqʼ",
+      "example_spa": "Mañana voy a aporrear un poco de frijol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri akʼwalaʼ yechʼayonkiʼ pa ruwiʼ ketzʼabʼal",
+      "example_spa": "Los niños se pelean por los juguetes",
+      "dialect": null
+    }
+  ],
+  "uuid": "d62445b0-a333-4cf2-bb88-ae0e9d88266b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

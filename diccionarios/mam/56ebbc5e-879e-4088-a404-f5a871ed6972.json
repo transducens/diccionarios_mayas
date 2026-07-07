@@ -1,0 +1,23 @@
+{
+  "entryWord": "CHUUYA (chuxa)",
+  "definition": "apurate Imperativo que sólo se usa con la segunda y tercera persona del singular y segunda del plural",
+  "additional_text": "imp chuxqaya",
+  "examples": [
+    {
+      "example_maya": "Chuxta chʼix tel tkʼuʼj tat",
+      "example_spa": "Apúrate ya mero se va a morir papá",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Chuxqaya wal kyxiʼya aʼlal muʼn",
+      "example_spa": "Apúrense hijos anden a regar el semillero",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "56ebbc5e-879e-4088-a404-f5a871ed6972",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

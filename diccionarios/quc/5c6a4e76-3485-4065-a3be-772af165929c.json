@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼetowem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kachʼetowik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gotear; llover como temporal",
+  "definitionDialect": "K'iche'",
+  "additional_text": "vi Raiz VT Chʼet",
+  "examples": [
+    {
+      "example_maya": "Li qʼebʼal xuchapleʼj chʼetowem",
+      "example_spa": "La tinaja empezó a gotear",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jabʼ xaq xchʼetow pa riʼ jun ikʼ kanoq, ma xa qʼeqal jabʼ",
+      "example_spa": "Está lloviendo mucho como si fuera temporal",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c6a4e76-3485-4065-a3be-772af165929c"
+}

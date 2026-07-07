@@ -1,0 +1,18 @@
+{
+  "entryWord": "PAART",
+  "definition": "aviso 2 parte, demanda",
+  "additional_text": "s1 nparta 1 del español parte",
+  "examples": [
+    {
+      "example_maya": "At jun nparta maʼ tzʼaj tiʼjqʼa",
+      "example_spa": "Tengo un aviso que le dije a él",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ff5f1d81-ac85-423c-9f51-413e50a692d4",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

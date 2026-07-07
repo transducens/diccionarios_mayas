@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼapibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tapadera",
+  "definitionDialect": "",
+  "additional_text": "scv Nutzʼapibʼaal",
+  "examples": [
+    {
+      "example_maya": "Li achih xutor li tzʼapibʼal uwi li kaxah",
+      "example_spa": "El hombre abrió la tapadera del cofre",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c2a18f8-b036-4df4-ab7d-1cc2a0aa95d6"
+}

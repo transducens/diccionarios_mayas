@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tzʼumaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Besar",
+  "definitionDialect": "",
+  "additional_text": "vTD Kintzʼumaaj Raíz VT Tzʼum",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj kutzʼumaj li ral ma xa si utz kariloh",
+      "example_spa": "La mujer besa mucho a su hijo, porque lo quiere",
+      "dialect": null
+    },
+    {
+      "example_maya": "Konojel li winaq xkichap utzʼumaxik li sant",
+      "example_spa": "Toda la gente empezó a besar a la imagen",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qatzʼumaj qachiʼ",
+      "example_spa": "Besemonos; compartamos una copa",
+      "dialect": null
+    }
+  ],
+  "uuid": "befd50cd-7eb4-47a6-8b58-3d98b3dd9560"
+}

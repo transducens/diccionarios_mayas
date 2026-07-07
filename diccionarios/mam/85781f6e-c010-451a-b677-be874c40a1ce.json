@@ -1,0 +1,18 @@
+{
+  "entryWord": "PALEET",
+  "definition": "1 remo de canoa 2 paleta",
+  "additional_text": "s1 npaleta del español paleta",
+  "examples": [
+    {
+      "example_maya": "Kabʼ tpalet jun kanuwa qʼibʼil kyiẍ",
+      "example_spa": "La canoa de pesca tiene dos remos",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "85781f6e-c010-451a-b677-be874c40a1ce",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

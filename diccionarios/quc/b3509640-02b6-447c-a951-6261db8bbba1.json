@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tortah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pan que se hace en semana santa; torta",
+  "definitionDialect": "",
+  "additional_text": "scv Nutortaa",
+  "examples": [
+    {
+      "example_maya": "Konojel winaq kakibʼan kitorta pa taq awasqʼij",
+      "example_spa": "Toda la gente hace sus tortas en semana santa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Waʼ we tortah, pa taq awasqʼij kabʼanik nimaʼq xuq ketekaʼq",
+      "example_spa": "Este pan se hace en semana santa, también es",
+      "dialect": null
+    }
+  ],
+  "uuid": "b3509640-02b6-447c-a951-6261db8bbba1"
+}

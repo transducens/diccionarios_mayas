@@ -1,0 +1,19 @@
+{
+  "entryWord": "Toqʼixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedir; exigir, ordenar, reclamar, precisar, requerir",
+  "definitionDialect": "General",
+  "additional_text": "vTD Kintoqʼiij Raíz VT Toqʼ",
+  "examples": [
+    {
+      "example_maya": "Kintoqʼij ukʼas li a Luʼ arech kutoj chwech",
+      "example_spa": "Le exigiré a Pedro que me pague lo que me debe",
+      "dialect": null
+    }
+  ],
+  "uuid": "789f8d3d-af96-46d6-abbb-82133f9a49a1"
+}

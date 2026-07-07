@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼuquqem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Amontonarse las nubes, juntarse",
+  "definitionDialect": "",
+  "additional_text": "vi Kabʼuquqik Raiz P Bʼuq",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kabʼuquq li sutzʼ xok chwa li qʼij",
+      "example_spa": "Las nubes se amontonaron delante del sol",
+      "dialect": null
+    }
+  ],
+  "uuid": "45d10ef4-90bc-4594-92bb-6f3465e16887"
+}

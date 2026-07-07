@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzekʼelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Salidos: dientes de perro al morder",
+  "definitionDialect": "",
+  "additional_text": "p Xtzekʼiʼk, xutzekʼebʼaʼ Var Tzakʼalik Raíz P Tzekʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xaq tzekʼel li uwareh cheh kawaqanik",
+      "example_spa": "El perro tiene los dientes salidos para morder",
+      "dialect": null
+    }
+  ],
+  "uuid": "b93a4bcb-b859-4190-81b1-de1fce7573a4"
+}

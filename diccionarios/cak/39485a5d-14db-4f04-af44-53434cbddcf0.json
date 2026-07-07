@@ -1,0 +1,23 @@
+{
+  "entryWord": "Umül",
+  "definition": "Conejo",
+  "additional_text": "sInv Wumül Chköp",
+  "examples": [
+    {
+      "example_maya": "Konojel bʼa ri umuliʼ aj pa juyuʼ, ruyon tzʼiltzʼöj kij",
+      "example_spa": "Casi todos los conejos del monte son de color gris",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼanin yekʼiyïr ri umuliʼ",
+      "example_spa": "Luego se multiplicaron los conejos",
+      "dialect": null
+    }
+  ],
+  "uuid": "39485a5d-14db-4f04-af44-53434cbddcf0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

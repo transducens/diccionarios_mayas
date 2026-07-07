@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼilabʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "//Chʼilahbʼ//",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Chamuscar (comida mal asada)",
+  "definitionDialect": "",
+  "additional_text": "Adj Fbas VT Chʼilaabʼanik Chamuscar (asar mal) Raiz VT Chʼil",
+  "examples": [
+    {
+      "example_maya": "Li aj xaq chʼilabʼ xubʼan chwa li qʼaqʼ",
+      "example_spa": "El elote se chamuscó en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "a69f94d0-c612-4219-9672-5bc890b3c312"
+}

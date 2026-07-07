@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jachikeh",
+  "entryWordDialect": null,
+  "altEntryWord": "jachikeh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¿Cuál?; ¿qué?",
+  "definitionDialect": "",
+  "additional_text": "Interr Var Jaachkeh",
+  "examples": [
+    {
+      "example_maya": "¿jachike li kabʼij chwech chanim?",
+      "example_spa": "¿Qué es lo que me estás diciendo?",
+      "dialect": null
+    }
+  ],
+  "uuid": "1804a1c4-c693-4ff7-b6fb-cf2612d8c095"
+}

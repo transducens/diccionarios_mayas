@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuxerex",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tijera",
+  "definitionDialect": "",
+  "additional_text": "scv Nutuxereex Chokonisabʼal Del Cast Tijeras",
+  "examples": [
+    {
+      "example_maya": "Li ajtʼisoʼmanel kuramij li atzʼyaq cheh li tuxerex",
+      "example_spa": "El sastre corta la tela con la tijera",
+      "dialect": null
+    }
+  ],
+  "uuid": "e5cace1f-7431-4b07-8b80-d3bc84e4efd0"
+}

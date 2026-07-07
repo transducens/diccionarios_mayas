@@ -1,0 +1,19 @@
+{
+  "entryWord": "Marsuh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mazo",
+  "definitionDialect": "",
+  "additional_text": "scv Numaarsuu DomS Chokonisaʼn Del Cast Mazo",
+  "examples": [
+    {
+      "example_maya": "Li marsuh, kachokon che bʼajibʼal uliw",
+      "example_spa": "El mazo sirve para apelmazar la tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "3ee856f8-6855-482c-93db-63f6e5858982"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼuma pix",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼuma pix",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tomate de manzana",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz S Kʼuum pix",
+  "examples": [
+    {
+      "example_maya": "Waʼ we kʼuma pix are mas choma chwach li nikʼaj chik",
+      "example_spa": "Este tomate de manzana es más grande que los otros",
+      "dialect": null
+    }
+  ],
+  "uuid": "d5a46ef2-c59f-40d1-8fc9-f1b0bef0cebe"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼolim",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Nacimiento; estancia; posesión",
+  "definitionDialect": "",
+  "additional_text": "sNP",
+  "examples": [
+    {
+      "example_maya": "Li a Xwan rach kʼolim li a Siʼs",
+      "example_spa": "Juan y Francisco Nacieron al mismo tiempo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, kʼolim ubʼanom umebʼaʼil ma kachakunik",
+      "example_spa": "El hombre va a tener riqueza porque trabaja",
+      "dialect": null
+    }
+  ],
+  "uuid": "4bd534b8-0583-488e-90b8-c205d0f8ff6b"
+}

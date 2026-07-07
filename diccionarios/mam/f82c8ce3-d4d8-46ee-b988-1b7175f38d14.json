@@ -1,0 +1,23 @@
+{
+  "entryWord": "MAQʼEET",
+  "definition": "1 revolver, mezclar 2 hacer recados con maza",
+  "additional_text": "vt maqʼol te, ma bʼaj nmaqʼoʼna, maqʼoʼn, maqʼobʼil raíz maqʼ vt",
+  "examples": [
+    {
+      "example_maya": "Ma txiʼ chenaqʼ tuj txʼabʼan",
+      "example_spa": "Se revolvió el frijol con el chipilín",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "Maqʼoʼn kuʼx qchiʼ xkoʼya tuj tal kʼil",
+      "example_spa": "Revolvé el tomate en la olla",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f82c8ce3-d4d8-46ee-b988-1b7175f38d14",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

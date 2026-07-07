@@ -1,0 +1,18 @@
+{
+  "entryWord": "Taaqinel",
+  "definition": "Seguidor, perseguidor, guardia",
+  "additional_text": "sInv In-taaqinel var Aj taaqinel",
+  "examples": [
+    {
+      "example_maya": "Naq nekeʼel li preex chi xchʼolobʼankil kʼaruhebʼ xmaak, wankebʼ aj taaqinel re",
+      "example_spa": "Cuando los presos salen a dar declaraciones siempre van con un guardia",
+      "dialect": null
+    }
+  ],
+  "uuid": "27fb56f6-4374-4be6-8c6e-73f1bcdb7090",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

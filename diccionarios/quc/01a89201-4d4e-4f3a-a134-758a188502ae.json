@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rojoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Karojoʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer bulla con hojas o nailon",
+  "definitionDialect": "general",
+  "additional_text": "vi Raiz VT Roj",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom karojoʼp pa li abʼix cheh relaqʼaxik li aj",
+      "example_spa": "El ladrón hizo ruido con la milpa al robarse los elotes",
+      "dialect": null
+    }
+  ],
+  "uuid": "01a89201-4d4e-4f3a-a134-758a188502ae"
+}

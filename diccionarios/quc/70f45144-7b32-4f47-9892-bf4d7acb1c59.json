@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jusuq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una amarrada de nudo corredizo; una hilera de tejas o paja para techo",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Suq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq jusuq xuya che li chij",
+      "example_spa": "La mujer sólo le dio una amarrada al hilo",
+      "dialect": null
+    }
+  ],
+  "uuid": "70f45144-7b32-4f47-9892-bf4d7acb1c59"
+}

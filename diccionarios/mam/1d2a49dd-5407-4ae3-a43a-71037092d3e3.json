@@ -1,0 +1,18 @@
+{
+  "entryWord": "KORWITZ",
+  "definition": "cerro \"El Coro\"",
+  "additional_text": "tp ds witz",
+  "examples": [
+    {
+      "example_maya": "Kyuʼn ojtxe xjal ok qʼoʼn tbʼi witz Korwitz",
+      "example_spa": "La gente antigua le dio el nombre a este cerro",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "1d2a49dd-5407-4ae3-a43a-71037092d3e3",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

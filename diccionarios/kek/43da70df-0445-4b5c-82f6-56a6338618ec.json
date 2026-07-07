@@ -1,0 +1,33 @@
+{
+  "entryWord": "Ke",
+  "definition": "Frío",
+  "additional_text": "Adj Xkehoʼ, xkehal",
+  "examples": [
+    {
+      "example_maya": "Li haʼ jwal ke xsaʼ naq maakʼaʼ li saqʼe",
+      "example_spa": "El agua es muy fría cuando no hay sol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Naxkʼe ke",
+      "example_spa": "Hace frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xiikil",
+      "example_spa": "Mucho frío",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ke ru kutan",
+      "example_spa": "Día nublado",
+      "dialect": null
+    }
+  ],
+  "uuid": "43da70df-0445-4b5c-82f6-56a6338618ec",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

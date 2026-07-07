@@ -1,0 +1,18 @@
+{
+  "entryWord": "OʼXAN",
+  "definition": "comida con achiote",
+  "additional_text": "adj raíz oʼx s",
+  "examples": [
+    {
+      "example_maya": "¿Oʼxan tuj tamaʼla nan?",
+      "example_spa": "¿Contienen achiote los tamales mamá?",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "40cf8ccc-6ed9-4636-ace1-edf5b4d69a6d",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

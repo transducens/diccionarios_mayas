@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rochochexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinrochochej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Abrir hoyos",
+  "definitionDialect": "",
+  "additional_text": "VTD Raiz PT Roch",
+  "examples": [
+    {
+      "example_maya": "Li nima jabʼ xurochochej jul pa li nima bʼeh",
+      "example_spa": "El aguacero abrió hoyos en la carretera",
+      "dialect": null
+    }
+  ],
+  "uuid": "21fa0ee9-fb21-4fae-b7bf-dcb9fc2d1124"
+}

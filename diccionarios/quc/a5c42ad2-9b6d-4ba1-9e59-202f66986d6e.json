@@ -1,0 +1,29 @@
+{
+  "entryWord": "Slabʼem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse; menearse",
+  "definitionDialect": "",
+  "additional_text": "vt Kinslabʼik Raíz vt Sil",
+  "examples": [
+    {
+      "example_maya": "Li achih karaj kaslabʼik, chema na kakowin taj, ma xa ximitalik",
+      "example_spa": "El hombre quiere moverse pero no puede porque está amarrado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kikibʼij li winaq are taq xebʼe pa waran kamnaq, xslabʼ li kamnaq",
+      "example_spa": "Dice la gente que cuando fueron al velorio, se movió el muerto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kebʼraqan we kubʼanoh, ronojel taq li jah kaslabʼik",
+      "example_spa": "Si pasa un temblor, se menean todas la casas",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5c42ad2-9b6d-4ba1-9e59-202f66986d6e"
+}

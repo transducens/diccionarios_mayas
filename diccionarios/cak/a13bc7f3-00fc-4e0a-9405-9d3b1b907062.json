@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yan",
+  "definition": "Indica acción inmediata o que acaba de realizarse",
+  "additional_text": "Part",
+  "examples": [
+    {
+      "example_maya": "Tabʼana yan",
+      "example_spa": "Hágalo rápido",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katan pe chʼanin, nibʼe yan ri chʼichʼ",
+      "example_spa": "Vení rápido, ya se va la camioneta",
+      "dialect": null
+    }
+  ],
+  "uuid": "a13bc7f3-00fc-4e0a-9405-9d3b1b907062",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

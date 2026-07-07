@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼa te nah",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Después",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "Na kinwaʼ ta chanim, kʼa te nah",
+      "example_spa": "No voy a comer ahorita, sino después",
+      "dialect": null
+    }
+  ],
+  "uuid": "33dfb944-cbb9-4e9f-b29b-96048f382dfb"
+}

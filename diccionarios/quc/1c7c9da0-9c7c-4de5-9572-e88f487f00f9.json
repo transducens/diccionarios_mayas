@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lubʼubem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kalubʼubʼik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Deshacerse fácilmente cosa remojada, como papel, pan, etc",
+  "definitionDialect": "",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Li wuj xaq kalubʼubʼ chi chwa li jabʼ",
+      "example_spa": "El papel se deshizo bajo la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c7c9da0-9c7c-4de5-9572-e88f487f00f9"
+}

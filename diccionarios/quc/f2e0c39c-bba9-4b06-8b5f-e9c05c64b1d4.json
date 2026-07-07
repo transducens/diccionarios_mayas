@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kolixik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkolij",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar cinta o listón de la cabeza",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz P Kol",
+  "examples": [
+    {
+      "example_maya": "Li alah xukolij li uxaqʼap li alih",
+      "example_spa": "El muchacho le quitó la cinta de la cabeza a la muchacha",
+      "dialect": null
+    }
+  ],
+  "uuid": "f2e0c39c-bba9-4b06-8b5f-e9c05c64b1d4"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼopyajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Saltar sobre un lazo u otra cosa (como conejo o venado)",
+  "definitionDialect": "",
+  "additional_text": "VI Kinchʼopyajik Sinón Koxpyajik Raíz P Chʼop",
+  "examples": [
+    {
+      "example_maya": "Li imul kachʼopyajik, xbʼe pa taq li qʼayes",
+      "example_spa": "El conejo se fue saltando entre el monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "db24ce44-bc31-4d6c-a005-6c2d30b5be87"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Werewotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Murmurar (hablar en voz baja) murmujear, murmullar",
+  "definitionDialect": "",
+  "additional_text": "vi Kawerewotik Var Wixiwoteem Raiz vi Wer",
+  "examples": [
+    {
+      "example_maya": "Li ixoq na qʼalaj ta li kubʼij ma xaq kawerewotik",
+      "example_spa": "No se oye lo que dice la mujer porque está murmurando",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ajqʼij tajin kawerewot chij li upom",
+      "example_spa": "El Sacerdote maya está murmurando sobre el copal",
+      "dialect": null
+    }
+  ],
+  "uuid": "7e35e453-76f9-402f-8516-48dde1ff6f92"
+}

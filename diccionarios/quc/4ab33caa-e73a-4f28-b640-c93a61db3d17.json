@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzayiʼm",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzayiʼm",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agua caliente con sal que dan a los niños si no hay otra comida sin chile",
+  "definitionDialect": "",
+  "additional_text": "SInv var Tzamiʼy",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xa tzayiʼm xuya cheh li ral, ma xa maj chi rikil",
+      "example_spa": "La mujer le dio a su hijo agua caliente con sal porque no hay otra clase de comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ab33caa-e73a-4f28-b640-c93a61db3d17"
+}

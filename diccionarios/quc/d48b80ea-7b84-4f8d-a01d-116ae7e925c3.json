@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼaqʼabʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinqʼaqʼabʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aprovechar una situación; usar como pretexto",
+  "definitionDialect": "General",
+  "additional_text": "VTD Raíz S Qʼaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih are kuqʼaqʼabʼej li ukʼajol okinaq pa xajoj, rumal riʼ na kabʼe ta pa chomal",
+      "example_spa": "El hombre pone la participación de su hijo en el baile como pretexto para no ir a la reunión",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li alih are xuqʼaqʼabʼej li chʼay li xbʼan cheh rumal li rachajil, xa je riʼ xujachoh",
+      "example_spa": "La muchacha se aprovechó de que su marido le pegó para divorciarse",
+      "dialect": null
+    }
+  ],
+  "uuid": "d48b80ea-7b84-4f8d-a01d-116ae7e925c3"
+}

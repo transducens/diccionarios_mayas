@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Kʼamanik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ser o no ser pariente",
+  "definitionDialect": "K'am.",
+  "additional_text": "vt Kinkʼamanik",
+  "examples": [
+    {
+      "example_maya": "Maj kojkʼamanik rukʼ",
+      "example_spa": "No somos parientes de él",
+      "dialect": null
+    }
+  ],
+  "uuid": "fcf728e9-001c-4c58-9371-e302390bf4f0"
+}

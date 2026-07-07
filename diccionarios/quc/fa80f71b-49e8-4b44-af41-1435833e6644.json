@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pejnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapejnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Labrar, moverse cosa ancha",
+  "definitionDialect": "General",
+  "additional_text": "vI Raíz VT Pej",
+  "examples": [
+    {
+      "example_maya": "Li bʼanal chak kapejnaj pa li ruliw",
+      "example_spa": "El labrador está labrando la tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "fa80f71b-49e8-4b44-af41-1435833e6644"
+}

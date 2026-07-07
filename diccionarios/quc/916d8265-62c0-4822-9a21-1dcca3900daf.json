@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ukʼyaʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Wukʼyaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Atol de maíz",
+  "definitionDialect": "General",
+  "additional_text": "scv Var Ukʼiʼy",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xya jun xaʼr rukʼyaʼ rumal li unan",
+      "example_spa": "La mamá le dio un vaso de atol a su hijo",
+      "dialect": null
+    }
+  ],
+  "uuid": "916d8265-62c0-4822-9a21-1dcca3900daf"
+}

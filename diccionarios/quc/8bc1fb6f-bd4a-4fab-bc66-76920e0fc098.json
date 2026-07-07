@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sumsum",
+  "entryWordDialect": null,
+  "altEntryWord": "Rumrum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Jumjum",
+  "altEntryWordDialect2": null,
+  "definition": "Juguete hecho de una tablita con un agujero y una pita que lo hace girar",
+  "definitionDialect": "general",
+  "additional_text": "sInv Raiz VT Sum DomS Etzʼabʼaʼl",
+  "examples": [
+    {
+      "example_maya": "Li akʼalabʼ sumsum tajin kaketzʼabʼej",
+      "example_spa": "Los niños están jugando con un palito amarrado a una pita",
+      "dialect": null
+    }
+  ],
+  "uuid": "8bc1fb6f-bd4a-4fab-bc66-76920e0fc098"
+}

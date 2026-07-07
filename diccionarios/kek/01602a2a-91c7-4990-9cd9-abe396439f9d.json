@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼojkʼo",
+  "definition": "Sentado",
+  "additional_text": "P Kʼojobʼank, xinkʼojobʼ, kʼojlaak",
+  "examples": [
+    {
+      "example_maya": "Kʼojkʼo li yaj saʼ xnaʼaj",
+      "example_spa": "El enfermo está sentado en su lugar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼojkʼo laj patzʼol toj chi re kabʼt",
+      "example_spa": "El cobrador está sentado en la puerta",
+      "dialect": null
+    }
+  ],
+  "uuid": "01602a2a-91c7-4990-9cd9-abe396439f9d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

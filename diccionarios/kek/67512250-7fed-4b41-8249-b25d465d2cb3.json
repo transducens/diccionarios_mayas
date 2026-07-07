@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mertoom",
+  "definition": "Mayordomo",
+  "additional_text": "SInv Inmertoom",
+  "examples": [
+    {
+      "example_maya": "Xbʼeenil mertoom",
+      "example_spa": "Primer mayordomo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Mertoom saʼ kʼalebʼaal",
+      "example_spa": "Mayordomo de la aldea",
+      "dialect": null
+    }
+  ],
+  "uuid": "67512250-7fed-4b41-8249-b25d465d2cb3",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

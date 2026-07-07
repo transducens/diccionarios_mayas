@@ -1,0 +1,23 @@
+{
+  "entryWord": "Rechʼenïk",
+  "definition": "Abrir (se usa sólo para cosas que se pueden amarrar, como bolsas, menos puertas o ventanas)",
+  "additional_text": "VT Rechʼexik, (rechʼïk), ninrëchʼ Rechʼuj, ninrechʼuj Abrir bruscamente var Jaqonïk rechʼ",
+  "examples": [
+    {
+      "example_maya": "Yin xinrëchʼ ruchiʼ ri koxtar",
+      "example_spa": "Yo abrí bien el costal",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xari kʼin yalan xinrëchʼ ruchi ri nuyaʼl, xretzetäj",
+      "example_spa": "Sólo por abrir bien la boca de mi red, se rompió",
+      "dialect": null
+    }
+  ],
+  "uuid": "d1e3d65b-bce3-446e-9234-b29e61cd5176",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wokaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cantón; caserío",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuwokaaj Raíz S Wok",
+  "examples": [
+    {
+      "example_maya": "Pa li uwokaj li alkalteh, xepe wi li ajchakibʼ",
+      "example_spa": "Del cantón del alcalde vinieron los trabajadores",
+      "dialect": null
+    }
+  ],
+  "uuid": "2a19c21a-51bf-45c6-aade-fd22a4dd46cd"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yolkopixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resbalarse",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinyolkopiij Raíz VT Yol",
+  "examples": [
+    {
+      "example_maya": "Are taq xwaj xinriq li kikʼ xinyolkopij chrij",
+      "example_spa": "Me resbale al querer alcanzar la pelota",
+      "dialect": null
+    }
+  ],
+  "uuid": "3aea33c0-ae22-466e-bb1d-322be33f70f3"
+}

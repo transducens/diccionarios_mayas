@@ -1,0 +1,24 @@
+{
+  "entryWord": "Pachalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Chakalik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agachado",
+  "definitionDialect": "",
+  "additional_text": "p Xpachiʼk, xupachabʼaʼ var Chakalik Raíz P Pach",
+  "examples": [
+    {
+      "example_maya": "Li achih pachalik kuxim li usiʼ",
+      "example_spa": "El hombre amarra su leña agachado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xpachiʼk are taq xuyak li reqaʼn",
+      "example_spa": "El hombre se agachó para levantar su carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "a833eee2-a421-4324-bbd3-4b3dd209577a"
+}

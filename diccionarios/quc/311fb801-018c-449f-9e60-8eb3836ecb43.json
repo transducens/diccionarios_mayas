@@ -1,0 +1,24 @@
+{
+  "entryWord": "Reqʼerik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cicatriz grande",
+  "definitionDialect": "General",
+  "additional_text": "SaP Raíz VT Reqʼ",
+  "examples": [
+    {
+      "example_maya": "Reqʼerik raqʼ",
+      "example_spa": "Es chismoso",
+      "dialect": null
+    },
+    {
+      "example_maya": "Reqʼerik upuchiʼ",
+      "example_spa": "Es chismoso",
+      "dialect": null
+    }
+  ],
+  "uuid": "311fb801-018c-449f-9e60-8eb3836ecb43"
+}

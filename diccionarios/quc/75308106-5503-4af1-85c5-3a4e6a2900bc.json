@@ -1,0 +1,19 @@
+{
+  "entryWord": "Potzʼopotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapotzʼopotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido el machete o hacha al cortar cosa dura",
+  "definitionDialect": "",
+  "additional_text": "vl Raiz VT Potzʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajsiwil kapotzʼopot pa li kʼacheʼlaj",
+      "example_spa": "El leñador hace ruido continuamente con el machete en el bosque",
+      "dialect": null
+    }
+  ],
+  "uuid": "75308106-5503-4af1-85c5-3a4e6a2900bc"
+}

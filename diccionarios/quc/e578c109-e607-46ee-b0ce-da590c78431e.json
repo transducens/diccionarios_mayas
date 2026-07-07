@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼeʼm",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Desportillado: trasto de barro o tabla",
+  "definitionDialect": "K'iche'",
+  "additional_text": "Adj Raiz VT Chʼem",
+  "examples": [
+    {
+      "example_maya": "Li uqʼebʼal li ixoq xa chʼeʼm li uchiʼ",
+      "example_spa": "La boca de la tinaja de la mujer está desportillada",
+      "dialect": null
+    }
+  ],
+  "uuid": "e578c109-e607-46ee-b0ce-da590c78431e"
+}

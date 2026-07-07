@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxkamik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Muerte repentina",
+  "definitionDialect": "general",
+  "additional_text": "snP Raíz Adj Rax kam",
+  "examples": [
+    {
+      "example_maya": "Li rachajil li ixoq xa raxkamik xuriqoh ma xa xwachʼ rumal chʼichʼ",
+      "example_spa": "Al esposo de la mujer le aconteció una muerte repentina porque fue atropellado por un carro",
+      "dialect": null
+    }
+  ],
+  "uuid": "a2646e82-cc0d-42af-be49-17c03e438861"
+}

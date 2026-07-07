@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼotolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xbʼotiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xubʼotobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Puesto: un rollo",
+  "definitionDialect": "",
+  "additional_text": "p Raíz PT Bʼot",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xubʼotobʼa kan li pop chwi li chʼat",
+      "example_spa": "El niño dejó enrollado el petate sobre la cama",
+      "dialect": null
+    }
+  ],
+  "uuid": "82c3adbb-cf59-4c11-8367-64c0a7dda65b"
+}

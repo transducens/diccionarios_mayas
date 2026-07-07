@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼarnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqʼarnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse bola crecida en el cuerpo",
+  "definitionDialect": "General",
+  "additional_text": "vi Raíz P Qʼar",
+  "examples": [
+    {
+      "example_maya": "Li ubʼoʼj li ixoq kaqʼarnajik are taq kabʼinik",
+      "example_spa": "El güegüecho de la mujer se mueve cuando camina",
+      "dialect": null
+    }
+  ],
+  "uuid": "5243e51f-c2dd-4ea1-b9b7-3f9145f0963c"
+}

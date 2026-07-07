@@ -1,0 +1,19 @@
+{
+  "entryWord": "Setetem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kasetetik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rodarse",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VI Set",
+  "examples": [
+    {
+      "example_maya": "Kasetet li rajil xbʼek are taq xtzaq puliw",
+      "example_spa": "La ficha se fue rodando cuando cayó al suelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4c5622ba-0d34-4d33-9412-23c43a2c8230"
+}

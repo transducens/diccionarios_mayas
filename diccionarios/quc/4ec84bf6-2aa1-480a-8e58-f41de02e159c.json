@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tʼulixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cortar hojas o ramas",
+  "definitionDialect": "",
+  "additional_text": "vtd Kintʼuliij Raíz VT Tʼul",
+  "examples": [
+    {
+      "example_maya": "Li siwil katajin kutʼulij uqʼabʼ li cheʼ",
+      "example_spa": "El leñador está cortando las ramas del árbol",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kintʼulij uxaq li kinaqʼ",
+      "example_spa": "Le quitó las hojas al frijolar",
+      "dialect": null
+    }
+  ],
+  "uuid": "4ec84bf6-2aa1-480a-8e58-f41de02e159c"
+}

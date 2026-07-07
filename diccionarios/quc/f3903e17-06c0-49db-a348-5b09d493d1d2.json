@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xkiʼqul",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxkiʼqul",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierba mora de sabor amargo",
+  "definitionDialect": "Dom.S. Ichaaj.",
+  "additional_text": "sInv",
+  "examples": [
+    {
+      "example_maya": "Waʼ we xkiʼqul na junam ta ukiʼil rukʼ li imuʼt",
+      "example_spa": "Esta hierba no tiene el mismo sabor que el quilete",
+      "dialect": null
+    }
+  ],
+  "uuid": "f3903e17-06c0-49db-a348-5b09d493d1d2"
+}

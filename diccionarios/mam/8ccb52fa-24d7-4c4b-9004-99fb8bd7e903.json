@@ -1,0 +1,18 @@
+{
+  "entryWord": "CHOOR",
+  "definition": "chorro",
+  "additional_text": "s1 nchora del español chorro",
+  "examples": [
+    {
+      "example_maya": "Nach ok naq nchora",
+      "example_spa": "No fue bien hecho mi chorro",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "8ccb52fa-24d7-4c4b-9004-99fb8bd7e903",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

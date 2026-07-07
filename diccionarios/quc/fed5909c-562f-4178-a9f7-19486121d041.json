@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼoxkʼabʼel",
+  "entryWordDialect": null,
+  "altEntryWord": "Kʼuxkʼabʼel",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cereza (fruta); cerezo (árbol)",
+  "definitionDialect": "",
+  "additional_text": "scv Nukʼoxkʼabʼeel Var Kʼuxkʼabʼel DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li uwach li kʼoxkʼabʼel kiʼ katijowik",
+      "example_spa": "La fruta del cerezo es sabrosa",
+      "dialect": null
+    }
+  ],
+  "uuid": "fed5909c-562f-4178-a9f7-19486121d041"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kʼaʼam",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼaʼam",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pita; cuerda; bejuco",
+  "definitionDialect": "",
+  "additional_text": "sInv ssp =Kʼaʼmaal Tendón; fibra sds Ukʼaʼmal kinaqʼ Fibras de ejote sds Ukʼaʼmal cheeʼ Bejuco SCL Eetabʼal kʼaʼaam Cuerda para medir terreno F Jun kʼaʼm chaak",
+  "examples": [
+    {
+      "example_maya": "Li kʼaʼam kachokon che xinbʼal jastaq",
+      "example_spa": "La pita sirve para amarrar cosas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼ yuqubʼam chech jun kʼaʼam",
+      "example_spa": "La gallina está amarrada con una pita",
+      "dialect": null
+    }
+  ],
+  "uuid": "57db4fb6-9a15-44a7-9661-3187955acd25"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tatzʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cojear con tobillo doblado",
+  "definitionDialect": "",
+  "additional_text": "VI Katatzʼnajik Raiz VT Tatzʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah xaq katatzʼnaj kabʼinik, ma xa uqʼajom li raqan",
+      "example_spa": "El muchacho anda cojeando, porque se quebró la pierna",
+      "dialect": null
+    }
+  ],
+  "uuid": "256c4403-45e7-4b3a-bbbf-caedc0b1cd97"
+}

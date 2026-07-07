@@ -1,0 +1,19 @@
+{
+  "entryWord": "Peraj",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuperaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perraje; rebozo",
+  "definitionDialect": "",
+  "additional_text": "s DomS Atzʼyaq Del Kʼicheʼ Perraje",
+  "examples": [
+    {
+      "example_maya": "Li peraj kachokon che keqabʼal neʼabʼ",
+      "example_spa": "El rebozo sirve para cargar nenes",
+      "dialect": null
+    }
+  ],
+  "uuid": "9c53d7c7-80bd-4ceb-a3d4-cddf244725ee"
+}

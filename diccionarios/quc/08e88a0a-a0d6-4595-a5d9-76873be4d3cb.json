@@ -1,0 +1,24 @@
+{
+  "entryWord": "Joyam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Joya; hondonada; ahuecado (tronco)",
+  "definitionDialect": "",
+  "additional_text": "snP Sinón Jomojik",
+  "examples": [
+    {
+      "example_maya": "Li uwa ja sibʼalaj jun nima joyam ubʼanom",
+      "example_spa": "El patio es una hondonada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwach uchʼek li cheʼ xa joyam",
+      "example_spa": "El tronco del árbol está ahuecado",
+      "dialect": null
+    }
+  ],
+  "uuid": "08e88a0a-a0d6-4595-a5d9-76873be4d3cb"
+}

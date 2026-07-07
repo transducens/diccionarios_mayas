@@ -1,0 +1,19 @@
+{
+  "entryWord": "Lokexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinlokej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llevar cuerpo aguado; agarrar cuerpo aguado",
+  "definitionDialect": "",
+  "additional_text": "VTD Raíz P Lok",
+  "examples": [
+    {
+      "example_maya": "Li yawabʼ na kuqʼi taj katʼuyiʼk, xaq kinlokej",
+      "example_spa": "El enfermo no puede sentarse, lo tengo abrazado",
+      "dialect": null
+    }
+  ],
+  "uuid": "97728f61-bdef-4eb6-8f4a-4ac0b04334ef"
+}

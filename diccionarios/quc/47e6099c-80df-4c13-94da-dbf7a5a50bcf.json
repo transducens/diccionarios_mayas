@@ -1,0 +1,19 @@
+{
+  "entryWord": "Maqalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xmaqiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xumaqabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Quieto en obscuridad, por humo o polvo; cerrados: los ojos",
+  "definitionDialect": "general",
+  "additional_text": "p Raíz P Maq",
+  "examples": [
+    {
+      "example_maya": "Li alih, xaq maqalik, ma xa kʼax uwach",
+      "example_spa": "La muchacha está con los ojos cerrados porque los tiene malos",
+      "dialect": null
+    }
+  ],
+  "uuid": "47e6099c-80df-4c13-94da-dbf7a5a50bcf"
+}

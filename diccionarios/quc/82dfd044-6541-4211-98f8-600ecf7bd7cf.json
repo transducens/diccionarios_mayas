@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Todo; completamente hasta terminar",
+  "definitionDialect": "",
+  "additional_text": "Adv",
+  "examples": [
+    {
+      "example_maya": "La nal kames li upa jah",
+      "example_spa": "¿Vas a barrer toda la casa?",
+      "dialect": null
+    }
+  ],
+  "uuid": "82dfd044-6541-4211-98f8-600ecf7bd7cf"
+}

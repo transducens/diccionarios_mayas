@@ -1,0 +1,19 @@
+{
+  "entryWord": "Raxwach",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuraxwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maíz negro",
+  "definitionDialect": "",
+  "additional_text": "SInv DomS Ixiim DomS Wah",
+  "examples": [
+    {
+      "example_maya": "Li raxwacha wah, we sibʼalaj kaya chun rukʼ, sibʼalaj rax kubʼan li lij on subʼ",
+      "example_spa": "Si se le echa mucha cal al maíz negro, las tortillas o tamales se ponen muy verdes",
+      "dialect": null
+    }
+  ],
+  "uuid": "22e26d8d-8379-46b4-b7de-8060b6b19b79"
+}

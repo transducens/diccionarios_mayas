@@ -1,0 +1,19 @@
+{
+  "entryWord": "Puntayixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apuntar",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinpuntayiij Raiz VT Punta",
+  "examples": [
+    {
+      "example_maya": "Li kʼaqanel puntayixik kuʼon cheh li masat",
+      "example_spa": "El cazador le está apuntando al venado",
+      "dialect": null
+    }
+  ],
+  "uuid": "76db16a5-fd15-47e2-8318-5ff733dea1e4"
+}

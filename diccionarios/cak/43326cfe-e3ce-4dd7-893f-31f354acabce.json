@@ -1,0 +1,23 @@
+{
+  "entryWord": "Us (üs)",
+  "definition": "Mosquito",
+  "additional_text": "sInv Wus var Jenjen chikop",
+  "examples": [
+    {
+      "example_maya": "Konojel ri us yalan kitzʼilul kʼo",
+      "example_spa": "Todos los mosquitos son muy sucios",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri üs yalan yetiʼon",
+      "example_spa": "Los moquitos pican mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "43326cfe-e3ce-4dd7-893f-31f354acabce",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

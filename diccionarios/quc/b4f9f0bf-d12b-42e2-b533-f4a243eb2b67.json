@@ -1,0 +1,19 @@
+{
+  "entryWord": "Miltomat",
+  "entryWordDialect": null,
+  "altEntryWord": "Miltomate",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Miltomate",
+  "definitionDialect": "",
+  "additional_text": "sInv Numiltomaat Del Cast Miltomate Var Pix",
+  "examples": [
+    {
+      "example_maya": "Li miltomat kachokon chech rikiʼl",
+      "example_spa": "El miltomate se utiliza en los recados",
+      "dialect": null
+    }
+  ],
+  "uuid": "b4f9f0bf-d12b-42e2-b533-f4a243eb2b67"
+}

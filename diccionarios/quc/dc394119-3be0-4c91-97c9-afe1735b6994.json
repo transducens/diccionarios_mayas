@@ -1,0 +1,19 @@
+{
+  "entryWord": "Martil",
+  "entryWordDialect": null,
+  "altEntryWord": "Numartil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Martillo",
+  "definitionDialect": "general",
+  "additional_text": "SInv DomS Chokonisaʼn Del Cast Martillo",
+  "examples": [
+    {
+      "example_maya": "Li martil kachokon che bajibʼal lawux",
+      "example_spa": "El martillo sirve para meter clavos",
+      "dialect": null
+    }
+  ],
+  "uuid": "dc394119-3be0-4c91-97c9-afe1735b6994"
+}

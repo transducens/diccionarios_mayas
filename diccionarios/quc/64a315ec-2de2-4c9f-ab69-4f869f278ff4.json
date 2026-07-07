@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼulanem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Casamiento",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukʼulaneem Raíz S Kʼul",
+  "examples": [
+    {
+      "example_maya": "Konojel ri wachalal xkiriq kibʼ pa ri nukʼulanem",
+      "example_spa": "Todos mis parientes se reunieron para mi casamiento",
+      "dialect": null
+    }
+  ],
+  "uuid": "64a315ec-2de2-4c9f-ab69-4f869f278ff4"
+}

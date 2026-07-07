@@ -1,0 +1,19 @@
+{
+  "entryWord": "Katzʼujlajik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gotear muy despacio",
+  "definitionDialect": "",
+  "additional_text": "Raiz S Tzʼuj",
+  "examples": [
+    {
+      "example_maya": "Xaq staʼq chik katzʼujlaj li tzʼuj ma xtaniʼ li jabʼ",
+      "example_spa": "Ya no está goteando mucho porque pasó la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "74feccd4-d88b-4838-86f5-a2cdafdb2a9c"
+}

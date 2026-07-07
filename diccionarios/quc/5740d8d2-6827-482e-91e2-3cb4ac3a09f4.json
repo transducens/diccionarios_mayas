@@ -1,0 +1,19 @@
+{
+  "entryWord": "Naʼnobʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "nanobʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cuidado; cautela",
+  "definitionDialect": "",
+  "additional_text": "sInv Nunaʼnobʼ Raíz S Naʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼo unaʼnobʼ kabʼin pa li jaʼ",
+      "example_spa": "El hombre tiene cuidado, al caminar en el río",
+      "dialect": null
+    }
+  ],
+  "uuid": "5740d8d2-6827-482e-91e2-3cb4ac3a09f4"
+}

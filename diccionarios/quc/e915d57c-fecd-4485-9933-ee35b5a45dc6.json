@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mansan",
+  "entryWordDialect": null,
+  "altEntryWord": "Numansan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guineo manzana",
+  "definitionDialect": "",
+  "additional_text": "sinv DomS Pruut Del Cast Manzana",
+  "examples": [
+    {
+      "example_maya": "Iwir xinwil ankeneʼy mansaʼn pa kʼayʼbʼal",
+      "example_spa": "Ayer vi guineos manzana en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "e915d57c-fecd-4485-9933-ee35b5a45dc6"
+}

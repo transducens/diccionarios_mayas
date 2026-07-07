@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manco; cuto",
+  "definitionDialect": "",
+  "additional_text": "Adj Ukutaal, xkuʼtarik",
+  "examples": [
+    {
+      "example_maya": "Li ajanel xux kut rumal li ukʼeyewal xukʼulmaj",
+      "example_spa": "El carpintero se quedó manco por el accidente",
+      "dialect": null
+    }
+  ],
+  "uuid": "91be0dba-ac6f-48f5-91f4-affe4ea5f1ac"
+}

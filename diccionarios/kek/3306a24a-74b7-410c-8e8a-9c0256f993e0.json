@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chaʼlenk",
+  "definition": "Regar, como leña, basura, esparcir",
+  "additional_text": "VTD Xinchaʼle",
+  "examples": [
+    {
+      "example_maya": "Laj Mateey xye re li xnaʼ, laaʼin xinchaʼ le li siʼ chi ru nebʼaal re tchaqiq",
+      "example_spa": "Mateo le dijo a su mamá, yo regué la leña en el patio para que se secara",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinchaʼle li xkʼaj li hu saʼ li bʼe naq xinʼel saʼ li tzolebʼaal",
+      "example_spa": "Cuando salí de la escuela regué los pedacitos de papel",
+      "dialect": null
+    }
+  ],
+  "uuid": "3306a24a-74b7-410c-8e8a-9c0256f993e0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

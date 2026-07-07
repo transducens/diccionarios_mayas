@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kamixaʼ",
+  "definition": "Camisa",
+  "additional_text": "sInv Nukamixaʼ Tzyäq, bʼätzʼ Camisa",
+  "examples": [
+    {
+      "example_maya": "Ri achiʼaʼ nkikusaj kamixaʼ",
+      "example_spa": "Los hombres usan camisa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Konojel ri nukamixaʼ xeteqʼetoʼ yan",
+      "example_spa": "Todas mis camisas se rompieron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nukamxaʼ yalan pin",
+      "example_spa": "Mi camisa es bien gruesa",
+      "dialect": null
+    }
+  ],
+  "uuid": "99000252-51a1-4962-a3b9-5fc1d5cb4b26",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

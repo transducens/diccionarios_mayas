@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼocholik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xqʼochiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuqʼochobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Doblado o torcido para un lado, como mata de milpa o persona sentada",
+  "definitionDialect": "",
+  "additional_text": "p Raíz P Qʼoch",
+  "examples": [
+    {
+      "example_maya": "Li akʼal warnaq xaq qʼochol pa li tem",
+      "example_spa": "El niño duerme doblado en la silla",
+      "dialect": null
+    }
+  ],
+  "uuid": "9ebd0fcb-56d0-4a59-9748-ee0cb817b578"
+}

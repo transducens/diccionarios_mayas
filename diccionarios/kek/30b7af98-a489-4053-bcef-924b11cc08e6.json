@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼoolank",
+  "definition": "Hacer trabajo pesado, bregar, trabajar afanosamente, sufrir alta temperatura",
+  "additional_text": "VI Nabʼoolan",
+  "examples": [
+    {
+      "example_maya": "Nakeʼbʼoolan li ixq chi re li xam",
+      "example_spa": "Las mujeres trabajan afanosamente en la cocina",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nabʼoolan li yaj xbʼaan li tiq",
+      "example_spa": "El enfermo sufre por la alta temperatura",
+      "dialect": null
+    }
+  ],
+  "uuid": "30b7af98-a489-4053-bcef-924b11cc08e6",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

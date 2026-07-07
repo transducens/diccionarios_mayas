@@ -1,0 +1,19 @@
+{
+  "entryWord": "Niʼj",
+  "entryWordDialect": null,
+  "altEntryWord": "Uniʼjal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xniʼjarik",
+  "altEntryWordDialect2": null,
+  "definition": "Fino, bien molido",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq sibʼalaj niʼj xubʼan che li qʼor",
+      "example_spa": "La mujer hizo la masa muy fina",
+      "dialect": null
+    }
+  ],
+  "uuid": "bd374d32-1050-427b-9edf-0cac43047c01"
+}

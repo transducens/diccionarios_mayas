@@ -1,0 +1,19 @@
+{
+  "entryWord": "Morteʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Morteʼr",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mortero",
+  "definitionDialect": "",
+  "additional_text": "SInv Numorteʼl Var Morteʼr Del Cast Mortero",
+  "examples": [
+    {
+      "example_maya": "Li winaq kakichokonsabʼej li morteʼl pa taq nimaqʼij, kakikoj che elesabʼal bʼolad",
+      "example_spa": "La gente usa mortero en las fiestas para quemar bombas",
+      "dialect": null
+    }
+  ],
+  "uuid": "f01f06cc-b197-4348-9e5b-0e177631aa6f"
+}

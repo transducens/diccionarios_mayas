@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sachik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perder; olvidar; desviar",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinsachoh var Tzaaqik Raíz VT Sach",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xusach li ubʼeh",
+      "example_spa": "El niño perdió su camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xuya la nutaqkil chema xinsachoh",
+      "example_spa": "El hombre me dio un mandado pero se me olvidó",
+      "dialect": null
+    }
+  ],
+  "uuid": "432cf458-7244-4729-8b0a-bde6e2507724"
+}

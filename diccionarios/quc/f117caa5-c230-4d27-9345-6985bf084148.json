@@ -1,0 +1,29 @@
+{
+  "entryWord": "Paqabʼsaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alzar; subir",
+  "definitionDialect": "General",
+  "additional_text": "vt Kinpaqabʼsaaj Raíz VT Paq",
+  "examples": [
+    {
+      "example_maya": "Li pareh paqabʼsaxik kubʼan che li osty",
+      "example_spa": "El padre va a alzar la Hostia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih paqabʼsaxik kubʼan che li bʼander\"",
+      "example_spa": "El hombre va a alzar la bandera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li straktor paqabʼsaxik kubʼan che li uliw chkaj",
+      "example_spa": "El tractor va a alzar la tierra",
+      "dialect": null
+    }
+  ],
+  "uuid": "f117caa5-c230-4d27-9345-6985bf084148"
+}

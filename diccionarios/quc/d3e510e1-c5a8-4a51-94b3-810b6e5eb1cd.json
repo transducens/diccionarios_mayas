@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzʼibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escritura",
+  "definitionDialect": "General",
+  "additional_text": "sInv Nutzʼiibʼ Raíz VT Tzʼiibʼ",
+  "examples": [
+    {
+      "example_maya": "Li utzʼibʼ li akʼal sibʼalaj utz chik",
+      "example_spa": "El niño ya tiene buena escritura",
+      "dialect": null
+    }
+  ],
+  "uuid": "d3e510e1-c5a8-4a51-94b3-810b6e5eb1cd"
+}

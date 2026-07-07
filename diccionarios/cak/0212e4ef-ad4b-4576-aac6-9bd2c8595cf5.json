@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xikʼanik",
+  "definition": "Volar",
+  "additional_text": "vi Xikʼanen, nixikʼan Xikʼa",
+  "examples": [
+    {
+      "example_maya": "Täq yexikʼan ri täq tzʼikin nkirikʼ ri kixikʼ",
+      "example_spa": "Cuando vuelan las aves extienden las alas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Jun kaʼiʼ ök ri ajxikʼaʼ taq chiköp kʼo kixikʼ, näq yexikʼan ta",
+      "example_spa": "Hay muy pocas aves que tienen alas y no vuelan",
+      "dialect": null
+    }
+  ],
+  "uuid": "0212e4ef-ad4b-4576-aac6-9bd2c8595cf5",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

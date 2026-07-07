@@ -1,0 +1,24 @@
+{
+  "entryWord": "Yojlik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Puesta: cosa descompuesta, como carro, telar y montón de huesos, también hilos de collar",
+  "definitionDialect": "Español",
+  "additional_text": "p Xyojiʼk, xuyojbʼaʼ Raíz P Yoj",
+  "examples": [
+    {
+      "example_maya": "Li alih, xuyojbʼa kan li retzʼabʼaʼl pwi li mes",
+      "example_spa": "La muchacha dejó puesto el collar sobre la mesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li bʼeh sibʼalaj kʼo yojlik cheʼ",
+      "example_spa": "En el camino hay un montón de palos",
+      "dialect": null
+    }
+  ],
+  "uuid": "a82a0316-1b8c-4549-9932-e3ac0e3cd2be"
+}

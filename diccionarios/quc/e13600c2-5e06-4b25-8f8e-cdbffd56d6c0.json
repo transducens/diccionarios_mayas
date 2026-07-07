@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼuʼch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Buche",
+  "definitionDialect": "",
+  "additional_text": "sInv Ubʼuʼch Del Cast Buche",
+  "examples": [
+    {
+      "example_maya": "Pa li ubʼuʼch li akʼ kʼo ixim",
+      "example_spa": "En el buche de la gallina hay maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "e13600c2-5e06-4b25-8f8e-cdbffd56d6c0"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nak",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Zonzo (que trata de hacer algo rápidamente pero falla); estúpido",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xa sin nak, na kunaʼ taj jas li kubʼanoh",
+      "example_spa": "La mujer es zonza, no se fija en lo que hace",
+      "dialect": null
+    }
+  ],
+  "uuid": "60ef71b5-5be9-4002-a904-775ca741faee"
+}

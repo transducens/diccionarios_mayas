@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼa",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¡Hola!, Saludo que quiere decir: he llegado, aquí estoy",
+  "definitionDialect": "",
+  "additional_text": "Exp Coment Lo dice la persona visitante Var Qʼaaw\" Var Choqʼaa",
+  "examples": [
+    {
+      "example_maya": "Qʼa kacha li a Xwan are taq xopan chwa jah",
+      "example_spa": "¡Hola! dijo Juan cuando llegó a la casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "48f848c6-b5ad-49bb-bed7-414aff94a70e"
+}

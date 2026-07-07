@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼararem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kakʼararik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonar botellas",
+  "definitionDialect": "General",
+  "additional_text": "VI Raiz P Kʼar",
+  "examples": [
+    {
+      "example_maya": "Kakʼarar li lameʼt pa li nima chʼichʼ",
+      "example_spa": "Las botellas suenan en el camión",
+      "dialect": null
+    }
+  ],
+  "uuid": "8f55e527-6146-4215-a7cf-6acbe33d78ca"
+}

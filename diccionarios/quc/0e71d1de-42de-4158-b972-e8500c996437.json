@@ -1,0 +1,19 @@
+{
+  "entryWord": "Map",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mapa",
+  "definitionDialect": "",
+  "additional_text": "sInv Numaap Sinón Wuuj ree taq tinamit Del Cast Mapa",
+  "examples": [
+    {
+      "example_maya": "Li e waʼkatel pa li map kakil wi li bʼeh",
+      "example_spa": "Los turistas miran en el mapa las carreteras",
+      "dialect": null
+    }
+  ],
+  "uuid": "0e71d1de-42de-4158-b972-e8500c996437"
+}

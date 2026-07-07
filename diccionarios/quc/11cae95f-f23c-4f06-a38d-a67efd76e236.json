@@ -1,0 +1,24 @@
+{
+  "entryWord": "Masat",
+  "entryWordDialect": null,
+  "altEntryWord": "Numasat",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Venado; baile del venado",
+  "definitionDialect": "general",
+  "additional_text": "SInv DomS Ajxojolobʼ DomS Chikop Masaat Del Nahuatl Mazatl",
+  "examples": [
+    {
+      "example_maya": "Li masat kutij ranim pa taq kʼacheʼlaj",
+      "example_spa": "El venado corre mucho en las montañas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li masat kexojow pa taq unimaqʼij taq tinamit",
+      "example_spa": "El baile del venado lo realizan en las fiestas titulares",
+      "dialect": null
+    }
+  ],
+  "uuid": "11cae95f-f23c-4f06-a38d-a67efd76e236"
+}

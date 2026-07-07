@@ -1,0 +1,19 @@
+{
+  "entryWord": "Poy",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Liviano, que no pesa",
+  "definitionDialect": "",
+  "additional_text": "saP Sinón Tzooy",
+  "examples": [
+    {
+      "example_maya": "Li qʼumaʼra cheʼ sibʼalaj poy, ma xa sibʼalaj chaqiʼj",
+      "example_spa": "El palo podrido no pesa porque está muy seco",
+      "dialect": null
+    }
+  ],
+  "uuid": "6bc41a84-f2af-4974-87b3-c7720621e883"
+}

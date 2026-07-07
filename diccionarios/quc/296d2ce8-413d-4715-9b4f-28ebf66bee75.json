@@ -1,0 +1,19 @@
+{
+  "entryWord": "Cheʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Ucheʼal, xcheʼrik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tieso; duro",
+  "definitionDialect": "General",
+  "additional_text": "Adj Adj Cheʼchoj Medio tieso",
+  "examples": [
+    {
+      "example_maya": "Li kamnaq are taq xjorobʼik, xcheʼrik",
+      "example_spa": "El muerto se puso tieso cuando se enfrió",
+      "dialect": null
+    }
+  ],
+  "uuid": "296d2ce8-413d-4715-9b4f-28ebf66bee75"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqsoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Blanquizco claro por estrellas, luna o cuando empieza a amanecer",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz Adj Saq DomS Kumatz",
+  "examples": [
+    {
+      "example_maya": "Saqsoj li upa jah, rumal li ikʼ",
+      "example_spa": "Adentro de la casa está claro por la luna",
+      "dialect": null
+    }
+  ],
+  "uuid": "7bbbc822-8a54-4973-bc5a-4e440aab9927"
+}

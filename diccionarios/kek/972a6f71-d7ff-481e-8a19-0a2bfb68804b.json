@@ -1,0 +1,23 @@
+{
+  "entryWord": "Moko kʼi ta",
+  "definition": "Poco, menos, raro",
+  "additional_text": "Adj Moko xkʼihan ta, moko xkʼihal ta",
+  "examples": [
+    {
+      "example_maya": "Moko kʼi ta lintumin",
+      "example_spa": "Tengo poco dinero",
+      "dialect": null
+    },
+    {
+      "example_maya": "Moko kʼi ta naxkʼam li chʼiichʼ",
+      "example_spa": "La camioneta lleva pocos pasajeros",
+      "dialect": null
+    }
+  ],
+  "uuid": "972a6f71-d7ff-481e-8a19-0a2bfb68804b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

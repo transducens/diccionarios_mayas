@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ikan",
+  "entryWordDialect": null,
+  "altEntryWord": "Wikan",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tío",
+  "definitionDialect": "General",
+  "additional_text": "sInv Coment Dialecto de Totonicapán",
+  "examples": [
+    {
+      "example_maya": "Xkam le wikan",
+      "example_spa": "Se murió mi tío",
+      "dialect": null
+    }
+  ],
+  "uuid": "4130b0ae-90f7-486e-b584-b4c432773afb"
+}

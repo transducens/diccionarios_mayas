@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pulisaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llenar con líquido, polvo o granos hasta el borde",
+  "definitionDialect": "",
+  "additional_text": "VTD Kinpuulisaaj Raíz VT Pol (pul)",
+  "examples": [
+    {
+      "example_maya": "Li al Sikaʼ sibʼalaj xupulsaj li chakach chech ixim",
+      "example_spa": "Francisca llenó las canastas de maíz",
+      "dialect": null
+    }
+  ],
+  "uuid": "dd370037-bcd7-4c70-ad9d-a65450147193"
+}

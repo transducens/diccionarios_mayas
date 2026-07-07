@@ -1,0 +1,24 @@
+{
+  "entryWord": "Teqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cosa abierta, perforada, agujereada o rota, agujero, hoyo, concavidad, abertura, hondura",
+  "definitionDialect": "Raiz P. Teq'.",
+  "additional_text": "snP Sinón Teel Sinón Teʼl var Teqʼelik Var Jul",
+  "examples": [
+    {
+      "example_maya": "Kʼo jun teqʼ cheh li tzʼalam",
+      "example_spa": "Hay un agujero en la tabla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Teqʼ li uchi jah",
+      "example_spa": "La puerta de la casa está abierta",
+      "dialect": null
+    }
+  ],
+  "uuid": "3c7c9de7-bc00-4b66-a659-f86e531fe7d5"
+}

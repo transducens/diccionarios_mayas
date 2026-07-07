@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzalkʼaʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katzalkʼaʼtik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambalearse",
+  "definitionDialect": "",
+  "additional_text": "vt Raiz Vt Tzal",
+  "examples": [
+    {
+      "example_maya": "Li achih, katzalkʼaʼtik bʼenaq, ma xa qʼabʼarel",
+      "example_spa": "El hombre camina de un lado a otro, porque está bolo",
+      "dialect": null
+    }
+  ],
+  "uuid": "3e014d0c-7798-4433-a7f4-9bf1c8e96176"
+}

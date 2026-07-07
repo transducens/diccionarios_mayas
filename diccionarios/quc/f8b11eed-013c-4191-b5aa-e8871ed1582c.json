@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "qʼaqʼobʼirem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calentarse",
+  "definitionDialect": "General",
+  "additional_text": "vl Kaqʼaaqʼobʼik (kaqʼaaqʼobʼirik) Raiz S Qʼaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ xqʼaqʼobʼ pa li qʼaqʼ",
+      "example_spa": "El hierro se calentó en el fuego",
+      "dialect": null
+    }
+  ],
+  "uuid": "f8b11eed-013c-4191-b5aa-e8871ed1582c"
+}

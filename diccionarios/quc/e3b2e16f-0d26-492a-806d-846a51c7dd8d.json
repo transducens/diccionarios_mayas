@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tijoj tuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Bañarse en el temascal",
+  "definitionDialect": "",
+  "additional_text": "vts Kintij tuuj",
+  "examples": [
+    {
+      "example_maya": "Bʼenaq qʼij kamik, kintij na tuj",
+      "example_spa": "Hoy por la tarde voy a bañarme en el temascal",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3b2e16f-0d26-492a-806d-846a51c7dd8d"
+}

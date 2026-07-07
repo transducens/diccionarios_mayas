@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yitzʼiyotem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Llorar bajo y con pocas lágrimas",
+  "definitionDialect": "",
+  "additional_text": "VI Kayitzʼiyotik Raiz VT Yitzʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah, kayitzʼiyotik, ma xyaj rumal li unan",
+      "example_spa": "El patojo está llorando bajo porque fue regañado por su mamá",
+      "dialect": null
+    }
+  ],
+  "uuid": "d09a506a-3385-4db5-8d36-48ee3bd2b7e8"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼarkaʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Moverse cosa descompuesta",
+  "definitionDialect": "",
+  "additional_text": "vi Kachʼarkaʼtik Raiz P Chʼar",
+  "examples": [
+    {
+      "example_maya": "Li xilaʼ xqʼajik, xaq kachʼarkaʼtik",
+      "example_spa": "La silla se mueve porque está quebrada",
+      "dialect": null
+    }
+  ],
+  "uuid": "2fdcd216-0aa6-4e0b-b413-c16a06505a6d"
+}

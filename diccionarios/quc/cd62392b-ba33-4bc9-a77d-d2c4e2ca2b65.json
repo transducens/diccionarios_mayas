@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wex",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuwex",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Maxtate que se les pone a todos los muertos",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Atzʼyaaq",
+  "examples": [
+    {
+      "example_maya": "Ri Adán wex xuchokonsabʼej",
+      "example_spa": "Adán usó maxtate",
+      "dialect": null
+    }
+  ],
+  "uuid": "cd62392b-ba33-4bc9-a77d-d2c4e2ca2b65"
+}

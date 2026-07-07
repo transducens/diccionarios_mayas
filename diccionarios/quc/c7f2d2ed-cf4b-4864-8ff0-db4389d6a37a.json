@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tasaxik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Vendar con varias vueltas",
+  "definitionDialect": "",
+  "additional_text": "vtrD Kintasaaj Raíz PT Tas",
+  "examples": [
+    {
+      "example_maya": "Kintasaj li waqan cheh atzʼyaq, ma xa nusokom",
+      "example_spa": "Voy a vendarme el pie con tela porque me lo he herido",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7f2d2ed-cf4b-4864-8ff0-db4389d6a37a"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Spanyolibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Españoles",
+  "definitionDialect": "",
+  "additional_text": "snp",
+  "examples": [
+    {
+      "example_maya": "Spanyolibʼ kuʼchax ri winaq kepe pa Spany\"",
+      "example_spa": "Españoles, es el gentilicio de todas las personas que son de España",
+      "dialect": null
+    }
+  ],
+  "uuid": "33debc75-7322-4846-8089-4e290c0e9967"
+}

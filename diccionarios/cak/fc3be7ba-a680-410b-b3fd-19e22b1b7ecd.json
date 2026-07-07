@@ -1,0 +1,23 @@
+{
+  "entryWord": "Etzʼabʼäl",
+  "definition": "Juguete",
+  "additional_text": "scv Wetzʼabʼal Etzʼabʼäl",
+  "examples": [
+    {
+      "example_maya": "Taq kʼo retzʼabʼal jun akʼwal, nkikot",
+      "example_spa": "Cuando el niño tiene juguete, está contento",
+      "dialect": null
+    },
+    {
+      "example_maya": "Sibʼiläj kiwäch etzʼabʼäl kʼo",
+      "example_spa": "Hay muchas clases de juguetes",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc3be7ba-a680-410b-b3fd-19e22b1b7ecd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Lanok",
+  "definition": "Envolver, empacar",
+  "additional_text": "VTR Xinlan",
+  "examples": [
+    {
+      "example_maya": "Lanok poch yo lix Mar",
+      "example_spa": "María está envolviendo tamalitos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xinlan li tibʼ saʼ li mox",
+      "example_spa": "Envolví la carne en una hoja de maxán",
+      "dialect": null
+    }
+  ],
+  "uuid": "d364e076-4f7e-490d-b1b3-3770415227f0",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

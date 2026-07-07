@@ -1,0 +1,19 @@
+{
+  "entryWord": "Sanoʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar persona o coche gordo",
+  "definitionDialect": "",
+  "additional_text": "vi Kasaanoʼpik Raíz VI San",
+  "examples": [
+    {
+      "example_maya": "Li usanoʼpem li chaqʼa aq tzeʼbʼal rilik",
+      "example_spa": "El caminado del cerdo gordo es gracioso",
+      "dialect": null
+    }
+  ],
+  "uuid": "ad022c27-e0af-4d8b-bbce-f75540196afa"
+}

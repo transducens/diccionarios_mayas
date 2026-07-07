@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muquqem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Venir nubes sobre el suelo; bajar las nubes al suelo",
+  "definitionDialect": "",
+  "additional_text": "vi Kamuquqik Raíz P Muq",
+  "examples": [
+    {
+      "example_maya": "Pa taq saqʼij kuchap muquqem li sutzʼ",
+      "example_spa": "En verano empiezan a bajar las nubes",
+      "dialect": null
+    }
+  ],
+  "uuid": "c86309fa-27fe-4cf6-9618-efdf2597817a"
+}

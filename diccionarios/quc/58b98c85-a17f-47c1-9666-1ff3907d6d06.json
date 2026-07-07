@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jumjum",
+  "entryWordDialect": null,
+  "altEntryWord": "Jumum",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Juguete que consiste en una tabla delgada, amarrada a una pita",
+  "definitionDialect": "General",
+  "additional_text": "SInv Nujumjum Var",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xloqʼ jun ujumjum",
+      "example_spa": "Al niño le compraron un zumbador",
+      "dialect": null
+    }
+  ],
+  "uuid": "58b98c85-a17f-47c1-9666-1ff3907d6d06"
+}

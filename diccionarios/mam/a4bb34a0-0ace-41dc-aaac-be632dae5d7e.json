@@ -1,0 +1,23 @@
+{
+  "entryWord": "TʼAL WITZBʼAJ",
+  "definition": "lágrima, llanto",
+  "additional_text": "scl tʼal nwitza raíz tʼal s raíz witz s ds xumlalbʼaj",
+  "examples": [
+    {
+      "example_maya": "Mayax txutan tetz tʼal twitz tuʼn tlaj jun tal bʼich xiʼ naj",
+      "example_spa": "Le cayeron lágrimas por un pollito que se perdió",
+      "dialect": "Ixtahuacán"
+    },
+    {
+      "example_maya": "At maj nnetz tʼal witzbʼaj tuj jun witzikyʼ",
+      "example_spa": "A veces se derraman lágrimas en un sueño",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "a4bb34a0-0ace-41dc-aaac-be632dae5d7e",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqil",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Blancura; claridad",
+  "definitionDialect": "",
+  "additional_text": "= ssp Nusaqiil",
+  "examples": [
+    {
+      "example_maya": "Li nukamiʼx junam usaqil rukʼ li a wech",
+      "example_spa": "Mi camisa es de igual blancura que la tuya",
+      "dialect": null
+    }
+  ],
+  "uuid": "fdc31bfa-e886-4ca5-b9ac-34aa420a3533"
+}

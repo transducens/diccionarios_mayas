@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tzamiʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Nutzamiʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pelo canche o de mazorca; comida sin chile",
+  "definitionDialect": "",
+  "additional_text": "slov Var Tzayiʼm Utzamiʼyal jal",
+  "examples": [
+    {
+      "example_maya": "Li stranjeʼr sibʼalaj tzamiʼy li uwiʼ",
+      "example_spa": "El gringo tiene cabello canche",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uwiʼ li jal sibʼalaj tzamiʼy",
+      "example_spa": "El pelo del maíz es castaño",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xa tzamiʼy kutijoh",
+      "example_spa": "La comida del niño no tiene chile",
+      "dialect": null
+    }
+  ],
+  "uuid": "01fed918-4cbb-46b4-9f99-9055bd678d03"
+}

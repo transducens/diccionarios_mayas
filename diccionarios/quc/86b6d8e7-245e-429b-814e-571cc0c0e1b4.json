@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼuskayixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Azuzar al perro, ajotar, hostigar",
+  "definitionDialect": "general",
+  "additional_text": "VTD Kinbʼuskayiij Var Tumixik Var Tuwixik Del Cast Busca",
+  "examples": [
+    {
+      "example_maya": "Kinbʼuskayij bʼi li tzʼiʼ chrij li elaqʼom",
+      "example_spa": "Mandé al perro a hostigar al ladrón",
+      "dialect": null
+    }
+  ],
+  "uuid": "86b6d8e7-245e-429b-814e-571cc0c0e1b4"
+}

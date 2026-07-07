@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kamik",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukamik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "nukamikaal",
+  "altEntryWordDialect2": null,
+  "definition": "Muerte",
+  "definitionDialect": "",
+  "additional_text": "sinv Raíz vi Kam",
+  "examples": [
+    {
+      "example_maya": "Ri qakamikal na qetaʼm taj",
+      "example_spa": "El día de nuestra muerte no lo sabemos",
+      "dialect": null
+    }
+  ],
+  "uuid": "b03413fc-c1ca-4ead-a258-4dfe350dbae5"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qaxnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Qawnajem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al comer frutas duras",
+  "definitionDialect": "",
+  "additional_text": "vi Kaqaxnajik var Qawnajeem Raíz VT Qax",
+  "examples": [
+    {
+      "example_maya": "Li aq katajin kutij qʼoqʼ kaqaxnaj puchiʼ",
+      "example_spa": "El coche hace ruido al comer chilacayote",
+      "dialect": null
+    }
+  ],
+  "uuid": "e3188906-2ddc-4f02-bc14-2e7b5ddd0a8c"
+}

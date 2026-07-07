@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼexoj chʼabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cambiar de trato al hablar con una persona mayor",
+  "definitionDialect": "",
+  "additional_text": "vts Raíz VT Kʼex Raíz S Chʼaabʼal",
+  "examples": [
+    {
+      "example_maya": "Li achih xukʼex uchʼabʼal che li qʼatal tzij",
+      "example_spa": "El hombre cambió de trato al hablar con el señor Juez",
+      "dialect": null
+    }
+  ],
+  "uuid": "cea6e646-0d71-4267-bcfc-1da850e54a9e"
+}

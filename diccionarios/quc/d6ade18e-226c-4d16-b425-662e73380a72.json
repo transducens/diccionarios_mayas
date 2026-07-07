@@ -1,0 +1,19 @@
+{
+  "entryWord": "Patz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sonido de ave o animal cuadrúpedo al pisar hojas secas",
+  "definitionDialect": "",
+  "additional_text": "Al Sinón Xichʼ",
+  "examples": [
+    {
+      "example_maya": "Patz xubʼan li kuk are taq xukʼaq ribʼ pa li uxaq taq cheʼ chaqiʼj",
+      "example_spa": "Patz, hizo la ardilla al tirarse en las hojas secas",
+      "dialect": "Xich'"
+    }
+  ],
+  "uuid": "d6ade18e-226c-4d16-b425-662e73380a72"
+}

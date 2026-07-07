@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼajol",
+  "definition": "Hijo en general",
+  "additional_text": "sInv Inkʼajol Sinón Albʼej",
+  "examples": [
+    {
+      "example_maya": "Wankebʼ walal inkʼajol",
+      "example_spa": "Tengo hijos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼajoʼ ralal xkajol",
+      "example_spa": "Tiene muchos hijos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Josqʼebʼ ralal xkʼajol",
+      "example_spa": "Sus hijos son enojados",
+      "dialect": null
+    }
+  ],
+  "uuid": "a60b6eff-7100-4765-8b84-49e92decfb61",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

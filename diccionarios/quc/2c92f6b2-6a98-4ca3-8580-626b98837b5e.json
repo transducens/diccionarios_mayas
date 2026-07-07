@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sutibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusutibʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Incensario; capilla donde se paran las procesiones",
+  "definitionDialect": "",
+  "additional_text": "scv Raíz VT Sut",
+  "examples": [
+    {
+      "example_maya": "Li sutibʼal kʼo puʼ li chakitebʼ",
+      "example_spa": "El incensario está sobre la mesa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sutibʼal kawiq pa taq nimaqʼij we kʼo sutinem",
+      "example_spa": "Las capillas se adornan en las fiestas cuando hay procesiones",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c92f6b2-6a98-4ca3-8580-626b98837b5e"
+}

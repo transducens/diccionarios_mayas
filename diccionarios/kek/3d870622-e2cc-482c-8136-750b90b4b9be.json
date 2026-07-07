@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tzolom",
+  "definition": "Lección, alumno",
+  "additional_text": "SInv Intzolom",
+  "examples": [
+    {
+      "example_maya": "Laj tzolonel xkanabʼ intzolom re hulaj",
+      "example_spa": "El maestro me dejó una lección para mañana",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Jarubʼebʼ aatzolom?",
+      "example_spa": "¿Cuántos alumnos tenés?",
+      "dialect": null
+    }
+  ],
+  "uuid": "3d870622-e2cc-482c-8136-750b90b4b9be",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

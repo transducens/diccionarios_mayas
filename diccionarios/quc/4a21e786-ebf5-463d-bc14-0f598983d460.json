@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jurak",
+  "entryWordDialect": null,
+  "altEntryWord": "jurakaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una escarbada; un poquito (modismo); una peinada al final de un tejido para juntar los hilos",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz VT Rak",
+  "examples": [
+    {
+      "example_maya": "Pine xa jurak, karak kan li nuchak",
+      "example_spa": "Aunque sea un poquito, voy a hacer mi trabajo",
+      "dialect": null
+    }
+  ],
+  "uuid": "4a21e786-ebf5-463d-bc14-0f598983d460"
+}

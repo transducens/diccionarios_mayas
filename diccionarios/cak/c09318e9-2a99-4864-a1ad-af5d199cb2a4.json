@@ -1,0 +1,23 @@
+{
+  "entryWord": "Lokej",
+  "definition": "Llevar cosa torcida como la mano cuando está herida",
+  "additional_text": "vTD Ninlokej",
+  "examples": [
+    {
+      "example_maya": "Talokej el la aqʼaʼ chi aqul",
+      "example_spa": "Llévate tu mano colgada del cuello",
+      "dialect": null
+    },
+    {
+      "example_maya": "Taq nujalkʼatij ri aqʼaʼ, chöj nalokej roma ri manäq ütz ta nasiloj jebʼël",
+      "example_spa": "Cuando se te zafa la mano, la llevas con cuidado porque no puedes moverla bien",
+      "dialect": null
+    }
+  ],
+  "uuid": "c09318e9-2a99-4864-a1ad-af5d199cb2a4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

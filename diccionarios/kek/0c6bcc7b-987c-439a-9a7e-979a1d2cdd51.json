@@ -1,0 +1,23 @@
+{
+  "entryWord": "Maatan",
+  "definition": "Herencia, regalo",
+  "additional_text": "SInv Inmaatan",
+  "examples": [
+    {
+      "example_maya": "¿Kʼaru aamaatan xeʼ xkanabʼl aayuwaʼ",
+      "example_spa": "¿Qué herencia te dejaron tus padres?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Bʼanyox inmaatan",
+      "example_spa": "Gracias por el regalo",
+      "dialect": null
+    }
+  ],
+  "uuid": "0c6bcc7b-987c-439a-9a7e-979a1d2cdd51",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

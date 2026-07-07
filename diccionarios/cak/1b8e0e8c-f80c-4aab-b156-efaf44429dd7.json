@@ -1,0 +1,28 @@
+{
+  "entryWord": "Kʼuxlal",
+  "definition": "Memoria que se tiene de algunas cosas; recuerdo, presente algo en la memoria",
+  "additional_text": "ssp Rukʼuxlal var Kʼuʼx",
+  "examples": [
+    {
+      "example_maya": "Nikʼuje pa rukʼuxlal ri qakʼas",
+      "example_spa": "Vamos a tener presente nuestra deuda",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yalan nuyaʼ rukʼuxlal ri nimaqʼij",
+      "example_spa": "Le da mucha importancia a la fiesta",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri qateʼ qatataʼ jantapeʼ nikiyaʼ pa kikʼuxlal ri kamnaqiʼ",
+      "example_spa": "Nuestros antepasados siempre tenían en memoria a los difuntos",
+      "dialect": null
+    }
+  ],
+  "uuid": "1b8e0e8c-f80c-4aab-b156-efaf44429dd7",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

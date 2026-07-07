@@ -1,0 +1,19 @@
+{
+  "entryWord": "Antyoj",
+  "entryWordDialect": null,
+  "altEntryWord": "Wantyoj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Anteojos; mis anteojos",
+  "definitionDialect": "General",
+  "additional_text": "sInv Del Cast Anteojos",
+  "examples": [
+    {
+      "example_maya": "Xpax li wantyoj are taq xintzaqik",
+      "example_spa": "Cuando me caí, se quebraron mis anteojos",
+      "dialect": null
+    }
+  ],
+  "uuid": "2bb966ea-26ad-4d3b-afeb-02d72df5ab38"
+}

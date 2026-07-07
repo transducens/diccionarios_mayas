@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tenamit",
+  "definition": "Pueblo",
+  "additional_text": "SInv Intenamit",
+  "examples": [
+    {
+      "example_maya": "Xikqe saʼ tenamit",
+      "example_spa": "Ya nos vamos al pueblo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Nahulak chi-wu wank saʼ tenamit",
+      "example_spa": "Me gusta estar en el pueblo",
+      "dialect": null
+    }
+  ],
+  "uuid": "7587280a-0096-4c5f-ba38-f40d00f30e8a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

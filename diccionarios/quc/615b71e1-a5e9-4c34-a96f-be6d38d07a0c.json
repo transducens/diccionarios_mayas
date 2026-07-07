@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tʼanmaʼyem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar un gordito o uno descalzo",
+  "definitionDialect": "",
+  "additional_text": "vi Katʼanmaʼyik",
+  "examples": [
+    {
+      "example_maya": "Li ixoq katʼanmaʼy pa li nima bʼeh",
+      "example_spa": "La mujer anda descalza por la carretera",
+      "dialect": null
+    }
+  ],
+  "uuid": "615b71e1-a5e9-4c34-a96f-be6d38d07a0c"
+}

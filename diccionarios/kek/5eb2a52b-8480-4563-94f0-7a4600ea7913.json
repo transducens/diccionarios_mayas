@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pajajnak",
+  "definition": "Regarse granos andando, caer la lluvia",
+  "additional_text": "vi Napajajnak",
+  "examples": [
+    {
+      "example_maya": "Napajajnak li ixim saʼ bʼe",
+      "example_spa": "Se ve una hilera de maíz regado en el camino",
+      "dialect": null
+    },
+    {
+      "example_maya": "Napajajnak li habʼ saʼ xbʼeen li laamn",
+      "example_spa": "La lluvia cae sobre la lámina",
+      "dialect": null
+    }
+  ],
+  "uuid": "5eb2a52b-8480-4563-94f0-7a4600ea7913",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -5,8 +5,6 @@ document.getElementById('wordInput').addEventListener('keypress', function(e) {
 
 /**
  * Helper function to normalize text (Fuzzy Matching).
- * Converts to lowercase, unifies apostrophe types, removes accents,
- * and strips parenthetical dictionary notes like "(tat)".
  */
 function normalizeText(text) {
     if (!text) return '';
@@ -15,7 +13,7 @@ function normalizeText(text) {
         .trim()
         .replace(/[ʼ’‘`´]/g, "'") // Unifies varying glottal stop characters
         .normalize("NFD")          // Decomposes accented characters
-        .replace(/[\u0300-\u036f]/g, "") // Removes the isolated accents
+        .replace(/[\u0300-\u036f]/g, "") // Removes isolated accents
         .replace(/\s*\(.*?\)\s*/g, "");  // Strips tracking tags like "(tat)"
 }
 
@@ -38,39 +36,56 @@ function lookupWord() {
 
     const cleanUserInput = normalizeText(userInput);
 
-    fetch(`diccionarios/${language}.json`)
+    // STEP 1: Fetch the small index map file
+    fetch(`diccionarios/${language}_index.json`)
         .then(response => {
-            if (!response.ok) throw new Error("Archivo de diccionario no encontrado.");
+            if (!response.ok) throw new Error("Índice del diccionario no encontrado.");
             return response.json();
         })
-        .then(data => {
-            // Update Dictionary Metadata dynamically from JSON header
-            document.getElementById('dictionaryTitle').textContent = data.headline;
-            const authorNames = data.author.map(a => a.name).join(', ');
-            document.getElementById('dictionaryAuthor').textContent = `Por: ${authorNames} (${data.publisher.name})`;
-
-            const entries = data.content.body;
-
-            // 1. Fuzzy and Substring search filtering
-            const allMatches = entries.filter(entry => {
-                const cleanEntry = normalizeText(entry.entryWord);
-                return cleanEntry === cleanUserInput || cleanEntry.includes(cleanUserInput);
+        .then(indexData => {
+            // Filter the index for fuzzy matching entries
+            const allMatches = indexData.filter(item => {
+                const cleanIndexWord = normalizeText(item.word);
+                return cleanIndexWord === cleanUserInput || cleanIndexWord.includes(cleanUserInput);
             });
 
-            // 2. Performance & UI Cap: slice down to top 5 results
+            // Limit to top 5 matches
             const topMatches = allMatches.slice(0, 5);
 
-            // 3. Render matching entries
-            if (topMatches.length > 0) {
-                topMatches.forEach(entry => displayResultCard(entry, resultBox));
-                resultBox.classList.remove('hidden');
-            } else {
+            if (topMatches.length === 0) {
                 showError(`No se encontraron resultados para "${userInput}".`);
+                return;
             }
+
+            // STEP 2: Fire parallel fetch requests for the specific entry JSON files via their UUID
+            const fetchPromises = topMatches.map(match => {
+                return fetch(`diccionarios/${language}/${match.uuid}.json`)
+                    .then(res => {
+                        if (!res.ok) throw new Error(`No se pudo cargar la entrada: ${match.word}`);
+                        return res.json();
+                    });
+            });
+
+            // Wait for all individual files to download, then render them together
+            return Promise.all(fetchPromises);
+        })
+        .then(fullEntries => {
+            if (!fullEntries) return; // Caught by previous empty check
+
+            // Hack to dynamically populate header info using metadata from the first entry
+            // if your individual files still retain dictionary properties, otherwise customize.
+            if(fullEntries[0]) {
+               document.getElementById('dictionaryTitle').textContent = "Diccionario bilingüe";
+               document.getElementById('dictionaryAuthor').textContent = "Proyecto Lingüístico Francisco Marroquín";
+            }
+
+            // Render all matching cards to the container
+            fullEntries.forEach(entry => displayResultCard(entry, resultBox));
+            resultBox.classList.remove('hidden');
         })
         .catch(error => {
             console.error(error);
-            showError("Ocurrió un error al cargar el diccionario.");
+            showError("Ocurrió un error al buscar la palabra o cargar los fragmentos.");
         });
 }
 

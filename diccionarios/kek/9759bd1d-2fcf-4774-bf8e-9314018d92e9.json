@@ -1,0 +1,23 @@
+{
+  "entryWord": "Sum",
+  "definition": "Compañero de trabajo, novio, novia; informal, amante de mujer o del hombre",
+  "additional_text": "SInv Insum",
+  "examples": [
+    {
+      "example_maya": "Maakʼaʼ insum re kʼanjelak hulaj",
+      "example_spa": "No tengo compañero para trabajar mañana",
+      "dialect": null
+    },
+    {
+      "example_maya": "A ixq aʼan wan xsum",
+      "example_spa": "Esa mujer tiene amante",
+      "dialect": null
+    }
+  ],
+  "uuid": "9759bd1d-2fcf-4774-bf8e-9314018d92e9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

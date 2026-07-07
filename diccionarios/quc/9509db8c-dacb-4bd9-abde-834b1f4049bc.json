@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ukowil bʼaq",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hueso duro",
+  "definitionDialect": "General",
+  "additional_text": "sds Ant Uqʼijil bʼaaq Raíz Adj Kow Raíz S Bʼaaq",
+  "examples": [
+    {
+      "example_maya": "Li bʼaq kʼo chwa qachʼek ukowil bʼaq",
+      "example_spa": "El hueso de la canilla es muy duro",
+      "dialect": null
+    }
+  ],
+  "uuid": "9509db8c-dacb-4bd9-abde-834b1f4049bc"
+}

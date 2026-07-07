@@ -1,0 +1,19 @@
+{
+  "entryWord": "Takʼabʼaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintakʼabʼaʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Parar a una persona o cosa",
+  "definitionDialect": "",
+  "additional_text": "vt Raíz P Takʼ",
+  "examples": [
+    {
+      "example_maya": "Li yowabʼ na karaj ta chi takʼabʼaxik",
+      "example_spa": "El enfermo ya no se quiere parar",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd75da14-7ad9-4cac-94f7-53a411d8668e"
+}

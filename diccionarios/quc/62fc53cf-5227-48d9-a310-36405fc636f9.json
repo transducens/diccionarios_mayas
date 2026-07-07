@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xtapakal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuxtapakal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ixtapacal (frijol de costa)",
+  "definitionDialect": "Dom.S. Kinaq'.",
+  "additional_text": "scv",
+  "examples": [
+    {
+      "example_maya": "Li xtapakal pa miqʼina juyubʼ kakʼiy wih xuq nimaʼq",
+      "example_spa": "El ixtapacal crece en tierra caliente y es grande",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li xtapakal utz kabʼan pa jokʼoʼm xuq puwaʼal",
+      "example_spa": "El ixtapacal se puede hacer en recado, también en caldo",
+      "dialect": null
+    }
+  ],
+  "uuid": "62fc53cf-5227-48d9-a310-36405fc636f9"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Junam",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Mismo; igual; junto; parecido",
+  "definitionDialect": "",
+  "additional_text": "Adj",
+  "examples": [
+    {
+      "example_maya": "Li kebʼ aʼlaxik xaq junam kaqan",
+      "example_spa": "Las dos hermanas son iguales de estatura",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li kakʼulaj xajabʼ xaq junam",
+      "example_spa": "Los dos pares de zapatos son parecidos",
+      "dialect": null
+    }
+  ],
+  "uuid": "07a6913a-bd3c-41ec-aec3-cf3d2c5c6044"
+}

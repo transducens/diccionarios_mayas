@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yututexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinyututej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Agarrar con fuerza una cosa",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz VT Yut",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xayututej li utzaʼm li aq, ma xa sibʼalaj kawitzʼinik",
+      "example_spa": "La mujer agarró con fuerza la trompa del marrano, porque grita mucho",
+      "dialect": null
+    }
+  ],
+  "uuid": "4234a44e-a3d3-46de-ab39-11170aa12876"
+}

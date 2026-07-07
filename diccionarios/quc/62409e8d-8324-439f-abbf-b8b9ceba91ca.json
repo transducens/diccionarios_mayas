@@ -1,0 +1,24 @@
+{
+  "entryWord": "Rokʼolik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xrokʼiʼk,",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xurokʼobʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Desnudo; estarse desnudo",
+  "definitionDialect": "general",
+  "additional_text": "p Var Chʼanalik Raiz PT Rokʼ",
+  "examples": [
+    {
+      "example_maya": "Li alah xrokʼiʼ chuchi li poloh ma xa katinik",
+      "example_spa": "El muchacho se desnudó en la orilla del mar porque se va a bañar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal rokʼol pa li atinibʼal",
+      "example_spa": "El niño está desnudo en el baño",
+      "dialect": null
+    }
+  ],
+  "uuid": "62409e8d-8324-439f-abbf-b8b9ceba91ca"
+}

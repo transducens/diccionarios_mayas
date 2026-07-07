@@ -1,0 +1,33 @@
+{
+  "entryWord": "Chʼonïk",
+  "definition": "Hablar, expresar En algunas variantes dialectales se dice yichʼo, otras yichʼon",
+  "additional_text": "vi Chʼonen, yichʼoʼn var Chʼowenïk, tzijonïk",
+  "examples": [
+    {
+      "example_maya": "Taq kʼo ninwajoʼ, kʼo chi yichʼoʼn",
+      "example_spa": "Cuando quiero algo, necesito hablar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Konojel ri winäq taq kow yechʼoʼn, jantapeʼ koyowal bʼaʼ",
+      "example_spa": "Cuando las personas hablan en vos alta, casi siempre están enojadas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin kʼa runaj xichʼon taq xikʼiy",
+      "example_spa": "Yo hablé muy tarde",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼow chʼonïk",
+      "example_spa": "Hablar recio, en voz alta",
+      "dialect": null
+    }
+  ],
+  "uuid": "290e5981-a1af-4efc-9598-29d7d659cb92",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

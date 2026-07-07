@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xajik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Acontecer; suceder, ocurrir, acaecer, sobrevenir; prestar servicios, como de cofrade, alcalde, etc",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinxajoh",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kʼi uwach xinxajoh are taq kʼinchʼinoq",
+      "example_spa": "Cuando yo era pequeño me sucedieron muchas cosas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Junabʼir xinxaj kan chʼamiʼyal",
+      "example_spa": "El año pasado presté servicio de alguacil",
+      "dialect": null
+    }
+  ],
+  "uuid": "4798fed7-5738-47ca-89eb-988faee47023"
+}

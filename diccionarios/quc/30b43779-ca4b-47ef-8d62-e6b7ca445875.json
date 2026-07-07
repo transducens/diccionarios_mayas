@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼiqʼonel",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Animal feroz",
+  "definitionDialect": "",
+  "additional_text": "SAgen Raíz VT Bʼiqʼ",
+  "examples": [
+    {
+      "example_maya": "Li bʼalam jun bʼiqʼonel chkop",
+      "example_spa": "El tigre es un animal feroz",
+      "dialect": null
+    }
+  ],
+  "uuid": "30b43779-ca4b-47ef-8d62-e6b7ca445875"
+}

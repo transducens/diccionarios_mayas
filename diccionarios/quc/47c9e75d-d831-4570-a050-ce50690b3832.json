@@ -1,0 +1,19 @@
+{
+  "entryWord": "Utzʼikin tyox",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Golondrina",
+  "definitionDialect": "",
+  "additional_text": "s Raíz S Tzʼikin Raíz S Yoox DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li utzʼikin tyox pa taq ukʼolʼbʼal kampan kakibʼan wi kisok",
+      "example_spa": "Las golondrinas hacen sus nidos en los campanarios",
+      "dialect": null
+    }
+  ],
+  "uuid": "47c9e75d-d831-4570-a050-ce50690b3832"
+}

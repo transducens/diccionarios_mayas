@@ -1,0 +1,34 @@
+{
+  "entryWord": "Naʼbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sentido",
+  "definitionDialect": "",
+  "additional_text": "scv Nunaʼbʼaal Imp VR Raíz S Naʼ",
+  "examples": [
+    {
+      "example_maya": "Li winaq kʼo kinaʼbʼal xuqe li chikop",
+      "example_spa": "Las personas tienen sentidos y también los animales",
+      "dialect": null
+    },
+    {
+      "example_maya": "Are noʼwnaq",
+      "example_spa": "Ha sentido; sintió",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chanaʼaʼ",
+      "example_spa": "Probálo, tentálo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xunaʼ ribʼ",
+      "example_spa": "Se golpeó, se lastimó (parte del cuerpo)",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc38245f-0521-47a1-b306-f3c86b2ab68f"
+}

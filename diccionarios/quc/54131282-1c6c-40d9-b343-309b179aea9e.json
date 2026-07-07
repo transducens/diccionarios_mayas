@@ -1,0 +1,24 @@
+{
+  "entryWord": "Lus",
+  "entryWordDialect": null,
+  "altEntryWord": "Nulus",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Luz; lumbre; electricidad",
+  "definitionDialect": "Español",
+  "additional_text": "sInv Var Kaʼybʼal Del Cast Luz",
+  "examples": [
+    {
+      "example_maya": "Li lus kʼo pa taq li tinamit xa re jaʼ",
+      "example_spa": "La luz para los pueblos, se genera de la hidroeléctrica",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li bʼinel chʼichʼ nimaʼq li ulus naj kakaʼyik",
+      "example_spa": "Las luces del carro alumbran mucho, porque son grandes",
+      "dialect": null
+    }
+  ],
+  "uuid": "54131282-1c6c-40d9-b343-309b179aea9e"
+}

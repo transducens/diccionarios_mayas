@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oʼoh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lástima; no me digás",
+  "definitionDialect": "General",
+  "additional_text": "Exp Coment Expletivo con significado de susto",
+  "examples": [
+    {
+      "example_maya": "Oʼoh xqʼabʼar chi li achih",
+      "example_spa": "Lástima que se emboló otra vez el hombre",
+      "dialect": null
+    }
+  ],
+  "uuid": "b97a5748-336c-423c-8c17-dd656580c978"
+}

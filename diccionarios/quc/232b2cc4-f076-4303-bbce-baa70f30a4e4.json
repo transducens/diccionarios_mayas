@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ajqʼaqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona que quema bombas por devoción y costumbre",
+  "definitionDialect": "General",
+  "additional_text": "SAgen Raíz S Qʼaaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li ajqʼaqʼibʼ xkiporoj qʼaqʼ pa nimaqʼij ajrewesyon",
+      "example_spa": "Los hombres quemaron bombas en la fiesta por devoción",
+      "dialect": null
+    }
+  ],
+  "uuid": "232b2cc4-f076-4303-bbce-baa70f30a4e4"
+}

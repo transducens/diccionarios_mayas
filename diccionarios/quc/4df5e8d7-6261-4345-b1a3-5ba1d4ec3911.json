@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tzatztzoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Medio espeso",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz Adj Tzatz",
+  "examples": [
+    {
+      "example_maya": "Li qʼor tzatztzoj utz utijowik",
+      "example_spa": "El atol medio espeso es muy sabroso",
+      "dialect": null
+    }
+  ],
+  "uuid": "4df5e8d7-6261-4345-b1a3-5ba1d4ec3911"
+}

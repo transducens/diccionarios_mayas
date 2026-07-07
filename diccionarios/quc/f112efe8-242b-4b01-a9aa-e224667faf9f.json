@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼisis",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼisis",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ciprés",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li kʼisis, kachokon li uxag che wiqobʼal",
+      "example_spa": "Las ramas del ciprés se usan como adorno",
+      "dialect": null
+    }
+  ],
+  "uuid": "f112efe8-242b-4b01-a9aa-e224667faf9f"
+}

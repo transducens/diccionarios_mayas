@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jalwachixik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cambiar una cosa por otra",
+  "definitionDialect": "",
+  "additional_text": "vtd Kinjalwachij Sinón Kʼeexik",
+  "examples": [
+    {
+      "example_maya": "Li wachalal xujalwachij li powiʼ rukʼ jun kamiʼx",
+      "example_spa": "Mi hermano cambió su sombrero por una camisa",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf3bb988-ab26-4d20-aae5-13d8f74396b1"
+}

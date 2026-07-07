@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼaqalik",
+  "entryWordDialect": null,
+  "altEntryWord": "Xchʼaqiʼk",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "xuchʼaqabʼaʼ",
+  "altEntryWordDialect2": null,
+  "definition": "Mojado",
+  "definitionDialect": "General",
+  "additional_text": "p Raiz P Chʼaq",
+  "examples": [
+    {
+      "example_maya": "Li ukamiʼx li akʼal xchʼaqiʼk, ma xa xetzʼan chwa li jabʼ",
+      "example_spa": "El niño tiene mojada la camisa porque jugó bajo la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "5596ecdd-d594-4a2e-a76e-df0561fa7541"
+}

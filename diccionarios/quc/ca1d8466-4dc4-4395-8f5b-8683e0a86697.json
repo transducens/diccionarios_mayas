@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ubʼaqʼ wachaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Ubʼaqʼ nuwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Ojo",
+  "definitionDialect": "",
+  "additional_text": "sds Sinón Wach DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li ubʼaqʼ wach li achih xpichʼin rumal jun cheʼ",
+      "example_spa": "El hombre se destripó el ojo con un palo",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Kasutin uwach",
+      "example_spa": "Empezar a embolarse; tener goma (modismo)",
+      "dialect": null
+    }
+  ],
+  "uuid": "ca1d8466-4dc4-4395-8f5b-8683e0a86697"
+}

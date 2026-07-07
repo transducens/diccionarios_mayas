@@ -1,0 +1,18 @@
+{
+  "entryWord": "XNUQ",
+  "definition": "señor",
+  "additional_text": "s1 nxnuqa Dialecto de Colotenango",
+  "examples": [
+    {
+      "example_maya": "Mitiʼ ma tzul xnuq kʼayal lanch",
+      "example_spa": "No vino el señor a vender naranjas",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "0db0cf22-92b9-4f92-b052-f6df308914f9",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

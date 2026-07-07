@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kʼas",
+  "definition": "Deuda, puntos",
+  "additional_text": "sInv Inkʼas",
+  "examples": [
+    {
+      "example_maya": "Wan inkʼas rikʼineb aj kʼay",
+      "example_spa": "Tengo deuda con los vendedores",
+      "dialect": null
+    },
+    {
+      "example_maya": "Laj Kuxʼ an jwal aj kʼas",
+      "example_spa": "Marcos está muy",
+      "dialect": null
+    }
+  ],
+  "uuid": "7ef3eb2f-9867-48f1-ab1a-e0890eb4f73b",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juruk",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una movida a cosa líquida",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz VT Ruk",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq juruk xuya che li kapeh xaq si xjaʼr li kabʼ",
+      "example_spa": "La mujer le dio una sola movida al café y luego se deshizo la panela",
+      "dialect": null
+    }
+  ],
+  "uuid": "a7247987-4332-4ac9-a870-d75706e2f1d8"
+}

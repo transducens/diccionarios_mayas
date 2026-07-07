@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chowix",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Semillero (pájaro)",
+  "definitionDialect": "",
+  "additional_text": "sInv Nuchoowiix DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li chowix kukʼot li awex",
+      "example_spa": "El semillero escarba la siembra",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c4ff853-28c1-4b63-8b69-f941744cbdf6"
+}

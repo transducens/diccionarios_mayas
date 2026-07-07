@@ -1,0 +1,19 @@
+{
+  "entryWord": "Paqʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kapaqʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hacer ruido al rajar leña",
+  "definitionDialect": "General",
+  "additional_text": "vi Potzʼnajeem Raíz VI Paqʼ",
+  "examples": [
+    {
+      "example_maya": "Li achih kapaqʼnaj pa taq kʼacheʼlaj",
+      "example_spa": "El hombre está haciendo ruido al rajar leña en la montaña",
+      "dialect": null
+    }
+  ],
+  "uuid": "ca6d55f0-37de-46a1-8094-6f497f8e7b90"
+}

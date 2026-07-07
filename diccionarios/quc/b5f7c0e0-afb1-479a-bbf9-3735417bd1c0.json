@@ -1,0 +1,19 @@
+{
+  "entryWord": "Silkopin ibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Voltearse",
+  "definitionDialect": "",
+  "additional_text": "vRefl Raíz VT Sil Raíz Refl Iibʼ",
+  "examples": [
+    {
+      "example_maya": "Li yowabʼ kusilkopij ribʼ pa li uchʼat",
+      "example_spa": "El enfermo va a voltearse en la cama",
+      "dialect": null
+    }
+  ],
+  "uuid": "b5f7c0e0-afb1-479a-bbf9-3735417bd1c0"
+}

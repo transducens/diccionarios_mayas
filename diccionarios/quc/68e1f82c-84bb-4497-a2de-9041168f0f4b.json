@@ -1,0 +1,19 @@
+{
+  "entryWord": "=Qʼabʼil",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼabʼil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Persona o cosa necesaria o indispensable",
+  "definitionDialect": "es",
+  "additional_text": "ssP Raíz S Qʼabʼ",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj kʼo nuqʼabʼil chikixoʼl li winaq",
+      "example_spa": "Siempre soy indispensable entre la gente",
+      "dialect": null
+    }
+  ],
+  "uuid": "68e1f82c-84bb-4497-a2de-9041168f0f4b"
+}

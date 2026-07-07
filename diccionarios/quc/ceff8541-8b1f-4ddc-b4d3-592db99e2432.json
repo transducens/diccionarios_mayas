@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qolnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqolnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar pedazos de objeto duro",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz VT Qol",
+  "examples": [
+    {
+      "example_maya": "Li alah tajin kaqolnaj cheh jun cheʼ",
+      "example_spa": "El muchacho está emparejando un palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ceff8541-8b1f-4ddc-b4d3-592db99e2432"
+}

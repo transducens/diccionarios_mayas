@@ -1,0 +1,29 @@
+{
+  "entryWord": "Tʼiʼtotem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katiʼtotik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Odiar; aborrecer, resentimiento, abominar, tener rencor",
+  "definitionDialect": "General",
+  "additional_text": "vt Raíz Vl Tiʼ",
+  "examples": [
+    {
+      "example_maya": "Katiʼtot ranima",
+      "example_spa": "Lo odia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katiʼtot kunaʼ cheh",
+      "example_spa": "Lo odia",
+      "dialect": null
+    },
+    {
+      "example_maya": "Katiʼtot kunaʼ li achih, chech li ukʼulil",
+      "example_spa": "El hombre odia a su enemigo",
+      "dialect": null
+    }
+  ],
+  "uuid": "eed10873-8d0c-4bd1-a8a6-b27605b4c633"
+}

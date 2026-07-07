@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tiqik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Añadir; agregar; conectar; unir",
+  "definitionDialect": "Spanish",
+  "additional_text": "vtr Kintiqoh Var Wiiqik Raíz VT Tiq",
+  "examples": [
+    {
+      "example_maya": "Li ixoq kutiq li utzaʼm li bʼatzʼ",
+      "example_spa": "La mujer une las puntas del hilo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e0a9ae0f-8689-489a-b9c5-7a4c387b802a"
+}

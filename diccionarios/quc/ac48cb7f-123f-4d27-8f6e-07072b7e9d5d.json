@@ -1,0 +1,19 @@
+{
+  "entryWord": "Pajal kʼix",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Guaguaplato (tipo de arbusto espinoso); güis",
+  "definitionDialect": "General",
+  "additional_text": "SNP DomS Qʼayees",
+  "examples": [
+    {
+      "example_maya": "Li pajal kʼix kʼo uwach, kakikoj akʼalabʼ che nakʼbʼal taq kipapeloʼt",
+      "example_spa": "El guaguaplato tiene frutos que sirve para pegamento, que usan los niños para barriletes",
+      "dialect": null
+    }
+  ],
+  "uuid": "ac48cb7f-123f-4d27-8f6e-07072b7e9d5d"
+}

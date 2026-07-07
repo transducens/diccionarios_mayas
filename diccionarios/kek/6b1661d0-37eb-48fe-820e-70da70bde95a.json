@@ -1,0 +1,18 @@
+{
+  "entryWord": "Pos",
+  "definition": "Pulmón de animal para comida",
+  "additional_text": "SInv Inpos",
+  "examples": [
+    {
+      "example_maya": "Xinloqʼ jun liiwr li pos wakax",
+      "example_spa": "Compré una libra de pulmón de res",
+      "dialect": null
+    }
+  ],
+  "uuid": "6b1661d0-37eb-48fe-820e-70da70bde95a",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

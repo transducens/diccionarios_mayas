@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ketet",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuketet",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Rueda (juguete)",
+  "definitionDialect": "general",
+  "additional_text": "SInv Raíz P Ket DomS Etzʼabʼaʼl",
+  "examples": [
+    {
+      "example_maya": "Li akʼal kʼo jun uketet karetzʼabʼej",
+      "example_spa": "El niño tiene una rueda para jugar",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ac2f526-4313-488a-ae7f-a704e1c21d9f"
+}

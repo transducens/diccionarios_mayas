@@ -1,0 +1,19 @@
+{
+  "entryWord": "Aqʼer",
+  "entryWordDialect": null,
+  "altEntryWord": "Waqʼer",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Primera limpia, mi primera limpia",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Chaak",
+  "examples": [
+    {
+      "example_maya": "Chweʼq kintaqej waqʼer",
+      "example_spa": "Mañana comienzo la primera limpia de la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "24e3043b-e879-4e48-a034-0e380ecccd61"
+}

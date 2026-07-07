@@ -1,0 +1,24 @@
+{
+  "entryWord": "Ranraʼx",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Panzudo; abultado",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Ran",
+  "examples": [
+    {
+      "example_maya": "Li reqaʼn li alah jun nima ranraʼx",
+      "example_spa": "La carga del muchacho es abultada",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Ranraʼx uwa raʼ",
+      "example_spa": "Cintura muy alta",
+      "dialect": null
+    }
+  ],
+  "uuid": "79233be0-8889-49cc-8e63-6dcd8b493f6b"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Yaʼal",
+  "definition": "Caldo, jugo, trementina, resina, savia",
+  "additional_text": "SInv Inyaʼal",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ jultik we kʼaru aj yaʼal xinkʼe chi ru intiiqʼ",
+      "example_spa": "No recuerdo savia de que le eché a mi herida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kʼe chik bʼayaq ixyaʼal inkenqʼ",
+      "example_spa": "Dame más caldo de frijol",
+      "dialect": null
+    }
+  ],
+  "uuid": "4bedff5d-0a2a-46aa-b791-54b2a5d4e511",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

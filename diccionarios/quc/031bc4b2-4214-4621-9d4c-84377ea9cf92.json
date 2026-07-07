@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tatabʼal",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Padrastro",
+  "definitionDialect": "",
+  "additional_text": "sInv Nutatabʼal Raíz s Taat DomS Alaxik",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xkam utat, xa utatabʼal chik kʼolik",
+      "example_spa": "Se murió el padre del niño, sólo padrastro tiene",
+      "dialect": null
+    }
+  ],
+  "uuid": "031bc4b2-4214-4621-9d4c-84377ea9cf92"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼatzʼnajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kabʼatzʼnajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con vestido muy apretado",
+  "definitionDialect": "General",
+  "additional_text": "vi Sinón Bʼatzʼmaʼyeem Sinón Latzʼakateem Sinón Lutzʼukuteem",
+  "examples": [
+    {
+      "example_maya": "Li ali kabatzʼnaj pa le ratzʼyaq",
+      "example_spa": "La muchacha anda con el vestido apretado",
+      "dialect": null
+    }
+  ],
+  "uuid": "f530bd96-2796-433a-8e68-e7517cc26b23"
+}

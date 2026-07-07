@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼanaʼl",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuqʼanaʼl",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pico de pájaro (planta con hojas parecidas a las del banano)",
+  "definitionDialect": "",
+  "additional_text": "slov DomS Tzʼalik",
+  "examples": [
+    {
+      "example_maya": "Li qʼanaʼl kachokon cheh subʼabʼal wah",
+      "example_spa": "La hoja del pico de pájaro se usa para envolver tamales",
+      "dialect": null
+    }
+  ],
+  "uuid": "548f2e04-fa9e-484c-bfd1-671ffdbd8347"
+}

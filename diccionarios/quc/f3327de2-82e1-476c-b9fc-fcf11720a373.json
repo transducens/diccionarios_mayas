@@ -1,0 +1,19 @@
+{
+  "entryWord": "Eeqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Cicatriz no muy pequeña",
+  "definitionDialect": "Español",
+  "additional_text": "SInv Reeqʼ Var Yuuk",
+  "examples": [
+    {
+      "example_maya": "Li achih kʼo reqʼ chupalaj",
+      "example_spa": "El hombre tiene una cicatriz en la cara",
+      "dialect": null
+    }
+  ],
+  "uuid": "f3327de2-82e1-476c-b9fc-fcf11720a373"
+}

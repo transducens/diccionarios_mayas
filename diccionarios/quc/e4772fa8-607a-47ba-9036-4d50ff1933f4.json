@@ -1,0 +1,19 @@
+{
+  "entryWord": "Nin",
+  "entryWordDialect": null,
+  "altEntryWord": "Uninol",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hediondo a metal, grasa, yema de huevo o aceite",
+  "definitionDialect": "General",
+  "additional_text": "Adj Fbas //Nihn//",
+  "examples": [
+    {
+      "example_maya": "Li ruxlabʼ li muruh nin",
+      "example_spa": "El olor del machete es hediondo",
+      "dialect": null
+    }
+  ],
+  "uuid": "e4772fa8-607a-47ba-9036-4d50ff1933f4"
+}

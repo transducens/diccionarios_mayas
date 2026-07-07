@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tziyaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kintziyaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar la cáscara de maíz o de haba; cocer maíz o habas y otras cosas a las que se les quita la cáscara en esta forma",
+  "definitionDialect": "",
+  "additional_text": "vtd Raíz S Tzih",
+  "examples": [
+    {
+      "example_maya": "Kintziyaj na li jobʼ librʼ ixim",
+      "example_spa": "Voy a cocer las cinco libras de maíz",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li ixoq na naj taj kutziyaj li tzih, xa je riʼ utz kel li ulij",
+      "example_spa": "La mujer cuece poco tiempo el nixtamal, por eso salen buenas las tortillas",
+      "dialect": null
+    }
+  ],
+  "uuid": "adb81a29-e97c-423e-a80d-5d242d4d9ca7"
+}

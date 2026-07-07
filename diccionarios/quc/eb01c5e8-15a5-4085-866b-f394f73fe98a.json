@@ -1,0 +1,19 @@
+{
+  "entryWord": "Munibʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Numunibʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Manzana de Adán",
+  "definitionDialect": "",
+  "additional_text": "SCV Raíz S Muun DomS Bʼaqilaaj",
+  "examples": [
+    {
+      "example_maya": "Li munibʼal xaq xew li achijabʼ kʼo kech",
+      "example_spa": "La manzana de Adán, sólo la tienen los hombres",
+      "dialect": null
+    }
+  ],
+  "uuid": "eb01c5e8-15a5-4085-866b-f394f73fe98a"
+}

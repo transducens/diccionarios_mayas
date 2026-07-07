@@ -1,0 +1,29 @@
+{
+  "entryWord": "Taj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partícula contrafactual, negativa",
+  "definitionDialect": "",
+  "additional_text": "Part Coment Se pronuncia taj al final de la frase, ta dentro de frases significa que no se actualiza la situación expresada por la oración Acompañado de na funciona como negación en oraciones indicativas Sin na forma el modo subjuntivo Taj siempre se pospone a otra palabra",
+  "examples": [
+    {
+      "example_maya": "Na kinbʼe taj",
+      "example_spa": "No me voy",
+      "dialect": null
+    },
+    {
+      "example_maya": "Na kinbʼe ta chik",
+      "example_spa": "Ya no me voy",
+      "dialect": null
+    },
+    {
+      "example_maya": "We ta xtzalij chi nah, xkunax ta na kʼu riʼ",
+      "example_spa": "Si hubiera regresado, habría sido curado",
+      "dialect": null
+    }
+  ],
+  "uuid": "d2c5f1ab-3b32-42cd-be46-4ea5b11eba9c"
+}

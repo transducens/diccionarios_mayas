@@ -1,0 +1,19 @@
+{
+  "entryWord": "Wuqʼuʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar agachado",
+  "definitionDialect": "",
+  "additional_text": "vi Kawuuqʼuʼpik",
+  "examples": [
+    {
+      "example_maya": "Li elaqʼom kawuqʼuʼp pa taq li abʼix",
+      "example_spa": "El ladrón camina agachado entre la milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "0e4b0876-fce9-4e2c-9b73-d17dc4d48e97"
+}

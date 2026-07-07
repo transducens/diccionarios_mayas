@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kaqix",
+  "definition": "Guacamaya, guacamayo Hongo comestible de color un poco rosado que se encuentra bajo los pinos",
+  "additional_text": "sInv Nukaqix Xikʼanel, tzʼikin, chiköp",
+  "examples": [
+    {
+      "example_maya": "Ri kaqix jun xikʼalik chiköp kʼo pa taq kʼechelaj chi laʼ Peten",
+      "example_spa": "El guacamayo es un ave que vive en las montañas de El Petén",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri kaqix jun chiköp nïm, oxiʼ ruwäch rutzubʼal ri rusumal: käq, qʼän, rikʼin xar",
+      "example_spa": "La guacamaya es un ave grande, con tres colores en el plumaje: rojo, amarillo y azul",
+      "dialect": null
+    }
+  ],
+  "uuid": "b650ede7-94e0-4b03-a55c-51fb94369c72",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

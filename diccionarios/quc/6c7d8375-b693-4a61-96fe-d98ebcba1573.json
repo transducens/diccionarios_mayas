@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼaqʼoʼtem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tambalearse sin caminar",
+  "definitionDialect": "",
+  "additional_text": "vi Kabʼaaqʼoʼtik",
+  "examples": [
+    {
+      "example_maya": "Li qʼabʼarel takʼalik chema kabʼaqʼoʼtik",
+      "example_spa": "El borracho se tambalea sin estar caminando",
+      "dialect": null
+    }
+  ],
+  "uuid": "6c7d8375-b693-4a61-96fe-d98ebcba1573"
+}

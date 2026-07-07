@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juyuch",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una costura mal hecha",
+  "definitionDialect": "General",
+  "additional_text": "Enu Raíz VT Yuch",
+  "examples": [
+    {
+      "example_maya": "Li ixoq xaq juyuch xuya che li ruq",
+      "example_spa": "La mujer hizo una mala costura a su corte",
+      "dialect": null
+    }
+  ],
+  "uuid": "ea11f2cf-1078-4649-8452-c2b318a3f973"
+}

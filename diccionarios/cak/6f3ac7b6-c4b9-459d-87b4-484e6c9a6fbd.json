@@ -1,0 +1,23 @@
+{
+  "entryWord": "Kenekik",
+  "definition": "Pegajoso, gelatinoso",
+  "additional_text": "AdjD Var Kebʼekïk, kalakik",
+  "examples": [
+    {
+      "example_maya": "Ri qʼol yalan kenekik",
+      "example_spa": "La trementina es muy pegajosa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Achiʼel ri qʼolibʼäl tzakon",
+      "example_spa": "Como el almidón cocido",
+      "dialect": null
+    }
+  ],
+  "uuid": "6f3ac7b6-c4b9-459d-87b4-484e6c9a6fbd",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

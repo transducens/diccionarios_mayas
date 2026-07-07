@@ -1,0 +1,19 @@
+{
+  "entryWord": "Perik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Perico",
+  "definitionDialect": "General",
+  "additional_text": "snP DomS Tzʼikin Perico",
+  "examples": [
+    {
+      "example_maya": "Li perik kakichokonisabʼej li aʼjelesal swer\"t pa taq kʼaybʼal",
+      "example_spa": "Los pericos son usados por los que leen la suerte en los mercados",
+      "dialect": null
+    }
+  ],
+  "uuid": "1874c979-d9e5-4730-81e3-ee2475f51abd"
+}

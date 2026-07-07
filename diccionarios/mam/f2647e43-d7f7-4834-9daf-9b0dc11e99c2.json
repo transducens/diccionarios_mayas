@@ -1,0 +1,18 @@
+{
+  "entryWord": "MOL",
+  "definition": "un fuego (cantidad de leña que se termina al cocer algo) Esta palabra no se usa sola, es necesario anteponerle el número",
+  "additional_text": "md raíz mol md",
+  "examples": [
+    {
+      "example_maya": "Maʼ tzʼokx jun mol tuj nchuja",
+      "example_spa": "Ya eché un fuego en mi baño en el temascal",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "f2647e43-d7f7-4834-9daf-9b0dc11e99c2",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

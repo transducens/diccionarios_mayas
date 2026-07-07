@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼaqʼa tew",
+  "entryWordDialect": null,
+  "altEntryWord": "qʼaqʼa tew",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Escalofrío",
+  "definitionDialect": "General",
+  "additional_text": "SCL Raíz S Qʼaaqʼ Raíz S Teew DomS Yaabʼiil",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xuriq qʼaqʼa tew rumal li jabʼ",
+      "example_spa": "El niño tiene escalofrío por la lluvia",
+      "dialect": null
+    }
+  ],
+  "uuid": "a0d5a554-9235-464c-8607-f25ae89acd69"
+}

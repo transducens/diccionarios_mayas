@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼacheʼl",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Machucado; papel, plantas, sombrero",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz VT Bʼach",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj bʼacheʼl chi li kotzʼiʼj pa kaqan li akʼalabʼ",
+      "example_spa": "Las flores son machucadas por los pies de los niños",
+      "dialect": null
+    }
+  ],
+  "uuid": "387f1438-649d-48d0-bf45-a55cf49385df"
+}

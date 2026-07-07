@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼuqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quetzal",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuqʼuuqʼ Raíz S Qʼuuqʼ DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li qʼuqʼ rax rij kaq li uxeʼ upam",
+      "example_spa": "El Quetzal es de color verde con pecho rojo",
+      "dialect": null
+    }
+  ],
+  "uuid": "51f7fbbc-9ead-46b1-9ef1-04fb7a3bce45"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Waqlajuj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dieciséis",
+  "definitionDialect": "",
+  "additional_text": "NumCard",
+  "examples": [
+    {
+      "example_maya": "Li achih, xutzaq waqlajuj ketzal pa kʼayʼbʼal",
+      "example_spa": "El hombre perdió dieciséis quetzales en el mercado",
+      "dialect": null
+    }
+  ],
+  "uuid": "f9b104f6-ebd6-419f-9eb2-e48b11f0ca77"
+}

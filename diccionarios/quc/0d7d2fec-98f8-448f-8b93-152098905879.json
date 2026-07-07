@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼakoʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Café; ixaco (color de algodón, un poco café); gusano de color café",
+  "definitionDialect": "",
+  "additional_text": "Adj Uqʼaakoʼjaal, xqʼaakoʼjirik DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Kʼo met qʼakoʼj kakaʼyik kabʼan bʼatzʼ chech",
+      "example_spa": "Hay algodón de color café, se usa para hilo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li karson kakikoj li achijabʼ pa taqʼaj qʼakoʼj kakaʼyik",
+      "example_spa": "Los pantalones que usan los hombres en la costa, son de color café claro",
+      "dialect": null
+    }
+  ],
+  "uuid": "0d7d2fec-98f8-448f-8b93-152098905879"
+}

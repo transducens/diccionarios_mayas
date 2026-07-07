@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼok",
+  "entryWordDialect": "scv",
+  "altEntryWord": "Nuchʼok",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sanate",
+  "definitionDialect": "",
+  "additional_text": "scv SCL Amaʼ chʼok Clarinero DomS Tzʼikin",
+  "examples": [
+    {
+      "example_maya": "Li chʼok kakilotz li aj are taq kaʼajir li abʼix",
+      "example_spa": "Los sanates picotean los elotes cuando comienzan a sazonar",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li amaʼ chʼok kebʼixanik are taq kape usaqirik",
+      "example_spa": "Los clarineros cantan cuando está amaneciendo",
+      "dialect": null
+    }
+  ],
+  "uuid": "da0ecabc-00b4-449a-a69e-5003fd28839d"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼaqʼarem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaqʼaqʼarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Calentarse; empezar calentura; empeorarse pleito; propagarse noticia; inflarse parte del cuerpo; salir para alguna parte con urgencia; capturar de inmediato al recibir una orden superior",
+  "definitionDialect": "General",
+  "additional_text": "vi",
+  "examples": [
+    {
+      "example_maya": "Xqʼaqʼar ubʼixik",
+      "example_spa": "Se propagó el anuncio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xqʼaqʼar ri chʼaʼoj",
+      "example_spa": "Se empeoró el asunto",
+      "dialect": null
+    }
+  ],
+  "uuid": "d22baece-9970-4fd4-bf76-2e3155dcd413"
+}

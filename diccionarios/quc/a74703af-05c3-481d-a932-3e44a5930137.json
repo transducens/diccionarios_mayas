@@ -1,0 +1,24 @@
+{
+  "entryWord": "Wokik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Construir",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinwokoh Raíz VT Wok",
+  "examples": [
+    {
+      "example_maya": "Li ajwanil tajin kuwok li jah",
+      "example_spa": "El albañil está construyendo la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "Pa li saman aqʼanoq kʼo jun woʼch kinwokoh",
+      "example_spa": "La próxima semana tengo que construir mi casa",
+      "dialect": null
+    }
+  ],
+  "uuid": "a74703af-05c3-481d-a932-3e44a5930137"
+}

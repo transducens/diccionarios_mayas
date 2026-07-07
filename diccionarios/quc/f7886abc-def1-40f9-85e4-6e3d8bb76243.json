@@ -1,0 +1,19 @@
+{
+  "entryWord": "Setesik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Redondo, como tortilla o plato",
+  "definitionDialect": "",
+  "additional_text": "Adj Sinón Ketekik Raíz PT Set",
+  "examples": [
+    {
+      "example_maya": "Li upowiʼ li achih nima setesik",
+      "example_spa": "El sombrero del hombre es redondo",
+      "dialect": null
+    }
+  ],
+  "uuid": "f7886abc-def1-40f9-85e4-6e3d8bb76243"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Ribʼirik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Panzudo",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz P Ribʼ",
+  "examples": [
+    {
+      "example_maya": "Li akʼalabʼ we kʼo kajiʼt ribʼirik li kipam",
+      "example_spa": "Los niños que tienen lombrices, siempre están panzudos",
+      "dialect": null
+    }
+  ],
+  "uuid": "694ccc24-5fb7-46ee-9b9e-00d9e7213211"
+}

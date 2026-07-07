@@ -1,0 +1,24 @@
+{
+  "entryWord": "Matzʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmatzʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer cosas tostadas; tostar",
+  "definitionDialect": "",
+  "additional_text": "VTR Var Kʼuuxik Raíz VT Matzʼ",
+  "examples": [
+    {
+      "example_maya": "Kinmatzʼ na li chacharon xinloqʼ pa kʼayʼʼbʼal",
+      "example_spa": "Me voy a comer el chicharrón que compré en el mercado",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal kumatzʼ li kaxlaʼn",
+      "example_spa": "El niño se va a comer las habas",
+      "dialect": null
+    }
+  ],
+  "uuid": "b1a69303-1bc8-45ed-a1c1-9fa3e604a1b7"
+}

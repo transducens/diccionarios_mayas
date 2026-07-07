@@ -1,0 +1,19 @@
+{
+  "entryWord": "Yokoʼk",
+  "entryWordDialect": null,
+  "altEntryWord": "Kotoʼt",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Torcido: palo ya cortado, cabeza, un hierro o clavo",
+  "definitionDialect": "",
+  "additional_text": "Adj Var Raíz P Yok",
+  "examples": [
+    {
+      "example_maya": "Li jun raqan lus xuʼon yokoʼk rumal li nima kaqiqʼ",
+      "example_spa": "El poste de la luz quedo muy torcido por el huracán",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3a8d0bd-a030-451c-8472-fb9c3f9e66db"
+}

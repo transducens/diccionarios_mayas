@@ -1,0 +1,24 @@
+{
+  "entryWord": "Bʼuxlajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Brotar sangre o agua",
+  "definitionDialect": "",
+  "additional_text": "VI Kabʼuxlajik",
+  "examples": [
+    {
+      "example_maya": "Li kikʼ xuchapleʼj bʼuxlajem",
+      "example_spa": "La sangre empezó a brotar de la herida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tzʼukel jaʼ xaq staʼq kabʼuxlajik ma xa saqʼij",
+      "example_spa": "El riachuelo apenas brota porque es verano",
+      "dialect": null
+    }
+  ],
+  "uuid": "355fd0ac-a09f-430b-bfc9-a480c5c9f533"
+}

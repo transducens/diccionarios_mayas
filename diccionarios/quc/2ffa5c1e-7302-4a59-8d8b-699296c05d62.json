@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼaqaʼp",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchʼaqaʼp",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Resto",
+  "definitionDialect": "General",
+  "additional_text": "sinv",
+  "examples": [
+    {
+      "example_maya": "Li akʼal xutoʼ kan uchʼaqaʼp rikil are chi kutij pa qʼij",
+      "example_spa": "El niño dejó el resto de comida para el almuerzo",
+      "dialect": null
+    }
+  ],
+  "uuid": "2ffa5c1e-7302-4a59-8d8b-699296c05d62"
+}

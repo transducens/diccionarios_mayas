@@ -1,0 +1,19 @@
+{
+  "entryWord": "Muqmutem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Madrugar; amanecer",
+  "definitionDialect": "",
+  "additional_text": "vi Kamuqmutik Raíz VI Muq",
+  "examples": [
+    {
+      "example_maya": "Kʼa kamuqmutik are taq xinbʼe pa taqʼaj",
+      "example_spa": "Al amanecer, me fui para la costa",
+      "dialect": null
+    }
+  ],
+  "uuid": "fc3e82ef-8013-4b2d-88ee-cd91f4597928"
+}

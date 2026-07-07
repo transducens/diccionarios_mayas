@@ -1,0 +1,28 @@
+{
+  "entryWord": "Tzʼaq",
+  "definition": "Precio, valor",
+  "additional_text": "SInv Intzʼaq, xtzʼaq",
+  "examples": [
+    {
+      "example_maya": "¿Joʼnimal xtzʼaq aakenqʼ?",
+      "example_spa": "¿Cuánto vale tu frijol?",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak xtzʼaq xtzʼaq li jun junq",
+      "example_spa": "Cada cosa tiene su precio",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xterqʼu xtzʼaq li kʼaʼaq re ru",
+      "example_spa": "Todas las cosas se encarecieron",
+      "dialect": null
+    }
+  ],
+  "uuid": "3674861d-f225-48e1-92ff-0d56e5608542",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rismal wachaj",
+  "entryWordDialect": null,
+  "altEntryWord": "Rismal nuwach",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pestañas",
+  "definitionDialect": "",
+  "additional_text": "sRel Sinón Rismal uchii wachaaj",
+  "examples": [
+    {
+      "example_maya": "Li rismal wachaj kuqʼatej puqlaj cheh li wachaj",
+      "example_spa": "Las pestañas resguardan los ojos del polvo",
+      "dialect": null
+    }
+  ],
+  "uuid": "5dcac7c2-98f4-4e90-8072-c3414c1a3204"
+}

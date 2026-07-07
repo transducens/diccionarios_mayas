@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼastajem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼastajik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Despertarse",
+  "definitionDialect": "General",
+  "additional_text": "VI Raiz VT Kʼas",
+  "examples": [
+    {
+      "example_maya": "Sibʼalaj aqʼabʼ kinkʼastaj ronojel qʼij",
+      "example_spa": "Me despierto muy temprano todos los días",
+      "dialect": null
+    }
+  ],
+  "uuid": "7e480b4b-fdce-48e9-babb-8958012c5cdc"
+}

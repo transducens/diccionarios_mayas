@@ -1,0 +1,23 @@
+{
+  "entryWord": "Num",
+  "definition": "Sentir hambre",
+  "additional_text": "vi Yinum Var Wayjaniïk, namïk Hambre",
+  "examples": [
+    {
+      "example_maya": "Yin yisamäj rikʼin ikej, jukumaj yinum",
+      "example_spa": "Yo cuando trabajo con hacha, temprano siento hambre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Yin chanin yinüm pe ri chuxe paqʼij",
+      "example_spa": "A mí luego me da hambre, antes del medio día",
+      "dialect": null
+    }
+  ],
+  "uuid": "0e5a5f54-691a-406d-953f-ffa5544d2f68",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Kotzʼiʼj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Flor; candela; vela; costumbre; placenta",
+  "definitionDialect": "",
+  "additional_text": "sInv Nukootzʼiʼj Kʼii uwach chi kootzʼiʼj tikom chwa jaa Var Siʼj Var Xuʼm",
+  "examples": [
+    {
+      "example_maya": "Kʼi uwach chi kotzʼiʼj tikom chwa ja",
+      "example_spa": "En el patio hay varias clases de flores sembradas",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li winaq kakitzij kikotzʼiʼj pa tyox",
+      "example_spa": "La gente enciende candelas en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5315655-e0de-47dd-8d14-284bd20783fd"
+}

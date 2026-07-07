@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tibʼ wakax",
+  "definition": "Carne de res",
+  "additional_text": "SCL Intibʼ wakax",
+  "examples": [
+    {
+      "example_maya": "Xinloqʼ intibʼ wakax",
+      "example_spa": "Compré carne de res",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Naʼ ma taq kʼam aatibʼ wakax?",
+      "example_spa": "¿Mamá vas a llevar carne de res?",
+      "dialect": null
+    }
+  ],
+  "uuid": "97561fea-cea8-4588-96c1-b2d7f59ec509",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

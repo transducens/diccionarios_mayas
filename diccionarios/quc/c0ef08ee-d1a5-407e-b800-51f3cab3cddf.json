@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼat",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Partícula que indica plural despectivo",
+  "definitionDialect": "General",
+  "additional_text": "Part Coment Plural de jun",
+  "examples": [
+    {
+      "example_maya": "Li qʼat kʼoy e kʼo pa li kikʼolʼbʼal chkop pa Armit, sibʼalaj e kʼih",
+      "example_spa": "Son muchos los monos que están en el zoológico de Guatemala",
+      "dialect": null
+    },
+    {
+      "example_maya": "Qʼat xujut",
+      "example_spa": "Unos gusanos",
+      "dialect": null
+    }
+  ],
+  "uuid": "c0ef08ee-d1a5-407e-b800-51f3cab3cddf"
+}

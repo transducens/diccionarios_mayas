@@ -1,0 +1,19 @@
+{
+  "entryWord": "Chʼabʼexik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinchʼabʼej",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hablar con alguien; visitar",
+  "definitionDialect": "",
+  "additional_text": "vtr",
+  "examples": [
+    {
+      "example_maya": "Chweʼq keʼnchʼabʼej na li yawabʼ",
+      "example_spa": "Mañana voy a visitar al enfermo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ccc73cf8-5a08-4bd7-8a16-b16d42b6dd0e"
+}

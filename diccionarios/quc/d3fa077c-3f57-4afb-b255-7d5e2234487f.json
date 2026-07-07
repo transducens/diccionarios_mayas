@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mebʼaʼil",
+  "entryWordDialect": null,
+  "altEntryWord": "Numebʼaʼil",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Riqueza",
+  "definitionDialect": "",
+  "additional_text": "SInv Fbas //mehbʼaaʼ// Sinón Qʼinomaal",
+  "examples": [
+    {
+      "example_maya": "Li achih sibʼalaj kʼo umebʼaʼil ma kʼo ukej chiʼl uwakax",
+      "example_spa": "El hombre tiene mucha riqueza, porque tiene bestias y bueyes",
+      "dialect": null
+    }
+  ],
+  "uuid": "d3fa077c-3f57-4afb-b255-7d5e2234487f"
+}

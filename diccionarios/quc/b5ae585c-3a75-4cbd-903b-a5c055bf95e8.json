@@ -1,0 +1,19 @@
+{
+  "entryWord": "Oo",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "¡Oh!, exclamación de sorpresa o admiración",
+  "definitionDialect": "Español",
+  "additional_text": "Exp",
+  "examples": [
+    {
+      "example_maya": "Oo, li achih xtzaq chuxe li reqaʼn",
+      "example_spa": "¡Oh!, el hombre se cayó bajo su carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "b5ae585c-3a75-4cbd-903b-a5c055bf95e8"
+}

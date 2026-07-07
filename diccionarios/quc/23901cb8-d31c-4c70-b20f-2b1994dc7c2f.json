@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaqbʼejbʼoj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Planta llena de frutas rojas por madurez, como el café",
+  "definitionDialect": "General",
+  "additional_text": "pc Kaqyikilik Raíz PT Bʼej",
+  "examples": [
+    {
+      "example_maya": "Li juwiʼ kapeh sibʼalaj kaqbʼejbʼoj",
+      "example_spa": "La mata de café está llena de frutas rojas",
+      "dialect": null
+    }
+  ],
+  "uuid": "23901cb8-d31c-4c70-b20f-2b1994dc7c2f"
+}

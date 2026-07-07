@@ -1,0 +1,19 @@
+{
+  "entryWord": "Choʼr",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Estéril",
+  "definitionDialect": "General",
+  "additional_text": "Adj ssp Choʼraal Esterilidad Del Cast Machorra",
+  "examples": [
+    {
+      "example_maya": "Ee kʼo ixoqibʼ xa e choʼr",
+      "example_spa": "Hay mujeres que son estériles",
+      "dialect": null
+    }
+  ],
+  "uuid": "02d47b49-0e03-4e7f-b719-47f9bf500792"
+}

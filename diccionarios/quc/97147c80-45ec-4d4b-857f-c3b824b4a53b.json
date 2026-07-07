@@ -1,0 +1,19 @@
+{
+  "entryWord": "Juqol",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una emparejada",
+  "definitionDialect": "",
+  "additional_text": "Enu Raíz VT Qol",
+  "examples": [
+    {
+      "example_maya": "Li alah xuya juqol che li cheʼ",
+      "example_spa": "El muchacho le dio una emparejada al palo",
+      "dialect": null
+    }
+  ],
+  "uuid": "97147c80-45ec-4d4b-857f-c3b824b4a53b"
+}

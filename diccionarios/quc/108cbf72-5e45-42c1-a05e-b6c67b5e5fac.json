@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kaxlaʼn",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukaxlaʼn",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Haba",
+  "definitionDialect": "",
+  "additional_text": "sinv Kinaqʼ",
+  "examples": [
+    {
+      "example_maya": "Li kaxlaʼn kabʼan rikil cheh, xuq kakʼilixik",
+      "example_spa": "Las habas son sabrosas en la comida",
+      "dialect": null
+    }
+  ],
+  "uuid": "108cbf72-5e45-42c1-a05e-b6c67b5e5fac"
+}

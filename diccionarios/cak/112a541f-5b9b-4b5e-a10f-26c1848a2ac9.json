@@ -1,0 +1,23 @@
+{
+  "entryWord": "Muqunïk",
+  "definition": "Enterrar, sepultar, rellenar",
+  "additional_text": "vt Muquxik (muqik), ninmüq Müq vt",
+  "examples": [
+    {
+      "example_maya": "Jun achin xumüq rumero jun junaʼ",
+      "example_spa": "Un hombre enterró su dinero durante un año",
+      "dialect": null
+    },
+    {
+      "example_maya": "Wakamin ninmüq jun jül chwa wacho",
+      "example_spa": "Hoy voy a rellenar un hoyo en mi patio",
+      "dialect": null
+    }
+  ],
+  "uuid": "112a541f-5b9b-4b5e-a10f-26c1848a2ac9",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

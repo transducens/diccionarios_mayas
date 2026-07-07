@@ -1,0 +1,19 @@
+{
+  "entryWord": "Xaʼxatem",
+  "entryWordDialect": null,
+  "altEntryWord": "Kaxaʼxatik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Tartajear; tartamudear",
+  "definitionDialect": "",
+  "additional_text": "VI Raíz VI Xaʼ",
+  "examples": [
+    {
+      "example_maya": "Ee kʼo winaq xa kaxaʼxat sin kechʼawik",
+      "example_spa": "Hay algunas personas que tartamudean",
+      "dialect": null
+    }
+  ],
+  "uuid": "448a1756-9537-4ac6-ad3d-73aba806332d"
+}

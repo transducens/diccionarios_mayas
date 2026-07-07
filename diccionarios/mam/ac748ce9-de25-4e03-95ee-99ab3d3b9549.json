@@ -1,0 +1,18 @@
+{
+  "entryWord": "TBESIINAL",
+  "definition": "vecindad, vecindario",
+  "additional_text": "sy del español vecindad",
+  "examples": [
+    {
+      "example_maya": "Walan tbesinal ntxʼotxʼa, kye chi opan tiʼj nkojana",
+      "example_spa": "Es muy buena la vecindad de mi terreno, porque saben asustar los pájaros a mi milpa",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "ac748ce9-de25-4e03-95ee-99ab3d3b9549",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

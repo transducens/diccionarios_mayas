@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼirirexik ibʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Echar fuerza al hacer algo",
+  "definitionDialect": "",
+  "additional_text": "VRefl Kinbʼirirej wiibʼ",
+  "examples": [
+    {
+      "example_maya": "Xinbʼirirej wib are taq xinjekʼ li kolobʼ",
+      "example_spa": "Eché fuerzas cuando jalé el lazo",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce14cd18-bd6d-4f31-b2c5-f6cde79169a5"
+}

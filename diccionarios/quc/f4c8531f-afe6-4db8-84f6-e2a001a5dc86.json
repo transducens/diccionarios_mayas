@@ -1,0 +1,19 @@
+{
+  "entryWord": "Charnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Arrastrar los pies",
+  "definitionDialect": "Spanish",
+  "additional_text": "Kacharnajik Raíz P Char",
+  "examples": [
+    {
+      "example_maya": "Li nima achih kacharnaj kabʼinik",
+      "example_spa": "El viejito anda arrastrando los pies",
+      "dialect": null
+    }
+  ],
+  "uuid": "f4c8531f-afe6-4db8-84f6-e2a001a5dc86"
+}

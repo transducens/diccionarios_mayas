@@ -1,0 +1,24 @@
+{
+  "entryWord": "Chʼichʼ",
+  "entryWordDialect": null,
+  "altEntryWord": "Nuchʼichʼ",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hierro; campana; carro; cosa de metal",
+  "definitionDialect": "K'iche'",
+  "additional_text": "SInv SSP =Chʼiichʼaal Repique de campana SCL Chʼiichʼa qʼojoom Xilófono SCL Chʼiichʼa oornoh Caldera SCL Chʼiichʼa tʼuʼy Olla de metal",
+  "examples": [
+    {
+      "example_maya": "Li chʼichʼ kachokon chech wokbʼal taq jastaq",
+      "example_spa": "El hierro se usa para las construcciones",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpe nabʼe uchʼichʼal mis",
+      "example_spa": "Ya tocaron el primer repique de campanas para la misa",
+      "dialect": null
+    }
+  ],
+  "uuid": "54714677-8f9f-42e0-a067-a2eec5911bfc"
+}

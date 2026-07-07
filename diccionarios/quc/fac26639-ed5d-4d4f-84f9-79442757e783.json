@@ -1,0 +1,19 @@
+{
+  "entryWord": "Mulinoh",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Molino",
+  "definitionDialect": "",
+  "additional_text": "scv Numulinoo Var Muliin Del Cast Molino",
+  "examples": [
+    {
+      "example_maya": "Li a Pablo xbʼe chukʼayixik utriko pa li mulinoh",
+      "example_spa": "Pablo fue a vender su trigo al molino",
+      "dialect": null
+    }
+  ],
+  "uuid": "fac26639-ed5d-4d4f-84f9-79442757e783"
+}

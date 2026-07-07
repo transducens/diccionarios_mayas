@@ -1,0 +1,24 @@
+{
+  "entryWord": "Tzʼuʼwem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Machacada como pajas de trigo camagua",
+  "definitionDialect": "",
+  "additional_text": "vi Katzʼuʼwik Raíz VI Tzʼuʼw",
+  "examples": [
+    {
+      "example_maya": "Li trikoh katzʼuʼwik, kʼax ukeʼxik",
+      "example_spa": "El trigo camagua cuesta molerlo",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li chicharon xinloqʼ pa kʼayʼbʼal, xa katzʼuʼwik",
+      "example_spa": "El chicharrón que compré en el mercado está duro, no se puede comer",
+      "dialect": null
+    }
+  ],
+  "uuid": "5d69cbd8-a91c-4a78-b5a0-ab25e793166f"
+}

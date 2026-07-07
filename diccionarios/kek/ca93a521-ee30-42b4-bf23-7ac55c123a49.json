@@ -1,0 +1,18 @@
+{
+  "entryWord": "Keʼlebʼaal",
+  "definition": "Lugar donde se puede moler",
+  "additional_text": "SLoc Inkeʼlebʼaal",
+  "examples": [
+    {
+      "example_maya": "Saʼ li keʼlebʼaal, natʼaneʼ naabʼal li okes",
+      "example_spa": "En el lugar donde se muele, caen muchas goteras",
+      "dialect": null
+    }
+  ],
+  "uuid": "ca93a521-ee30-42b4-bf23-7ac55c123a49",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

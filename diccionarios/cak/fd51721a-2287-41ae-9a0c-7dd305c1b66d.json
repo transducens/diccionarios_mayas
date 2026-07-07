@@ -1,0 +1,23 @@
+{
+  "entryWord": "Xikin mamaʼaj",
+  "definition": "Bisabuelo",
+  "additional_text": "SDS Nuxkin mamaʼ Winäq",
+  "examples": [
+    {
+      "example_maya": "E kʼo xikin täq mamaʼaj ri yalan yekʼaxin",
+      "example_spa": "Hay bisabuelos que regañan mucho",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri nuxkin mamaʼ ja riʼ ri rutataʼ ri numamaʼ",
+      "example_spa": "Mi bisabuelo es el papá de mi abuelo",
+      "dialect": null
+    }
+  ],
+  "uuid": "fd51721a-2287-41ae-9a0c-7dd305c1b66d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

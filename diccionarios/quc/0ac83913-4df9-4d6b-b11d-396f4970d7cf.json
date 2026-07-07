@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jumej",
+  "entryWordDialect": null,
+  "altEntryWord": "Kʼaʼam",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "Kortiʼl",
+  "altEntryWordDialect2": null,
+  "definition": "Media cuerda de terreno",
+  "definitionDialect": "",
+  "additional_text": "Enu",
+  "examples": [
+    {
+      "example_maya": "Li rabʼix li achih xa jumej utikom",
+      "example_spa": "El hombre ha sembrado solamente media cuerda de milpa",
+      "dialect": null
+    }
+  ],
+  "uuid": "0ac83913-4df9-4d6b-b11d-396f4970d7cf"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼasik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkʼasoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pedir fiado; fiar",
+  "definitionDialect": "",
+  "additional_text": "vtr Var Qaajik Raíz vt Kʼas",
+  "examples": [
+    {
+      "example_maya": "Li achih, kʼi jastaq xukʼasoh",
+      "example_spa": "El hombre pidió muchas cosas fiadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "220d759e-0f81-459b-b09b-91a6a47f684d"
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jikak",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Lacandón (personaje legendario que aparece en el baile de la conquista)",
+  "definitionDialect": "",
+  "additional_text": "sInv Nujikaak F Alaj jikaak Ayudante del lacandón Sinón Kaqiiqʼ",
+  "examples": [
+    {
+      "example_maya": "Li jikak are kʼo chukʼisbʼal li cholaj chkech li ajxojolobʼ konkist",
+      "example_spa": "El Lacandón es el último en la fila del baile de la conquista",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li jikak are ukʼexwach kaqiqʼ, xuq ri winaq e kʼo pa uramaj Kʼicheʼ, xuq xchʼoʼjinik",
+      "example_spa": "El Lacandón representa al viento, y a la gente que vivía en la tribu Quiché que también peleó",
+      "dialect": null
+    }
+  ],
+  "uuid": "287ab863-8dbb-413f-978a-4f5cb4fbc4ea"
+}

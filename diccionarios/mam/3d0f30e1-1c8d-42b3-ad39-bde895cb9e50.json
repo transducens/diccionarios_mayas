@@ -1,0 +1,18 @@
+{
+  "entryWord": "PETZL",
+  "definition": "echado: un animal",
+  "additional_text": "p ma kubʼ petzeʼ, ma kubʼ tpetzbʼaʼn raíz petz p",
+  "examples": [
+    {
+      "example_maya": "Ma kubʼ petzeʼ wiẍ twiʼ koẍbʼil",
+      "example_spa": "El gato se echó en la cama",
+      "dialect": "Ixtahuacán"
+    }
+  ],
+  "uuid": "3d0f30e1-1c8d-42b3-ad39-bde895cb9e50",
+  "entryWordDialect": "Ixtahuacán",
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

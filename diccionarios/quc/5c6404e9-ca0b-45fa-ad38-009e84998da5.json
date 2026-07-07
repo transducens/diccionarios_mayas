@@ -1,0 +1,24 @@
+{
+  "entryWord": "Latzʼobʼem",
+  "entryWordDialect": null,
+  "altEntryWord": "latzʼobʼirem",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Apretarse, ponerse apretado",
+  "definitionDialect": "",
+  "additional_text": "vi Kalaatzʼobʼik (kalaatzʼobirik) Raíz P Latzʼ",
+  "examples": [
+    {
+      "example_maya": "Li upa jah xlatzʼobʼirik are taq xbʼan qʼojom",
+      "example_spa": "Cuando empezó la marimba, se apretó la gente en la casa",
+      "dialect": null
+    },
+    {
+      "example_maya": "F Latzʼ nuwach",
+      "example_spa": "Estoy ocupado",
+      "dialect": null
+    }
+  ],
+  "uuid": "5c6404e9-ca0b-45fa-ad38-009e84998da5"
+}

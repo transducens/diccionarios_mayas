@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kolaxik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkolaj",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quitar ropa; desvestir; desnudar",
+  "definitionDialect": "Ant. Koojik. Raíz P. Kol.",
+  "additional_text": "VTD",
+  "examples": [
+    {
+      "example_maya": "Kinkolaj watzʼyaq ma sibʼalaj tzʼil chik",
+      "example_spa": "Voy a quitar la ropa porque está muy sucia",
+      "dialect": null
+    }
+  ],
+  "uuid": "a5c15061-b94b-4e2e-a9ee-1b0668a02716"
+}

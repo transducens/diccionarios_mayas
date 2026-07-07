@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qetelik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Suave al raspar, comida seca, sonido",
+  "definitionDialect": "",
+  "additional_text": "p Xqetiʼk Coment Comida seca en un traste Raíz P Qet",
+  "examples": [
+    {
+      "example_maya": "Li bʼoʼj xuchʼaj li al Mariʼy qetelik",
+      "example_spa": "María lavó el apaste con facilidad",
+      "dialect": null
+    }
+  ],
+  "uuid": "df84f381-73a5-4db6-8b2f-ff7d89f85ada"
+}

@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jureqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una lamida",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz VT Reqʼ",
+  "examples": [
+    {
+      "example_maya": "Li tzʼiʼ xaq jureqʼ xuya che li rikil kʼo pa li webʼal",
+      "example_spa": "El perro lamió una vez la comida que estaba en el plato",
+      "dialect": null
+    }
+  ],
+  "uuid": "0664a070-ae7b-4d89-a8da-f7d506959418"
+}

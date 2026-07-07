@@ -1,0 +1,19 @@
+{
+  "entryWord": "Murik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinmuruh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Comer cosa tostada (habas o manías)",
+  "definitionDialect": "General",
+  "additional_text": "VTR Raiz VT Mur",
+  "examples": [
+    {
+      "example_maya": "Li alih tajin kumur wotzʼotzʼ puchiʼ",
+      "example_spa": "La muchacha está comiendo tostadas",
+      "dialect": null
+    }
+  ],
+  "uuid": "ce52bafe-f1f2-4c61-bbf3-f68ff03c3450"
+}

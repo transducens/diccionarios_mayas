@@ -1,0 +1,19 @@
+{
+  "entryWord": "Saqliʼloj",
+  "entryWordDialect": null,
+  "altEntryWord": "Usaqliʼal, xsaqliʼarik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "(xsaqliʼiʼk)",
+  "altEntryWordDialect2": null,
+  "definition": "Tibio",
+  "definitionDialect": "General",
+  "additional_text": "Adj Raíz Adj Saq Raíz Adj Liʼ",
+  "examples": [
+    {
+      "example_maya": "Li kapeh xaq saqliʼloj",
+      "example_spa": "El café está tibio",
+      "dialect": null
+    }
+  ],
+  "uuid": "86a9741c-acb6-4184-a564-aebeccbd6512"
+}

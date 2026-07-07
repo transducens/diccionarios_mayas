@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼiʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aguantar; moverse por intranquilidad",
+  "definitionDialect": "",
+  "additional_text": "vtr Kinqʼiʼoh Raíz VT Qʼiʼ",
+  "examples": [
+    {
+      "example_maya": "Li weqaʼn na kinqʼiʼ taj",
+      "example_spa": "No aguanto mi carga",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li nukʼulil xaq kinuchʼayoh chema kinqʼiʼoh",
+      "example_spa": "Mi enemigo siempre me pega, pero yo lo aguanto",
+      "dialect": null
+    }
+  ],
+  "uuid": "b474eedb-71a8-4040-8474-3ded471501e3"
+}

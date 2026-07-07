@@ -1,0 +1,24 @@
+{
+  "entryWord": "Sbʼoʼy",
+  "entryWordDialect": null,
+  "altEntryWord": "Nusbʼoʼy",
+  "altEntryWordDialect": null,
+  "altEntryWord2": "(wisbʼoʼy)",
+  "altEntryWordDialect2": null,
+  "definition": "Cebolla",
+  "definitionDialect": "",
+  "additional_text": "sInv DomS Ichaaj Del Cast Cebolla",
+  "examples": [
+    {
+      "example_maya": "Li sbʼoʼy, saq kakaʼy li raʼ, rax li uxaq, kuya ukʼokʼal li rikil",
+      "example_spa": "La cebolla tiene raíz blanca y hojas verdes; da sabor a la comida",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li sbʼoʼy utz cheh kumatz",
+      "example_spa": "La cebolla es buena para los calambres",
+      "dialect": null
+    }
+  ],
+  "uuid": "8cbb126d-ed68-4e10-81dc-a96d4970bf69"
+}

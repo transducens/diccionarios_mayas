@@ -1,0 +1,23 @@
+{
+  "entryWord": "Wara",
+  "definition": "Sueño",
+  "additional_text": "sInv Inwara",
+  "examples": [
+    {
+      "example_maya": "Xinkuy inwara xbʼaan yoʼlenk kamenaq",
+      "example_spa": "Aguanté el sueño por velar al muerto",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ak yo inwara naq naxkʼe wajxaqibʼ oor re li qʼojyin",
+      "example_spa": "Cuando son las ocho de la noche ya tengo sueño",
+      "dialect": null
+    }
+  ],
+  "uuid": "d98fa8a5-08da-42ec-b9ea-c44f9a0d8897",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

@@ -1,0 +1,24 @@
+{
+  "entryWord": "Qʼoʼtz",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Quijada, mandíbula; hongo blanco que crece bajo los pinos; novia (modismo)",
+  "definitionDialect": "",
+  "additional_text": "SInv Nuqʼoʼtz Raíz S Qʼoʼtz DomS Bʼaqilaaj DomS Uxee cheeʼ",
+  "examples": [
+    {
+      "example_maya": "Li qʼoʼtz are li kaslabʼik are taq kawaʼ jun winaq",
+      "example_spa": "La mandíbula, es la que se mueve cuando uno come",
+      "dialect": null
+    },
+    {
+      "example_maya": "We ne xariq jun aqʼoʼtz jawiʼ",
+      "example_spa": "Tal vez encontraste una novia por allí",
+      "dialect": null
+    }
+  ],
+  "uuid": "8fe798aa-e276-4ac3-8c22-007e33c3e772"
+}

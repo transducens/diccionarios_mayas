@@ -1,0 +1,19 @@
+{
+  "entryWord": "Qʼana bʼatzʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Hilo crudo",
+  "definitionDialect": "",
+  "additional_text": "scl Raiz S =Bʼatzʼ Raiz Adj Qʼan",
+  "examples": [
+    {
+      "example_maya": "Li qʼana bʼatzʼ xa tzʼiltzʼoj li atzʼyaq kubʼanoh",
+      "example_spa": "Del hilo crudo salen telas algo sucias",
+      "dialect": null
+    }
+  ],
+  "uuid": "5439d27c-e1db-481f-93d8-bec9a107af81"
+}

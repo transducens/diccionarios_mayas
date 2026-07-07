@@ -1,0 +1,29 @@
+{
+  "entryWord": "Yaʼik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Dar; proporcionar; llevar; poner",
+  "definitionDialect": "",
+  "additional_text": "VTR Kinyaʼoh Raíz VT Yah",
+  "examples": [
+    {
+      "example_maya": "Li achih, karaj kuya pwaq cheh li umokom are xelaqʼax bʼik",
+      "example_spa": "El hombre iba a darle el dinero a su mozo cuando le robaron",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih, kuya li umurun pa li utzʼuʼmal are taq xtzaq chirij raqan",
+      "example_spa": "El hombre iba a poner el machete en su vaina, cuando se le cayó",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li tat nan chwa Dyos keʼkiyaʼa li neʼ pa qasanaʼ",
+      "example_spa": "Los padrinos llevan al nene para bautizarlo",
+      "dialect": null
+    }
+  ],
+  "uuid": "39281979-0544-464c-97a0-e6a4831688ce"
+}

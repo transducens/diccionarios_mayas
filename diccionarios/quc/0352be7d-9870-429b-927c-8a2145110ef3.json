@@ -1,0 +1,19 @@
+{
+  "entryWord": "Rabʼarik",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Largo: río, terreno, casa, telas o mesa; vestido en pantalón (burla)",
+  "definitionDialect": "",
+  "additional_text": "Adj Raiz VT Rabʼ",
+  "examples": [
+    {
+      "example_maya": "Li bʼinel jaʼ jun nima rabʼarik ubʼanom xoʼl li juyubʼ",
+      "example_spa": "El río se ve muy largo entre las montañas",
+      "dialect": null
+    }
+  ],
+  "uuid": "0352be7d-9870-429b-927c-8a2145110ef3"
+}

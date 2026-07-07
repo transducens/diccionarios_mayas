@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuqnajem",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con vestido grande, o morral grande",
+  "definitionDialect": "general",
+  "additional_text": "vi Katuqnajik Tuq",
+  "examples": [
+    {
+      "example_maya": "Katuqnaj jun nima chim putolokʼ li akʼal",
+      "example_spa": "El niño va con un morral grande al costado",
+      "dialect": null
+    }
+  ],
+  "uuid": "c7ccef6e-07bd-421f-92be-6de8c8e7cc1d"
+}

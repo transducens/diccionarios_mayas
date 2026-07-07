@@ -1,0 +1,29 @@
+{
+  "entryWord": "Piʼq",
+  "entryWordDialect": null,
+  "altEntryWord": "Nupiʼq",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Olote; comadreja",
+  "definitionDialect": "",
+  "additional_text": "sInv Sizón Saqbʼiin (comadreja) weasel DomS Chkop",
+  "examples": [
+    {
+      "example_maya": "Li upiʼqal jal are chaqiʼj na chwach li upiʼqal aj",
+      "example_spa": "El olote de la mazorca es más seco que el olote del elote",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li piʼq utz che kaqa pamaj",
+      "example_spa": "El olote es bueno para disentería",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li piʼq kakitij wichʼ",
+      "example_spa": "Las comadrejas comen pollitos",
+      "dialect": null
+    }
+  ],
+  "uuid": "cad037fd-c654-4eab-8d30-1d6bf2067ee5"
+}

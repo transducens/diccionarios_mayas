@@ -1,0 +1,19 @@
+{
+  "entryWord": "Bʼar",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Especie de raíz que se mastica como chicle",
+  "definitionDialect": "",
+  "additional_text": "sInv Nubʼaar",
+  "examples": [
+    {
+      "example_maya": "We bʼar puliw kʼakʼiy wih, kakachʼuxik jacha kachʼ",
+      "example_spa": "Esta raíz crece debajo de la tierra y se mastica como chicle",
+      "dialect": null
+    }
+  ],
+  "uuid": "1c1b3c15-40a7-4d8b-9870-98853839f23c"
+}

@@ -1,0 +1,23 @@
+{
+  "entryWord": "Pimoʼk",
+  "definition": "Enmontarse, encallecer",
+  "additional_text": "vi Xpimoʼ",
+  "examples": [
+    {
+      "example_maya": "Xʼok chi pimoʼk re li bʼe, ak xqʼiil chi aqʼiik",
+      "example_spa": "La orilla del camino comenzó a enmontarse es tiempo ya de limpiarla",
+      "dialect": null
+    },
+    {
+      "example_maya": "Xpimoʼ saʼ wuqʼ chi kʼalek",
+      "example_spa": "Se encalleció mi mano por trabajar en el monte",
+      "dialect": null
+    }
+  ],
+  "uuid": "e93ee1e7-a71f-4942-bf31-f09ce8fe90ee",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

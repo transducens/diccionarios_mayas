@@ -1,0 +1,23 @@
+{
+  "entryWord": "Tʼaqtʼaq",
+  "definition": "Empapado, mojado",
+  "additional_text": "Adj Xtʼaqtʼaqoʼ, xtʼaqtʼaqil",
+  "examples": [
+    {
+      "example_maya": "Inkʼaʼ sa nakʼat li siʼ naq tʼaqtʼaq",
+      "example_spa": "La leña no arde cuando está empapada",
+      "dialect": null
+    },
+    {
+      "example_maya": "Tʼaqtʼaq ru li bʼe inkʼaʼ nataqeʼ li chʼiichʼ",
+      "example_spa": "El camino está mojado, no sube el carro",
+      "dialect": null
+    }
+  ],
+  "uuid": "8367a574-0710-4307-8bbc-6f12d4108218",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

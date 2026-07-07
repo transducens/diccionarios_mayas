@@ -1,0 +1,29 @@
+{
+  "entryWord": "Kochʼik",
+  "entryWordDialect": null,
+  "altEntryWord": "Kinkochʼoh",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Aguantar dolor, burlas o trabajo; sufrir; endurecer",
+  "definitionDialect": "Raíz VT. Koch'.",
+  "additional_text": "VTR VTD Kochʼochʼexik Aguantar mucho",
+  "examples": [
+    {
+      "example_maya": "Li ukochʼik numik sibʼalaj kʼax",
+      "example_spa": "Es muy duro aguantar hambre",
+      "dialect": null
+    },
+    {
+      "example_maya": "Kinkochʼoh, we kakoj jun toqʼoj chweh",
+      "example_spa": "Voy a aguantar si me ponen una inyección",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li achih xukochʼochʼej li eqaʼn",
+      "example_spa": "El hombre aguantó con la carga",
+      "dialect": null
+    }
+  ],
+  "uuid": "0bb60ab0-1668-4504-8c5f-76c550395893"
+}

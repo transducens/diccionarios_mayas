@@ -1,0 +1,23 @@
+{
+  "entryWord": "Bʼiʼaj",
+  "definition": "Nombre, sustantivo",
+  "additional_text": "scs Nubʼiʼ",
+  "examples": [
+    {
+      "example_maya": "Konojel ri winäq chwara chʼulew kʼo jun kibʼiʼ",
+      "example_spa": "Todas las personas del mundo tienen un nombre",
+      "dialect": null
+    },
+    {
+      "example_maya": "¿Chke abʼiʼ? Waykan nubʼiʼ",
+      "example_spa": "¿Cómo se llama? me llamo Waycan",
+      "dialect": null
+    }
+  ],
+  "uuid": "edc0fad9-41a2-4eec-9c28-fd4d5acc2eca",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

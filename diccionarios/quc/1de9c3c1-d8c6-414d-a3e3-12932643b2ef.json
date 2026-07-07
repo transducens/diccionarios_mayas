@@ -1,0 +1,19 @@
+{
+  "entryWord": "Tuquʼpem",
+  "entryWordDialect": null,
+  "altEntryWord": "Katuquʼpik",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Andar con vestido o morral grande",
+  "definitionDialect": "",
+  "additional_text": "vi Raíz PT Tuq",
+  "examples": [
+    {
+      "example_maya": "Li akʼal katuquʼp pa jun nima kuchyaʼt",
+      "example_spa": "El niño anda con un saco grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "1de9c3c1-d8c6-414d-a3e3-12932643b2ef"
+}

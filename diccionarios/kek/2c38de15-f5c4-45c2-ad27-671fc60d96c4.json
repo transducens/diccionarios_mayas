@@ -1,0 +1,23 @@
+{
+  "entryWord": "Chʼiil",
+  "definition": "Regaño",
+  "additional_text": "sInv Inchʼiil",
+  "examples": [
+    {
+      "example_maya": "Kʼajoʼ li chʼiil saʼ rochochebʼ li echkabʼal",
+      "example_spa": "Hay muchos regaños en la casa de los vecinos",
+      "dialect": null
+    },
+    {
+      "example_maya": "Chʼiil re ru",
+      "example_spa": "Persona regañada",
+      "dialect": null
+    }
+  ],
+  "uuid": "2c38de15-f5c4-45c2-ad27-671fc60d96c4",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

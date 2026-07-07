@@ -1,0 +1,24 @@
+{
+  "entryWord": "Xujut",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Gusano; lombriz",
+  "definitionDialect": "",
+  "additional_text": "SCV Nuxujuut",
+  "examples": [
+    {
+      "example_maya": "Li xujut kʼih kiwach xuq chij taq qʼayes kekʼojiʼ wih",
+      "example_spa": "Los gusanos son de muchas clases y viven en los zacates",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li akʼal xekunax uxujut rumal li kunanel",
+      "example_spa": "El niño fue curado de las lombrices por el doctor",
+      "dialect": null
+    }
+  ],
+  "uuid": "a3cfb5d5-0763-4cdb-9bbc-1ef628a5a006"
+}

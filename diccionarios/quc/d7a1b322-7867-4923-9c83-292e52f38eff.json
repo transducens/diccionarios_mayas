@@ -1,0 +1,19 @@
+{
+  "entryWord": "Uxikʼ qʼuqʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Pluma de quetzal",
+  "definitionDialect": "general",
+  "additional_text": "sds Raiz S Xikʼ Raiz S Qʼuuqʼ",
+  "examples": [
+    {
+      "example_maya": "Li uxikʼ qʼuqʼ sibʼalaj rax kakaʼyik",
+      "example_spa": "Las plumas del quetzal son muy verdes",
+      "dialect": null
+    }
+  ],
+  "uuid": "d7a1b322-7867-4923-9c83-292e52f38eff"
+}

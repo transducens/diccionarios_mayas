@@ -1,0 +1,24 @@
+{
+  "entryWord": "Jutʼoyaj",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Alguna cosa que se pueda moldear, como masa, cera, cebo, etc",
+  "definitionDialect": "",
+  "additional_text": "Enu Raiz PT Tʼoy",
+  "examples": [
+    {
+      "example_maya": "Li achih, katajin kukʼayij jutʼoyaj serah",
+      "example_spa": "El hombre está vendiendo una bola de cera",
+      "dialect": null
+    },
+    {
+      "example_maya": "Li uqʼeq li ixoq xuloqʼoh, si jutʼoyaj",
+      "example_spa": "La mujer compró una bola de jabón grande",
+      "dialect": null
+    }
+  ],
+  "uuid": "62de5024-f5c5-4e5b-a010-dc275c69062e"
+}

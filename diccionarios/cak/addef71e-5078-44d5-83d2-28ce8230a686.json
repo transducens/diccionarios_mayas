@@ -1,0 +1,23 @@
+{
+  "entryWord": "Mayey",
+  "definition": "Maguey",
+  "additional_text": "SInv Numayey Kʼan",
+  "examples": [
+    {
+      "example_maya": "Kʼo mayey ri kʼo rukʼixal chuqa kʼo ri manäq",
+      "example_spa": "Hay maguey con espinas y hay otro que no tiene",
+      "dialect": null
+    },
+    {
+      "example_maya": "Ri mayey nibʼan rutzil richin saqkiy",
+      "example_spa": "El maguey se arregla para sacar el ixtle (fibra)",
+      "dialect": null
+    }
+  ],
+  "uuid": "addef71e-5078-44d5-83d2-28ce8230a686",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

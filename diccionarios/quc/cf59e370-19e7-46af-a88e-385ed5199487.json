@@ -1,0 +1,19 @@
+{
+  "entryWord": "Kʼexbʼal",
+  "entryWordDialect": null,
+  "altEntryWord": "Nukʼexbʼal",
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Sencillo (dinero en monedas o billetes de poco valor)",
+  "definitionDialect": "",
+  "additional_text": "scv Kʼex",
+  "examples": [
+    {
+      "example_maya": "Li achih xuya nukʼexbʼal, are taq xinta cheh",
+      "example_spa": "El hombre me dio sencillo cuando le pedí",
+      "dialect": null
+    }
+  ],
+  "uuid": "cf59e370-19e7-46af-a88e-385ed5199487"
+}

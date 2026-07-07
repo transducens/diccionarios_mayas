@@ -1,0 +1,18 @@
+{
+  "entryWord": "Taqkil",
+  "definition": "Servicio que prestan los cofrades en la iglesia",
+  "additional_text": "sInv Nutaqkil",
+  "examples": [
+    {
+      "example_maya": "Kʼo achiʼaʼ kan kʼa e akʼwalaʼ taq nkibʼän kitaqkil",
+      "example_spa": "Hay hombres que todavía son jóvenes cuando prestan su servicio en la iglesia",
+      "dialect": null
+    }
+  ],
+  "uuid": "37c766fa-861a-4b3e-a0cb-4fc4b29dcf4d",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null
+}

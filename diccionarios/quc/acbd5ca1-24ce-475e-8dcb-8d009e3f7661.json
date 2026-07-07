@@ -1,0 +1,19 @@
+{
+  "entryWord": "Jurubʼ",
+  "entryWordDialect": null,
+  "altEntryWord": null,
+  "altEntryWordDialect": null,
+  "altEntryWord2": null,
+  "altEntryWordDialect2": null,
+  "definition": "Una lavada; una remojada",
+  "definitionDialect": "general",
+  "additional_text": "Enu Raíz PT Rubʼ",
+  "examples": [
+    {
+      "example_maya": "Li alih xaq jurubʼ xuya che li suʼt",
+      "example_spa": "La muchacha sólo le dio una lavada al sute",
+      "dialect": null
+    }
+  ],
+  "uuid": "acbd5ca1-24ce-475e-8dcb-8d009e3f7661"
+}
